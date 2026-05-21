@@ -1,0 +1,61 @@
+<Entry xml:id="cerpati">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerpati</orth>
+    <lemma>cerpati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>Дубр</ref>.) црепати</orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crepati</ref> черпать</orth>
+      </form>
+      <sense>
+        <def>, жадно пить, хлебать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>черепати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. PI др., Срезнев­ ский III, 1501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>черепати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби. 24)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (имперфективирующая тематизация) от <ref type="etymon" target="cerpti">*cerpti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

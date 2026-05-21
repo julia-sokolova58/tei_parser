@@ -1,0 +1,37 @@
+<Entry xml:id="6styni">
+  <pb n="106" end_page="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>6§styni</orth>
+    <lemma>6§styni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>частыми</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Шест., Срезневский III, 1476; имЪю же и листвию частынею крыюще 00 рамдньныхъ древъ. хранАщи ча х свои. Пал. 1406, л. 5 в. Кар­ тотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>частыня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>относительно леса- густой лес , возм., сюда же преобразованное на­ стыль сторона гребня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 340)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уездного череповец­ кого говора 78)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -yni от прилаг.<xr type="compare">см. <ref type="etymon" target="6stb">*6$stb</ref>
+    </xr>.</note>
+</Entry>

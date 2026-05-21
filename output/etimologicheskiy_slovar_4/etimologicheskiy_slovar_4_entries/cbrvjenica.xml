@@ -1,0 +1,101 @@
+<Entry xml:id="cbrvjenica">
+  <pb n="167" end_page="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrv(j)enica</orth>
+    <lemma>cbrv(j)enica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црвеница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>краснозем, краснота, покрас­ нение, краснуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>црвеница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mi6. 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crljenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>порода красных яблок, слив</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cervenice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>красно­ зем, вид ивы, ворт кравных слив, груш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Servenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рыба Scardinius erythrophthalrnus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрееница</ref>, чрьвеница</orth>
+      </form>
+      <sense>
+        <def>драгоценная ткань; одежда из драгоценной ткани</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иез. XXIII, Срезневский III, 1555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>червенйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Pyrochroa coccinea, род красной глины , также чевёрниця , червенйца красный суглинок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх., Гринченко IV, 453)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вх., Гринченко IV, 449)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзендзел1вський. Сшьськогосподарська лексика говор1в Закарпаття. «Studia slavica» X, 1964, 37)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="sgiep">*съги(])епъ</ref> 
+(см.), ж. р. 
+<ref type="etymon" target="cbrvjjena">*cbrvjjena</ref>; 
+субстантивация последнего.</gram>
+  </gramGrp>
+</Entry>

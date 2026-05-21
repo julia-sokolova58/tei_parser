@@ -1,0 +1,124 @@
+<Entry xml:id="cbrtati">
+  <pb n="161" end_page="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrtati</orth>
+    <lemma>cbrtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чрАТЛти</ref> xapaxxeiv, incidere</orth>
+      </form>
+      <sense>
+        <def>царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чертая</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить, рисовать , также чъртая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црта</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить, рисовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crtati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить, проводить линии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 850)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eftati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кор­ чевать, делать надрезы, зарубки, царапать, рисовать, чертить, черкать , сюда же efkati царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114—115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>cortati</ref> se — cohljati se</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dertati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crtaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>чертати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>писать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю закарпатской литературы XVI—XVII вв. Будапешт, 1965, 440, микрофильм)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (итератив-дуратив), производный от <ref type="etymon" target="bna">*бьНа</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

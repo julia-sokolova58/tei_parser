@@ -1,0 +1,43 @@
+<Entry xml:id="gajatiII">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajati II</orth>
+    <lemma>gajati II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гашш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 511; Из ка­ бака идетъ невЪжа, — шумитъ, гаетъ, | Молоду жену невежа выкликаетъ... В.Н.П.т. И. — Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гаять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зевать , откры­ вать рот (олон., яросл., волог.), говорить (ворон.), кричать, шу­ меть (ворон.) , бранить, ругать , гаять гнать зверя криком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре севера Пошехоно-Володар- ского уезда Ярославской губернии 100; Мельниченко 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских дон­ ских говоров 1, 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно др.-инд. gayati, gati 'петь', см. Berneker I, 291; Mayrhofer I, 334; Kurylowicz. Indogermanische Grammatik II, 218.</note>
+</Entry>

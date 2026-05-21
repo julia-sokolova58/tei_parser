@@ -1,0 +1,138 @@
+<Entry xml:id="cetyriSbta">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetyri Sbta</orth>
+    <lemma>cetyri Sbta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cetiri</ref> sta, cetrsta, числ.</orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>stiristo</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. II, 646)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctyfi</ref> sta</orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>styristo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ IV, 469)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czte</ref>- rysta</orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>четыриста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четыре сотни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1173 г. и др., Срезневский III, 1514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четыреста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>число 400</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чотйргста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чатырыста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четыреста,.—Сюда примыкают</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чётиристотин</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>четыреста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чётиристотин</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>четиристотини</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание числ.<ref type="etymon" target="cetyre">*cetyre</ref> (см.) и им.-вин. п. мн. ч. от s^o (см.).</gram>
+  </gramGrp>
+  <note>И.-е. модель, ср. лит. keturl simtal 'четыреста'.</note>
+</Entry>

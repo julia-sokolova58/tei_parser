@@ -1,0 +1,56 @@
+<Entry xml:id="bycati">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bycati</orth>
+    <lemma>bycati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. диал, <ref>бича</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь; рычать (Георгиев), ударять, толкать, валить, наваливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>byceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, мы­ чать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>byczed</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бинчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, жужжать?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. происхождения, ср.<ref type="etymon" target="uk">*Ьукъ</ref>, 
+<ref type="etymon" target="bucati">*bucati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

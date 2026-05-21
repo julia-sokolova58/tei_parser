@@ -1,0 +1,22 @@
+<Entry xml:id="dibeti">
+  <pb n="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dibĕti</orth>
+    <lemma>dibĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ziVeu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрипнуть, охрипнуть, осипнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -eti, близкий лтш. dibet 'греметь'; праслав. лексический диалектизм. См. О. Н. Трубачев «Славянское языкознание. V Международный съезд славистов» (М., 1963) 187.</note>
+</Entry>

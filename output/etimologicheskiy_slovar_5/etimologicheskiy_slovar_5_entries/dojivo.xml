@@ -1,0 +1,107 @@
+<Entry xml:id="dojivo">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojivo</orth>
+    <lemma>dojivo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddjueo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>кормление (с помощью кормилицы), удой, надой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dojivo</ref>, dojivo ср. р.</orth>
+      </form>
+      <sense>
+        <def>дойка, доение , сюда же dojva ж. р. доенье, дойка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dojivo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>удой, надой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1581 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dojivo</ref> ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dojivo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молоко во всех видах , dojivo ср. р. молоко , dojivo ср. p. надоенное молоко , doivo ср. p. молоко и молочные продукты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Sfov. slavk.- bucov. 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dojivo</ref> ср.</orth>
+      </form>
+      <sense>
+        <def>надоенное молоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dejwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>количество молока, полученное от одной дойки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>diueo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>удой (Ромен, у. Полт. г.), молоко, молочные продукты (Екатер. г.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 390)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. ~(i)vo от гл.<ref type="etymon" target="dojiti-5">*dojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

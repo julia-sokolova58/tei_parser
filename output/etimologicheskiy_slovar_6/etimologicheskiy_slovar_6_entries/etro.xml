@@ -1,0 +1,225 @@
+<Entry xml:id="etro">
+  <pb n="72" end_page="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ętro</orth>
+    <lemma>ętro</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ятрб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>печень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jempa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>печень (в Дубровнике), также jempa мн. ч</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 748)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jetra</ref> ср. р. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>печень, также crna jetra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jdtry</ref> мн. ч.</orth>
+      </form>
+      <sense>
+        <def>печень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jdtra</ref> ср. р. мн.</orth>
+      </form>
+      <sense>
+        <def>печень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jdtra</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jed sem jdtru. iulV je v jatfe. BartoS. Slov. 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jatrd</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jatra</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>печень , сюда же jetro ср. p. оспинка, ру­ бец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PfuhJ 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jetSa</ref> ср. p. мн.</orth>
+      </form>
+      <sense>
+        <def>печень и легкое , jetso ср. p. гной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 550)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jgtra</ref> ср. р. мн.</orth>
+      </form>
+      <sense>
+        <def>печень %</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 76, с реконструкцией *j$tra)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jltfa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гной , jautre ср. p. гнойник, нарыв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 399)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хшро</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>печень (Пат. Син. XI в.), внутренности , хлтра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мн.; Библ. 1499 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1673)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вид'Ьхъ мужа влезъша ко мъне и гла чимь болиши и рЪхъ оутроба мд болить. и показахъ гему. он же пьрсты свои оуправль. и прорезавъ мЪсто гако ножемь и истьргъ гатра мои. Прол. 1383 г. л. 78 г. Карто­ тека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ятрб</ref> ср. р., ятра мн.</orth>
+      </form>
+      <sense>
+        <def>внутренности, ядра, яйца, шулята</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1587)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ятра</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яйца . — Ср., возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ставроп., Вяч. Водарский. Список некоторых областных слов. — РФВ LXVIII, 1912, 406)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ветргдх</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ру­ бец из рогатой скотины, кутырь, требушина, брюховина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Даль 3 I, 460)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *$tro восходит к и.-е.<xr type="compare">ср. <ref type="etymon" target="entro-m">*entro-m</ref>
+    </xr> р., где *еп — пред­
+лог-приставка 'в', a -tr 
+формант с пространственно-компаратив­
+ной функцией, ср. прежде всего др.-инд. antrdm 'внутренности', 
+далее — арм. dnderk? мн. ч. то же, греч. svxepa мн. то же. Связано
+*etbm.jb 
+чередованием гласных с праслав.  р., где *еп — пред­
+лог-приставка 'в', a -tr 
+формант с пространственно-компаратив­
+ной функцией, ср. прежде всего др.-инд. antrdm 'внутренности', 
+далее — арм. dnderk? мн. ч. то же, греч. svxepa мн. то же. Связано
+*etbm.jb 
+чередованием гласных с праслав.  р., где *еп — пред­
+лог-приставка 'в', a -tr 
+формант с пространственно-компаратив­
+ной функцией, ср. прежде всего др.-инд. antrdm 'внутренности', 
+далее — арм. dnderk? мн. ч. то же, греч. svxepa мн. то же. Связано
+*etbm.jb 
+чередованием гласных с праслав.  р., где *еп — пред­
+лог-приставка 'в', a -tr 
+формант с пространственно-компаратив­
+ной функцией, ср. прежде всего др.-инд. antrdm 'внутренности', 
+далее — арм. dnderk? мн. ч. то же, греч. svxepa мн. то же. Связано
+*etbm.jb 
+чередованием гласных с праслав. <xr type="compare">см. <ref type="etymon" target="g">*^гь</ref>
+    </xr>. См. Berneker I, 269; 
+Рокоту 
+I, 313—314; Mayrhofer 
+I, 36; Фасмер IV, 568—569; 
+F. Bezlaj JiS XVI, 1970—1971, 161.. См. Berneker I, 269; 
+Рокоту 
+I, 313—314; Mayrhofer 
+I, 36; Фасмер IV, 568—569; 
+F. Bezlaj JiS XVI, 1970—1971, 161.. См. Berneker I, 269; 
+Рокоту 
+I, 313—314; Mayrhofer 
+I, 36; Фасмер IV, 568—569; 
+F. Bezlaj JiS XVI, 1970—1971, 161.. См. Berneker I, 269; 
+Рокоту 
+I, 313—314; Mayrhofer 
+I, 36; Фасмер IV, 568—569; 
+F. Bezlaj JiS XVI, 1970—1971, 161.</note>
+</Entry>

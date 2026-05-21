@@ -1,0 +1,42 @@
+<Entry xml:id="grqzsnbjb">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqzsnbjb</orth>
+    <lemma>grqzsnbjb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqzsna</orth>
+    <lemma>grqzsna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>груснбй</ref>, -ая, -бе</orth>
+      </form>
+      <sense>
+        <def>усыпанный цве­ тами или ягодами , грусна ж. р. место среди тундры, богатое ягодами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -snb/sna от основы<ref type="etymon" target="grqziti">*grqziti</ref>, 
+<ref type="etymon" target="grqznqtiy">*grqznqtiy</ref>
+      <ref type="etymon" target="grqzb">*grqzb</ref> 
+(см. s. vv.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 464. Впрочем, не исключена реконструкция *grqd-sn- / *grud-sn- и этимология от *grqda \<xr type="compare">см. <ref type="etymon" target="grada">*grada</ref>
+    </xr>, ср. словин. gfqd 
+'место в лесу, 
+изобилующее грибами или 
+ягодами' (Sychta I, 370), русск. диал. груд 
+'куча, груда', 'мно­
+жество' (Деулинский словарь 128). 
+См. Ж. Ж. Варбот «Древне-
+русск. язык. Лексикология и лексикография» (М., 1980).</note>
+</Entry>

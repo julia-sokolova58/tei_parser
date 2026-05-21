@@ -1,0 +1,108 @@
+<Entry xml:id="bratbCb">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratbCb</orth>
+    <lemma>bratbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>братец</ref> м. р., ум. от брат</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>братец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>братец</ref> м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>братец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bratac</ref>, род. п. Ъгаса, м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>братец , братац, братац , также браца, браца, род. п. -ё</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., R J A I, 598)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 112—ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA II, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdtec</ref>, род. п. -tea, м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>братец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bratec</ref>, род. п. -tee, м. р . , ум. от brat, елвц. поэт, bratec, род. п. -tea, м. р.</orth>
+      </form>
+      <sense>
+        <def>брат, братец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>brotac</ref> м. р . , ум.</orth>
+      </form>
+      <sense>
+        <def>братец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>братец</ref>, род. п. -тца, м. р., ум.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братецъ</ref>, род. п. -тця, м. р., ум. от брат .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф:<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от *6гаčъ (см.), ср. аналогичное 
+<ref type="etymon" target="ga">*Ьга</ref>№ъсъ (см.).</gram>
+  </gramGrp>
+</Entry>

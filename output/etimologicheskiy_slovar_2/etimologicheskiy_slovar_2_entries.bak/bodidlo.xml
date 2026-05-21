@@ -1,0 +1,104 @@
+<Entry xml:id="bodidlo">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodidlo</orth>
+    <lemma>bodidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бодало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>терн, колючка, шип</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бодило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>шило, острие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bodilo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>stimulus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>шип, колючка; шило, колющее оружие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бодйло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рогатина, ратовище с копьем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадзгла</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рог коровы, то, что бодается . — Ср. производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бодилка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бодилица</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Cirsium acaule</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-fijdlo</ref>
+      </m> 
+от гл. <ref type="etymon" target="bodg-6">*bodg</ref>, <ref type="etymon" target="bosti-9">*bosti</ref> (см.), точнее — 
+от незасвидетельствованной основы на -Ш.</gram>
+  </gramGrp>
+</Entry>

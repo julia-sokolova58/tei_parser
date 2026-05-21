@@ -1,0 +1,71 @@
+<Entry xml:id="cetvbrgb">
+  <pb n="94" end_page="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetvbrgb</orth>
+    <lemma>cetvbrgb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>четвъргъ</ref>, четвергъ, четверкъ</orth>
+      </form>
+      <sense>
+        <def>четвертый день недели после воскресенья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1288 г. и др., Срезневский III, 1508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четверг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>название одного из дней семидневной недели, четвертого после воскресенья</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>четверик</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>четвёр</ref>, род. п. -рга, м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 460)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>четвёр</ref>, чёцверъ, род. п. -рга, м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 698)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>В количестве гласного -ъг-<ref type="etymon" target="cetvbrgb">*cetvbrgb</ref> тождественно числ. порядк. 
+<ref type="etymon" target="cetvbrtbjb">*cetvbrtb(jb)</ref> 
+(см.), ср. также субстантивацию <ref type="etymon" target="se">*се</ref>№ъНъкъ (см.), 
+почему высказывалось мнение, что <ref type="etymon" target="cetvbrgb">*cetvbrgb</ref> вторично преобразо­
+вано из <ref type="etymon" target="cetvbrtbkb">*cetvbrtbkb</ref> 
+(литературу см. у Фасмера, ниже).</gram>
+  </gramGrp>
+  <note>Однако ранний характер др.-русск. свидетельства (см. выше), а также соответствие лит. ketvergis 'четырехгодовалый', ketverge 'двадцати­ копеечная монета', собственно — 'четыре пятака', как будто по­ казывают оригинальность образования слав, слова. Впрочем, пол­ ное соответствие здесь ограничивается только формантом -g-, остальные отношения лит. и слав, слов нуждаются в комментиро­ вании, ср. прежде всего несоответствие вокализма слога -ьг-\ лит. -ег- и интонации лит. акута ketvergis: русск. четверг, род. п. четверга (краткая подвижная парадигма). Можно говорить, далее, о большей архаичности знач. лит. слов сравнительно со слав., где знач. 'четвертый день недели по христианскому календарю' сменило, надо полагать, какое-то более древнее знач. См. Berneker I, 153; Brugmann. Grundri|3 2 II, 1, 513; К. Буга РФВ LXX, 1913, 103; Fraenkel I, 248; Фасмер IV, 351.</note>
+</Entry>

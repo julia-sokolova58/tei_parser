@@ -1,0 +1,75 @@
+<Entry xml:id="balam9tbnbjb">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>balam9tbnbjb</orth>
+    <lemma>balam9tbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>balamutny</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>лживый, обманчивый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>balamutny</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>batamqtny</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бала</ref>­ мутный прилаг.</orth>
+      </form>
+      <sense>
+        <def>болтающий пустяки, любящий сплетни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кули­ ковский 3)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>баламутный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбивающий с толку, обманчи­ вый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1598 г., Тимченко I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>баламутный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мутный, нечистый (о жидкостях), непокойный, тревожащий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 24)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. производное с суфф. -ъп- от основы balamqt- (см.<ref type="etymon" target="balamotal">*balamotal</ref>
+      <ref type="etymon" target="balamofo">*balamofo</ref>, 
+<ref type="etymon" target="balamgtiti">*balamgtiti</ref>, 
+где подробно об этимологии). 
+<ref type="etymon" target="a1ats">*Ьа1атъсь</ref>,</gram>
+  </gramGrp>
+</Entry>

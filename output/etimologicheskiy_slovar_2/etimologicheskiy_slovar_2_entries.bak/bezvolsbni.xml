@@ -1,0 +1,23 @@
+<Entry xml:id="bezvolsbni">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvolsbni</orth>
+    <lemma>bezvolsbni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безвласан</ref>, -сна, -сно</orth>
+      </form>
+      <sense>
+        <def>безволосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 392)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., вторичное производное с суфф. -ъп- от сложного прилаг.<ref type="etymon" target="bezvolsb">*bezvolsb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

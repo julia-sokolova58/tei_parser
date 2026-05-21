@@ -1,0 +1,113 @@
+<Entry xml:id="drezdzati">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕždžati</orth>
+    <lemma>drĕždžati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрёждж</ref>\ дрежди като конь на праздны гаслы</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрёжда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стоять и дрожать , дрежди стоять неподвижно и дрожать под холодным дождем , дреждйм стоять, торчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрежди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>томиться в ожидании</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drezdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>напряженно ждать , дрожать, трястись, сотрясать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 772)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drezati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стоять без дела, подстере­ гать, поджидать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dfezdeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>таращиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott^I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрЪжатисм</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Дажь же, Ги Ис Хе, оставлению всякой дши дрЪжющися, иде же аще мо­ литва си ре^на боудеть. Жит. Ниф. XIII в. 83, Срезневский I, 736)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрезжатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоедать дребезжаньем, быть на- прасливым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Даль 3 I, 1222)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ей</ref>
+      </m>, производный от <ref type="etymon" target="drezga">*drezga</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,86 @@
+<Entry xml:id="bergula">
+  <pb n="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bergul'a</orth>
+    <lemma>bergul'a</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bergulica</orth>
+    <lemma>bergulica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bregu</ref>\a ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид ласточки: Merops apiaster L., Hirundo apus L . , брегул&gt;ица ж. p. с т р и ж , береговая ласточка , брёгула ж. p . c A l c e d o ispida</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 622)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bregdlja</ref> ж. р. с с т р и ж</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfehule</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береговая ласточка, стриж Cotyle riparia</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brehuVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стриж, береговая ласточка Kiparia riparia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>берегулиця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стриж Cotyle riparia; трясогузка Motacilla alba . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брегуница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>с т р и ж Riparia riparia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 141; R J A I, 622: с X V I I в., впервые — в словаре Микали)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-иГа</ref>
+      </m> и-ul-ica от <ref type="etymon" target="bergb">*bergb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Береговая ласточка и некоторые другие виды птиц были названы так за обыкновение селиться в мягких прибрежных обрывах рек и озер. Ср. сходные наименования — нем. Uferschwalbe, лат. {hirundo) riparia, собственно — 'береговая ласточка', хотя видеть в слав, названиях кальку с этих нем. и лат. слов, возм., необязательно.</note>
+</Entry>

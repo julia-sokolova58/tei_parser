@@ -1,0 +1,49 @@
+<Entry xml:id="bezplemenbivbjb">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezplemenbivbjb</orth>
+    <lemma>bezplemenbivbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bezplemienny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессемейный, безрод­ ный, бездетный, одинокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бесплемённый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого ни рода, ни племени; безродный, одинокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безплемшний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безродный, без племени, беспотомствен­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-72">*bez</ref> 
+(см.) и суфф. -ъп- от основы на согласный <ref type="etymon" target="plemen-">*plemen-</ref> (см. <ref type="etymon" target="r1egshch">*р1егщ)</ref>.</gram>
+  </gramGrp>
+</Entry>

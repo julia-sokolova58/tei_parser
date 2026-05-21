@@ -1,0 +1,215 @@
+<Entry xml:id="darb">
+  <pb n="191" end_page="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darb</orth>
+    <lemma>darb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дл</ref>^ъ Soaig, S&amp;pov, Scopea, x^P^» datio, donum, gratia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gynp., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дар</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подарок (с. Величково, Пазардж. окр. Дип. раб., Арх. Соф. ун-та), дарове мн. приданое , дари мн. подарки невесты близким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев— Близнев БД III, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 297; Горов. Страндж. БД I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подарок, дар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddp</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок, дари мн. подарки невесты свадебным гостям</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ddp</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пода­ рок, приданое невесты (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dor</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, пода­ рок, приношение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dar</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dar</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 231—232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dar</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dar</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dar</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок, приношение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 23—24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dar</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>даръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дар, подарок , дарованье , склад, thesaurus (Кирил. Иерус. XII в.), подать , дары откуп , брачное приданое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Пов. вр. л. под 912 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 100; Ефр. Сир. XIII в.; Ио. екз. Бог. 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1133 г.; Уст. гр. Свят. 1137 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1214 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ефр. Крм. LXXXVII. 10; Корм. Моск. Дух. Ак. л. 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>даръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подарок, подношение, пожертвование; что-либо отданное кому безвозмездно в полную собственность, о способности, даровании</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дар</ref> м. р., дары мн. ч.</orth>
+      </form>
+      <sense>
+        <def>свадебные подарки (курск., орл., ворон., калуж., симб., волог., новг., перм., донск., пек., ряз., вят., арх., костр.), при­ даное (ворон., волог.), наследство (арх.), урожай (волог., сарат., калуж.), жир (север.) , дар м. р. пода­ рок (свад.) , дор м. р. приданое невесты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 272)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской обл. 54)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, даяние, дарование, талант, дар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, приношение; подарок, подношение, препод­ ношение</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *а*агъ продолжает и.-е. основу на -о- *doro-, ср. греч. oujpov, арм. tur 'дар'.</note>
+  <gramGrp>
+    <gram>Далее родственно и.-е.<ref type="etymon" target="do-">*do-</ref> 'давать', 
+на слав, почве соотносительно с гл. <ref type="etymon" target="dati">*dati</ref> (см.).</gram>
+  </gramGrp>
+  <note>По-видимому, в древности образовывало единую консонантную гетероклитич. основу на -r/п-, см. подробнее *danb. Кроме вторичных сочета­ ний с формантом -ov- в производных, нет веских аргументов для того, чтобы считать слав. *dan древней основой на -й-, как делают некоторые (напр. Фасмер, ниже) вслед за Мейе, см. подробнее *darovati. См. Chr. Bartholomae ВВ X, 1886, 292; Berneker I, 179; Ben- veniste. Le vocabulaire des institutions indo-europeennes I, 66; Otrqbski. Studia indoeuropeistyczne 91; В. В. Иванов ВСЯ 2, 1957,14; Birnbaum. Indo-European nominal formations submerged in Sla­ vic 150; Фасмер I, 484.</note>
+</Entry>

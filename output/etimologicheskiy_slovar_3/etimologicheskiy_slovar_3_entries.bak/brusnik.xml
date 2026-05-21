@@ -1,0 +1,83 @@
+<entries>
+  <entry xml:id="brusnik" xml:id="brusnik">
+    <pb n="52" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brusьnikъ</orth>
+      <lemma>Ьгивьшкъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>брусник</ref> м. р.</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Геров: брусшъ, брусникъ, м. р.: Ще стане като брусикъ, ще надебел'Ье, ще натлъст'Ье)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брусник</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>камень, из кот. делаются точильные бруски , ягода брусника , Brusnlk м. р., название ряда сел</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 220)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>( R J A I, 686)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brusnfk</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>точильщик, то­ чильный камень, брусок, также название породы камня</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 67)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brusnik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>точильщик, станина, в кот. вращается точило</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jungmann I, 192)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брусник</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>привеши­ ваемая к поясу косца продолговатая коробка, в которой носят брусок для точения кос</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(ряз., Филин 3, 207)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Субстантивирующее 
+производное 
+с 
+суфф. 
+-гкъ 
+от 
+прилаг. 
+^Ьгивьпъ 
+(см.). <xr type="compare">Ср. <ref type="etymon" target="gshp1sa">*Ьгшъп1са</ref>
+      </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+  </entry>
+</entries>

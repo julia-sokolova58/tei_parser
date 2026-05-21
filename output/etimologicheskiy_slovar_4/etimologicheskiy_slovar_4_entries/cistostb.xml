@@ -1,0 +1,111 @@
+<Entry xml:id="cistostb">
+  <pb n="120" end_page="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistostb</orth>
+    <lemma>cistostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ЧИСТОГТА</ref> Ж. p. puritas</orth>
+      </form>
+      <sense>
+        <def>чистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl. LP, Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cistost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA II, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cistost</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cistost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cistosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота, опрятность, очищенное состояние, целомудрие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cystosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота, ясность, прозрачность, непорочность, честность; простота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чистость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистота (в образы, выраж.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Нис. о Мелет. Мин. чет. февр. 125, Срезневский III, 1531)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чйстмтъ</ref>, pop. п. -тбсти, ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота, отсутствие грязи, сору (Желех.), чистота духовная (Желех.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чйстосцъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 699)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="cistb-3">*cistb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

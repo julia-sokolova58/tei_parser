@@ -1,0 +1,49 @@
+<Entry xml:id="gleziti">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gleziti</orth>
+    <lemma>gleziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глёзя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ласкать, нежить, угождать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глёз</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ баловать, потакать , глйзим ласкать, нежить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глези</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баловать, нежить, льстить, угождать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. glezti 'делаться мягким, слабым, рыхлым', gleznas, gleznus 'нежный, мягкий', 'слабый, вялый' (см. о лит. словах Fraenkel I, 157). См. Berneker I, 302; ср. еще Георгиев БЕР IV, 248.</note>
+</Entry>

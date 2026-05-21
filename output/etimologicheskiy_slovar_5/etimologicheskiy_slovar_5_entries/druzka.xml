@@ -1,0 +1,176 @@
+<Entry xml:id="druzka">
+  <pb n="136" end_page="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družьka</orth>
+    <lemma>družьka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, подружка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>друшка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга , друшкъ ж. р. , дручка ж. р. подруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД 1, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 24; Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 168; с. Огнен, Бургаско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стой­ чев БД II, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>друшка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пара, подруга , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>друшка</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Видоески. Иоречкиот говор 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>друшка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга , Друшка, личное имя собств. , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 760)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>druzkinja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drus</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ka свадебный дружка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druzka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, товарка, сожительница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>druzka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>под­ руга, дружка невесты на свадьбе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>druzka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дружка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>druzka</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дрбжька</ref> (Милостыни. . . дроужка бжига шсть. Финл. прол. XIII в.),</orth>
+      </form>
+      <sense>
+        <def>дружка (на свадьбе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1648 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 732)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дружка</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>одно из лиц народного свадебного обряда, распорядитель на свадьбе со стороны жениха (иногда и со стороны невесты); шафер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., новосиб., яросл., симб., влад., самар., куйбыш., каз., пенз., ленингр., новг., вят., сев.-двинск., печор., карел., олон., перм., оренб., том., тобол., волог., твер., костр., нижегор., терск., ряз., орл., смол., ворон., тул., моек., Филин 8, 215—217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дружка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молодая девушка из приглашенных невестой быть на свадьбе, подруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 448)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач., ум., производное с суфф.<m type="suffix">
+        <ref>-ька</ref>
+      </m> от <ref type="etymon" target="drugb-5">*drugb</ref>, <ref type="etymon" target="druga">*druga</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

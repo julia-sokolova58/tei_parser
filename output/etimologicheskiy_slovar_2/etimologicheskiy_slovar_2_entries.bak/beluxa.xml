@@ -1,0 +1,76 @@
+<Entry xml:id="beluxa">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beluxa</orth>
+    <lemma>beluxa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belucha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белая корова или коза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>belucha</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белая корова, овца и т. п., блондинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белуха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>песчаная почва (перм.), мягкий белый камень, залегающий под землей в некоторых местах Холмо­ горского у. Арх. г., растение Antennaria dioica Gartn., сем. сложноцветных; кошачья лапка двудомная (олон.) , белая корова (арх.), кличка белой овцы (перм.), человек с очень светлыми волосами; белобрысый человек (Ср. Урал)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 228—229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быуха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белолицая, белая как снег женщина, блондинка , белуха . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beluh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>белый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(уничиж., Plet. I, 19)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-иха</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ъё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

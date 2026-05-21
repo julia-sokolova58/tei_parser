@@ -1,0 +1,22 @@
+<Entry xml:id="belopbrsbjb">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belopbrsbjb</orth>
+    <lemma>belopbrsbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beloprsy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белогрудый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и основы имени 
+<ref type="etymon" target="pbrsb">*pbrsb</ref> (см.).</gram>
+  </gramGrp>
+  <note>О древности словообразовательного типа см. на *belogo^.</note>
+</Entry>

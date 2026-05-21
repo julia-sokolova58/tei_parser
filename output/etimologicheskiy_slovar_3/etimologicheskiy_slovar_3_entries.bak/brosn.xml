@@ -1,0 +1,43 @@
+<entries>
+  <entry xml:id="brosn" xml:id="brosn">
+    <pb n="42" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brosnь</orth>
+      <lemma>brosm</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. диал, <ref>ЪгоЫ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>плесень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 209)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>броснь</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>плесень, гниль, цвиль</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(зап., Даль 3 I, 320)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брбсня</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>плесень (на жидкостях)</def>
+        </sense>
+      </item>
+    </etym>
+    <note>По-видимому, производное с суфф. -snb от того же корня, что и</note>
+  </entry>
+</entries>

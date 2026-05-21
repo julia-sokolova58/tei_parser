@@ -1,0 +1,26 @@
+<entries>
+  <entry xml:id="brescje" xml:id="brescje">
+    <pb n="18" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brĕščьje</orth>
+      <lemma>brescbje</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brzeszcze</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>острие колющих орудий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 691)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -ь]е от основы <ref type="etymon" target="breskb">*breskb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

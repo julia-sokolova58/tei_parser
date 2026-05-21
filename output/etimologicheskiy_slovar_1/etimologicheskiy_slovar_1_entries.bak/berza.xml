@@ -1,0 +1,233 @@
+<Entry xml:id="berza">
+  <pb n="200" end_page="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berza</orth>
+    <lemma>berza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. в ^ <ref>з</ref> д ж. p. betula</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бреза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза Betula alba</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>берЛза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береза Betula alba</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бреза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза Betula alba L</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>breza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfiza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>breza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза Betula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>breza</ref> ж, р.</orth>
+      </form>
+      <sense>
+        <def>береза Betula alba , ir.-луж. bfaza ж. V береза , нолаб. breza ж. p. береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 74—75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Ъгъога</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бе­ реза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 694)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bruoza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo- vinz. W b . I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёза</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>лиственное дерево из группы сережчатых, большею частью с белой корой и сердце­ видными листьями Betula</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>береза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево Betula alba</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>берёза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бярбза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береза. berza Название дерева березы представляет собой классический слу­ чай в древней ботанической лексике, когда, во-первых, все сла­ вянские формы, обладающие одним и тем же значением Betula alba, восходят к праслав. * berza, не поддающемуся этимологиче­ скому анализу на слав, почве; во-вторых, реконструированное праслав. *berza восходит к и.-е. *bher9gos, *bherdga, кот., в свою очередь, весьма распространено в и.-е. языках и обозначает раз­ личные разновидности Betulaceae, практически — за одним ис­ ключением, о котором см. далее. Т. о., название березы обнаружи­ вает исключительную древность, но оно же характеризуется и редкой ясностью этимологии, поскольку бесспорно произведено от и.-е. основы со знач. сблеск, свет, белый цвет. См. об этом Mos- zynski. Pierwotny zasi^g 27. Этимол. анализ и.-е. форм см. спе­ циально Pokorny I, 139. Круг родственных соответствий праслав. * berza давно и в целом вполне достоверно установлен. См. Miklo- sich 11, где уже дан перечень балт., осет., др.-инд., герм, соответ­ ствий слав, слову. См. еще Будилович. Первобытные славяне 131</def>
+      </sense>
+    </item>
+  </etym>
+  <note>В числе родственных форм авторы единогласно называют лит. berzas, др.-в.-нем. birihha, др.-англ. Ъеогс 'береза', др.-инд. bhurjd- свид березы', см. напр. Berneker I, 52. Несмотря на более или менее решительно выраженный скепсис отдельных ученых, сюда же принадлежит лат. fraxinus с я с е н ь ' . Так, совершенно неправы Эрну—Мейе, кот. видят здесь неясность в форме и в се­ мантике (Ernout—Meillet I, 449), или Станг, выступающий по тем же мотивам против этого старого сближения (Chr. S. Stang.</note>
+  <gramGrp>
+    <gram>W d S I, 1956, 352). Сравнение<ref type="etymon" target="berza">*berza</ref> и fraxinus 
+см. 
+Berneker, 
+там же; М. Коген И О Р Я С X X I I I , 1918, 19; W a l d e - H o f m . 
+1, 
+544 (: «исчезновение древнего знач. и перенос на ясень в Италии 
+объясняется тем, что береза не обитает в естественном состоянии 
+на Юге Европы»); Pokorny, там же; Фасмер I, 154; Младенов 
+ЕПР 47; Sadnik—Aitzetmuller. 
+V g l . W b . 3, 146. Вполне подда­
+ваясь семантическому обоснованию (см. выше), сближение с лат. 
+fraxinus 
+закономерно 
+объясняется 
+и 
+фонетически. 
+При 
+этом 
+др.-инд. 
+bhurjd- так 
+относится к 
+лат. 
+fraxinus, 
+как 
+др.-инд. 
+рйгтга 
+к 
+лат. 
+plenus, 
+др.-ирл. 
+Ian 
+или 
+как 
+др.-инд. йгпа — 
+к лат. lana. Как 
+известно, эти соответствия толкуются как от­
+ражение и.-е. 
+долгого слогового плавного (/, /'•). См. 
+Brugmann 
+KVGr. 132. 
+Поэтому 
+в 
+случае с названиями березы мы имеем, 
+кроме 
+и.-е. 
+<ref type="etymon" target="bherdg">*bherdg</ref>~, откуда 
+герм., 
+балт. 
+и слав, формы (и.-е. 
+-егэ- 
+отразилось 
+как 
+сочетание 
+-ег- 
+под акутовым 
+ударением 
+в балтийском и славянском, тогда как для герм., напр., др.-в.-нем. 
+birihha, 
+здесь 
+предполагают 
+сохранение 
+следа э, см.</gram>
+  </gramGrp>
+  <note>Vondrak. Vgl. slav. Gramm I, 300; Мейе. Общеслав. яз. 56; Arumaa. Urslav. Gramm. I, 143), также и.-е. *bhrg-, откуда упомянутое др.-инд. название и лат. fraxinus (первонач. адъективная произ­ водная форма *bhrgsenos). См. специально О. Szemerenyi «Glotta» 38, 1960, 225; ср° P. Persson. Beitrage zur idg. Wortforschung 2 berzavi.jii (Uppsala—Leipzig, 1912), 753. Дополнительные сведения об индо-ир. формах см. Mayrhofer II, 514—515; Абаев I, (: осет. Ьзегг / baerzse 'береза', ср. тадж. Ъигъ 'арча', памирские формы furz 'береза', Ъэгеъ, Ьэги/ 'береза'). Сюда же примыкает в акцеытологич. отношении лит. blrze (подробно о балт. формах см. Fraenkel I, 40). Не менее существенна морфол. проблематика этимологии и.-е. названия березы. Индоевропеисты обычно считают исходной основу на -о- ж. р. См. A . Meillet. Le genre feminin des noms d'arbres et les themes en - o - . — MSL 14, 1906—1908, 478; Мейе. Общеслав. язык 277. Более того, существует еще мнение о на­ личии здесь в древности консонантной основы им. и. *bherdg-s, род. п. *bherdgo-s (см. Pokorny, там же; специально см. еще Specht. Ursprung 57). Однако едва ли целесообразно игнорировать практически равную древность как и.-е. *bherdeos (откуда др.- инд., лит. формы, но также и праслав. диал. *Ьеггъ\ — см. спе­ циально ниже), так и и.-е. *bherdga (откуда праслав. *berza, герм. *Ьегкд, а также лтш. диал. berza). Принимая во внимание этимологию ( ссветлый, белый'), мы видим в этом слове первона­ чальное прилаг. След этого древнего употребления сохранился в архаическом болг. диал. бряз прилаг. ' в белых пятнах (о буй­ воле)', сербохорв. брёза сущ. ж. р. — о дом. животных, у кот. шкура белая с красными пятнами (РСА II, 143). См. Георгиев Б Е Р I, 76; II, 85. Об у к р . диал. отражениях этого употребления см. О. С. Мельничук «Мовознавство» 1967, № 2, 21. Из обширной литер, о названии березы см. Н . Hirl IK X , 1899, 53; С. Lottner K Z V I I , 1858, 23; A . Meillet BSL 24, 1924, 133; он же BSL 14, 1906, CLIII; Trautmann B S W 32; E. H. Slur- tevant «Language» III, 1927, 119; Machek 49; Kluge 1 5 80; J. Ot- rqbski «Die Sprache» 9, 1963, 161; W . Merlingen «Kratylos&gt;&gt; V I , 1961, 173; A. J. Van Windekens. Etudes pelasgiques (: проблема пеласг. В-'каа 'выделанная кожа, б у р д ю к ' ) ; D . Detschev. Die thrakischen Sprachreste 52, 54 (: фрак. BspCava, Bersoria, местн. названия); В. И. Георгиев. Исследования . . . 119 (: реконструк­ ция фрак. *bersa- 'береза'); G. Bonfante «Studi baltici» I, 1931, 87. Вполне возможно, что сюда не относится русск. берёзка ' P o ­ lygonum convolvulus', у к р . берёзка 'Convolvulus sepium, Con­ volvulus arvensis', блр. бярбзка 'Convolvulus arvensis', вопреки Садник—Айцетмюллеру (см. Sadnik—Aitzetmuller, там же). Здесь есть основание предполагать затемнение иной, более ста­ рой этимологической связи, о кот. см. О. С. Мельничук «Мово­ знавство» 1967, № 2 , 21 (: из праслав. *ЬъНо) и Р. В . Кравчук «Беларуская л е к с ш а л о п я i этымалопя» ( М ш с к , 1968) (где названия вьюнка производятся из *ob-verz-/vbrz- 'обвя­ зать').</note>
+</Entry>

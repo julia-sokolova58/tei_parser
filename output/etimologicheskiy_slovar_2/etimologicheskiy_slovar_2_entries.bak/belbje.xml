@@ -1,0 +1,42 @@
+<Entry xml:id="belbje">
+  <pb n="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belbje</orth>
+    <lemma>belbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Бёл</ref>&gt;е ср. р., название государственного имения в Баранье</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА I, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бельё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>все, что обычно в домашн. хозяйстве делается из белой ткани, из холста, полотна, Камчатки или бранйны, иногда и из бумажных тканей, но вообще белое, и для стирки; у маляров: белая краска; у кожевников: собачий помет, идущий на выделку кож, Album graecum средних веков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быля</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>белила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подольск, г., Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (собир.) с суфф. -ь)е от<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

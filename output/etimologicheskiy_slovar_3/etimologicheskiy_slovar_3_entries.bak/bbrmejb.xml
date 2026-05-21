@@ -1,0 +1,25 @@
+<Entry xml:id="bbrmejb">
+  <pb n="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrmejb</orth>
+    <lemma>bbrmejb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бурмш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворчун, брюзга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 113)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(e)jb (имя деятеля) от гл. типа<ref type="etymon" target="gtyoi">*ЬъгтёИ</ref>, 
+ср. <ref type="etymon" target="gtsh">*ЬъгтШ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

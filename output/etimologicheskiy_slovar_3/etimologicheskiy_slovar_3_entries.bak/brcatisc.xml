@@ -1,0 +1,125 @@
+<Entry xml:id="brcatisc">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br§cati (sč)</orth>
+    <lemma>br§cati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Б</ref>^АЦЛТИ 3ofAJ3elv, sonum edere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёцам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать, реветь (о буйволе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брёцам</ref> то же (с. Габаре, Белослатинско, Гипци. Архив Болг. диал. словаря), брёцам</orth>
+      </form>
+      <sense>
+        <def>мычать (о буйволе) (с. Паволче, Врачанско, дип. раб. Архив Софийск. ун-та), брёнцам то же , хныкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БД II, 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БД II, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бреца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задевать, подтрунивать; укорять, упрекать 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>брёцам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б. Ристоски MJ II, 1951,117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёцати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бренчать, брякать, звонить (в коло­ кол) , брёцати жужжать (о мухе) , брёцати се дергаться, брыкаться, лягаться , брёнцати бренчать, звучать прерывисто, жужжать, покрики­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA II, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 621; PCA II, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PCA II, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brecatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трезвонить , brencati звонить в пожарный набат , bfncatl жуж­ жать (о мухах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 54)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бр</ref>/щати</orth>
+      </form>
+      <sense>
+        <def>звучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Поел. ц. Ив. Вас. Кир.-Белоз. м., 1578 г., Срезневский Ш , Доп. 27')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения, основанный на междометии. См. Berneker I, 84.</note>
+  <gramGrp>
+    <gram>Ср. еще<ref type="etymon" target="br">*br</ref>$cati, 
+<ref type="etymon" target="br-2">*br</ref>$kati 
+(см.), от которых 
+данный гл. отличается 
+фонетически — проведением третьей 
+(про­
+грессивной) палатализации к ^&gt; с и географически — исключительно 
+ю.-слав. ареалом форм с вышеупомянутой особенностью.</gram>
+  </gramGrp>
+</Entry>

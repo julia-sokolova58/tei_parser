@@ -1,0 +1,123 @@
+<Entry xml:id="bresti">
+  <pb n="14" end_page="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bresti</orth>
+    <lemma>bresti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ввести</ref> vado transire</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bresti</ref>, bredem</orth>
+      </form>
+      <sense>
+        <def>переходить вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet, I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bristi</ref>, brdu, brdu, bfedu то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer 1, 104; 'vadare', Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bfsf</ref>, brdie, brdu</orth>
+      </form>
+      <sense>
+        <def>возиться (в чем-либо) переходить вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>brade</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>переходит, идет вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 40, с реконструкцией *brbde; ср. еще F. Lorentz ZfslPh I, 1925, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>brasc</ref>, brddq</orth>
+      </form>
+      <sense>
+        <def>переходить вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. W b . I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брести</ref>, бреду</orth>
+      </form>
+      <sense>
+        <def>медленно идти в определенном направлении, плестись</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>брести</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перехо­ дить через воду , бристи то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брести</ref>, бреду</orth>
+      </form>
+      <sense>
+        <def>брести, медленно идти, переходить вброд . — Сюда же относят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brsat</ref> se свозиться</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brchaf</ref> sa</orth>
+      </form>
+      <sense>
+        <def>возиться, лезть , см. Machek 1 43</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>По истории русск. брести см. специально F. Cocron. Russisch брести/бродить als Synonym fur итти/ходить im 17. Jahrhun- dert. — Wien. si. J b . II, 1952, 150 и сл. Праслав. *bredg, *bresti родственно лит. brendu, bridau, brlsti сидти вброд', лтш. brist то же. См. Miklosich 20; Berneker I, 83; Преобр. I, 45; M. Коген ИОРЯС X X I I I , 1918, 20; Trautmann B S W 37; Фасмер I, 210—211; Fraenkel I, 58; Sadnik—Aitzetmul­ ler. Vgl. W b . 3, 212. О вокализме i в формах слав, глагола см. A. Meillet MSL 14, 1907, 332. Из других и.-е. форм сюда относят еще алб. breth, аор. brodha 'прыгать, скакать' (Meyer. Alb. W b . 46), тохар. В. preeciye стина, грязь' (вслед за Лиденом см. G. S. Lane «Language» 14, 1938, 25, сноска 21; В. Георгиев ВЯ 1958, № 6, 18), фрак. РреВос- (то­ поним BpeSai) (см. В. Георгиев «Езиков.-етногр. изследвания в памет на Ст. Романски» 498).</note>
+</Entry>

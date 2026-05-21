@@ -1,0 +1,122 @@
+<Entry xml:id="birzostb">
+  <pb n="136" end_page="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bi&gt;rzostb</orth>
+    <lemma>bi&gt;rzostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръзость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поспешность, торопливость, быстрота, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брзост</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>торопливость, спешка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bfzost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>celeritas быстрота , брзбст ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., R J A I, 697)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brzdst</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>brzosf</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 104: Hus)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бързость</ref>, борзость, бръзость</orth>
+      </form>
+      <sense>
+        <def>скорость celeritas (Гр. Наз. XI в.), rcpoftopia (Ефр. Корм.), oovxo[xta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ббрзостъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорость, быстрота, бойкость, рья­ ность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>борзость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота , борзость быстрота , борзость быстрота, проворство, скорость (Бшець- кий-Носенко. Словник украшсько! мови)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. З Р . I, 6 — 1 3 4 7 и др., Тимченко I, 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. Деже. Материалы к словарю закарпатской литературы XVI—XVII вв. Будапешт, 1965, 421: Материалы к словарю памятников XVII в. [микрофильм])</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ббрзгсть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстрота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="gg">*Ьъггъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

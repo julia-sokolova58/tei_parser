@@ -1,0 +1,64 @@
+<entries>
+  <entry xml:id="bukaritise" xml:id="bukaritise">
+    <pb n="87" end_page="88" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bukariti (sę)</orth>
+      <lemma>bukariti (s§)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>букарити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>волновать, мутить, бун­ товать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Што ти ми букариш л&gt;уди? — Ровинский 644)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>букаритъея</ref>, бухаритъея</orth>
+        </form>
+        <sense>
+          <def>реветь, мычать (о быке), прини­ мать, напускать на себя сердитый вид; бормотать . —Сюда же примыкает</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сл. Среднего Урала I, 60)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>букара</ref> се</orth>
+        </form>
+        <sense>
+          <def>быть в течке, спариваться (о свиньях) , а также производное имя</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>воуклрига</ref> ж. p. отаок;, seditio (Miklosich LP).</orth>
+        </form>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Формально походит на производное от имени деятеля 
+ср. болг. диал. букар 'кабан, х р я к ' (Георгиев; R. Bernard R E S 40, 
+1964, 26—27; из других слав, языков пока неизвестно); можно,
+•bukati (se) 
+впрочем, 
+трактовать 
+гл. 
+как 
+словообразовательный 
+(суффиксальный) вариант (<ref type="etymon" target="buk-ar-iti">*buk-ar-iti)</ref> 
+к <ref type="etymon" target="bukati-4">*bukati</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

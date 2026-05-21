@@ -1,0 +1,48 @@
+<Entry xml:id="gblnb">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblnb</orth>
+    <lemma>gblnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>geln</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краюха хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>gieln</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>crusta, корка (XVI в.), glen</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>glen</ref>, glon</orth>
+      </form>
+      <sense>
+        <def>краюха, штука хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 833)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав. диалектизм, производное с суф.<m type="suffix">
+        <ref>-ль</ref>
+      </m> от <ref type="etymon" target="gbl-">*gbl-</ref> &lt;] и.-е. 
+<ref type="etymon" target="gel-">*gel-</ref> 'сжимать'.</gram>
+  </gramGrp>
+  <note>См. Schuster-Sewc. Histor. und etymol. W b . der ober- u. niedersorb. Spr. (в печати). Ср. сюда же, с другими суф., *gblka, *gblma (см. s. v.). Подробно см. И. П. Петлева. Этимол. исследования в области сербохорв. лексики. Кандид, дис. (М., 1975) 43 и сл.</note>
+</Entry>

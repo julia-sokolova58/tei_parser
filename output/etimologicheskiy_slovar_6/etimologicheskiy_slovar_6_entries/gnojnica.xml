@@ -1,0 +1,130 @@
+<Entry xml:id="gnojnica">
+  <pb n="179" end_page="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnojьnica</orth>
+    <lemma>gnojьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнойнйци</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>прыщики, гнойнички на лице</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гнойнйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнойник , гноенйца ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гно</ref>]</orth>
+      </form>
+      <sense>
+        <def>ница ж. р. нарыв, гнойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gnojnica</ref>, gnojanica ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнойная рана, гнойник, нарыв, зловонная жижа, скапливаю­ щаяся на дне судна , гнб]ница ж. р. гнойник, чирей, навозная куча, навозная жижа , также zHojanuua</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 386)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>навозная жижа, мн. телега, на которой возят навоз, вид сыпи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnojnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>навозная жижа, навозная яма , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 705)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hnojnice</ref> ж. p. , hnojnica</orth>
+      </form>
+      <sense>
+        <def>боковая доска на возу для перевозки навоза , елвц. hnojnica ж. р. навозная жижа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(KaSik. Stredobecev. 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gnojnica</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gnojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>навозная яма, куча навоза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 860, 861)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф.</note>
+  <gramGrp>
+    <gram>Аса от прилаг.<ref type="etymon" target="gnojbnb">*gnojbnb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="gnojbnifo">*gnojbnifo</ref>
+    </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+</Entry>

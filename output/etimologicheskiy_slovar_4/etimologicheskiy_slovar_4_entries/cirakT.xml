@@ -1,0 +1,53 @@
+<Entry xml:id="cirakT">
+  <pb n="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cir'akT</orth>
+    <lemma>cir'akT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cirjak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чирей, нарыв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cirjak</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 104; Megiser. Dictionarium 1744)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. (с <ref>диспалатализацией</ref>?) czyrak м. р.</orth>
+      </form>
+      <sense>
+        <def>чирей, нарыв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чиряк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чирей, веред</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 463)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -]акъ от<ref type="etymon" target="s1g">*с1гъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,153 @@
+<Entry xml:id="gTrbatbjb">
+  <pb n="197" end_page="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gT&gt;rbatb(jb)</orth>
+    <lemma>gT&gt;rbatb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърбат</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>грбат</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>горбатый, сутулый , сло­ вен. grbat, прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 586)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrbaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый, сгорбленный, кривой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrbaty</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>grbatei</ref>, -а, -о, прилаг. , ^ъгЬъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjarbaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>garbaty</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>garbaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбатый, кривой, согну­ тый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1041)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гърбатыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гор­ батый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр. VIII. 43, Срезневский I, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горбатый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>имеющий горб, имеющий форму горба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горбатый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгорбленный, сутулый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деул. сл. 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горбатый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбатый; сутулый, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гырбатый</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( Б я л ь к е в 1 Ч . Магш. 145)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суф. -atb от<xr type="compare">см. <ref type="etymon" target="cg-">*čъг&amp;-ь</ref>
+    </xr>.</note>
+</Entry>

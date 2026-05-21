@@ -1,0 +1,82 @@
+<Entry xml:id="gska">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъгська</orth>
+    <lemma>Ьъгська</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръчка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>морщина, складка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Б Т Р ; Геров: бръ­ чка)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брчка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>морщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брчка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>морщина (на лице)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 224—225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brcka</ref> ж. р., обычно brcky мн.,</orth>
+      </form>
+      <sense>
+        <def>завиток, кудри, кудрявые волосы .—Ср. сюда же, с отличием в грамм, роде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Б</ref>^АЧАКЪ м. p. indumentum</orth>
+      </form>
+      <sense>
+        <def>одеяние, одежда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бърчек</ref>\ -ека м. р.</orth>
+      </form>
+      <sense>
+        <def>складка (ткани), морщина (на коже) и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> (ум.) от <ref type="etymon" target="gk-2">*Ьъгкъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. Георгиев Б Е Р II, 84, 102, 104.</note>
+</Entry>

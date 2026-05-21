@@ -1,0 +1,23 @@
+<Entry xml:id="byriti">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>byriti</orth>
+    <lemma>byriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бырйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>течь быстро, с шумом, журчать на мелком и каменистом месте (о воде) (волог., калуж.), плыть, образуя волны при движении на мелком месте (о рыбе) (ворон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 347)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Удлиненная ступень корневого вокализма от<xr type="compare">см. <ref type="etymon" target="igsh">*ЬигШ</ref>
+    </xr>.</note>
+</Entry>

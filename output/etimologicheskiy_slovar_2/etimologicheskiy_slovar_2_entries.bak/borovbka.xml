@@ -1,0 +1,123 @@
+<Entry xml:id="borovbka">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borovbka</orth>
+    <lemma>borovbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боровка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брусника, малина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА И, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>borovka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосновая лучина, вид губки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>boruvka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Vaccinium myrtillus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>borovka</ref>, bordvka ж. р.</orth>
+      </form>
+      <sense>
+        <def>можжевельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>borouka</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. стар, <ref>bordwka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>borowka</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>borowka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брусника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>borowki</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>черника (см. J. Majowa, ниже)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bordvka</ref>, b</orth>
+      </form>
+      <sense>
+        <def>ligrouka брусника, черника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, s. v.; Lorentz Slovinz. Wb. I, s. v.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>борувка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лесная пчела</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Ано­ хина, Н. В. Никончук. Полесская терминология пчеловодства. — «Лексика Полесья» 321)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -<ref type="etymon" target="ka">*ька</ref> от прилаг. <ref type="etymon" target="borovb-3">*borovb</ref> (см.); субстанти­
+вация.</gram>
+  </gramGrp>
+  <note>Подробно о польск. и кашуб, формах см. J. Majowa «Stu- dia z filologii polskiej i sJowiaiiskiej» 8, 118.</note>
+</Entry>

@@ -1,0 +1,74 @@
+<Entry xml:id="gadj">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadьjь</orth>
+    <lemma>gadьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gddji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гадючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hadi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>змеиный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 403)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hadi</ref> , елвц. hadi, прилаг. то же , также</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Barto§. Slov. 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>had4</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matej- cik. Vychodonovohrad. 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gode</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>змеиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ро- lanski — Sehnert 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gadzi</ref>, прилаг. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 791; Dorosz. II, 1016)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. (притяж.) с суфф, -ъ}ь от<ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

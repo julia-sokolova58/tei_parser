@@ -1,0 +1,21 @@
+<Entry xml:id="besedunb">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besedunb</orth>
+    <lemma>besedunb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>besedun</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болтун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 22)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Имя деятеля, производное с помощью суфф. -ипъ от гл. ^besedo­ vati (см.). Возможно позднее местное образование.</note>
+</Entry>

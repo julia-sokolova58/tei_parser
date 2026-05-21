@@ -1,0 +1,78 @@
+<Entry xml:id="elenerodp-ete">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elenę, род. п. -ęte</orth>
+    <lemma>elenę, род. п. -ęte</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -§te</orth>
+    <lemma>род. п. -§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelene</ref>, род. п. -te, ср. p.</orth>
+      </form>
+      <sense>
+        <def>олененок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeliena</ref>, род. п. -aVa ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I; 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jelenjo</ref>, род. п. -jeca, ср. р.</orth>
+      </form>
+      <sense>
+        <def>олененок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jeleni</ref>?, род. п. -?cia, ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II t 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>оленя</ref>, род. п. -пяти, ср. р.</orth>
+      </form>
+      <sense>
+        <def>детеныш-олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аленяня</ref> ср. р. то же. — Сюда же преобразованное</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>оленёнок</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>олений теленок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1735)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ft- от<ref type="etymon" target="e1ep">*е1епъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

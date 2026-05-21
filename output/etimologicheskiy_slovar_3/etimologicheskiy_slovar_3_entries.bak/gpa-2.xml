@@ -1,0 +1,50 @@
+<Entry xml:id="gpa-2">
+  <pb n="69" end_page="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгьпа</orth>
+    <lemma>Ьгьпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, ^<ref>brnja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Lett, argilla, глина ;bfna ж.- p. глина, перегной, чернозем , brnja ж. p. чернозем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Megiser Dictiona- rium 1744 T.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>брына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сырость, вода .—Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brnlca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горшок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Megiser Dictionarium г. [в 1-м изд. нет]; Plet. I, 64)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологию см. иод *Ьгъпъ]е.—Ср. также *Ъгъпо (ci\i.).</note>
+</Entry>

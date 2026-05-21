@@ -1,0 +1,89 @@
+<Entry xml:id="drzati-2">
+  <pb n="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrzati</orth>
+    <lemma>dьrzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref>^АЗЛТИ, Д^ЪЗДТИ ftappelv, xoXfj-av, audere, confidere</orth>
+      </form>
+      <sense>
+        <def>не падать духом, дерзать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дързая</ref> *дерзать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: дръзаж)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрзати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осмеливаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 709, RJA II, 822)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drzati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дьрзати</ref>, дъръзати, дръзати</orth>
+      </form>
+      <sense>
+        <def>дерзать, осмеливаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мр. V. 34. Остр, ев.; Панд. Ант. XI в., Срезневский I, 777)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дерзать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сметь или осмеливаться, отваживаться, решаться, посягать; ободряться, мужать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1070)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дерзать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>начинать что-либо де­ лать 7</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 8, 23)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati9</ref>
+      </m> соотносительный с прилаг. <ref type="etymon" target="y-2">* Й</ref> Ы 2 Ъ (см.).</gram>
+  </gramGrp>
+</Entry>

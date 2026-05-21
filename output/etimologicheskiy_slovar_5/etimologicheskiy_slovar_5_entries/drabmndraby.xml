@@ -1,0 +1,141 @@
+<Entry xml:id="drabmndraby">
+  <pb n="100" end_page="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drabъ/мн. *draby</orth>
+    <lemma>drabъ/мн. *draby</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>MH. *draby</orth>
+    <lemma>MH. *draby</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>draby</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>одежда, платье , старьё, лохмотья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jakubas 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрябы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>телега, сделанная частью из ствола и корня елового неразрубленного дерева , дрябы мн. телега для перевозки дров, снопов и т. п. (моек., калуж\), станок, который ставится на тележный стан для перевозки сучьев (влад.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(моек., Опыт 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>драб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>оборванец, бедняк, босовик, босяк, растение Viola arenaria D e c</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>драбы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дроги; рёбра, кости .—Ср. суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drdbec</ref>, род. п. -bee, м. р.</orth>
+      </form>
+      <sense>
+        <def>часть передка плуга</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drabica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышло колесного плуга , drabina ж. p. лестница, решетина, елвц. drabina ж. р. боковая решетина воза, решетка на кормушке для скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dra</ref>­ bina ж. р.</orth>
+      </form>
+      <sense>
+        <def>лестница (приставная)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 519; Warsz. I, 548)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dr</ref>&amp;bjind ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>драбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>переносная лестница, решетки, составляющие боковые стороны тележного ящика и имеющие вид небольшой лестницы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>драбгны</ref> ж. р. мн.</orth>
+      </form>
+      <sense>
+        <def>часть drapati телеги без колес; лестница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>драбаня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>замапашка, женщина, одетая в лохмотья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Смаль-Стоцький «Slavia» 5, 1926, 29)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Существует обыкновение рассматривать раздельно слав. *dra&amp;- 'одежда' (в.-луж.) и *drab~ 'решетка, лестница и т. п. простей­ шие конструкции из палок, жердей', причем первое соотносится с лит. drobe 'полотно', drabiizis, мн. -iai 'одежда', а второе — с нем. Тгерре 'лестница'. См. Berneker I, 219; Фасмер I, 545; Fraenkel I, 100. Последнее сравнение не очень надежно, речь идет о слове экспрессивного происхождения (сюда относят еще лит. drebeti 'дрожать', см. Stawski I, 160, еще раньше — С. Ми- куцкий Изв. ОРЯС IV, 1855, 407; сравнения нем. слова со слав, отсутствуют у Клюге). Думается, что обе группы зттач-й можно примирить, объединив под общим *dr-abb, расширением древней ступени корня *йь- rati (см.).</note>
+</Entry>

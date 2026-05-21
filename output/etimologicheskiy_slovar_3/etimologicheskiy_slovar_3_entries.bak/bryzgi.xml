@@ -1,0 +1,54 @@
+<Entry xml:id="bryzgi">
+  <pb n="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryzgi</orth>
+    <lemma>bryzgi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brlzak</ref>, род. п. -zga, м. р.</orth>
+      </form>
+      <sense>
+        <def>количество жидкости, вытекающее, выливающееся струей за один раз, пена, барашки на волнах , ср. еще бриз м. р. слезы, поток слез</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 656; РСА II, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА .11, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>bryzg</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>суматоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Воль- фонбюттельская псалтырь 35, 17, Muka St. I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брызг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лучшее, веское хлебное зерно, в челе вороха, отбираемое на семена, какое-либо орудие или снаряд для брызганья , сюда же брызги ми. м. р. первая вешняя ростепель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь I, 324)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(охоти., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от<ref type="etymon" target="bryzgati-4">*bryzgati</ref> 
+(см.); соотносительно с <ref type="etymon" target="bryzga">*bryzga</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

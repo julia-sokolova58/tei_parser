@@ -1,0 +1,36 @@
+<Entry xml:id="wmuxati">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>w&lt;m'uxati</orth>
+    <lemma>w&lt;m'uxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cenuchati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>искать, чуять (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cenichati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуять, нюхать, вынюхивать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cmachaf</ref> Vydra.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>НогпоЫап. У8^, cmuchat то же (firuska. Slov. chod. 20; Gregor. Slov. slavkov.-bucov 39), слвц, cenuchat' (Kalal 71).</note>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки се- и гл.<ref type="etymon" target="n">*n</ref>'uxati (см.).</gram>
+  </gramGrp>
+</Entry>

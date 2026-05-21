@@ -1,0 +1,26 @@
+<Entry xml:id="edmitise">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdmiti sę</orth>
+    <lemma>ĕdmiti sę</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jedmic</ref> so</orth>
+      </form>
+      <sense>
+        <def>нарывать, гноиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 233)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="edmo">*edmo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

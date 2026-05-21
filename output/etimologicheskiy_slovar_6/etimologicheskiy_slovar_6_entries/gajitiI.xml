@@ -1,0 +1,160 @@
+<Entry xml:id="gajitiI">
+  <pb n="84" end_page="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajiti I</orth>
+    <lemma>gajiti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdjiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бречь, охранять, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hdjit</ref> , стар, hdjiti</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vazny. Stfedovek. list. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hdjif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, заступаться, вступаться , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hajic</ref>, hdjic</orth>
+      </form>
+      <sense>
+        <def>полевой сторож</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Kalal 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hajid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, ограждать, защищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>gajis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>загораживать, поддержи­ вать, питать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gaid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>начинать, от­ крывать (напр. судебное заседание) , са­ жать лес, украшать зеленью, вырубать лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1017—1018)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 792)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гаити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, защищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гаить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крыть, хитить , латать, чинить , на­ живлять крючки рыбой , растрепывать, трепать (новг.), перемешивать, спутывать (псков.) , гаить вид­ неться (Устюж. р-н Волог. обл., Картотека Словаря белозерских говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., яросл., Даль 3 I, 837)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., яросл., Филин 6, 94)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гагти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>замедлять, задерживать, занимать попусту место , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 264—265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гашти</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойтвського д1алекту)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гащца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задерживаться, засиживаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Туров, Народнае слова 302)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gojiti">*gojiti</ref>
+    </xr>; вокализм ; вокализм ; вокализм ; вокализм <xr type="compare">ср. <ref type="etymon" target="gajb">*gajb</ref>
+    </xr> I (см.). I (см.). I (см.). I (см.).</note>
+</Entry>

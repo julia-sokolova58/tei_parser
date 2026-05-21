@@ -1,0 +1,109 @@
+<Entry xml:id="gogotati">
+  <pb n="194" end_page="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gogotati</orth>
+    <lemma>gogotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gogotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гоготать, кудахтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hohotati</ref> , hohtati, hochtati</orth>
+      </form>
+      <sense>
+        <def>кричать по-совиному</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Nastroji mistrne hohotdni, se tfebas i nekdo zasmati musi. Blah, mus., Kott I, 451)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV—XVI вв., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjagotai</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гоготать, крякать, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gogotad</ref>==gulgotad</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 866)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гоготати</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тогда же г8си гоготаша и лебеди крилы въеплескаша. Сл. о Задон. 5, Срезневский I, 534)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гоготать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать резкие, отрывистые крики, похожие на звуки го-го-го</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гоготать</ref> ержать (о лошади)</orth>
+      </form>
+      <sense>
+        <def>(оренб.. куйб., ворон., курск., орл., тул., калуж., твер., новг., вилен.),кудахтать (о курице) (олон., свердл., заурал., новосиб., кемер., том., сарат.), говорить громко, с криком, кричать (волог., костр.), перешептываться (влад.), говорить тихо, не- внятно, бормотать (орл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гоготати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ржать, издавать сильный и продолжительный звук, напр.: при отда­ ленном громе, сильном ветре, сильном пламени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гагатацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гоготать, хохотать, ржать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Не- краш. 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание. См. Berneker I, 319; A. Vaillant. Les pre­ sents slaves en -te-. — BSL 56, 1961, 18—19 (относит к глаголам на -ta-ti).</note>
+</Entry>

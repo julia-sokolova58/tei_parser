@@ -1,0 +1,91 @@
+<Entry xml:id="glumlivj">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glumьlivъ(jь)</orth>
+    <lemma>glumьlivъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глумлив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шутливый, насмешливый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глумлив</ref>, прилаг. , сербо­ хорв.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">стар. , редк. <ref>glum</ref>\iv, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шутливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA III, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glumlfw</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>насмешливый, шутовской</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220: stsl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глУмъливыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>nugax</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глумливый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>ненормальный, умственно неполноценный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 6, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глумлй</ref>- вий, -а, -е</orth>
+      </form>
+      <sense>
+        <def>насмешливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъИиъ</ref>
+      </m> от гл. <ref type="etymon" target="glumiti">*glumiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

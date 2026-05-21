@@ -1,0 +1,121 @@
+<entries>
+  <entry xml:id="bzovj" xml:id="bzovj">
+    <pb n="144" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъzovъ(jь)</orth>
+      <lemma>bbzovb(jb)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бъзов</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>бузинный, бузиновый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Бернштейн)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>базоф</ref>, -ова, прилаг. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(М. Младенов. Б Д III, 37)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bazoo</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>sambuceus , сюда же субстантивированное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 214)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bzova</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бузина Sambucus nigra L</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>( R J A I, 751)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bezov</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>бузинный , сюда же bezgov, прилаг. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 24)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bzovy</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>бузинный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Gebauer I, 133; Kott I, 118)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bezovy</ref>, bzovy</orth>
+        </form>
+        <sense>
+          <def>бузинный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 61)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>bozowy</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бузинный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 43)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bzowy</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>сиреневый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 771)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. стар, <ref>бозбвый</ref> axTivog, sambuceus (Леке, треяз., г . , — К а р ­ тотека ДРС).</orth>
+        </form>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ОУ- от <ref type="etymon" target="g-3">*Ьъгъ</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

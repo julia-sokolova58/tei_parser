@@ -1,0 +1,30 @@
+<Entry xml:id="aska">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>aska</orth>
+    <lemma>aska</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jaska</ref> ж. р. (с неясным знач., возм., относится к рельефу местности, у одного автора XVIII в. дважды, напр.: Prostire se nih (Mlecica) vladanje vrhu Talije, Ilirika, Grcke i zem|e arbanaske, odkle im idu brane jaske; особенно ср.: Da ne traska po svem glibu, po svih jaska)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jaska</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>углубление в земле , jacka ж. p. яма, лужа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PJet. I, 354)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Видимо, непосредственно связано с<xr type="compare">см. <ref type="etymon" target="askb">*askb</ref>
+    </xr>.</note>
+</Entry>

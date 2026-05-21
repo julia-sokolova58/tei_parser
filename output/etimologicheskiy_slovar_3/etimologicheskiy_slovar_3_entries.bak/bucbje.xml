@@ -1,0 +1,62 @@
+<Entry xml:id="bucbje">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bucbje</orth>
+    <lemma>bucbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бучйе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страпдж. Б Д I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bucje</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>бук; мезга букового дерева, также в кач-ве мести, названия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., только в словаре Даничича, R J A I, 705)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bouci</ref>, buci ср. р.</orth>
+      </form>
+      <sense>
+        <def>молодой буковый лес, по­ росль</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>bdcie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>молодая, буковая поросль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>буччя</ref> ср. р. собир. от бук .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь)е от<ref type="etymon" target="ik-2">*Ьикъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

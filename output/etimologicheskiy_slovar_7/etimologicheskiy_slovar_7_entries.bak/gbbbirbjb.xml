@@ -1,0 +1,37 @@
+<Entry xml:id="gbbbirbjb">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbbirbjb</orth>
+    <lemma>gbbbirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hebny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гибкий, мягкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 667; Kott I, 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hebno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скоро, быстро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 28)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.-ъгсъ от гл.<ref type="etymon" target="gbbngti-6">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

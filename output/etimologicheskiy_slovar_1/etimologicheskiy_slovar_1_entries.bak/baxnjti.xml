@@ -1,0 +1,77 @@
+<Entry xml:id="baxnjti">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxn&lt;jti</orth>
+    <lemma>baxn&lt;jti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бахнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явиться как снег на голову, bahnuti impingere, ingruere (с X V I I в.), ударить , банути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>банут</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>baynuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить с шумом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бахнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть, выстрелить из ружья, ударить , у к р . бахнути выстрелить, толкнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бахнуцъ</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сербохорв. глагольная лексика производилась от сущ. bah 'ictus, momentum' (см. Fr. Kurelac «Rad» X V , 1871, 91—96, с подробным обзором значений и употреблений), однако именно на сербохорв. языковой почве часть случаев bah продолжает<ref type="etymon" target="kh-">*Ьъх-</ref> 
+и поэтому двусмысленна.</gram>
+  </gramGrp>
+  <note>Как и<xr type="compare">см. <ref type="etymon" target="baxati">*baxati</ref>
+    </xr>, 
+*baxnoti 
+образовано от звукоподражания типа 
+Ь.х с различной 
+вокали­
+зацией, <xr type="compare">ср. <ref type="etymon" target="buxngti">*buxngti</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,91 @@
+<Entry xml:id="domovina">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domovina</orth>
+    <lemma>domovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>домовина</ref> , домовина ж. р.</orth>
+      </form>
+      <sense>
+        <def>домашнее обзаведение (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Така, спор'Ьдъ съетодние си, къту имъ назначать разны вещы за домовина, постилать ново платно охъ проц'Ьиа жшлч до онаЬ^ CTai^, код ё приготвена да гы до- ч-Ькжть. . . Г. С. Раковски. Показалец, 1859. Архив Болг. возрож­ дения-, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>домовина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дом и двор, усадьба, имущество, domovina ж. р. родина, имущество, имение, наследство, семья, домочадцы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>domovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>усадьба, дом и земельный участок, родина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>domovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>родина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>domovina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>домовина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дом, постоянное жилье (в отличие от лет­ ника и зимника) (сиб.), гроб (курск. ворон., орл. брян., тамб., ту л., калуж., смол., донск., самар., каз., сарат., симб., пенз., ряз., твер., нижегор., пек., новг., петерб., волог., костр.. влад., сев.- двинск., вят., перм., сиб., свердл., челябин., акм., тобол., том., алт., енис, забайк., краснояр., иркут., амур.), сооружение, сруб в виде гроба над могилой (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>домо</ref>­ вина ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроб, гробница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дамавта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроб</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. - т а от прилаг.<ref type="etymon" target="domovb-2">*domovb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

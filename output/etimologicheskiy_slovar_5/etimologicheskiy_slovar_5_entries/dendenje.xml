@@ -1,0 +1,53 @@
+<Entry xml:id="dendenje">
+  <pb n="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕnь/*dĕnьje</orth>
+    <lemma>dĕnь/*dĕnьje</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>denbje</orth>
+    <lemma>denbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deni</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>действие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dzienia</ref> ж. p., dzienie ср. р.</orth>
+      </form>
+      <sense>
+        <def>борть, выдолбленная в живом дереве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 575; St. stpol. II, 293: также 'подкова')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪни</ref>\е ,</orth>
+      </form>
+      <sense>
+        <def>создание (Сбор. Кирил. Белоз. XV в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Истиньнъмь д-ёни\емь гависд. Мин. 1096 г. сент. 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 793)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. имя действия, образованное на базе прич. страд, прош.<ref type="etymon" target="denb">*dĕnь/*dĕnьje</ref> от гл. <ref type="etymon" target="dejajti">*dejajti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

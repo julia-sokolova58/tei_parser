@@ -1,0 +1,59 @@
+<Entry xml:id="ato">
+  <pb n="39" end_page="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>a to</orth>
+    <lemma>a to</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ото</ref> ra выходит, а оказывается, что</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ато</ref> , ср. еще</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. . . и рекоста се оуже И г о р д есте оубили. ато похорони 7^ гЬло tero. Лавр. л. 1377 г., л. 106. Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>атъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пусть, да, ut</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. и др., Срезневский!, 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ато</ref>, атбж са как же, как иначе; да, так</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ато</ref> са, но, а не то, а между тем; кроме того, еще</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 11)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Союзное (или наречное) словосочетание<ref type="etymon" target="a">*а</ref> to, 
+образованное 
+из <ref type="etymon" target="a">*а</ref> (см.) и формы ср. р. указат. местоимения <ref type="etymon" target="to">*to</ref> (см. *čъ).</gram>
+  </gramGrp>
+  <note>См. Sadnik—Aitzetmuller. V g l . W b . 1, 4—5. Др.-русск. пример четко обнаруживает целевую, побудительную функцию, тогда как русск., укр. примеры совершенно самостоятельны семан­ тически и употреблены в противительной функции.</note>
+</Entry>

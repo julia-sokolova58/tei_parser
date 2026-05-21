@@ -1,0 +1,42 @@
+<Entry xml:id="buxoti">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buxoti</orth>
+    <lemma>buxoti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>buchot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глухие звуки, удары, грохот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>buchot</ref> м. р. то же , сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бухо</ref>- тбк</orth>
+      </form>
+      <sense>
+        <def>шум от подводного ключа, родника в заводи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(свердл., Филин 3, 325)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-otb</ref>
+      </m> от основы гл. <ref type="etymon" target="buxati">*buxati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

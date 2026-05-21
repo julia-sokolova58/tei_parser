@@ -1,0 +1,22 @@
+<Entry xml:id="bajadlbCb">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajadlbCb</orth>
+    <lemma>bajadlbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bajalac</ref>, род. и. bajaoca м. p. 4ncantatory кол­ дун, знахарь</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с X V I I в., R J A I, 155)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от <ref type="etymon" target="bajadlo">*bajadlo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

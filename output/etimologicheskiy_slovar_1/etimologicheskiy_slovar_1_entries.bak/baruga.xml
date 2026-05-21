@@ -1,0 +1,56 @@
+<Entry xml:id="baruga">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baruga</orth>
+    <lemma>baruga</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>barjga</orth>
+    <lemma>barjga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>баруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поток, лужа , низкий источник, обложенный камнями, маленький водоворот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Младе­ нов Б Т Р )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>баруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>л у ж а</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>баруга</ref> ж. р., увелич. от бара,</orth>
+      </form>
+      <sense>
+        <def>р у с л о , по ко­ торому вода бежит от плотины на мельницу , сюда же баругва ж. р. водоворот, омут, куда больше всего^собирается рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 314)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное от<ref type="etymon" target="aga">*Ъага</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древность обра­ зования проблематична.</note>
+</Entry>

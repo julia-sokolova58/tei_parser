@@ -1,0 +1,145 @@
+<Entry xml:id="drobnica">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobьnica</orth>
+    <lemma>drobьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево-груша с мелкими плодами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, пустяк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>частица, название разных сортов фруктов, мелкая пшеница, рыбья мелочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 728)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дробница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт пшеницы , drobnlca сорт яровой пшеницы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ки. 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drobnlca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелкий скот, drobnlca дикорастущее де­ рево или плод, дикая груша, растение Pyrethrum parthenium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. ly 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drobnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт черешни, оспа</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drobnice</ref> ж. р. мн.</orth>
+      </form>
+      <sense>
+        <def>труха, мелочи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дробъница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий жемчуг , металлическая бляха или пластинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lin. л. под 1288 г.; Дух. Дм. Ив. 1о09 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Рядн. зап. 1542 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>дробницы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>мелкие подвески или другие украшения, кисточки и пр., из золота, каменьев, жемчуга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрЬбнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, пустяк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>драбшца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байко^-Нек- раш. 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="drobbnb">*drobbnb</ref> (см.); субстанти­
+вация.</gram>
+  </gramGrp>
+</Entry>

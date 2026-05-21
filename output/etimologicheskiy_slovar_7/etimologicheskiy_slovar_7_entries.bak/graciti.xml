@@ -1,0 +1,59 @@
+<Entry xml:id="graciti">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>graciti</orth>
+    <lemma>graciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грача</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: грачж)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грачи</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гранить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>граять, кричать, шуметь, ве­ селиться, шутить, смеяться, дурить .— Ср. сюда же, с отличием в исходе основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., Филин 7, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>gra</ref>- cati</orth>
+      </form>
+      <sense>
+        <def>квакать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словарях Микали и Стулли, RJA III, 360)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="gracb">*gracb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

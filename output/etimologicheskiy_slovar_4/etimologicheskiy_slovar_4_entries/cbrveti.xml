@@ -1,0 +1,62 @@
+<Entry xml:id="cbrveti">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrveti</orth>
+    <lemma>cbrveti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerveti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться червем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 1193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cerwes</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>червиветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>червипи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>черйт</ref>, черЬетъ</orth>
+      </form>
+      <sense>
+        <def>откладывать яички для вы­ ведения молодняка (о пчелиной матке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомирщины. «Славянская лекси­ кография и лексикология» 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="cbrvb">*cbrvb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

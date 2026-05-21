@@ -1,0 +1,163 @@
+<Entry xml:id="berzina">
+  <pb n="203" end_page="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzina</orth>
+    <lemma>berzina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref> резина ж. р., увелич. от бреза</orth>
+      </form>
+      <sense>
+        <def>береза, дре­ весина березы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 634; II, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бе­ резовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1384 г., Gebauer I, 102; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfezina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>группа берез</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bfezina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brezyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовые заросли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bfazyna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>березняк , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>словосочетание</ref> по brizaind местн. п. ед. ч. ж. р.</orth>
+      </form>
+      <sense>
+        <def>в березняке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Selmert 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовый лес, древесина березы, сре­ занные березовые ветви; береза (сингулятивно)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 691)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfuezdndm.X</ref>).</orth>
+      </form>
+      <sense>
+        <def>березовый лес, bf fezena ж. p. березовый лес, древесина березы, срезанные ветки березы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . 1,80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sychta I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёзина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза, одно дерево; березовая палка, березовый прут</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 203; Фи- лин 2, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>берёзина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовое дерево, березовая ветка, розга, березовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>березина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>березняк, ветки березы (Онышкевич</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Словарь бойковского диалекта 74), блр. бяр'шна ж. р. 'одно березовое дерево' (Шатэр- ш к 40). Производное с суфф. -ina от<xr type="compare">см. <ref type="etymon" target="berza">*berza</ref>
+    </xr>, выступающее в слав, 
+языках в различных функциях 
+(увеличительность, 
+собиратель­
+ность, уменьшительность).</note>
+  <gramGrp>
+    <gram>Очевидна близость к равнооформлен- ному прилаг.<ref type="etymon" target="eggt">*Ъеггтъ</ref> (см. след.).</gram>
+  </gramGrp>
+  <note>Древность оформления основы *berz- формантом -in- может быть значительной. Ср. напр. род­ ственное лат. fraxinus 'ясень' &lt;^ *bhfgs-enos (см. далее иод *berza) и особенно лит. berzynas м. р. 'березняк', где этимологически тождественный формант имеет собир. значение. Поскольку речь идет о лексике, широко используемой в местных и водных назва­ ниях, см. обстоятельные исследования на эту тему: J. Prinz. Slavisch-baltische Entsprechungen bei den von *berz- 'Birke' abgeleiteten slavischen nnd baltischen Orts- und Gewassernamen. — BNF 15, 1964, 247 и след; он же. Der Reflex des baltischen Sub- strats in von *berz JBirke' abgeleiteten russischen Orts- und Ge­ wassernamen. — Там же, 261 и след.</note>
+</Entry>

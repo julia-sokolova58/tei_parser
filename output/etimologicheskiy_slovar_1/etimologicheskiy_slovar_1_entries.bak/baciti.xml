@@ -1,0 +1,57 @@
+<Entry xml:id="baciti">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baciti</orth>
+    <lemma>baciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>баци</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поцеловать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бацити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бро­ сить, выстрелить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бацйт</ref> , сюда же бачити</orth>
+      </form>
+      <sense>
+        <def>бросить и, возм., beciti trudere, torquere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Елез. 1)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 350)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с X V I в., RJA I, 219—220)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>ЬасШ, диал. bacit 'бросить, ударить' (Malina. Mistf. 8), русск. диал. бацитъ 'делать что-либо' (Фи­ лин 2, 159).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. форма, морфологически, по-видимому, вторичная по отно­ шению к<ref type="etymon" target="bacati-2">*bacati</ref> I <ref type="etymon" target="bocati-2">*bocati</ref> 
+(см., там же 
+подробно 
+об 
+этимо­
+логии).</gram>
+  </gramGrp>
+</Entry>

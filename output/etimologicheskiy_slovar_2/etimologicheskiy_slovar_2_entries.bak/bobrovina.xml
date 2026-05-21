@@ -1,0 +1,101 @@
+<Entry xml:id="bobrovina">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobrovina</orth>
+    <lemma>bobrovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bobrovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шкура бобра , бдбровына ж. р. мех бобра, бобровое мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только у Стулли, RJA I, 466)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 671)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bobrovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мех бобра,бобровая струя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bobrovina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>castorina (саго) (Klaret, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bobrovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо бобра , мех бобра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bobrojna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мясо бобра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бобровына</ref> саго fibri</orth>
+      </form>
+      <sense>
+        <def>бобровое мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Феод. Печ. Отв. Из. 215, Срезневский I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бобровына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо бобра</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бобровына</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бобровая струя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы прилаг. <ref type="etymon" target="bobrovb">*bobrovb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

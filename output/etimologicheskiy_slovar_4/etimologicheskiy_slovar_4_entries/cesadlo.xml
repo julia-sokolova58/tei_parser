@@ -1,0 +1,142 @@
+<Entry xml:id="cesadlo">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesadlo</orth>
+    <lemma>cesadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чесало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чисалу</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница , гребень для чесания скотины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. 1Мечка, Пикополско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.—БД IV, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>кешало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чесало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., URJA I, 945)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница, чесалка (для волокна)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cesaulo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ce</ref>^adlo ср. р.</orth>
+      </form>
+      <sense>
+        <def>чесалка (для шерсти) 5, скреб­ ница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cesalo</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Stanislav. Lipt. 241; liabov- stiak. 'Orav. 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cesadlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чесало</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гребень , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Феврон., Срезневский III, 1502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чесалка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>орудие для чесания, расчесывания чего-н., в форме гребня или щетки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>часалка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чесалка (текст.)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название орудия, производное с суфф. -(a)dlo от гл.<ref type="etymon" target="ceaati">*ceaati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Miklosich. Vgl. Gr. II, 98 и сл.; О. II. Трубачев «Этимология» (М., 1963) 40 и сл.; Трубачев. Ремесленная терми­ нология 79—80.</note>
+</Entry>

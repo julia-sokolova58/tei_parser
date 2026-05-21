@@ -1,0 +1,49 @@
+<Entry xml:id="akh">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьахъ</orth>
+    <lemma>Ьахъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bah</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гордец, шум, грохот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бах</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорун, краснобай</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 5)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное с экспрессивным -х- от основы Ьа- (см.<ref type="etymon" target="bajati-4">*bajati)</ref>.</gram>
+  </gramGrp>
+  <note>Возраст данного экспрессивного образования остается неясным, вместе с тем сравнение с более сложными *Ьахагъ, *baxora,<xr type="compare">см. <ref type="etymon" target="baxoriti">*baxoriti</ref>
+    </xr>, представленными в слав, 
+язы­
+ках 
+достаточно широко, дает некоторые основания 
+для 
+того, 
+чтобы сохранить также настоящий простейший тип в ряду дру­
+гих 
+однокоренных 
+образований 
+предположительно 
+праслав. 
+эпохи.</note>
+</Entry>

@@ -1,0 +1,123 @@
+<Entry xml:id="blqkatis">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blqkati (s§)</orth>
+    <lemma>blqkati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bloukati</ref> se</orth>
+      </form>
+      <sense>
+        <def>бродить, блуждать , bln- kati то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>btukafse</ref>, bluncaVse</orth>
+      </form>
+      <sense>
+        <def>бродить, блуждать , blunkat se блуждать, скитаться , blokat se то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blukaVsa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>Ыикас</ref> če то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blqkac</ref> si&lt;°</orth>
+      </form>
+      <sense>
+        <def>блуждать, бродить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блукатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, бродить, шататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 244: новг., курск., ворон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блукати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бродить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. Полт. Гор. Ур. I, 75 —1666 г. и др., Тимченко I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блукати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, скитаться, ходить без цели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блукаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бродить, блуждать, плутать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 128)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное расширение с помощью элемента -к- основы гл.<ref type="etymon" target="blgditi">*blgditi</ref> или <ref type="etymon" target="blgdati">*blgdati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. так еще С. Микуцкий Изв. ОРЯС IV, 1855, 411; Miklosich 15; Bruckner 31; Stawski I, 36; Machek 35; Фасмер I, 178; A. Vaillant «Studia linguistica in hono- rem Th. Lehr-Sptawinski» 154. Предполагать влияние слова *lyka или *1дкъ (Berneker I, 62) или даже происхождение из *ob-lgkati путем переразложения (G. Iljinsky PF 11, 1927, 190—191) кажется излишним. Еще менее вероятно сближение с лит. blankstu, Ыап- кайу blankti 'бледнеть', лтш. blankstlties (К. Буга РФВ LXX, 1913, 101). Повторение старых толкований см. Sadnik—Aitzet- muller. Vgl. Wb. 5, 344. Хотя инновационный характер описанного задненебного рас­ ширения не оставляет сомнений, не исключена возможность его раннего развития, ср., с одной стороны, русск. диал. блуга 'корова или овца, отбившаяся от стада', а с другой стороны — болг. диал. блук м. р. 'брод через реку' (Стойчев БД II, 130), блуг м. р. то же (с. Плевня, Драмско, Архив Болг. диал. словаря, София; Геров—Панчев: блугъ).</note>
+</Entry>

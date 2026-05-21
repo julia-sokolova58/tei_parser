@@ -1,0 +1,59 @@
+<Entry xml:id="cerdbnbjb">
+  <pb n="63" end_page="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerdbnbjb</orth>
+    <lemma>cerdbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>прЪдшш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очередной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>creden</ref>, -dna, прилаг. ^стадный</orth>
+      </form>
+      <sense>
+        <def>, ceden, -dna, прилаг. чистый, опрятный, благопристойный, учтивый, разумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 310)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>stridny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чередующийся, попеременный, dredny, прилаг. уличный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>strdudrii</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. 'стадный' (Lorentz Slovinz. Wb. II, 1113), русск, диал. чёредный, -ая, -ое 'опрятный, чистый, аккуратный, чистоплотный, ловко одетый' (пек., Опыт 256), череднбй, -ая, -бе 'порядочный, обыкновенный' (волог., там же), череднбй, -ая, -бе 'очередной, следующий по очереди' (Словарь говоров Подмосковья 538).—От­ сюда субстантивированное производное русск. диал. череднйк м. р. 'пастух' (курск., Опыт 256), 'порядок' (Куликовский 132).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="cerda">*cerda</ref> (см.) или от <ref type="etymon" target="cerdja">*cerdja</ref> 
+(см.), как в случае с укр. черёжний (см. выше).</gram>
+  </gramGrp>
+  <note>Особые этимо­ логии для словен. ceden (Berneker I, 159: от *c?do; A. Issatschenko ZfslPh XIII, 1936, 99—100: якобы родственно *cistb, *cesta) со­ вершенно излишни, в чем убеждает хотя бы русск. диал. чёред­ ный 'опрятный, чистый, аккуратный' (см. выше).</note>
+</Entry>

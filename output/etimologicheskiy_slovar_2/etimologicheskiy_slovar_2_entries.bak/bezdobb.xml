@@ -1,0 +1,45 @@
+<Entry xml:id="bezdobb">
+  <pb n="17" end_page="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdobb</orth>
+    <lemma>bezdobb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>вбздовА</ref>, нареч. aaiiqv, frustra</orth>
+      </form>
+      <sense>
+        <def>напрасно; безвре­ менно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бездобь</ref>, прилаг. нескл. и нареч. dvovTj-oc, inutilis</orth>
+      </form>
+      <sense>
+        <def>бесполезный, напрасный, jxdxiQv, frustra, injuste напрасно . — Отсюда прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бездобьныи</ref> с тем же знач. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ио. Леств. XIII в., Срезневский, там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-15">*bez</ref> (см.) и основы dob- (см. 
+<ref type="etymon" target="doba">*doba)</ref>, наречного 
+вида.</gram>
+  </gramGrp>
+  <note>См. специально Chr. Stang «Norsk tidskrift for sprogviden- skap» 27, 1973, 77. По словообразованию и морфемному составу сюда примыкает морфологически особое польск. Brzez-dob, имя Этимологический словарь, в, 2 собств., &lt; *bez-dobb. Ср. о последнем: Milewski. Indoeuropej- skie imiona osobowe, 223.</note>
+</Entry>

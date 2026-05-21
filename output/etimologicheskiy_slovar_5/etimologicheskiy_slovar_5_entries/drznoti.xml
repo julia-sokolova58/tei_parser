@@ -1,0 +1,124 @@
+<Entry xml:id="drznoti">
+  <pb n="227" end_page="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrznǫti</orth>
+    <lemma>dьrznǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref>^АЗЫЛТИ, д^зил^ти OappeTv, ToXp,av, audere</orth>
+      </form>
+      <sense>
+        <def>дерз­ нуть, осмелиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>др</ref>^зна</orth>
+      </form>
+      <sense>
+        <def>дерзнуть, осмелиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: дрьзнк)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрзне</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрзнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дерзнуть, решиться, осмелиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 710)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfzniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осмелиться, дерзнуть , ср. еще drzniti ободрять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 181)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drznuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дерз­ нуть, осмелиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>darznqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осме­ литься, отважиться, дерзнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>girznoifc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осмелеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дьрзнНти</ref>, дъръзпХти, дръзнНти</orth>
+      </form>
+      <sense>
+        <def>осмелиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мр. XV. 13. Остр, ев.; Мин. 1096 г. сент. 103; Нест. Жит. Феод. 25, Срезневский I, 778)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m> «*-пеи-), 
+соотносительный с прилаг. <ref type="etymon" target="dbrzb">*dbrzb</ref> (см.). 
+Ср. параллельное образование в др.-инд. dhrsi^oti « <ref type="etymon" target="dhrs-neu-ti">*dhrs-neu-ti)</ref> 
+'дерзать, решаться'. Соображения относительно чередования здесь 
+назального суфф. с назальным инфиксом в лит. dr$sii, dr\sti то же 
+см. Otrqbski. Studia indoeuropeistycene 115.</gram>
+  </gramGrp>
+</Entry>

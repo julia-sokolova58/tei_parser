@@ -1,0 +1,91 @@
+<Entry xml:id="dupla">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dup(ь)l’a</orth>
+    <lemma>dup(ь)l’a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дупл</ref>&gt;а ж. р.</orth>
+      </form>
+      <sense>
+        <def>дупло (в дереве), полость (в теле), яма, нора, логово, пещера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duplja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>углубление, дупло (в дереве), пещера, грот, устье печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziupla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дуплъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расселина, углубление, пещера , пу­ стота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ж. Андр. Юрод. ВМЧ, Окт. 1—3, 215, XVI в. ~ XII в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ж. Андр. Юрод. ВМЧ, Окт. 1—3, 104, XVI в. ^ XII в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. РЯ XI—XVII вв. 4, 376)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дупля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дупло , дупгя ж. р. дупло дерева (новг., яросл.), дуплистое дерево (волог., новг., яросл.), ягодицы (смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ко- порский. О говоре севера Пошехоно-Володарского уезда Ярослав­ ской губернии 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 8, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дупл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а комната в хате . — Ср. еще реконструируемое др.-луж. *dupVa дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Бабинець. Гов1рка села Лавки Мукач1вського району (Дип. роб.), Ужгород, 1954, 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. Э. Эйхлер «Исследования по сербо-лужицким языкам» (М., 1970) 193.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -/-а от<ref type="etymon" target="dup1o">*dup(ь)1о</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

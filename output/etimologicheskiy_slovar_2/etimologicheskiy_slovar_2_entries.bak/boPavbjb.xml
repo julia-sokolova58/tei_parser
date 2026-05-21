@@ -1,0 +1,83 @@
+<Entry xml:id="boPavbjb">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boPavb(jb)</orth>
+    <lemma>boPavb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'evb(jb)</orth>
+    <lemma>bol'evb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>болев</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>больной , болев то же , bolijav, прилаг. болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mag. 426)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bolavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>раненый, разболевшийся; страдающий, болезненный, причиняющий боль; вызывающий страдание, скорбь; стар, bolevy то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>boVavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный; скорбный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. (<ref>кашуб</ref>.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc" type="old">стар. <ref>bolevi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>больной, чувствительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болявый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>слабый, хилый, часто болеющий, с бо­ лячками на лице</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 3, 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(a)v- от основы гл.<ref type="etymon" target="ogyots">*ЬоГёЦ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

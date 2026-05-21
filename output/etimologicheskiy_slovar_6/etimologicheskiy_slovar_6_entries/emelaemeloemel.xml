@@ -1,0 +1,238 @@
+<Entry xml:id="emelaemeloemel">
+  <pb n="26" end_page="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*emela/*emelo/*emelъ</orth>
+    <lemma>emela/*emelo/*emelъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>emelo</orth>
+    <lemma>emelo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ете1ъ</orth>
+    <lemma>ете1ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>имел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>паразитическое растение Viscum, Loranthus , имело ср. р. омела Viscum , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>имел</ref> м. р. , имела ж. р., ймала ж. р., ёмила ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 157, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>мела</ref>, имела ж. р.</orth>
+      </form>
+      <sense>
+        <def>омела Viscum album L., также omela ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA VIII, 913)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>imela</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>омела , omela ж. p. то же , mela ж. p., собир. melje cp. p. , omelje cp. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 293)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 824)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 568—569)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 824)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jmele</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>омела</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jmeli</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>омела Viscum, стар, jmelu.y. то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jemela/*emelo/*emelъ</ref> ж. p. то же , jemelo , jamel м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(силезск., Kott I, 619)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 132; Sverak. Karlov, 118)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>omelOy</ref> jemalo, jemelo ср. p.</orth>
+      </form>
+      <sense>
+        <def>омела , emelo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 221)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jamelo</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. стар, <ref>jemlina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>омела , jemjelina ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1799, Schuster-Sewc. Sprach- denkm. 237)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jemjol</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>омела белая Viscum album L. , jemelica, je- rhelina ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 543)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jemiola</ref> ж. p.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jemiel</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>омела Viscum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>омела</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приманка для птиц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр. 121, Срезневский II, 666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>омёла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ра­ стение Viscum album, птичий клей , вечнозеле­ ное кустарниковое растение с белыми ягодами, растущее парази­ том на других деревьях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1740)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ямелйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>омела Viscum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 540)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>амёла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>омела также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>амыа</ref> ж. р. , емяла ж р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Народная лексша 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыялектнага слоунша Гомельшчыны 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -el- от основы<ref type="etymon" target="et-">*ет-</ref> гл. 
+*]'ътд (см.). 
+«Эта этимология достоверна и ясна, несмотря на все новые по­
+пытки затемнить ее; дело в том, что из ягод или из коры ра­
+стения . . . добывался птичий клей, и поэтому омела получила 
+название 'хватающая, берущая'» (A. Bruckner 
+KZ XLV, 1913, 
+296).</gram>
+  </gramGrp>
+  <note>Имея в виду паразитический образ жизни растения, можно предположить также иное первоначальное осмысление той же эти­ мологической основы. Аналогично образованы балт. названия омелы: лит. amalas (и более первонач. огласовка emalas), лтш. amuls. Необходимо обратить внимание и на определенную ана­ логию в образовании герм, названия омелы: нем. Mistel, др.-в.- нем. mistil, англ. mistle, кот. до сих пор считается этимологически темным (см. Kluge 2 0 482). А между тем опыт слав, этимологии подсказывает, кажется, единственную серьезную возможность объяснения герм, слова из *em-istla, суффиксального производного от и.-е, *етп- 'брать, хватать', вытесненного в герм, новообразо­ ваниями. Связи между герм., слав, и балт. названиями омелы касался, правда, в несколько ином смысле Отрембский (см, Ot- r^bski. Studia indoeuropeistyczne 203). См. из литературы: А. А. Потебня РФВ VI, 1881, 149—150 (сближение с др.-инд, a-mala 'без пятен', т. е. 'чисто белая', ср. лат. Viscum album); Miklosich 95; Berneker I, 426 (привле­ кает для сравнения др.-инд. amd- 'сырой, незрелый', греч. u)čioc и др.-инд. amid- 'кислый', лат. amarus 'горький', якобы в связи со вкусом ягод); Фасмер III, 139 (придерживается этимологии Бернекера); Fraenkel I, 9 (та же этимология и допущение ран­ него заимствования в балт. и слав, языках); Machek 2 230 (пред­ полагает «праевроп.» происхождение балт. и слав, слов); Skok. Etirn, rjecn. I, 718 (от 'брать'); Arumaa. Urslavische Gram- matik I, 106 (специально останавливается на чередовании началь­ ных гласных: словен. omela, польск. jemiola, ст.-чеш. jmele, т. е. о-: е-: /V).</note>
+</Entry>

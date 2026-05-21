@@ -1,0 +1,32 @@
+<Entry xml:id="batikb">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>batikb</orth>
+    <lemma>batikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>батик</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>короткое древко цепа , палка с утолщением на одном конце, использующаяся для разных целей, часть цепа, ударяющая по снопам; било, : к н у т</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от основы bat- см. 
+и особенно — 
+<ref type="etymon" target="batog">*batog</ref>^.</gram>
+  </gramGrp>
+  <note>Древность образования трудно доказать.</note>
+</Entry>

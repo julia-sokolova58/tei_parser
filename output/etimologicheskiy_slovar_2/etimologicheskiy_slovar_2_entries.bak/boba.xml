@@ -1,0 +1,65 @@
+<Entry xml:id="boba">
+  <pb n="142" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boba</orth>
+    <lemma>boba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боба</ref> ж. р.: рач]а боба</orth>
+      </form>
+      <sense>
+        <def>рачья икра, ova cancri, виноградинка, клубень (картофеля), маленькая бородавка на голове, напр. у индюшат, маленький камешек, ЪоЪежк. Scrophu- laria nodosa L. , боба ж. p. все круглое вообще: бобе од хлеба круглое утолщение на клюве голубя (обычно бобе мн.) рачья икра, колючка у рыбы Leuciscus virgo вареный горох, фасоль и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 463)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 667)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>боба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Helich- rysum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>боба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>детская игрушка , крестная мать , детская сорочка, рубашка , боба ж. р. крестная мать (яросл., волог.), м. р. крестный отец (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., пек., тверск., Даль 3 I, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., ворон., донск., перм., Фи­ лин 3, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>С одной стороны, очевидно, связано с<xr type="compare">см. <ref type="etymon" target="baba">*baba</ref>
+    </xr>, будучи отра­
+жением общего архаич. звукокомплекса (редупликация), с чер­
+тами древнего полисемантизма — и.-е. *bhabh-. С другой сто­
+роны, довольно тесно примыкает к слав. <xr type="compare">см. <ref type="etymon" target="o-3">*ЬоЬъ</ref>
+    </xr>. Ср. и RJA 
+(там же): «Того же происхождения, что и bob». Небезынтересно 
+отметить особую близость в грамм, роде и основе между слав. 
+*boba и лат. faba ж. р. 'боб'.</note>
+</Entry>

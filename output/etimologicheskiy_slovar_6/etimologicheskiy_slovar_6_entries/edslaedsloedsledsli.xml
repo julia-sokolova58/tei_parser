@@ -1,0 +1,225 @@
+<Entry xml:id="edslaedsloedsledsli">
+  <pb n="44" end_page="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdsla,*ĕdslo, *ĕdslь, *ĕdsli</orth>
+    <lemma>ĕdsla,*ĕdslo, *ĕdslь, *ĕdsli</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edslo</orth>
+    <lemma>edslo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edslb</orth>
+    <lemma>edslb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edsli</orth>
+    <lemma>edsli</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>mm</ref> мн. cpaxvT], praesepe</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Лсла</ref> ж. р м обыкновенно Лели мн.</orth>
+      </form>
+      <sense>
+        <def>ясли, кормушка для скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йбела</ref> ж. р. то же , ййслъ ж. р. , также ёсал м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник — БД V, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>щели</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ясли (для скота)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>йсле</ref>, ]&amp;сли мн. то же, jasla ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнойник, нарыв , jdsla мн. ясли, кормушка , ]Ыо ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словарях Белостенца, Вольтиджи, Стулли, RJA IV, 480)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 481)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA IV, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdsli</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ясли, кормушка, jdsla мн. то же , также jdsle мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jesli</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ясли, кормушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jesle</ref> мн. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jaseV</ref>, jasVe ж. р. , jaue мн. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. VychodolaS. И, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasle</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ясли, кормушка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jasVe</ref> мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matej6fk. Vychodonovohrad. 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jasla</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>Schaf- horde</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jasla</ref> ср. p. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>ясли, кормушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jasla</ref>, стар, jasly мн.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jaslo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кормушка для скота, ясли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шли</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящик для корма скоту, ясли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский III, 1666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Лели</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>кормушка для скота в виде решетки, прикрепленной наклонно к стене</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Лсла</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ясли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Лслг</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>ясли</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, производное с суфф. -si- от<ref type="etymon" target="ed--3">*ed-</ref> (см. <ref type="etymon" target="esti">*esti</ref>&gt; <ref type="etymon" target="edmb-2">*edmb)</ref>, ср. 
+лтш. диал. esli(s) 
+'обжора'.</gram>
+  </gramGrp>
+  <note>См. В. В. Иванов ВСЯ 2, 22—23; R. Eckert ZfS XIX, 1974, 503. Далее см. A. Meillet MSL 14, 1907, 336 (неоправданное предположение о сохранении в слав, слове и.-е. о, представленного в греч. ёй-ю&amp;т], арм. utem 'я ем'; ср., однако, вокализм лтш. формы — выше); Berneker I, 275; Фасмер IV, 565.</note>
+</Entry>

@@ -1,0 +1,54 @@
+<Entry xml:id="berstina">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstina</orth>
+    <lemma>berstina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Brestine</ref> ж. мн., мести, назв. в Сербии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA I, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfestina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вязовая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bre</ref>- stina ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берестйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 256)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от названия дерева (см. <ref type="etymon" target="bersfo">*bersfo)</ref> 
+или от названия березовой коры, как в случае с русск. словом.</gram>
+  </gramGrp>
+  <note>Древность проблематична.</note>
+</Entry>

@@ -1,0 +1,89 @@
+<Entry xml:id="etrnj">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ętrьnъ(jь)</orth>
+    <lemma>ętrьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>jetrn</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>печеночный, jetrni , ]ётарнй% -а, -б</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 631)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 747)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jetrn</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>печеночный , также jetren, прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 369)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jatrni</ref>, jatrny, jaterni</orth>
+      </form>
+      <sense>
+        <def>печеночный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 604)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaterny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. ]<ref>Шпу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гноистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jgtrena</ref>, прилаг. ж. р.</orth>
+      </form>
+      <sense>
+        <def>печеночная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Po­ lanski—Sehnert 76, с реконструкцией *jftrenaja)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шпрьныи</ref>, прилаг. от шпро .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в., Срез­ невский III, 1674)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -ыгъ от<xr type="compare">см. <ref type="etymon" target="tro">*$tro</ref>
+    </xr>....</note>
+</Entry>

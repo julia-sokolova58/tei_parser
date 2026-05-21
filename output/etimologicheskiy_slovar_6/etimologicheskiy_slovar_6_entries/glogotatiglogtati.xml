@@ -1,0 +1,96 @@
+<Entry xml:id="glogotatiglogtati">
+  <pb n="135" end_page="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glogotati/*glogъtati</orth>
+    <lemma>glogotati/*glogъtati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glogbtati</orth>
+    <lemma>glogbtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глоготати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клокотать, бурлить, глдк- тати то же , глокдтати токовать, издавать крик (о тетереве)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 356, 358)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glogotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клокотать, шуметь (напр. о море)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>glogotac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кле­ котать, издавать клекот (напр. об орле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 843)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глактацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лакать . — Ср., с другим исхо­ дом основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глохтйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пить с жадностью, боль­ шими глотками, издавая звуки горлом ; ср. и соотносительное именное образование:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глугут</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>щекотка (с. Секирово, Пловдивско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдгбт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>клокотание, бурление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. происхождения.</note>
+</Entry>

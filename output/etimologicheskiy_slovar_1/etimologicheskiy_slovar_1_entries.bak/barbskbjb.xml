@@ -1,0 +1,26 @@
+<Entry xml:id="barbskbjb">
+  <pb n="159" end_page="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>barbskbjb</orth>
+    <lemma>barbskbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>barski</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>paluster, болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 190)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -bsk- от<ref type="etymon" target="bara-5">*bara</ref> (см.).
+<ref type="etymon" target="basnb">*basnb</ref>
+    </gram>
+  </gramGrp>
+</Entry>

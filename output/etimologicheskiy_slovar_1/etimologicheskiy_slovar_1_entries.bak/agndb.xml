@@ -1,0 +1,67 @@
+<Entry xml:id="agndb">
+  <pb n="54" end_page="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agn^db</orth>
+    <lemma>agn^db</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>лгмаа</ref>"а m. p. atyeipoc, populus nigra (Mild.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdeued</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>тополь PopuluS nigra L. (Вук Карацип)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jaeibeda</ref>, jaened то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Djor, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdgned</ref>, jdgnjed м. p.</orth>
+      </form>
+      <sense>
+        <def>тополь Populus nigra L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354, 355)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>jehned</ref> м. p., сюда же — jehneda ж. p.</orth>
+      </form>
+      <sense>
+        <def>цвет, сережки</def>
+      </sense>
+    </item>
+  </etym>
+  <note>JEHNED м. р. 'сережки (на деревьях)' (Gebauer I, 623), слвц. jah- hada ж. р. то же (SSJ I, 628). Это слово, представленное в данной форме в сербохорв., словен., чеш. (см. еще *agn$dbjey ниже; ср. еще обзор в кн.: А . Будилович. Первобытные славяне I, 1. Киев, 1878, 131; 2. Киев, 1879, 326), является обозначением черного тополя, осокоря или его цветов по известному названию животного —<xr type="compare">см. <ref type="etymon" target="agne">*agne</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Связь<ref type="etymon" target="agne">*agne</ref> — 
+<ref type="etymon" target="agn-5">*agn</ref>$db вполне прозрачна, тем не менее о деталях словообразова­
+ния ведутся споры, — является 
+ли <ref type="etymon" target="agned-">*agned-</ref> звонким 
+вариантом 
+основы названия животного <ref type="etymon" target="agn-6">*agn</ref>$t-, что говорило бы о согласном 
+типе данной именной основы, или же здесь представлен другой 
+суффикс, 
+расширение 
+<ref type="etymon" target="agn-7">*agn</ref>$-d- 
+с 
+собирательным 
+значением.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 25; Zubaty. Studie a clanky I, 1, 36; H o l u b — K o - pecny 151 (где неточно: «Только чеш., древнее»); Machek 174— 175; Moszynski. Pierwotny zasič\g 34, 319; Фасмер IV, 545 (рекон­ струирует *agn$db); Sadnik—Aitzetmuller. V g l . W b . 1, 11—12; Откупщиков. Из истории и.-е. словообразования 149, 150, 154. Однако ученые, которые членят слово как *agne-d- (Sadnik—Ait­ zetmuller, Откупщиков), должны еще доказать древность основы *agnen- в слав. Давно обратили внимание на сходство названий деревьев — н-раслав. *agnfdr&gt; и греч. ayvoc 'Vitex agnus castus' (см. E. 1лden IF X V I I I , 1905—1906, 506; Mikkola. Urslav. Gramm. I, 51), что затрудняется неясностью греч. слова (из др.-евр.? См. Hofmann 2, Frisk I, 13). Аналогию *agn$db—*agn$ представляют греч. a'tyst- рос 'черный тополь, осокорь' — atč, aiyo^ 'коза', см. Трубачев В Я 1957, № 3, 149.</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="duxna">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dux(ъ)na</orth>
+    <lemma>dux(ъ)na</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duchna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхняя перина, пуховое одеяло , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duchna</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.- bucov. 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duchna</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>перина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>duxna</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>большая верхняя перина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 179)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(ъ)па от<ref type="etymon" target="duxb-2">*duxb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. отношение *окъпо —<xr type="compare">см. <ref type="etymon" target="oko">*око</ref>
+    </xr>. Ср. еще Machek
+2 133—134.. Ср. еще Machek
+2 133—134.. Ср. еще Machek
+2 133—134.. Ср. еще Machek
+2 133—134.</note>
+</Entry>

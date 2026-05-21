@@ -1,0 +1,185 @@
+<Entry xml:id="dxnoti">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъxnǫti</orth>
+    <lemma>dъxnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^^И/^ти ejxrcvelv, spirare</orth>
+      </form>
+      <sense>
+        <def>дохнуть, дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъхна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дана</ref> , дъана то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Пле- венско. — БД VI, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дахнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дохнуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>да</ref>¬ нут (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dahniti</ref>, dehniti</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dech</ref>- nouti, dchnouti</orth>
+      </form>
+      <sense>
+        <def>дохнуть , tchnouti то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott IV, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dochnuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дохнуть, околевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>dechnuV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дохнуть, околевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>tchnqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать, тяжело дышать, вздохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъхнХти</ref> flare</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Мин. 1097 г. 75, Срезневский I, 762)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дох</ref>­ нуть</orth>
+      </form>
+      <sense>
+        <def>вобрать в себя, втянуть струю воздуха; сделать ^вдох, дохнуть издыхать, околевать, умирать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дохнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кашлять , ударить , издать сильный отры­ вистый звук, бахнуть, с шумом и с силой бросить, уронить что-либо или ударить и т. п., бухнуть, грохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь. Тверской у. Тверской губ. Труды МДК. —РФВ LXX1, 1914, 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дохнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вздохнуть , дох- пути издыхать, дохнуть , дхнути дохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 435)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дбхнуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, соотносительный с <ref type="etymon" target="dbxati">*dbxati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

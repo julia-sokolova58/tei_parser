@@ -1,0 +1,63 @@
+<Entry xml:id="duraI">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dura I</orth>
+    <lemma>dura I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дура</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сердитый, злой человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dura</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дурак, глупец , чещ. про- стореч. dura ж. р. дура, шлюха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dura</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дура</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупая, тупая женщина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дура</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода голубика Vaccinium uliginosum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Под­ московья 125)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Соотносительно с *durb I (см.).</note>
+</Entry>

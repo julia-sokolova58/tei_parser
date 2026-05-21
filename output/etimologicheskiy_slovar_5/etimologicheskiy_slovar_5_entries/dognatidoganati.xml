@@ -1,0 +1,155 @@
+<Entry xml:id="dognatidoganati">
+  <pb n="51" end_page="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dogъnati/*dogan’ati</orth>
+    <lemma>dogъnati/*dogan’ati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dogan'ati</orth>
+    <lemma>dogan'ati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>догоня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догнать, наверстать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; может быть связано и с инф. * dogoniti [см.], судя по форме 3 л., ср. и макед., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>догнаши</ref>, ддженём (ддгнам) то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dogndti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>загнать, пригнать, довести до конца, окон­ чить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dohnati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглашать повторный вызов в суд, что обязывало к явке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 38; Gebauer I, 282)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dohnati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пригнать, принудить, наверстать, dohdneti догонять, настигать, принуждать, навёрстывать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dohnaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пригнать, заставить, принудить, наверстать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dohnac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пригнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dognac</ref>, doganiac</orth>
+      </form>
+      <sense>
+        <def>догонять, пригонять, стре­ мительно приближаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 196—197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>duggnac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>догнать</ref>, догонять</orth>
+      </form>
+      <sense>
+        <def>настигать кого doxoditi или что по пути следования, гнать до какого-либо места, до конца</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>дугнати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упрекать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к сло­ варю закарпатской литературы XVI—XVII вв. Будапешт, 1965 [микрофильм]: Словарь Няговской постиллы XVI в., 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>догнати</ref>, дожену</orth>
+      </form>
+      <sense>
+        <def>догнать, нагнать, догнать, пригнать, в ка­ кой-либо работе, сопряжённой с прохождением пространства (напр. косьба): дойти до конца , доганяти догонять, нагонять, догонять, прогонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 406)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дагнацъ</ref>, даганяцъ</orth>
+      </form>
+      <sense>
+        <def>нагонять, нагнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-10">*do</ref> (см.) и гл. <ref type="etymon" target="gbnati">*gbnati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,91 @@
+<Entry xml:id="gnetiti">
+  <pb n="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnetiti</orth>
+    <lemma>gnetiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ггьётити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мять, давить, месить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gnesie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мять, гнести, раздавливать, ласкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Якубица</ref>) gnatis</orth>
+      </form>
+      <sense>
+        <def>приручать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнетйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнести, пригнетать, нажимать , жать, давить своей тяжестью , притес­ нять, угнетать, запасать что-л</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 241)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гттйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давить, прессовать, нагнетать, угнетать, бить . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnetily</ref>, прилаг.: hnetile suedomi</orth>
+      </form>
+      <sense>
+        <def>отягченная совесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 701)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), производный от <ref type="etymon" target="gnetq">*gnetq</ref>, <ref type="etymon" target="gnesti">*gnesti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

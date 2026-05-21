@@ -1,0 +1,58 @@
+<Entry xml:id="bylo">
+  <pb n="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bylo</orth>
+    <lemma>bylo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ы1о</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>truncus, ствол, стебель (без ветвей)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стебель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>било</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стебель растения (конопли), стержень кукурузы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стебель, ствол, ботва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диалекта 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="u1-2">*Ьу1ъ</ref>
+    </xr>; формально тождественно греч. cpoXov 'род, 
+племя', с кот. слав. *bylo объединяет общий формант -I- и грамм, 
+род.</note>
+</Entry>

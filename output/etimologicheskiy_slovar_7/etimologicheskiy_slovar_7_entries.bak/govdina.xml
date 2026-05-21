@@ -1,0 +1,167 @@
+<Entry xml:id="govdina">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gov§dina</orth>
+    <lemma>gov§dina</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gov§djina</orth>
+    <lemma>gov§djina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гойёдина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>крупный рогатый скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гувёдинъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Ка- занлъшко.—БД V, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>говедина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина, ско­ тина , также гове%ина ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 406)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gove</ref>- dina ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hovedinam</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 479; Simek 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hovezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина, бычья шкура, (стар.) крупный рогатый скот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hovjezina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крупный рогатый скот, говядина , елвц. hovadzina ж. р. говядина, бычья шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubi'n. Cech. klad. 179)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gowezina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>откормленный рогатый скот, говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>gowezyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gow</ref>?dzina, owi$zina ж. p.</orth>
+      </form>
+      <sense>
+        <def>говядина , др.-русск, говАдина мясо говяжье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 886; III, 918)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 964 г., Срезневский I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>говядина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хмясо быка, вола или коровы, употребляемое в пищу, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>говядина</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(новг., перм.^, твер., вят., Филин 6, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гавядзта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говя­ дина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>также</ref> гывядзта ж. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Магш. 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="gov">*gov</ref>$do (см.).</gram>
+  </gramGrp>
+</Entry>

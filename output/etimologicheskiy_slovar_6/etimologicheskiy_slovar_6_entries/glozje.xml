@@ -1,0 +1,71 @@
+<Entry xml:id="glozje">
+  <pb n="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gložьje</orth>
+    <lemma>gložьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глбже</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>заросли боярышника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глоге</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>глбжг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>е</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Кумановскиот говор 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдж</ref>]е ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>за­ росли боярышника, также глбж%е ср. р., собир</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlozi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>заросли боярышника, терновника</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlozie</ref> ср. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 484)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (собир.) с суфф. -ь]е от<ref type="etymon" target="glog-2">*glogъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,48 @@
+<Entry xml:id="JMedica">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>JMedica</orth>
+    <lemma>JMedica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бледица</ref>, блёдица, бл&gt;едйца ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь бледная * немощь chlorosa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность, бледная немощь, ласка (животное)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>Ые</ref>- daica ж. (и м.?) р.</orth>
+      </form>
+      <sense>
+        <def>бледность, человек с бледным лицом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ро- lanski—Sehnert 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="sh-2">*ЬШъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Полаб.-сло- вен.-сербохорв. словообразовательно-лексическая изоглосса. См. Lehr-Sptawinski, Polanski. Stownik etymologiczny jqzyka Drze- wian potabskich 1, 36—37; Sadnik—Aitzetmuller. Vgl. Wb. 2, 136 (с пропуском сербохорв. соответствия).</note>
+</Entry>

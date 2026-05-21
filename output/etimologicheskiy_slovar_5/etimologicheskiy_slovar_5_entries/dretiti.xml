@@ -1,0 +1,37 @@
+<Entry xml:id="dretiti">
+  <pb n="220" end_page="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ь)rĕtiti</orth>
+    <lemma>d(ь)rĕtiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дрётя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстрекать, подначивать , дрётам торчать, мешать (в ра­ боте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dfetiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>манить, прельщать?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zlomky z Aleksandreidy z 14. stol., ИЗО, Kott I, 306)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Видимо, расширение корня *df ь)г- суффиксальной группой -ё-t-iti &lt; *-oi-t-. В качестве параллели можно привести лит. drai- kyti 'трепать' &lt; *dr-oi-k. Знач. ст.-чеш. слова объясняется как результат семантич. эволюции'раздражать'&gt;'манить, прельщать', ср. еще аналогию нем. слов, reizen, reizend. Предположение о местном заимствовании в болг. из алб. dredhi 'хитрость, лов­ кость' + суфф. -там (так см. Георгиев ВЕР VI, 426) вообще мало­ вероятно, особенно же неприемлемо в плане лингвистич. геогра­ фии, ср. наличие слова также в чеш. языке.</note>
+</Entry>

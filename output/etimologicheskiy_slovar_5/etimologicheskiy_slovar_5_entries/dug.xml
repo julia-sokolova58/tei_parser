@@ -1,0 +1,61 @@
+<Entry xml:id="dug">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dugъ</orth>
+    <lemma>dugъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>duhiza</ref> duhy</orth>
+      </form>
+      <sense>
+        <def>pro asseribus, prichodi k duhu, neyde lldem k duhu (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duh</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>сила, процветание, vegetativa vis , duh м. p., только в сочетании, slouziti, jiti k duhu быть на пользу, идти впрок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mat. Benesovsky kniz., Jungmann I, 497)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duh</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Neide ти to v duh 'это ему не по душе'. Bar­ tos. Slov. 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duh</ref> м. р., только в сочетании isf, byt</orth>
+      </form>
+      <sense>
+        <def>k duhu быть на пользу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дХгъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сила (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срез- левский I, 741)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вместе с лит. daug 'много', гот. daug, нем. taugen 'годиться, подходить' продолжает и.-е. *dheugh~, ср. ещё греч. ти^тг] 'судьба, удача'. См. Machek 2 133, 394; Фасмер I, 549, 560; Kluge 2 0 773; Fraenkel I, 84; Pokorny I, 271.</note>
+</Entry>

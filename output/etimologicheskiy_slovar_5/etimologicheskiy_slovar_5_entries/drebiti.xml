@@ -1,0 +1,35 @@
+<Entry xml:id="drebiti">
+  <pb n="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drebiti</orth>
+    <lemma>drebiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дрёб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а делать мелкими кусочками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев» Родопски речник. — БД V, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drjebid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крошить , если последнее не из *drobiti через ассимиляцию</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 161)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически тождественно<xr type="compare">см. <ref type="etymon" target="drobiti">*drobiti</ref>
+    </xr>....</note>
+</Entry>

@@ -1,0 +1,89 @@
+<Entry xml:id="bezsnezbnbjb">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsnezbnb(jb)</orth>
+    <lemma>bezsnezbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безснёжен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бесснежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёснежан</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бёснёжан</ref>, беаъежан, беснщежан, —оюна, —оюно</orth>
+      </form>
+      <sense>
+        <def>бесснежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 494)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezsniezny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бес­ снежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бесснежная</ref> зима, местность</orth>
+      </form>
+      <sense>
+        <def>голая, лишенная снега или малоснежная, скудная снегом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безснгжный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесснежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бясснёжны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесснежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-94">*bez</ref> 
+(см.) и суфф. -ыг- от <ref type="etymon" target="snyog">*snёgъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Словообразовательная характе­ ристика (— производное на -ыг-) допускает также вторичное происхождение.</note>
+</Entry>

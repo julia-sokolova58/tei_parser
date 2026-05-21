@@ -1,0 +1,92 @@
+<Entry xml:id="dotole">
+  <pb n="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do to lĕ</orth>
+    <lemma>do to lĕ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дстол</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Ь, нареч. &lt;жю&lt;;, тбте, tamdiu до тех пор, пока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dotole</ref>, dotole, нареч.</orth>
+      </form>
+      <sense>
+        <def>до тех пор , также dotole , ддтлё до тех пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA II, 714)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dotle</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до тех пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>dotal</ref> (Якубица)</orth>
+      </form>
+      <sense>
+        <def>до этого места, до сих пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. -<ref>цсЛав</ref>. дотолЪ, дотоли, дотоле *до того времени, до тех пор</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Смол. гр. п. 1230 г.; Новг. I л. под 1352 г., Срезневский I, 718)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дотоле</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до тех пор, до того времени, до того места или случая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>датуль</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дотоле, до тех пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="rfo">*rfo</ref> (см.), Но (см. Нъ) и *1ё (см.); соотносительно 
+с <ref type="etymon" target="do-33">*do</ref> ко U (см.).</gram>
+  </gramGrp>
+</Entry>

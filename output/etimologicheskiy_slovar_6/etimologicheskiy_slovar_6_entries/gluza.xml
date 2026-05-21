@@ -1,0 +1,83 @@
+<Entry xml:id="gluza">
+  <pb n="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gluza?</orth>
+    <lemma>gluza?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hluza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>какое-то кушанье, papula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Presp. 1714: «de convivio»', Gebauer I, 434, Klaret a jeho druzina, vyd. Flajs- hans, Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hluza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шишка, желвак, опухоль , gluza ж. p. нарыв, опухоль , hluza непогода, сневз- годы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 162)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gluza?</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>внутренний нарыв, железа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 837)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Галуза</ref>, Голуза, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Новг., X I V — X V вв., Тупиков 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галуза</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>шалун, шалунья; проказник, проказ­ ница; сорванец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., пек., сев.-зап., Филин 6, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глузи</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>насмешки , галуза горе, беда , если вост.-слав, примеры — не к * gluzdb (см.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онишке- вич. Словник бошивського д1алекту)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Выделение приведенных примеров в особую словарную статью может вызвать споры ввиду недостаточной ясности отношения к более четким самостоятельным особым праформам — *gliza и</note>
+</Entry>

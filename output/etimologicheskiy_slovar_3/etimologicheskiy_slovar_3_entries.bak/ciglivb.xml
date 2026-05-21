@@ -1,0 +1,37 @@
+<Entry xml:id="ciglivb">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ciglivb</orth>
+    <lemma>ciglivb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>циглйвый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о растении) быстро растущий, но слабый, тонкий, (о человеке) хилый, мозглявый, болезненный, нежный, (о почве) слабый, песчаный, тощий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>цйглеф</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>нежный, тонкий (с. Добротино, Гоцеделчевско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-гиъ</ref>
+      </m> от основы, этимологически 
+тождест­
+венной <ref type="etymon" target="cegfa">*cegfa</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

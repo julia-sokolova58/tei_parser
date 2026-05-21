@@ -1,0 +1,86 @@
+<Entry xml:id="dalitise">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>daliti (se)</orth>
+    <lemma>daliti (se)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>далити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удалять, далити се удаляться, ухо­ дить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>ddliti</ref> se</orth>
+      </form>
+      <sense>
+        <def>удаляться , также daliti se</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>даштисА</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(... рече бо иер^и ближат СА к г су бу иеремше о и же бъ ближаи СА а* есмь глть гь. и не бъ далА С А . . . Гр. Бог., XIV, 180а. Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>далйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удалять, относить вдаль; устранять, избегать , Залиться ^уходить вдаль, удаляться, устраняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1023)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>далйтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдаляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>далщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдалять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 88)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Шу</ref>
+      </m> соотносительный с именем на 4 - <ref type="etymon" target="dalb">*dalb</ref> (см.),</gram>
+  </gramGrp>
+</Entry>

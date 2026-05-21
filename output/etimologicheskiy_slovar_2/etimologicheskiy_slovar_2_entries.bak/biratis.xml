@@ -1,0 +1,89 @@
+<Entry xml:id="biratis">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>birati (s§)</orth>
+    <lemma>birati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бйрам</ref>, многокр. от бера</orth>
+      </form>
+      <sense>
+        <def>брать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: бйрамь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бира</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выбирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бйрати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать, выбирать, отбирать, перебирать, чистить, полоть, предпочи­ тать, бйрати се избирать, выбирать между собой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 563)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>biraf</ref>, итер.</orth>
+      </form>
+      <sense>
+        <def>брать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., ляш., Bartos. Slov. 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Ыегас</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брать часто, неоднократно или время от времени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 512)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>многокр</ref>. бирать. , В большинстве слав, языков широко выступает в сложениях с приставками, см. Berneker I, 56—57 .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же — относительно распространения)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративная форма от гл.<ref type="etymon" target="bbrati">*bbrati</ref> (см.), 
+с закономерным удлинением корневого вокализма этого послед­
+него инфинитива.</gram>
+  </gramGrp>
+  <note>В этом смысле может быть понята как слав, морфологическое новообразование, вместе с тем ripacjfaBi. древ­ ность данной инновации бесспорна, о чем, в частности&gt; косвенно свидетельствует достаточно архаичное словопроизводство *Ьč- rati -&gt;<xr type="compare">см. <ref type="etymon" target="yg">*Ыгъ</ref>
+    </xr> -&gt; <xr type="compare">см. <ref type="etymon" target="biritjb">*biritjb</ref>
+    </xr>. Зап.-слав, переход *birati'^&gt; 
+*berati 
+представляет собой вторичное фонет. 
+преобразование 
+(см. Berneker, там же, с.литер.), ср. сохранение древнего вока­
+лизма в старых производных (<xr type="compare">см. <ref type="etymon" target="eyg-2">*ЪеъЫгъ</ref>
+    </xr>, выше).</note>
+</Entry>

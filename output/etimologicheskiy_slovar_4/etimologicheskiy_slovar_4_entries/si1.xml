@@ -1,0 +1,97 @@
+<Entry xml:id="si1">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>си1ъ</orth>
+    <lemma>си1ъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>си1а</orth>
+    <lemma>си1а</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чул</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>корноухий, безрогий, курносый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чул</ref>, прилаг. , сербо­ хорв. ctila ж. р.</orth>
+      </form>
+      <sense>
+        <def>корноухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA И, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чула</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>корно­ ухая или безухая овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ciila</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чурбан, чурка, болван, дуралей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cula</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>без­ ухая овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VII, 2, 1224, с пометой: «слвц.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чулий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безухий или с маленькими ушами (о животных), безро­ гий или с маленькими рогами .—Возм., сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический атлас 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>culek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>penis, мужской половой член</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Младенов (ЕПР 689) возводил к и.-е. *кеи: *кои- 'бить, оби­ вать', что, однако, не объясняет элемента -Z-. Более точно и се­ мантически убедительно сближение со словен. kill], kdlja 'корова с кривыми рогами или без рогов', чеш. диал. kalka, kalice 'ку­ рица без хвоста' на базе чередования *cul-l *kul-. См. Л. В. Кур- кина «Этимология. 1971» (М., 1973) 60—61.</note>
+</Entry>

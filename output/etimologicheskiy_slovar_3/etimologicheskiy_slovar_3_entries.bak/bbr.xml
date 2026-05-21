@@ -1,0 +1,41 @@
+<entries>
+  <entry xml:id="bbr" xml:id="bbr">
+    <pb n="159" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьbrъ</orth>
+      <lemma>ЬьЬгъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>дабар</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бобр , с диссимиляцией б—б^&gt;д—б</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA II, 215)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>бъбръ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бобр</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Срезневский I, 211)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Стар, вариант, наряду с более 
+распространенными 
+названиями 
+этноним в Бри­
+тании, галльск. Bibracte, 
+местн. н.</note>
+  </entry>
+</entries>

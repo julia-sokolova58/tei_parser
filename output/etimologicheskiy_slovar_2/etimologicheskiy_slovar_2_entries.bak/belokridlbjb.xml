@@ -1,0 +1,97 @@
+<Entry xml:id="belokridlbjb">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belokridlb(jb)</orth>
+    <lemma>belokridlb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белокрйл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белокрылый (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белокрил</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белокрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белокрйл</ref>, б]елокрил, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белокрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belokfidly</ref>, прилаг. (поэт.)</orth>
+      </form>
+      <sense>
+        <def>белокрылый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielokridly</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белокрылый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>снабженный белыми крыльями , белокрыл м. р.—о птице или насекомом с белыми крыль­ ями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 384)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Филин 2, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быокрйлий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с белыми крыльями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белокрылы</ref>, ср. еще фам. Белокрылы, Белакрылау .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bipbma. Беларуская антрапашм*я 2, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и адъективно 
+употребленной именной основы <ref type="etymon" target="kridfa">*kridfa</ref> 
+(см. <ref type="etymon" target="kridlo-2">*kridlo)</ref>.</gram>
+  </gramGrp>
+  <note>О типе образования ср. на *belogolvb (выше).</note>
+</Entry>

@@ -1,0 +1,150 @@
+<Entry xml:id="derti">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derti</orth>
+    <lemma>derti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dpujemu</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дрйти</ref> сдрать, рвать</orth>
+      </form>
+      <sense>
+        <def>(КарациЬ), дрёти, дрёти то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 695)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dreti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, драть, мчаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dfit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мести (о ме­ тели)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>driet</ref> 9</orth>
+      </form>
+      <sense>
+        <def>драть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 331)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>dree</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drjec</ref>, dree</orth>
+      </form>
+      <sense>
+        <def>драть; рвать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dres</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть, отрывать, сбирать, ощи­ пывать, снимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drzec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, драть, дёргать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 402—403)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dree</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, драть , возм., сюда и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дерть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть перья с убитой птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. А. Расторгуев. Словарь народ­ ных говоров Западной Брянщины, 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Характер глагольных парадигм<ref type="etymon" target="dbrg">*dbrg</ref>, <ref type="etymon" target="derti">*derti</ref> и <ref type="etymon" target="derq">*derq</ref>, <ref type="etymon" target="dbrati">*dbrati</ref> 
+(см.; там же подробнее этимология и лит-ра), кроме констатации 
+их достаточно раннего сосуществования, может быть использован 
+для вывода о большей регулярности <ref type="etymon" target="dbrati-2">*dbrati</ref> (тематич. гл. на -ati) 
+и его сравнительной новизне (ср. <ref type="etymon" target="yai">*ЬыаИ</ref> с 
+воспроизведением 
+аористич. основы в инф.), тогда как <ref type="etymon" target="derti">*derti</ref> — атематич., в сущ­
+ности, глагол, причем выделяемая основа <ref type="etymon" target="der-">*der-</ref> имеет соответст­
+вия за пределами слав-ого.</gram>
+  </gramGrp>
+  <note>Ср. Мейе. Общеслав, язык 174—175; Vaillant. Gramm. comparee III, 2, 211; Bruckner 100; Stawski I, 173—174; Machek 2 132 (обозначает *dbrg, *derti как вар. к *dbrati).</note>
+</Entry>

@@ -1,0 +1,161 @@
+<Entry xml:id="ajbce">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajbce</orth>
+    <lemma>ajbce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яйце</ref> ср. р. с я й ц о</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>айцё</ref> ср. р. (с. Добротино, Гоцеделчевско; дип. раб., Архив Соф. унив-та), ацё ср. р. , йецё ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>а</ref>)це ср. р. *яйцо</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>а</ref>]це ср. р . , ум. от jaje</orth>
+      </form>
+      <sense>
+        <def>я й ц о</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>сев</ref>., сев.-зап.) также без ум. знач. , Ja]ue, название города в Боснии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( R J A IV, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdjce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>я й ц о \ яичко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 355—356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>vejce</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я й ц о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 595—596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>vijce</ref> , vice</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska, Slov. chod. 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott, Dod. k Bart. 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>vajce</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ V , 11—12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>vajco</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jajce</ref>, jajco, jejce</orth>
+      </form>
+      <sense>
+        <def>яйцо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 125, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jalcd</ref> cp. p. сяичко testiculus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. м:<ref>ице</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яйцо птичье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пал. X I V в. и др., Срезневский III, 1651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яйцо</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яйце</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яйцо, яичко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яйцо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>я й ц о . Праслав. *ajbce ведет себя как ум. форма, образованная с суфф. -ъсе, по отношению к<xr type="compare">см. <ref type="etymon" target="aje">*aje</ref>
+          </xr>
+        </def>
+      </sense>
+    </item>
+  </etym>
+  <note>Об этом говорит и ситуация в тех слав, языках, где основной термин со значением ' я й ц о ' — *aje, ср. сербохорв. jaje — ум. ]а]це. Вместе с тем однозначно тракто­ вать форму *ajbce как поздний продукт исключительно слав, развития мешают некоторые близкие внеславянские данные. Ср. осет. айк I айкзе ' я й ц о ' (см. об осет. слове Бенвенист. Очерки по осет. языку. М., 1965, 26). На особый параллелизм словообра­ зования слав, и осет. форм в славистической литературе не обра­ щалось должного внимания. Слав, и иран. названия яйца с -к- суффиксальным (праслав. *а]ъсе &lt; *ajbko) близки функционально, выражая уменьшительность. См. специально Абаев I, 41.</note>
+</Entry>

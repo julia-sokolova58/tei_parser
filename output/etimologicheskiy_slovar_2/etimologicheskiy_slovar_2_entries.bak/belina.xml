@@ -1,0 +1,119 @@
+<Entry xml:id="belina">
+  <pb n="66" end_page="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belina</orth>
+    <lemma>belina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна, сало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>белина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жир, сало свиньи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Орханийско, Бели Осъм, Троян; СбНУ XXXVIII, 103. Архив Болг. диал. словаря)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белина</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>билйна</ref>, б]елйна ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>белина</ref>, бйлина, б]елина ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид шерстяного одеяла, Bl)e\ina ж. р., название города в Боснии, ВеЦпа, название сел в Сербии , белина, б]елйна ж. р. белизна, белый цвет, белье, белое по­ лотно, белое тело, белое мясо (напр. у курицы), заболонь в дереве, беловатый плод, седина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 230, 296)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 443—444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>bilina</ref> ссорт белого винограда</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бе- лизна, сорт винограда, заболонь в древесине, сивуха, свинцовые белила, бельмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ЪёИпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жир­ ная, белая земля , белое пятно, бельмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белена</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белый холст , белйна ж. р. белая краска, белила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ленингр., Филин 2, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белизна , жерех Aspius aspius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.- рос. словн. I, стр. 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. Leder. Russische Fischnamen 68)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ina от прилаг. (см.) и с основной функцией обозначения отвлеченного качества ('белизна'), что послужило, в свою очередь, базой для конкретных семант. реализаций ('бе­ лый жир', 'белый холст', 'белый слой древесины') по отдельным языкам.</note>
+</Entry>

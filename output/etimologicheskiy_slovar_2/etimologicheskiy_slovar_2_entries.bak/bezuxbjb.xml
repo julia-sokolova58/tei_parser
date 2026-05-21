@@ -1,0 +1,127 @@
+<Entry xml:id="bezuxbjb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezuxb(jb)</orth>
+    <lemma>bezuxb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безух</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безухий или одноухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -ый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзув</ref>, безух, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 422)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezuh</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezuchy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безухий, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bezuska</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прядильное или ткацкое приспособление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV—XV вв., Gebauer I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezuchy</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezuchy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 88; Warsz. I, 136; Dorosz. I, 460)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безухий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>не имеющий уха, ушей или ушка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>безухый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке, и др., Тимченко I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безухий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>безухий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязвухЬ</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-110">*bez</ref> (см.; 
+там же подробно об этом словообразовательном типе) и именной 
+основы <ref type="etymon" target="ikh-">*их-</ref> (см. <ref type="etymon" target="ikho">*ихо)</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,69 @@
+<entries>
+  <entry xml:id="brva" xml:id="brva">
+    <pb n="71" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brьva</orth>
+      <lemma>bri&gt;va</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брва</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>мостик, перекладина (через воду)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 133)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bierzwa</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бревно</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 514)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>берва</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>плотина близ берега</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Бурнашев. Опыт тер­ минологического словаря I, 40)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бёрва</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>перекладина, мостик, ветка?</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 50)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Соотносительно 
+с 
+(см.; там 
+же 
+этимология). 
+Может 
+быть 
+морфологически 
+вторично, 
+но 
+ср. галльск. briva 
+'мост' &lt;^ 
+и.-е.</note>
+  </entry>
+</entries>

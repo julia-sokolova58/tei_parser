@@ -1,0 +1,54 @@
+<entries>
+  <entry xml:id="butnj" xml:id="butnj">
+    <pb n="103" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*butьnъjь</orth>
+      <lemma>butbm&gt;jb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>butny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>спесивый, чванливый, самоуверенный, гор­ дый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 746)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бутнбй</ref>, ая, -бе</orth>
+        </form>
+        <sense>
+          <def>здоровый, тучный , коренастый, дебелый, матерый . — С р . производное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пек., Доп. к Опыту 15)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек., Д а л ь 3 1, 357)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бутн</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ак м. р. дурак</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Божкова Б Д I, 243)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ъп- от <ref type="etymon" target="buta">*buta</ref>, 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

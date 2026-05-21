@@ -1,0 +1,47 @@
+<Entry xml:id="gruditi">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gruditi</orth>
+    <lemma>gruditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hruditi</ref> se</orth>
+      </form>
+      <sense>
+        <def>быть неприветливым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grudzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>побуждать, портить кого-либо, порицать, осуж­ дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. II, 134; о польск. диал. grujic 'пробирать (о хо­ лоде)' см. М. Gruchmanowa. Zwiazki tezykowe dialektu Kramsk z Luzycami. — J P XXXVII, 4, 1957, 248)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, 
+родственный, 
+с 
+одной 
+стороны, 
+<ref type="etymon" target="gruda-2">*gruda</ref> 
+(см. <ref type="etymon" target="grqda-2">*grqda</ref> / <ref type="etymon" target="gruda-2">*gruda)</ref>, 
+с другой стороны — <ref type="etymon" target="grustb">*grustb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Глагол на -iti *gruditi можно в таком случае реконструировать семантически как 'размельчать, перемалывать (в песок, щебень)' -&gt; 'мучить и т. п.', что позволяет видеть в нем относительный архаизм, во всяком случае более древний, чем напр. такое однозначное производное от *gruda (или его местных продолжений) как русск. диал. гру­ бить 'собирать, сгребать в кучу' (Филин 7, 160). Рассматривае­ мое нами здесь автономное *gruditi с его значениями гл. обр. из сферы морального имеет параллелизм в лит. graudinti 'печалить, увещевать' (лит. глаголы на -inti функционально близки слав, каузативам на -iti). Ср. Berneker I, 358 (где дано только словен. слово и едва ли верно отдается предпочтение сближению с *gryzti, см.); F. Bez- laj «Linguistica» VIII/I, 1966—1968, 80; Bezlaj. Etim. slovar slo­ ven, jez. I, 183 (также оставляет без внимания чеш. и польск. слова). *grudm§/-mene, * g r u d m y k b ,</note>
+</Entry>

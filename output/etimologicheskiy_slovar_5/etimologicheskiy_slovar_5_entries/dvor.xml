@@ -1,0 +1,235 @@
+<Entry xml:id="dvor">
+  <pb n="169" end_page="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvorъ</orth>
+    <lemma>dvorъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДБО</ref>^Ъ М. р. а6\т\, aula, olxoc, domus</orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>двор , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двор</ref> , дор</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.-— БД VI, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>двор, дворец, дом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>двор</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двор (Елез. I), dvdr то же , словец, dvor м. р. двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ма§. 430)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvur</ref>, род. п. 1уогьткъ dvora/dvoru, м. р.</orth>
+      </form>
+      <sense>
+        <def>двор, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dvur</ref> , елвц. dvor м. p.</orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 355—356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dwor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dwor</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 54, с реконструкцией праслав. *dvorb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwor</ref>, род. п. dworu, м. р.</orth>
+      </form>
+      <sense>
+        <def>двор, усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 456—458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvor</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>двор, усадьба, по­ местье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дворъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жилище, дом, усадьба , двор вне дома , дворня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XII. 30 по сп. XIV в. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лук. XXII. 55. Остр, ев.; Пов. вр. л. под 1051 г. — по Радз. сп.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(грам. Смол. кн. Феод. Рост. 1284 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 642—645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пространство земли при доме, огороженное забором или стенами зданий, отдельное самостоятельное хозяйство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом и во множестве прочих конкретных знач-й или, вернее, употреблений</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доброволь­ ский 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 294—297; Деулинский словарь 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>deip</ref>, род. п. двору, м. р.</orth>
+      </form>
+      <sense>
+        <def>двор, место подле дома, обнесенное за­ бором, едом, усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>двЧр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большой дом, двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 418)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>двор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>двор</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Возводится к и.-е. *dhuer-\*dhuor- (сюда же родственное слав. *dvbrb, см.). Ср. др.-инд. dvdram 'ворота, дверь' с отклоняющимся долгим вокализмом и нерегулярным началом слова (ожидалось бы dhv-), др.-перс. duvara- то же, лат. forum 'передний двор, рыночная площадь', относительно кот., впрочем, также предполагается, что оно продолжает не и.-е. *dhuorom, а *Ыгег-. Лит. dvaras 'двор, поместье' считают заимств. из слав., тогда как лтш. dvars 'калитка' приводится как исконнородственное слав. *dvorb. Слав. *dvorb — типичная именная форма допустимо производного характера (вока­ лизм -о-), но производящая основа с гласным -е- в корне (ср. лит. dverti 'простираться, расходиться в стороны', приводимое в связи с балт. словами, см. Френкель, ниже) до нас не дошла. См. Meillet. Etudes II, 235; Н. Pedersen KZ X X X V I , 1900, 88; A. Meillet MSL 14, 1907, 382; Berneker I, 241; H. Zimmermann «Glotta» 13, 1924, 232; Walde—Hofm. I, 537; Fraenkel I, 112; Mayrhofer II, 83; Фасмер I, 489. &lt;1уогынкъ: болг. (Геров) двбрникъ м. р. 'сват', сербохорв. дворник м. р. 'управляющий имением', также название ряда растений (РСА IV, 112), диал. dvornik 'управляющий, надзиратель' (Mas. 430), словен. dvornik м. р. 'служитель', ^дворник' (Plet. I, 191), диал. durnik м. р. 'большой горшок' (Strekelj Slov. И), чеш. dvornik м. р. 'фермер', 'управляющий' (Jungmann I, 526; Kott I, 337), елвц. dvornik м. р. 'управляющий' (SSJ I, 356), др.-русск. дворъникъ (1482 г., Срезневский I, 645), русск. диал. дворник м. р. 'хозяин заезжего, постоялого двора' (тамб., ворон., курск., калуж., моек., новг., перм., челябин., том.), 'рабочий на барском дворе' (Лит. ССР, Латв. ССР), 'арендатор двора и земли' (сев,- rdvi&gt;rb двинск.), 'муж, принятый в семью жены, живущий в доме жены' (перм.), дворники мн. 'в свадебном обряде — парни, затворяющие ворота перед выезжающим на венчание свадебным поездом и тре­ бующие выкуп за пропуск последнего' (смол.) (Филин 7, 299), дворник м. р. ссобака-дворняга' (донск., вят., там же), укр. диал. стар. двЧрник м. р. 'сельский староста' (Областной словарь буко- винских говоров 419), блр. двбртк м. р. 'дворник'.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-хкъ</ref>
+      </m> от прилаг. <ref type="etymon" target="yiogp">*йиогъпъ</ref> (см.), субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

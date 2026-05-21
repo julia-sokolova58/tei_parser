@@ -1,0 +1,60 @@
+<Entry xml:id="berzaninb">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzan(in)b</orth>
+    <lemma>berzan(in)b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прибрежный житель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfezanin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прибрежный житель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бережане</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жители берега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бережане</ref>, бережйна мн.</orth>
+      </form>
+      <sense>
+        <def>жители побережья , у к р . бережан м. р. прибрежный житель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., вят., пек., беломор., Филин 2, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ёп(т)ъ от<ref type="etymon" target="bergb">*bergb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

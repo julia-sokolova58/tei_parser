@@ -1,0 +1,44 @@
+<Entry xml:id="bbrdica">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrdica</orth>
+    <lemma>bbrdica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брдаца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вертикальная планка посредине нижней части плуга, спица (в колесе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; Видоески. Кумановскиот говор 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брдща</ref> ж. р., ум. от брдо</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brdica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вареный говяжий жир (на мясе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 1061)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>V V Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (ум.) от <ref type="etymon" target="bbrdo">*bbrdo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

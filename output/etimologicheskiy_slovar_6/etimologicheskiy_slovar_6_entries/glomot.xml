@@ -1,0 +1,63 @@
+<Entry xml:id="glomot">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glomotъ</orth>
+    <lemma>glomotъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глбмот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум , сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гломотар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железный колокольчик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Младенов. Към речника на Ново Село. — СбНУ XVIII, 1901, 502; М. Мла­ денов. Говорът на Ново село, Видинско 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гло</ref>- мот м. р.</orth>
+      </form>
+      <sense>
+        <def>бормотанье, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдмбт</ref> м. р,</orth>
+      </form>
+      <sense>
+        <def>шум</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. , редк. <ref>glbmat</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA III, 204)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-otb</ref>
+      </m> от основы <ref type="etymon" target="glom-">*glom-</ref> (см. предыд.).</gram>
+  </gramGrp>
+</Entry>

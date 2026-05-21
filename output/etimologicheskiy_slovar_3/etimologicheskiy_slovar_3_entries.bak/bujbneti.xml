@@ -1,0 +1,58 @@
+<Entry xml:id="bujbneti">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujbneti</orth>
+    <lemma>bujbneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bujneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться буйным, необузданным, елвц. bujnieV буйно расти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>и</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>bujnee</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>резвиться, распутничать, становиться дерзким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>буйнётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расти, подрастать, увеличиваться в росте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доброволь­ ский 43; орл., курск., Филин 3, 261)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-etU</ref>
+      </m> производный от прилаг. <ref type="etymon" target="shchp">*Ьщъпъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

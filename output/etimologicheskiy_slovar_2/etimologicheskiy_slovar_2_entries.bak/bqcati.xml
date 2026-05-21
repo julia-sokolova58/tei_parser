@@ -1,0 +1,118 @@
+<Entry xml:id="bqcati">
+  <pb n="233" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqcati</orth>
+    <lemma>bqcati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ I, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bdeati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>fremere, strepere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA I, 704)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>buceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать (диал.) плакать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>buncet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бурчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bucaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать , buncaV жужжать, гудеть , нолаб. bqce 3 л. ед. ч. наст. вр. (он) ревет, мычит , словшт. Ьбцсьс жуж­ жать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 47, 911)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ро- lanski—Sehnert 40, с реконструкцией *bqci)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бунчатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гово­ рить шёпотом , звучать, гудеть, греметь, колотить , петь без слов , жуж­ жать, гудеть (о насекомых) , ворчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., Доп. к Опыту 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 7)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русск. старожильч. говоров средней части бассейна р. Оби I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бунчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от глагольно-именной ос­
+новы <ref type="etymon" target="bgk-">*bgk-</ref> (см. <ref type="etymon" target="bqkati">*bqkati</ref>, <ref type="etymon" target="dk">*Ьдкъ)</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,87 @@
+<Entry xml:id="dlbti">
+  <pb n="206" end_page="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlbti</orth>
+    <lemma>dьlbti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дупстиу</ref> дубём</orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ, RJA II, 893—894, РСА V, 32—33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolbsti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dlbsti</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott VI, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>dlbsV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить, ковырять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Kalal 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дълбстиу</ref> длъбсти</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>довбтй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даубцъ</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Сближается с др.-англ. delfan 'копать, погребать', др.-в.-нем. bi-telban 'закапывать'; далее, ср. (без расширения -ЦК)-) лат. dolare 'отесывать'.</note>
+  <gramGrp>
+    <gram>Излюбленное сравнение слав.<ref type="etymon" target="dblbati">*dblb(a)ti</ref> с лит. 
+nu-dilbstuy nu-dllbti 'потупить (глаза)' (так см. Berneker I, 251; 
+W. Porzezinski RS IV, 1911, 9; Фасмер I, 523; любопытно, что 
+Траутман, в отличие от названных авторов, не дает глаголов со 
+знач. 'потупить взор', см. Trautmann BSW 54, s. v. dilbo 'долблю') 
+нуждается в элементарной критике ввиду явной связи этого лит. 
+глагола с фразеологизмом лит. is padilbn 'исподлобья', возникшим 
+на базе польск. spodelbay ср. русск. исподлобья.</gram>
+  </gramGrp>
+  <note>См. Трубачёв Ремесленная терминология 153. М ь 1 Ь ъ : болг. длъб м. р. 'долото' (Дювернуа), сербохорв. стар., редк. dub м. р. 'яма, отверстие' (только в словаре Ямбрешича, RJA И , 838), dub 'дыра, отверстие' ( G T e r . 47), дуб м. р. 'дыра, я м а ' 20? MblgOStb (PGA IV, 768), словен. dolb м. p. 'выдолбленное углубление, паз* (Plet. I, 151), сюда же, возм., русск. диал. долббы мн. 'стан, в который вводят лошадь, если ее нельзя подковать на руках' (Куликовский 19), если последнее не отражает вокализм *dolbb. — Ср. еще суффиксальные производные сербохорв. дубак, род. п. ~пка, м. р. 'углубление' (PGA IV, 768), русск. диал. долоббк 'тропинка' (Сл. Среднего Урала 140). Отглаг. производное от гл.<xr type="compare">см. <ref type="etymon" target="dblbti">*dьlbti</ref>
+    </xr>....</note>
+</Entry>

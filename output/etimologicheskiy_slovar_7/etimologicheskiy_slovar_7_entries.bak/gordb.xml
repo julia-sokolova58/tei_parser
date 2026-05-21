@@ -1,0 +1,302 @@
+<Entry xml:id="gordb">
+  <pb n="36" end_page="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordb</orth>
+    <lemma>gordb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorda</orth>
+    <lemma>gorda</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordb</orth>
+    <lemma>gordb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>город , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грат</ref> м. р. , града ж. р.</orth>
+      </form>
+      <sense>
+        <def>ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Ев- статиева. С. Тръстеник, Плевенско.—БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>город, крепость, твердыня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>город, крепость, также grdd ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV и XVI вв., RJA III, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крепость, замок, город</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrad</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крепость, замок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrad</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>замок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>замок, крепость , сюда же hrodz ж. р. хлев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grod</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>город или замок, дворец , groz ж. p. конюшня или хлев или курятник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 326)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 334—335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gord</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сарай, гумно , gord м. p. замок, здание суда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grod</ref>, род. п. grodu, м. р.</orth>
+      </form>
+      <sense>
+        <def>крепость, замок, (стар.) город , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>городъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ограда, забор , укрепление, крепость, город , защита, надежда , городъ ж. р. изгородь, ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дан. иг.; Новг. I л. под 1333 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 912 г.; Дог. Иг. 945 г.; Р. Прав. Яросл. по Син. сп. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1172 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 555—557)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1606 г., Сл. РЯ XI—XVII вв. 4, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>город</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>населенное место торгово-промышленного типа, на­ селенное место, огороженное стеной, оградой для защиты от не­ приятеля, крепость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>город</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>старинное городище, место древнего поселения (влад.), рынок, базар, базарная пло­ щадь (волог., калуж.), изгородь, ограда (арх., перм., терск.), огороженное место (смол.) , город изгородь вокруг дома (арх., Картотека СТЭ), ср. сюда же города ж. р. изгородь, загородка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 55—56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тамб., Филин 7, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>городъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>го­ род , сюда же ум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю закарпатской литературы XVI—XVII вв. Будапешт, 1965: Словарь Няговской Постиллы 65 /микроф./)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Городокъ, название села в Волын­ ской земле (XV в., Словник ст.-укр. мови X I V — X V ст. I, 252), укр. город м. р. 'город' (Гринченко I, 314), диал. город м. р. город' (П. С. Лисенко. Словник специф1чно! лексики правобе- режно! Черкащини. — Леке. бюл. VI, 1958, И ) , 'усадьба' (Леке, атлас Правобережного Пол1сся), блр. го рад м. р. 'город' (Байкоу — Некраш. 82). Слав. *gordb представляет собой производное отглагольное имя с типичным корневым вокализмом -о-; хотя модель эта сохраняла свою продуктивность в слав., истоки слав, *gordъ следует искать в и.-е. *ghordho- или *ghordho-.</note>
+  <gramGrp>
+    <gram>Производящая глагольная основа и.-е.<ref type="etymon" target="gherdh-">*gherdh-</ref> в слав, не сохранилась (ср. ее косвенное отражение 
+в праслав. 
+<ref type="etymon" target="zerdm">*zerdm</ref>$, 
+см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание велярный рефлекс и.-е. палатального задненебного в праслав. *gordb тем более, что диалектно в праслав. сохранился и регулярный реф­ лекс<xr type="compare">см. <ref type="etymon" target="gog1">*гог&lt;1ъ</ref>
+    </xr>. 
+Только палатальный 
+(регулярный) 
+рефлекс, 
+кстати, выступает в праслав. формах с корневой апофонией: 
+*zer-
+dmf — * 2 0 г й ъ . 
+Велярный 
+вариант 
+такой апофонии 
+не 
+знает 
+и 
+выступает с одной 
+огласовкой 
+во всех формах: *gordb, 
+*gorditi 
+(ср., 
+впрочем, 
+<xr type="compare">см. <ref type="etymon" target="zbrdby">*zbrdby</ref>
+    </xr>). 
+Мысль об иноязычном влиянии на 
+велярный вариант при 
+этом не исключается, хотя семантич. раз­
+нообразие диал. употреблений *gordb 
+(см. выше) делает эту мысль 
+не очень доказательной. 
+Ср. др.-инд. grhfa 
+'дом, жилье', авест, 
+gdrsba-y 
+алб. garth, 
+-dtu 'ограда', фриг. 
+Mane-gordum, 
+Mane-zor-
+dam 'город Манеса', 
+гот. gards 
+'дом', др.-сакс. gardo, 
+др.-в.-нем. 
+garto 
+'сад' (если последние два не из и.-е. *ghorto-), 
+лит. 
+gardas 
+'загон, 
+хлев, 
+стойло'. См. С. Lottner KZ XI, 1862, 192; A.Bez-
+zenberger 
+ВВ 
+I, 
+1877, 
+341—342 (грады 
+лат. 
+urbs &lt; 
+*huorbs); 
+F. G. 
+МбЫ 
+MSL 
+7, 
+1892, 
+404; С. С. Uhlenbeck AfslPh XV, 
+1893, 487 (о заимствовании 
+слав, формы с велярным рефлексом 
+из гот. gards); 
+V . J. Petr ВВ XXI, 1896, 213; Miklosich 73—74; 
+Berneker 331; 
+J. 
+Charpentier KZ XL, 1907, 468—469; V. Geor-
+giev. Lat. urbs und orbis. — IF 56, 1938, 200 (о принадлежности 
+сюда же лат. 
+urbs &lt; *horbis &lt; *ghordhis) 
+см. уже Бецценбергер 
+и Петр, выше); Фасмер I, 
+44'3; Fraenkel I, 135—136; A. J. Van 
+Windekens. Le pelasgique (Louvain, 1952) 145 (ср. пеласг. Гбрт^д, 
+TopTuv); W. 
+Merlingen. 
+Das 
+Vorgriechische und die sprachwissen-
+schaftlich 
+vorhistorischen Grundlagen 
+(Wien, 1955) 18 (ср. фрак. 
+EapSoc, EapSt'xij, Е&lt;хр8ец); Pokorny I, 444; F. Liewehr ZfS I, 1956, 
+22 (экспрессивная веляризация 
+в слав.); М. Budimir «Rad» 309, 
+1956, И З и сл.; I. 
+Popovi6. Illyro-Slavica.—Annali 
+del Istituto 
+universitario orientale. 
+Sezione Hnguistica I, 2 (Roma, 1959), 166.</note>
+</Entry>

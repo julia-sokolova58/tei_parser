@@ -1,0 +1,69 @@
+<Entry xml:id="drnina">
+  <pb n="224" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrnina</orth>
+    <lemma>dьrnina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drnina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дерн, целина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drnina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дерн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>darnina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дерн, газон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дернина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>целина, за­ лежь, заново вспаханная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дернина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кусок дерна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 371)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="yyd">*йыдъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

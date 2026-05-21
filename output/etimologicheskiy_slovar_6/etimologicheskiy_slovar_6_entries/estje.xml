@@ -1,0 +1,152 @@
+<Entry xml:id="estje">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstьje</orth>
+    <lemma>ĕstьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ястие</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье, блюдо , также ястё ср. р. %</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа: icmue ср. р. 'яство, кушанье')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: истйе% гастю; Геров—Панчев: ёстё)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йастё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>куша­ нье, еда , йъстё ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища , также jacmue, jacmje ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>есте</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jeiuhe</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 758)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jestje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, питание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>jesce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>непереваренная пища в желудке зарезанного животного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj LjZv. IX, 1889, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>jeucie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 172; Maciejewski, Chetm.-dobrz. 183; Kucata 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хлстие</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еда, трапеза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сбор. Кирил.-Белоз. 14, Срезневский III, 1667)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>яст1е</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яство, еда .—Сюда же прилаг., производное с йотовым суфф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю закарпатской лите­ ратуры XVI—XVII вв. Будапешт, 1965, микроф., 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jesdi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадный (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>штии</ref>, прилаг. от хлстищ .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., Срезневский III, 1667)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ. с суфф. -ь/'е, соотносительное с<ref type="etymon" target="estby">*estby</ref>
+      <ref type="etymon" target="esti">*esti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

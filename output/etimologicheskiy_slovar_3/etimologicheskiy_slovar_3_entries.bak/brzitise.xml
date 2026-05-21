@@ -1,0 +1,83 @@
+<entries>
+  <entry xml:id="brzitise" xml:id="brzitise">
+    <pb n="136" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrziti (sę)</orth>
+      <lemma>bbrziti (s§)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бързя</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>быстро идти, бежать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров — Панчев)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bfziti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>accelerare, incitare , брзити торопить, брзити се торопиться, семенить, бежать мел­ кими шажками (о детях, стариках)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A 1, 696)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 158)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>борзити</ref> (и сти х СО оустъ въсхищааа, и борзити въ млтв-Ь тЪхъ творд. Патерик Скит. XVI в. с/о XIV в., Карто­ тека ДРС)</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>борзитъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грубить , борзиться торопиться, ретиво браться за дело; делать что-либо быстро, ретиво , борзиться сердиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(каз., Филин 3, 98)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(смол., пек., там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(А. Балов. Народный говор в Пошехонском уезде Ярославской губернии. — ЖСт. III, 1893, 510)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>борзити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>торопить , борзйтися торопиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ei- лецький-Носенко. Словник украшсько! мови 59; Гринченко I, 86)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m> (каузатив) от прилаг. <ref type="etymon" target="bbrzb-3">*bbrzb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

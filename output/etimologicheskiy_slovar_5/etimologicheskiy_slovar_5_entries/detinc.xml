@@ -1,0 +1,100 @@
+<Entry xml:id="detinc">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtinьcь</orth>
+    <lemma>dĕtinьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Детиььци</ref>, Щётшьци мы.</orth>
+      </form>
+      <sense>
+        <def>день (за три недели до рождества), когда дети преподносят подарки родителям, также Дётинци, Щётйнци</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 251, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>detinec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>матка (Ст.-чеш., Прага), др .-русск. дЪтинъцъ, дитиньць вну­ тренняя крепость , падучая болезнь, роди­ мец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1152 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лечебн. XVII в., Срезневский I, 795—796)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дети</ref>- нецу род. п. -нца&gt; м. р. (арх.)</orth>
+      </form>
+      <sense>
+        <def>детская болезнь, родимец, падучая; у взрослых: паралич, прострел, (костр.) дурак, малоумный, подъ­ емок, ларь, куда стекает смола при гонке, сидке, (стар.) отделе­ ние, покои в доме для детей и женщин, внутренняя воронка рыболовной верши, детыш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1087)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>детинец</ref>, -нца, м. р.</orth>
+      </form>
+      <sense>
+        <def>птенец (моек.), дурак, глупец (костр.), детская (в доме), детская болезнь — паралич или родимчик (арх.), болезнь взрос­ лых— паралич, прострел (арх.) , верша (волог.), входное отверстие верши (арх.) , сюда же дстёнец, род. п. -нца, м. р. широкая передняя часть верши</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 8, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дитйнець</ref>, род. п. -нця, м. р.</orth>
+      </form>
+      <sense>
+        <def>родимчик, детская бо­ лезнь, деревянный пол; ящик на дне колодца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дитйнец</ref>, род. п. -нцау м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Salvia L., селезенка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Ли­ сенко. Словник шшеських roBopiB 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от прилаг. <ref type="etymon" target="detinb">*detinb</ref> (см.), субстантива­
+ция последнего.</gram>
+  </gramGrp>
+  <note>Подвержено контаминациям с производными от *dedby<xr type="compare">см. <ref type="etymon" target="dedina">*dedina</ref>
+    </xr> и от гл.  и от гл.  и от гл.  и от гл. <xr type="compare">см. <ref type="etymon" target="deti">*deti</ref>
+    </xr>. См. Фасмер I, 508; 
+Ж. Ж. Варбот. Детинец. — «Русская речь», 1977, № 1, 80—85.. См. Фасмер I, 508; 
+Ж. Ж. Варбот. Детинец. — «Русская речь», 1977, № 1, 80—85.. См. Фасмер I, 508; 
+Ж. Ж. Варбот. Детинец. — «Русская речь», 1977, № 1, 80—85.. См. Фасмер I, 508; 
+Ж. Ж. Варбот. Детинец. — «Русская речь», 1977, № 1, 80—85.</note>
+</Entry>

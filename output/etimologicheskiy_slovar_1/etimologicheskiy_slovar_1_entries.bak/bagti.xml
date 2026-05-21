@@ -1,0 +1,25 @@
+<Entry xml:id="bagti">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagti</orth>
+    <lemma>bagti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багтй</ref>, багчй</orth>
+      </form>
+      <sense>
+        <def>хотеть, желать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сохранение (или скорее воспроизводство, иначе ожидалось бы укр. *бачи) древней атематической основы, представленной с те- матизирующими расширениями в *bagati, *bazati,<xr type="compare">см. <ref type="etymon" target="baziti-2">*baziti</ref>
+    </xr>. 
+Косвенный след той же атематической основы находим еще в при­
+лаг. <xr type="compare">см. <ref type="etymon" target="bagotbnbjb">*bagotbnbjb</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,90 @@
+<Entry xml:id="govejbnTjb">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>govejbnT&gt;(jb)</orth>
+    <lemma>govejbnT&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>rObinNZ</ref>, -МИ, прилаг. eoXapifc, ебоер^, religio- sus, honestus, timoratus, pudicus, pius</orth>
+      </form>
+      <sense>
+        <def>набожный, богобоязненный, почтенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>говёен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>почтенный, почитаемый , сюда же субстантив­ ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гбвен</ref>* м. р.</orth>
+      </form>
+      <sense>
+        <def>пост</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hovejny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>уступчивый, обходительный, почтительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 740)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>говЪиныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благоговейный , говЪипо пост , говЪпый, прилаг. почтенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 82, 97, 101; Мин. Пут. XI в. 72; Панд. Ант. XI в. л. 120, Срезневский I, 531—532)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. II л. под 1290 г.; Жал. гр. в. к. Вас. Вас. Троиц. Серг. м. г., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Барс. Словарь 40, XVII в. СлРЯ XI—XVII вв. 4, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>говёйный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благоговейный или набожный, досточтимый, особенно почитаемый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 897, с пометой «црк.»)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m>, от гл. <ref type="etymon" target="goveti">*goveti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

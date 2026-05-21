@@ -1,0 +1,123 @@
+<Entry xml:id="gvezdbnbjb">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvezdbnb(jb)</orth>
+    <lemma>gvezdbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>звёзден</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>звезден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>звезд­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>zvjezdan</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>звездный , субстантивное зв]ёздан м. р. травянистое растение Lotus corniculatus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ivekovic — Broz II, 858)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>зв</ref>]еждан</orth>
+      </form>
+      <sense>
+        <def>род клевера с желтым цветом Medicago sativa (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hvezdny</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>звездный, также huezdni , елвц. hviezdny, при­ лаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 544)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hwezdny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звездный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gwezdny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gwiezdny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звезд­ ный, усеянный звездами , также редк. gwiezdny</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1389)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>звЫдьныи</ref>, прилаг. от звезда</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г.; Гр. Наз. с толк. Ник. Ир. XIV в., Срез­ невский I, 965)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>звёздный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>относящийся к звезде, звездам</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="gvezda">*gvezda</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

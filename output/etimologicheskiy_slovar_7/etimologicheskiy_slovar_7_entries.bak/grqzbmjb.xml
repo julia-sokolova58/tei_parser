@@ -1,0 +1,69 @@
+<Entry xml:id="grqzbmjb">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqzbm&gt;jb</orth>
+    <lemma>grqzbm&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грузный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжелый, обремененный покла­ жей, тяжестью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 989)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грузный</ref>, грузной</orth>
+      </form>
+      <sense>
+        <def>имеющий большой вес (новг., волог., олон., петерб.), трудный, требую­ щий затраты больших физических сил (Эст. ССР, иркут.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>грузний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотистый, грязный (Ониш- кевич. Словник бойшвського д!алекту), грузна беременная (Леке, атлас Правобережного Полкся)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грузны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грузный, громозд­ кий.— Ср. сюда же субстантивное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>грузёнъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топкое болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="grgzb-2">*grgzb</ref>, 
+<ref type="etymon" target="grqziti">*grqziti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

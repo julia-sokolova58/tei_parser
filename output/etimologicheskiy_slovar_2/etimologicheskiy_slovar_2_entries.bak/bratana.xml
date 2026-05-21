@@ -1,0 +1,65 @@
+<Entry xml:id="bratana">
+  <pb n="235" end_page="236" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratana</orth>
+    <lemma>bratana</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>племянница, дочь брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>братана</ref> avetjna</orth>
+      </form>
+      <sense>
+        <def>дочь брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. Крм., Срез­ невский I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>братана</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ак. Бор. 60 — 1660 г., Тимченко I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>братанна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дочь брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(НЗ Ужг. Держ. Ун-ту 26/2)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительное с<ref type="etymon" target="bratanb">* bratanb</ref> 
+(см.) производное с суфф. -ana 
+от <ref type="etymon" target="bratb">* bratb</ref> (см.). 
+bratanica: сербохорв. диал. (Бока) братаница 
+ж. p. 'fratris filia 
+sorori, дочь брата' (РСА II, 112 дает еще акцентные варианты 
+братаница, братаница), слвц. стар, bratanica ж. р. 'дочь брата,
+племянница' (SSJ I, 127), польск. bratanica 
+ж. p. 'племянница, 
+дочь брата' (Dorosz. I, 649).</gram>
+  </gramGrp>
+  <note>Производное с суфф. -ica от *bratana,<xr type="compare">см. <ref type="etymon" target="bratanb">*bratanb</ref>
+    </xr>.</note>
+</Entry>

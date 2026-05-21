@@ -1,0 +1,60 @@
+<Entry xml:id="garati">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garati</orth>
+    <lemma>garati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гарати</ref>, гарати</orth>
+      </form>
+      <sense>
+        <def>разжигать огонь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пылать, сильно гореть, ср. еще hdrati быстро бе­ жать, ехать, скакать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 658)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hdraV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жаловаться, сетовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., BartoS. Slov. 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hdratf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гореть, пылать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 460)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив-дуратив к<ref type="etymon" target="goreti">*goreti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. лит. garuoti 'испаряться', особенно — goruoti 'вспотеть от бега', 'сквозить, продувать'.</note>
+</Entry>

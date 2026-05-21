@@ -1,0 +1,155 @@
+<Entry xml:id="cediti">
+  <pb n="174" end_page="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cediti</orth>
+    <lemma>cediti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ц</ref>/кдити 8toXčeiv, colare</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цедя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, фильтровать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров : ц%д&amp;)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цеди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, фильтровать; выцеживать, отцеживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цёдити</ref>, цйдити, цщёдити</orth>
+      </form>
+      <sense>
+        <def>цедить (Вук; R J A : с XIV в.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cediti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, процеживать, сочиться, стекать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 75; Jarnik XXII: zediti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cediti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, процеживать, cediti (se) течь; моросить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cedif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, cedif sa литься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cydzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cejzis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, процеживать (молоко)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cedzid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цедить, процеживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 791—792)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cle</ref>- gec</orth>
+      </form>
+      <sense>
+        <def>цедить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>цЪдитис</ref>/к</orth>
+      </form>
+      <sense>
+        <def>просачиваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог., Срезневский III, 1448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цедить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пропускать (жидкость сквозь что-ни­ будь для очищения, выпускать в узкое отверстие, процежи­ вать для очистки , укр. щдйти процеживать, цедить, наливать струей , блр. цадзщь цедить. j 1? Обычно объясняют из *skoid-, сближая с лит. sk!edziuy skiesti делать жиже, разбавлять, skystas жидкий. См. Berneker I, 122—123; A. Meillet RS II, 1909, 62—63; А. А. Потебня Р Ф В IV, 1880, 211; Фасмер IV, 295; Stawski I, 55; Machek 2 82 (исходит из праформы *koid-)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 IV, 1268)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 431)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

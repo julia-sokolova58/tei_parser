@@ -1,0 +1,45 @@
+<Entry xml:id="duplj">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dup(ь)lьjь</orth>
+    <lemma>dup(ь)lьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">болг. стар. , обл. <ref>дупли</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дуплистый, пустой изнутри (о стволе дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: дуплый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>дХплии</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пустой внутри, полый , легкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XXVII. 8 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Исх. XIX. I. Жит. Андр. Юр. VII. 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 745)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьуь</ref>
+      </m> от <ref type="etymon" target="dupblo">*dup(b)lo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

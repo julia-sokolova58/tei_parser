@@ -1,0 +1,178 @@
+<Entry xml:id="golsnj">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golsьnъ(jь)</orth>
+    <lemma>golsьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гласен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>голосовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гласен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, голосовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гласан</ref>, -сна, -сно</orth>
+      </form>
+      <sense>
+        <def>гром­ кий, знаменитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 320—321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gldsen</ref>, -sua, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громкий , также glasan</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlasny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громкий, звучный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 678)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hlasny</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlasny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hlosny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, звучный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glosny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gloeny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, слышный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голбсный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, шумный, звучный, зычный , сюда же субстантивное голосня ж. р. плач в голос, обычно с причитаниями, голосьба (калуж., ленингр.), шум и плач детей (калуж.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., зап., Даль 3 I, 913)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 6, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голоснйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>громкий, голосистый, звучный , ср. сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>голоснйця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>висок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(лемк., Карпатский диалектологический атлас, карта № 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбласны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, громогласный , галасны звонкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай­ коу— Некраш. 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное, производное с суффиксом<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от 
+<ref type="etymon" target="golsb">*golsb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

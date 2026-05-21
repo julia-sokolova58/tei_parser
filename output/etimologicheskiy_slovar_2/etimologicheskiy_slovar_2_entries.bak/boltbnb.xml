@@ -1,0 +1,24 @@
+<Entry xml:id="boltbnb">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'^tbnb</orth>
+    <lemma>bol'^tbnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдл</ref>&gt;етан, -тна, -тно</orth>
+      </form>
+      <sense>
+        <def>больной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- от основы стар, (нейотированного) прич.<ref type="etymon" target="boVet--3">*boVet-</ref> (от гл. <ref type="etymon" target="boVeti-6">*boVeti</ref>, см.).</gram>
+  </gramGrp>
+  <note>Ввиду архаичности произво­ дящей основы может быть достаточно ранним производным.</note>
+</Entry>

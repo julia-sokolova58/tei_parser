@@ -1,0 +1,71 @@
+<Entry xml:id="bezpecbirbjb">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpecbirbjb</orth>
+    <lemma>bezpecbirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bezpecny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззаботный, безопасный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezpecny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззаботный, бесстрашный, уве­ ренный, безопасный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezpecny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>на­ дежный, безопасный, беззаботный, обеспеченный, гаранти­ рованный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezpieczny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безопасный, (стар.) беззаботный, уверенный . — Вост.-слав, примеры опускаем ввиду вероятного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>влияния</ref>. Волг, безпёчен</orth>
+      </form>
+      <sense>
+        <def>беззаботный, беспечный, уверенный заимств. из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-69">*bez</ref> 
+(см.) и суфф. -ъп- от имени <ref type="etymon" target="resa">*реса</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Bruckner 406.</note>
+</Entry>

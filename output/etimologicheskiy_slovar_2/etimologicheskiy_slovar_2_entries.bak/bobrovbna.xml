@@ -1,0 +1,27 @@
+<Entry xml:id="bobrovbna">
+  <pb n="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobrovbna</orth>
+    <lemma>bobrovbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bobrownla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колония бобров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz.I, 583)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпа</ref>
+      </m> от прилаг. <ref type="etymon" target="ogoi">*ЬоЬгоиъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. анало­ гичное<xr type="compare">см. <ref type="etymon" target="egoipa">*ЬеЬгоиъпа</ref>
+    </xr>.</note>
+</Entry>

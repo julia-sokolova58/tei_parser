@@ -1,0 +1,113 @@
+<Entry xml:id="bezzqbbjb">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezzqbb(jb)</orth>
+    <lemma>bezzqbb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>беззъб</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -Абый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзуб</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>беззубый , brezub, то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 277; РСА I, 421)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezzbb</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezzuby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezzuby</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezzeby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 139; Dorosz. I, 468)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беззубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого или у чего нет зубов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>беззубый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяззубы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. вида, образованное из<ref type="etymon" target="bez-125">*bez</ref> (см.) 
+и именной основы <ref type="etymon" target="zgb">*zgbъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Подробно о таком словообразова­ нии см. на *bez.</note>
+</Entry>

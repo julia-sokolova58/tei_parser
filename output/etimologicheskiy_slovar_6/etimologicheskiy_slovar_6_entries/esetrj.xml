@@ -1,0 +1,54 @@
+<Entry xml:id="esetrj">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esetrьjь</orth>
+    <lemma>esetrьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jesetefi</ref>, стар, jesetri, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осетровый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. /<ref>е</ref>- seteri, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>осетрии</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осетровый , осетреи ловец осетров (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сотн. Ив. Бор. 1557 г., Срезневский И, 717)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Откупн. Обонеж. гр. 1434 г., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>осётрий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к осетру относящийся .^ j Ц Прилаг., производное с суфф. -ь/ь от<xr type="compare">см. <ref type="etymon" target="esetn">*esetn</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль И, 1802)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

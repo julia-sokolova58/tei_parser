@@ -1,0 +1,128 @@
+<Entry xml:id="delnica">
+  <pb n="10" end_page="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlьnica</orth>
+    <lemma>dĕlьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дЪлийца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>имеющая долю в чем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>делнйца</ref> ж. р\</orth>
+      </form>
+      <sense>
+        <def>часть земли, надел , делийца ж. р. наследный участок земли, надел, доля , делийца ж. р. участок леса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Бобо- шево, Стдим.; с. Говедарци, Самоковско; Орханийско. СбНУ XLII, 257; ИИБЕз IV, 301; СбНУ XXXVIII, 109, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново Село, Видинско 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>делийца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дидиица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доля, также деоиица ж. р., делийца, дщелиица ж. р. доля, отрезок времени, гра­ ница , также местн. назв. Делийце мн. , словец, delnica ж. р. наследные участок (луг, пащня)? delbivbjb кладь сена на лугу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 183)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Хорватия, там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzielnica</ref> ж. р. /часть целого</orth>
+      </form>
+      <sense>
+        <def>, участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дЪлъница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доля, выдел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Отдельн. зап. 1393 г., Срезневский I, 791)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дёльница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>раздел имущества и земли в больших семьях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дслънйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>надел, отделен¬ ная часть для работы в поле, полевые ворота за деревнею на выезде (Уманск. у.), а также канава вокруг села для отделения царини (Лохв. у.), канава пограничная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нйца часть забора от столба до столба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвського д1алекту)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ътса</ref>
+      </m> от гл. <ref type="etymon" target="deliti-5">*deliti</ref> (см.) или от *1ё1ъ 
+(см.).</gram>
+  </gramGrp>
+</Entry>

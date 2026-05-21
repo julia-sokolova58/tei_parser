@@ -1,0 +1,68 @@
+<Entry xml:id="byto">
+  <pb n="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>byto</orth>
+    <lemma>byto</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>byto</ref> в выражении dluhe byto</orth>
+      </form>
+      <sense>
+        <def>длительное, про­ должительное пребывание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>byto</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>быто</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Москвичи поб-Ьгоша и бЪжачи поме- таша своя быта. . . и грабиша то быто московское и псковское изборяне. Пек. л. под 1501 г., Срезневский I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">русск. стар. <ref>быто</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скарб, имущество, пожитки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 365)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -t- от основы<ref type="etymon" target="u--3">*Ьу-</ref> (см. <ref type="etymon" target="byti-3">*byti)</ref> вернее, — 
+продолжает 
+производное 
+с суфф. -t- от и.-е. <ref type="etymon" target="sh-">*ЬШ-</ref>, ср. тождест­
+венный 
+(вплоть 
+до 
+грамм, рода) параллелизм греч. cpoxov 'расте­
+н и е ' &lt; и.-е. 
+<ref type="etymon" target="bhutom">*bhutom</ref> 
+ср. 
+р.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. 
+еще <ref type="etymon" target="bytb-2">*bytb</ref>
+    </xr> 
+(ниже). Отношение</note>
+</Entry>

@@ -1,0 +1,23 @@
+<Entry xml:id="baziti">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baziti</orth>
+    <lemma>baziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>базйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко кричать, плакать, ругаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 27)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное расширение (*ba-z-iti) основы, представленной в *bajati I, *bajiti,<xr type="compare">см. <ref type="etymon" target="basnb">*basnb</ref>
+    </xr>.</note>
+</Entry>

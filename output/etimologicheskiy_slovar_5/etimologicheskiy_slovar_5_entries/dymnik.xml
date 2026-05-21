@@ -1,0 +1,133 @@
+<Entry xml:id="dymnik">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymьnikъ</orth>
+    <lemma>dymьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дымникъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымовая труба, дымник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дымник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымовое отверстие в потолке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>димник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымовая труба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>думиник</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижневардарские говоры, К. Пеев MJ X X I , 1970, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>дймнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымоход</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 401, РСА IV, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dlmnik</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dymnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымоход</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dymnik</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dymnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дымоходное отверстие (гл. обр. в хате)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 497)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ааттик</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>м. р. коптильня , русск, дымник м. р. отверстие в потолке, в стене чёрной избы, для выхода дыма; дымовое оконце, деревянная труба над дымо­ вым окном, (сиб.) чёрная, курная изба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дймнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отверстие в крыше, через которое дым уходил с чердака</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 420)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. 4къ от прилаг.<ref type="etymon" target="dymbnb">*dymbnb</ref> (см.), субстанти­
+вация этого последнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="dymbnica">*dymbnica</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

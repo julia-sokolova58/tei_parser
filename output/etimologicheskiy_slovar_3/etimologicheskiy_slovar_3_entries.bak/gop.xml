@@ -1,0 +1,60 @@
+<Entry xml:id="gop">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгопь</orth>
+    <lemma>Ьгопь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bron</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>конь белой масти</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bron</ref> (st</orth>
+      </form>
+      <sense>
+        <def>astia) сияние (счастья)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брунь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>овсяный колос и вообще колос растений, свислый кистями в одну сторону</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бронь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>метелка овса , верхняя часть снопа (Волог. обл., Чадогощ. р-н ; Картотека Словаря белозерских говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Субстантивация прилаг-ного<ref type="etymon" target="gop">*Ьгопъ</ref> 
+(см.) 
+с 
+переводом 
+его 
+в -г/-/о- 
+основы.</gram>
+  </gramGrp>
+</Entry>

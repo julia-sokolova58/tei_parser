@@ -1,0 +1,120 @@
+<Entry xml:id="dovoliti">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dovoliti</orth>
+    <lemma>dovoliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>доволок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удовольствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>dovoiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>позволить, разрешить , dovoliti se быть довольным, удовлетвориться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 726)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dovoliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>позволить, разрешить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dovoliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>позволить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dovolW</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dowolid</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>довблитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>продовольствовать, снабжать содержанием, при­ пасами, харчами, содержать; делать довольным, удовлетворять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>довблыти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>довольствовать, содержать в до­ вольстве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 405)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), соотносительный с гл. <ref type="etymon" target="dovbleti">*dovbleti</ref> (см.) и со 
+словосочетанием <ref type="etymon" target="do-34">*do</ref> voli (см.). 
+<ref type="etymon" target="dovoI">*dovoI</ref>
+,b: ст.-слав. дсжолъ м. p. ixavoxTjs, sufficientia 'достаточное коли­
+чество' (Mikl., Sad., SJS), др.-русск., русск.-цслав. доволъ 'доста­
+ток, имущество' (Лук. XIV. 28. Четвероев. 1144 г.; Кор. 2. III 5 
+по сп. 1220 г., Срезневский I, 687; пии вино по малоу гелико бо 
+скоудо тлеть 
+СА толико блго твори пиющиимъ толико дай чревоу 
+юже на довълъ а не гелико хощеть. . . Изб. 1076 г. лл. 236 об.— 
+237, Картотека СДР), русск. диал. довбл м. р. 'пресыщение' (арх.), 
+'достаток' (свердл.) (Филин 8, 85).</gram>
+  </gramGrp>
+  <note>Имя, соотносительное с гл.<xr type="compare">см. <ref type="etymon" target="dovoliti">*dovoliti</ref>
+    </xr> и словосочетанием *do 
+voli (см.). и словосочетанием *do 
+voli (см.). и словосочетанием *do 
+voli (см.). и словосочетанием *do 
+voli (см.).</note>
+</Entry>

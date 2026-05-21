@@ -1,0 +1,32 @@
+<Entry xml:id="drzkj">
+  <pb n="229" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrzъkъ(jь)</orth>
+    <lemma>dьrzъkъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>д</ref>^рзък, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дерзкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрзок</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. то же (И-С), сербохорв. дрзак, дрека, прилаг. 'дерзкий' (РСА I V , 709), словен. книжн. dfzek, -zka, прилаг. 'дерзкий' (Slovar sloven, jezika I, 516), ст.-чеш. drzky 'разнузданный' ( X V B . , Gebauer I, 345), чеш. редк. drzky, прилаг. 'дерзкий, наглый', слвц. диал. derski 'ловкий, проворный' (Buffa. Dlha Luka 142), польск. dziarski 'живой, бойкий' (Dorosz. И , 550), также стар. darski (Warsz. I, 428), русск. дерзкий, -ая, -ое 'грубый, непочти­ тельный, неучтивый', 'исполненный дерзаний, смелый', диал. дерзкий, дерзкой 'смелый, решительный, быстрый' (сев.-двинск., костр., орл.), 'инициативный, энергичный' (новг.) (Филин 8, 24), укр. дерзкий, -а, -е 'упругий, жёсткий' (Гринченко I, 371), блр. дзёрзш 'дерзкий'.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. ~(ъ)къ от основы на -и-<ref type="etymon" target="dtrzb">*dtrzb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

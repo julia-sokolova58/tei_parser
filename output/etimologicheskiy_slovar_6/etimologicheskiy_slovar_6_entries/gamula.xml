@@ -1,0 +1,75 @@
+<Entry xml:id="gamula">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gamul’a</orth>
+    <lemma>gamul’a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гамула</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кучка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hamule</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 654)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>катаГа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мучная каша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovenske Pravno v Turc. z., Kalal 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гамула</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>каша из яблок с медом (Борз, у.), полу­ жидкая масса, клокочущая в сопках (черном.), неудавшееся жид­ кое кушанье, сделанное слишком густым, подобно киселю, напр. о борще, о галушках (Переясл. у.) . Ср. еще семантически отличное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гамуля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>невзрачная женщина . Далее, ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Гамулин</ref>, фам. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 183)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано с *gomola,<xr type="compare">см. <ref type="etymon" target="gomolbka">*gomolbka</ref>
+    </xr>....</note>
+</Entry>

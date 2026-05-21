@@ -1,0 +1,242 @@
+<Entry xml:id="gromada">
+  <pb n="135" end_page="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gromada</orth>
+    <lemma>gromada</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>громада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>груда, громада , далее — гръмада ж. р. куча, громада, камень, гора (Дювернуа, Ге­ ров), гръмуда то же (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гърмада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>большая куча , гърмадъ ж. р. большая куча, ствол , гар- муда ж. р. ком земли, куча, толпа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Кабасанов. Говорът на с. Момчиловци, Смолянско 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>germada</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>громада</ref>, громада</orth>
+      </form>
+      <sense>
+        <def>скала, утес, громада, куча, груда , grmada ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 670— 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grmdda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, куча дров, костер , также gromdda ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244, 256; Slovar sloven, jez. I, 767)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hromada</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собрание зажиточных крестьян</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hromada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, груда, толпа, сходка, собрание, множество</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hromada</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. (<ref>вост.-слвц</ref>.)</orth>
+      </form>
+      <sense>
+        <def>община</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hromada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, масса, сходка, собрание общины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gromada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>громада, куча, груда, схо­ дка, собрание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gromada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, множество, (сельская) община, сходка, собрание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 910; Dorosz. II, 1305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grumada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сельская община, сельская административная единица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gromada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>громада</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>куча , костер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. о Влахерн. Бог.; Ни­ кон. Панд. гл. 34 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Екат. 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 597)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>громада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо огромное по размерам</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>громада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сельская сходка, собрание жителей села, деревни, на котором разбираются общественные дела (калуж., курск., орл., тул., ворон., астрах.), большое количество людей, толпа народа (орл., курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>громада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>общество равноправных лиц, мир, собрание, мирская сходка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грамада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, общество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай- ко} г — Некраш. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грумада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стая птиц , грумада множество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(3 народнага слоунша 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически тождественно *gramada (см.; там же о вариан­ тах вокализма).</note>
+</Entry>

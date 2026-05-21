@@ -1,0 +1,97 @@
+<Entry xml:id="glibglib">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glibъ/*glibь</orth>
+    <lemma>glibъ/*glibь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glibb</orth>
+    <lemma>glibb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глиб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>трясина, топь, грязь , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Дювернуа: глибъ 'ров')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глиб</ref> м. р. (Речник РОДД)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глиб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>топь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>глиб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>речной ил, топь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Зборови од Порече. — MJ II, 1951, 24; Видоески. Поречкиот говор 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глиб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>glib</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тина, топь, болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glib</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грязь, ил . — Ср. сюда же произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217: «хорватскосерб.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gllban</ref>, -Ъпа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грязный, топкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 196)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Обратное производное от гл.<ref type="etymon" target="glibati">*glibati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,63 @@
+<Entry xml:id="blsti">
+  <pb n="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl§sti</orth>
+    <lemma>bl§sti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl§dq</orth>
+    <lemma>bl§dq</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blesti</ref>, bledem</orth>
+      </form>
+      <sense>
+        <def>blaterare, blasphe- mare, balare, нести вздор, богохульствовать, бормотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blesti</ref>, bledem</orth>
+      </form>
+      <sense>
+        <def>бредить; нести вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blesti</ref>, bledu</orth>
+      </form>
+      <sense>
+        <def>болтать, говорить чушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 65; Simek 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блАсти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбиться с дороги, потерять дорогу, говорить вздор, пустословить, заблуждаться, ошибаться, развратничать (Картотека СДР), блАсти, блАдХ заблуждаться, еггаге, суесловить, nugari, прелюбодеять, scortari</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 123—124)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="bledo-2">*bledo</ref>, <ref type="etymon" target="blesti-3">*blesti</ref> — первичный гл. с признаками сохране­
+ния ^тематической флексии.</gram>
+  </gramGrp>
+  <note>Родственно прежде всего лит. blend- ziu, blqsti 'спать', 'перемешивать кушанье с мукой', blqstis 'хму­ риться, становиться пасмурным', лтш. (куронизм) blenst, blensties 'плохо видеть, быть близоруким'. (Делая акцент на особой бли­ зости этих слав, и балт. глаголов с -е- вокализмом, дальнейших балт. соответствий здесь не упоминаем, см. о них под *blgdb, *blgditi). Далее родственно гот. blinds 'слепой', blandan sik 'смешиваться', др.-в.-нем. blendan (*blandjari) 'затемнять, ослеп­ лять' (причем интересно, что распределение и.-е. ступеней во­ кализма и -о- в герм, обратное тому, что видим в балт. и слав.: -е- выступает в имени, а -о в глаголе). См. Miklosich 14; Вег- neker I, 60; A. Meillet MSL 14, 1907, 368; Trautmann BSW 34—35; Мейе. Общеслав. язык 111, 156; Фасмер I, 180; Fraenkel I, 47; Pokorny I, 157-158 ( : bhlendh-); E. Fraenkel ZfslPh XXII, 1954, 386; В. Георгиев «Slavia» 28, 1959, 9. Махек объединяет этимологически *bled- с лит. blodeti ^болтать', лтш. bladet то же, греч. &lt;pXe8a)v 'болтовня', относя сюда же и русск. бредить, польск. bredzic (см. V. Machek ZfslPh XXIX, 1961, 353), что едва ли удачнее.</note>
+</Entry>

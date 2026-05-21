@@ -1,0 +1,48 @@
+<Entry xml:id="bagotiti">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagotiti</orth>
+    <lemma>bagotiti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagT&gt;titi</orth>
+    <lemma>bagT&gt;titi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>pachtiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>стремиться, жаждать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bachtW</ref> (sa), pachtiV (sa) экспр. |</orth>
+      </form>
+      <sense>
+        <def>жаждать, сильно желать; ста­ раться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ III, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bahotHV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жаждать, желать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 187)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, экспрессивное производное с интенсивирующим суфф. -rt-iti/-ot-iti от основы гл.<ref type="etymon" target="bagati">*bagati</ref>, <ref type="etymon" target="bagngti">*bagngti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Machek 28, где чеш. и слвц. формы в общем правильно относятся к baziti, но там же, 349, pachtiti se совершенно ошибочно поставлено в связь с pakost и производными. Экспрессивный характер гл. формы делает сомнительным ее праслав. происхождение.</note>
+</Entry>

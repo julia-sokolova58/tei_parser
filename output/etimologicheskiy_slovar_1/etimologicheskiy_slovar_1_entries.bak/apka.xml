@@ -1,0 +1,141 @@
+<Entry xml:id="apka">
+  <pb n="151" end_page="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьапъка</orth>
+    <lemma>Ьапъка</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьапька</orth>
+    <lemma>Ьапька</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>батька</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосуд, которым черпают воду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdnjka</ref> ж. р., ум. от banja,</orth>
+      </form>
+      <sense>
+        <def>плоская посудина для жидкости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, И )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>banka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пузатый сосуд, небольшой купол</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>banka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>маленькая посуда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>banka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глиняный пузатый сосуд для питьевой воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>banka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кув­ шинчик , иольск. banka ж. р. пузырек, банка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 6)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>банка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стеклянный или металлический сосуд, преимущественно цилиндрической формы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>банка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкая, но широкая деревянная бадья для продажи живой рыбы , к о р о б к а , банька железное кольцо, скрепляющее к о с у и косовище , банки мн. металлические, пустые внутри, цилиндры, при­ вязанные к верхней тетиве плавной «лоховой» сети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мель­ ниченко 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Тверского у. Тверской губ. Труды М Д К . — Р Ф В L X X I , 1914, 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(псковск, Филин 2, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>банька</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пузырек, банка ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 55—56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>банька</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняная посуда с уз- ким горлом, для жидкости , банька ж. р. пузырь на воде , банки мн. пузыри на воде от дождя , блр, банька</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзендзел1вський. Словник специф1чно1 лексики гов1рок Нижнього Подн1стров'я. — Леке, бюл. V I . К ш в , 1958, 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. B i - лецький-Носенко. Словник украшськоТ мови. К ш в , 1966, 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомирщины. «Славянская лек­ сикография и лексикология». М., 1966, 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>У м . производное от<ref type="etymon" target="ap">*Ъап</ref>'а (см.).</gram>
+  </gramGrp>
+  <note>Древность образования сом­ нительна; в некоторых слав, языках могло распространиться вторично.</note>
+</Entry>

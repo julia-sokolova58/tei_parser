@@ -1,0 +1,59 @@
+<Entry xml:id="blekota">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blekota</orth>
+    <lemma>blekota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blekota</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ворчун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блекбта</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>болтун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Филин 3, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блекота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растения Conium maculatum, Hyoscyamus niger , белена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, стр. 71)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражательного происхождения, как и все данное се­ мейство (<xr type="compare">см. <ref type="etymon" target="blekotati">*blekotati</ref>
+    </xr>, 
+*blekofo, *blekati и др.). Знач. 'болтать, 
+ворчать' -&gt; 'болтун, ворчун' первичны, тогда как знач. 'цикута 
+Conium maculatum' и 'белена Hyoscyamus niger' (обе реалии — 
+ядовитые растения, причем отравление беленой вызывает галлю­
+цинации и бред, <xr type="compare">см. <ref type="etymon" target="e1p">*Ье1пъ</ref>
+    </xr> I *belena) — вторичны.</note>
+  <gramGrp>
+    <gram>Образовано с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m>, ср. <ref type="etymon" target="blekoto">*blekoto</ref> (ниже).</gram>
+  </gramGrp>
+  <note>Иначе — от цветообозначения *6Z- - см. Sadnik—Aitzetmuller. Vgl. Wb. 3, 141-142.</note>
+</Entry>

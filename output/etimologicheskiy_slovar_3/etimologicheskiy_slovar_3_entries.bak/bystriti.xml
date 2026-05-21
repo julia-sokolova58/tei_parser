@@ -1,0 +1,125 @@
+<Entry xml:id="bystriti">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bystriti</orth>
+    <lemma>bystriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бйстря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прояснять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бйстрим</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Шапка- рев—Близнев Б Д III, 2 0 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бистри</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очищать (от мути), делать прозрачным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бйстрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очищать (напр., воду), словен bistriti прояснять, очищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PletЛ, 2 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ъу</ref>- stfiti</orth>
+      </form>
+      <sense>
+        <def>ускорять; делать быстрым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bystriV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обострять, раз­ вивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 1 4 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ЪуЫЫ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>освещать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 1 0 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>быстрити</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(кто лтшиваго на оугож ден!е бож1е в ва с быстри 1 мног^ приимлетъ СО бга по лз&amp;\ Измарагд. Рукопись нерв. пол. XVI в. СлРЯ X I — X V I I вв. 1, 3 6 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>быстритъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спешить, торопиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижнетавд., тюмен., Филин 3 , 3 5 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бйстрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстро, стремительно течь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 5 7 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="bystrb-3">*bystrb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

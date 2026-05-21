@@ -1,0 +1,27 @@
+<Entry xml:id="bezdbzdzb">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbzdzb</orth>
+    <lemma>bezdbzdzb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёздожь</ref> ж. р. (арханг.)</orth>
+      </form>
+      <sense>
+        <def>продолжительное отсутствие дождя, засуха; сорная трава при плохих всходах, от засухи; трещины в земле от засухи , бёздожь ж. р. засуха (арх.), сорная трава при плохих всходах хлебов от засухи (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 188)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение *6ez (см.) и<ref type="etymon" target="dbzdzb">*dbzdzb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

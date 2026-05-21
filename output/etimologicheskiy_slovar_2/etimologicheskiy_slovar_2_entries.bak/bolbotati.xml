@@ -1,0 +1,74 @@
+<Entry xml:id="bolbotati">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolbotati</orth>
+    <lemma>bolbotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blabotati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bVabotat</ref> 1</orth>
+      </form>
+      <sense>
+        <def>не­ внятно, бессвязно говорить, болтать вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blobuotac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кипеть, бурлить, невнятно говорить , сюда же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болботать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап., Даль 3 I, 268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болботати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, неотчетливо говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. со звукоподражат. основой, соотносительный с именами<ref type="etymon" target="bolbofo">*bolbofo</ref> I <ref type="etymon" target="bolbota">*bolbota</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Буга отождествлял слав. *bolbotati с лит. balbatdoti 'болтать, балаболить' (см. РФВ LXX, 1913, 101).</note>
+</Entry>

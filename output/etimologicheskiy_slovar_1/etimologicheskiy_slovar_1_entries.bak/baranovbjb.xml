@@ -1,0 +1,24 @@
+<Entry xml:id="baranovbjb">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baranovb(jb)</orth>
+    <lemma>baranovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>baranowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бараний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяжат. прилаг., производное с суфф. -ov- от<ref type="etymon" target="agap">*Ъагапъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

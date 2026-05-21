@@ -1,0 +1,40 @@
+<Entry xml:id="baxbteti">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxbteti</orth>
+    <lemma>baxbteti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бахтети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пугать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бахтетъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бахвалиться, гордиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. Балов. Народный говор в Пошехонском у. Яросл. губ. — ЖСт. III, 1893, 510)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Аналогично предыдущему объясняется как глагольный интен­ сив, производное с суфф.<m type="suffix">
+        <ref>-ъЬ-еИ</ref>
+      </m> от основы гл. <ref type="etymon" target="baxati">*baxati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, след.</note>
+</Entry>

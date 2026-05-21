@@ -1,0 +1,49 @@
+<Entry xml:id="bezdomovbjb">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdomovbjb</orth>
+    <lemma>bezdomovbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezdomovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безродный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdomowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездомный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бездомовый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>либо бездомный, либо плохой хозяин, не имеющий своего хозяйства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа (несмотря на скудность свиде­ тельств), образованное из<ref type="etymon" target="bez-19">*bez</ref> (см.) и основы косвенных п. п. 
+domov- (см. <ref type="etymon" target="dom">*domъ</ref>, древняя основа на -и).</gram>
+  </gramGrp>
+  <note>Соотносительность адъективных форм *bezdomov^b:<xr type="compare">см. <ref type="etymon" target="domovb">*domov^b</ref>
+    </xr> могла устано­
+виться вторично. <xr type="compare">Ср. <ref type="etymon" target="bezdomtyb">*bezdomtyb</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,73 @@
+<Entry xml:id="ajbCbnica">
+  <pb n="62" end_page="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajbCbnica</orth>
+    <lemma>ajbCbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jajcenica</ref> ж. р. Праздничное кушанье, из теста с крашеным яйцом посередине</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA IV, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>va</ref>- jecnica ж. р.</orth>
+      </form>
+      <sense>
+        <def>яичница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>vajecnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яичница из взбитых яиц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ V, 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jajecznica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яичница</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яичница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье из поджаренных на сковороде яиц</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яёчниця</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 536)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от основы прилагательного <ref type="etymon" target="asyg-">*а]ъсыг-</ref>
+(см. <ref type="etymon" target="ajbcbnbjb">*ajbcbnbjb)</ref>.</gram>
+  </gramGrp>
+  <note>Может быть понято как субстантивация перво- начально адъективного образования<xr type="compare">см. <ref type="etymon" target="aspa">*а]'ъсъпа</ref>
+    </xr>, ср. аналогич­
+ные отношения 
+*vbdova—*vbdovica.</note>
+</Entry>

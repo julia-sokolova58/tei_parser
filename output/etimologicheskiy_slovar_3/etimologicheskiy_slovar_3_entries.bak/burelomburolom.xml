@@ -1,0 +1,69 @@
+<entries>
+  <entry xml:id="burelomburolom" xml:id="burelomburolom">
+    <pb n="98" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bur’elomъ/*burolomъ</orth>
+      <lemma>Ьиг'е1отъ</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>Ьиго1отъ</orth>
+      <lemma>Ьиго1отъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бурелом</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>поваленный бурею лес, жестокий ветер, буря</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. (<ref>тверск</ref>.) быролом то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Даль 3 I, 354, Ушаков)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>буролбм</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>хворост</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Жито- мирщины. — «Славянская лексикография и лексикология» 12)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>буралбм</ref> м. р. собир</orth>
+        </form>
+        <sense>
+          <def>бурелом, буревал (обломанные ветром сучья), также валежник . — Сюда же произ­ водное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 135)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. редк. <ref>бурдломан</ref>, -мна, -мно, прилаг.</orth>
+        </form>
+        <sense>
+          <def>ломае­ мый, сокрушаемый бурей, грозой</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 308)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Сложение <ref type="etymon" target="bur-2">*bur</ref>'a 
+(см.) и основы гл. <ref type="etymon" target="lomiti">*lomiti</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

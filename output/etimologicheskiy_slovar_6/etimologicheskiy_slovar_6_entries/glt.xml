@@ -1,0 +1,141 @@
+<Entry xml:id="glt">
+  <pb n="158" end_page="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtъ</orth>
+    <lemma>glъtъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>глит</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горло/глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; |Видоески. Поречкиот говор 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gut</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горло, глотка, глоток , gut горло, глотка, пасть , гут м. р. горло, глотка, пасть, глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 516)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tentor. Leksicka sla- ganja 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 778)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>глйт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 351)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>глот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кадык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 376)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golt</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пасть, глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Met</ref>, род. п. Mta, м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I. 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hit</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I. 693)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hit</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Глотъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1500 г., Тупиков 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. диал <ref>глот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горло; глотка (костр., онеж.), то, что можно проглотить за один раз; глоток (пек.), прожорливый человек, обжора (арх., волог., костр., курск.), пьяница (арх., сев.-двинск., костр., иван., пенз., тамб., ряз., сарат.), жадный человек (костр., яросл.), завистливый человек (арх.), человек, притесняющий людей и присваивающий чужое (курск., моек., арх м иван., орл., ряз., тул.), крикун, горластый человек (сиб., енис, костр., иван., моек., куйб., ряз.), воришка (моек., костр.) , глот м. р. птица Anas penelope L., сем. утиных , глот м. р. изнурительная болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(на Оке, Фи­ лин 6, 202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ворон., смол., Филин, 6, 201—202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глыт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мшска- маладзеч. III, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, соотносительное с гл.<ref type="etymon" target="gfotati">*gfotati</ref>, 
+<ref type="etymon" target="gfotiti">*gfotiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

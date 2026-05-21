@@ -1,0 +1,146 @@
+<entries>
+  <entry xml:id="bruxatj" xml:id="bruxatj">
+    <pb n="32" end_page="33" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*br’uxatъjь</orth>
+      <lemma>br'uxatbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bfichaty</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пузатый, толстопузый</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. стар, <ref>bruchaty</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Blanar. Hist, lexikol. 1 1 4 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">диал. <ref>bruxati</ref> , bruxati</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Buffa. Dlha Liika 1 3 6 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Habovstiak. Orav. 1 7 5 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>brju</ref>- chaty</orth>
+        </form>
+        <sense>
+          <def>пузатый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 4 8 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>bruchaty</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пузатый, толстопу­ зый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 8 3 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brzuchaty</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пузатый, толстопузый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 6 9 5 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>bfaxati</ref> прилаг. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. Wb. I, 77)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>брюхатый</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ventrosus , брюхатаы беременная</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Пек. 1 л. под 1495 г., Срезневский I, 187)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Афан. Ни­ кит. Срезневский III, доп. 27 ;)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>брюхатый</ref>, -ая, -ое,</orth>
+        </form>
+        <sense>
+          <def>име­ ющий большой живот</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>брухатый</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пузатый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 145)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брухатий</ref>, -а, -е,</orth>
+        </form>
+        <sense>
+          <def>брюхатый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 102)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брухатая</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>беременная</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Байкоу-Некраш. 48)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Прилаг., 
+производное 
+с 
+суфф. -at- 
+от 
+^г'ихо/ 
+(см.).</note>
+  </entry>
+</entries>

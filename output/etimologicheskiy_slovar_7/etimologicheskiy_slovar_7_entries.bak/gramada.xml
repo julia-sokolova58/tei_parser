@@ -1,0 +1,193 @@
+<Entry xml:id="gramada">
+  <pb n="102" end_page="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gramada</orth>
+    <lemma>gramada</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>грдмддл</ref> ж. р. 5Хт], silva, acervus</orth>
+      </form>
+      <sense>
+        <def>куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грамада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>множество, большая куча, громада , грамуда ж. р. глыба (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: 'скалы, утесы в высоких горах')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грамада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>крупные камни, покрывающие местность , сухая каменная кладка в качестве ограды , грамада большая куча , грамуда ж. р. ком земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. В. Шве­ цова. Словарь говора села Твардицы 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53; Стойчев БД II, 147; И. Кънчев. Пирдопско. — БД IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грамада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>громада, куча, груда, толпа, множество людей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грамада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба, куча дров , также грймад ж. р. , грамуда ж. р. ком, глыба земли , Грамада, местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 557; RJA III, 382—383: gramada. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 561)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 557)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gramdda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, ворох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грамада</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>куча , ср. сюда же произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сильв, и Ант. вопр. XVI в. 219, Срезневский I, 578; Пов. вр. л. ввд., Срезневский III, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грамузджа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кустарник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 321)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно др.-инд. grama- 'толпа, деревня, община', далее — лат. gremium 'охапка, связка', в кот. можно предполагать производные от и.-е. *ger- 'собирать, схватывать'. Лит. grdmatas 'толпа, сель­ ская община', с которым также сближают слав, слово, скорее всего, является заимствованием и преобразованием последнего, по­ скольку балт. эквивалент слав. суф. -ad- неизвестен.</note>
+  <gramGrp>
+    <gram>Детали раз­ вития слав, форм также дискуссионны, причем единичный слав, суф. -ad(а) пытаются (Вайян, ниже) связать через ступень<m type="suffix">
+        <ref>-adb</ref>
+      </m> 
+с гл. на <m type="suffix">
+        <ref>-Ш</ref>
+      </m>, см. 
+<ref type="etymon" target="gromaditi">*gromaditi</ref>.</gram>
+  </gramGrp>
+  <note>Ввиду затруднительности решения вопроса о первичности формы *gramada или<xr type="compare">см. <ref type="etymon" target="gromada">*gromada</ref>
+    </xr>, также 
+широко представленной в слав., оба варианта даны у нас 
+в виде 
+самостоятельных праслав. словарных позиций. Типологически кор­
+невой вокализм в *gramada 
+вторичен, а в *gromada — более пер­
+вичен, если исходить из и.-е. 
+*grem-j*grom-1 
+однако изолирован­
+ность формы *gramada 
+в слав, может свидетельствовать о ее древ­
+ности по крайней мере в слав., 
+а определенные 
+слав, 
+созвучия 
+вокализма *gromada 
+(<xr type="compare">см. <ref type="etymon" target="gromb">*gromb</ref>
+    </xr>), 
+ср. еще потенциальный вар. 
+grbmada 
+(s. v. *gromada) 
+и его созвучие с <xr type="compare">см. <ref type="etymon" target="grm">*grъmъ</ref>
+    </xr>, могли бы, 
+в 
+свою очередь, 
+говорить о вторичном развитии 
+этого послед­
+него вокализма в местных условиях. Любопытно отметить, что гл. 
+на -iti <xr type="compare">см. <ref type="etymon" target="gromaditi">*gromaditi</ref>
+    </xr> обнаруживает 
+только вокализм -о-, при­
+сутствие которого может не случайно 
+совпадать с этой активной 
+словообразовательной 
+моделью. 
+В 
+литературе 
+высказывались PI 
+объяснения 
+через 
+ассимиляцию, напр. 
+*gram-oda^&gt;*gramada 
+и 
+т. д. (см. Бернекер, ниже). 
+См. V. J. Petr ВВ XXI, 
+1896, 
+(сближает с лат. 
+formldo 
+'ужас, страх, жуть'); Berneker I, 345; W. Miller LF XXI, 323—324
+(цит. no: RS I, 1908, 275); К. Буга РФВ LXVII, 
+1912, 239; 
+J. KoStial AfslPh XXXVII, 1920, 398 (попытка объяснить слав, 
+слово заимствованием из венец, 
+grumdda, 
+фриульск. 
+grumdde 
+'куча': grumare 
+'складывать в кучу': лат. grumus 
+'куча, 
+ком'); 
+Fraenkel I, 163; Walde— Hofm. I, 621; Mayrhofer I, 353; Vaillant. 
+Gramm. comparee IV, 491; Фасмер I, 460—461; Stawski I, 347—348; 
+J. OtrqbskiLP VII, 1959, 314; F. Bezlaj JiS XVI, 8, 1970/1971, 
+233; F. Stawski. О stowianskich formacjach na 
+-do,-da,-db.—Stu-
+dia indoeuropejskie 1974, 214.</note>
+</Entry>

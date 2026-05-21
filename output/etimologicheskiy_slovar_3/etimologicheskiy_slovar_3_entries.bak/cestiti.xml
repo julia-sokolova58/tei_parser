@@ -1,0 +1,73 @@
+<Entry xml:id="cestiti">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cestiti</orth>
+    <lemma>cestiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>цЪстити</ref> СА e6voojčtCeiv, purgare</orth>
+      </form>
+      <sense>
+        <def>очищаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl.; Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cestiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кастрировать, listje cestiti обрывать листья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪстити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр., Срез­ невский III, 1466)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>И семантически, и фонетически, очевидно, связано с<xr type="compare">см. <ref type="etymon" target="cistiti">*cistiti</ref>
+    </xr>, с другой 
+ступенью вокализма: 
+*cistiti 
+(е-вокализм) — *ce­
+stui 
+(о-вокализм). 
+Ср. 
+J. 
+Zubaty 
+KZ 
+X X X I , 
+1892, 
+13, 
+где 
+*cestiti 
+производится от незасвидетельствованного слав. * Л ъ 
+= 
+лит. skdistas 
+'ясный, лучезарный'. 
+Чеш. 
+cestiti 
+'путешествовать' 
+вторично 
+произведено 
+от 
+чеш. 
+cesta 'путь, дорога'. <xr type="compare">Ср. еще <ref type="etymon" target="cesta">*cesta</ref>
+    </xr>.</note>
+</Entry>

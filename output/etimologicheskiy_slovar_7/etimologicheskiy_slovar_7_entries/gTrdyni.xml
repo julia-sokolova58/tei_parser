@@ -1,0 +1,121 @@
+<Entry xml:id="gTrdyni">
+  <pb n="206" end_page="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gT&gt;rdyni</orth>
+    <lemma>gT&gt;rdyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гръдыыи</ref> urcepTjcpavta, superbia</orth>
+      </form>
+      <sense>
+        <def>гордость, заносчи­ вость, гордыня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грдитьа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо ужасное, отвратительное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гърдыни</ref>, гръдыни, гордыни</orth>
+      </form>
+      <sense>
+        <def>гордость , дерзость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в.; Иак. Бор. Гл. 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 65)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 614—615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>гордыня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>непомерная гор­ дость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гордыня</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордый, заносчивый человек gbrdbnb(jb)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>гординя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордыня, гордость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1322 г., Словник ст.-укр. мови X I V — X V ст. I, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гордыня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордость, чванливость, гордый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гординя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордость, гордец , гардыня ж. р. гордыня.—Ср., возм., сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>грди</ref>- нец м. р.</orth>
+      </form>
+      <sense>
+        <def>поганец, мерзавец , а также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гадость, чудовище, негодяй, подлец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 247)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суф. -yni от прилаг.<xr type="compare">см. <ref type="etymon" target="gy">*#ъгйъ</ref>
+    </xr>.</note>
+</Entry>

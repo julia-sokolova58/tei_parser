@@ -1,0 +1,207 @@
+<Entry xml:id="dybati">
+  <pb n="196" end_page="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dybati</orth>
+    <lemma>dybati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dibati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шататься, качаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dibaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить на цыпочках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kala] 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dybau</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, пихать, попадать, двигать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dybad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстерегать, метить, подкрадываться , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дыбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить украдкою</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Номок. о Арм. ерес, Срезневский I, 764)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дыбать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неустойчиво стоять на ногах (о маленьких детях), идти с трудом, брести, дремать, клевать носом , дыбать ка­ чать, раскачивать , дыбать тяжело ступать , дыбать еле, чуть идти; идти очень медленно , дыбать идти; ходить, шагать (арх., перм., южн., зап., юга- вост., ворон., курск., орл., калуж., донск.), ходить без цели, болтаться, слоняться (арх., перм.), неустойчиво стоять на ногах, шататься (о ребенке, пьяном, больном) (новосиб., свердл., перм., арх.), становиться на цыпочки, ходить на цыпочках (арх., перм., южн.), стоять без дела, торчать (свердл.), ка- чать, шатать, раскачивать (волог., арх.), качаться на каче­ лях (арх.) , дыбать неустойчиво стоять на ногах; качаться, стоять без дела, дремать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Расторгуев. Словарь народных говоров Зап. Брянщины 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 288)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Соли­ камского района Пермской области 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дйбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить на ходулях, ходить медленно и неловко; ходить, вытягивая ноги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дыбаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>медленно идти, тащиться, плестись, еле ноги передвигать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского Полесья. — «Лексика Полесья» 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дйбаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еле идти, чуть идти , дыбацъ шагать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Северск.-блр. 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Носович. Сборник белорусских пословиц 209)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Вокализм гл.<ref type="etymon" target="dybati">*dybati</ref> носит 
+четко 
+категориальный 
+характер 
+(ступень продления -у- в несовершенном гл. на -ati), поэтому 
+ставить вопрос об и.-е. соответствиях для праслав. <ref type="etymon" target="dyba">*dyba</ref>, <ref type="etymon" target="dybati">*dybati</ref> 
+в каком бы то ни было смысле (см. Skok. Etim. rjecn. 1, 399) 
+нецелесообразно.</gram>
+  </gramGrp>
+  <note>Уже на основании внутренней реконструкции можно говорить об исходной именной основе *йъ&amp;ъ &lt; *dubo-&gt; кот. допустимо непосредственно сравнить с герм. Нирра- (с экспрес­ сивным удвоением?) 'пучок волос, коса', англос. topp, англ. top 'верхушка, макушка', ср.-в.-нем. zopf 'коса, кончик', лтш. duba 'сноп, поставленный стоймя'. Ср. (без слав.) Pokorny I, 227. Обычно сравнивают герм, формы непосредственно со слав. гл. *dybati (см. Berneker I, 249; Фасмер I, 557), что вызывает воз­ ражения со стороны количества корневого гласного (см. выше). Маловероятны попытки связать *dybati и<xr type="compare">см. <ref type="etymon" target="y">*й?Ьъ</ref>
+    </xr>, несмотря 
+на отдельные (вторичные) близкие употребления, ср. польск. sta-
+wac deba = русск. встать на дыбы (см. Bruckner 105; Slawski I, 
+184; Б. В. Кобилянський 
+«Мовознавство» 1972, № 3, 76). Еще 
+меньше связи 
+с 
+и.-е. 
+*dheubh- 
+'долбить, 
+глубокий', вопреки 
+К.-О. Фальку 
+(«Scando—Slavica» IV, 1958, 273—274). См. еще 
+Н. Schuster-Sewc 
+«Letopis Instituta za serbski lndospyt w Budy-
+3inje», Rjad A, c. 19/2, 1972, 153., несмотря 
+на отдельные (вторичные) близкие употребления, ср. польск. sta-
+wac deba = русск. встать на дыбы (см. Bruckner 105; Slawski I, 
+184; Б. В. Кобилянський 
+«Мовознавство» 1972, № 3, 76). Еще 
+меньше связи 
+с 
+и.-е. 
+*dheubh- 
+'долбить, 
+глубокий', вопреки 
+К.-О. Фальку 
+(«Scando—Slavica» IV, 1958, 273—274). См. еще 
+Н. Schuster-Sewc 
+«Letopis Instituta za serbski lndospyt w Budy-
+3inje», Rjad A, c. 19/2, 1972, 153., несмотря 
+на отдельные (вторичные) близкие употребления, ср. польск. sta-
+wac deba = русск. встать на дыбы (см. Bruckner 105; Slawski I, 
+184; Б. В. Кобилянський 
+«Мовознавство» 1972, № 3, 76). Еще 
+меньше связи 
+с 
+и.-е. 
+*dheubh- 
+'долбить, 
+глубокий', вопреки 
+К.-О. Фальку 
+(«Scando—Slavica» IV, 1958, 273—274). См. еще 
+Н. Schuster-Sewc 
+«Letopis Instituta za serbski lndospyt w Budy-
+3inje», Rjad A, c. 19/2, 1972, 153., несмотря 
+на отдельные (вторичные) близкие употребления, ср. польск. sta-
+wac deba = русск. встать на дыбы (см. Bruckner 105; Slawski I, 
+184; Б. В. Кобилянський 
+«Мовознавство» 1972, № 3, 76). Еще 
+меньше связи 
+с 
+и.-е. 
+*dheubh- 
+'долбить, 
+глубокий', вопреки 
+К.-О. Фальку 
+(«Scando—Slavica» IV, 1958, 273—274). См. еще 
+Н. Schuster-Sewc 
+«Letopis Instituta za serbski lndospyt w Budy-
+3inje», Rjad A, c. 19/2, 1972, 153.</note>
+</Entry>

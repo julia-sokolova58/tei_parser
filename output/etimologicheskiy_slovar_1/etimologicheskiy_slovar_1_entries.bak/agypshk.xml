@@ -1,0 +1,43 @@
+<Entry xml:id="agypshk">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>агыпьшкъ</orth>
+    <lemma>агыпьшкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jarmnik</ref>, jaremnik м. р.</orth>
+      </form>
+      <sense>
+        <def>деталь ярма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 359)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>харъмъникъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подъяремник; скот, ходящий под яр­ мом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. корм., Срезневский III, 1665)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъткъ</ref>
+      </m> 
+от <ref type="etymon" target="agyp">*агыпъ</ref> 
+(см.) или от <ref type="etymon" target="agto">*агъто</ref> 
+(см.), или же с суфф. -гкъ 
+от соответствующего прилаг., 
+см. 
+<ref type="etymon" target="agtp">*агътъпъ(]ъ)</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,125 @@
+<Entry xml:id="golomorzica">
+  <pb n="211" end_page="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golomorzica</orth>
+    <lemma>golomorzica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голомразица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мороз без инея; гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голдмразица</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 444; см. также RJA III, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golomrazica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>houomrazica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>замерзшая земля без снега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голоморбзица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длительные морозы осенью, без снегу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 6, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голоморбзиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица, морозная погода при отсутствии снега , — ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>holomraziska</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>замерзшая озимь, на которую выгоняли пастись свиней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>holomrdz</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Slovenske Pravno v Turc. г., Kalal 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golomraz</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>морозный, но бесснежный: golomraza zima</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>golomroz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 869)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>g-otomorz</ref> м. p. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz. Pomor. Wb. I, 246)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение *#о/ъ (см.) и<ref type="etymon" target="morz">*morzъ</ref> (см.) в соединении с суфф. 
+-ica.</gram>
+  </gramGrp>
+</Entry>

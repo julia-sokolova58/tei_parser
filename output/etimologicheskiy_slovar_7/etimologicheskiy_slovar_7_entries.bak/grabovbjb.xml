@@ -1,0 +1,141 @@
+<Entry xml:id="grabovbjb">
+  <pb n="97" end_page="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabovb(jb)</orth>
+    <lemma>grabovb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabrovb(jb)</orth>
+    <lemma>grabrovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>габров</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грабовый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: габрбвый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>габроф</ref>, -ва, прилаг. , габеруф, -увъ , сюда же Габрово, название города</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 49; Горов. Страндж.—БД I, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.—БД VI, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>gaborov</ref>, gabor</orth>
+      </form>
+      <sense>
+        <def>6 dervo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гра</ref>­ бов, грибов, -а, -о</orth>
+      </form>
+      <sense>
+        <def>грабовый , также грабров , габров , grdbou, grabrov</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 536)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 537)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 357, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdbrov</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>грабовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 664)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>habrovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грабовый, елвц. hrabouy</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 516)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grabowy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grabowy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грабовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grabugvi</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грабовый</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 259: гра­ бовый 'грабу принадлежащий, из дерева этого сделанный')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>граббвий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>грабовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 321)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. К. Brugmann IF IX, 1898, 373—374; Walde— Hofm.</note>
+  <gramGrp>
+    <gram>I, 171. блр. граббвы, прилаг. грабовый. •grabb /<ref type="etymon" target="grabrb">*grabrb</ref> Производное с суф. -(о)иъ от основы на -o-<ref type="etymon" target="grabb">*grabb</ref> / <ref type="etymon" target="grab">*grab</ref>^ (см.).</gram>
+  </gramGrp>
+  <note>Древний характер этого производного явствует из соответ­ ствия умбр. Grabouie, эпитет ряда богов, первонач. якобы дубо­ вый, иллир. происхождения.</note>
+</Entry>

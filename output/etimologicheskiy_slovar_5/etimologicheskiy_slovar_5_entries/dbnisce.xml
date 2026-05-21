@@ -1,0 +1,136 @@
+<Entry xml:id="dbnisce">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъbnišče</orth>
+    <lemma>dъbnišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>днище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно, днище, основание (напр. копны)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, с пометой «обл.»; Геров: 'место, где хранят корм на зиму для овец, коз')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>днйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>основание, низ клади корма для скота , дънйште ср. р. нижняя часть снопа , дънйште ср. р. неоконченная кладь снопов , ствол дерева , дънйшти ср. р. нижний слой снопов в копне , данйште ср. р. то же , дънйшти ср. р. слой веток под кладью сена, для сухости , дънйшти ср. р. основание копны (с. Мечка, Никополско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко. — БД V, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материал за бъл- гарския речник. От гр. В.-Търново. — СбНУ XIV, 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>днйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>днйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сено или солома из нижнего слоя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dnisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>основание, фундамент, пень дерева, осадок, подонки (вина)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>dnisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сидение у прялки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matej6fk. Vychodonovohrad. 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>днище</ref> ср. р., увел,</orth>
+      </form>
+      <sense>
+        <def>дно, у судов, настилка и обшивка, затонувшее судно, над коим ставится веха, если оно на мелком месте, угольное пепе­ лище, дно бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1095)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>днище</ref> ср. р. ув. от дно,</orth>
+      </form>
+      <sense>
+        <def>донце, дощечка, на одном конце которой садится пряха, вставляя в другой гребень или кудель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>днышчэ</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дтшча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>днище</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="by">*бЫ</ref>?яо (см.).</gram>
+  </gramGrp>
+</Entry>

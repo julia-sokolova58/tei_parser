@@ -1,0 +1,29 @@
+<Entry xml:id="blbxatbjb">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blbxatbjb</orth>
+    <lemma>blbxatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blechaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>полный блох</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>pyjdti</ref>, прилаг. TQ же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 769)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от<ref type="etymon" target="1kha">*Ь1ъха</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

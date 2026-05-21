@@ -1,0 +1,43 @@
+<Entry xml:id="cbteti">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbteti</orth>
+    <lemma>cbteti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ctjeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>legere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI—XVII вв., RJA II, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать , steti считать, обращать внимание, читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. И, 644)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="cbsti">*cbsti</ref>, <ref type="etymon" target="cisti">*cisti</ref>, <ref type="etymon" target="citati">*citati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Не исключено местное новообразование.</note>
+</Entry>

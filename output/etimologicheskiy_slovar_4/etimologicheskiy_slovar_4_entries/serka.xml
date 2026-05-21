@@ -1,0 +1,81 @@
+<Entry xml:id="serka">
+  <pb n="57" end_page="58" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серъка</orth>
+    <lemma>серъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёпка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроздь , затычка бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёпкъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроздь, копыто (козы, овцы, свиньи) , чёпка ж. р. клин на дышле для связывания с хомутом , чёпкъ ж. р. гроздь , чъпка ж. р. ножка плода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.— БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Денчев. Поповское — БД V, 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чтка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вязанка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(О. А. Пертель. Гов1рка села Середнб Ужгородського району, Закарпатсько! обл. Дип. роб. Ужго­ род, 1954, 61)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="ser">*серъ</ref> (см.). 
+cepyriti s§: словен. cepiriti se 'взъерошивать перья', 'разряжаться, 
+расфуфыриваться', 'дуться, важничать' (Plet. I, 99), также copi-
+<ref type="etymon" target="cepyiiti">*cepyiiti</ref> sč 
+5S 
+riti se (Plet. 1, 109), soplriti (Plet. 11, 640), чеш. cepyfiti, 
+cepej-
+fiti 
+'ерошить', 
+диал. 
+cepefit 
+sa 'чваниться, кичиться' (Bartos. 
+Slov. 46), capefit 
+se 
+'щетиниться, надуваться' (Gregor. Slov. 
+slavkov.-bucov. 37), cepefit sa 'бить но голове' (Sverak. Karlov. Ill), 
+слвц. ceperiV sa 'взъерошивать перья; сердиться', 'волноваться 
+(о воде)' (SSJ 1, 198), ceperiV sa 'взъерошиваться' (Kalal 71), 
+диал. capiric se (Bufia. Dlha Luka 139).</gram>
+  </gramGrp>
+  <note>Сложение экспрессивной приставки се- и основы -pyriti; отдель­ ные продолжения трудно отличить от продолжений *серегШ/<xr type="compare">см. <ref type="etymon" target="cepiriti">*cepiriti</ref>
+    </xr>. См. Machek
+2 98.</note>
+</Entry>

@@ -1,0 +1,106 @@
+<Entry xml:id="gremka">
+  <pb n="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grem&gt;ka</orth>
+    <lemma>grem&gt;ka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grenbk'b</orth>
+    <lemma>grenbk'b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrianka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поджаренный хлебец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 525)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzanka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поджаренный в печи хле­ бец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 929)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gfounka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ломоть хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz. Slovinz. Wb. I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гренки</ref> мн., ед. гренок, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>поджаренные ломтики хлеба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гргнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ломоть, кусок, гренок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грЧнка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тон­ кий ломоть хлеба , гргнка ломоть , плос­ кий кусок хлеба, отрезанный ножом (Леке атлас Правобереж­ ного Полнея), hfinka xViba , грйня, грйнка ж. р. тонкие ломтики хлеба, запеченные докрасна: суха­ рики</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. А. Москаленко. Словник д1алектизм1В укр. гов1рок Одесько! облас^ 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колесник. Мате- р1али до словника д1алектизм1в укр. roBopie Буковини 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Бшецький-Носенко. Словник укр. мови 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гренка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гренок, сухарь , грэнка ж. р. сухарь , гренок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальная субстантивация прич. страд, прош.<ref type="etymon" target="grenb">*grenb</ref> от гл. 
+<ref type="etymon" target="greti-2">*greti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 456; Rudnyckyj I, 734.</note>
+</Entry>

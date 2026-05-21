@@ -1,0 +1,43 @@
+<Entry xml:id="divovedjadivovidja">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divovĕdja/*divovidja</orth>
+    <lemma>divovĕdja/*divovidja</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>divovidja</orth>
+    <lemma>divovidja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дивбвгжа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чудо, невидаль, ди­ ковина , дивбвёжа м. и ж. р. чудо, диво; редкость (сиб., перм., сверд.), тот, кто всему удивляется (арх., твер.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сиб., Даль 3 I, 1079)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дивовйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>замечательное зрелище; замечательное или странное явление (Уман. у.), диковина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко 1, 382)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="divo-4">*divo</ref> (см.) и именных производных соответственно от 
+гл. <ref type="etymon" target="vedati">*vedati</ref> и <ref type="etymon" target="videti">*videti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

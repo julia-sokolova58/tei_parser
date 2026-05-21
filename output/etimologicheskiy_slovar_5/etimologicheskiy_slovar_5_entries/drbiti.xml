@@ -1,0 +1,36 @@
+<Entry xml:id="drbiti">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrbiti</orth>
+    <lemma>dьrbiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дербйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать, скрести, царапать, либо драть, теребить , дёрбить растаскивать, расхищать , дерёбитъ драть, царапать (ряз., волог.), очень громко кричать, вопить, орать (волог., ряз.) , дербйтъся чесаться, зудеть, свер­ беть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Даль 3 I, 1063; Филин 8, 7)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(свердл., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(твер., Даль 3 Т, 1063)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, соотносительный с <ref type="etymon" target="dbrbati">*dbrbati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

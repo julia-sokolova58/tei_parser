@@ -1,0 +1,84 @@
+<Entry xml:id="cepeneti">
+  <pb n="184" end_page="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepeneti</orth>
+    <lemma>cepeneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cepeneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>твердеть, делаться твердым, жестким, нетерпеливо ждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cepeneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дохнуть (о ско­ тине)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cepenit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>переставать болеть, затихать, утихать (о боли)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цепенеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться неподвижным (от ужаса, испуга, стужи и т. д.) .— Ср. еще, с отличием в основе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>цЫЫити</ref> СА rigescere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>cjepjeniti</ref> se</orth>
+      </form>
+      <sense>
+        <def>rige- scere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., R J A I, 813)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от причастной формы <ref type="etymon" target="syorep-2">*сёрепъ]ъ</ref> 
+(см.), 
+производной, в свою очередь, от первонач. <ref type="etymon" target="cepti">*cepti</ref> 
+(см. подробнее 
+<ref type="etymon" target="cepati">*cepati)</ref>.</gram>
+  </gramGrp>
+  <note>Обычно сравнивают, обходя вопрос о конкретной струк­ туре *cepenetiy непосредственно это последнее с лит. kaipti 'хво- рать, чахнуть', см. Ph. Fortunatov ВВ III, 1879, 57 (вслед за Микуцким, относит сюда же чеш. z-cipati 'подыхать'); Berneker I, 125 (с сомнением приводя этимологию Фортунатова, тем не ме­ нее, также не выделяет особое, отпричастное образование формы *cepeneti); Фасмер IV, 299 (производит праслав. *cepeneti прямо от *сёръ).</note>
+</Entry>

@@ -1,0 +1,121 @@
+<Entry xml:id="devuxa">
+  <pb n="21" end_page="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvuxa</orth>
+    <lemma>dĕvuxa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>devucha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, также debucha , jevucha ж. р. девушка, дочь , gevucha ж. p. девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валаш., Bartos. Slov. 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>devucha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>девушка, девка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 24; Kalal 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewucha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>девушка, девка, служанка, работница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 601)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. 3ev&amp;<ref>x</ref>&amp; ж - Р- сдевушка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. 1, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dieyxa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзявуха</ref> ж. р., простор,</orth>
+      </form>
+      <sense>
+        <def>девка.—Сюда же, далее, произ­ водные: с йотовым суффиксом —</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёвуша</ref>, djeeyuia ж - р.</orth>
+      </form>
+      <sense>
+        <def>девушка , также Дёвуша, личное имя собств. , с дополнительным суффиксом -(ъ)ка—</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>de</ref>- vuska ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewuszka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девочка , Русск. девушка ж. р. лицо женского пола, достигшее полного фи­ зического развития, но не состоящее в браке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 601)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>девушка</ref>, дё- J/шка, ж. р.</orth>
+      </form>
+      <sense>
+        <def>обращение к лицу женского пола независимо от воз­ раста (влад., калуж., твер., костр., свердл.), дочь (свердл., костр., арх., волог.), девочка (костр., новг., ленингр., волог. арх., челябин.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 320)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-иха</ref>
+      </m> от <ref type="etymon" target="yyoia">*йёиа</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

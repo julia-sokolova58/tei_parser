@@ -1,0 +1,64 @@
+<Entry xml:id="gradobitT">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gradobitT»</orth>
+    <lemma>gradobitT»</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gradobitb</orth>
+    <lemma>gradobitb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>градобит</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>то, что побито градом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйдобйт</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>то, что побито градом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 547; RJA III, 372: XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hradobit</ref> м. р. (?) *град</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>gradobity</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>побитый градом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 896)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Градобитъ</ref>, местн. название, бывш.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Валдайск. у. Новг. губ. (Russisches geographisches Namenbuch И, 581).—Ср. сюда же суффиксальные производные болг. диал. градобйтнина ж. р. 'посев, побитый градом' (Божкова БД I, 245), русск. градобитие ср. р. 'побитие трав, хлебов, садов гра­ дом' (Даль 3&lt; I, 961).</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="gradb">*gradb</ref> 
+(см.) и <ref type="etymon" target="sh">*ЬШ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

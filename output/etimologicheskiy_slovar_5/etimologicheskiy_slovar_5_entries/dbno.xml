@@ -1,0 +1,342 @@
+<Entry xml:id="dbno">
+  <pb n="174" end_page="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъbno</orth>
+    <lemma>dъbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъью</ref> ср. p. TUU&amp;[XTJV, profundum, fundus</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>di</ref>&gt;no ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дно</ref> ср. р. , также дано ср. р. , дбно ср. р.</orth>
+      </form>
+      <sense>
+        <def>нижняя часть ствола де­ рева , д-бно ср. р. ствол дерева , д^нц ср. р. дно сосуда, ствол дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 189; Стойчев БД II, 152; М. Младенов БД III, 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стой­ чев. Родопски речник. — БД V, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно , дано ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацип, РСА IV, 368—369)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ddno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дно бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно, основание, подошва , сюда же ddna ж. р. дощечка дна бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>земельный участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dno</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 274—275)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно (сосуда) , deno ср. р. желудок у жвачных</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно , deno ср. p. пузо, брюхо, же­ лудок (у скота)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 173)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>ddnu</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ро- lanski-Sehnert 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 153—154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dnu</ref>$ ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно (сосуда)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъно</ref>, дно, дьно</orth>
+      </form>
+      <sense>
+        <def>исподняя часть cocvfla или какого-либо вместилища , киль , глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 132; Новг. I л. 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Златостр. сл. 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. л. 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 760)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>почва, земля, грунт под водой моря, реки и т. п., нижняя часть, основание сосуда, вместилища и т. п</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дно. — Из производных отметим</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>di</ref>&gt;nep м. р.</orth>
+      </form>
+      <sense>
+        <def>нижний конец ствола</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно объясняют праслав. *д,ъЬпо из и.-е. *dhub(h)-no-my родственного и.-е. *dheubh-l*dhubh- 'долбить', 'глубокий', ср. лит. dugnas 'дно' (из *dabnas), лтш. dubens, dibens 'дно, глубина', галльск. dubno- 'мир', др.-ирл. domun то же, а также соответ­ ствующие прилаг-ные лит. dubus 'глубокий', гот. diups то же, нем. tief, др.-ирл. domain 'глубокий'. Праслав. *d^no характери­ зуется как первонач. гетероклитич. основа на -г/га-, ср. парное<xr type="compare">см. <ref type="etymon" target="dbbrb">*dbbrb</ref>
+    </xr>. Связь с *dheubh~l*dhubh- носит, по-видимому, старый 
+характер, хотя, возм., не является единственной и даже не самой 
+древней. На сложность происхождения *йъ&amp;га-/*йъ&amp;г- указывают 
+факты, не поддающиеся удовлетворительному 
+объяснению при 
+этимологии из *dheubh- 'глубокий': это (1) арм. erkin 'небо' и 
+erkir 'земля', через арм. егки 'два', возводимые к и.-е. *duuo 'два' 
+и тем самым обнаруживающие, помимо опосредствованного родства 
+с *йъ6га-/*йъ6г-, 
+также 
+особое 
+непридыхательное 
+начало *du-; 
+(2) показания 
+общей семантич. 
+типологии, 
+свидетельствующие 
+о том, что понятия и семемы 'дно' и 'глубокий, бездна' не свя­
+заны, а противопоставлены и что знач. 'дно', напротив, связано 
+со знач. 'равнина, плоскость' (даже 'мель, мелкий'), ср. хотя бы 
+употребление нем. Grund, Boden.. Связь с *dheubh~l*dhubh- носит, по-видимому, старый 
+характер, хотя, возм., не является единственной и даже не самой 
+древней. На сложность происхождения *йъ&amp;га-/*йъ&amp;г- указывают 
+факты, не поддающиеся удовлетворительному 
+объяснению при 
+этимологии из *dheubh- 'глубокий': это (1) арм. erkin 'небо' и 
+erkir 'земля', через арм. егки 'два', возводимые к и.-е. *duuo 'два' 
+и тем самым обнаруживающие, помимо опосредствованного родства 
+с *йъ6га-/*йъ6г-, 
+также 
+особое 
+непридыхательное 
+начало *du-; 
+(2) показания 
+общей семантич. 
+типологии, 
+свидетельствующие 
+о том, что понятия и семемы 'дно' и 'глубокий, бездна' не свя­
+заны, а противопоставлены и что знач. 'дно', напротив, связано 
+со знач. 'равнина, плоскость' (даже 'мель, мелкий'), ср. хотя бы 
+употребление нем. Grund, Boden.. Связь с *dheubh~l*dhubh- носит, по-видимому, старый 
+характер, хотя, возм., не является единственной и даже не самой 
+древней. На сложность происхождения *йъ&amp;га-/*йъ&amp;г- указывают 
+факты, не поддающиеся удовлетворительному 
+объяснению при 
+этимологии из *dheubh- 'глубокий': это (1) арм. erkin 'небо' и 
+erkir 'земля', через арм. егки 'два', возводимые к и.-е. *duuo 'два' 
+и тем самым обнаруживающие, помимо опосредствованного родства 
+с *йъ6га-/*йъ6г-, 
+также 
+особое 
+непридыхательное 
+начало *du-; 
+(2) показания 
+общей семантич. 
+типологии, 
+свидетельствующие 
+о том, что понятия и семемы 'дно' и 'глубокий, бездна' не свя­
+заны, а противопоставлены и что знач. 'дно', напротив, связано 
+со знач. 'равнина, плоскость' (даже 'мель, мелкий'), ср. хотя бы 
+употребление нем. Grund, Boden.. Связь с *dheubh~l*dhubh- носит, по-видимому, старый 
+характер, хотя, возм., не является единственной и даже не самой 
+древней. На сложность происхождения *йъ&amp;га-/*йъ&amp;г- указывают 
+факты, не поддающиеся удовлетворительному 
+объяснению при 
+этимологии из *dheubh- 'глубокий': это (1) арм. erkin 'небо' и 
+erkir 'земля', через арм. егки 'два', возводимые к и.-е. *duuo 'два' 
+и тем самым обнаруживающие, помимо опосредствованного родства 
+с *йъ6га-/*йъ6г-, 
+также 
+особое 
+непридыхательное 
+начало *du-; 
+(2) показания 
+общей семантич. 
+типологии, 
+свидетельствующие 
+о том, что понятия и семемы 'дно' и 'глубокий, бездна' не свя­
+заны, а противопоставлены и что знач. 'дно', напротив, связано 
+со знач. 'равнина, плоскость' (даже 'мель, мелкий'), ср. хотя бы 
+употребление нем. Grund, Boden.</note>
+  <gramGrp>
+    <gram>Все это позволяет взглянуть на слав.<ref type="etymon" target="dbbn-">*dbbn-/</ref>
+      <ref type="etymon" target="dbbr-">*dbbr-</ref> 
+как на родственное и.-е. числ. <ref type="etymon" target="duud">*duud</ref> 'два' 
+(обозначение видимого мира как единства д в у х твердей — земли 
+и неба).</gram>
+  </gramGrp>
+  <note>Только так могут быть удовлетворительно разъяснены случаи знач-я 'мир' (выше). Разумеется, и.-е. состояние в слав, представляется реликтовым, значительно перекрытым связями с продолжениями *dheubh-, ср. особенно *йъ6гь. См. О. Н. Тру- бачев «Этимология. 1970» (М., 1972), 10—12; ср. по этому поводу замечания В. Н. Топорова — «Этимология. 1974», М., 1976, 5. Из прочей литер.: Miklosich 54; Р. Брандт РФВ XXII, 1889, 114; A. Meillet MSL 12, 1903, 430; К. Strekelj AfslPh XXVIII, 1906, 482—484; Berneker I, 245—246; А. Соболевский РФВ LXIV, 1910, 115; J. Charpentier «Glotta» 9, 1918, 44 2; C. D. Buck «Lan- guage» 5, 1929, 221; G. Bonfante «Studi baltici» I, 1931, 83; Ot- rqbskj. Studia indoeuropeistyczne 184 (о метатезной связи с др.- инд. budhna- 'дно'); Фасмер I, 519; R. Jakobson «Word» 8, 1952, 388; Zubaty. Studie a clanky I, 1, 289; Machek 2 121 (ЧъЬпо&lt; *bbdno &lt;^*budhno-, тогда как лит. dugnas объясняет как заимств. из слав.).</note>
+</Entry>

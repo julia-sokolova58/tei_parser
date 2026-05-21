@@ -1,0 +1,46 @@
+<Entry xml:id="agk">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>агъкъ</orth>
+    <lemma>агъкъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>агькъ</orth>
+    <lemma>агькъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jazek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыба елец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Rartos Slov. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jazk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>малый шерех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. 1, 537)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с соответствующей суффиксацией (<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> 
+или 
+<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m>) 
+от основы <ref type="etymon" target="azb-2">*azb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

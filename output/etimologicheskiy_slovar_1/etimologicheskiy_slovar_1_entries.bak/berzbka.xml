@@ -1,0 +1,93 @@
+<Entry xml:id="berzbka">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzbka</orth>
+    <lemma>berzbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfizka</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>березка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>briezka</ref> ж. р. ум. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brjazka</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzozka</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>березка, березовая кора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfduskd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёзка</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>м о ­ лодая береза, также вид — береза малорослая Betula humilis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>берёзка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Betula humilis Schrank , бергзка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бярбзка</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Деминутив регулярного вида, производный с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> 
+от 
+<ref type="etymon" target="berza">*berza</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. более распространенный на юге и юго-западе слав, территории деминутив<xr type="compare">см. <ref type="etymon" target="berzica">*berzica</ref>
+    </xr>.</note>
+</Entry>

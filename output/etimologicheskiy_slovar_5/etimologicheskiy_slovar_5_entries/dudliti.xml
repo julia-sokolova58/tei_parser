@@ -1,0 +1,115 @@
+<Entry xml:id="dudliti">
+  <pb n="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dud(ь)liti</orth>
+    <lemma>dud(ь)liti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дутлити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сосать, пить из горлышка , дудлити сосать грудь (о младенце, детеныше), мусолить , также дудлити , дудолити чуть слышно говорить, шептать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>придавать форму трубки, duliti se надуваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дулю</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пью , дулить нить, дудолить, дудить , пить; нить много , дудлить сосать, втягивать в рот какую-либо жидкость; сосать грудь, вымя и т. д. , дудолить то же , дудолить пить чего-нибудь много, не отры­ ваясь, сосать грудь (о ребенке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Два старинных областных словаря XVIII столетия. Сообще­ ние П. К. Симони. Словарь областных слов, употребляемых в городе Устюге Великом (по записи 1757 г.). — ЖСт. VIII, 1898, 444)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Даль 3 I, 1245)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вят., волог., Филин 8, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 8, 249)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., тул., твер., смол., ворон., тамб., курск., кубан., рост., пек., моек., пенз., Филин 8, 249—250)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калинин­ ской области 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дудлити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пить с жадностью . — Особых фонегич. комментариев требует в остальном очень близкое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>dulit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пить залпом, без меры , также dulitf</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kasik. Stfedobecev. 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dulif</ref> sa</orth>
+      </form>
+      <sense>
+        <def>надуваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, произгодный от <ref type="etymon" target="dudlo">*dud(ь)lo</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Часть примеров затемнена воздействием экспрессивных факторов.</note>
+</Entry>

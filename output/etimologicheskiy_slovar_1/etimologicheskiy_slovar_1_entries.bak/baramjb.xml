@@ -1,0 +1,78 @@
+<Entry xml:id="baramjb">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baram&gt;jb</orth>
+    <lemma>baram&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>barani</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>бараний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>baranl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бараний, овечий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>barqni</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>ба­ раний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. W b . I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>борании</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделан­ ный из шкуры барана , бо- ранъ ( X I V в., Картотека С Д Р )</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X V в., Срезневский III. Доп. 24')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бараний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к барану, приготовленный из баранины</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бараний</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>бараний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяжат. прилаг., производное с суфф. -ь;ь от<ref type="etymon" target="agap">*Ьагапъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,159 @@
+<Entry xml:id="duploduplo">
+  <pb n="159" end_page="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dup(ь)lo/*dup(ъ)lo</orth>
+    <lemma>dup(ь)lo/*dup(ъ)lo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dup(b)lo</orth>
+    <lemma>dup(b)lo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дупло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дупло</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дупло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dublo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пещера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duplo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>углубление, дупло (в дереве), яма, пещера, поддувало под очагом, плитой , сюда же deplo ср. р. пещера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dzixplo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дупло, углубление, яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>duplo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дупло, нора ласки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дйпло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дупло (в дереве)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 745)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дупло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пустота в сердцевине дерева, внутренность выгнившего дерева, пня</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дупло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скво­ речница , дупле небольшая из древесной коры корзина для собирания лесных ягод , дупле - пустая внутренность сгнившего дерева , дупло , дупло ср. р. дуплистое дерево (куйбыш., новосиб.), обрубок дуплистого или выдолбленного дерева, встав­ ляемый в дымовое отверстие курной избы (костр.), скворечник (пенз., калуж., яросл.), береста, снятая в форме цилиндра со срубленного дерева и употребляемая для изготовления короба (тула) (карел.), улей (куйбышев.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дупло</ref> dup(b)lhje ^ ср. p.</orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дупле</ref> ср. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бай- коу-Некраш. 99)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суффиксальным -Z- от<ref type="etymon" target="dupa">*dupa</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. анало­ гичное нем. диал. Tobel 'лощина, овраг, ущелье'. См. Berneker I, 237—238; Kluge 2 0 779; Фасмер I, 554.</note>
+</Entry>

@@ -1,0 +1,39 @@
+<Entry xml:id="cepelztis">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepelzti s</orth>
+    <lemma>cepelzti s</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чеплёзжся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>карабкаться, лазать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чеплёзи</ref> съ</orth>
+      </form>
+      <sense>
+        <def>взбираться, карабкаться вверх , чуплёзъ съ то же , чеплёзии се то же (с. Долна Милна, Трънско. дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. Пле- венско. — БД IV. 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троян­ ският говор.—БД IV, 232)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки се- и глагольной основы<ref type="etymon" target="peZz-">*peZz-</ref>, связанной чередованием с <ref type="etymon" target="pblzti">*pblzti</ref>, <ref type="etymon" target="ro1g">*ро1гъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. иначе Младенов ЕПР 681, кот. исходит из основы болг. чеп-, якобы контаминированной с лЪз-.</note>
+</Entry>

@@ -1,0 +1,40 @@
+<Entry xml:id="belbgordb">
+  <pb n="78" end_page="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belbgordb</orth>
+    <lemma>belbgordb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Бедград</ref>, Биоград</orth>
+      </form>
+      <sense>
+        <def>Белград</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Belohrad</ref> м. р., курортный город в Чехии</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>БЪлъ</ref>- город</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. . . Володим-Ьръ заложи гра^ БЪлъ. . .и . . .любд городъ tucb. Ип. л. ок. 1425 г., л. 45 об.—46; Скочи отъ нихъ лютымъ звъ-ремъ въ плъночи, изъ БЪла-града. . . Сл-. о плк. Иг. — Карто­ тека СДР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Белгород. Сюда можно еще добавить поморск. Bialogard, затем Bdlgrad на Мароше, в Румынии, а также Biograd па moru, в Хорватии.</note>
+  <gramGrp>
+    <gram>Ясно, что перед нами — сложение<ref type="etymon" target="yo">*Ьё</ref>^оЫъ 
+из имени <ref type="etymon" target="gordb">*gordb</ref> 
+(см.) и определения — прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Конкретный смысл употребления *Ьё1ъ 'белый' в данном древнем контексте, однако, недостаточно ясен, возм., прав Скок, видя здесь указание на связь с водой (все населенные пункты с названием *Ьё1ъ gordb располо- жены над водой). См. подробно «SJ:ownik starozytnosci slowian- skich» I, 101: ВНъ^отйъ (редакционная статья). Ср., впрочем, указание на функцию определения *Ьё1ъ как постоянного эпи­ тета со знач. 'прекрасный' в народной словесности, ср. сербохорв. bijeli grad и т. д., см. Sadnik—Aitzetmuller. Vgl. Wb. 2, 130. На­ конец, нужно иметь в виду возможность употребления цвето- обозначения 'белый' как названия страны света 'западный', см. в последнее время О. Н. Трубачев — ВЯ 1974, № 6, 51.</note>
+</Entry>

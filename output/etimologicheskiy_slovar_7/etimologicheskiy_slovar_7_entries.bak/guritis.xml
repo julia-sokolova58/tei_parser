@@ -1,0 +1,43 @@
+<Entry xml:id="guritis">
+  <pb n="176" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>guriti (s§)</orth>
+    <lemma>guriti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гурити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгибать, горбить, корчить , гурити се съеживаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 764)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гуритъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>виниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Опыт 44; Филин 7, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), 
+соотносительный 
+с <ref type="etymon" target="gurati">*gurati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древ­ ность (праслав.) гл. *guriti делает весьма вероятной любопытный русск. диалектизм (см. выше), пропущенный этимол. словарями с очевидным развитием значения 'сгибаться, съеживаться' -&gt; 'ви­ ниться'. О сербохорв. гурити (се) см. еще J. Endzelin KZ XLIV, 1911, 68.</note>
+</Entry>

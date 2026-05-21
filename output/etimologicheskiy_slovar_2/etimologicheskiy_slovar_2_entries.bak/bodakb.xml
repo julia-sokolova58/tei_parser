@@ -1,0 +1,139 @@
+<Entry xml:id="bodakb">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodakb</orth>
+    <lemma>bodakb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>колющее оружие, штык, чертополох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>boddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>штык</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>boddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>короткое колющее оружие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>boddk</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovgtiak Orav. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bodzak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>штык, клык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>boddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шип, колючка, боярышник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бодяк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>татарник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бодакъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Xantium spinosum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Леке. 4, Тимченко I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бодак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Cirsium palustre , бодак чертополох , бодак I будак то же , бодяк м. р. растение чертополох, вол­ чец, Onoporda acanthium , будЛк м. р. растение чертополох, волчец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Пч. I, Гринченко I, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словарь бойковского диалекта 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шило. Швденно-захщш говори УРСР на п1вн1ч вщ Дшстра 241)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шух., Гринченко I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадзяк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>татарник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(а)къ от основы гл.<ref type="etymon" target="bodg-2">*bodg</ref>, <ref type="etymon" target="bosti-3">*bosti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Принимая во внимание возможное отражение глагольной темы -а-, мы ожидали бы — как более закономерную — форму имени<xr type="compare">см. <ref type="etymon" target="badakb">*badakb</ref>
+    </xr>, соотносительную с гл. *badati. Огласовка корня 
+*bodafo выглядит в этом случае как вторичная; недостаточная 
+ясность относительной хронологии форм *badakb I *bodakb при­
+водит, в частности, к тому, что продолжения их неизбежно вос­
+принимаются как перекрещивающиеся (<xr type="compare">см. <ref type="etymon" target="as1ak">*Ьас1акъ</ref>
+    </xr>). Тем не 
+менее, лексема (и часть значений) принадлежит, по-видимому, 
+к древнему фонду.</note>
+</Entry>

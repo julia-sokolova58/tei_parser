@@ -1,0 +1,67 @@
+<Entry xml:id="gorsiti">
+  <pb n="48" end_page="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorsiti</orth>
+    <lemma>gorsiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гратам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перемешивать вилами сено и солому для скотины , граша замешивать отруби с мякиной, солью и водой для скотины , намешивать муку и отруби в корм для скота (с. Камарци, Ботевградско, дип. раб., Архив Софийск. ун-та), грашим намешивать корм для скота (с. Говедарци, Самоковско; с. Радуил, Архив Болг. диал. словаря, София), ср. сюда же именное производное грашено ср. р. корм для скотины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кънчев. Пирдопско.— БД IV, 95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Мла- денов БД Ш . 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грашити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выступать крупными каплями (о поте) , grasiti se свертываться (о мо­ локе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 582)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grasiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>сделаться величиной с горошину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gorxb">*gorxb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание довольно самостоятельная семантика болг. соответствий, однако она не дает оснований для этимол. сближения с<xr type="compare">см. <ref type="etymon" target="grexb">*grexb</ref>
+    </xr>, как см. Георгиев ВЕР IV, 276. Более вероятно 
+родство 
+с др.-инд. ghdrsati 
+'тереть' (ср. и знач.!), также допускаемое там, 
+т. е. с праслав. 
+*gorxb.</note>
+</Entry>

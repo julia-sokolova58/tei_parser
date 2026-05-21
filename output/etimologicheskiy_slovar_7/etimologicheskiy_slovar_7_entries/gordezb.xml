@@ -1,0 +1,72 @@
+<Entry xml:id="gordezb">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordezb</orth>
+    <lemma>gordezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>градеж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>строение 9</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: градёжь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>градёш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>каменная ограда , ограда (с. Величково, Пазарджишки окр., дип. раб., Архив Софийск. ун-та), плетень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 53; Илчев БД I, 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Покровник, Бла- гоевградски окр.—Дип. раб. Софийск. ун-та, 1977 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>градеж</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>строительство, стройка, постройка, сооружение (здание)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>gradez</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>забор, ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>градеж</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>стройка, строительство, ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 541; RJA III, 362, 365: с XIV в.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф, -е%ъ (первонач. название действия) от гл.<ref type="etymon" target="gorditi">*gorditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

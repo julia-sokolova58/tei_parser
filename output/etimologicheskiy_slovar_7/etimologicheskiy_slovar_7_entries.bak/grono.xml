@@ -1,0 +1,120 @@
+<Entry xml:id="grono">
+  <pb n="138" end_page="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grono</orth>
+    <lemma>grono</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grona</orth>
+    <lemma>grona</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грон</ref>*</orth>
+      </form>
+      <sense>
+        <def>гроздь, кисть (Трънско, Архив Болг. диал. словаря, София), также грбнка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Зап. България. — СбНУ XI, 1894, 193; Мла­ денов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грогьа</ref>, грбгьа ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроздь, кисть , также груко ср. р. , грдкка ж. р. , грунка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 681)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 706)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 680)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 706)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grono</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пучок, кисть, соцветие, гроздь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1309—1310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grume</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>Носке, Kornstiege</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грбна</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>кисть, гроздь, цветок винограда, (астрах.) кашка , грона, грбнка ж. р. гранка орехов , грунб ср. р. гроздь , грбнка лакомство; кусочки печеного сдобного теста, перемешанные с пережаренным медом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 983)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(юж., зап., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., Филин 7, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Словарь на­ родных говоров Зап. Брянщины 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грбно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>виноград­ ная кисть, гроздь , сюда же гр1цка ж. р. корзинка подсолнечника, пучок орехов на дереве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 330)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грбнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроздь, кисть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грбнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветка с ягодами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 128)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *grana (см.; там же подробнее об этимологии), вместе с которым продолжает и.-е. *gron&lt; *grdn-y точнее, пра- слав. *grono восходит ко второй из этих праформ, связанных древним чередованием гласных. См. Berneker I, 346; Stawski I, 350; Георгиев ВЕР IV, 285.</note>
+</Entry>

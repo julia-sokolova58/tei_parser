@@ -1,0 +1,101 @@
+<Entry xml:id="edlina">
+  <pb n="14" end_page="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edlina</orth>
+    <lemma>edlina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Jedlina</ref> ж. р., название леса , чеш, jedlina ж. р.</orth>
+      </form>
+      <sense>
+        <def>еловая хвоя, ветки, ельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jedlina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ельник , елвц. jedlina ж. р., собир. гора, поросшая елями, ельник, еловая хвоя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Bartos. Slov. 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jedlina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель, пихта, хвоя (ели, пихты)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>елйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ялйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 539)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ялцна</ref> = ялиннщ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Угор., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ялша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель, елка.—Сюда же произ­ водное с йотовым суфф</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>елинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еловый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1254 г., Срезневский I, 824)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (гл. обр. с функцией собирательности), образован­ ное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="ed1">*ед1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

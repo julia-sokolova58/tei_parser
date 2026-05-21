@@ -1,0 +1,46 @@
+<Entry xml:id="bedrika">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedrika</orth>
+    <lemma>bedrika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бедрика</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт сладких и твердых яблок , яблоко средней величины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 377)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(JS 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bedriha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт яблок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> 
+от древней 
+основы 
+прилагатель­
+ного <ref type="etymon" target="bedr-">*bedr-</ref>, в сущности — фонетич. вариант 
+к <ref type="etymon" target="bedrica">*bedrica</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Семантич. развитие, возм., объясняется из значения этимологи­ ческой первоосновы: ' б и т ь ' &gt; ' с б и т ы й , плотный, твердый'. Не­ убедительно отнесение к и.-е. *bhedr- 'процветание' ( Н . G. Lunt «Language» 29, 1953, 133).</note>
+</Entry>

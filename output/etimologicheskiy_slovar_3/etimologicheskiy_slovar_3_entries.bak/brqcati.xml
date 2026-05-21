@@ -1,0 +1,122 @@
+<Entry xml:id="brqcati">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brqcati</orth>
+    <lemma>brqcati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръмча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать, рокотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брънч</ref>§</orth>
+      </form>
+      <sense>
+        <def>издавать звук (о музыкальном инструменте, гайде), пищать, жужжать (о насекомом), бродить, шататься (без дела)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов Б Д 1, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brucetl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать; роптать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brucet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть в тюрьме , brunceti жужжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubm. Cech. klad. 1 6 7 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 1 0 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brucaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормотать, ворчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 1 3 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>brun</ref>- cec</orth>
+      </form>
+      <sense>
+        <def>жужжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 1 3 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>branded</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать о (жуке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 5 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брунчатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать и бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 1, 3 2 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брунчкти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гриачеико J, 1 0 2 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. гл. (ср. и экспрессивное сохранение [или воспроизведение ?] назального элемента в формах типа русск. брунчатъ), соотносительный с именем<ref type="etymon" target="gdk">*Ьгдкъ</ref> 
+(см.) и гл. 
+*6г?-
+cati 
+(см.).</gram>
+  </gramGrp>
+</Entry>

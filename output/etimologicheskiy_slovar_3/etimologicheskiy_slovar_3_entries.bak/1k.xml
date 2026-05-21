@@ -1,0 +1,71 @@
+<Entry xml:id="1k">
+  <pb n="118" end_page="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъ1къ</orth>
+    <lemma>Ьъ1къ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Ык</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>огонь, пламя, пожар, вспышка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 105; Kott I, 74: Ык м. р. 'столб огня, пламени', с пометой «в Сло- •bbltati вакии»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>belk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>водоворот, gurges , переносно — об огне, ср. Belk intensus ignis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1463 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1436 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SI. stpol. I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>belk</ref> и. p.</orth>
+      </form>
+      <sense>
+        <def>вспышка (пламени) . — Неясно, возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, И З )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бблки</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>употреблявшиеся в ста­ рину вместо колес круги, выпиленные из толстого древесного ствола</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев.-двинск., Филин 3, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное имя, производное от<ref type="etymon" target="bblkati">*bblkati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. параллель­ ные *bbltati —<xr type="compare">см. <ref type="etymon" target="11">*Ьъ11ъ</ref>
+    </xr>. 
+Зиач-я 
+'пламя', 
+'пылать, 
+сверкать' 
+развились из 'болтать, производить круговые и проч. движения'.</note>
+</Entry>

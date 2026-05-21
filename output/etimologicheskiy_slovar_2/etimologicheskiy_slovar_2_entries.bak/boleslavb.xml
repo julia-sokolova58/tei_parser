@@ -1,0 +1,44 @@
+<Entry xml:id="boleslavb">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'eslavb</orth>
+    <lemma>bol'eslavb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Bo</ref>\eslav м. р., личное имя собств. , сюда же фам. Bojeslavic</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XI, XIII и XIV вв., RJA I, 534—535)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XII— ХГП в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Boleslav</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Boleslaw</ref> , ст.-по-льск. Bolestaw м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zeman 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Stown. stpol. nazw osobowych I, 2, 210)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Двуосновное личное имя, образованное от сложения прилага­ тельного сравнительной степени ср. р. *ЬоГе (<xr type="compare">см. <ref type="etymon" target="og-3">*ЬоГъ]'ъ</ref>
+    </xr>) и 
+основы *slav- (<xr type="compare">см. <ref type="etymon" target="slava">*slava</ref>
+    </xr>, *slaviti). Попытку объяснения ир. влия­
+нием см. Т. Milewski RS XXI, 1960, 54.</note>
+</Entry>

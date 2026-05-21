@@ -1,0 +1,36 @@
+<Entry xml:id="gbslo">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbslo</orth>
+    <lemma>gbslo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>heslo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>звание, (условный) знак, памятник (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>heslo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>условный знак, сигнал, па­ роль, заглавное слово, девиз, лозунг, елвц. heslo ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 471)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., производное с суф.<m type="suffix">
+        <ref>-slo</ref>
+      </m>, но происхождение производящей 
+основы (<ref type="etymon" target="gbdr">*gbdr</ref>? <ref type="etymon" target="gbs-">*gbs-</ref>?) 
+неясно.</gram>
+  </gramGrp>
+  <note>См. Р. Брандт РФВ XXII, 1889, 118; Berneker I, 378; Machek 2 165—166.</note>
+</Entry>

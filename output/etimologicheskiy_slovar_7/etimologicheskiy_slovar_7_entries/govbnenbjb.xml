@@ -1,0 +1,56 @@
+<Entry xml:id="govbnenbjb">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>govbnenb(jb)</orth>
+    <lemma>govbnenb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>говняный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>выпачканный в де­ рьме, дерьмовый, также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>говнён</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гомнен</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдвнен</ref>, -а, -о то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gowniany</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 891)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ёпъ</ref>
+      </m> от <ref type="etymon" target="govbno">*govbno</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

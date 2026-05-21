@@ -1,0 +1,76 @@
+<Entry xml:id="brbskati">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbskati</orth>
+    <lemma>brbskati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръекам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>небрежно мести, ударять слегка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бръекамь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бръекам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать , брскам небрежно чистить , бръекам небрежно мести , бръекам небрежно мести, слегка ударять , бръекъм мести кое-как (с. Николово, Русенско. дип. раб. Архив Софийск. ун-та), бдрскам молотить ржаные снопы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов. Б Д II, 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. БД III, J42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д И, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>brskati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>aqua lusus gratia adspergere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 681)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>berskati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>швырять, бросать , brskati швырять, рыться, копаться (о курах), копаться, искать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jarnik 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 66)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глагольный интенсив, производный с суфф. -к- от<ref type="etymon" target="bnsati-2">*bnsati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

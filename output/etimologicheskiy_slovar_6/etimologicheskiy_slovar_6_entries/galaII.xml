@@ -1,0 +1,49 @@
+<Entry xml:id="galaII">
+  <pb n="94" end_page="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gal’a II</orth>
+    <lemma>gal’a II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>га</ref>/ьаУ гал&gt;а ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gala</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосна с толстым, высоким стволом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 793)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>галя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>галька , г&amp;ля ж. р. галька более крупных размеров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 111; •galqza Филин 6, 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сло­ варь говоров Соликамского района Пермской области 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -/- от<ref type="etymon" target="gala">*gala</ref> II (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,21 @@
+<Entry xml:id="bolecbstb">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'ecbstb</orth>
+    <lemma>bol'ecbstb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bolecest</ref>, род. п. -csta(?), м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(nekrolog Podlazick^, 1224—1250 гг., Gebauer I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Архаическое антропонимическое сложение прилаг-ного срав­ нительной степени ср. р.<ref type="etymon" target="oge-3">*ЬоГе</ref> (см. <ref type="etymon" target="og-3">*ЬоГъ]ъ)</ref> и основы имени 
+<ref type="etymon" target="CbStb">*CbStb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

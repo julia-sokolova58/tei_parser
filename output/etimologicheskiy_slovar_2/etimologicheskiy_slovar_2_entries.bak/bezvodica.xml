@@ -1,0 +1,39 @@
+<Entry xml:id="bezvodica">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvodica</orth>
+    <lemma>bezvodica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezvodica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>aquae inopia, недостаток воды, brezvodica ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 279, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. без¬ <ref>водица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>недостаток воды, влаги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(кубан., перм., Филин 2, 182)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (видимо, субстантивация) от основы 
+сложного прилаг. <ref type="etymon" target="bezvod-">*bezvod-</ref> (см. <ref type="etymon" target="bezvod">*bezvod</ref>^b) 
+или префиксально-
+суффиксальное образование от имени <ref type="etymon" target="voda">*voda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

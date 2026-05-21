@@ -1,0 +1,37 @@
+<Entry xml:id="debelbstvo">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>debelbstvo</orth>
+    <lemma>debelbstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д6Б6ЛАГТЬО</ref> ср. p. тсах^д, crassities</orth>
+      </form>
+      <sense>
+        <def>толщина или широта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дебелъство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гру­ бость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 34; Гр. Наз. XI в. л. 145, Срезневский I, 650)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от прилаг. <ref type="etymon" target="debelb-4">*debelb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

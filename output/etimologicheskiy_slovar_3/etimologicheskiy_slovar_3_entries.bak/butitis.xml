@@ -1,0 +1,91 @@
+<Entry xml:id="butitis">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>butiti(s§)</orth>
+    <lemma>butiti(s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бутити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбивать (масло) , сло­ вен. bdtiti сильно ударить(ся), грохнуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA II, 316)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bucic</ref> sie</orth>
+      </form>
+      <sense>
+        <def>заноситься, кичиться, гордиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бутжти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно ударить?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(что имъ (кремнем) бутишь въ стен'Ь, то в-вчно есть. Травник. Перевод немчина Николая Любчанина. 1534 г. Рукоп. Уварова № 2192, X V I I в. Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бутить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, колотить (перм.), издавать гулкий звук при ударе (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бутити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буйствовать, (о детях, скотине) беспокойно бегать, беспокойно играть . — На исходный гл. *butiti указывает и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диалекта 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бутило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>высокая узкая кадка для сбивания масла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, родственный <ref type="etymon" target="butati">*butati</ref>, 
+<ref type="etymon" target="buta">*buta</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ит. происхожде­ ние (см. Фасмер I, 252, с литер.) невероятно.</note>
+</Entry>

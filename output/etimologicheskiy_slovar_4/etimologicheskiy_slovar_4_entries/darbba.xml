@@ -1,0 +1,87 @@
+<Entry xml:id="darbba">
+  <pb n="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darbba</orth>
+    <lemma>darbba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дарба</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок, дар, дарование, талант, способность, даровое нечто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дарба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подарок , дарба, дарба ж. р. дар, пода­ рок, врождённая способность , дарба ж. р. дар, талант</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дарба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дарование, способность, (устн.) подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дарба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>darba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дарение, подношение . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дарбенний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 358)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название действия, производное с суфф.<m type="suffix">
+        <ref>-ъЪа</ref>
+      </m> от гл. <ref type="etymon" target="dariti">*dariti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,57 @@
+<entries>
+  <entry xml:id="brkotati" xml:id="brkotati">
+    <pb n="128" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrkotati</orth>
+      <lemma>bT&gt;rkotati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brkotati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>спотыкаться</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>barkotas</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ворчать, мычать, жужжать , borkotae бормотать; ворчать; шептать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 16)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 65)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>боркотати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>рокотать, шуметь (Картотека Украинского академического словаря), ворковать, рокотать, шуметь, ворчать , также бур- котати</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко 1, 87, 112)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл., родственный 
+(см.), формально — производное 
+на 
+<m type="suffix">
+          <ref>-ati</ref>
+        </m> от <ref type="etymon" target="gsh">*ЬъгШъ</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

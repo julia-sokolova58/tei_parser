@@ -1,0 +1,195 @@
+<Entry xml:id="golina">
+  <pb n="206" end_page="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golina</orth>
+    <lemma>golina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голое место (не покрытое растительностью, оголенное от снега)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>голина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>безлесная местность, покрытая травой , голина ж. р. голый холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Орханийско, СбНУ X X X V I I I , 107. Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>безлесная, гористая местность, открытое место, лужайка, проталина , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>golina</ref> , 20? *gol</orth>
+      </form>
+      <sense>
+        <def>a</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radoida-VevSani dialect 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>обнаженность, голая земля, голый холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 435; RJA III, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gollna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нагота, оголенность, голое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>holina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>необ­ работанная земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brand! 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 718)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прогалина, голое место, кожа, очищенная от волос и т. п. при выделке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>holina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прогалина, голое место, пустота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>golina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветка без листьев, сук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 867)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>голина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псалт. XII в. Пс. XLVII. толк.; Прол. май 17, Срезневский I, 542)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голое место, голая земля , бритая овчина, на которой делают вышивку (яросл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль — без указ. м.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 6, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отборный зерновой хлеб (кроме овса)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветвь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>галта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голое, пустое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 302)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="golb-5">*golb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

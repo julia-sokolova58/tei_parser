@@ -1,0 +1,81 @@
+<Entry xml:id="goricb-2">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gori&gt;cb</orth>
+    <lemma>gori&gt;cb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гбреч</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорбь, мука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Рани луг, Пер- нишки окр. — Дип. раб. Софийск. ун-та, 1977 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>go</ref>- гас м. р.</orth>
+      </form>
+      <sense>
+        <def>растение зверобой Hypericum perforatum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA HI, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hofec</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горечь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горький вкус, качество, свойство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 946)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горчь</ref>, горечь ж. р.</orth>
+      </form>
+      <sense>
+        <def>желчь, а также желчный пузырь , горечь ж. р. хлебная водка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(оренб., Филин 7, 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гбреч</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. Maтepiaли до словника ддалектиз- MIB украшських roBopiB Буковини 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (основа на -i-) от прилаг.<ref type="etymon" target="gorbkb-9">*gorbkb</ref> 
+(см.), субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

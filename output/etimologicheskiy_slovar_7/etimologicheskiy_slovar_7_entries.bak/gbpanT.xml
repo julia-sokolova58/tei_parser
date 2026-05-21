@@ -1,0 +1,58 @@
+<Entry xml:id="gbpanT">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbpanT</orth>
+    <lemma>gbpanT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hpan</ref> = pan</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>pan</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гос­ подин, повелитель, господь, елвц. pan м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ III, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>pan</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. IV, 30—31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>ри</ref>&gt;п , словин рбип, род. п. pqna, м. р.</orth>
+      </form>
+      <sense>
+        <def>господин, повелитель, знатный, благородный человек . — Довольно многочисленные зап.-слав. производные (pani, раппа, panic, panski, panowat и т. п.) мы рассматриваем как послепраслав. и сюда не включаем, хотя в принципе некото­ рые из них могли бы сформироваться еще в праслав.: *gbpanbji (ср. ниже), *gbpanbskb, ср. и древний хар-р их словообразова­ тельных моделей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomasz. Ьор. 166)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 818)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. диалектизм. Для реконструкции особенно важна ст.-чеш. форма hpan, см. О. Hujer IF XXIV, 1909, 70.</note>
+  <gramGrp>
+    <gram>На осно­ вании этой формы и вокализации предлогов se pdnem, ode рапа, предполагающей древнее наличие следующего (слабого) редуциро­ ванного, Гуйер доказал необходимость реконструкции<ref type="etymon" target="gpan">*gъpanъ</ref>, 
+однако ошибочно предположил, 
+что последнее 
+восходит 
+к и.-е.</gram>
+  </gramGrp>
+</Entry>

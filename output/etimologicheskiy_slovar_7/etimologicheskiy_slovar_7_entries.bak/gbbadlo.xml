@@ -1,0 +1,75 @@
+<Entry xml:id="gbbadlo">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbadlo</orth>
+    <lemma>gbbadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>грубое сукно для крестьянской одежды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hebadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>приспособление для плетения веревок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>при­ способление для загибания полозьев , бала то же , сюда же меало снаряд для гнутия дуг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Зобнин ЖСт. IV, 1, 55; Сл. Среднего Урала I, 33; Словарь говоров Соликамского р-на Пермской обл. 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 И, 811)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбала</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приспособ­ ление для гнутья дуг, ободьев , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ластоуск1 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гбала</ref> ср. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Народная лексша 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (название орудия) с суф. -(a)dlo от гл.<ref type="etymon" target="g4ibati">*g4ibati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Для болг. бало Георгиев БЕР повторяет этимологию Дю­ вернуа— от франц. ballot 'связка, кипа', но последний имел в виду другое болг. слово (балоти), тогда как ни ударение и форма болг. бало, ни его знач. ('грубое крестьянское сукно'!) не говорят о франц. происхождении.<xr type="compare">Ср. <ref type="etymon" target="gybadlo">*gybadlo</ref>
+    </xr> 
+(см.)</note>
+</Entry>

@@ -1,0 +1,37 @@
+<entries>
+  <entry xml:id="bucn" xml:id="bucn">
+    <pb n="76" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bučьnь</orth>
+      <lemma>Ьисьпь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бучень</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>дикая пчела; также : муха блестя­ щего зеленого цвета с жалом , бучень, бу- чинъ шмель , бучень, род. и. -чня, м. р. бык , бушёнъ крупная оса, шершень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Подвысоцкий 12, 89)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Куликовский 7)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(арх., волог., Филин 3, 329)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Сл. Среднего Урала 64)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -ъп- от основы <ref type="etymon" target="buk-">*buk-/</ref>
+        <ref type="etymon" target="is-">*Ьис-</ref>, собственно — 
+субстантивация предыдущего прилаг.</gram>
+    </gramGrp>
+  </entry>
+</entries>

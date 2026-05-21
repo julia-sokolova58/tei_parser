@@ -1,0 +1,95 @@
+<Entry xml:id="gololedica">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gololedica</orth>
+    <lemma>gololedica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гололедица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голо</ref>­ ледица ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gololedica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hololedice</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ho</ref>- loVadica</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 175—176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гололедица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наледь, тонкий ледяной слой от дождя по мерзлой земле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гололёдиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн. И , Грин­ ченко I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. диал, <ref>галялёдзща</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 110)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="goH-5">*goH</ref> (см.) и <ref type="etymon" target="sh-2">*Шъ</ref> 
+(см.), оформленное суффиксом 
+-ica, или производное с помощью последнего от <ref type="etymon" target="gololed">*gololedъ</ref> (см.), 
+ср., однако, несколько меньший ареал производящей формы 
+в таком случае.</gram>
+  </gramGrp>
+</Entry>

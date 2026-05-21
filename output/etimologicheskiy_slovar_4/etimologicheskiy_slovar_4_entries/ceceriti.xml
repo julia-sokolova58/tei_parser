@@ -1,0 +1,33 @@
+<Entry xml:id="ceceriti">
+  <pb n="32" end_page="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceceriti</orth>
+    <lemma>ceceriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cecefiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трепать (волосы), ерошить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cecerW</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, экспрессивное удвоение основы первоначального гл.<ref type="etymon" target="ceriti">*ceriti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Махек, наоборот, считал, что чеш. ceriti 'шеве­ лить, рябить'—упрощение (гаплология) в современной литер. речи более раннего, народного ceceriti (см. Machek- 100), но ср. слав. диал. соответствия, приводимые под *ceriti, кот. опро­ вергают это объяснение. Дальнейшее сравнение с лтш. cecers 'кудрявый, кучерявый' см. Berneker 1, 138.</note>
+</Entry>

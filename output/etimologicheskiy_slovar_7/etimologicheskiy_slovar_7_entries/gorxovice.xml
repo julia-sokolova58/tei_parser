@@ -1,0 +1,91 @@
+<Entry xml:id="gorxovice">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorxovi§ce</orth>
+    <lemma>gorxovi§ce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гр</ref>&amp;ховйште ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле, на котором возделы­ вали фасоль</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdhovisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гороховое поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrachoviste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гороховое поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrachovisko</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grochowisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гороховое поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 908)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гороховище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле, место в поле, засеянное горохом (волог., перм., сиб.), поле, с которого убрали горох (пек., твер.), поле, которое раньше засевали горохом (костр., калин.), колья, на ко­ торых подвешивается горох для просушки перед обмолотом (пек.), стебли гороха (?) (ср.-урал.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбхавЬшча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гороховище, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гарахавгшча</ref> ср. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыялектнага слоунша Гомельшчыны 230)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> (название места) от прилаг. <ref type="etymon" target="gorxovb-3">*gorxovb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

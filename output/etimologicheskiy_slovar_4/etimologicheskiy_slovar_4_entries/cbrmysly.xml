@@ -1,0 +1,25 @@
+<Entry xml:id="cbrmysly">
+  <pb n="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrmysly</orth>
+    <lemma>cbrmysly</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>мн.</orth>
+    <lemma>мн.</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cdrmesle</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>коромысла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. диалектизм. Родственно *kbrmyslb (см.; там же по­ дробно об этимологии), с кот. *cbrmyslb связано апофонич. связью. См. О. Н. Трубачев «Этимология. 1972» (М., 1974), 35—41, где и дальнейшая литература.</note>
+</Entry>

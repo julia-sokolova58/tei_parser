@@ -1,0 +1,78 @@
+<Entry xml:id="gko1">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьг§ко1ъ</orth>
+    <lemma>Ьг§ко1ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брекёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfinkot</ref> м.</orth>
+      </form>
+      <sense>
+        <def>иозвякиванье</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кваканье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bfakot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растрескавшаяся вещь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzpkot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>звон, бряцание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брёкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стук, стукотня, гремучий шорох или шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-оЬъ</ref>
+      </m> от основы <ref type="etymon" target="gf--2">*Ъгф-</ref> (см. 
+<ref type="etymon" target="brpkati">*brpkati)</ref>.</gram>
+  </gramGrp>
+</Entry>

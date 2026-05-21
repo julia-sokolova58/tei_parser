@@ -1,0 +1,21 @@
+<Entry xml:id="glbnoti">
+  <pb n="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glьbnǫti</orth>
+    <lemma>glьbnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>glnqd</ref> (?)</orth>
+      </form>
+      <sense>
+        <def>(о болоте) быть топким, впитывать, поглощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1425—1434 гг., St. stpol. II, 416)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -nqti, производный от предыд. См. Stawski I, 284.</note>
+</Entry>

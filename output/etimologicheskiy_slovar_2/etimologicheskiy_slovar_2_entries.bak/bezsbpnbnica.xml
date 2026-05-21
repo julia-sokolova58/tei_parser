@@ -1,0 +1,73 @@
+<Entry xml:id="bezsbpnbnica">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsbpn(bn)ica</orth>
+    <lemma>bezsbpn(bn)ica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безсъница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессонница , Макед. бессоница ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бесаница</ref> ж. р. /го же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА I, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бессонница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>состояние, когда не спится, невольное бдение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безсбнниця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бессон­ ница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяссбннща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бессонница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (субстантивация) от прилаг. <ref type="etymon" target="bez--8">*bez-</ref>
+зърпъпъ (см. след.) или — ввиду двойственности реконструкции — 
+префиксально-суффиксальное образование с помощью <ref type="etymon" target="bez-106">*bez</ref> (см.) 
+и суфф. -ica от основы имени <ref type="etymon" target="vrp">*върпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

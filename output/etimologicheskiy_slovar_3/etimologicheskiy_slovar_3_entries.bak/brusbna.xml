@@ -1,0 +1,45 @@
+<Entry xml:id="brusbna">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusbna</orth>
+    <lemma>brusbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брусн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>б ж. р. выдумка, сплетня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев. Б Д II, 1 3 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brusna</ref>, прилаг.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>brsna</ref>, напр.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Brsna lesa (Badjura 1 5 9 ) , чеш. диал. brusna ж. р. 'сплетница' (Hruska Slov. chod. 1 5 ) , русск. диал. бруска, брусня м. и ж. р. 'враль, вралиха' (новг., перм., Д а л ь 3 I, 3 2 1 ) .</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьпа</ref>
+      </m> 
+от 
+гл. <ref type="etymon" target="brusiti-6">*brusiti</ref> 
+(см.), 
+собственно-
+субстантивированное прилаг. <ref type="etymon" target="brusbnb">*brusbnb</ref>, 
+-па (см. <ref type="etymon" target="brusbnb-2">*brusbnb</ref>, 
+ниже).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание семантич. развитие болг., чеш. и русск. слов.</note>
+</Entry>

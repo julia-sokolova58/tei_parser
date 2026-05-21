@@ -1,0 +1,23 @@
+<Entry xml:id="bezajb">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezajb</orth>
+    <lemma>bezajb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezaj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(а)]ъ от гл.<ref type="etymon" target="bezati">*bezati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

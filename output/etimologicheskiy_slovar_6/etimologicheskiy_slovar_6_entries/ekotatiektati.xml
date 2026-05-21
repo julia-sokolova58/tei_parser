@@ -1,0 +1,112 @@
+<Entry xml:id="ekotatiektati">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ękotati/*ękъtati</orth>
+    <lemma>ękotati/*ękъtati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>§ki&gt;tati</orth>
+    <lemma>§ki&gt;tati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ехтЛ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, греметь % стонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Дювернуа: ехт&amp;)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёктати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, отдаваться, также jehtati , jeketati , jektjeti , jehtjeti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA IV, 569)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 572)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 573)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 569)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>jeke</ref>­ tati, jektdti</orth>
+      </form>
+      <sense>
+        <def>трепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XV, 117, ср. также Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jektati</ref>, редк. jekotati</orth>
+      </form>
+      <sense>
+        <def>заикаться, лепетать, дрожать, трястись</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jakotad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заикаться, бормотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>якатйць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пронзительно вопить, стенать . — Ср. сюда же, с иной глагольной темой —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>якот1ти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гал­ деть, кричать (о детях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лубен. у., Гринченко IV, 539)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. с суфф.<m type="suffix">
+        <ref>-otati</ref>
+      </m> I-btati, 
+соотносительный с <ref type="etymon" target="ekati-3">*ekati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, имя *ekotb (см. след.).</note>
+</Entry>

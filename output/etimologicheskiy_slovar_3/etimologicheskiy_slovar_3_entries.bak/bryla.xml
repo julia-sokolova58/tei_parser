@@ -1,0 +1,78 @@
+<Entry xml:id="bryla">
+  <pb n="64" end_page="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryla</orth>
+    <lemma>bryla</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bryla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком глины, груда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kellner. Vycho- dolas. II, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bryla</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дерновый железняк в кусках; руда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bryla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 684)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брила</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба, большой кусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>брила</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большие камни . — Н е я с н о , сюда ли от­ носится</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(закарп., львов., Т. А. Марусенко. Мате- риалы к словарю украинских географических апеллятивов (на­ звания рельефов). —«Полесье» 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брылъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пригорок; кочка (пек.), буго­ рок на дереве, на том месте, где был сук (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 218)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Это слово, которое Бернекер признает темным (см. Berneker 1, 93), а Брюкнер оставляет без объяснения (см. Bruckner 43), получило в общем приемлемую, хотя и несколько абстрактную этимологию, не подтвержденную и.-е. параллелями — из и.-е. *bhru-la, где *bhru-y в конечном счете, — расширение и.-е. *bker- 'раскалывать', ср. лат. ferio, ferire. См. A. emieszek MPKJ IV, 1900, 391—393; SJawski 1, 45. Фасмер (J, 222) относит сюда без достаточных оснований русск. диал. брыла 'губа', поскольку последнее — из *об-рыла.</note>
+</Entry>

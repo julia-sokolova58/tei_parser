@@ -1,0 +1,103 @@
+<Entry xml:id="bezkridlbjb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkridlb(jb)</orth>
+    <lemma>bezkridlb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безкрйл</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров.: бескрылый; РБЕ I, 44: книж.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>beskril</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>alis carens, бескрылый , бёскрилй, -а, -б бескры­ лый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 490)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezkrll</ref>, -На, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P]et. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezkfidly</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bez</ref>- kridly, прилаг., то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бескрылый</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безкрйлий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий крыльев, бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяскрылы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. ещё Miklosich. Vgl. Gr.</note>
+  <gramGrp>
+    <gram>II, 403-404. - Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-49">*bez</ref> (см.; 
+там же — о словообразовании таких прилаг-ных) и именной 
+основы <ref type="etymon" target="kridH">*kridH</ref> (см. <ref type="etymon" target="kridlo">*kridlo)</ref>.</gram>
+  </gramGrp>
+</Entry>

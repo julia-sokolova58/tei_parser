@@ -1,0 +1,26 @@
+<Entry xml:id="dativbjb">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dativbjb</orth>
+    <lemma>dativbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дативыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>способствующий, служащий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог. 318; Срезневский I, 634—635)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суфф. -t-iv-, соотносительное с гл.<ref type="etymon" target="dati">*dati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. лат. dativus. См. О. Н. Трубачев «Этимология. 1973» (М., 1975), 16. О русск. -цслав. слове см. еще Варбот. Др.-русск. именное сло­ вообразование 206.</note>
+</Entry>

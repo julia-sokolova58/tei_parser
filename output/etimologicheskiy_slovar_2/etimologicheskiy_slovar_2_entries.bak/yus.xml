@@ -1,0 +1,84 @@
+<Entry xml:id="yus">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ыуьсь</orth>
+    <lemma>Ыуьсь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ыуьса</orth>
+    <lemma>Ыуьса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blvec</ref>, род. пад. -vca, м. р.</orth>
+      </form>
+      <sense>
+        <def>буян</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bivec</ref> тот же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bivce</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто бьет, убивает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 58; Bible Olomoucka. — Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bivce</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто бьет, бьющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бивъцъ</ref> TCXYJXTT^, rixator</orth>
+      </form>
+      <sense>
+        <def>бьющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бивёц</ref>, род. п. -вца, м. р.</orth>
+      </form>
+      <sense>
+        <def>игрок, бьющий по мячу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 2, 289)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. -ье- от основы гл.<ref type="etymon" target="biti">*biti</ref> (см.), 
+выступающее в двух морфол. вариантах — основе на -о- (<ref type="etymon" target="yis">*Ыиъсъ)</ref> 
+и основе на -a (<ref type="etymon" target="bivbca">*bivbca)</ref>.</gram>
+  </gramGrp>
+  <note>Согласный -V-, не принадлежащий ни к корню, ни к суфф., играет роль некоего интерфикса или — что, пожалуй, точнее — фонетического элемента, ликвидирующего зияние. См. Ж. Ж. Варбот. Древнерусское именное словообразо­ вание. М., 1969, 82, 101, 116, 118, 119, 203. В принципе та же характеристика приложима к *Ы]ъса I<xr type="compare">см. <ref type="etymon" target="ys">*Ы]'ъсъ</ref>
+    </xr>, с встав­
+ным</note>
+</Entry>

@@ -1,0 +1,51 @@
+<Entry xml:id="berzistbjb">
+  <pb n="208" end_page="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzistbjb</orth>
+    <lemma>berzistbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бережистыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крутоберегий, ripis abruptis munitus , р у с с к</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ипат. летоп. под 1180 г., Срезневский I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бережйстый</ref>, берёжистый f c высокими крутыми берегами</orth>
+      </form>
+      <sense>
+        <def>(орл., курск., новг., твер., вят., иск., урал.), пролегающий в углублении, как бы между двумя берегами (влад.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 248; Даль 3 I, 201: берёжистая речка 'высокоберегая, крутобере- гая')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бережйстий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с высокими берегами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ist- от<ref type="etymon" target="e-2">*Ъе</ref>^ъ 
+(см.).</gram>
+  </gramGrp>
+  <note>Ьеггьсь: сербохорв. стар, brijezac, род. п. brijesca м. р., ум. от brijeg 'холм; берег' (с X V I в., а также в словарях Вольтиджи. Стулли, см. RJA I, 649), словен. brezec, род. п. -zca м. р., ум. от breg (Plet. I, 60), др.-русск. бережъцъ 'бережок, название местности по стар, пути из Суздаля в Нижний Новгород' (Срез­ невский I, 69). Ум. производное с суфф. -ъсъ от<xr type="compare">см. <ref type="etymon" target="e">*Ье?^ъ</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,277 @@
+<Entry xml:id="bornitisc">
+  <pb n="207" end_page="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borniti (sč)</orth>
+    <lemma>borniti (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>врлыити</ref> XODXOSIV, -rpoavaaieXXeiv, prohibere, vetare, comprimere</orth>
+      </form>
+      <sense>
+        <def>возбранять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>браня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, пре­ дохранять,задерживать,запрещать, , браня боронить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ, I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>браним</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запрещать, охранять, стеречь, боронить вспаханное поле , браним сте­ речь (с. Стърница, Смолянско, дип. раб. Архив Софийск. ун-та), браним защищать, стеречь , брана се осте­ регаться, беречься , бран*им*стеречь, охранять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брани</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, оборонять, препятствовать; предохранять , боронить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бранити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, defendo, препятствовать, impedire, бранити защищать, оборонять, предохранять, препятствовать, запрещать, бранити се за­ щищаться, противиться , бранити боронить (пашню)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бранит</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(ку] ради, бог не брани, Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать (brdniti se защищаться), препят­ ствовать, запрещать, боронить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brdniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защи­ щать, препятствовать, задерживать, запрещать, brdniti se защищаться, сопротивляться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brdnif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, оборо­ нять, мешать, препятствовать, запрещать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bronic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вооружать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bronis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вооружать, защи­ щать, охранять, bronie se (Якубица) вооружаться, защищаться, Ьогпь охраняться; воевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bronic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, оборонять, препятствовать, преграждать, запрещать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 664)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bruenic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>препятствовать, удерживать, творить, чинить (зло)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>боронити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мешать, препятствовать, возбранять, impedire , защищать, tueri, defendere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 912 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1348 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">русск. стар. , обл. <ref>боронить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защищать, оборонять, боронить бороновать, производить обработку вспаханной земли, разрыхляя ее бороной</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>боронить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>руками браться, ме­ шать, ворошить руками , боронить защищать, оберегать , приводить в беспорядок (обычно половики) (свердл.), волочить ноги (новг.) , боронить оборонять, защищать, оберегать (курск., орл., тул., калуж., нижегор., пек., Лит. ССР), не растрачивать зря, сохранять, сберегать (барнаул.) , борониться защищаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Доп. к Опыту 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. Балов. Народный говор в Пошехонском уезде Ярославской губернии. — ЖСт. III, 1893, 510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>боро</ref>­ нити</orth>
+      </form>
+      <sense>
+        <def>защищать, оборонять , хранить, спасать (о боге), запрещать, препятствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. ЗР I, 7 — 1347 г. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ак. ЗР I, 25 — 1388 г. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боронити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оборонять, защищать; хранить, запрещать , боронити бороновать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баранщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оборонять, за­ щищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="borniti-6">*borniti</ref> 
+объясняется как производный гл. па -iti 
+от имени с -i-основой <ref type="etymon" target="ot">*Ьотъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Machek 41. О семантике см. еще на *borna выше.</note>
+</Entry>

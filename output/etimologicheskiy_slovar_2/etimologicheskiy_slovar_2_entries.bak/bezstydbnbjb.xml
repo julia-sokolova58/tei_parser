@@ -1,0 +1,57 @@
+<Entry xml:id="bezstydbnbjb">
+  <pb n="46" end_page="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezstydbnb(jb)</orth>
+    <lemma>bezstydbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бестйдан</ref>, бестйдан, -дна, -дно</orth>
+      </form>
+      <sense>
+        <def>бесстыд­ ный, постыдный, нахальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 252; РСА I, 514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezstydny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бесстыдный</ref>*о человеке; bezsbpnbnb(jb) нестыдливый, не знающий стыда, бессовестный, наглый; о по­ ступке: постыдный, позорный, бессовестный, бесчестный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безстйдний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесстыдный, бесстыжий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-101">*bez</ref> 
+(см.) и суфф. -ъп- от основы имени <ref type="etymon" target="styd">*stydъ</ref> (см.), по-видимому, 
+на базе генитивного словосочетания <ref type="etymon" target="bez-102">*bez</ref> sty da.</gram>
+  </gramGrp>
+</Entry>

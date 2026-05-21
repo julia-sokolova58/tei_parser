@@ -1,0 +1,107 @@
+<Entry xml:id="Ccstiti">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Cčstiti</orth>
+    <lemma>Cčstiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>честя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>частить, часто ходить, часто сбываться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 616)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёстём</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чести</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>учащать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>честа</ref>, -иш , сербо­ хорв. cestiti</orth>
+      </form>
+      <sense>
+        <def>frequentare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(петлине нешто честат, али ке врнет — пеат начесто. Б. Видоески. Поречкиот говор 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 955)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>castiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бывать, гостить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 1168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>частити</ref>, чАстити</orth>
+      </form>
+      <sense>
+        <def>часто что-нибудь делать (Поуч. Кирил. фил.; Сл. Дан. Зат. Унд.), часто чему-либо предаваться (Муч. Хион. апр.), часто ходить куда-нибудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский III, 1475—1476)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>частить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>учащать, делать что- либо весьма часто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>частйти</ref> = учащати .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 446)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="c-9">*c</ref>?sfo (см.).</gram>
+  </gramGrp>
+</Entry>

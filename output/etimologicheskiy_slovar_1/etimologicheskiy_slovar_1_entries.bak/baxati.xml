@@ -1,0 +1,87 @@
+<Entry xml:id="baxati">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxati</orth>
+    <lemma>baxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>hahatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I в., R J A I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хвастать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. (<ref>мор</ref>.) bdchati</orth>
+      </form>
+      <sense>
+        <def>б и т ь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdchaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять, бить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бахать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, колотить, стучать, хлопать, стрелять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бахати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стрелять; толкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Значения глаголов свидетельствуют о семантическом разви­ тии 'хвастать' &lt;С 'стучать, ударять', следовательно, неправы лингвисты, кот. производят все эти случаи из общего<ref type="etymon" target="a--6">*Ьа-</ref> ' г о в о ­
+рить' (Miklosich 5; R . Perusek AfslPh X X X I V , 1912, 20; Berne­
+ker I, 3 8 - 3 9 ; A . Bruckner K Z LI, 1923, 240).</gram>
+  </gramGrp>
+  <note>В основе наших глаголов лежит особый ономатопоэтический звукокомплекс Ьах-, передающий удар, стук. Ср. нем. prahlen 'хвастать': prallen 'ударяться'; русск. хвастать, первонач. — ' х л е с т а т ь ' . С *Ьа- хагь, *baxura,<xr type="compare">см. <ref type="etymon" target="baxoriti">*baxoriti</ref>
+    </xr> не связано.</note>
+</Entry>

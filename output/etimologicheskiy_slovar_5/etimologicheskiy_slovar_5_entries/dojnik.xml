@@ -1,0 +1,69 @@
+<Entry xml:id="dojnik">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьnikъ</orth>
+    <lemma>dojьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>doJHun</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 466)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dojnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>коровник (для дойных коров)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dojnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дойник</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Деу­ линский словарь 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дшнйк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отара дойных овец, &lt;доение отары овец, летняя овчарня , дшнйк, дуйнйк подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буко- винских говоров 420)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзен- дзел1вський. Укр.-зап.-слов, лексичш паралел]. Кшв. 1969, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ikb</ref>
+      </m> от прилаг. <ref type="etymon" target="dojbnb-2">*dojbnb</ref> 
+(см.); субстан­
+тивация.</gram>
+  </gramGrp>
+</Entry>

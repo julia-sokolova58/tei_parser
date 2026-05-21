@@ -1,0 +1,37 @@
+<Entry xml:id="bezapbirbjb">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezapbirbjb</orth>
+    <lemma>bezapbirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безапъныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неожиданный , ср. еще безашънъш то же . Ср., далее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон. Панд., гл. 32, Срезневский I, 49)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр., Срезневский, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>беззапно</ref>, нареч., арх. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Филин 2, 191; знач. не указано)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez">*bez</ref> (см.) и 
+<ref type="etymon" target="arp">*аръпъ]ъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Формы безшпъныи, беззапно (буквально — * bez-za-арыг-) кажутся вторичным слово­ образовательным усложнением той же исходной праформы. Архаический корень *ар- вообще нередко встречается в свя­ занном виде, в составе разнообразных вторичных сложений.</note>
+</Entry>

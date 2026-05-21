@@ -1,0 +1,75 @@
+<Entry xml:id="druzicadruzika">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družica/*družika</orth>
+    <lemma>družica/*družika</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>druzika</orth>
+    <lemma>druzika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дружица</ref> (Горна Оряховица, Геор­ гиев)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дружица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, товарка, дружка не­ весты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 756)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>družica/*družika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, спутница, супруга, дружка невесты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druzice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, товарка, супруга, дружка невесты , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>druzice</ref> , елвц. druzica ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрХжика</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БлазЪ да тя еемь нал'Ьзлъ, дрХжико моя. Жит. Андр. Юр. XXXIII. 131, Срезневский I, 729)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-icaj-ika</ref>
+      </m> от <ref type="etymon" target="drugb-3">*drugb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

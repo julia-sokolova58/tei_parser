@@ -1,0 +1,41 @@
+<Entry xml:id="bajanb">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajanb</orth>
+    <lemma>bajanb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>баян</ref> нескл. ирилаг. (только в песне: Видо ле, баян българко. Георгиев)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>баинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обаятель, incantator</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баян</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>певец, т о же, что баюн, говорун, рассказчик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -{а)пъ от основы гл.<ref type="etymon" target="bajati-6">*bajati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Геор­ гиев Б Е Р I, 38; Sadnik-Aitzetmuller. V g l . W b . 2, 115. Названные авторы не соотносят др.-русск. имя деятеля и болг. диал. слово (несклоняемое прилагательное), в то же время между ними наблю­ дается формальное тождество, а функция и прочие особенности болг. слова могли появиться вторично.</note>
+</Entry>

@@ -1,0 +1,50 @@
+<Entry xml:id="blazneti">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blazneti</orth>
+    <lemma>blazneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blazneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сходить с ума, безумствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blaznief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть не в своем уме, быть душевнобольным, blaznief{sa) вести себя безрассудно, сходить с ума (по ком- либо или по чем-либо)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блазнётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чу­ диться, мерещиться, представляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 2, 313)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на ёи, производный от основы имени<ref type="etymon" target="shp">*ЬШпъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

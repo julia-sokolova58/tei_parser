@@ -1,0 +1,196 @@
+<Entry xml:id="estiedm">
+  <pb n="53" end_page="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsti, *ĕdmь</orth>
+    <lemma>ĕsti, *ĕdmь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edmb</orth>
+    <lemma>edmb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>нпи</ref>, MWA eo&amp;ieiv, edere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Cynp., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ям</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, питаться , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йам</ref> , йадём , едем .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Мла- денов БД III, 81; Т. Бояджиев. Гюмюрджинско. — БД VI, 40; П. И. Петков. Еленски речник.—БД VII, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Стои­ ков, К. Костов и др. Говорът на с. Говедарци, Самоковско. — «Известия на Инст. за бълг. език» IV, 1956, 307)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Мла- денов. Говорът на Ново село, Видинско 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jade</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, питаться, кусать (о насекомых)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jecmu</ref>, jedeM</orth>
+      </form>
+      <sense>
+        <def>есть, также jiicmu</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jĕsti, *ĕdmь</ref>, jem</orth>
+      </form>
+      <sense>
+        <def>есть, разъедать (о ржав­ чине), кусать, злить, сердить, jesti se ссориться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367—368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jisti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, питаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jesf</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 650—651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jesc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jes6</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jest</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>je</ref>&amp;6</orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jiesc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть (Остр. ев. и др.), пировать (Сл. Дан. Зат.), пожрать, погубить (Гр. Наз. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1667)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>есть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>принимать пищу, питаться, насыщаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>icmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть , гстися ссо­ риться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 199)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ёсщ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *Ытъ, *esti продолжает и.-е. ср. родственные др.-инд. ddmi, 1 л. ед. ч. атематич. наст., греч. гомер. e&amp;nevai (инф.) 'есть', лат. edd, es, est 'ем, ешь, ест', лит. edu, esti 'есть пожирать, жрать', др.-прусск. 1st, istwei 'есть', хетт, e-it-mi 1 л. ед. ч. наст., гот. itan 'есть'. См. Berneker I, 273; Trautmann BSW 66; Pokorny I, 287—288; Fraenkel I, 124; Mayrhofer I, 28; Фасмер I, 18; Chantraine. Diction- naire etymologlque de la langue grecque 1—2, 312—313; Vaillant, Gramm. comparee III, 452 (возводит балто-слав. презенс к и.-е. перфекту, ср. лат. edl, греч. гомер. е§-7]8ах;); J. Safarewicz «Studia linguistica in honorem Th. Lehr-Sptawinski» 134.</note>
+</Entry>

@@ -1,0 +1,28 @@
+<Entry xml:id="bezgluzdica">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgluzdica</orth>
+    <lemma>bezgluzdica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязглуздзща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бессмыслица; нелепость, не­ суразица; чепуха, галиматья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (субстантивация) от основы прилаг. 
+<ref type="etymon" target="bezgluzd">*bezgluzd</ref>^b 
+(см.).</gram>
+  </gramGrp>
+  <note>Возраст данного конкретного образования проблематичен.</note>
+</Entry>

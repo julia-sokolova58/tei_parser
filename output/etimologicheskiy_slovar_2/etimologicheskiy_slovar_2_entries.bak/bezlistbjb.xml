@@ -1,0 +1,79 @@
+<Entry xml:id="bezlistbjb">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezlistb(jb)</orth>
+    <lemma>bezlistb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безлист</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безлистный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezlisty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлистный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezlisty</ref>, прилаг., то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безлистый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имеющий или лишенный листьев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безлйстий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий листьев, безлистный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 41; Укр.-рос. словн. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязлгеты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>без­ лиственный, безлистный, безлистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-53">*bez</ref> (см.; там же — об 
+этом архаич. словообразовательном типе) и именной 
+основы 
+<ref type="etymon" target="lisfo">*lisfo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

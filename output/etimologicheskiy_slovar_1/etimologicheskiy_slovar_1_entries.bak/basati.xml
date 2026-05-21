@@ -1,0 +1,64 @@
+<Entry xml:id="basati">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>basati</orth>
+    <lemma>basati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>баса</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, шлепать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>басати</ref> "бить, ударять</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PGA 1, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>басат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно ударить, страдать, мучиться (Елез. I), басати, басати идти не глядя , есть . — Неясно, относится ли сюда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА 1, 318)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>напихивать, набивать , возм., из нем. fassen или близких более старых форм, см. Sadnik—Aitzetmuller. V g l</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>W b . 2, 82; ср. еще русск. диал. басать, сбасатъ ' у к р а с т ь ' , тоже объясняемое как заимствование из того же нем. fassen 'хватать и т. п.' (Фасмер I, 130). Неясно, далее, и отношение к *basati болг. диал. баскам 'резать (крупными кусками), рубить' (Геров; Горов Б Д I, 66; Стойчев Б Д II, 127), ср. еще басна то же (Геров).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл.<ref type="etymon" target="basati">*basati</ref> в знач. 'бить, ударять' продолжает форму <ref type="etymon" target="bat-s-ati">*bat-s-ati</ref>, 
+расширение на -s- основы bat-, выступающей во многих образова­
+ниях с близкими значениями.</gram>
+  </gramGrp>
+  <note>Форма с расширением -s- носит экспрессивный характер. См. Sadnik—Aitzetmuller. V g l . W b . 2, 81—82. Особо следует оговорить форму русск. диал. басить 'занимать кого-либо разговорами, россказнями' (Филин 2, 128), где можно констатировать лишь -s-овое расширение варианта основы, представленной (с иным расширением) в *bajati ' г о в о ­ рить' (см.), т. е. в данном случае — *ba-s-ati (см. след.).</note>
+</Entry>

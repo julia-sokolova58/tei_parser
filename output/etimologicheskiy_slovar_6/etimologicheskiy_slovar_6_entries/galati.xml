@@ -1,0 +1,170 @@
+<Entry xml:id="galati">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galati</orth>
+    <lemma>galati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>halati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>halac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лас­ кать , далее ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>halabala</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>кое-как, наспех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>halatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спать , производное halabusif дурить , halacitf, haldkaV распевать во всё горло, кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(детск., Kalal 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шутить, смеяться (перм.), смешить (волог.) , ср. производное залах шутник , далее — галан м. р. прозвище драчливого чело­ века (орл.), льстец или обманщик (каз.) , гала­ нить гулять (нижег.), разговаривать, из пустого в порожнее переливать (новг.) , галббиться торопиться, спеша, суетиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 31; ср. еще Куликовский 14; Филин 6, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., Даль, Филин 6, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>галакати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать . — Только производные формы представлены в ю.-слав.:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>галйтя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>портить, развращать, баловать, обманывать, соблазнять, шуметь, браниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; ср. также Речник РОДД 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>галатим</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сквернословить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>галати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пачкать, грязнить, портить, ухудшать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>галатам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сквернословить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Брдарски. Зборови од Свети- николско. — MJ IV, 1953, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>галатат</ref> то же (Елез. I), ср.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>halatac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Хотя детали неясны или, по крайней мере, представляют за­ труднения (экспрессивное развитие форм и знач-й), представилось возможным говорить о стержневой праформе *galati с исходным знач. вроде 'кричать'. Родственно, по-видимому,<xr type="compare">см. <ref type="etymon" target="golsb">*golsb</ref>
+    </xr>, 
+, 
+, 
+, 
+<xr type="compare">см. <ref type="etymon" target="galasb">*galasb</ref>
+    </xr>. В основе своей — звукоподражание.. В основе своей — звукоподражание.. В основе своей — звукоподражание.. В основе своей — звукоподражание.</note>
+</Entry>

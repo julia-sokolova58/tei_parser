@@ -1,0 +1,102 @@
+<Entry xml:id="a1ka">
+  <pb n="148" end_page="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьа1ъка</orth>
+    <lemma>Ьа1ъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>balka</ref>, bala ж. р.</orth>
+      </form>
+      <sense>
+        <def>ковыль Stipa pennata L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Истрия, R J A I, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>balka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>маленькое озеро в долине; сухой овраг в степи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 90—91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балка</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>впадина на дне реки , камыш , долина, ложбина, длинный и широкий овраг в степи, овраг в лесу, низменная местность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь I, 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>балка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>овраг в степи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1688 г., Тимченко I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>балка</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бавка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>л у ж а . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. Матер1али до словника д1алектизм1в у к р . г о - BopiB Буковини. 1959, 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>балок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мокрое место между взгорьями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. А . Марусенко. Материалы к словарю украинских географических апеллятивов (названия рельефов). — «Полесье». М., 1968, 215)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от слабо 
+засвидетельствованного 
+<ref type="etymon" target="bala">*bala</ref> &lt; и.-е. <ref type="etymon" target="bhd-l-">*bhd-l-</ref> 'светлый, яркий, белый', откуда затем раз­
+вились названия болота, лужи (ср. лит. bald) и названия отдель­
+ных растений, с р . прежде всего ковыль с его светлой метелкой 
+(см. еще <ref type="etymon" target="balovina">*balovina)</ref>.</gram>
+  </gramGrp>
+  <note>Д о сих пор ю.-слав. слова обычно не привле­ кались для сравнения с русск., у к р . балка, но рассматривались изолированно, что способствовало признанию сербохорв. bala, balka словом иноязычного происхождения (Skok. Etim. rjecn. I, 98). В свете вероятного родства сербохорв. balka ' к о в ы л ь ' с русск. балка 'овраг', 'впадина,' а также 'камыш', у к р . балка 'овраг', бавка ' л у ж а ' представляется устаревшим мнение об отсутствии соответствий русск., у к р . и польск. словам в других слав, языках (Фасмер I, 116; см. еще Sadnik—Aitzetmuller. V g l . W b . 2, 127, где тоже отсутствует указание на сербохорв. слово; но с р . Sadnik—Aitzetmuller. V g l . W b . 3, 158, где о bala, balka говорится как о словен. слове). Сближение русск. балка с оронимом Балкан (А. Соболевский Р Ф В L X X I , 1914, 4 3 9 - 440) проблематично.</note>
+</Entry>

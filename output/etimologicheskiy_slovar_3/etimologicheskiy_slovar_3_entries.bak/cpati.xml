@@ -1,0 +1,85 @@
+<entries>
+  <entry xml:id="cpati" xml:id="cpati">
+    <pb n="198" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cьpati</orth>
+      <lemma>сьраМ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>cpdti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>тыкать, совать; наваливать; бросать (Ст.-чеш., Прага)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>cpdti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>набивать, напихивать, совать, давать с из­ бытком</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>cpdti</ref> voc</orth>
+        </form>
+        <sense>
+          <def>корить, попрекать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kubfn. Cech. klad. 168)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>срас</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>набивать брюхо едой, наедаться .— Ср. еще</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 416)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>epic</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>напихивать, наваливать, только в сложениях zacpic оттолкнуть, пренебречь, docpic до­ стать, достигнуть . Далее, ср., с изменением соглас­ ного р^&gt;Ь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 63)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv" type="dialect">словен. диал. <ref>cebdti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пинать ногой, лягать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Slovar sloven, jezika I, 233)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Этимологизируется как перестройка первоначального 
+ср. 
+лат. 
+stipare 
+'набивать, 
+сдавливать, 
+наваливать'. 
+См. Machek
+89.</note>
+  </entry>
+</entries>

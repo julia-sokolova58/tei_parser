@@ -1,0 +1,73 @@
+<Entry xml:id="bratbcina">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratbcina</orth>
+    <lemma>bratbcina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bratstina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>fraternitas, братство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 609)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>братъчина</ref>, братъщина, братшина</orth>
+      </form>
+      <sense>
+        <def>праздничный пир складчиной, confratria, confraternitas, celebratio festi, te, nenda confratria -</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1159 г. и др., Срезневский I, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>братчина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складчина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Иваницкий. Сольвыче- годский крестьянин, его обстановка, жизнь и деятельность. — ЖСт. V I I I , 1898, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>братчина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братство, особенно церковное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский, Яворницкий)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>братчина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>об­ щество, составленное под именем братства, члены которого по очереди ежегодно отправляют молебствие в своем доме с угоще­ нием, пиршество по случаю молебствия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="bratbCb">*bratbCb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

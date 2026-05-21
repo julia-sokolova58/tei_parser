@@ -1,0 +1,29 @@
+<Entry xml:id="golgoleti">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golgolĕti</orth>
+    <lemma>golgolĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>галагалёць</ref> (гылыгалёцъ)</orth>
+      </form>
+      <sense>
+        <def>шуметь, кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 61)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="golgolb">*golgolb</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="golgoliti">*golgoliti</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

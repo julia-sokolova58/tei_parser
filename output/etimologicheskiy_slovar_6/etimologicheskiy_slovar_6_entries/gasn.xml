@@ -1,0 +1,19 @@
+<Entry xml:id="gasn">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gasnь</orth>
+    <lemma>gasnь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гаснъ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Елико при гаснехъ родъ ис- полиньскии. Гр. Наз. XIV в., Срезневский I, 510, с пометой: от гадати)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Из<xr type="compare">Ср. <ref type="etymon" target="gadati">*gadati</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

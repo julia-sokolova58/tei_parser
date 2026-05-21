@@ -1,0 +1,162 @@
+<Entry xml:id="borovina">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borovina</orth>
+    <lemma>borovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боровика</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосна (древесина, ветки)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боровика</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосна, сосновая древесина, lignum pini silvestris, а также сосновые ветки, бор, сосновый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>borovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосна (древесина)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>borovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосновый бор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1379 г., Gebauer I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>borovina</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>borovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосновый бор, сосновые ветки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>borowina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>место, где был сосновый бор, торф, брусника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 192; ср. еще Dorosz. I, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>боровика</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>возвышенное покрытое лесом место — остров среди болота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боровика</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бор, сосновый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>баравта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вереск с другими травами в хвойном лесу; служит пастбищем . — Сюда же тесно примыкают ум. производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шатэршк 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боровйкка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника Vaccinium myrtil- lus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боровйкка</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бд</ref>- ровйнка ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника, малина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>боровйкка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>можжевельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GP 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> (собир.) от прилаг. <ref type="etymon" target="borovb-2">*borovb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

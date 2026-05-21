@@ -1,0 +1,253 @@
+<Entry xml:id="blbvati">
+  <pb n="140" end_page="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'bvati</orth>
+    <lemma>bl'bvati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brujq</orth>
+    <lemma>brujq</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БЛАБДТИ</ref>, БЛШЧ vomere</orth>
+      </form>
+      <sense>
+        <def>рвать &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бълвам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать (извергать пищу), извергать в изобилии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. , стар, <ref>блюя</ref> то же , блюзам то же , бл</orth>
+      </form>
+      <sense>
+        <def>увам блевать, рвать , бълвам то же (С. Свирково, Хасковско, дип. раб. Архив Софийск. ун-та), бълвъм то же , бълём то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров; Георгиев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Николово, Русенско, дип. раб., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>болва</ref>, блуе</orth>
+      </form>
+      <sense>
+        <def>рвать, блевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>болвам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Петрушевски. Неколку црти на говорот од Жировница. — MJ И, 1951, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бл</ref>&gt;у- вати, бл&gt;у]ём</orth>
+      </form>
+      <sense>
+        <def>vomo, рвать, блевать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bljevdti</ref>, bljuvdti, bljuti</orth>
+      </form>
+      <sense>
+        <def>рвать, блевать, плевать , ]ст.-чеш. blvati, bVuju блевать, плевать , blivati (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ЫШ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, блевать, blvati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>blut</ref>, 1 л. ед. ч. bluju то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bVuvaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, тошнить, блевать , bliaf</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>вост.-слвц</ref>. bVavac , bVuvaf , bVuc, bVuju</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 29-30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ыес</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блевать, плевать, рвать , bluwac то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bluwas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плевать, рвать , стар, bias то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bVava</ref> 3 л. ед. ч. наст, вр.</orth>
+      </form>
+      <sense>
+        <def>блюет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 39, с реконструкцией *blwaje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blwacy</ref> blue.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>блъвати</ref>, блюю vomere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блевать</ref>, блюю (в вульгарн. простор.)</orth>
+      </form>
+      <sense>
+        <def>рвать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блевати</ref>*клевать, рвать</orth>
+      </form>
+      <sense>
+        <def>, блювати</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Барск. I, 176, Тимченко I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Млр. дом. леч. 47, Тимченко I, 104—105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блювати</ref>, блюю</orth>
+      </form>
+      <sense>
+        <def>блевать, рвать . — Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уматы плакать, лить слезы, реветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дроги- чинского Полесья. — «Лексика Полесья» 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *bVujg, *bVwati представляет собой парное образова­ ние к *pl'ujg, *pl'wati (см.; о древней парности по звонкости/ глухости начала слова — и.-е. b(h)-:(s)p- в ст.-слав. БЛШЧ, ВЛАБДТИ: лит. spiduju, spiduti, лтш. spfauju, sp(aut 'плевать', ст.-слав. плшч, ПЛАВДТИ — см. J. Otrqbski. Studja indoeuropeistyczne 167). Вполне логично поэтому рассматривать V в слав. *bPujg как эпентетический согласный, развившийся уже на слав, почве из йотированного губного, откуда наиболее вероятна реконструк­ ция bjou- (первоначально звукоподражательный комплекс, парал­ лельный к *(s)pjou-, см. выше). Ближайшие балт. соответствия праслав. *bVujq &lt; *bjou- могут быть указаны в лит. biauroti 'гадить', biaurus 'гадкий', см. об этом подробнее под *bl 9urati (выше). Поэтому балто-слав. праформа для праслав. *bVujg (если здесь вообще нужно говорить об общей балто-слав. форме) имела бы, по нашему мнению, скорее вид *beuio, а не *Ыешду как у Траутмана (см. Trautmann BSW 35). После вышеизложенного нет достаточных оснований сохранять принимаемые обычно в литературе сближения слав, слова с лит. bliduju, bliduti 'мычать, блеять', греч, cpXoeiv 'бить ключом, вы­ текать', лат. fluo 'течь' (A. Fick ВВ П, 1878, 187; V. J. Petr ВВ XXI, 1896, 210; A. Meillet MSL 14, 1907, 357—358; Berneker I, 64; Trautmann, там же; Bruckner 30; Fraenkel I, 49—50; Фасмер I, 173; Machek 35; Георгиев БЕР II, 99; Sadnik—Aitzetmuller. Vgl. Wb. 3, 172—174). Эта лексика, не связанная, как нам кажется, со слав. *bVujg, *ЬГъиаИ, распадается на две независимые группы — ономатопоэтическая основа *Ы-еи- (варьирующая с *br-eu-, ср. отношения лит. bliaugzti, bliauzgoti 'болтать вздор': briaugzti, briauzgiu то же), с различными расширителями, и и.-е. *bhl- 'наполняться, наливаться' (греч. и лат. слова, упомянутые выше).</note>
+</Entry>

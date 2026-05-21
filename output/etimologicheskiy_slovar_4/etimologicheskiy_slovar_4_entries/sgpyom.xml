@@ -1,0 +1,157 @@
+<Entry xml:id="sgpyom">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгпёМ</orth>
+    <lemma>сьгпёМ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чернея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть, переносить страдания и тяготы , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>църнЧйе</ref> , ма­ кед. црнее</orth>
+      </form>
+      <sense>
+        <def>чернеть, црнее се чернеться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 155)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 848—849)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>eerneti</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>eernief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>eornjed</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>carries</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czerniec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть , также czarnied</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1094)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ёагпаис</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чернеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться черным или чернее, темнее, виднеться (о черных, темных предметах)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чоршти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарнёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернеть</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Гл. состояния на -eti, образованный от прилаг. ёьтъ (см.).</note>
+</Entry>

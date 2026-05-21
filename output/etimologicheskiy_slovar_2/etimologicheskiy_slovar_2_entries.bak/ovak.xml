@@ -1,0 +1,122 @@
+<Entry xml:id="ovak">
+  <pb n="221" end_page="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьовакъ</orth>
+    <lemma>Ьовакъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>босак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>животное с тонкими копытами, кот. не может ходить неподкованным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдс</ref>]</orth>
+      </form>
+      <sense>
+        <def>ак, род. п. -ana, м. р. неподкованный вол, вол со слабыми копытами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bosdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>босоногий (человек)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bosdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто ходит босой, особ, босоногий монах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 87; Ст.-чеш., Прага; Brandl 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bosdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>босоногий человек, босоногий монах, босяк, бродяга</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bosdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>босяк, бедняк, бродяга</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bo</ref>­ sdk м. р.</orth>
+      </form>
+      <sense>
+        <def>колесо без обода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bosak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>босой человек, босоногий монах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. •<ref>bosonogb</ref>(jb) босяк м. р.</orth>
+      </form>
+      <sense>
+        <def>кто ходит босиком, оборванец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бо</ref>­ сяк м. р.</orth>
+      </form>
+      <sense>
+        <def>босяк, оборванец , сюда же нареч. босака с босиком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 90)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от прилаг. <ref type="etymon" target="ov">*Ьовъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

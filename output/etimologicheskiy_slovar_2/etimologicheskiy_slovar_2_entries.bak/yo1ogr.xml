@@ -1,0 +1,37 @@
+<Entry xml:id="yo1ogr">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ог§ръ</orth>
+    <lemma>Ьё1ог§ръ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белореп</ref>, б]елореп, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белохвостый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belorep</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белохвостый . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>производное с вторичным суфф. сербохорв. bjelbrepast то же (RJA I, 386).</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="ger">*геръ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Тип ср. с<xr type="compare">см. <ref type="etymon" target="yoo1i">*Ьё^о1иъ</ref>
+    </xr>.</note>
+</Entry>

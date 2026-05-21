@@ -1,0 +1,26 @@
+<Entry xml:id="bercina">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bercina</orth>
+    <lemma>bercina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brecina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1058)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-та</ref>
+      </m> от осповгд <ref type="etymon" target="berk-">*berk-</ref> (см. <ref type="etymon" target="herka">*herka</ref>, <ref type="etymon" target="herJn">*herJn</ref>&gt;, 
+ниже),</gram>
+  </gramGrp>
+</Entry>

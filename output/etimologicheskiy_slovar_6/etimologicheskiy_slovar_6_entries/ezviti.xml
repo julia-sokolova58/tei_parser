@@ -1,0 +1,128 @@
+<Entry xml:id="ezviti">
+  <pb n="57" end_page="58" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕzviti</orth>
+    <lemma>ĕzviti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>газьити</ref> xpaop.a</orth>
+      </form>
+      <sense>
+        <def>uXeiv, vulnerare ранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. редк. <ref>язвЛ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>язвить, подтрунивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>j</ref>&amp;aeumu</orth>
+      </form>
+      <sense>
+        <def>ранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 525)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>jizviti</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">стар. <ref>jizviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наносить рубец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jdzvif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>воспалять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>швити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ранить , ударить (Гр. Наз. XI в.), изъязвить (Жит. Вас. Амас), убить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Втз. X X I . 1 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1644)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>язвить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ранить, говорить язвительно</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>Лзвить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поражать язвою</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сиб., том., Опыт 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>язьвщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>укорять, выговари­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="ezva">*ezva</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

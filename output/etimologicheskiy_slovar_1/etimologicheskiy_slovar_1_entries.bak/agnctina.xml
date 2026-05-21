@@ -1,0 +1,70 @@
+<Entry xml:id="agnctina">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agnčtina</orth>
+    <lemma>agnčtina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>janjetina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягнятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jehnecina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо или шкурка ягненка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jahnacina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jagne</ref>- slna ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягнятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Sj. I, 526)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ягнятина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мясо ягненка (см. например Картотеку Словаря русских народных го­ воров)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ягнятина</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко, IV, 535)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы <ref type="etymon" target="agn-11">*agn</ref>$t- (см. <ref type="etymon" target="agnp">*agnp)</ref>.</gram>
+  </gramGrp>
+  <note>Замечания требует чеш. форма: по-видимому, из *agn$tbcina или непосред­ ственно от чеш. jehneci (см. след.).</note>
+</Entry>

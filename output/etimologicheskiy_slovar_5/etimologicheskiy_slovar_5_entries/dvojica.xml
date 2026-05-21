@@ -1,0 +1,138 @@
+<Entry xml:id="dvojica">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojica</orth>
+    <lemma>d(ъ)vojica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъьсицегт</ref>?;, нареч. 8ts, bis</orth>
+      </form>
+      <sense>
+        <def>дважды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>двоица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двое , двоица двое (РВЕ; см. также Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(. . . щомъ ся отдалечи н-вколко стопки отъ дома си и двоица челов-Ьцы вооружени излизатъ камъ него. . . в. Цариградски вестник, г. VI. 1856)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двоица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двое , двоица то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско — БД VI, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>двоща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>двощца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двое, пара</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duojica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>duojice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>распря, раздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст.-чеш., Прага; Brandl 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvojice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>разрыв, разлад, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duojica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пара, двое, две</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двоица</ref>, двоицею</orth>
+      </form>
+      <sense>
+        <def>дважды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., Срезневский I, 641)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>двоща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>два раза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., тул., орл., Филин 7, 290)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="dio">*d(ъ)ио]ь</ref> 
+(см.), указывающее на 
+адъективный характер этого последнего (субстантивация).</gram>
+  </gramGrp>
+</Entry>

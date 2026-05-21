@@ -1,0 +1,80 @@
+<Entry xml:id="golan">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golanъ</orth>
+    <lemma>golanъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый, неодетый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>голан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бедняк, голь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 218, с неоправданной пометой: «рум.»; Речник РОДД 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>голан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 429)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голь, бедняк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holdn</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый человек или какое-либо другое живое существо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>неодетый, голый или полуодетый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской об­ ласти 110)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-апъ</ref>
+      </m> от прилаг. <ref type="etymon" target="golb-3">*golb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

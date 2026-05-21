@@ -1,0 +1,21 @@
+<Entry xml:id="avo">
+  <pb n="94" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>avo</orth>
+    <lemma>avo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>javo</ref> только в выражениях па javo, v javo, па jeve</orth>
+      </form>
+      <sense>
+        <def>явно, открыто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 605)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Наречн. образование. Этамологию основы см. подробно под *ave, *aviti.</note>
+</Entry>

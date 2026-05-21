@@ -1,0 +1,162 @@
+<Entry xml:id="goliti">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*goliti</orth>
+    <lemma>goliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голяк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обирать, голя обнажать, обворовывать , грабить, обдирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бернштейн)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голи</ref> fоголять</orth>
+      </form>
+      <sense>
+        <def>, (диал.) очищать (от листьев початки кукурузы и т. д.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголять, обнажать, ого­ ляться, обнажаться, также голити се</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 435)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголять, обдирать, goliti se терять волосы, линять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголять, брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 718; Kott I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>holit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стричь, брить , hoVWi чистить, снимать ко¬ журу, надувать, обманывать, hoVWisa бриться, линять (о ко­ рове) , н.-луж, goltt обнажать, стричь, брить, чистить, golie sa бриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gre- gor. Slowak. von Pilisszanto 224)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>goli6</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1219—1220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголять, делать голым, срезывая, счищая, (южн.) брить , голйтъ очищать дерево, снимая с него кору (тобол.), подрезать или подкашивать (траву) (южн.), брить (южн.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 919)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="gofe-3">*gofe</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

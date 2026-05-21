@@ -1,0 +1,25 @@
+<Entry xml:id="bezpqtb">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpqtb</orth>
+    <lemma>bezpqtb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёспут</ref> м.</orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 511)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-76">*bez</ref> (см.) и основы имени <ref type="etymon" target="pgtb-3">*pgtb</ref> (см.), первонач., 
+видимо, прилаг. архаич. типа.</gram>
+  </gramGrp>
+  <note>См. подробнее на *bezpyta.</note>
+</Entry>

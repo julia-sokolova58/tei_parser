@@ -1,0 +1,139 @@
+<Entry xml:id="gorbciti">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbciti</orth>
+    <lemma>gorbciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчит, отдает горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гбрчити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить, отдавать горечью , делать горьким , также grciti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 501)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 502)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA III, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>горчит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hofciti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 727, со ссылкой на Линде)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horcic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать горьким, придавать вкус горечи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>gorczyd</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 876)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горчить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>де­ лать горьким, отзываться горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 2ip4Umu</orth>
+      </form>
+      <sense>
+        <def>делать горьким, производить горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарчъщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить.—Ср. сюда же производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горчив</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>горький (РВЕ)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="gorbkb-8">*gorbkb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,46 @@
+<Entry xml:id="borvbjb">
+  <pb n="216" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borvbjb</orth>
+    <lemma>borvbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бравлй</ref>, -a, -e</orth>
+      </form>
+      <sense>
+        <def>овечий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA II, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bravi</ref> mleko</orth>
+      </form>
+      <sense>
+        <def>козье, овечье молоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>борбвий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относя­ щийся до борова, свиньи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 282)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф. -ь/ь от основы имени<ref type="etymon" target="ogi-2">*Ьогиъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

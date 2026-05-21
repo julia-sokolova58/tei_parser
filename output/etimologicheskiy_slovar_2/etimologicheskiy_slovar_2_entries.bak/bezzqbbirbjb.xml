@@ -1,0 +1,61 @@
+<Entry xml:id="bezzqbbirbjb">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezzqbbirb(jb)</orth>
+    <lemma>bezzqbbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezuban</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezzoben</ref>, -bna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjezzubny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 26; Jakubas 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezzfbny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 91; Warsz. I, 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, вторичное производное с суфф. -ъп- от сложного прилаг.<ref type="etymon" target="bezzgbb">*bezzgbb</ref> (см.), имеющего, кстати, и более обширный 
+ареал.</gram>
+  </gramGrp>
+  <note>Не исключается и префиксально-суффиксальный способ словобразования от имени<xr type="compare">см. <ref type="etymon" target="zobb">*zobb</ref>
+    </xr>.</note>
+</Entry>

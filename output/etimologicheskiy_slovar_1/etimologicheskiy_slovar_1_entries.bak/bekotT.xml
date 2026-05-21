@@ -1,0 +1,34 @@
+<Entry xml:id="bekotT">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bekotT</orth>
+    <lemma>bekotT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beket</ref>, bekbt м. р.</orth>
+      </form>
+      <sense>
+        <def>блеянье (о мелкой скотине)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16—17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>блеянье (овец), мычанье (те лят); плач</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное имя, производное с суфф.<m type="suffix">
+        <ref>-otb</ref>
+      </m> от основы <ref type="etymon" target="bekati">*bekati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

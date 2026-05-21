@@ -1,0 +1,328 @@
+<entries>
+  <entry xml:id="brmetibrneti" xml:id="brmetibrneti">
+    <pb n="68" end_page="69" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brьmĕti/*brьnĕti</orth>
+      <lemma>brbmeti</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>brbneti</orth>
+      <lemma>brbneti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brneti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>жужжать (о пчеле, мухе), гудеть, греметь, рокотать , стар, berneti жужжать, шуметь (Jarnik VII)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 64)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brneti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>глухо позвякивать, звенеть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Gebauer I, 105; Ст.-чеш., Прага)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brneti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>цепенеть, деревенеть</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>brnet</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>жужжать, говорить, ворчать , звенеть, цепенеть, деревенеть , brnet цепенеть, деревенеть , bfnat жужжать, гудеть (о мухах, пчелах) , bfnat жужжать, летать с шумом , bfanet жужжать , bru- net жужжать, звенеть (напр. в ушах), ворчать, бормотать , braneti звенеть (напр. в ушах)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartos Slov. 27)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Gregor. Slov. slavkov.-bucov. 28)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Malina Mistf. 12)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(BartoS Slov. 27)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Sverak Karlov. 110)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Bartos Slov. 28)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kott I, 89: морав.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brnat</ref>\ brniet</orth>
+        </form>
+        <sense>
+          <def>цепенеть, ощущать дрожь, жуж­ жать, звенеть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">диал. (<ref>вост</ref>.) braniet 1</orth>
+        </form>
+        <sense>
+          <def>, brunet\ brunic жужжать, гудеть , ст.-полъск. brzmied, brznied звучать, раздаваться, бряцать, играть (на музыкальном инстру­ менте)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kalal 37, 43)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(1444, 1466 гг., Si. stpol. I, 171; Warsz. I, 220)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brzmied</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>звучать; издавать звук</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 693)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">диал. <ref>brnied</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ворчать; звучать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Si. gw. p. I, 119; Warsz. I, 205)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>bfnec</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>жужжать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Pomor. I, 58)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бренётъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>изда­ вать, производить звуки; звенеть, жужжать, гудеть, бренчать , брунёть, брынёть, бренётъ звенеть, зву­ чать, жужжать; гудеть, бренчать; извлекать или издавать звук , брундётъ звенеть, гудеть, жужжать (о звуках колокола, струнного инструмента; о жужжании насекомых)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(зап., Филин 3, 175)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Даль 3 I, 321)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(ворон., Филин 3, 202)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бръжЪти</ref>, бримЪти, брмЪти</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Тимченко Т, 141, 145)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брингти</ref>, бретти</orth>
+        </form>
+        <sense>
+          <def>звучать, звенеть, дребезжать, издавать звук, преимущественно о струне и о подоб­ ных струнному звуках, жужжать , бретти жужжать, звенеть (Картотека Украинского академического сло­ варя)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 100)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>брынйты</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>зудеть (о ране) . — Сюда же инхоативные</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ф. Д. Климчук. Специфи­ ческая лексика Дрогичинского Полесья. — «Лексика Полесья» 22)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бр</ref>^мна</orth>
+        </form>
+        <sense>
+          <def>пожужжать, зажужжать, зашу­ меть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР; Геров: бръмнж)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брмне</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>зашуметь, зажужжать, загудеть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m>, производный от продолжения и.-е. <ref type="etymon" target="ygget-">*Ыггет-</ref>, представ­
+ленного в слав, в виде ступени редукции.</gram>
+    </gramGrp>
+    <note>Родственно лат. 
+fremo 
+'ворчать, жужжать, шуметь, гудеть', др.-в.-нем. Ъгетап 
+'ворчать, 
+реветь', 
+др.-инд. 
+bhramard
+ 
+?пчела'. 
+См. Berneker 
+I, 
+94—95; 
+J. Charpentier 
+AfslPh 
+X X I X , 
+1907, 4; A. Meillet RS II, 1909, 
+65—66; 
+Walde—Hofm. 
+I, 
+не упоминает 
+слав. 
+Kluge—Gotze
+1 5 106 (без слав, форм); Pokorny I, 142—143 s. v. 
+Bruckner 45 (считает формы на -n- старшими); Slawski 
+I, 46; Machek
+67. На 
+форме *ЬгътёП 
+могло сказаться влияние 
+парной, 
+«рифмованной» — <xr type="compare">см. <ref type="etymon" target="grbmeti">*grbmeti</ref>
+      </xr>, 
+ср. 
+Otr^bski. 
+Studia 
+indoeuropeistyczne 
+(мысль 
+последнего 
+о 
+контаминативном 
+происхождении польск. brzmied содержит элемент преувеличения). 
+Аналогичную 
+связь 
+Махек 
+(там же) 
+указывал для 
+и 
+(см.). 
+Обычно приводимое среди соответствий болг. бръмча 
+'жужжать 
+(о насекомых)' сюда не относится см. о нем под, 
+ср. 
+Otr^bski. 
+Studia 
+indoeuropeistyczne 
+(мысль 
+последнего 
+о 
+контаминативном 
+происхождении польск. brzmied содержит элемент преувеличения). 
+Аналогичную 
+связь 
+Махек 
+(там же) 
+указывал для 
+и 
+(см.). 
+Обычно приводимое среди соответствий болг. бръмча 
+'жужжать 
+(о насекомых)' сюда не относится см. о нем под, 
+ср. 
+Otr^bski. 
+Studia 
+indoeuropeistyczne 
+(мысль 
+последнего 
+о 
+контаминативном 
+происхождении польск. brzmied содержит элемент преувеличения). 
+Аналогичную 
+связь 
+Махек 
+(там же) 
+указывал для 
+и 
+(см.). 
+Обычно приводимое среди соответствий болг. бръмча 
+'жужжать 
+(о насекомых)' сюда не относится см. о нем под, 
+ср. 
+Otr^bski. 
+Studia 
+indoeuropeistyczne 
+(мысль 
+последнего 
+о 
+контаминативном 
+происхождении польск. brzmied содержит элемент преувеличения). 
+Аналогичную 
+связь 
+Махек 
+(там же) 
+указывал для 
+и 
+(см.). 
+Обычно приводимое среди соответствий болг. бръмча 
+'жужжать 
+(о насекомых)' сюда не относится см. о нем под</note>
+  </entry>
+</entries>

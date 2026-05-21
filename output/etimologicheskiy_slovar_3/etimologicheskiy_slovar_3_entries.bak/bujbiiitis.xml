@@ -1,0 +1,39 @@
+<Entry xml:id="bujbiiitis">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujbiiiti (s§)</orth>
+    <lemma>bujbiiiti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bujniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать буйным, неукротимым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 199; Kott I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bujniu</ref> se</orth>
+      </form>
+      <sense>
+        <def>быть резвым, пышным, сладострастным, величаться, хвастаться, важничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. 1,93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ж</ref>
+      </m> (каузатив), производный от прилаг. <ref type="etymon" target="shchp-2">*Ьщъпъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

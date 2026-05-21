@@ -1,0 +1,159 @@
+<Entry xml:id="guditi">
+  <pb n="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>guditi</orth>
+    <lemma>guditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гоудити</ref> pXaacp^elv, vituperare</orth>
+      </form>
+      <sense>
+        <def>поносить, порочить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hudif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поносить, хулить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гудйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>манить, обольщать , гудйть не признавать в ком достоинства, критиковать , гудйть порицать , гу­ дйть осуждать, хулить, порицать (южн., зап., смол., курск., орл., брян.), соблазнять, обманывать (новг.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Труды МДК. Смол. губ. — РФВ LXII, 1909, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 150; Расторгуев. Словарь народных говоров Зап. Брянщины 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хулить, осуждать, порицать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гудзщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осуждать, хулить , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гудзщь</ref> .—Ср. с другой гласной основой</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>houdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>развратничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 474)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hudad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гадать, ворожить , соотносительные с *guditi сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гудала</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плут, мошенник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 7, 200)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *ggdeti /<xr type="compare">см. <ref type="etymon" target="ggditi">*ggditi</ref>
+    </xr>, 
+разграничение 
+с 
+которым 
+временами 
+затруднительно 
+тем более, 
+что 
+значение 
+'поносить, 
+хулить' 
+явно вторично, 
+поэтому отдельная подача праслав. 
+diti 
+приобретает 
+довольно проблематичный 
+характер 
+(*guditi — 
+как 
+дублет 
+с чистым, 
+неназальным гласным в корне). См. Фас­
+мер I, 470—471. Во всяком случае самостоятельная этимологиза­
+ция *guditi 
+'хулить' в связи с <xr type="compare">см. <ref type="etymon" target="gad">*gadъ</ref>
+    </xr> и <xr type="compare">см. <ref type="etymon" target="gydb">*gydb</ref>
+    </xr>, а также 
+*guditi 
+'манить, обманывать' — в связи с лит. ap-gduti 
+'обманы­
+вать' 
+(см. W. 
+v. 
+d. 
+Osten-Sacken 
+KZ XLIV, 1911, 153 и сл.) 
+неоправданна.</note>
+</Entry>

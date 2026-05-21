@@ -1,0 +1,36 @@
+<Entry xml:id="bryzdzala">
+  <pb n="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryzdzala</orth>
+    <lemma>bryzdzala</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bryzd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ala, brizdala ж. p. сусло; бурда.— Сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брйждалина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>слабый родник, топкое, болотистое место , производное с суфф. -ina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 169)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(а) la от гл.<ref type="etymon" target="bryzdzati">*bryzdzati</ref> 
+(см.) или с 
+-ala 
+от <ref type="etymon" target="bryzgati-6">*bryzgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

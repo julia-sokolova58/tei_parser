@@ -1,0 +1,23 @@
+<Entry xml:id="gubitva">
+  <pb n="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gubitva</orth>
+    <lemma>gubitva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>г</ref>^битва .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гоубитвы потворы ис- повъ\дая волнаго 8'бшства запръ-щенш приметь. Иос. Кормч. Вас. 82, Срезневский I, 607)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -(i)tva от гл.<ref type="etymon" target="gubiti">*gubiti</ref> 
+(см.) или — точнее — 
+расширение на -а основы супина 
+<ref type="etymon" target="gubitu">*gubitu</ref>.</gram>
+  </gramGrp>
+</Entry>

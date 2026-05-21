@@ -1,0 +1,146 @@
+<Entry xml:id="groxoti">
+  <pb n="134" end_page="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groxoti»</orth>
+    <lemma>groxoti»</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грохот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грохот , ср. сюда же грохота ж. р. обвал крупных камней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грохот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гро­ хот, громкий смех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грохот</ref>, грохот м. р.</orth>
+      </form>
+      <sense>
+        <def>громкий смех, грохот, куча камней, лавина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 686— 687)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grohbt</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>громкий смех, хохот , крупный песок, щебень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bezlaj. Slovenska vodna imena I, 201 — 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hrochot</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>грохот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>hrochot</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>x</ref> roX ot^ hroypV</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>grochot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стук, грохот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 919; Dorosz. И, 1301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gruojet</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грохотъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, грохот (Никон. Панд.; Сбор. Кир. Белоз. XV в.), хохот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. 43, XII—XIII в. 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 598)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грохот</ref> м. р. очень сильный оглушительный звук, шум (с раскатами)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грохот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болтун , грохот м. р. ред- wgroxi»tati кое решето для протирания икры (донск., урал.), широкая пле­ теная из дранок корзина с редким дном для просеивания плохо провеянного на гумне зерна (арх., беломор., костр.) , грохот плетеный короб, в котором носят сено (костр., Карто­ тека СТЭ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 7, 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-otb</ref>
+      </m> от гл. <ref type="etymon" target="groxati">*groxati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="grexofo">*grexofo</ref>
+    </xr> 
+(см.).</note>
+</Entry>

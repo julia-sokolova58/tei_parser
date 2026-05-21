@@ -1,0 +1,30 @@
+<entries>
+  <entry xml:id="bdolbdol" xml:id="bdolbdol">
+    <pb n="111" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъdolъ?/*bьdolъ?</orth>
+      <lemma>b b d o b</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>b b d o b</orth>
+      <lemma>b b d o b</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>bdol</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>улей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kalal 19)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Неясное слово. Возм., родственно *bbdla 
+(см.; там же подробно 
+об этимологии).</note>
+  </entry>
+</entries>

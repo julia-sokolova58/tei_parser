@@ -1,0 +1,107 @@
+<Entry xml:id="gltati">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtati</orth>
+    <lemma>glъtati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glbkati</orth>
+    <lemma>glbkati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>glgat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадно пить , глотать, проглатывать , напиться , gVgat жадно есть или пить, есть давясь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina, Mistf. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kopecny. Urc. 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. I l l )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глыкацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотать, глотнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>глыкацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать, обгрызать . — Ср., возм., сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гл4</ref>&gt;га ж. р.</orth>
+      </form>
+      <sense>
+        <def>изжога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>gVgdn</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тот, кто давится во время еды ; дальнейшим расширением типа *glbkbtati является напр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глохтатъ</ref>, глоктатъ</orth>
+      </form>
+      <sense>
+        <def>глотать (обычно с жад­ ностью, большими глотками)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(терск., смол., пек., каз., симб., юго-вост., Филин 6, 203—204)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное образование, связанное с<ref type="etymon" target="gHtati">*gHtati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

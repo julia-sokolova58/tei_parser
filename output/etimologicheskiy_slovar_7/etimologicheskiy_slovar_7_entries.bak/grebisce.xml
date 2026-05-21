@@ -1,0 +1,43 @@
+<Entry xml:id="grebisce">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebisce</orth>
+    <lemma>grebisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^€БИфб ср. p. [xvY)[Aetov, monumentum</orth>
+      </form>
+      <sense>
+        <def>могила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zogr., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>грёбйште</ref>, грёбйште ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дубр., РСА III, 605; RJA III, 409: в топони­ мии— с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Гребище</ref>, местн. название (бывш. Лу- бенск. у.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Полтав. губ., Russisches geographisches Namenbuch II, 539).</note>
+  <gramGrp>
+    <gram>Производное (название места) с суф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от гл. <ref type="etymon" target="grebti-4">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,78 @@
+<Entry xml:id="syors">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёрьсь</orth>
+    <lemma>сёрьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цЪпецъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>цепь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>цапёц</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>планки, образующие зев в основе ткани, прут, расщепленный на конце , цапец м. р., цапцй мн. планки, цены для зевообразования в основе при тканье , цапец м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев Б Д I, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цёпац</ref>, цщёпац</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>цйпац</ref>, род. п. -пца, м. р., гл. обр. мн. цщёпци</orth>
+      </form>
+      <sense>
+        <def>планки, пропускаемые через нити основы в ткацком станке , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>цёпац</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>серее</ref>, род. п. -рса, м. р.</orth>
+      </form>
+      <sense>
+        <def>черенок (при прививке), (молотильный) цеп, колотушка, дубинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ьсъ</ref>
+      </m> от <ref type="etymon" target="syor-2">*сёръ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

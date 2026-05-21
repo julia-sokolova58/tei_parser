@@ -1,0 +1,37 @@
+<Entry xml:id="babrotati">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>babrotati</orth>
+    <lemma>babrotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>babrotaf</ref> sa</orth>
+      </form>
+      <sense>
+        <def>пачкаться; возиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bqbriwtac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шлепать, плескать(ся)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 25)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный от той же основы, что и<ref type="etymon" target="babrati-2">*babrati</ref> s§ (см.).</gram>
+  </gramGrp>
+  <note>Суффиксация (-otati) имеет интенсивный характер. Возможно позднее, параллельное новообразование. Впрочем, ср. след. имя.</note>
+</Entry>

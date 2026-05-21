@@ -1,0 +1,15 @@
+<Entry xml:id="arbica">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ar$bica</orth>
+    <lemma>ar$bica</lemma>
+  </form>
+  <etym type="cognates" />
+  <note>М^АБИЦЛ ж. p. rcepSiE, perdix (Mikl.), болг. яребица ж. р. 'куропатка Perdix cinerea' (БТР), макед. ]аребица ж. р. 'куропатка' (И-С), еребица ж. р. то же (Кон.), сербохорв. jape6uua ж. р. (Вук Карацип; RJA: с X V в.), диал. ]еребйца ж. р. (Елез. I), словен. jarebica, jereblca ж. р. 'куропатка Perdix cinerea (самка)' (Plet. I, 359, 366), чеш. диал. jerabice ж. р. 'рябчик', слвц. jarebica ж. р. 'куропатка Perdix' (SSJ I, 632).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="ag-5">*аг</ref>$Ьъ (см.) или <ref type="etymon" target="agf">*агфъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

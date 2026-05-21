@@ -1,0 +1,28 @@
+<Entry xml:id="ogk-2">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬгькъ</orth>
+    <lemma>ЬоЬгькъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bobfek</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>cocodrillus (XV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="og-3">*ЬоЬгъ</ref> см. (более закономерна суф­
+фиксация -ъкъ при древней -и- основе <ref type="etymon" target="og-3">*ЬоЬгъ</ref> I <ref type="etymon" target="eg">*ЬеЬгъ</ref>, см. 
+<ref type="etymon" target="egk">*ЬеЬгъкъ)</ref>&gt; с оригинальным изменением значения ('бобр' -&gt; 'кро­
+кодил'); точнее, перед нами — один из примеров использования 
+местного животного для обозначения экзотического животного. — 
+Ср. еще польск.</gram>
+  </gramGrp>
+  <note>Bobrzek, название реки в басе. Вислы («Hydro- nimia Wis!y», I, И).</note>
+</Entry>

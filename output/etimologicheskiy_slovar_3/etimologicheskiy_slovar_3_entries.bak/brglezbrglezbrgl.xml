@@ -1,0 +1,188 @@
+<entries>
+  <entry xml:id="brglezbrglezbrgl" xml:id="brglezbrglezbrgl">
+    <pb n="166" end_page="167" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrglĕzъ/*bьrglezъ/*bьrglь</orth>
+      <lemma>bbrglezb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbrglezb</orth>
+      <lemma>bbrglezb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbrglb</orth>
+      <lemma>bbrglb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бр-бгл</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ъш м. р. маленькая птичка, маленький человек</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(С. Ковачев. Троянският говор.— Б Д IV, 191)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>brglijez</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>птица Sitta syriaca , брглщез, брглщез м. р., бргл&gt;ез, брглёз м. р.: плави бргл&gt;ез птица Sitta europaea caesia</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A I, 639)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА И, 134)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>brljez</ref> то же , сюда же брзгел» м. р.</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Lex. 32)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 157)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brglez</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>поползень Sitta europaea L. , сюда же bflez м. p. то же, а также в знач. волчок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 61)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 63)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brhlecy</ref> род. п. -1сё, м. р.</orth>
+        </form>
+        <sense>
+          <def>название птицы</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jana Vodnanskeho (Aquensis) Lactifer, 1511, Gebauer I, 103)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>берглёз</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>щегол; щегленок . — Так или иначе преобразованы из той же ОСЕЮВЫ след. названия:</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пенз., Опыт 9; Даль I, 200; Филин 2, 242)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бргл</ref>&gt;ач м. р.</orth>
+        </form>
+        <sense>
+          <def>поползень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 134)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар, <ref>brgallca</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>turtur, горлица</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(XVI в., R J A I, 639)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brhel</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>иволга</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Gebauer I, 103)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brhel</ref> м. р. то же</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>bargiel</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>синица</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 98)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brhlik</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>Sitta caesia</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brhlik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>поползень Sitta europaea</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 130)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Скорее всего, звукоподражат. 
+происхождения, 
+ср. 
+сербохорв. 
+brgljati 
+'бормотать, 
+болгать', лит. burguldoti 
+'ворчать, бранить, 
+журить', греч. ppoyt'Xo; 'какая-то птица', лат. frinqllla 
+'зяблик'. 
+См. Berneker I, 
+119; Г. А. Ильинский ИОРЯС XVI, 1912; 25;
+Фасмер I, 151. См. Л. А. Булаховский. Общеславянские 
+назва­
+ния птиц.— И А Н ОЛЯ VII, 1948, 106—107 (о неясности этимо­
+логии). Давно высказывалось предположение о связи *bbrglezb 
+с 
+(см.) и Hezti 
+(см.). См. A. Bruckner 
+KZ X L V I I I , 
+1918, 
+196—197; V. Machek. Einige slavische Vogelnamen. ZfslPh X X , 
+1950, 29—33 (поползень великолепно лазает); но, при всей при­
+влекательности этой этимологии, она опирается на такие зыбкие 
+формальные моменты, как чрезмерное обобщение явно 
+вторичной 
+формы от праслав. *йъг2Ъ типа сербохорв. 
+брго.</note>
+  </entry>
+</entries>

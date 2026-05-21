@@ -1,0 +1,61 @@
+<Entry xml:id="bagnQti">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagnQti</orth>
+    <lemma>bagnQti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bahnoutl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жаждать, вожделеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. (<ref>остр</ref>.) bahndt</orth>
+      </form>
+      <sense>
+        <def>жаждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bahnuV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно желать, хотеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производный гл. с суфф.<m type="suffix">
+        <ref>-ngti</ref>
+      </m> от основы bag-, 
+представленной 
+в <ref type="etymon" target="bagt4">*bagt4</ref>, 
+<ref type="etymon" target="bagati">*bagati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

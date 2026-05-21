@@ -1,0 +1,24 @@
+<Entry xml:id="astrbica">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>astr§bica</orth>
+    <lemma>astr§bica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jastfabica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ястреб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Bartos Slov. 130)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Не исключено позднее местное происхождение этого производ­ ного с суфф. -ica от<xr type="compare">см. <ref type="etymon" target="astrebbb">*astrebb/b</ref>
+    </xr>. Ср. сербохорв. Jastrebica, 
+назв. горы и топоним ( R J A IV, 485).</note>
+</Entry>

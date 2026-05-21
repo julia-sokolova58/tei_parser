@@ -1,0 +1,81 @@
+<Entry xml:id="drgnoti">
+  <pb n="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъgnǫti</orth>
+    <lemma>drъgnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drgnqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вздрогнуть, дрогнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 364—365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дрыгнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрогнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон, л. под 1551 г., Срезневский I, 733)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрогнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделать быстрое, незначи­ тельное движение, вздрогнуть, прийти в смятение; начать отступать, быстро и резко измениться на один момент, задро­ жать (о звуке), дрогнуть трястись от холода</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрогнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о воде во время морского отлива) сбывать, идти на убыль, ссесться (о молоке) , побежать внезапно, неожиданно (смол.), начать засыхать (о дереве) (урал.) , дрыгнуть трястись от холода, мерзнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрыгнуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подернуть ногами , дрыгануць дрогнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, соотносительный с <ref type="etymon" target="drbgati">*drbgati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Трудно в ряде случаев отличить от рефлексов<xr type="compare">см. <ref type="etymon" target="dbrgnyti">*dbrgnyti</ref>
+    </xr>....</note>
+</Entry>

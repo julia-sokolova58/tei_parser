@@ -1,0 +1,131 @@
+<Entry xml:id="goldovati">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*goldovati</orth>
+    <lemma>goldovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гладувам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глад</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бвам , глагбвам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гладува</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гладовати</ref>, гладу)ём</orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gladovdti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 211; Slovar sloven, jezika I, 686—687)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hladovaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hladuvat</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glodowac</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 843)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голодовать</ref>, -дую</orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., волог., арх., ленингр., новг., твер., влад., перм., кемер., камч., куйбыш., курск., орл., тул., моек., калуж., смол., сиб., Филин 6, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голодувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галадаваць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от <ref type="etymon" target="goldb-2">*goldb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

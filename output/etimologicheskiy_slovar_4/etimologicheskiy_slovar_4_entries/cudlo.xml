@@ -1,0 +1,72 @@
+<Entry xml:id="cudlo">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cudlo</orth>
+    <lemma>cudlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чуло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувство, мн. ч. чула органы чувств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сШо</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Skok. Etim. rjecn. I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>culo</ref> ср.</orth>
+      </form>
+      <sense>
+        <def>слух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cidlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>орган чувств (зрения, слуха, обоняния, вкуса, осязания)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cudlo</ref> ср. р. стар,</orth>
+      </form>
+      <sense>
+        <def>осязание, нервное окончание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чуло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>орган чувств (Картотека Словаря русских народных говоров)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от гл. <ref type="etymon" target="cuti">*cuti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

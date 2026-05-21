@@ -1,0 +1,105 @@
+<Entry xml:id="gniled">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilĕdь</orth>
+    <lemma>gnilĕdь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнйледь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль , ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gnlldd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA III, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnildd</ref> ж. р. то же , возм., далее —</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hnilet</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hnilet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ж. р. гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнйледь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнилое место в бревне , гнйлеть ж. р. гниль, гнилье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Филин 6, 244)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(свердл., Филин 6, 244—245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гнйл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ад\ гнйлЧд" гниль (вся­ кого рода) . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзендзел1вський. 1менники з суф1ксом -jadb в украшськш MOBi. — «Studiaz filologii polskiej i stowianskiej» II, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гтьиледина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль, труха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 396)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-edb</ref>
+      </m> от <ref type="etymon" target="gnifo">*gnifo</ref> (см.).</gram>
+  </gramGrp>
+  <note>О праслав. харак­ тере см. F. Slawski «Studia indoeuropejskie», 1974, 216.</note>
+</Entry>

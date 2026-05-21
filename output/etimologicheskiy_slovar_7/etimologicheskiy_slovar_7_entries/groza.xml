@@ -1,0 +1,240 @@
+<Entry xml:id="groza">
+  <pb n="140" end_page="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>g r o z a</orth>
+    <lemma>g r o z a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>грозд</ref> ж. p. срр^хт], horror</orth>
+      </form>
+      <sense>
+        <def>ужас</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cloz., Supr., Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гроза</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>что-либо страшное, безобраз­ ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Речник РОДД 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>груза</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>страшно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материал за българския речник. От гр. В.-Търново. — СбНУ XIV, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, жуть, трепет, отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гроза</ref>, гроза ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, жуть, отвращение , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гроза</ref> (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>groza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, множество, масса , стар, grosa ужас, отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gutsmann 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hruza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>страх, ужас, множество</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hruza</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, гам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hroza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, множество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 531; Kalal 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hroza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, страх</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>groza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ужас, страх, испуг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>groza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угроза, опасность, страх, ужас , сло- вин. grueza ж. р. ужас , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1316)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гроза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ужас , угроза , гроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Есф. IX. 2 по сп. XIV— XV в.; Гр. Наз. XI в. 319; Пов. вр. л. под 1092 г.; Сл. плк. Игор.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Нест. Жит. Феод. 4; Жит. Андр. Юр. VIII. 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1024 г., Сл. плк. Игор.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 595)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гром и молния с дождем или градом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гром (самар.), молния (твер.), о грозовой туче (ср.- урал., тул.) , гроза ж - Р- угроза (петерб., арх., беломор., перм.), грозная власть (онеж.), грозный человек (арх., костр.), бой, битва (арх.), вред (урал.) , множество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 147—148)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 148)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кара, наказание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1386 г., Словник ст.-укр. мови X I V — X V ст. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроза, угроза, громадина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гроза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скопление туч; буря с градом, громом, страх от угроз , граза ж. р. (о ком-либо, внушающем страх) гроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, здесь представлено первонач. звукоподражание<ref type="etymon" target="g-r-g-">*g-r-g-</ref> l<ref type="etymon" target="g-r-g--2">*g-r-g-</ref>, 
+ср. аналогичное 
+греч. 
+^°РТ^ 'страшный, ужас­
+ный , Гору&lt;о, название 
+мифического существа с ужасным, окаме-
+няющим 
+взором.</gram>
+  </gramGrp>
+  <note>Широко распространенное сближение с лит. grasd 'отвращение', grasus 'отвратительный', grasyti 'грозить' элементарно неудовлетворительно, как и сравнение с лит. grazoti 'угрожать', которое само заимствовано из слав. См. А. А. По- тебня РФВ III, 1880, 92—94; Е. Zupitza. Miszellen. 2. Zur Нег- kunft des urslavischen z. — KZ XXXVII, 1904, 398; Berneker I, 355; Otr^bski. Studia indoeuropeistyczne 64; Фасмер I, 460; Siawski I, 353; J. Otrqbski LP VII, 1959, 314; Machek 2 186; Георгиев ВЕР IV, 283; Fraenkel I, 165, 167; Frisk I, 321—322.</note>
+</Entry>

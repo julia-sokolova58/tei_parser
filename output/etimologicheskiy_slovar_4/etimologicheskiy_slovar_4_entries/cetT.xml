@@ -1,0 +1,70 @@
+<Entry xml:id="cetT">
+  <pb n="96" end_page="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetT</orth>
+    <lemma>cetT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чет</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cet</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 170; Ст.-чеш., Прага; Zivot sv. Katefiny 1455, Kott I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чет, четное число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 54; из польск.?)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>cot</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>четъ</ref> (а четъ сшылЪ пришлю, и вы имъ къне мъи голубыи дайте cetyre съ людми... Гр. берест. (Новг.) № 142, вт. пол. XIII в., Карто­ тека ДРС, также личное имя собств. Четъ , русск. чёт м. р.</orth>
+      </form>
+      <sense>
+        <def>четное число, укр. ч1т м. р. чет, четное число , блр. диал. чот м. р. чет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1483 г., Тупиков 484)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 466)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бялькевхч. Ма- ил. 490)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма м. р., соотносительная с формой ж. p. *ceta (см.; там же подробнее об этимологии). Далее—к *ebtq, *cisti,<xr type="compare">см. <ref type="etymon" target="citati">*citati</ref>
+    </xr>.</note>
+</Entry>

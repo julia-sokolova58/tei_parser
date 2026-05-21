@@ -1,0 +1,45 @@
+<Entry xml:id="egg">
+  <pb n="206" end_page="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьеггъ</orth>
+    <lemma>Ьеггъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>брёз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>hrez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. Т, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. циал. *berzb в функции названия березы представ­ ляет собой древний словообразовательно-морфологический ва­ риант, восходящий к и.-е. форме м. p. *bherdgo-, наряду с праслав.<xr type="compare">см. <ref type="etymon" target="berza">*berza</ref>
+    </xr> — из и.-е. *bherdga ж. р. Выше (см. под *berza) уже 
+говорилось о вероятном первоначально 
+адъективном 
+значении 
+этих форм названия березы.</note>
+  <gramGrp>
+    <gram>К тому, что сказано в статье<ref type="etymon" target="berza">*berza</ref> 
+о реликтах адъективного употребления <ref type="etymon" target="berz--3">*berz-</ref>, гл. о б р . в каче­
+стве названий пестрых животных (болг., сербохорв. 
+примеры), 
+ср. еще др.-русск.</gram>
+  </gramGrp>
+  <note>Березыи, название города в Чернигов, княже- нии (Святославъ поиде къ Березому. Ип. л., Срезневский I, 70).</note>
+</Entry>

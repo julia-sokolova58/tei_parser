@@ -1,0 +1,203 @@
+<Entry xml:id="btascatis">
+  <pb n="131" end_page="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>btascati (s£)</orth>
+    <lemma>btascati (s£)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БЛАфЛти</ref> СА daxpaiTceiv, fulgere</orth>
+      </form>
+      <sense>
+        <def>сверкать, бли­ стать, блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блёщя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раскрывать широко глаза, таращиться, глазеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>блештй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестит, 3 л. ед. ч</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блештати</ref> (се), блщештати (се), бмштати (се)</orth>
+      </form>
+      <sense>
+        <def>сиять, блистать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 646)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>блёш</ref>- тёт</orth>
+      </form>
+      <sense>
+        <def>утрачивать нормальное зрение от сильного света</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блёшту ми очи од сунца.—Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blescdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть, сиять, свер­ кать, blesci se miodsolnca солнце слепит меня, blescati, bolscati глазеть , bliscdti блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>se</ref> bousce</orth>
+      </form>
+      <sense>
+        <def>блещет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бодуэн де Куртенэ. Терские славяне в сев. Ита­ лии. Архив АН СССР, ф. 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blysteti</ref>, blisteti, blsteti</orth>
+      </form>
+      <sense>
+        <def>бле­ стеть, сиять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bVuscet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>слабо гореть, тлеть , bluscit se светиться, сиять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вост.-мор., Bartos Slov. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blescec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть, сверкать , blyscec то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blyscas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть, светиться, сиять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Sj. I, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blyszczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть, сиять, свер­ кать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 579)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blascec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть, сверкать , bliescec сверкать, блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 49)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блищати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Любопытно отметить малую распространенность формы *blbscati 
+3 вост.-слав., тогда как большинство ю.-слав. и зап.-слав, языков 
+знают ее.</note>
+  <gramGrp>
+    <gram>О закономерности редукционной ступени корневого вока-
+лкгма данного гл. с основой на <m type="suffix">
+        <ref>-eti</ref>
+      </m> (<ref type="etymon" target="blbscati">*blbscati</ref> &lt; <ref type="etymon" target="blisketei">*blisketei)</ref>, сравни-
+•blbzno 
+тельно, напр., с родственным лит. blysketi, с непервонач. долготой 
+в корне, см.</gram>
+  </gramGrp>
+  <note>Г. Ульянов. Значения глагольных основ в литовско-
+славянском языке. — РФВ XXV, 1891, 56. О соотношении вока­
+лизма корня и основы (презентная основа в соединении с элемен­
+том -ё- основы инфинитива), а также об отношениях 
+влдфлти — 
+БЛИСЦДТИ см. еще A. Meillet MSL 13, 1905, 368—369; он же 
+MSL 14, 351.</note>
+</Entry>

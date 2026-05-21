@@ -1,0 +1,214 @@
+<Entry xml:id="celustb">
+  <pb n="43" end_page="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cel'ustb</orth>
+    <lemma>cel'ustb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>четстд</ref> ж. p. aiaycov, maxilla</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёлюспг</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: челюсть)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чбл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъс ж. р. то же Н. Ковачев. Севлиевско. — БД V, Щ,чёйус ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>челуст</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёлуст</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть, челусти мн. ч. пасть, глотка, отсюда произ­ водное чёлуска ж. р. винт, крепящий ружейный кремень, сло­ вен. * celjust ж. р. челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ceVust</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>че­ люсть (Ст.-чеш., Прага), celest ж. р. чело, верх печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>delist</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ceVusfa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отверстие печи , celusie ж. р. мн. ч. то же , celusc 7 ж. p., обычно мн. ч. celuscy место в печи, куда сгребают жар при выпечке хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kasik. Stfedobecev. 90)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedo- opav. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ceVusV</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>челюсть, отверстие печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>ciVaust</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нижняя челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czeluuc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отверстие, пасть; глубина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>хщека</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ciglesc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>челюсть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>головная кость, в которой укреплены зубы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др., Срезнев­ ский III, 1496)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>челюсть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каждая из двух лицевых кос­ тей, в которых укреплены зубы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>челюсти</ref> м. р. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>устье кухонной печи, дугообразное отверстие между прйтчком и самою внутренностью печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>челюсть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свод лечи , чэлусти арочное перекрытие перед устьем печи . —Сюда же суффиксальное производное личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дорошенко. Матер1али до словника д1алектно1 лексики Сумщини 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. Д. Корень, М. С. Шушкевич. Полесская строительная тер­ минология. — «Лексика Полесья» 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Челюстка</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1661 г., Тупиков 478)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="celo">* celo</ref> (см.) и <ref type="etymon" target="ust-">*ust-</ref> 
+(см. <ref type="etymon" target="usta9">*usta9</ref>
+      <ref type="etymon" target="ustbje">*ustbje)</ref>.</gram>
+  </gramGrp>
+  <note>Не вполне йена причина мягкости Г, возм., она происходит от основы на * се1ь9 послужившей первым компонентом сложения. В целом сложение ценно как свидетельство о том, что * celo первоначально •не б ы л о основой на -е^-. Сложение носит затемненный, стар, «характер, тем не менее это — праслав. новообразование, поэтому искать для него полные соответствия в других и.-е. языках (ср. Махек, ниже) не имеет смысла. Литература: С. Микуцкий Изв. ОРЯС IV, 1855, 368 (от лит. skelti 'колоть, раскалывать', т. е. челюсть — это 'кость, служа­ щая к раздроблению пищи'); Miklosich 31 (к celo); Meillet. Etu­ des II, 286 (характеризует как неясное образование); Berneker I, 142 (сбивчиво характеризует как темное слово, вместе с тем до­ пуская здесь сложение с usta, а первый компонент относит кдр.-инд. kalyam 'кость', причем ceVustb &lt;* ceVe ustb 'ротовая кость'; впрочем, допускает также связь первого компонента с лит. skelti 'расщеплять [ср. выше Микуцкий], откуда первонач. знач. 'ротовая щель'; связь с * celo трактует как контаминацию); Bruck­ ner 75 (производит от * celo, но выделяемый им при этом суфф. -justb крайне сомнителен); Младенов ЕПР 681 (от чело); Stawski 1, 116 (этимологию считает неясной, связь с * celo и *usta от­ вергает, принимая крайне сомнительную конструкцию Шпехта [F. Specht. Ursprung 169—170] * celju -stb, производное от основы на -и-); Machek 2 97 (крайне невероятна его этимология * ceVustb &lt;^ * celju-kheleu-, якобы родственного греч. ^SXUVT] 'губа'-f- *ostb 'кость'); Skok. Etim. rjecn. I, 305 (эклектич. резюме известных этимологии); Фасмер IV, 330 («Во всяком случае связано с чело и уста»).</note>
+</Entry>

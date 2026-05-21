@@ -1,0 +1,28 @@
+<Entry xml:id="bajunb">
+  <pb n="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajunb</orth>
+    <lemma>bajunb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баюн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорун, краснобай ; Словарь говоров Подмосковья, 24)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Богораз 22; Мель­ ниченко 30)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ипъ</ref>
+      </m> от основы гл. <ref type="etymon" target="bajati-9">*bajati</ref> 
+(см.) или <ref type="etymon" target="bajiti">*bajiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

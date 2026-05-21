@@ -1,0 +1,46 @@
+<Entry xml:id="yap">
+  <pb n="161" end_page="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьыапь</orth>
+    <lemma>Ьыапь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>branjа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>складка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узорчатая ткань , вы­ шивка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(иркут., якут., Опыт 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брань</ref> ж. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Известно только из анекдота о ленивой женщине. «Шо ти, ж1нко, робиш, шо ро- боти твое! не видно? — Та шо роблю? я — каже, — чолов1че, брань б е р у . — А в ш то й дума: шо ж то таке: брань беру? — Пол^з на горище, сидить, дожидае, поки вона буде брань брати. Бона встала, напрягла ороху, прослала ряднину, насипала туди ороху; взяла, лягла черевом на землю i бере ротом орох той, ICTB . . л— Гринченко I, 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(а)пъ от гл.<ref type="etymon" target="bbrati">*bbrati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

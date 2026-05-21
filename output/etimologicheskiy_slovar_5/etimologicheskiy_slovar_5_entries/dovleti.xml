@@ -1,0 +1,102 @@
+<Entry xml:id="dovleti">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dovьlĕti</orth>
+    <lemma>dovьlĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref> С Б А Л 4 Т И dpxelv, sufficere</orth>
+      </form>
+      <sense>
+        <def>быть достаточным, соп- tentum esse довольствоваться , сю^а же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>прич</ref>. dovljen , а также, вероятно</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Da se karu zala dila, muka grihu da je takmena, ako je zla i dovljena. Lex. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>довйлет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоесть, наскучить (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dovleti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть достаточным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>довълЪти</ref>, довлЪти, довьлЪти, доволЪти</orth>
+      </form>
+      <sense>
+        <def>быть достаточным , также довълети, довлети , довълшпи, довьлшпи, довлшпа , довълитч, доволити снабжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. VI. 7. Остр, ев.; Чис. XVI. 7 по сп. XIV в.; Панд. Ант. XI в., Срезневский I, 688)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 686)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 171, Срезневский I, 688)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Поуч. вс. христ.; Соф. вр. II т., 307, Срезневский I, 686)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. книжн. <ref>довлеть</ref> кому</orth>
+      </form>
+      <sense>
+        <def>довольно, полно, достаточно, должно, надо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1110)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Семантически сохраняет очень чёткую связь с<ref type="etymon" target="dovoliti">*dovoliti</ref> (см.) 
+и сочетанием <ref type="etymon" target="do-37">*do</ref> voli.</gram>
+  </gramGrp>
+  <note>В плане формальном (редукция корневого вокализма -е-^&gt;-ь-) непосредственно связано с<xr type="compare">см. <ref type="etymon" target="veleti">*veleti</ref>
+    </xr> и герм, 
+формами типа гот. wiljau 1 л. ед. ч. наст, 'хочу', wileis 'хочешь' — 
+оптативного происхождения. 
+См. A. Meillet MSL 14, 1907, 375; Vaillant. Gramm. compa­
+r e III, 1, 34, 403; Фасмер I, 521. и герм, 
+формами типа гот. wiljau 1 л. ед. ч. наст, 'хочу', wileis 'хочешь' — 
+оптативного происхождения. 
+См. A. Meillet MSL 14, 1907, 375; Vaillant. Gramm. compa­
+r e III, 1, 34, 403; Фасмер I, 521. и герм, 
+формами типа гот. wiljau 1 л. ед. ч. наст, 'хочу', wileis 'хочешь' — 
+оптативного происхождения. 
+См. A. Meillet MSL 14, 1907, 375; Vaillant. Gramm. compa­
+r e III, 1, 34, 403; Фасмер I, 521. и герм, 
+формами типа гот. wiljau 1 л. ед. ч. наст, 'хочу', wileis 'хочешь' — 
+оптативного происхождения. 
+См. A. Meillet MSL 14, 1907, 375; Vaillant. Gramm. compa­
+r e III, 1, 34, 403; Фасмер I, 521.</note>
+</Entry>

@@ -1,0 +1,83 @@
+<Entry xml:id="gorbkostb">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbkostb</orth>
+    <lemma>gorbkostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gorkost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь , также гркбст ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., RJA III, 287; РСА III, 487: гбркдет)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 640; RJA III, 443: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hofkost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 730)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gorkoed</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorz</ref>- коёб ж. p.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ггртсть</ref>, род. п. -кости, ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбркасьць</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="gorbkb-12">*gorbkb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Возможно более позднее образование.</note>
+</Entry>

@@ -1,0 +1,173 @@
+<Entry xml:id="gukati">
+  <pb n="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gukati</orth>
+    <lemma>gukati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гукам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>воркую</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: гукамь 'ворко­ вать')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гука</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать, лепетать (о ребенке) (И-G), сер­ бохорв. гукати ворковать, шептаться, бурчать (в животе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 746)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gukati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>houkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, выть, houkati se быть в течке (о свиньях) , также hakati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 474)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>houkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворко­ вать , hilkat кричать , hakati бить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hilkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать (протяжно), орать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hiikat</ref> sa</orth>
+      </form>
+      <sense>
+        <def>быть в течке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zoch 74; Gregor. Slowak. von Pilisszanto 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. *{<ref>uka6</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать (о сове)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gornowicz. Dialekt malborski II, 1, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гукать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать крик, звуки наподобие «гу» (о птицах)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гукать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить (калуж.), звать, призывать (смол.), со детях: издавать звуки голосом, гуторить (новг.) , гукать вскрикивать отрывисто; говорить , гукать звать, кликать, причитывать по покойнику , гукать звать, призывать кого-либо криком (курск., смол., калуж., ворон., донск., кубан., перм., свердл.), кричать, пла­ кать (смол., калуж., курск., орл., арх.), говорить, рассказывать, беседовать (калуж., смол., ряз.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских областных слов.—ЖСт. VIII, 1898, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 211—212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гу</ref>- кати</orth>
+      </form>
+      <sense>
+        <def>издавать сильный звук, громко кричать, призывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гукаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кликать , гукаць разговари­ вать, стучать, производя гул, забавлять , гукаць беседовать, разговаривать , гукаць кри­ чать, аукать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения. См. Berneker I, 361.</note>
+</Entry>

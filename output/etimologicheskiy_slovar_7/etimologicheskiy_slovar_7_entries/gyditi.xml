@@ -1,0 +1,99 @@
+<Entry xml:id="gyditi">
+  <pb n="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyditi</orth>
+    <lemma>gyditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hydif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уродовать, искажать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hidzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ненавидеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>hyzie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ненавидеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 477)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйдить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>производить отвращение, тош­ нить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 36; Филин 6, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гидйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пачкать, марать, бесчестить , гйдити брезгать, чув­ ствовать отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 282)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гыдйты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пачкать, ма­ рать, ругать, поносить , гы- дыты ругать, поносить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(бреет., 3 народнага слоушка 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Народная лексша 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Польск. hydzic 'делать неприятным' заимствовано скорее из укр., см. Дзендзел1вський. Укр.-зах1днослов'янсыа лексичш паралел1 (Ки1в, 1969) 39; М. Basaj, J. Siatkowski «Studia z filologii pol- skiej i stowianskiej» 6, 1967, 23.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gydb">*gydb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="gaditi">*gaditi</ref>
+    </xr> 
+(см.).</note>
+</Entry>

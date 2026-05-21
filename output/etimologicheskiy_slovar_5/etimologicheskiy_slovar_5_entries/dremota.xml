@@ -1,0 +1,143 @@
+<Entry xml:id="dremota">
+  <pb n="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕmota</orth>
+    <lemma>drĕmota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дремота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, сонливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 688)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drĕmota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dfiemota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, • сочность (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfimota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>driemota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dre</ref>­ mota ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, сонное состояние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drĕmota</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>drzemota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, сонливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 571; Dorosz. II, 405)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dfemuota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота 7</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дремота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наклонность ко сну, сонливость или начало усыпленья, самый легкий сон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 1223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дргмбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко 1, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрымбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремотное состояние . — Сюда же производи.! е</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>др</ref>$мотивыи</orth>
+      </form>
+      <sense>
+        <def>сонливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Но. Леств. XII в., Срезневский I, 736)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>словен. dremoten, -tna, прилаг. сонной, сонливый .</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от гл. <ref type="etymon" target="dremati">*dremati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

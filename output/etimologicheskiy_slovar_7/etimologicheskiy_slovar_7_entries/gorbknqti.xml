@@ -1,0 +1,118 @@
+<Entry xml:id="gorbknqti">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbknqti</orth>
+    <lemma>gorbknqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горакнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить, горкнуть, также гркнути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 639; RJA III, 443: в словарях Беллы, Вольтиджи, Стулли, Вука)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horknouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить, делаться горьким , елвц. horknuf . горчить, делаться горьким, горкнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 729; Kott I, 464)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hofknyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить , также herknyc</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gorknus</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горк­ нуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorzknqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 880)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gugrknouc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горкнуть</ref>, гбръкнутъ</orth>
+      </form>
+      <sense>
+        <def>становиться горьким, принимать от порчи горький вкус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гъркнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться горьким, горкнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, 
+производный от прилаг. <ref type="etymon" target="gorbfo">*gorbfo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

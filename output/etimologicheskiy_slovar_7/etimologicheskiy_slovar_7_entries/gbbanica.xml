@@ -1,0 +1,75 @@
+<Entry xml:id="gbbanica">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbanica</orth>
+    <lemma>gbbanica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>баница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>слоеный пирог с сыром, маслом и т. д</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>баница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>слоеный пирог с мясом, брын­ зой и т. д. , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гъба</ref>]нца</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(К. Пеев. За македон- ската диалектна лексика. — MJ XXI, 1970, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>gubanica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краюха белого хлеба, рождественский хлеб , bgdnca ж. p. печеное изделие из теста .— Ср. сюда же, с отличием в суф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Narodo- pisje Slovencev» I, 195)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(толминск., Strekelj. Lj. Zv. IX, 1889, 98—99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. (<ref>карп</ref>.) баник</orth>
+      </form>
+      <sense>
+        <def>слоеная лепешка, см. Э. Балецкий</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Об одном из названий слоеного пирога у сла­ вян.— Studia slavica X, 1964, 1 сл.; далее, ср. сербохорв. диал. гбарник 'вид кушанья' (Djk. 277).</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> 
+от прич. страд, прош. *čъ&amp;тъ (суб­
+стантивация последнего) от гл. <ref type="etymon" target="gbbati">*gbbati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="gybanica">*gybanica</ref>
+    </xr> 
+(см.).</note>
+</Entry>

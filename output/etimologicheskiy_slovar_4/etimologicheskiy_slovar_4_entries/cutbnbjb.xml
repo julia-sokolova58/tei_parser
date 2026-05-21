@@ -1,0 +1,80 @@
+<Entry xml:id="cutbnbjb">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cutbnb(jb)</orth>
+    <lemma>cutbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чутен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>знаменитый, славный , сло­ вен. cuten, -tna, прилаг. чувственный, чувствительный, замет­ ный, ощутительный , cuten бдительный , cutdn, -tna, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>citny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуткий, чувстви­ тельный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чуткий</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>слышный, чуткий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I V , 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чутны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>слышный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. Белявский. Народный говор уездного города Глухова (Черниговской губ.).-— РФВ L, 1903, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чутны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громкий, слышный (голос)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 345)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="cuti">*cuti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

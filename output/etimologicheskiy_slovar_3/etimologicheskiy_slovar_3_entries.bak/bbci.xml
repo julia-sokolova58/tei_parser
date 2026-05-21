@@ -1,0 +1,111 @@
+<Entry xml:id="bbci">
+  <pb n="107" end_page="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbci</orth>
+    <lemma>bbci</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. *Ьъсьуе</orth>
+    <lemma>род. п. *Ьъсьуе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>БЪЧАБА</ref> Ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка , БčЧАБЛ ж. р. кадка, бочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бъчва</ref>, бъчева, бъчова, ббчва, бачова ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бочва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бачва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>Баранья</ref>)</orth>
+      </form>
+      <sense>
+        <def>перо про­ росшего репчатого лука, на котором находится сверху семя, bacva ж. р. бочка, кадка, dolium , бачва ж. р. бочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., R J A I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bacva</ref> ж. p., bdeev, род. п. -eve, ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка, чан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bedva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>бъчъвь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бочка, dolium , сюда же ум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Нест. Жит. Феод., Срезневский I, 201; Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бачбвка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянная точеная стопочка, стоячок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., Д а л ь 3 I, 141)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно объясняется как заимствование из герм., ср. др.-в.- нем. botahha, нем. Bottich 'чан, кадка' (более точное соответствие *butihha не засвидетельствовано). См. С. С. Uhlenbeck AfslPh XV, 1893, 484; Miklosich 25; Berneker I, 105 (указывает также на значительные фонетич. трудности этой этимологии); Преобр. I, 40; Bruckner 19; Stender-Petersen. Slavisch-germanische Lehn- wortkunde (Goteborg, 1927: ввиду указанных трудностей пред­ полагает гипотетическое герм. *bukjd, см. М. В. Сергиевский И Р Я С II, 1929, 356); Kiparsky. Die gemeinslav. Lehnworter aus dem Germanischen 231—232 (в качестве источника называет древнюю форму, соответствующую нем. диал. (бав.) Butschen, Bittschen 'сосуд с крышкой'); Sjawski I, 29; Г. А. Ильинский ИОРЯС X X I I I , 1921, 210—211 (считает *Ъъс1 исконным слав, словом, из *bheu- 'надуваться' с расширителем -к- ср. сюда же сербохорв. bakvica 'жбан' *Ьък-); Фасмер I, 202 (склоняется к мысли Ильинского); Младенов Е П Р 54; Георгиев Б Е Р II, 105; Machek 2 49 («Слово наверняка заимствованное, однако неясно — откуда и когда; фонетические трудности слишком большие . . . Формы на -V- могут быть аналогического происхождения по типу lagbvb»); Skok. Etim. rjecn. I, 86 (вслед за рядом предшественни­ ков принимает происхождение из народно-лат. buttia от buttis, с отражением Щ как с, ср. сербохорв. гасип &lt;^ лат. rationem и т. п.); см. еще Hubschmid. Schlauche und Fasser (Bern, 1955) 51—52; F. Liewehr ZfS I, 1956, 15 (автор присоединяется к тем, кто считает слово исконным, добавляя новые аргументы: *Ьъс1 выступает в знач. 'русло', а также в роли гидронимов; Ливер видит в *Ьъсг-, *Ьък- экспрессивную метатезу формы типа русск. куб, др.-инд. kumbhd-, греч. хорное с последующей пала­ тализацией; ср. в принципе так уже Otr^bski. Studia indoeuro- peistyczne 189).</note>
+</Entry>

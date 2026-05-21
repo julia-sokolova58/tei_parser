@@ -1,0 +1,30 @@
+<Entry xml:id="godeti">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*godĕti</orth>
+    <lemma>godĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gozeu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>годиться, приходиться; быть впору, бывать годным, полезным, удобным, приличным, приятным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 308)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, 
+образованный на базе стар, 
+нареч. 
+<ref type="etymon" target="gode">*gode</ref> (см.) или сочетаний с ним.</gram>
+  </gramGrp>
+</Entry>

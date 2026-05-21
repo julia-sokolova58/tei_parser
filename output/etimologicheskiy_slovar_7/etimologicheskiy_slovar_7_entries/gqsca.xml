@@ -1,0 +1,188 @@
+<Entry xml:id="gqsca">
+  <pb n="88" end_page="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsca</orth>
+    <lemma>gqsca</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqscb</orth>
+    <lemma>gqscb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гушта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гуща, чаща , также гушНа ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 790)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 792)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gusc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>куст</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cres, ср. М. Ten tor 1Ф V, 1925—1926, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чаща (кустарник, лес), гуща, осадок, молозиво , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>husce</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>housf</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чаща</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>husc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>густое питье , сюда же производное houska чаща, густой лес , -елвц. hustf ж. р. заросли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubfn. Cech. klad. 179)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gqszcz</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>заросли, чаша, сгуща, осадок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Doroszewski II, 1076)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gq</ref>- szcza ж. р.</orth>
+      </form>
+      <sense>
+        <def>чаща , g$szcza ж. р. чаща, гуща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Doro­ szewski II, 1118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gqscauyK</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>чаща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Гуща</ref>, личное имя собств. , гуща</orth>
+      </form>
+      <sense>
+        <def>гуща, густое кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1495 г., Писц. II, 695, Тупиков 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., СлРЯ XI—XVII вв. 4, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гуща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо густое; чаща; осадки, подонки, (новг., пек., твер.) густая похлебка, ка­ шица из ячменя с горохом, (новг.) род густой саламаты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1014)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гуща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вареный ячмень (пек.), житная каша (пек.), густо свареная похлебка из гороха и ячменя (твер.), пир на новоселье (твер.) , каша из ячменя , творог {Куликовский 18; Г. Потанин. Этнографические заметки на пути от г. Никольска до г. Тотьмы.—ЖСт IX, 1899, 227; Копорский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тихвин, у. Новгор. губ. Труды МДК. — РФВ LXXI, 1914, 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>О говоре севера Пошехоно-Володарского у. Яросл. губ. 106), 'осадки от кваса', 'кушанье из обтолканного ячменя', 'густое хо­ рошо приправленное' кушанье' (Добровольский 155), 'густой оса­ док', 'густой лес, чаща', 'мокрота, сырость' (Деулинский словарь 134; подробный обзор значений и употреблений см. Филин 7, 250—251), ст.-укр. Гуща, личное имя собств. (1449 г., Словник ст.-укр. мови X I V — X V ст. I, 269), укр. гуща ж. р. 'гуща, по­ донки, осадок', 'чаща, густое место' (Гринченко I, 344), блр. гушча ж. р. 'гуща', диал. гушча ж. р. 'ячменная крупа и ку­ шанье из нее', 'гуща, густая часть кушанья' (Шаталава 47).</note>
+  <gramGrp>
+    <gram>Производное с суф. -/- от прилаг.<ref type="etymon" target="gosfo">*gosfo</ref> 
+(см.) # 
+^gqscara/^gqScarb: сербохорв, гуштара 
+ж. р. 'чаща', диал. 
+гуштар, 
+род. п. -ара, 
+м. р. 'густая трава, густой кустарник, чаща, за­
+росли' (РСА III, 776—777), словен. goscera 
+ж. р. 'чаща' (Plet. I, 
+239), польск. редк. gqszczar 
+м. р. 'чаща' (Warsz. I, 813), русск. 
+диал. гущара 
+ж. р. 
+'чаща леса' 
+(пек., новосиб., Филин 7, 251), 
+гущера 
+ж. р. 'густое, непроходимое место в лесу; чаща' (Деулин­
+ский словарь 134), блр. гушчар 
+м. р. 'чащоба'.—Ср. также болг. 
+(Геров—Панчев) г&amp;стер 
+м. р. 'гуща, чаща'.</gram>
+  </gramGrp>
+  <note>Производное с суф. -j-ara- от прилаг.<xr type="compare">см. <ref type="etymon" target="ggstb">*ggstb</ref>
+    </xr>. Ср. Miklo-
+sich. Vgl. Gr. II, 88.</note>
+</Entry>

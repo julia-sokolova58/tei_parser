@@ -1,0 +1,114 @@
+<Entry xml:id="cuxn9ti">
+  <pb n="130" end_page="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuxn9ti</orth>
+    <lemma>cuxn9ti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>cdhnuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>flare, нюхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., RJA II, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuhniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ужариваться 1 , во­ нять, издавать дурной, тухлый запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cichnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обнюхать, вонять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cuchnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дурно пахнуть, вонять, брызгать , cachnot обнюхать, вонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gre­ gor. Slov. slavkov.-bucov. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cuchnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обнюхать (о собаке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cuchnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вонять, издавать зловоние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1043)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сау</ref>]гоце</orth>
+      </form>
+      <sense>
+        <def>дурно пахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чухнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приходить в затхлое состояние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1383)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, соотносительный с <ref type="etymon" target="cuxati">*cuxati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Нет надобности объяснять словен. слово из особого *tjux- (так см. Bezlaj. Slo- venski jezik v luci leksikologije 87—88; Bezlaj. Etyma slove- nica 170).</note>
+</Entry>

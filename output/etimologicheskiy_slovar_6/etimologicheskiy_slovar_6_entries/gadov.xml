@@ -1,0 +1,86 @@
+<Entry xml:id="gadov">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadovъ</orth>
+    <lemma>gadovъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гидов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>змеиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gddov</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гадючий, змеиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hadovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>змеиный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 403)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. поэт., редк. <ref>hadovy</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hadoui</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>змеиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszant6 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gadowy</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 791)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гадовий</ref>, -a, -e</orth>
+      </form>
+      <sense>
+        <def>змеиный, свойственный гаду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 264)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

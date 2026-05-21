@@ -1,0 +1,122 @@
+<Entry xml:id="groxotati">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groxotati</orth>
+    <lemma>groxotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грохотя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грохотати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко смеяться, хохотать, греметь, грохотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 687)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grohotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать, grohotdti se разражаться хохотом, ржать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrochotati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, трещать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 496)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grochotac</ref>, gruchotad</orth>
+      </form>
+      <sense>
+        <def>грохотать, греметь, ломать с треском, крушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 908, 919)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>greyuQtdc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гре­ меть, разбивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грохотати</ref>, грохочи</orth>
+      </form>
+      <sense>
+        <def>шуметь, кричать , грохотатит хохотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пчел. И. публ. б. л. 117, Срезневский III, 80')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 27; Ефр. Сир. XIV в., Срезневский I, 598)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грохотать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>производить грохот, шум</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грохотать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русск. донских говоров 1, 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от имени <ref type="etymon" target="groxofo">*groxofo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

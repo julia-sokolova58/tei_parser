@@ -1,0 +1,211 @@
+<Entry xml:id="gleznagleznoglezn">
+  <pb n="118" end_page="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glezna/*glezno/*gleznъ</orth>
+    <lemma>glezna/*glezno/*gleznъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glezno</orth>
+    <lemma>glezno</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gleznb</orth>
+    <lemma>gleznb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>глезлыд</ref> ж. p. acpopov, planta, talus</orth>
+      </form>
+      <sense>
+        <def>щиколотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глёзен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лодыжка , также глёзна ж. р. , глёзънъ м. р. лодыжка, также глезна ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глёжен</ref>* м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глезен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>щиколотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глежагь</ref>, род. п. -жтъа, м. р.</orth>
+      </form>
+      <sense>
+        <def>щиколотка, glezno ср. р. то же , также glijezan, род. п. -zna, м. p. , глежно ср. р. , глежно, глёзно ср. р. , глёжагь, глёжан&gt;, род. п. -жгьа, м. р. щиколотка, лодыжка, кость голени , глёзан, -зна, м. р. щиколотка , глёжтъа ж. р. сустав (вообще) , глйжан? , глёжатъ, глёжеть также в знач. меры глубины погружения — до глежауьа по щиколотку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 195)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 197)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 374)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 347)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла]инац И, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>yliezno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щиколотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glezenj</ref>, род. п. -znja, м. р.</orth>
+      </form>
+      <sense>
+        <def>щиколотка, запястье , также glezen, род. п. -zna, м. р. , glezno ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hlezno</ref> ср. р., Ые- ъеп, род. п. -zna, м. р.</orth>
+      </form>
+      <sense>
+        <def>лодыжка, щиколотка , hlezna ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 427)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст.-чеш., Прага; Simek 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlezen</ref>, род. п. -zna, м. p., hlezno ср. p.</orth>
+      </form>
+      <sense>
+        <def>щиколотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glozonk</ref>, glozonka</orth>
+      </form>
+      <sense>
+        <def>лодыжка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Sf. I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>glozna</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>локтевой сустав, щиколотка, кость голени, лодыжка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 837)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глезна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лодыжка, пята , глезно, глЪзно, глезнъ то же , глЪзнъ срХеуца , Глезнъ, личное имя собств. , ср. еще местн. название Глезна, деревня в бывш. Новоград-Волынск. у. Волынск, губ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деян. III. 7; Жит. Григ. Арм. 23, Срезневский I, 519)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Февр. Мин. Чет. июн.; Прол. май 24; Жит. Еутх. 51. Мин. Чет. апр. 129, Срезневский I, 519)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Златостр. сл. 23, Срезневский I, 523)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geogra- phisches Namenbuch II, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глёзень</ref>, род. п. -зня, м. р.</orth>
+      </form>
+      <sense>
+        <def>вид растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Смаль-Стоцький «Slavia» 5, 1926, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сближают с лит. slesna 'подъем ноги', slesnas 'лодыжка', но ввиду отсутствия здесь регулярных фонетич. соответствий вы­ сказывалось также мнение о том, что лит. слово — искаженное заимств. из слав. См. Лескин в: Fraenkel II, 829. Можно допускать, что праслав. *glez№ продолжает дослав. *glegn-, на основе чего можно принять сравнение с др.-исл. Jclakkr ском, пятно', норв. Ыакк то же, шв. диал. klakk 'ком, бугор в поле', 'пятка у башмака', ср.-в.-нем. klac 'пятно, клякса'. См. Berneker I, 302; Преобр. I, 125; Фасмер I, 411; Георгиев БЕР IV, 248 (сближается с др.-инд. gldha- 'вид игры, первонач. в кости'; против этой мысли, восходящей к Махеку, см. Мауг- hofer I, 354); Skok. Etim. rjecn. 1,569; Machek 2167—168; SJawski I, 286; Rudny6kyj I, 641—642. Прочие этимологии менее убеди­ тельны, см. напр. В. Сор SR XIII, 1961/1962, 204 (*glezn- &lt; *legz- п- &lt; *leks-n- I *leks-en-, по закону Цупицы, ср. греч. Хоč6&lt;; 'изо­ гнутый', далее ср. и.-е. *elek- в лит. uolektis, alkvne 'локоть', арм. olok* 'голень, нога').</note>
+</Entry>

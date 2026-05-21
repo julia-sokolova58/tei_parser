@@ -1,0 +1,28 @@
+<Entry xml:id="borotina">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borotina</orth>
+    <lemma>borotina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>borotina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пасека</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Merica passyeka uel bo- rotyna. Кар. 1616 f 10 га., I пол. XV в.—Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Согласно предположению Ж. Ж.</note>
+  <gramGrp>
+    <gram>Варбот, сложение<ref type="etymon" target="og-3">*Ьогъ</ref> 
+(см.) и основы презенса гл. <ref type="etymon" target="t-4">*t</ref>$ti (см.) с удлинением гласного, т. е. 
+'место, где вырублен бор', ср. аналогичное в семантич. плане 
+<ref type="etymon" target="paseka">*paseka</ref> (русск. пасека и др., см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, распространен­ ное местное название Borotin, в частности — деревня в Моравии (см. Vazny. Stfedovek. list. 7), посессивное производное с суфф. -in- от названия лица.</note>
+</Entry>

@@ -1,0 +1,189 @@
+<Entry xml:id="cetvbrtbjb">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetvbrtb(jb)</orth>
+    <lemma>cetvbrtb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>четь</ref>^АТ^, числ. quartus</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>четверти</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ III, 617)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>четврт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чётвртй</ref>, -та, -то</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с ХП в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cetrti</ref>, числит, порядк.</orth>
+      </form>
+      <sense>
+        <def>четвертый , cetvrt , также stfti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctvrty</ref>, числ. порядк.</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>stvrty</ref>, числ. порядк.</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ IV, 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>stworty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 729)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>stworty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвертый , по- лаб. citorte четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka S . II, 559)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 47, с реконструкцией *cetvftbjb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>cztwarty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. 1, 404)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czwarty</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cujdrti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвер­ тый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>четвъртыи</ref>, четвръ- тыи, четвертый</orth>
+      </form>
+      <sense>
+        <def>четвертый, следующий после третьего , сюда же четвьртъ, четверть четверг (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский III, 1510—1511)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1151 г., Срезневский III, 1509)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четвертый</ref>, -ая, -ое, числ. порядк. к четыре</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>четвёртий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 460)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чацвёрты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четвертый</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *сеЬиъНъ восходит к и.-е. *k~eturto- / *№eturto-, ср. также лит. ketviftas, лтш. cetuftals, др.-в.-нем. fiordo, др.-инд. caturthd-, греч. тзтарто;, лат. quartus, тох. A. start. См. Miklo- sich 36; A. Ernout MSL 13, 1905, 318; A. Meillet MSL 14, 1907, 382; Berneker I, 153; W. Porzezinski RS IV, 1911, 6; A. Meillet BSL 23, 1922, 35; он же. Des noms de nombre ordinaux en indo- europeen. — BSL 29, 1928, 34, 36—37; Trautmann BSW 132; W. Petersen «Language» 15, 1939, 98; Pokorny I, 643; Фасмер IV, 352; О. Szemerenyi. Studies in the IE system of numerals (Heidel­ berg, 1960).</note>
+</Entry>

@@ -1,0 +1,35 @@
+<Entry xml:id="gologozj">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gologǫzъ(jь)</orth>
+    <lemma>gologǫzъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голог</ref>&amp;зый, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гологузый, обор­ ванный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гологузый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>у кого голый зад или корот­ кая одежда или куртка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 919)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг-ных<ref type="etymon" target="goH-3">*goH</ref> (см.) и *-даъ (см. <ref type="etymon" target="ggzb">*ggzb</ref>, ниже).</gram>
+  </gramGrp>
+  <note>По типу ср. остальные сложные прилаг-ные с первым компонен­ том *golo-.</note>
+</Entry>

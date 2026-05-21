@@ -1,0 +1,33 @@
+<Entry xml:id="bitelb">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bitelb</orth>
+    <lemma>bitelb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bitel</ref>, bitel</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(bytel *arbo — Slovnik Prespursky, XIV в., Gebauer I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bitel</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>тот, кто бьет; чеканщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Faber. Rukop. slovnik cesko-nemec; bot. bitel, arba. Rkp. Wodn., Jung­ mann I, 127)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Слабо засвидетельствованное имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-telb</ref>
+      </m> от гл. <ref type="etymon" target="sh-2">*ЪШ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

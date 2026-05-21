@@ -1,0 +1,47 @@
+<Entry xml:id="bezkridlbivbjb">
+  <pb n="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkridlbivb(jb)</orth>
+    <lemma>bezkridlbivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёскрйлан</ref>, -лна, -лно</orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 490)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezkrilen</ref>, -Ina, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бескрылый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бескрылъный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого или у чего нет крыльев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль * I, 160)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- от сложного прилаг.<ref type="etymon" target="bezkridlb">*bezkridlb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Эта производность, а также меньший, сравнительно с непроиз­ водной основой, ареал говорят как будто о более позднем обра­ зовании данного прилаг-ного.</note>
+</Entry>

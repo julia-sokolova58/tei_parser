@@ -1,0 +1,55 @@
+<Entry xml:id="sga">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬсгьЬа</orth>
+    <lemma>ЬсгьЬа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>берба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сбор, уборка: время уборки (плодов)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р , Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>берба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>с б о р урожая; время сбора у р о ж а я</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бёрба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>с б о р вино­ града</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ЪёгЪа</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. именное производное с суфф.<m type="suffix">
+        <ref>-ъЪа</ref>
+      </m> от презентной основы 
+ber- (см. <ref type="etymon" target="gay-2">*Ьъгай)</ref>.</gram>
+  </gramGrp>
+  <note>Не исключено новообразование, ограниченное ю.-слав. языками, причина которого, возм., коренится в сдвигах значения более старых образований вроде *Ьогъ,<xr type="compare">см. <ref type="etymon" target="5og">*5ъЬогъ</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,241 @@
+<Entry xml:id="drobnj">
+  <pb n="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobьnъ(jь)</orth>
+    <lemma>drobьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref> ^ О Б А И ^ , прилаг. Хетсто?, exiduus</orth>
+      </form>
+      <sense>
+        <def>мелкий (напр. песок)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad., SJS: Супр.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">болг. стар. , обл. <ref>дробен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий , сюда же субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР, РБЕ, см. также Дювернуа; Геров: дробный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дробен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ку­ сок хлеба, ком масла, кусок сыра , дробен* м. р. ком земли , дрббън м. р. ломоть (арбуза, дыни, тыквы)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Попгеоргиев БД I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дробен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрдбан</ref>, -бна, -бно</orth>
+      </form>
+      <sense>
+        <def>мелкий, частый, ломкий, рассыпчатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>droban</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ма­ ленький, мелкий, крохотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>droben</ref>, -bna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий, маленький , также drobdn, -bna</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dromdn</ref>, прилаг. то же (§trekelj И)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drobny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drobny</ref> ро hube</orth>
+      </form>
+      <sense>
+        <def>испитой, худой с лица , drobny мелкий, малорослый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ka§ik. Stfedobecev. 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drobny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drobny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий, жидкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drobny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drobny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 374—375)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>droubni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий , сюда же субстантивированные dremnau ж. p. карлица , dromM ср. p. карлик, гном</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 203)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дробьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кир. Иерус. XII в.; Пал. XIV в. 27, Срезневский I, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дроб</ref>­ ный</orth>
+      </form>
+      <sense>
+        <def>мелкий , здоровый, тучный , мало­ рослый, слабый, тщедушный (о человеке, животном); маленький, мелкий (о предмете)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Белев, у., Е. Ф. Будде. О некоторых народных говорах в Тульской и Калужской губерниях. — ИОРЯС III, 1898, 852)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., орл., тул., калуж., брян., донск., самар., каз., ряз., смол., пек., Филин 8, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрЬбнйй</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>мелкий, дробный, небольшой, маленький, густой, частый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дробны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкий, некрупный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от основы drob- (см. <ref type="etymon" target="drobb-2">*drobb</ref>, 
+<ref type="etymon" target="drobb-2">*drobb</ref>, <ref type="etymon" target="drobiti">*drobiti)</ref>.</gram>
+  </gramGrp>
+</Entry>

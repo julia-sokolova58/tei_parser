@@ -1,0 +1,78 @@
+<Entry xml:id="gordjaninT">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordjan(in)T</orth>
+    <lemma>gordjan(in)T</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гр</ref>&amp;жь&amp;ниыъ м. р. ттоХст^д, civis</orth>
+      </form>
+      <sense>
+        <def>горожанин, гражданин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zogr., Маг., As., Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гражданин</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гражданин, горожанин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гръжанин</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гра</ref>- ганин м. р.</orth>
+      </form>
+      <sense>
+        <def>гражданин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грЩанин</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жи­ тель крепости, сюда же Graddni мн., название племени, братства и селения в Черногории</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 376)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grajan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>житель крепости, горожанин, гражданин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Hrazany, название селения (Profous I, 676—677), польск. редк. grodzianin, grodzanin м. р. 'житель крепости, замка' (Warsz. I, 909), в.-луж. hrodzan м. р. 'житель замка, крепости' (Pfuhl 221), др.-русск. горожанинъ 'житель города' (Р. Прав. Яросл.; Смол, гр. 1229 г., 2-ой сп.; Гр. Смол. кн. Ал.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. ок. 1297—1298 г., Срезневский I, 559), русск. горожанин м. р. 'городской житель вообще' (Даль 3 I, 241). Производное с суф. -]ап(т)ъ (название лица) от<ref type="etymon" target="gordb">*gordb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

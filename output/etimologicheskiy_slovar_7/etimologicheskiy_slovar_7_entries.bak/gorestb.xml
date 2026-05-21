@@ -1,0 +1,141 @@
+<Entry xml:id="gorestb">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gor'estb</orth>
+    <lemma>gor'estb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>горбстл</ref>, Г О ^ Ю С Т А Ж . p. тихрьа, rcixpov, amarities</orth>
+      </form>
+      <sense>
+        <def>горечь, горесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ебрест</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горесть, печаль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдрёст</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PGA III, 481, с указанием на русск. происхождение; RJA III, 280: «слово старое... Встреч, только в книгах на церк. или мешаном языке и в словарях Стулли и Даничича»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horesf</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VII, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gorzysc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Maciejewski, Chetm.-dobrz. 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>горесть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горечь (Втз. X X I X . по сп. XVI в.) горе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 216; Панд. Ант. XI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 554; Картотека ДРС: горесть и кислость явится во ргЬ. Леч, № 3, 1672, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>горесть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь, горе, скорби, печали, тоска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 934)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горесть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горький вкус, горечь (арх., перм., свердл., ср.-урал.), желчь (брян., смол.) , горесть ж. р. горький вкус, го­ речь , гбресъ горечь (Карто­ тека Словаря белозерских говоров), гбрость горечь (Картотека Печорского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской обл. 116; Картотека Псковского областного словаря)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гбргсть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь (о вкусе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбрасць</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от именной основы в адъективной функ­
+ции (см. <ref type="etymon" target="gorbkb">*gorbkb</ref>, 
+<ref type="etymon" target="gorbjb">*gorbjb</ref>, 
+а также <ref type="etymon" target="gor-3">*gor</ref>'e).</gram>
+  </gramGrp>
+  <note>См. Vaillant. Gramm. сотрагёе IV, 373.</note>
+</Entry>

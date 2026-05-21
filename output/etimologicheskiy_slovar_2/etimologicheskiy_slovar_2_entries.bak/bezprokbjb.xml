@@ -1,0 +1,31 @@
+<Entry xml:id="bezprokbjb">
+  <pb n="41" end_page="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezprokbjb</orth>
+    <lemma>bezprokbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>беспрбкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>в ком, в чем нет прока; негодный, беспутный, неспособный , неумелый, беспомощный в работе, неуклюжий, неловкий, бессильный, немощный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 191)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-81">*bez</ref> (см.; там же — об 
+архаичности данного 
+словообразовательного 
+типа) и основы 
+<ref type="etymon" target="rgok">*ргокъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Адъективная функция этой последней в сложении *bezprokb свидетельствует, скорее, о древности образования, будучи архаич. характеристикой основы *ргокъ. Ср. этимологи­ чески тождественное лат. -procus в функционально тождественной роли второго компонента прилаг. лат. reci-procus 'возвратный'. Ср. далее Фасмер III, 373.</note>
+</Entry>

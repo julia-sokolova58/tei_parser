@@ -1,0 +1,241 @@
+<Entry xml:id="dusiti">
+  <pb n="164" end_page="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dušiti</orth>
+    <lemma>dušiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>душа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить , душа нюхать, обонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>душа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давить, угнетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. .Младенов БД III, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>души</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить , души нюхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>душити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить , душити благоухать, пах­ нуть , душити нюхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 61—62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA V, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dušiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить, глушить (огонь), тушить, томить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dušiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, тушить, томить, dusiti пахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 330, с пометой «па Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dusit</ref> se</orth>
+      </form>
+      <sense>
+        <def>клясться, божиться , dufyc душить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dusit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить, тушить, томить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>dusif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пахнуть протухлым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Банска Бистрица, SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dusyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить, глу­ шить, тушить, томить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dusye</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dusic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do­ rosz. И, 432—433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dasec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>душить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сдавливать горло, насильственно прекра­ щая дыхание; лишать жизни</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>душиться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задыхаться (о рыбе в закрытых водоемах зимой) , душить глушить (рыбу) (вят.), срывать (незрелые - плоды, ягоды) (курск., тул.), заставлять бежать слишком быстро (костр.), кашлять (челябин.) , дуейть душить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 283)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лит. ССР, Латв. ССР, Филин 8, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>душйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давить, душить, давить, жать ?, давить, притеснять , душй- тися задыхаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грднченко I, 460)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 460)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>душъщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Целесообразно, по-видимому, различать собственно каузативный гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>
+      <ref type="etymon" target="dusiti">*dušiti</ref> 'душить, давить', соотносительный с <ref type="etymon" target="dbxngti">*dbxngti</ref> / 
+<ref type="etymon" target="zadxngti">*zadъxngti</ref> se (см. Berneker I, 234; Z. Gotab. The grammar of Slavic 
+caus. 9) и несколько особое <ref type="etymon" target="dusiti">*dušiti</ref> 'нюхать, обонять', 'пахнуть', 
+производное от <ref type="etymon" target="duxb-5">*duxb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Различия между обоими видами *dusiti соблюдались в разное время и в разных языках различ­ ными способами. Возм., старым способом их различения являлась разница в ударении и интонации, ср. сербохорв. душйти 'ду­ шить', но душйти 'нюхать' (выше). В языках, стабилизировав­ ших ударение (зап.-слав.), различие осуществляется уже иначе: любопытно при этом отношение чеш. dusiti 'душить', но dusiti 'пах­ нуть', ср. соответственно слвц. dusif и dusW (выше). Ю.-слав. языки не знают здесь парности s и ё; можно предположить, что и в зап.-слав, она носит инновационный характер в силу местных условий. Вост.-слав. случаи на -s- являются, вероятно, полониз­ мами. Что касается зап.-слав., то формы на s типа польск. dusic представляют собой новообразование и отнюдь не архаизм, воп­ реки Славскому (см. Stawski I, 181). Маловероятна также особая этимологизация форм типа dusiti, см. напр. Machek 2 135 (автор говорит о праслав. *dgsati&lt;^*dgb-sati, ср. нем. Dampf: dampfen 'душить, подавлять'; слав, s в прочих слав, формах он считает «ошибочным»),</note>
+</Entry>

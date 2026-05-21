@@ -1,0 +1,62 @@
+<Entry xml:id="gojidlo">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gojidlo</orth>
+    <lemma>gojidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hojidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>целебное средство, лекарство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гоило</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>успокоение, укрепление , то, что дает жизнь (о муж­ ском члене) . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пролог X V в., Срезневский I, 541)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вопр. Кир., XIII в. ~ 1156 г. — Сл РЯ XI— XVII вв. 4, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гойлище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>откармливание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gojilec</ref>, род. п. -lea, м. р.</orth>
+      </form>
+      <sense>
+        <def>воспитатель, пестун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 713)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="gojiti-4">*gojiti</ref> (см.).</gram>
+  </gramGrp>
+  <note>О др.-русск. слове см. специально А. Соболевский «Slavia» V, 1927, 442. *gojik ,b: полаб. d'iijek м. р. 'врач, хирург' (Polanski—Sehnert 59, с реконструкций *gojikb), польск. диал. goik м. р. 'растение, залечивающее раны' (Warsz, I, 866), словин. стар, gojk м. р. 'знахарь' (Sychta I, 337). Производное с суфф. -(г)къ (имя деятеля) от гл.<xr type="compare">см. <ref type="etymon" target="gojiti-2">*gojiti</ref>
+    </xr>....</note>
+</Entry>

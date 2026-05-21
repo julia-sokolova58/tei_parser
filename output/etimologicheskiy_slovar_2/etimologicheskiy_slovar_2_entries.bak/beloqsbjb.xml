@@ -1,0 +1,89 @@
+<Entry xml:id="beloqsbjb">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beloqsb(jb)</orth>
+    <lemma>beloqsb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belovousy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоусый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biatowqsy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белоусый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белоусый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого белые, светлые усьГ , сюда же сущ. белоус м. р. про­ звище человека с белыми волосами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 386)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быову</ref>- сий</orth>
+      </form>
+      <sense>
+        <def>с белыми, светлыми усами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. фам. <ref>Бела</ref>- вус, Белавусау</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. (<ref>XVI</ref> в.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. (<ref>XV</ref>—XVII вв.), ст.-</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. (<ref>XVI</ref> в.) Белоус, соврем</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Белоусов</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Взрыла. Бела- руская антрапашм1я 2, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="dv">*двъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>По древности типа<xr type="compare">ср. <ref type="etymon" target="belo-">*belo-</ref>
+    </xr>
+§оЪъ (см. выше).</note>
+</Entry>

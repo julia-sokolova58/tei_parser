@@ -1,0 +1,108 @@
+<Entry xml:id="besitis">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besiti (s§)</orth>
+    <lemma>besiti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. в^<ref>гити</ref> с A p-atvsa&amp;ai, Xuxtav, furere, amentem esse</orth>
+      </form>
+      <sense>
+        <def>бесноваться, неистовствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>беса</ref> се</orth>
+      </form>
+      <sense>
+        <def>беситься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёсити</ref> се</orth>
+      </form>
+      <sense>
+        <def>неистовствовать, беситься, кичиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>besiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неистовство­ вать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biesic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздражать , biesic si$ беситься, сходить с ума, кипеть от злости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 153; Dorosz. I, 515)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бЪситист</ref> Saifiovav, а daemone agitari</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беситься</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сер­ диться, гневаться, быть в раздражении, в ярости, безудержно резвиться, шумно шалить, (о животных) заболевать бешенством, водобоязнью</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪситися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беситься, сходить с ума</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ев. Реш. 190 и др., Тимченко I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>б1сйтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беситься</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отыменный каузатив на - Ш , производный от<ref type="etymon" target="yov">*Ьёвъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Z. Got^b. The grammar of Slavic caus., 15.</note>
+</Entry>

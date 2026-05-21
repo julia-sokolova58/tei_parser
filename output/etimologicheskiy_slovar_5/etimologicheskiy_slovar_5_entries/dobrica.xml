@@ -1,0 +1,48 @@
+<Entry xml:id="dobrica">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrica</orth>
+    <lemma>dobrica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Добрица</ref> ж. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Реч­ ник на личните и фамилии имена у българите 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добрица</ref> ж. р. ста, которая добрая</orth>
+      </form>
+      <sense>
+        <def>, добрая фея, злой дух, вид народной вышивки , также Добрица м. и ж. р., личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 392)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дббрыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лицевая сторона ткани</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мшска-маладзеч. 46)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="dobra">*dobra</ref> (см. <ref type="etymon" target="dobrb-4">*dobrb)</ref>; суб­
+стантивация этого последнего.</gram>
+  </gramGrp>
+</Entry>

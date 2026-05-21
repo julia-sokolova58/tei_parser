@@ -1,0 +1,303 @@
+<Entry xml:id="ezeroezer">
+  <pb n="33" end_page="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ezero/*ezerъ</orth>
+    <lemma>ezero/*ezerъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ezerb</orth>
+    <lemma>ezerb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гезбро</ref> ср. p. XtjivT], 1асич</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёзеро</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёзаро</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев-Близнев БД III, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>езеро</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон., И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>je3epo</ref> ср. р. еозеро\ также jezer м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA IV, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezero/*ezerъ</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро , также jezer м. p. , jezera ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 370)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 369)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezero/*ezerъ</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Jazero</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jezer</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>болотистая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jezor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jazoro</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>озеро , стар, jezoro cp. p. , jazor м. p. озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 538)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 552)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jezioro</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jezoro</ref>, jezero ср. p.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jiezore</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>озеро</ref>, озоро</orth>
+      </form>
+      <sense>
+        <def>озеро , езеро, \езеро озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1016 г.; Златостр. XII в.; Сл. Дан. Зат.; Ряд. зап. п. 1314 г., Срезневский II, 635)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лук. VIII. 22. Остр, ев.; Илар. Зак. Благ., Срезневский И, 820)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>озеро</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>естественный водоём, замкнутый в берегах</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>озер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>озеро</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ббзера</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *ezero продолжает и.-е. *eghero- или *aghero-, хотя соотносительное<xr type="compare">см. <ref type="etymon" target="ezb">*ezb</ref>
+    </xr> позволяет выделить суфф. -ег- уже на 
+праслав. почве. Ср. лит. ezeras, dzeras 'озеро', лтш. ezers то же, 
+др.-прусск. assaran то же, греч. 'A^epwv, род. п. -ovxo;, 
+название 
+ряда рек, в т. ч. реки в преисподней, производное на -nt-, ср. 
+сюда же а^еробаюг uSaxa еХсоЦ, т. е. 'болотистые воды' (Гесихий). 
+Ср. еще этноним в Верхней Паннонии Oseriates, 'Oaepidxei; 'жи­
+вущие близ озера (Балатон)'. 
+См. Miklosich 105; W. Prellwitz ВВ XXIV, 1899, 106—107; 
+Berneker I, 455; J. Rozwadowski RS VII, 1914—1915, 19; J. Loe-
+wenthal AfslPh XXXVII, 1920, 383 (любопытно отнесение к той же 
+праформе и.-е. *aghero- др.-инд. ahar 'день' и греч. ш/рб?, откуда 
+и.-е. *aghero-m осмысливается как 'желтоватая вода', ср. др.-инд. 
+palvala-m 
+'пруд': лит. palvas 
+'бледножелтый'); P. Kretschmer. 
+Das -nt- Suffix. — «Glotta» 14, 1925, 97 и сл.; A. Meillet. Jezero, 
+jazb 
+(*čz*b). — BSL 29, 1928, 38—40 (сближает еще с арм. ezr 
+'предел, рубеж'); A. Mayer «Glotta» 24, 1936, 159; Фасмер III, 125; 
+V. Georgiev «В чест на акад. Д. Дечев» 14 (принимает и.-е. вар. 
+*eghero- и *dghero-)\ Frisk I, 200; Pokorny I, 291—292. позволяет выделить суфф. -ег- уже на 
+праслав. почве. Ср. лит. ezeras, dzeras 'озеро', лтш. ezers то же, 
+др.-прусск. assaran то же, греч. 'A^epwv, род. п. -ovxo;, 
+название 
+ряда рек, в т. ч. реки в преисподней, производное на -nt-, ср. 
+сюда же а^еробаюг uSaxa еХсоЦ, т. е. 'болотистые воды' (Гесихий). 
+Ср. еще этноним в Верхней Паннонии Oseriates, 'Oaepidxei; 'жи­
+вущие близ озера (Балатон)'. 
+См. Miklosich 105; W. Prellwitz ВВ XXIV, 1899, 106—107; 
+Berneker I, 455; J. Rozwadowski RS VII, 1914—1915, 19; J. Loe-
+wenthal AfslPh XXXVII, 1920, 383 (любопытно отнесение к той же 
+праформе и.-е. *aghero- др.-инд. ahar 'день' и греч. ш/рб?, откуда 
+и.-е. *aghero-m осмысливается как 'желтоватая вода', ср. др.-инд. 
+palvala-m 
+'пруд': лит. palvas 
+'бледножелтый'); P. Kretschmer. 
+Das -nt- Suffix. — «Glotta» 14, 1925, 97 и сл.; A. Meillet. Jezero, 
+jazb 
+(*čz*b). — BSL 29, 1928, 38—40 (сближает еще с арм. ezr 
+'предел, рубеж'); A. Mayer «Glotta» 24, 1936, 159; Фасмер III, 125; 
+V. Georgiev «В чест на акад. Д. Дечев» 14 (принимает и.-е. вар. 
+*eghero- и *dghero-)\ Frisk I, 200; Pokorny I, 291—292. позволяет выделить суфф. -ег- уже на 
+праслав. почве. Ср. лит. ezeras, dzeras 'озеро', лтш. ezers то же, 
+др.-прусск. assaran то же, греч. 'A^epwv, род. п. -ovxo;, 
+название 
+ряда рек, в т. ч. реки в преисподней, производное на -nt-, ср. 
+сюда же а^еробаюг uSaxa еХсоЦ, т. е. 'болотистые воды' (Гесихий). 
+Ср. еще этноним в Верхней Паннонии Oseriates, 'Oaepidxei; 'жи­
+вущие близ озера (Балатон)'. 
+См. Miklosich 105; W. Prellwitz ВВ XXIV, 1899, 106—107; 
+Berneker I, 455; J. Rozwadowski RS VII, 1914—1915, 19; J. Loe-
+wenthal AfslPh XXXVII, 1920, 383 (любопытно отнесение к той же 
+праформе и.-е. *aghero- др.-инд. ahar 'день' и греч. ш/рб?, откуда 
+и.-е. *aghero-m осмысливается как 'желтоватая вода', ср. др.-инд. 
+palvala-m 
+'пруд': лит. palvas 
+'бледножелтый'); P. Kretschmer. 
+Das -nt- Suffix. — «Glotta» 14, 1925, 97 и сл.; A. Meillet. Jezero, 
+jazb 
+(*čz*b). — BSL 29, 1928, 38—40 (сближает еще с арм. ezr 
+'предел, рубеж'); A. Mayer «Glotta» 24, 1936, 159; Фасмер III, 125; 
+V. Georgiev «В чест на акад. Д. Дечев» 14 (принимает и.-е. вар. 
+*eghero- и *dghero-)\ Frisk I, 200; Pokorny I, 291—292. позволяет выделить суфф. -ег- уже на 
+праслав. почве. Ср. лит. ezeras, dzeras 'озеро', лтш. ezers то же, 
+др.-прусск. assaran то же, греч. 'A^epwv, род. п. -ovxo;, 
+название 
+ряда рек, в т. ч. реки в преисподней, производное на -nt-, ср. 
+сюда же а^еробаюг uSaxa еХсоЦ, т. е. 'болотистые воды' (Гесихий). 
+Ср. еще этноним в Верхней Паннонии Oseriates, 'Oaepidxei; 'жи­
+вущие близ озера (Балатон)'. 
+См. Miklosich 105; W. Prellwitz ВВ XXIV, 1899, 106—107; 
+Berneker I, 455; J. Rozwadowski RS VII, 1914—1915, 19; J. Loe-
+wenthal AfslPh XXXVII, 1920, 383 (любопытно отнесение к той же 
+праформе и.-е. *aghero- др.-инд. ahar 'день' и греч. ш/рб?, откуда 
+и.-е. *aghero-m осмысливается как 'желтоватая вода', ср. др.-инд. 
+palvala-m 
+'пруд': лит. palvas 
+'бледножелтый'); P. Kretschmer. 
+Das -nt- Suffix. — «Glotta» 14, 1925, 97 и сл.; A. Meillet. Jezero, 
+jazb 
+(*čz*b). — BSL 29, 1928, 38—40 (сближает еще с арм. ezr 
+'предел, рубеж'); A. Mayer «Glotta» 24, 1936, 159; Фасмер III, 125; 
+V. Georgiev «В чест на акад. Д. Дечев» 14 (принимает и.-е. вар. 
+*eghero- и *dghero-)\ Frisk I, 200; Pokorny I, 291—292.</note>
+</Entry>

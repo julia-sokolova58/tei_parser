@@ -1,0 +1,70 @@
+<Entry xml:id="baliti">
+  <pb n="146" end_page="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baliti</orth>
+    <lemma>baliti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ba(d)liti</orth>
+    <lemma>ba(d)liti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шутить, проказничать , балитъ болтать , балитъ разговаривать, болтать . — Сюда не относится</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Труды МДК. Н . Соколов. Поездка в Тихвинский у. Новгор. губ. Словарик говора д. Пепт- н е в ы . — Р Ф В L X 1 I , 1909, 294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>baliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>mucum emittere, выпускать слюну , деноми- натив от</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бала</ref>, bale ми. ч. ж. p.</orth>
+      </form>
+      <sense>
+        <def>mucus, слюни , видимо, заимствовано из роман, языков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 164)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Недостаточно ясно (отсюда и двойственный вид реконструк­ ции), — происходит ли это слово от звукоподражат. элемента bal- (см.<ref type="etymon" target="balaguriti">*balaguriti</ref>, <ref type="etymon" target="balamqtiti">*balamqtiti)</ref> или же оно может быть понято 
+как <ref type="etymon" target="badliti">*ba(d)liti</ref>, 
+производного от именной основы <ref type="etymon" target="badl--2">*ba(d)l-</ref> 
+(см. ниже 
+<ref type="etymon" target="badlovati">*ba(d)lovati</ref>, 
+<ref type="etymon" target="badlbi">*ba(d)lb]i)</ref>, 
+с р . знач. 'болтать', а также ср. оты­
+менный 
+гл. с родственной основой лат. fabulare 
+'рассказывать'
+(: fabula 'беседа, рассказ' &lt; и.-е. <ref type="etymon" target="bhadhld">*bhadhld)</ref>, откуда, напр., исп. 
+hablar 'говорить, разговаривать
+5.</gram>
+  </gramGrp>
+  <note>Сравнение с балакать, балагур, баламут см. у Фасмера (I, 115), но отнесение им сюда же слова баять совершенно излишне в таком случае.</note>
+</Entry>

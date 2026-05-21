@@ -1,0 +1,128 @@
+<Entry xml:id="glusica">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glušica</orth>
+    <lemma>glušica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глушйцъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>уховертка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Ка- занлъшко. — БД V, 113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глушица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухая женщина, название некоторых растений, напр. дикая фига, смоква Ficus carica</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gluslca</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глухая женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hlusice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт сливы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlusica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт сливы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gluszyca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>самка глухаря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 853)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>глХшица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухой рукав реки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жал. гр. в. к. Вас Вас. Сп. Евф. м. ок. 1453 г., Срезневский III, 74; СлРЯ XI—XVII вв. 4, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глушица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>самка глухаря (сиб., север.), непроточный рукав реки, старица , растение Cotonaster vul­ garis L., сем. розанных (олон.), растение Leonurus cardiaca L., сем. губоцветных, пустырник сердечный , самка глухаря, глухой человек , сюда же многочисленные местн. и водные названия Глушица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Namenbuch II, 379; Worterbuch der russischen Gewassernamen I, 450—451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глушйця</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ра­ стение Lamium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="gluxb-5">*gluxb</ref> (см.), ж. p. <ref type="etymon" target="gluxa">*gluxa</ref>; 
+субстантивация.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,228 @@
+<Entry xml:id="dktirodp-ktere">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъkt’i, род. п. -kt’ere</orth>
+    <lemma>dъkt’i, род. п. -kt’ere</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -kt'ere</orth>
+    <lemma>род. п. -kt'ere</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъфи</ref>, род. п. -е^эе, ж. р. Ъо^Ч&gt;&gt; filia</orth>
+      </form>
+      <sense>
+        <def>дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъщеря</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дъштер</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж. р. , дьштеръ ж. р. , также чёрка ж. р. , кёра ж. р. дочь , кёрка ж. р. дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. БД VI, 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 272; Гълъбов БД II, 111; Геров: чёрка)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>йерка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь, дочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>кШ</ref>, род. п. кНёри, ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь, также шНй, шНёра (КарациЬ), 61, род. п. ceri ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 135—136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дашта</ref> ж. р. сдочь</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PGA IV, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>hci</ref>, род. п. hcere, ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь , hci/hcere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 785)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>del</ref>, род. п. dcefe, ж. p.</orth>
+      </form>
+      <sense>
+        <def>дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer 1, 214; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dcera</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь, стар, tci, род. п. tcefe, ж. р. невестка, сноха , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сёгса</ref> ж. р., сёгка ж. р.</orth>
+      </form>
+      <sense>
+        <def>девочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dcera</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>сбга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь , редк., книжн. сбга ж. p. , сбгка ж. р. дочь*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 349)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1041)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сбгка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. 1, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дъчи</ref>, дочй, дъци, дъчи, дчи</orth>
+      </form>
+      <sense>
+        <def>дочь , сюда же дъчъка, дочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Церк. уст. Влад. — по Син. сп.; Ефр. Крм. Вас. Вел. 203; Р. Прав. Влад. Мон. и мн. др., Срезневский 1, 762—763)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 282; Исх. Моис. XV—XVI вв., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дочь</ref>, род. п. дочери, ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дочй</ref>, доцй</orth>
+      </form>
+      <sense>
+        <def>дочь , дочй ж. р. дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 49; Куликовский 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., волог., ленингр., вят., сев.-двинск., арх., новг., перм., якут., сиб., новг., Филин 8, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доч</ref>, род. п. дбчерХ, ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь , также дочка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 436)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дачка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дочь, дочка</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Древнее и.-е. обозначение родства, основа на согласный, произ­ водное с суфф. -ter- (исходная основа убедительному анализу не поддается). Ср. др.-инд. duhitdr-, авест. dugodar-, duydar- 'дочь', арм. dusir, греч. гк^аттр, оск. futir, гот. dauhtar, лит. dukte, род. п. -efs, др.-прусск. duckti, тох. A ckacar, В tkacer 'дочь', лик. (A) kbatra 'дочь'. См. Н. Schweizer-Sidler KZ XII, 1863, 306; В. Delbruck. Uber das gotische dauhtar. —KZ XIX, 1870, 241 и сл.; Chr. Bartho- lomae. Ь Тахт]р. — KZ XXVII, 1885, 206—207; Miklosich 55; A. Meillet MSL 7, 1889, 58; он же MSL 8, 1893, 282; J. Schef- telowitz BB XXVIII, 1904, 301; Berneker I, 243—244; A. Meil­ let RES 11, 1922, 207; E. H. Sturtevant «Language» 19, 1943, 307; A. Martinet «Word» 12, 1956, 306; Трубачев. Слав. терм, родства 54—56; Pokorny I, 277; E. Laroche BSL 62, 1967, 48; Фасмер I, 533; E. P. Hamp. Sanskrit duhitd, Armenian dustr and IE internal schwa. — «Journal of the Amer. Orient. Soc.» 90, 1970, 228 и сл.; H. Schmeja. Zum idg. Wort fur Tochter. — «Opuscula slavica et linguistica», herausg. von H. D. Pohl (Klagenfurt, 1976) 393 и сл.; нов. этимология: О. Szemerenyi „Hermes u 105, 1977, 387.</note>
+</Entry>

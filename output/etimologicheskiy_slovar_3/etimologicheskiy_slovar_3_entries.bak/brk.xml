@@ -1,0 +1,245 @@
+<entries>
+  <entry xml:id="brk" xml:id="brk">
+    <pb n="128" end_page="129" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrkъ</orth>
+      <lemma>Ьъгкъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бърк</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ус , бърк м. р. мн. -ове, мясистые волокна вокруг рта у животных</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Георгиев; Геров: брьци мн. ч. 'раст. подо­ рожник')</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Младенов БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>ус, верх, острие какого-либо предмета</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 180)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brk</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>волос в бороде, ус, усик, побег</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 63; Slovar sloven, jezika I, 210)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brku.ip</ref>.</orth>
+        </form>
+        <sense>
+          <def>volitus(Ст.-чеш., Прага)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brk</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>нижняя часть стержня пера, brko ср. р. то же, также</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>brko</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Hruska. Slov. chod. 15)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brko</ref> ср. p.</orth>
+        </form>
+        <sense>
+          <def>крупное, маховое перо на крыльях и на хвосте , циал. brk м. р. помазок из связки гусиных перьев</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 132)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Matejcik. Vychodonovohrad. 137)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bark</ref> м. р., обычно barki мн.</orth>
+        </form>
+        <sense>
+          <def>плечи, плечевой пояс</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 351)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>борк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>стебло, ствол, дудка или очин пера</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(зап., Д а л ь 3 I, 281; Филин 3, 99)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>боркъ</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>плечо, плечевой сустав</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Арх. ЮЗР. 111, IV, 465—1650 г., Тимченко I, 125)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>ббрки</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бакенбарды . — Сюда же производное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Желеховский)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>брьчъхъ</ref> тсХбхацос coma, cincinnus</orth>
+        </form>
+        <sense>
+          <def>волосы головные , а также, возм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гр. Наз. XI в., Срез­ невский I, 185; Miklosich L P 46; Востоков I, 31)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>berkus</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>птица бородач Gypaetos barbatus</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 1056)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Бернекер без достаточных оснований разделяет праслав. 
+(откуда якобы 
+только 
+польск. 
+bark 
+'плечо'), 
+производимое 
+им 
+нерешительно от и.-е. 
+'нести', и праслав. *Ьъгкъ&gt; откуда 
+он выводит всю остальную слав, лексику со знач-ми 'ус', 'острие', 
+'росток', 'перо' и под., производя их от и.-е. *bher- 'быть острым'
+(см. Berneker 
+1, 108, 119). О родстве знач-й 'плечо' и 'ус' см. 
+(с аналогиями) О. Н. Трубачев 
+«Этимология. 1970» (М., 1972) 14. 
+Брюкнер объединяет все вообще отмеченные выше знач-я, считая 
+исходным знач. 'остриё', см. Bruckner 17; Stawski I, 27. Младе­
+нов (ЕПР 46, 53, 54) связывает болг. бърк(и 
+родственные) с бръв. 
+Георгиев ( Б Е Р 
+II, 
+102), 
+вслед 
+за 
+Славским, 
+толкует 
+от и.-е. 
+ср. нем. Borste 
+'щетина'. Известные уже объяснения ре­
+ферирует 
+Скок (см. Skok. Etim. rjecn. I, 212—213). Махек счи­
+тает вообще происхождение этого слова неясным, см. Machek
+2 66. 
+Судя по всему, перед нами — слав, новообразование, поэтому 
+сближать 
+и, 
+напр., 
+лат. 
+furca 
+'вилы' 
+(см. 
+Е. 
+Lewy 
+IF 
+X X X I I , 
+158; цит. 
+по 
+RS 
+VII, 
+1914—1915, 
+190; см. еще 
+F. Hartmann 
+«Glotta» 
+8, 1917, 295) было бы по крайней мере сом­
+нительно. Знач-я слав. *Ьъгкъ 
+по отдельным языкам и диалектам 
+являются, 
+по-видимому, 
+результатом 
+инновации 
+и 
+нуждаются 
+в изучении.</note>
+    <gramGrp>
+      <gram>Не исключено, 
+что знач. 'побег', 'стебель' и т. п. 
+(см. выше) развились 
+от 
+первоначального 
+обозначения 
+резкого 
+движения, броска, почему <ref type="etymon" target="gk-2">*Ьъгкъ</ref> 
+может быть поставлено в связь 
+с гл. <ref type="etymon" target="gkay">*Ьъгкай</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>См. близко уже F. Кореспу «Езиков. изслед-
+вания С. Младенов» 
+371. Семантич. 
+аналогии 
+развития 
+знач-я 
+'побег' и под. см. Ж . 
+Ж . 
+Варбот 
+«Русская 
+речь» 
+1968, 
+№4 , 
+92—93.</note>
+  </entry>
+</entries>

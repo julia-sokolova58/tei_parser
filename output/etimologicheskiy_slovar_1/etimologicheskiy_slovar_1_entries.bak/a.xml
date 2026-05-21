@@ -1,0 +1,54 @@
+<Entry xml:id="a">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а\'ъ</orth>
+    <lemma>а\'ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jae</ref> м. р. н выражении ни стрва ни jaea сни. слуху, ни д у х у</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jev</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>проявление, стар, jav свет, ясность, явность , нольск. jaw м. р. в выражении па jaw на свет божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 626)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(YVarsz. II, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яв</ref> м. р. в выражении на яву</orth>
+      </form>
+      <sense>
+        <def>в полном, здравом уме, в бодрствующем состоянии</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>яв</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>извещение, уведомление, сообщение (калуж., Карто­ тека Словаря русских народных говоров)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Будучи распространено относительно широко и представлено в диалектах, сущ.<ref type="etymon" target="ai">*аиъ</ref> имеет, однако, признаки 
+вторичного, 
+отглагольного образования 
+и в свете того, что нам 
+известно 
+о праслав. <ref type="etymon" target="ave">*ave</ref>, <ref type="etymon" target="aviti-3">*aviti</ref> (см.), не может возводиться к глубокой 
+древности.]</gram>
+  </gramGrp>
+</Entry>

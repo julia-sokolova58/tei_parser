@@ -1,0 +1,208 @@
+<Entry xml:id="druzina">
+  <pb n="134" end_page="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družina</orth>
+    <lemma>družina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^сужинд ж. p. arnica, oup^opia, societas</orth>
+      </form>
+      <sense>
+        <def>товари­ щество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отряд, дружина, компания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дружина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отряд гайдуков, напарник, товарищ, компаньон , дружина ж. р. спутник , дру­ жина ж. р., собир. товарищи , дружина ж. р. близкие , дружина ж. р. семья, спутник, домочадец, сожитель , дружйнъ ж. р. отряд гайдуков, компания, артель , дружина ж. р. ком­ пания (с. Паволче, Врачанско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Горов. Страндж. БД 1, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дружина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дружина, отряд (разбойников гайдуков)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дружина</ref>, дружина ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>компания, общество, друзья, товарищи, отряд, дружина, челядь, домо­ чадцы , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дружина</ref> ж. р. (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>družina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>домочадцы, семья, челядь, слуги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>družina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дружина, свита, вооруженная челядь вельможи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BrandI 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>družina</ref> ж. р. то же, елвц. druzina ж. р.</orth>
+      </form>
+      <sense>
+        <def>компания, сообщество, общество свита, дружина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>druzyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сообщество отряд, группа, компа­ ния</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дружина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>товарищ , товарищи, спутники , община (Р. Прав. Яр. по Син. сп.), дружина, ближайшие люди к князю , войско вообще , Дружина, личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прол. XIII в. 165, Срезневский I, 731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лук. И. 44. Остр, ев.; Пат. Син. XI в. 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 944 г.; Р. Прав. Влад. Мон.; Поуч. Влад. Мон. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Поуч. Влад. Мон.; Сл. Дан. Зат.; Псков. I л. под 1299 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 729—731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., Тупиков 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дружина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>группа, отряд, добровольное объединение, войсковое подразделение, боль­ шей частью в нерегулярных ополченских войсках, войско, рать, *druzi&gt;ba артель, товарищество</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дружила</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подруга, милая, любезная, друг, милый , артель, товарищество (новг., пск., арх.), партизанский отряд (новосиб.) , дружина м. и ж. р. друг, подруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(южн., зап., смол., новг., перм.. вят.^ волог., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дружина</ref> общ.</orth>
+      </form>
+      <sense>
+        <def>каждый из супругов — как муж, так и жена, ж. р. товарищи, дружина, слуги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дружина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>супруга, (собир.) шаферы на свадьбе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="drugb-4">*drugb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

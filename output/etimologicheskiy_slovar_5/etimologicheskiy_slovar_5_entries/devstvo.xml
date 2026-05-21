@@ -1,0 +1,87 @@
+<Entry xml:id="devstvo">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvьstvo</orth>
+    <lemma>dĕvьstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>девство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>девственность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djevstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>девственность , девство ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 469)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>devstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>девство, девствен­ ность , ст.-чегл. devstvo ср. р. девственность , сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ge- bauer I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>devstvi</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪвъство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>де­ вичество, девичья жизнь (Остр, ев.), девство, чистота, целомуд­ рие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 75; Нест. Бор. Гл. 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 782)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>целомудренное состояние или непорочность, (пек.) шалость, блажь, дурачество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1266; Филин 7, 319)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от <ref type="etymon" target="deva-7">*deva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

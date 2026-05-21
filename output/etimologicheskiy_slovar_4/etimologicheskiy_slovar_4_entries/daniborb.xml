@@ -1,0 +1,20 @@
+<Entry xml:id="daniborb">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>daniborb</orth>
+    <lemma>daniborb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Danibor</ref> м. p., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 206)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение основ<ref type="etymon" target="dartb">*dartb</ref> (см.) и *-Ьогъ.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,126 @@
+<Entry xml:id="segpk">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпъкъ</orth>
+    <lemma>сегпъкъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпъка</orth>
+    <lemma>сегпъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>strenka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черенок (ножа, вилки)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сгепку</ref> ж. р. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>черенок (ножа) , сюда же stfenko ср. р. то же , tfenko ср. р. то же , кгепко ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 311: sic)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. II, 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hosek. Cesko- morav. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crlenka</ref> ж. p.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>crenka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>черенок (ножа, вилки и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222—223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>сгопк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черенок ножа , cfonak м. p. коренной зуб; зуб мудрости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzonek</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>черенок, рукоятка, ручка, колодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>strounk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка, черенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 1113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черенок</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка какого-нибудь орудия</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черенки</ref> мн. ч. м. р.</orth>
+      </form>
+      <sense>
+        <def>черенок (ножа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чаранбк</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>черенок, черешок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ък- от<ref type="etymon" target="set">*сетъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,48 @@
+<Entry xml:id="bodblavbjb">
+  <pb n="156" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodblavbjb</orth>
+    <lemma>bodblavbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bodfav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bodlavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bod</ref>- lavy то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bodVavy</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ1аи- от основы<ref type="etymon" target="bod-">*bod-</ref> (см. <ref type="etymon" target="bosti-20">*bosti</ref>, <ref type="etymon" target="bodg-13">*bodg)</ref>.</gram>
+  </gramGrp>
+  <note>Возраст проблематичен. Ср. след.</note>
+</Entry>

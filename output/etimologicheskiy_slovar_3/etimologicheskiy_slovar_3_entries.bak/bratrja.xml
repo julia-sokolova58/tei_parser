@@ -1,0 +1,75 @@
+<entries>
+  <entry xml:id="bratrja" xml:id="bratrja">
+    <pb n="7" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bratrьja</orth>
+      <lemma>bratri»ja</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. в^<ref>дтрига</ref> ж. собир. oi dcSeXcpot, dSeX^onjs, f ratres, fraterni- tas</orth>
+        </form>
+        <sense>
+          <def>братья, братство, братия</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SJS)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">чеш. стар, <ref>bratri</ref>, bratfie ж. p .</orth>
+        </form>
+        <sense>
+          <def>братия</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Tomas ze Stitneho [и др.], Kott V—VI, 1059; VII, 1203)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb" type="old">стар. , редк. <ref>bratea</ref> ж. р. собир.</orth>
+        </form>
+        <sense>
+          <def>братья все вместе, брат­ ство . — Сюда примыкает</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka SI. I, 7 4 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bratf</ref> ж. р. со­ бир. гбратья, братство</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Tomas ze Stitneho, Kott I, 93)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с собир. суфф. -ь/а от основы <ref type="etymon" target="bratrb-2">*bratrb</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Древнее 
+образование, видимо, восходящее к и.-е. *bhratria 
+ж . р., откуда 
+и греч. eppaxptdc ж. р. 'братство', 'родовое товарищество', 'подразде­
+ление филы', см. Berneker I, 82; Boisacq
+1, 
+1036; Hofmann 403; 
+Frisk II, 1040; Трубачев. Слав. терм, родства 63. Особым морфол. 
+образованием является др.-инд. эпич. bhratryam 
+ср. р. 'братство', 
+возм., из и.-е. *bhratriom, 
+ср. Mayrhofer II, 532. 
+Особое положение занимает лат. fratria 
+ж. p. 'uxor fratris, жена 
+брата' старое глоссовое, напр. у Павла Феста, см. Walde-Hofm. 
+I, 542; Ernout—Meillet
+I, 448, кот., судя по знач., 
+видимо, 
+представляет собой самостоятельное лат, новообразование.</note>
+  </entry>
+</entries>

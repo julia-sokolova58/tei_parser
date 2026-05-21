@@ -1,0 +1,35 @@
+<Entry xml:id="globota">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbota</orth>
+    <lemma>glǫbota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globdta</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глу</ref>- бота ж. р.</orth>
+      </form>
+      <sense>
+        <def>протяжение по отвесу сверху вниз, от поверхности до дна; пропасть, бездна, пучина . — Ср. сюда же производное чет. Hlubotec, род. п. -tee, местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 879)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott V— VI, 310)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ota от основы *čЦЪ(окъ) (см.).</note>
+</Entry>

@@ -1,0 +1,183 @@
+<Entry xml:id="derm">
+  <pb n="208" end_page="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derm</orth>
+    <lemma>derm</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрян</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил Cornus mas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>др</ref>^ан м. р. то же , дрен м. р. то же , также дран м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил (дерево)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dpiijen</ref>, род. п. дрщена, м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дрйн</ref> , дрен, дрй]ен м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил Cornus mas , сюда же Дрен, род. п. Дрена, м. р., назва­ ние ряда сёл в Сербии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарапиЬ, RJA)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 688—689)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 688)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dren</ref>, род. п. drena, м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил Cornus mascula, бирючина Cornus sanguinea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кизил</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drien</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кизил Cornus mas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dren</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dfon</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дерен Cornus mas L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dren</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>терн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 55, с реконструкцией *йегаъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dfoun</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>терновник, терн, колючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дерён</ref>, дёрен м. р.</orth>
+      </form>
+      <sense>
+        <def>деревцо и плоды кизиль, Cornus mascula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1068)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерён</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кизил Cornus mascula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 369)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Несмотря на довольно чёткую структуру этого слав, слова (произ­ водное с суфф.<m type="suffix">
+        <ref>-пъ</ref>
+      </m> от гл. <ref type="etymon" target="derti">*derti</ref>, см.), не имеющего, к тому же, 
+сколько-нибудь вероятных точных соответствий за пределами слав, 
+языков (показатель инновационного характера), о нем высказыва­
+ются до последнего времени самые противоречивые мнения. По­
+мимо этимологии <ref type="etymon" target="dernb">*dernb</ref>:<ref type="etymon" target="derti">*derti</ref> 
+(Berneker I, 184, с оговорками; 
+ср. еще Фасмер I', 503), ср. сближение Беряекера (там же) 
+с др.-инд. dhardyati 'держит', лат. firmus 'крепкий', со ссылкой 
+на семантич. аналогию нем. Hart-riegel 
+'кизил, бирючина' : hart 
+'крепкий, жесткий'. Махек, с одной стороны, сближает праслав. 
+<ref type="etymon" target="dernb-2">*dernb</ref> 'Cornus mas' с др.-в.-нем. tyrn, dim то же, а с другой— 
+относит сюда же лат. cornus 'кизил', 
+заключая из их различий 
+об их «праевроп.» происхождении (см.</gram>
+  </gramGrp>
+  <note>Machek 2 131). Достаточно справиться в Walde-Hofm. I, 276—277, чтобы увидеть, что лат. слово объясняется иначе (из и.-е. *krnos).</note>
+</Entry>

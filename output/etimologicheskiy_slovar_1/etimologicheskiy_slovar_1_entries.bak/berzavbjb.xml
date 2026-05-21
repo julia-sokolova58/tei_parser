@@ -1,0 +1,49 @@
+<Entry xml:id="berzavbjb">
+  <pb n="202" end_page="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzavbjb</orth>
+    <lemma>berzavbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bfezavd</ref> (krdva)</orth>
+      </form>
+      <sense>
+        <def>корова, у которой спина и живот белые, а остальное — красное или черное , *berzribna</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brezavy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>белопестрый (напр. о волах, о ко­ рове) . — Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёзава</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>пеструха (о корове)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное адъективного характера, образованное с по­ мощью суфф. -аи- от основы<ref type="etymon" target="berz-">*berz-</ref> (см. подробно <ref type="etymon" target="berza">*berza</ref>, там же — 
+об адъективной природе этого образования и ее следах, 
+прежде 
+всего — в ю.-слав.).</gram>
+  </gramGrp>
+  <note>Древность скорее проблематична.</note>
+</Entry>

@@ -1,0 +1,38 @@
+<Entry xml:id="ogyik">
+  <pb n="194" end_page="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоГыикъ</orth>
+    <lemma>ЬоГыикъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>болнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>больной (человек)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ I, 75; Откакъ страда тойзи несчастный больникъ еще едн^ година, умр!з,... — С. Радулов. Нравоучение за децата, 1871. Архив Болг. возрож­ дения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бблнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>больной (человек), также ббнйк, ббнйк м. р. , бдланйк, бдленйк м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 46, 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соответствие ж. р. см. на<ref type="etymon" target="ogtsa">*ЬоГътса</ref>.
+словен. bolnik м. р. больной, пациент , bolenik м. р. то же , Производное (субстантивирующее) с суфф. -1къ от прилаг. <ref type="etymon" target="ogp-2">*ЬоГъпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

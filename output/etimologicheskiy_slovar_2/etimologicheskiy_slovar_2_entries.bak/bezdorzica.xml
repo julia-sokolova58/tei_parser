@@ -1,0 +1,25 @@
+<Entry xml:id="bezdorzica">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdorzica</orth>
+    <lemma>bezdorzica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бездорбжща</ref> щ. р.</orth>
+      </form>
+      <sense>
+        <def>распутица (вят., олон., твер., яросл., пек., костр., перм.), бездорожье, место, где нет дороги (вят., онеж., ярослав., иван., перм., курган.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 189)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-22">*bez</ref> 
+(см.) и суфф. -ica от основы имени <ref type="etymon" target="dorga">*dorga</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древность неясна.</note>
+</Entry>

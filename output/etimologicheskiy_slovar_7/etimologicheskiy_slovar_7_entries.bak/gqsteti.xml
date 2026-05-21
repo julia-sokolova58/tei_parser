@@ -1,0 +1,128 @@
+<Entry xml:id="gqsteti">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsteti</orth>
+    <lemma>gqsteti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъстёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>густети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть , gustjeti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 775)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosteti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>husteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 512)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>huscec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть, плотнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gescied</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 819)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gqscduc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть, плотнеть, толстеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>густеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгущаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1014)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>густгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гусцёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>густеть, становиться гуще</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="ggsfe">*ggsfe</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

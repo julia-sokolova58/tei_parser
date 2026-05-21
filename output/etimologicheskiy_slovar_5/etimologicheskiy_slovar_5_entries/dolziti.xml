@@ -1,0 +1,64 @@
+<Entry xml:id="dolziti">
+  <pb n="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolžiti</orth>
+    <lemma>dolžiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>длажити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>накладывать шину, лубок (на перелом)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dlaziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>pavire, мостить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст.-чеш., Прага; Gebauer I, 254—255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dldzditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мостить, настилать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dldzit</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dldzdW</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 272)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="dolga">*dolga</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

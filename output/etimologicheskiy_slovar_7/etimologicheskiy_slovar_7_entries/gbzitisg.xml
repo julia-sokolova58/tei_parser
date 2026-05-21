@@ -1,0 +1,62 @@
+<Entry xml:id="gbzitisg">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbziti (sg)</orth>
+    <lemma>gbziti (sg)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>gilt</ref> se</orth>
+      </form>
+      <sense>
+        <def>пугаться (о лошади)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kellner. Vy- chodolaS. И, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gaze</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>гоняется (о скоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 63, с реконструкцией *gbzi)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gzic</ref> щ</orth>
+      </form>
+      <sense>
+        <def>бегать (от укусов оводов), гоняться (в период течки)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gzdc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жалить (об оводах и др. насекомых), gzac sq носиться, бегать (от укусов оводов)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . 1, 323)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, обычно считаемый производным от <ref type="etymon" target="gz">*gъzъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср., однако, «рифмованное» образование *bbziti s? (см.), звукоподра- жат. происхождения, близость формы и значения которого делает возможным предположение о звукоподражательной природе и для *gbziti, *gbzb. Сравнение Миклошича с лит. guzeti 'кишеть' (Mik- losich 423) семантически не очень убедительно для разъяснения слав, слова со специфич. знач. 'гоняться, бегать (о скотине в пе­ риод течки либо от укусов оводов)', хотя именно это сравнение поддержано позднейшими исследователями, см. Berneker I, 373; Slawski I, 278, 387. Что касается лит. guzeti, для кот. указывают также знач. 'бежать беспорядочной толпой', то оно прежде всего связано апофонией с гнездом guz-, gauz- с семантикой кучности, массы, утолщения (см. Fraenkel I, 179), т. е. отлично по всем признакам от слав, *gъziti.</note>
+</Entry>

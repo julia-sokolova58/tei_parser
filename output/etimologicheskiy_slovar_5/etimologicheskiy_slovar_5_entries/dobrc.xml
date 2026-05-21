@@ -1,0 +1,42 @@
+<Entry xml:id="dobrc">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrьcь</orth>
+    <lemma>dobrьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ддбрац</ref>, род. и. -аца (добрца), м. р.</orth>
+      </form>
+      <sense>
+        <def>корь, сыпь, вид травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobrc</ref>, dobrec; род. п. -Ъгса, м. р.</orth>
+      </form>
+      <sense>
+        <def>яблоня, приносящая хорошие плоды , сюда же dobfci мн. м. р. корь , также dobrci</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PJet. I, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 433)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсь</ref>
+      </m> от ирилаг. <ref type="etymon" target="dobrb-18">*dobrb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

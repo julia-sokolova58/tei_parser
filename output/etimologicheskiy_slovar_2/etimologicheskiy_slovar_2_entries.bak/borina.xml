@@ -1,0 +1,95 @@
+<Entry xml:id="borina">
+  <pb n="202" end_page="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borina</orth>
+    <lemma>borina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ббрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>смолистые сосновые щепки, употребляемые для освещения или разжигания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Обычай б'Ьше да се гори борина за осв-Ьтление (както у Омировит^ ирои). Св-Ьщникъ тъ б-Ьше жел'Ьзенъ и около 1 метръ высокъ. На него окачвах,^ боринжтж и тя озаряваше. . . — Гр. Пърличев. Автобиография. СбНУ, т. XI, 1894, 347. Плодоносны дрьвета тукъ н^ма никъкъ; по-обикновенныт'Ь сж: борины, борове. — С. С. Бобчев. Пъту- ване около света, превод, 1873. Архив Болг. возрождения, София; Геров: ббрина ж. р. 'сосновая щепа, служащая для освещения и для растопки дров; лучина')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ббрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>смолистые сос­ новые щепки для разжигания и освещения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>борина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лучина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>борина</ref> ж. у., увелич. от бор</orth>
+      </form>
+      <sense>
+        <def>сосна Pinus , борина, борина ж. р. сосновая лучина для освещения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; так же см. Vis.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>ЪоНпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосновый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>borina</ref>, borina ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосновая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>борина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бо­ ровая сосна, боровый лес, срубленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 31)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="og-3">*Ъогъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возм., вторично ввиду отсутствия признаков обычно принимаемой для имени *Ьогъ -гг-основы.</note>
+</Entry>

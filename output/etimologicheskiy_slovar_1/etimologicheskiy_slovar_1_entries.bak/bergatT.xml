@@ -1,0 +1,35 @@
+<Entry xml:id="bergatT">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bergatT</orth>
+    <lemma>bergatT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bregat</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bre</ref>- haty</orth>
+      </form>
+      <sense>
+        <def>имеющий берега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от<ref type="etymon" target="bergb">*bergb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

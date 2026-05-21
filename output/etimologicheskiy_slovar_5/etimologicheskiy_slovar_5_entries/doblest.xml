@@ -1,0 +1,83 @@
+<Entry xml:id="doblest">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobl’estь</orth>
+    <lemma>dobl’estь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>довлеет</ref>* Ж . p. dv8paYa&amp;7][J.a, res fortiter gesta</orth>
+      </form>
+      <sense>
+        <def>доблесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дбблест</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доблесть , если не из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. книжн. <ref>доб</ref>­ лести ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobljest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>способность, про­ ворство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доблесть</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 60; Упыр. 108; Жит. Феод. Ст. 141; Толк. неуд. позн. реч. 196 и др., Срезневский I, 672)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доблесть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ге­ ройство, мужество, отвага</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доблесть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доблесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.- рос. словн. I, 417)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="doblb-2">*doblb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

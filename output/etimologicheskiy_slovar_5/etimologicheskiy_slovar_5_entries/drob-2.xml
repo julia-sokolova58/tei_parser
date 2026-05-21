@@ -1,0 +1,85 @@
+<Entry xml:id="drob-2">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobь</orth>
+    <lemma>drobь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дроб</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дробь (математическая)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drob</ref>, род. п. drobi, ж. р.</orth>
+      </form>
+      <sense>
+        <def>сечка, труха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drob</ref>, род. п. drobiu, м. р.</orth>
+      </form>
+      <sense>
+        <def>домашняя птица, мелочь, дробь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do­ rosz. II, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дробь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть, доля единицы (мат.), мелкие свинцовые шарики для стрельбы из охотничьего ружья, мелкие части чего-либо разбитого</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дробь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гуща, остающаяся после приготовления пива, кваса (олон., калу ж., моек.), виноградные выжимки (донск.) , квасная гуща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 189)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дробь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. Быецький-Носенко. Словник украшсько! мови 124)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с<ref type="etymon" target="drobb-2">*drobь</ref>, <ref type="etymon" target="drobiti">*drobiti</ref>, <ref type="etymon" target="droba">*droba</ref> (см.). Ср. еще греч. 
+xpscpco 'сгущать, заставлять 
+свертываться', 'питать' — из общего 
+и.-е. <ref type="etymon" target="dhrebh-">*dhrebh-</ref>. См. А. Соболевский «Slavia» V, 1927, 443 (автор 
+полагает, что первонач. знач. греч. глагола было 'раздробляю, 
+размельчаю для еды'). Ср. 
+также соображения, высказанные под 
+<ref type="etymon" target="droba">*droba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

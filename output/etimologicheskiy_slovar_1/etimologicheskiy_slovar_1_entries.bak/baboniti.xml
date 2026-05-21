@@ -1,0 +1,105 @@
+<Entry xml:id="baboniti">
+  <pb n="109" end_page="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baboniti</orth>
+    <lemma>baboniti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>babuniti</orth>
+    <lemma>babuniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бобоним</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить густым, гортан­ ным голосом (Брезнишко, см. Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бобоуьити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бубнить, греметь, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 670)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>babonit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бес­ цельно ходить туда—сюда, особ, в потемках , ср. еще с основой на а</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slovn. slavk.- bucov. 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>babonat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бестол- Ill ново искать что-либо, мотаться , далее -</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kopecny. Urc. 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>babiifuc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бабонить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить громко, но невнятно; бубнить , сюда же бадунйть гадать, предсказывать что-нибудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 2, 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 91—92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бабонйпш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворожить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 15)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл., производный от след. имени.</note>
+  <gramGrp>
+    <gram>На первый взгляд как будто разнородные, значения приведенных выше слов ('ходить туда— сюда', 'громко, невнятно говорить', 'гадать') вполне могут быть объединены емким значением гл.<ref type="etymon" target="baboniti">*baboniti</ref>, 
+который, 
+видимо, 
+обозначал совокупность действий колдуна, прорицателя.</gram>
+  </gramGrp>
+  <note>Этот гл., представленный в народной лексике лишь части слав, языков, является, вероятно, праслав. образованием. Отнесение к праслав. *baboniti малоизвестного русск. диал. бадунйть (см. выше) является одновременно этимологией для этого слова, испытав­ шего экспрессивную диссимиляцию. Примерно то же можно сказать и о чеш. диал. baboiiit, которое Махек едва ли удачно выводил из приставочного pa-bucat (см. Machek 21).</note>
+</Entry>

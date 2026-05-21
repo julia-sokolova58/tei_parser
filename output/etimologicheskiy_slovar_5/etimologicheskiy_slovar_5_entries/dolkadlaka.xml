@@ -1,0 +1,81 @@
+<Entry xml:id="dolkadlaka">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolka?/*d(ь)laka?</orth>
+    <lemma>dolka?/*d(ь)laka?</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>d(b)laka</orth>
+    <lemma>d(b)laka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длАка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид; внешнее сходство, шерсть, шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>длака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид, облик, лицо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 189; Божкова БД I, 246; Гълъбов БД И, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щетина, шерсть (у животных)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>длака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>волос, мелкие, тонкие кости (рыбы)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dldka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>волос (животного); волосы, шерсть , волос на теле . — Чеш. dlaka ж. р. длинная шерсть приводится только из трудов Пресла, кот. широко прибегал к искусственным заимствованиям из других слав, языков. Неясно, далее, относится ли сюда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jarnik 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>dldk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ветка; сук, короткая ветка, о кот. см. Machek 2 120 (реконстру­ ирует как праслав. *dolkb и сближает с греч. xXaSog ветвь, а также др.-англ. telga, ср.-в.-нем. zelge ветка)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Как отмечал уже Бернекер, ограниченность слова ю.-слав. языками делает праслав. реконструкцию неоднозначной, см. Berneker I, 208: *dolka, но может быть и *dlaka (или, скорее, *dblaka, добавим мы, поскольку иначе dl- на ю.-слав. почве не сохранилось бы, а реконструкция *dbl-aka 'длинная?' находит поддержку в семантике слова). Бернекер, дадее, сближает слав, слово с лит. delka, aelkas 'леска', но эти лит. формы для нас сомнительны (в словаре Френкеля их нет), хотя в этим, лит-ре они получ-или распространение, см. Георгиев БЕР V, 399; Skok. Etim. rjecn. I, 417; J. Charpentier AfslPh XXXVII, 1920, 51—52; F. A. Wood AJPh XLVIII, 1927, 304. Весьма интересно, в т . ч. — семантически, сближение с англос. tselg, telg 'цвет, масть', см. К. Ostir WuS IV, 1912, 218. Тот же ученый сравни­ вает *dolka, *-dolkb в сложении *vblko-dolkb 'k&gt;x-av0po)Tco&lt;;' со вто­ рым компонентом фрак, личных собств. имен -хаХхтг]^. См. К. OStir «Etnolog» I, 1925—1926, 21. Некоторые авторы, вслед за Брюк- нером, сближают слав. *dlaka с балт. *tlakia-, откуда лит. lokys 'медведь', лтш. lacis то же. См. J. Loewenthal AfslPh XXXVIII, 1920, 385; J. Mikkola «Melanges Pedersen» 412. Однако, как мы уже сказали выше, праслав. *dlaka дало бы ю.-слав. *1ака. Из прочей литер, см. еще Г. Ильинский РФВ LXX, 1913, 260— 261; Младенов ЕПР 128.</note>
+</Entry>

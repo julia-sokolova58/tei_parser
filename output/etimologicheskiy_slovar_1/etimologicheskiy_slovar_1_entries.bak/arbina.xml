@@ -1,0 +1,131 @@
+<Entry xml:id="arbina">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ar§bina</orth>
+    <lemma>ar§bina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jerebina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо куропатки, плод рябины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 366)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jerabina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рябина, rerabina то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jarabina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рябина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>garabiiia</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>wjerjebina</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jerjeblna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рябина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jarzq</ref>- Ыпа</orth>
+      </form>
+      <sense>
+        <def>рябина Sorbus , возможно, сюда и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>рябина</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>рябина</ref> ж. р. ^рябина Sorbus aucuparia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>рабша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рябина</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Последние (русск., у к р . , блр.) примеры могли бы с неменьшим основанием быть объединены вокруг реконструкции праслав.<xr type="compare">см. <ref type="etymon" target="rebina">*rebina</ref>
+    </xr>, поэтому в настоящей статье присутствуют на правах 
+спорных рефлексов. Что касается 
+укр. орябина (сюда же у к р . 
+горобйна, 
+оробйна ж. р. 'рябина' 
+[Гринченко I, 314; III 63]), 
+то оно, напротив, по мысли Булаховского (ср. Л. А . Булахов-
+ский В Я 1968, № 4, 102—103, где 
+говорится о русск.-цслав. 
+орябь, 
+укр. 
+орябок), 
+возможно, 
+относится 
+преимущественно 
+к праслав. 
+*{j)ar$bina / *ёг$Ыпа, 
+будучи отражением 
+вост.-слав, 
+перехода ]'е-^&gt;о- 
+в начале слова. Неправдоподобна особая этимо­
+логия для укр. орябина — из и.-е. *armbo-s 'огненный', ср. греч. 
+Apia 'растение Sorbus aria Crtz.' (J. Loewenthal W u S X , 1927, 161). 
+Впрочем, аналогия отношений *а-Ьгёс1ъ : *bred-: *o-bredb (см. выше 
+*abredb) напрашивается 
+и в рассматриваемом случае, тем более, 
+что отношения *а-гф- : *гф-: 
+*о-гф- 
+(вторично 
+префигированное) 
+четко прослеживаются ввиду наличия реального <xr type="compare">см. <ref type="etymon" target="gf">*гфъ]ъ</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>В остальном праслав.<ref type="etymon" target="ar">*ar</ref>$bina — производное с суфф. -ina от 
+основы <ref type="etymon" target="agf-2">*агфъ</ref> (см. там же подробнее об этимологии).</gram>
+  </gramGrp>
+</Entry>

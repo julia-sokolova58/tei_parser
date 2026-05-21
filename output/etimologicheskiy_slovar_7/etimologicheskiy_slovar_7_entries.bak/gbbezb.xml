@@ -1,0 +1,41 @@
+<Entry xml:id="gbbezb">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbezb</orth>
+    <lemma>gbbezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гъбежь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгиб, сустав , гбежъ м. р. поворот, наклон , су­ став , складка (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сильв, и Ант. вопр. 103; Избор. XIII в. 63, Срезневский I, 611)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лопаточник, 30. XVI в. ~ XV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(On. II (2), 147. г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сб. Лавр. 41. XIII в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(СлРЯ XI—XVII вв. 4, 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя действия, производное с суф.<m type="suffix">
+        <ref>-ezb</ref>
+      </m> 
+от гл. <ref type="etymon" target="gbbngti-4">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>В качестве суффиксальной параллели указывалось лтш. gubezis 'куча, сеновал': gubdt 'складывать в кучи, копны (сено, скошен­ ный хлеб)', см. Fraenkel I, 140.</note>
+</Entry>

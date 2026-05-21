@@ -1,0 +1,60 @@
+<Entry xml:id="dxati">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъxati</orth>
+    <lemma>dъxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъхам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать, пахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дахати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, пахнуть изо рта, вонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. до­ <ref>хать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно кашлять , отдыхать (твер.), гулять, шумно веселиться, пигь вино (новг.) , ударять, бить кого-либо (твер., ряз.), сильно и громко ударять (в дверь, стену, об пол) (новг., урал.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., сарат., пенз., яросл., влад., новг., арх., вят., урал., свердл., Филин 8, 159; Опыт словаря говоров Калининской области 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-atiy</ref>
+      </m> производный от основы йъх- с гласным в ступени 
+редукции, ср. *&amp;ихъ, <ref type="etymon" target="dyxati">*dyxati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. лит. duseti, особенно — dusti 'задыхаться'. См. С. С. Uhlenbeck AfslPh XVI, 1894, 369; Berneker I, 243.</note>
+</Entry>

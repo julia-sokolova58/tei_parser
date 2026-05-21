@@ -1,0 +1,95 @@
+<Entry xml:id="gugati">
+  <pb n="166" end_page="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gugati</orth>
+    <lemma>gugati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гугамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гугати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тре­ нием (веревки или палочки о дерево) добывать огонь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 734)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gugatt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>качать, раскачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>huhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ухать, кричать (о сове)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гугать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>качать на качелях, раскачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гу</ref>- гаць</orth>
+      </form>
+      <sense>
+        <def>гулять, пиршествовать; вести разгульную жизнь . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гупт</ref>, род. п. -готу, м. р.</orth>
+      </form>
+      <sense>
+        <def>гу­ дение , гуготйти шуметь с гулом; гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 370)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бшецький-Носенко. Словник укр. мови 108)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово экспрессивного происхождения. Ср. Berneker I, 361. См. «ще *gukati. * g u g ( b ) I a ? 16»</note>
+</Entry>

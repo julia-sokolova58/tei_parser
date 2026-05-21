@@ -1,0 +1,86 @@
+<Entry xml:id="grusiti">
+  <pb n="156" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grusiti</orth>
+    <lemma>grusiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>груша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разрушать (Копривец, Беленско, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грушити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толочь, grusiti падать с шумом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrasiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>размельчать, кро­ шить, дробить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грушйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разрушать, разбивать, ломать , сильно огорчать, при­ водить в подавленное, угнетенное состояние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 7, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, 
+образованный 
+от продолжения 
+и.-е. 
+<ref type="etymon" target="ghreu-s--2">*g(h)reu-s-</ref>, 
+ср. ср.-ниж.-нем. grus 
+'щебень', лит. griduti 
+'ломать, сокрушать', 
+лат. in-gruo 
+'врываться', 
+con-grud 
+'совпадать'.</gram>
+  </gramGrp>
+  <note>См. И. ПоповиЬ HJ II, 5—6, 1951, 212—214. Обращает на себя внимание также дублетная связь с<xr type="compare">см. <ref type="etymon" target="krusiti-2">*krusiti</ref>
+    </xr>. Ср., впрочем, еще <xr type="compare">см. <ref type="etymon" target="gruxati">*gruxati</ref>
+    </xr>. 
+grusbnbjb: чеш. hrusny, 
+прилаг. 
+'грушевый' 
+(Jungmann 
+I, 772), 
+русск. диал. грушный, 
+-ая, -ое 'грушевый' (влад., Филин 7, 172). 
+Прилаг., производное с суф. -ъпъ от <xr type="compare">см. <ref type="etymon" target="grusa-3">*grusa</ref>
+    </xr>.</note>
+</Entry>

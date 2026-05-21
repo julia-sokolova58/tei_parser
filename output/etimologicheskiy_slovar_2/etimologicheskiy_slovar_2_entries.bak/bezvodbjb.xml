@@ -1,0 +1,42 @@
+<Entry xml:id="bezvodbjb">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvodbjb</orth>
+    <lemma>bezvodbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezvody</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безводный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezvody</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвбдий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безводный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-123">*bez</ref> (см.) 
+и именной основы <ref type="etymon" target="vod-">*vod-</ref> (см. <ref type="etymon" target="voda-2">*voda)</ref>.</gram>
+  </gramGrp>
+  <note>Подробности о таком слово­ образовании см. на *bez.</note>
+</Entry>

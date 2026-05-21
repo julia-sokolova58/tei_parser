@@ -1,0 +1,68 @@
+<entries>
+  <entry xml:id="bzje" xml:id="bzje">
+    <pb n="146" end_page="146" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъzьje</orth>
+      <lemma>bbzbje</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>б-бзе</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>растение Sambucus ebulus</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. 6i&gt;3u <ref>ср</ref>. р.</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Колев Б Д III, 295)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бозе</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bezje</ref> ср. р. собир.</orth>
+        </form>
+        <sense>
+          <def>кусты бузины</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 24)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bzi</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бузина; сирень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Hosek. Ceskomorav. I, 95)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -ь/е (собир.) от <ref type="etymon" target="bbzb-2">*bbzb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

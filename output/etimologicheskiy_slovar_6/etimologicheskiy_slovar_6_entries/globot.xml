@@ -1,0 +1,41 @@
+<Entry xml:id="globot">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*globotъ</orth>
+    <lemma>globotъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>glaboat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski. Stownik etymol. jqz. Drze- wian potabskich 2, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глббот</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>частая сеть, которую привязывали жениху к поясу от дурного глаза (Картотека Псковского областного словаря), глыбаты мотня невода с мел­ кой ячеей, которым ловят снетков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 6, 290)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-о1ъ</ref>
+      </m>, соотносительное с гл. 
+<ref type="etymon" target="globati">*globati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ввиду своего остаточного характера образование может быть древним. О полаб.-русск. соответствии см. В. А. Меркулова «Общеелав. лингв, атлас. Мат-лы и иссл-ия. 1972» (М., 1974), 207.</note>
+</Entry>

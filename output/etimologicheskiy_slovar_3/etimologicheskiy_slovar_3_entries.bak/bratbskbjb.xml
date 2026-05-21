@@ -1,0 +1,141 @@
+<Entry xml:id="bratbskbjb">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratbskbjb</orth>
+    <lemma>bratbskbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ърлтАСкъ</ref>, прилаг. dBeXcptxog, fraternus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>братски</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>братски</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон., И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братски</ref>, -к&amp;, ко</orth>
+      </form>
+      <sense>
+        <def>братский, братов, также братски</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA II, 120—121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdtski</ref>, при­ лаг. то же , елвц. bratsky, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bratski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bracki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братский, связанный с братством; братов , сло- вин. ЪгасШ прилаг. братов, братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 627)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>братъекы</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(братъекы запр^штати fraterno corrigiantur, Ефр. Крм. Х а л к . Срезневский I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>братский</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>принадлежащий, свойственный брату, относящийся к брату, товарищеский, дружеский</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>братский</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братский, связанный с братством</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братсъкий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>братский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>братский</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Носов. 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -bsk- от *6rataT(cM.). Ср. анало­ гичное<xr type="compare">см. <ref type="etymon" target="bratrbstob">*bratrbsto]b</ref>
+    </xr>.</note>
+</Entry>

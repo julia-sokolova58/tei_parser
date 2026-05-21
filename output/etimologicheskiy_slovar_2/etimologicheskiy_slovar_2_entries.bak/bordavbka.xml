@@ -1,0 +1,142 @@
+<Entry xml:id="bordavbka">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordavbka</orth>
+    <lemma>bordavbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брадавка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грудной сосок, паразити­ ческий нарост на растении , ср. еще браддвка ж. р. Amanita phalloides</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 93)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bradavka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка (Ст.-чеш., Прага: нет)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bradavka</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brodawka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка , также brjodawka ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 49)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>и</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>brodawka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brodawka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 660)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бородавка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая шишка на теле, накожный нарост</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бородбвка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Проект Архангель­ ского областного словаря 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бородавка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке, и др., Тимченко I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бородавка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бо­ родавка, след отпавшего листа на стебле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>барбдаука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от основы <ref type="etymon" target="bordav-">*bordav-</ref>, о кот. см. под­
+робно на 
+<ref type="etymon" target="bordavica">*bordavica</ref>.</gram>
+  </gramGrp>
+</Entry>

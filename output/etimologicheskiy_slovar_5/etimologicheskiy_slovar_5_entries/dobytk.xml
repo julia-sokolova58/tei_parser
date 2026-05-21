@@ -1,0 +1,238 @@
+<Entry xml:id="dobytk">
+  <pb n="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobytъkъ</orth>
+    <lemma>dobytъkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добйтък</ref> м. р. собир.</orth>
+      </form>
+      <sense>
+        <def>домашний скот, скотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>добйтак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крупный домашний скот, скотина , дубйтък м. р., собир. домашний скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 199; Т. Бояджиев. Гюмюрджинско. — БД VI, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>добиток</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>скот, мн. добиии крупный рогатый скот и лошади (И—С), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>dobitok</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dobitak</ref>, род. п. dobitka, м. p.</orth>
+      </form>
+      <sense>
+        <def>прибыль, выгода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobitek</ref>, род. п. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>выигрыш, прибыль, выгода, также dobitek</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dobytek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домаш­ ний скот , скот, добро, дви­ жимое имущество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 278; Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Brandl 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobytek</ref>, род. п. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>домашний скот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>dobytok</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV—XVII вв., Blanar. Hist, leksikol. 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dobytok</ref>, род. п. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>домашний скот (коровы, свиньи)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dobytk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>выгода, прибыль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dobytk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нажитое, приобретение, при­ быль, победа, имение или имущество, собственность, богатство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dobytek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>имущество (движимое и недвижимое), домашний скот (обычно крупный рогатый), стар, прибыль, выгода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 178—179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dobatk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>добытъкъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>иму­ щество, имение , добыча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1103 г.; Р. Прав. Влад. Мон. — по Син. сп.; Ил. Новг. поуч.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1341 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 685)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>добытокъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>животное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю закарпатской литературы XVI—XVII вв. Будапешт, 1965, 81 (микрофильм): Словарь Няговской постиллы XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добиток</ref>, род. п. -тку, м. р.</orth>
+      </form>
+      <sense>
+        <def>грабеж, добывание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>добиток</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крупный рогатый ског , далее—укр. добуток, род. п. -тку, м. р. приобретение, добутки приплод, ягнята, телята</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кар­ патский диалектологический атлас, карта № 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шух. I, 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 400)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дабытак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>добыча, прибыль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 86)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от нрич. прош. страд. <ref type="etymon" target="dobytb">*dobytb</ref> от гл.</gram>
+  </gramGrp>
+</Entry>

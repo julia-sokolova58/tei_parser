@@ -1,0 +1,73 @@
+<Entry xml:id="beloxvostbjb">
+  <pb n="70" end_page="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beloxvostb(jb)</orth>
+    <lemma>beloxvostb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belochuost</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название птицы?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 909)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белохвостый</ref> (бычок) , белохвостый беркут</orth>
+      </form>
+      <sense>
+        <def>птица Haliaetos albicilla Briss</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 386)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(оренб., Филин 2, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быохвбстий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с белым хвостом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бела</ref>- хвосты, сюда же фам. Белахвбсты, Белахвбстау</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. (<ref>XVII</ref> в.) Белохвост, соврем</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Белохвостое</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла. Беларуская антрапан1м1я 2, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение (первоначально, по-видимому, адъективное), обра­ зованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="xvosfe">*xvosfe</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="belogolvb">*belogolvb</ref>
+    </xr> 
+(выше) 
+и др. образования этого типа.</note>
+</Entry>

@@ -1,0 +1,311 @@
+<Entry xml:id="boleti">
+  <pb n="187" end_page="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'eti</orth>
+    <lemma>bol'eti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть боль­ ным, болеть , боли 3 л. ед. ч. болит , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>боли</ref> , болея</orth>
+      </form>
+      <sense>
+        <def>(долго) болеть, хиреть, чахнуть , болёе болеть, страдать , болеем то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов БД I, 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдлети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бо­ леть, doleo, также бдлети, бдлити</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>Далмация</ref>) боли ме</orth>
+      </form>
+      <sense>
+        <def>я болен, болею</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>bolyt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boleti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>boleti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть, причинять боль</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bolief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть, причинять боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bolec</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ze- man 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>boles</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть, огорчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>biile</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>болит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 43, с реконструк­ цией *boli)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bolec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 603)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Ьйе</ref>- 1ёс</orth>
+      </form>
+      <sense>
+        <def>болеть, причинять боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>болЪти</ref> daftsvsb, aegrotare (Остр, ев.),</orth>
+      </form>
+      <sense>
+        <def>заботиться, curare (Никиф. м. Поел. Влад. Мон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>болеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страдать какой-нибудь болезнью</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>болеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жалеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болЪти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть, причинять боль , болЪти испытывать боль, болеть, быть больным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бол1ти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>балёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть (испытывать боль). — Сюда, далее, примыкают вторичные суффиксальные производные</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бо</ref>­ лу ва</orth>
+      </form>
+      <sense>
+        <def>болеть, быть больным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>болдвати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бо­ леть, aegrotare, болдвати, бдловати болеть, быть больным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>болеват</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боледувам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть больным, болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боледува</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болеть, хворать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Отсутствие общего и.-е. термина 'болеть' и наличие в этой функ­ ции по отдельным языкам новых (нередко — неясных) слов или экспрессивных новообразований (ср. напр. нем. кгапк 'больной', krank sein 'болеть') заставляет взглянуть на слав. *ЬоГёИ как на результат возможных передвижений в лексике и семантике. В этом же убеждает и малая вероятность традиционных сближе­ ний с и.-е. словами, о которых — ниже. Определенным сигналом этих сдвигов в употреблении слова *ЬоГёй можно считать более или менее явные следы его древнего употребления в русск.- цслав. болЪти, болю в примере: Боляше велии Мардохаи (quoniam magnus (erat). Есф. IX. 4 по сп. XIV в. — Срезневский I, 150), ср. еще блр. диал. ббляцъ 'становиться больше' (Полевой, Но- возыбк. 28). Т. о., древним, первонач. знач-ем слова *boVeti могло быть знач. 'быть сильным, большим' ~ 'быть сильнее, больше', что дает основание для этимологического сближения слав. *boVeti с др.-инд. bala-m 'сила, власть', греч. BeXiuov 'лучший', ст.-слав. БОЛИИ, ВОЛЮ, русск. большой &lt; и.-е. *bel- 'сильный'. См. О. Н. Трубачев ВСЯ 3, 1958, 124—125, где выдви­ гается гипотеза о табуистической природе данного сдвига значе­ ний. В формальном отношении правдоподобно звучит объяснение *ЬоГёи как отыменного производного от компаратива<xr type="compare">см. <ref type="etymon" target="og-3">*ЬоГь]ъ</ref>
+    </xr>, что еще раньше предполагал Вайян (см. A. Vaillant. 
+La depreverbation. — RES XXII, 1946, 40; Vaillant.</note>
+  <gramGrp>
+    <gram>Gramm. comparee III, 2, 391—392), довольствовавшийся, однако, недо­ статочным, по-видимому, в данном случае морфол. объяснением БО\4ТИ 'болеть' как депревербацйи (— отделения глагольной приставки) формы типа ^ДЗ-БОЛ4ТИ С А 'заболеть, лишиться сил'. Последовательное осмысление словопроизводной связи<ref type="etymon" target="og-3">*ЬоГъ]</ref>'ъ 
+(со старой мягкостью согласного, из и.-е. <ref type="etymon" target="bolios">*bolios</ref>, <ref type="etymon" target="belios">*belios)</ref> -&gt; 
+<ref type="etymon" target="boVeti-3">*boVeti</ref> заставляет нас принять именно эту последнюю рекон­
+струкцию (вместо общепринятого <ref type="etymon" target="boleti">*boleti)</ref>, ср. сербохорв. бдл&gt;ети 
+(выше). 
+В этимол. литературе укоренилось другое толкование слав. 
+<ref type="etymon" target="ogyoi">*ЬоГёи</ref>, ср. еще A. Pictet. Die alten Krankheitsnamen bei den 
+Indogermanen. — KZ V, 1856, 351 : ср. др.-инд. bhal- 'occidere, 
+laedere', др.-в.-нем. palo 'pestis', англос. balew, balo 'exitium, 
+malum', сканд. bol 'calamitas', гот. balweins 'cruciatus', balwjan 
+'cruciare', перс, bala 'несчастье', кимр. bala 'чума', ирл. bealaim 
+'умирать'. См. близко Miklosich 17; A. Smieszek MPKJ IV, 1900,
+393—394; Преображенский I, 36; Фасмер I, 191; Stawski I, 40. 
+Серьезную критику названного герм.-слав. сближения выдви­
+нул Бернекер, указав на различие суффиксов и значений. См. Вег-
+neker I, 71. 
+Прочие этимологии слав. <ref type="etymon" target="ogyoi-2">*ЬоГёи</ref> заслуживают доверия в еще 
+меньшей степени. Ср. сближение с лат. labor, -oris
+ 
+струд, бремя, 
+мука' по принципу метатезы согласных (J.</gram>
+  </gramGrp>
+  <note>Otrqbski. Studja indoeuropeistyczne 85), наконец, отождествление, основанное на общем подобии и идентичности значений, слав. *ЬоГёЦ и лат. doled (Machek 37; ср. еще V. Kiparsky «Kratylos» XI, 1966, 77), хотя постулируемое при этом «вертикальное» звукосоответствие bid не укладывается в известные правила и.-е. родственных от­ ношений. О лат. слове см. Walde—Hofm. I, 364. В целом не слу­ чайно отдельные авторы считают *ЬоГёИ (и все гнездо) словом с неясной этимологией (см. Bruckner 35).</note>
+</Entry>

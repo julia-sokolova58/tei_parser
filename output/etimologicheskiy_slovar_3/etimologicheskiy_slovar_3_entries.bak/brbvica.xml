@@ -1,0 +1,35 @@
+<Entry xml:id="brbvica">
+  <pb n="61" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbvica</orth>
+    <lemma>brbvica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brulca</ref> ж. y.=brvca</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. II. Dodatki II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бровйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бровь, бровка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 100)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> or основы Ьгъу- 
+(см. 
+'<ref type="etymon" target="bry-2">*bry)</ref>.</gram>
+  </gramGrp>
+</Entry>

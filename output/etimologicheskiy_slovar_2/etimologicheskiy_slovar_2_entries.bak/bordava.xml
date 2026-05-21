@@ -1,0 +1,22 @@
+<Entry xml:id="bordava">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordava</orth>
+    <lemma>bordava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>broduva</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бородавка, мозоль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производящая основа для более распространенных *borda- vica (см.; там же дальнейшая этимология),<xr type="compare">см. <ref type="etymon" target="bordavbka">*bordavbka</ref>
+    </xr>.</note>
+</Entry>

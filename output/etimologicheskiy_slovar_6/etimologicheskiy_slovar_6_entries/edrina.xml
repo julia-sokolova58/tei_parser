@@ -1,0 +1,37 @@
+<Entry xml:id="edrina">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędrina</orth>
+    <lemma>ędrina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>едрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>объем, величина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ; Геров: ядрина ж. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jadpuna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>громадина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Щедрина ж. р. 'плотность, крепость' (RJA IV, 561: с XVIII в.), (диал.) 'болезнь кожи лица' (РСА VIII, 685), словен. jedrlna ж. р. то же (Plet. I, 363), русск. диал. ядрйнка ж. р. 'нарыв, чирей, веред' (твер., Даль 3 IV, 1563). — Ср. еще чеш. jddfinec, род. п. -псе, м. р. 'оболочка ядра' (Kott I, 595).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="edrb">*edrb</ref> (см.) или от <ref type="etymon" target="edro-4">*edro</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

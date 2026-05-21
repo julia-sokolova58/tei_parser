@@ -1,0 +1,151 @@
+<Entry xml:id="aup">
+  <pb n="98" end_page="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ауьпъ(]ь)</orth>
+    <lemma>ауьпъ(]ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Авен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, очевидный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров: Авный, авный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaeen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, открытый, публичный; общеизвестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jaeaH</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdven</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jevny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, общественный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 626)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>javny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, ясный, видимый , н. луж. jawny явный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SS.I [, 637)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St I, 537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jawny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>публичный, общественный; от­ крытый; видный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz, II, 147—148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>javni</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>общест­ венный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b , I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>тъныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, i 00 открытый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Лвный</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>явный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный, известный, очевидный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Лины</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суфф.<m type="suffix">
+        <ref>-ьп</ref>
+      </m>~ от <ref type="etymon" target="ai-2">*аиь</ref>, <ref type="etymon" target="aiyo-2">*аиё</ref> (см.) или др. близких видов 
+:&gt;той основы.</gram>
+  </gramGrp>
+  <note>Условно можно отнести к позднепраслав. времени. Знач. 'общественный, публичный' в ряде слав, языков (чеш., польск. и др.) — новая калька с нем. offentlich в том же знач. Последнее обстоятельство упускает Славский (см. Stawski Г, 527—528, где подробно о данном слове)/</note>
+</Entry>

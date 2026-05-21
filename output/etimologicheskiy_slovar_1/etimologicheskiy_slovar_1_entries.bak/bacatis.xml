@@ -1,0 +1,191 @@
+<Entry xml:id="bacatis">
+  <pb n="117" end_page="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bacati (s§)</orth>
+    <lemma>bacati (s§)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bocati (sč)</orth>
+    <lemma>bocati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>б</ref> щам</orth>
+      </form>
+      <sense>
+        <def>целовать, щелкать пальцем по голове (Георгиев), к о л о т ь , ббцам покалывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев Б Д III, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>буцам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, бить (Георгиев), сюда же бакам целовать (Младеыов Б Т Р )</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>баца</ref> се</orth>
+      </form>
+      <sense>
+        <def>пач­ каться, грязниться, буца бодать , сюда же боцка пока­ лывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бацати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, метать, стрелять , боцати колоть, becati trudere, ringi, pungere, со se ringi, torvo oculo aliquem intueri , злиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( R J A I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>буцат</ref> (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bacdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ползти на четвереньках, медленно идти , bddcati прорастать , becati толкать, пинать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bacati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>б и т ь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bacat</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 12; Malina. Mistf. 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdcaV</ref> экспр.</orth>
+      </form>
+      <sense>
+        <def>бить, ударять; бухать , сюда же bicaV то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бацать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлопать, бить со стуком , ударяя, производить сильный, резкий, отрывистый звук, стрелять , ббцатъ бить, колотить, стучать по полу при ходьбе , буцатъ ударять, громко стучать , далее — сюда же буцкатъ сбивать, бить в чем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь I, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 139—140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 327)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части бассейна р. Оби 1, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бацяти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бацать , буцати бить, ударять лбом (о баране)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Rud- nyckyj. An etymological dictionary I, 90)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологизация этого слова, представленного здесь в не­ скольких реконструированных праформах, взаимосвязанных хро­ нологически (см. также ниже), наталкивается на трудности. К числу помех относится возможность независимого, спонтан­ ного образования сходных глаголов в разных слав, языках от междом. типа русск. бац. Тем не менее, большинство собранных здесь форм может продолжать праслав. *bodbcati.</note>
+  <gramGrp>
+    <gram>Последнее до­ статочно рано выступает в аллегровом варианте<ref type="etymon" target="bocati">*bocati</ref> или — 
+с проведением вокализма, 
+обычного для итеративов, — в виде 
+<ref type="etymon" target="bacati">*bacati</ref> (вторичные, местные огласовки -и- построены на -о- во­
+кализме).</gram>
+  </gramGrp>
+  <note>Праформа *bodbcati реконструирована, по сути, Геор- гиевым, который указал и на точное соответствие в лат. fodico 'покалывать' &lt;С и.-е. *bhod-ik-ajd. См. Георгиев Б Е Р I, 70. Действительно, семантика 'колоть, покалывать', 'бодать' харак­ терна для многих продолжений *bacati l*bocati. Т. о., этимологи­ ческое родство с *bodbCb,<xr type="compare">см. <ref type="etymon" target="bod">*bodъ</ref>
+    </xr> тоже вполне 
+очевидно. 
+Правда, у авторов имеется тенденция отделять слова с -а- вока­
+лизмом вроде болг. бацам и др., объясняя их из звукоподража­
+ния, см. Георгиев Б Е Р I, 37; однако и семантически и формально 
+едва ли целесообразно отделять все случаи *bacati от 
+*bocati, 
+см. также выше. Названную выше этимологию Георгиева крити­
+кует Гавлова (см. Е. Havlova «Slavia» 33, 1964, 310), однако 
+неясно, почему мы должны отдать предпочтение предлагаемому 
+ею *bod-sa-jg, если есть реальная аналогия лат. слова. Близкие 
+к Гавловой мысли высказывал 
+еще Махек, кот. видел в слав. 
+bacati интенсив на -s- bat-sati см. Machek SPFFBU I, 1952, 84; 
+также Machek 21; вслед за ним — Sadnik-Aitzetmuller 
+2, 68, 
+но выше 
+была 
+показана 
+близость семантики 
+нашего 
+глагола 
+('бодать, 
+колоть' 
+и 
+лишь вторично — 'бить') именно с основой 
+bod-.</note>
+</Entry>

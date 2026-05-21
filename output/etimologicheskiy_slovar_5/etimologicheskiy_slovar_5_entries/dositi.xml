@@ -1,0 +1,47 @@
+<Entry xml:id="dositi">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dositi</orth>
+    <lemma>dositi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>догити</ref> invenire, reperire</orth>
+      </form>
+      <sense>
+        <def>найти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS: XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>досити</ref>, доту</orth>
+      </form>
+      <sense>
+        <def>найти, встретить , доситисхл быть найденным ; сюда же, возм., преобразованное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XIV, 40. Ев. 1307 г.; Пат. Син. XI в. 153, Срезневский I, 709—710)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Втз. XXII. 22 по сп. .XVI в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>досёяться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделаться, случиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(якут., Филин 8, 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически тождественно *desiti (см.; там же этимология), с отличием в вокализме.</note>
+</Entry>

@@ -1,0 +1,152 @@
+<Entry xml:id="gatiti">
+  <pb n="105" end_page="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatiti</orth>
+    <lemma>gatiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гатити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перегораживать, запруживать (течение воды) , словен gdtiti набивать, пичкать, запру- •gatjatb живать, перегораживать плотиной, препятствовать, мешать г, gatiti набивать, откармливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РМ. I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Erjavec LMS 1879, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hatiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать гать, запруду, спутывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hatit</ref> se</orth>
+      </form>
+      <sense>
+        <def>сопротивляться, проявлять неудовольствие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hatif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задерживать, препятствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hacic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сооружать плотину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gaSiu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запруживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gacic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>утеплять, уплот­ нять (мхом, соломой и т. п. о стенах дома), сооружать плотину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1012)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гатить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорить , обкладывать дом соломой для укрепления , давать щедро, не жалея , гатить делая гать, плотину, запруживать (сарат., ворон., курск., орл., рост., смол., моек., пенз.), обкладывать на зиму (стены избы) снаружи соломой для укрепления (яросл.), засыпать, унавоживать (?) (донск.), употреблять что-либо в слиш­ ком большом количестве (арх.) , гатить портить что-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., Опыт 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богораз 38; Словарь говоров Подмо­ сковья 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(чкалов., урал., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гатйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гатить, запру­ живать, мостить, накладывать в большом количестве, бить, ко­ лотить, рубить, стрелять сильно, напр. из пушек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гацщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мостить хворостом и пр. дорогу в болот­ ной местности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gatb">*gatb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

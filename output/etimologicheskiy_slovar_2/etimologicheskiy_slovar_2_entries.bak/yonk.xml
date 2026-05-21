@@ -1,0 +1,48 @@
+<Entry xml:id="yonk">
+  <pb n="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬёНкъ</orth>
+    <lemma>ЬёНкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>белйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>древесина между корой и сердце­ виной, заболонь, гл. обр. у дуба^ (с. Долна Мелна, Трънско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjelik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>почка инжира , белйк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>б</ref>]ёлйк м. р.</orth>
+      </form>
+      <sense>
+        <def>заболонь де­ рева, вид дуба Quercus sessiliflora , бёлик м. р. заболонь дерева , ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 460)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 442)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Belik, Bielik м. р., личное собств. имя (Vazny. Stfedovek. list. 5), н.-луж. belik 'бельмо', 'белок яйца' (Muka. St. I, 29). русск. диал. белйк м. р. 'огородная новь, место, вновь назначенное под огород' (Доп. к Опыту 16), бёлики мн. 'поля, почва которых со­ стоит из смешения глины с известью' (перм., Филин 2, 213), укр. бглик м. р. 'стальной двуручный резец для очистки кож', 'самец белки' (Гринченко I, 65), блр. Бёлт, ст.-блр. Белйк (XVI в.), имя собств. (Б1рыла. Беларуская антрапашм1я. 2, 51). Производное с суфф.</note>
+  <gramGrp>
+    <gram>Чкъ от прилаг.<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.), выполняющее 
+в принципе ту же функцию, что и близкие производные <ref type="etymon" target="belika">* belika</ref>, 
+<ref type="etymon" target="belica">*belica</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,46 @@
+<Entry xml:id="brbzgnqti">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbzgnqti</orth>
+    <lemma>brbzgnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brznuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прокисать, скисать (о молоке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брёзкнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брюзгнуть .—Сюда же при­ ставочное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>обрьзгнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прокиснуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский И, 553)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -nq-ti с вокализмом корня в ступени редукции. См. *brezg-, выше.</note>
+</Entry>

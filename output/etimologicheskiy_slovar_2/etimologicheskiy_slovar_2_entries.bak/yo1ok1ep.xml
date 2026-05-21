@@ -1,0 +1,24 @@
+<Entry xml:id="yo1ok1ep">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ок1епь</orth>
+    <lemma>Ьё1ок1епь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>быбклень</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Acer campestre</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Верхратський. Знадоби 54)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="yep">*Ыепъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

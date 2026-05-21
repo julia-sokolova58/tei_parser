@@ -1,0 +1,75 @@
+<Entry xml:id="drba">
+  <pb n="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrba</orth>
+    <lemma>dьrba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drha</ref> : та drbu</orth>
+      </form>
+      <sense>
+        <def>он напился пьяный, «надрался»</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Na Zlinsku. Brt. Kott VI, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нерест рыб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal III)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дерба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>новая пашня, с которой снят затверде­ лый верхний пласт; целина, залежь, заново вспаханная</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дерба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выжженное из-под леса небольшое место под посев льна , дерба задерновелая, по­ росшая травами или кустарником земля, годная для хлебопаше­ ства только после взлома дерна и сильной вспашки , дерба залежь, вновь поросшая лесом , сильно заросшая залежь (волог., арх.), подсека (арх., волог.), неболь­ шой участок для посева льна, на кот. выжгли лес (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Потанин. Этнографические заметки на пути от г. Никольска до г. Тотьмы. — ЖСт. IX, 1899, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Велоруссов. Мест­ ные слова Вологодской губ. —РФВ XVIII, 1887, 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 8, 6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 368)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, отглаг. производное от<ref type="etymon" target="dbrbati">*dьrbati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

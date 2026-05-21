@@ -1,0 +1,38 @@
+<Entry xml:id="dryivb">
+  <pb n="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dryivb</orth>
+    <lemma>dryivb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрын</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дрюк, палка, жердь, кол, дубина , толстая палка , палка, дубина , палка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ленингр., брян., курск., сарат., пенз., урал., свердл., Филин 8, 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иркутский областной словарь I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дрш</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Овручск. р-н, А. С. Лысенко. Словарь диалектной лексики северной Житомирщины. «Славянская лексикография и лексикология» 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В этимол. словарях Бернекера и Фасмера пропущено. Может восходить к и.-е. *druao-, производному от и.-е. *dra- 'дерево', ср. др.-инд. druna- 'лук', перс, durana 'дуга', 'радуга', 'лук', осет. aerdyn I aerduride, sendurae 'лук (оружие)', первонач. — 'дере­ вянный'. См. О. Н. Трубачев ВЯ 1975, № 1, 135.</note>
+</Entry>

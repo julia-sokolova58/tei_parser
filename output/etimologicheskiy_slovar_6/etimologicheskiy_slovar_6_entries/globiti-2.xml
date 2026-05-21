@@ -1,0 +1,96 @@
+<Entry xml:id="globiti-2">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbiti</orth>
+    <lemma>glǫbiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глабём</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаикарев — Близнев БД III, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длаби</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдалбливать, вырезать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>углублять, долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hloubiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>углуб­ лять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 680; Kott I, 435)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlbif</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glebic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>копать, выдалбливать, углублять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 841; Dorosz. II, 1153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глубйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>углублять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Филин 6, 205)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от основы <ref type="etymon" target="glgbofa">*glgb(ofa)</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

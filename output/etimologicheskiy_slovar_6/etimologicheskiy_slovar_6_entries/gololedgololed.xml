@@ -1,0 +1,97 @@
+<Entry xml:id="gololedgololed">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gololedъ/*gololedь</orth>
+    <lemma>gololedъ/*gololedь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gololedb</orth>
+    <lemma>gololedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gololed</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hololed</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>golo</ref>- ledz ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 869)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гололедъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голо­ ледица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. IV л., Срезневский I, 545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гололёд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плотный ледяной осадок, образующийся при резкой смене мо­ розной погоды оттепелью</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гололедь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица , гололедь гололедица , гололедь ж. р. гололед, гололедица (новг., олон., перм., пек., смол., тамб., курск., орл., донск., свердл., арх.), без снега замерзшая земля (енис, калуж.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., олон., тамб., Опыт 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Среднего Урала I, 119)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галалёд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Не- краш. 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="golb-9">*golb</ref> (см.) и <ref type="etymon" target="sh-3">*Шъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

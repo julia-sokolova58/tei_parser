@@ -1,0 +1,35 @@
+<Entry xml:id="boky">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boky</orth>
+    <lemma>boky</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. *bokbve</orth>
+    <lemma>род. п. *bokbve</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ъдкиа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подорожник Plan- tago, germen</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стулли, Вук, RJA I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>Дубровник</ref>) бдква ж. р.</orth>
+      </form>
+      <sense>
+        <def>подорожник Plantago, также бдквица ж. р</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Возм., родственно<xr type="compare">см. <ref type="etymon" target="ok-2">*Ъокъ</ref>
+    </xr>. Ввиду характера конца основы 
+(-у/-ъие) древность допустима.</note>
+</Entry>

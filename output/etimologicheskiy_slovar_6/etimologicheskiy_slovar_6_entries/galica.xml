@@ -1,0 +1,114 @@
+<Entry xml:id="galica">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galica</orth>
+    <lemma>galica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>галица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка Corvus monedula . также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Младе­ нов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>галица</ref> ж. р. . га- лица ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворон, ворона, название птицы (Архив Болг. диал. словаря), галицъ ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>галица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворона , сер­ бохорв. galica ж. р. название некоторых птиц с черным опере­ нием , galica ж. р. название домашних животных черной масти (корова, овца, кошка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; К. Пеев. За македонската дщалектна лексика.—MJ X X I , 1970, 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 94)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>галица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>галка , также в кач-ве личного имени собств. Галица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. плк. Игор.; Сл. о Зад. V. Дуб. Сб. XVI в. 178, Срезневский I, 509; Иов. вр. л. под 1097 г., Лавр. л. 1377, л. 91 об., Картотека СДР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1495 г., Писц. I, 663, Тупиков 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка , также в кач-ве местн. названия — Галица, река близ Красивой Мечи, бывш. Ефремовск. у. Тульск. губ. , деревня в бывш. Нежинск. у. Черниговск. губ.; Коровичск. у. Новгород­ ской губ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., пек., Опыт 35; Добровольский 118; Куликовский 145; Филин 6, ИЗ: новг., пек., смол., арх., онеж., ленингр., костр., каз., тобол., ср.-урал., курск.; Сл. Сред­ него Урала 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(W6rterbuch der russischen Gewassernamen I, 418)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russiscties geographisches Namenbuch II, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>галиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка . — Ср. сюда же производное Галичь м. р., название города в Галицкой земле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словник ст.-укр. мови XIV—XV ст. I, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="gala">*gala</ref>, <ref type="etymon" target="gafa">*gafa</ref> II (см.), суб­
+стантивация этого последнего.</gram>
+  </gramGrp>
+</Entry>

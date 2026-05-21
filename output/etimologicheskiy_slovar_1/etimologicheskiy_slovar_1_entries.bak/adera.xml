@@ -1,0 +1,28 @@
+<Entry xml:id="adera">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>adera</orth>
+    <lemma>adera</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>яде</ref> pa</orth>
+      </form>
+      <sense>
+        <def>сварливый, неуживчивый человек,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 222; Картотека Словаря русских народных говоров)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение<ref type="etymon" target="a-dera">*a-dera</ref> с приставкой 
+а-, 
+обозначающей 
+приблизительность ( &lt; и.-е. <ref type="etymon" target="yo-">*ё-</ref> I <ref type="etymon" target="o-">*о-)</ref>; основа — к <ref type="etymon" target="derg">*derg</ref>, <ref type="etymon" target="dbrati">*dbrati</ref>, 
+ср. русск. драть, а также драться.</gram>
+  </gramGrp>
+  <note>Предположительно относим к праслав. ввиду древности приставки и потенциальной древности префиксальных сложений данного типа, ср., например, *abredb, *аЬгЫъ, *aduxa (и т. п. в настоящем выпуске словаря). Показа­ тельна акцентологическая характеристика русск. ядера — уда­ рение на исконно долгом гласном, что соответствует изложенной этимологии.</note>
+</Entry>

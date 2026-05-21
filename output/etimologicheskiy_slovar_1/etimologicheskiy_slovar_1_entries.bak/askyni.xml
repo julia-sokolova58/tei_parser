@@ -1,0 +1,64 @@
+<Entry xml:id="askyni">
+  <pb n="80" end_page="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>askyni</orth>
+    <lemma>askyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeskyne</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>пещера</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaskyna</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jaskinia</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>askinia</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>яскйня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пещера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. А. Марусенко. Материалы б Этимологический словарь к словарю украинских географических апеллятивов (названия рельефов). — сб. «Полесье». М., 1968, 255)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. слово, реконструируемое нами как *askyni (о рекон­ струкции *eskyni &lt;<xr type="compare">см. <ref type="etymon" target="ez-k-o-">*ez-k-o-</ref>
+    </xr> предыд. 
+статью), — типичный 
+зап.-слав, элемент лексики (укр. диал. зап. яскйня, по-видимому, 
+заимств. из слвц. или польск.).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от<ref type="etymon" target="avk">*авкъ</ref> 
+(см.), судя по форманту — достаточно древнее по времени обра­
+зования.</gram>
+  </gramGrp>
+  <note>Для суждений о начале праслав. слова небезынтересно ст.-польск., польск. диал. askinia (см. выше). Кроме литер., приводимой под *авкъ (выше), см. еще Slawski I, 5 1 2 — 5 1 3 (автор следует в основном Бернекеру). Поскольку ареалы *askyni (чеш., слвц., польск.) и *askb (словен., слвц., н.-луж.) совпадают лишь отчасти, можно думать, что до нас дошли только реликты древних отношений и ареалов.</note>
+</Entry>

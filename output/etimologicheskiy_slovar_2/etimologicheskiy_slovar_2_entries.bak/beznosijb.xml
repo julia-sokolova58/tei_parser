@@ -1,0 +1,148 @@
+<Entry xml:id="beznosijb">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beznosi&gt;(jb)</orth>
+    <lemma>beznosi&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безнос</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безнос</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 271; РСА I, 413)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>breznos</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beznosy</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>beznosy</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безносый ; ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>BeznosM</ref>. р., имя собств., 1453 г., Beznosy, м. р., имя собств., 1485 г.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zilinsk. kn. 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>beznosy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безносый , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Bfijeznos</ref>, имя собств.: Jacobum Bez- nos. . ., 1369 г.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«Stown. stpol. nazw osobowych» I, 2, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безносый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого или у чего нет носа или носка; курносый , сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 165—166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>безнбсич</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>без­ носый , безнбсик м. р., прозвище человека с маленьким носом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Филин 2, 194)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(костр., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безносый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имею­ щий носа, безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязнбсы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. типа, образованное из<ref type="etymon" target="bez-61">*bez</ref> (см.; 
+там же говорится подробно о словообразовании этих прилаг-ных) 
+и основы имени <ref type="etymon" target="dgo5">*дго5ъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Специально о данном типе см. Tas­ zycki. Archaiczny typ przymiotnikow slowianskich. — T-cki. Roz­ prawy i studia polonistyczne. IV, 287—288. О древности этого прйлаг-ного свидетельствует, кроме того, народный характер употребления и ранний пример из ономастики.</note>
+</Entry>

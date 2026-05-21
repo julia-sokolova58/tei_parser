@@ -1,0 +1,79 @@
+<Entry xml:id="gazditi">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gazditi</orth>
+    <lemma>gazditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гйзя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, бранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>gdziti</ref> se</orth>
+      </form>
+      <sense>
+        <def>возбуждать отвращение (напр. о еде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>газйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломить . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(гул., Даль 2 I, 340; Филин 6, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>огазнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>покрыться инеем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(неверно о нем — к *gaziti (см.). — см. Р. Смаль-Стоцький «Slavia» 5, 1926, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>агазны</ref>, агйзългвы</orth>
+      </form>
+      <sense>
+        <def>надоедливый, озор­ ной</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Бернекер и Фасмер пропустили эти слова, а болг. этимологи не обратили внимание на гйзя, отличное от газя 'переходить вброд'. Мы принимаем здесь *gazditi &lt; *gad-diti (экспрессивное удвоение и последующая диссимиляция), далее, родственно<xr type="compare">см. <ref type="etymon" target="gadb-2">*gadb</ref>
+    </xr> и  и  и  и <xr type="compare">см. <ref type="etymon" target="gvazdati">*gvazdati</ref>
+    </xr>, ср. в последнем случае значен, словен. 
+gvazdati 'нести чушь' и болг. газя 'кричать, бранить' (ниже). 
+См. Ф. Безлай ВЯ 1967, № 4, 53; Bezlaj. Eseji 137; Bezlaj. Etim. 
+slovar I, 141; О. H. Трубачев «Этимология. 1972» (M., 1974), 23., ср. в последнем случае значен, словен. 
+gvazdati 'нести чушь' и болг. газя 'кричать, бранить' (ниже). 
+См. Ф. Безлай ВЯ 1967, № 4, 53; Bezlaj. Eseji 137; Bezlaj. Etim. 
+slovar I, 141; О. H. Трубачев «Этимология. 1972» (M., 1974), 23., ср. в последнем случае значен, словен. 
+gvazdati 'нести чушь' и болг. газя 'кричать, бранить' (ниже). 
+См. Ф. Безлай ВЯ 1967, № 4, 53; Bezlaj. Eseji 137; Bezlaj. Etim. 
+slovar I, 141; О. H. Трубачев «Этимология. 1972» (M., 1974), 23., ср. в последнем случае значен, словен. 
+gvazdati 'нести чушь' и болг. газя 'кричать, бранить' (ниже). 
+См. Ф. Безлай ВЯ 1967, № 4, 53; Bezlaj. Eseji 137; Bezlaj. Etim. 
+slovar I, 141; О. H. Трубачев «Этимология. 1972» (M., 1974), 23.</note>
+</Entry>

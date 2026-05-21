@@ -1,0 +1,246 @@
+<Entry xml:id="esennj">
+  <pb n="29" end_page="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esenьnъ(jь)</orth>
+    <lemma>esenьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёсенен</ref>, -нна, -нно</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: ссён- ный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>есён</ref>, -нна, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний , есённо ср. р. озимые</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>есенен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёсёььй</ref>, -н&gt;а, -тьё, также jeseni, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 620)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesenji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>jesenny</ref>, jesenni, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний, елвц. jesenny, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jeseni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ма- tejefk. Vychodonovohrad. 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jesienny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>осенънии</ref> , также есеньныи</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грам. ИЗО г.; Ярл. Менг. Тим. 1267 г., Срезневский II, 716—717)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Кириак. 35, Срезневский I, 833)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>осенний</ref>, -яя% -ее</orth>
+      </form>
+      <sense>
+        <def>отно­ сящийся к осени; бывающий, происходящий осенью, также есён- ний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>осгннш</ref>, -л, -е</orth>
+      </form>
+      <sense>
+        <def>осенний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>асёнт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осенний. — Ср. и субстантивированное производ­ ное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>есёници</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>осенние посевы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. С. Младенов, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>осённица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождливая, похожая на осень пора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 163)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="esenb">*esenb</ref> (см.). 
+esera: полаб. jeserai мн. 'ость колоса' (Polanski—Sehnert 74, с ре­
+конструкцией <ref type="etymon" target="jesery">*jesery)</ref>, польск. диал. jesiora ж. р., стар, 
+jeslory 
+мн. 'рыбья кость' (Warsz. II, 171), словин. jiesora ж. р. 'рыбья 
+кость' (Lorentz Slovinz. Wb. I, 395).</gram>
+  </gramGrp>
+  <note>Производное с суфф. -ег- от к. *о$-&lt;и.-е. *afc- (<xr type="compare">см. <ref type="etymon" target="ostrb">*ostrb</ref>
+    </xr>), 
+поэтому можно говорить об ассимиляции 
+*esera &lt; *osera. Точнее
+•esetra 
+говорить о происхождении праслав. *esera из и.-е. *afcerd, основа 
+которого связана с гетероклитическими вар-ми *afcn-, *afces-. Ср. 
+лит. aserys, eserys 'окунь', лтш. asers, asars, 
+aseris то же. др.-
+исл. ggr, ogr, норв. ugar 
+agar а) 'морской окунь Регса marina'. 
+Обращает на себя внимание 
+самобытность знач-я полаб. слова, 
+уводящая в сферу растительной 
+номенклатуры. 
+См. J. Rozwadowski RS VII, 1914—1915, 19; Trautmann BSW 14; 
+Bruckner 206; Siawski I, 565; Fraenkel I, 125; О. H. Трубачев 
+«Этимология. 1968» (M., 1971), 60; «Stownik prastowianski» II, 24 
+(«Zarys slowotworstwa prastowianskiego»).), 
+поэтому можно говорить об ассимиляции 
+*esera &lt; *osera. Точнее
+•esetra 
+говорить о происхождении праслав. *esera из и.-е. *afcerd, основа 
+которого связана с гетероклитическими вар-ми *afcn-, *afces-. Ср. 
+лит. aserys, eserys 'окунь', лтш. asers, asars, 
+aseris то же. др.-
+исл. ggr, ogr, норв. ugar 
+agar а) 'морской окунь Регса marina'. 
+Обращает на себя внимание 
+самобытность знач-я полаб. слова, 
+уводящая в сферу растительной 
+номенклатуры. 
+См. J. Rozwadowski RS VII, 1914—1915, 19; Trautmann BSW 14; 
+Bruckner 206; Siawski I, 565; Fraenkel I, 125; О. H. Трубачев 
+«Этимология. 1968» (M., 1971), 60; «Stownik prastowianski» II, 24 
+(«Zarys slowotworstwa prastowianskiego»).), 
+поэтому можно говорить об ассимиляции 
+*esera &lt; *osera. Точнее
+•esetra 
+говорить о происхождении праслав. *esera из и.-е. *afcerd, основа 
+которого связана с гетероклитическими вар-ми *afcn-, *afces-. Ср. 
+лит. aserys, eserys 'окунь', лтш. asers, asars, 
+aseris то же. др.-
+исл. ggr, ogr, норв. ugar 
+agar а) 'морской окунь Регса marina'. 
+Обращает на себя внимание 
+самобытность знач-я полаб. слова, 
+уводящая в сферу растительной 
+номенклатуры. 
+См. J. Rozwadowski RS VII, 1914—1915, 19; Trautmann BSW 14; 
+Bruckner 206; Siawski I, 565; Fraenkel I, 125; О. H. Трубачев 
+«Этимология. 1968» (M., 1971), 60; «Stownik prastowianski» II, 24 
+(«Zarys slowotworstwa prastowianskiego»).), 
+поэтому можно говорить об ассимиляции 
+*esera &lt; *osera. Точнее
+•esetra 
+говорить о происхождении праслав. *esera из и.-е. *afcerd, основа 
+которого связана с гетероклитическими вар-ми *afcn-, *afces-. Ср. 
+лит. aserys, eserys 'окунь', лтш. asers, asars, 
+aseris то же. др.-
+исл. ggr, ogr, норв. ugar 
+agar а) 'морской окунь Регса marina'. 
+Обращает на себя внимание 
+самобытность знач-я полаб. слова, 
+уводящая в сферу растительной 
+номенклатуры. 
+См. J. Rozwadowski RS VII, 1914—1915, 19; Trautmann BSW 14; 
+Bruckner 206; Siawski I, 565; Fraenkel I, 125; О. H. Трубачев 
+«Этимология. 1968» (M., 1971), 60; «Stownik prastowianski» II, 24 
+(«Zarys slowotworstwa prastowianskiego»).</note>
+</Entry>

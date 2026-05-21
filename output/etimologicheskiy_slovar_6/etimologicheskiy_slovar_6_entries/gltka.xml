@@ -1,0 +1,94 @@
+<Entry xml:id="gltka">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtъka</orth>
+    <lemma>glъtъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глътка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глотка, глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гъаткъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голтка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глоток, глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глотка</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глотка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>о крикливом человеке или животном (арх., урал.), горло кувшина для молока (курск.), прожорливый человек, пьяница (арх.) , глотка ж. р. горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 203)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глотка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глотка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глотка, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>глотка</ref> ж. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Мапл. 135)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от основы гл. <ref type="etymon" target="gfetati">*gfetati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

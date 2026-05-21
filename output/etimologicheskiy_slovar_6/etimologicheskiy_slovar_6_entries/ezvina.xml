@@ -1,0 +1,151 @@
+<Entry xml:id="ezvina">
+  <pb n="57" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕzvina</orth>
+    <lemma>ĕzvina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>газБИЫЛ</ref> ж. p. срюХебс, latibulum</orth>
+      </form>
+      <sense>
+        <def>пещера, нора, яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Лзовина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>барсучья нора , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йазовйна</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>азбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нора, берлога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdzvina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яма, нора (напр. барсучья) , {йзбина ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jazuina</ref> ж. р., также j&amp;zbina ж. р.</orth>
+      </form>
+      <sense>
+        <def>яма, барсучья нора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jizuina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рубец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>теина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нора, логовище (Остр, ев.; Златостр. XII в.), ущелье, овраг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ряз. крм. 1284 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1644)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>Лзвина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рытвина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(моек., Даль 3 IV, 1564)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Лзвина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нора, ущелье, овраг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Камен. у. Желех. Вх., Гринченко IV, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>йазвина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яма под землей, вырытая водой, лисья нора , idzuyna ложбина, прорытая водой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойтвського д1алекту)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>язъвта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прорытая в земле галерея</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сержп., Байкоу—Некраш. 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="ezva">*ezva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

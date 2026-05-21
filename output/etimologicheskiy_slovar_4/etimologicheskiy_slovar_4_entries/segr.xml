@@ -1,0 +1,279 @@
+<Entry xml:id="segr">
+  <pb n="72" end_page="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегръ</orth>
+    <lemma>сегръ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>череп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>череп , чйреп м. р. черепок, раз­ битый горшок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ 14, 623; Героз: црЫъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чйр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъп м. р. глиняный черепок , чйреп м. р. то же , череп м. р. крышка для выпечки хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С Ковачев. Троянският говор. — Б Д IV, 232)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. Плевенско.—БД VI, 239; Л. Гълъбов БД II, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Говор на с. Съчанли, Гюмюрджинско.— БД VI, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>череп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>череп , цреп м. р. чере­ пушка, небольшой горшок, черепок (обломок), черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црёп</ref>, црщеп, црйпм. р.</orth>
+      </form>
+      <sense>
+        <def>черепок 7, черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIV в.; Ел. II: црёп)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>стер</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняный горшок, черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>стер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черепок, череп, stresna opeka</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, НО)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>strep</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>черепок, обломок, также tfep м, р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cerep</ref> , стар, cerep м. р.</orth>
+      </form>
+      <sense>
+        <def>черепок , skrepy</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 172: Glossy v slovafi latinskem od r. 1202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. I, 24, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crep</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>черепок, обломок, (цветочный) горшок, череп, черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222; также диал., см. Matejcik. Vychodonovohrad. 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cerep</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>череп, черепок, черепица , черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Lujca 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>crjop</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>crop</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обломок, череп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. 1, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>trzop</ref>, strzop м. р.</orth>
+      </form>
+      <sense>
+        <def>скорлупа, оболочка, глиняный горшок, ста­ рый черепок, горшок, большой горшок , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Черепъ</ref>, личное Ихмя собств. , черепъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1534 г., Тупиков 479)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(да послал я к тебе гсдрю масла коровя две кринки а весу в пер­ вой и с черепом тритцат пят гривенок. Памятники русск. народно- разговорного языка XVII в. М., 1965, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>череп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кости головы у позвоночных</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>череп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крыша над домом, высеченное в бревне место, в виде паза, на которое настилается потолок , череп горшок , череп, напр. снег лежит черепом, т. е. твердым, окрепшим от мороза пластом, череп кровля в избе; вырублен­ ное в бревне место в виде паза, на которое настилается потолоч­ ная доска, черепок, обломок глиняной посуды , череп лед по весенней дороге , череп остатки нерастаявшего льда на дорогах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добро­ вольский 981)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>череп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>череп, большой черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Харьк. у., Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>череп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черепица , череп череп, черепок, черепица , череп черепица, череп , череп черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Ю. Левко. Особливост1 гов1рки села Старого Давидкова Мукач1вського округу. Дип. роб. Ужгород, 1952, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карпатский диа­ лектологический атлас, карта № 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 471)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Г. Р. Шило. ГПвденно-зах1дн1 говори УРСР на швшч в1д Дшстра. Льв1в, 1957, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чэрап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>череп</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Обычно считается этимологически родственным др.-в.-нем. scirbi, нем. Scherbe 'черепок', др.-в.-нэм. w'eref (герм. *hwerfaz) 'кубок', др.-инд. каграга- м. р. 'черепок, чата' и в конечном счёте воз­ водится к и.-е *sker- 'резать'. Однако построение семантич. иерар­ хии при этом ('черепок' 'острый, резать') представляется весьма неполным и потому в значит, степени неверным. Некая основа *кегр-, предшествующая слав. *сегръ, обозначала не всякий чере­ пок, осколок, а только г л и н я н ы й черепок или сосуд. Как удалось выяснить, названия глины тесно связаны с названиями плетения (и смежными) и лишь на уровне древнего семантич. синкретизма мы можем говорить также о родстве с лексикой, значащей 'резать'. Праслав. *сегръ родственно<xr type="compare">см. <ref type="etymon" target="kgrai">*къграИ</ref>
+    </xr>, 
+подобно тому как *Шу/ъие, 
+<xr type="compare">см. <ref type="etymon" target="shka">*Шъка</ref>
+    </xr> 'глиняная посуда' род­
+ственны <xr type="compare">см. <ref type="etymon" target="latati">*latati</ref>
+    </xr>. 
+Из литературы: А. Погодин РФВ XXXIII, 1895, 336: J. Schef-
+telowitz ВВ XXVIII, 1904, 148—149; Berneker Т, 147; R. Trau! mann 
+ВВ XXX, 1906, 329; Е. Zupitza KZ XXXVII, 1904, 399; Н. Ре-
+der^ n KZ XXXTX, 1906, 378 (критика сближений с арм. кагар'п 
+'череп' 
+ввиду 
+невыясненной 
+двусложной 
+формы 
+корня, 
+а также ввиду арм. -f-); KuryJowicz. Etudes indo-europeennes 5, 
+21; Kluge
+1 5 660; Mayrhofer I, 174; Фасмер IV, 341; Трубачев. 
+Ремесленная терминология 228.</note>
+</Entry>

@@ -1,0 +1,24 @@
+<Entry xml:id="setegka">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сетегъка</orth>
+    <lemma>сетегъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cemerka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чемерица, чемеричный порошок</def>
+      </sense>
+    </item>
+  </etym>
+  <note>русск. чемёрка ж. p.</note>
+  <gramGrp>
+    <gram>Veratrum album; Veratrum nigrum, чихот- ная . , Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="seteg1">*сетегъ1</ref>
+      <ref type="etymon" target="setega-3">*сетега</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

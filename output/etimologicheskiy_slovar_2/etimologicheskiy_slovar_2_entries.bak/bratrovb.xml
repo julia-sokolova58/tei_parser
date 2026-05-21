@@ -1,0 +1,50 @@
+<Entry xml:id="bratrovb">
+  <pb n="238" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratrovb</orth>
+    <lemma>bratrovb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bratruv9</ref> -ova, -о, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bratrowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bratsowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф.<m type="suffix">
+        <ref>-ovb</ref>
+      </m> от <ref type="etymon" target="gagg">*Ъгаггъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. параллельное * bratovb (см.). *bratro\ TbCb: чеш. bratrovec, род. п. -vce, м. р. 'сын брата, племян­ ник', в.-луж. bratrowc м. р. то же (Pfuhl 45). Производное с суфф. -ьсь от прилаг. * bratrovb (см.) и субстан­ тивация этого последнего.</note>
+</Entry>

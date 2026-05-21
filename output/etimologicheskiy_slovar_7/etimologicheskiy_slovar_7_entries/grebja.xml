@@ -1,0 +1,229 @@
+<Entry xml:id="grebja">
+  <pb n="108" end_page="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebja</orth>
+    <lemma>grebja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грёбла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тропинка, канавка на огороде для посадки овощей , гребл&gt;а ж. р. ко­ черга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 605; RJA III, 409)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>greb</ref>\a, grebfa то же , gribfa ж. р.</orth>
+      </form>
+      <sense>
+        <def>канавка, борозда , gribfa то же , грёбал&gt;а ж. р. лопата для выгребания жара из печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 425)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mas. 432)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 600)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greblja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кочерга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 248; Slovar sloven, jezika I, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrjebja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ров (с валом), гребля, бо­ розда, рытвина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гребля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ров, вал, окоп*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. 102. А. Никольский РФВ XLII, 1899, 102; Поуч. Влад. Мон.; Новг. I л. под 1158 г., Срезневский I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гребля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>работа веслами в воде, имеющая целью передвижение по воде, сгребание чего-либо в кучу граблями, лопатой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гребля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гать, плотина , гребля ж. р. вода в пруде (калуж.), весло, которым гребут (в проти­ воположность кормовому) (тобол., том.) , гребля уборка сена (Картотека Словаря белозерских говоров), гребли мн. приспособление в виде железной пластины на длинной руко­ яти для сгребания соли на солеварнях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(донск., Опыт 41; Добровольский 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Филин 7, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гребля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плотина , греблг мн. грабли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 324)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грэбля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -]а от гл.<ref type="etymon" target="grebti-5">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="grobja">*grobja</ref>
+    </xr> 
+(см.). 
+grebti: ст.-слав. г^ети, греьж eXauveiv, remigare 'грести' (Zogr., Маг., 
+As., Вост., MikL, Sad., SJS), болг. греби 
+'черпать, рыть, копать, 
+грести (веслами)' (БТР; Дювернуа: гребж 'гребу', 'черпаю'), диал. 
+грёба 'черпать' (М. Младенов Б Д III, 53), макед. гребе 'царапать', 
+'скрести, 
+скоблить' (И-С), сербохорв. грёпети, 
+гребём 
+'скрести',
+'чистить', 'чесать', 'черпать' (PGA 
+III, 614), словен. grebsti, 
+gre-
+bem 'копать(ся), рыть', 'царапать, чесать' 
+(Plet. 
+I, 249), ст.-чеш. 
+hresti, 
+hfebu 'хоронить' (Gebauer I, 494), чеш. hfebsti, 
+hresti то же 
+(Kott I, 490), слвц. hriebsf 
+'копать, рыть (ногами, напр. о лошади 
+и курице)' (SSJ I, 525), также диал. hriepsff) 
+(Habovstiak. Orav. 
+132), польск. стар, grzesd 
+'хоронить, погребать' (Dorosz. II, 1353), 
+др.-русск., русск.-цслав. грести, 
+гребХ 'грести (лопатою, веслом)' 
+{Ио. VI, 19. 
+Остр, ев.), 'чесать' 
+(Ефр. 
+Сир. 
+XIV в.) 
+(Срезнев­
+ский I, 587), русск. грести, 
+гребу 
+'работая 
+веслом, 
+давать 
+ход 
+лодке', 'граблями, лопатой собирать что-либо мелкое, сыпучее', диал. 
+гребтй 
+'сгребать, 
+грести' 
+(пек., 
+Филин 
+7, 
+128), 
+укр. 
+грёбти 
+'грести (веслом)', 'сгребать (о сене)', 
+'рыть, 
+разгребать' 
+(Грин­
+ченко I, 324), блр. грэбщ 
+'грести, сгребать (сено и т. п.)'. 
+Праслав. *grebti 
+продолжает глагольную основу 
+и.-е. 
+*ghrebh-, 
+ср. лит. (с отличным вокализмом -ё-) 
+grebiu, 
+grebti 
+'грести, гра­
+бить граблями', лтш. grebt 'рыть', с вокализмом-о- в корне — гот., 
+др.-в.-нем. graban 
+'рыть, копать', авест. grab- 'хватать', ср., далее 
+(с вокализмом корня в нулевой 
+ступени) 
+др.-инд. grbhzidti 
+'хва­
+тать, схватывать'. 
+Возм., 
+сюда же хетт, 
+karp-lkrap- 
+'пожирать' 
+(см. о нем. Е. Н. Sturtevant «Language» 8, 1932, 130; W. Peter­
+sen ArOr IX, 1937, 
+205). 
+См. A. Schleicher KZ I, 1852, 141—142; Berneker I, 347—348 
+(неправомерно 
+разграничивает 
+greby, 
+greti 
+1. 'хватать; 
+сгребать 
+граблями: грести (веслом)' и grebg, greti 2. 'скрести, чесать, рыть' 
+и даже grebq, greti 
+3. 'воздерживаться, пренебрегать'); A. Meillet 
+MSL 14, 1907, 332—333; Он же. De 
+quelques mots relatifs a la 
+navigation. — RES VII, 1927,; Он же BSL 28, 1928, XLIV (Proces-
+verbaux des seances); 
+Trautmann 
+BSW 
+95—96; 
+Фасмер I, 454; 
+Fraenkel I, 165—166; F. Bezlaj JO 
+XXX, 243—244.</note>
+</Entry>

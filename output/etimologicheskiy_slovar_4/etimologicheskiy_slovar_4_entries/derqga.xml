@@ -1,0 +1,130 @@
+<Entry xml:id="derqga">
+  <pb n="207" end_page="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>der'qga</orth>
+    <lemma>der'qga</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derqga</orth>
+    <lemma>derqga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нераспаханное место, дёрн между двумя бороздами, близна, дефект в основе ткани, вы­ рытое потоком русло, град, ливень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дируга</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>град., ливневый дождь из тучи, занимающей часть неба и быстро перемещающейся от ветра , деруга ж. р. след, колея, русло потока, круп­ ная царапина на коже , дируга ж. р. след , диругъ ж. р. глубо­ кий след</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. К. Гъбюв. Мате­ риал за българския речник. От с. Конопчие (Чирпанско).—СбНУ IX, 1893, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deruga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>крикливая девчонка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gizqga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осока , 3ifqga м. p. высокий, стройный, гибкий человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>де</ref>- ргдга ж. р.</orth>
+      </form>
+      <sense>
+        <def>толстый, грубый холст из низкосортной пряжи</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>деруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буря, вьюга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 8, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерюга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерюга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерюга; грубое полотно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>дзеруга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>полотняная постилка, сшитая из шести полотнищ, двойная, постилка, вы­ тканная из лоскутков материи, нижний чехол для подушки, в который насыпают перья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Соколовская. Полесские назва­ ния одежды и обуви. «Лексика Полесья» 286)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -f)?ga от гл.<ref type="etymon" target="derii">*derii</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="derga-2">*der?ga</ref>
+    </xr> (см.), 
+от кот. данное слово не всегда легко отличить, напр. на польск.-
+словин. почве.</note>
+</Entry>

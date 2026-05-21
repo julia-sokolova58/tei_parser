@@ -1,0 +1,33 @@
+<Entry xml:id="bezvekbjb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvekb(jb)</orth>
+    <lemma>bezvekb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безвЫъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(—Безсластенъ без- вЪкъ при всемъ токмо крЪпокъ на доброчстие. —Жит. Ник. 43. Мин. Чет. апр. 52 — в греч. нет. Срезневский I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безвёкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>вечный, бесконечный по времени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Филин 2, 182)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-117">*bez</ref> (см.) и <ref type="etymon" target="iyok-3">*иёкъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Семантически любопытен русск. диал. пример, где отрицание выступает в роли усиления, ср. и укр. безвъчний в предыд. статье.</note>
+</Entry>

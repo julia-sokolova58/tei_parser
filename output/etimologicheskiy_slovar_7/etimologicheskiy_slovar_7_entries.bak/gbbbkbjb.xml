@@ -1,0 +1,46 @@
+<Entry xml:id="gbbbkbjb">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbbkbjb</orth>
+    <lemma>gbbbkbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъвък</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гибкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hebky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гибкий (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hebky</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. 'гибкий, мягкий, нежный', слвц. hebky, прилаг. то же (SSJ I, 465).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="gbbnqti">*gbbnqti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="gybk">*gybъkъ</ref>
+    </xr> 
+(см.).</note>
+</Entry>

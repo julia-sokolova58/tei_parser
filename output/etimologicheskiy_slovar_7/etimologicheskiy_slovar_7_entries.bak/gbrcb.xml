@@ -1,0 +1,117 @@
+<Entry xml:id="gbrcb">
+  <pb n="201" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrcb</orth>
+    <lemma>gbrcb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrca</orth>
+    <lemma>gbrca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръчъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>корча, судорога, спазмы, гръч м. р. судорога , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гръчка</ref> ж. р. (Речник РОДД)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грч</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>судорога, спазма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грч</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>судорога, grca ж. р. сук в дереве , сло­ вен. grca ж. р. ссук, узел в древесине</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 395)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246—247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrce</ref>, hrc ж. р.</orth>
+      </form>
+      <sense>
+        <def>бугор, железа, желвак, шишка, пучок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrc</ref>, hrca</orth>
+      </form>
+      <sense>
+        <def>шишка, сук , grca ж. p. опухоль, шишка , grca опухоль, шишка, пук, клок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 106; Hosek. Ceskomorav. II, 147; Gregor. Slov. slavk.-bucov. 64; Malina. Mistr. 34; Konif. Slov. morav. 288; Sverak. Boskov. 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Belie. Dolsk. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrca</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>шишка, опухоль, сук, сучок в дереве, кочка, бугор, куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гйрч</ref>!а, гйрч</orth>
+      </form>
+      <sense>
+        <def>а нарост на дереве, болезненный нарост над копытами у лошадей (Онишкевич. Словник бойтвського дiaлeктy)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Нельзя отрывать от<xr type="compare">см. <ref type="etymon" target="kgs">*къгсъ</ref>
+    </xr>, экспрессивным преобразованием 
+которого 
+*gbrcb 
+является. 
+Специальное 
+сближение 
+с 
+др.-англ. 
+crincan, 
+cringan 
+(Е. Zupitza KZ XXXVI, 1900, 65; F. A. Wood IF 
+XVIII, 1905/1906, 12) в этой связи теряет смысл.</note>
+</Entry>

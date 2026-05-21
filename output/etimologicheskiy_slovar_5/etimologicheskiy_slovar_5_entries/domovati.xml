@@ -1,0 +1,49 @@
+<Entry xml:id="domovati">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domovati</orth>
+    <lemma>domovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. (<ref>Дювернуа</ref>) домувамъ домъ</orth>
+      </form>
+      <sense>
+        <def>вести хорошо домаш­ нее хозяйство, домувамъ присматривать за домом, сербо­ хорв. domovati быть дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA II, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>do</ref>- movdti</orth>
+      </form>
+      <sense>
+        <def>обитать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>domouati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обитать, про­ живать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от -и- основы <ref type="etymon" target="domb">*domb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

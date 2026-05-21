@@ -1,0 +1,161 @@
+<Entry xml:id="cesrati">
+  <pb n="90" end_page="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesrati</orth>
+    <lemma>cesrati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cesrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>carminare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>cesrdt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать (шерсть, волокно)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Црзс, см. М. Tentor. Leksicka sla- ganja. «Razprave» I, 1950, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesrati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. , с <ref>экспрессивной</ref> заменой s^&gt;x, cechrati</orth>
+      </form>
+      <sense>
+        <def>carpinare (XV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cechrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трепать, пушить, еро­ шить, cesrati то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cechraV</ref> то же , cochraf</orth>
+      </form>
+      <sense>
+        <def>трепать, ерошить , cuchraV то же , cochraf sa ковылять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 79)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czoohrac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать, путать, ерошить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чухратъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обрывать ветви, бежать , чухратъся чесаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 261)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чухрати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обрубывать ветви, сучья на дереве; обрывать одним движением руки ряд листьев на ветви, разби­ рать овечью шерсть, очищая от сору, бить, колотить, бежать, (об огне пожара) быстро подвигаться, охватывая , чустрати то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 480)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чЧхрати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расчесывать на гребне (шерсть)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 472)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от именной основы <ref type="etymon" target="cesr-y">*cesr-y</ref> в свободном 
+виде не засвидетельствованной и служившей, видимо, названием ору­
+дия, ср. родственное 
+ирл. cir 
+'гребень' &lt;^ <ref type="etymon" target="kesra">*kesra</ref> (см. о нем 
+J. Strachan ВВ XX, 1894, 38).</gram>
+  </gramGrp>
+  <note>Далее связано с<xr type="compare">см. <ref type="etymon" target="cesati">*cesati</ref>
+    </xr>, 
+с кот. тесно соотносится 
+употребление 
+перечисленных 
+выше 
+глагольных 
+форм. 
+О 
+межславянских 
+отношениях 
+см. 
+еще 
+F. Stawski «Sprawozdania z prac naukowych wydziatu nauk spo-
+v *ecznych» V, 5 (27), 1963, 47.</note>
+</Entry>

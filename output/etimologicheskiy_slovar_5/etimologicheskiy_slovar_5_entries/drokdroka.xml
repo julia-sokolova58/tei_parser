@@ -1,0 +1,75 @@
+<Entry xml:id="drokdroka">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drokъ/*droka</orth>
+    <lemma>drokъ/*droka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>droka</orth>
+    <lemma>droka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Дрокъ</ref>, личное имя собств. , также Дрока</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1958 г., Тупиков 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1473 г., Тупиков 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Genista, Origanum vulgare, душица , дрок м. р. пора, когда скот дурит, шалит, бе­ сится с жиру, бегает и ревет от жары, от комара и мухи, от оводов , беспокойное поведение скота во время течки; ярение . дрока баловство, потачка, ласка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(донск., Филин 8, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 20; Филин 8, 198: волог., новг., олон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>др1к</ref>, род. п. дроку, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение дрок Genista tinctoria, овод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дрок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>овод , друЬк, род. п. дроку, м. р. жаркая попа в мае, июне, когда скотину преследуют оводы и она бросается во все стороны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(II. С. Лисенко. Словник д1алектно1 лексики середнього i схщного Гкшсся 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомир- щины. — «Славянская лексикография и лексикология» 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Конкретные знач-я вроде 'растение Genista' вторичны, основ­ ным является знач. названия действия 'беспокойное, раздражен­ ное поведение' (ср. выше), что вместе с морфол. характеристикой (-о- вокализм) указывает на отглагольность формы *drokb.</note>
+  <gramGrp>
+    <gram>Труд­ ность состоит в том, что обнаружить исходный праслав. гл.<ref type="etymon" target="drekt4">*drekt4</ref> 
+пока не удается.</gram>
+  </gramGrp>
+  <note>Ясно, что речь идет о расширении и.-е. *dr-j*der- 'драть, рвать', но непосредственно производить русск. дрок от драть (так см. Фасмер I, 541) вряд ли верно. Как соотносительная параллель к слав. *drokb может быть ука­ зано лит. drakas 'шум, скандал и т. п.' (см. о нем Fraenkel I, 101).</note>
+</Entry>

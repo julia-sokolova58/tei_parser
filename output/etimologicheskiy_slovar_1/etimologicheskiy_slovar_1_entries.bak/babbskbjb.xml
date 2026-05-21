@@ -1,0 +1,123 @@
+<Entry xml:id="babbskbjb">
+  <pb n="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>babbskbjb</orth>
+    <lemma>babbskbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бапскй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабий; старушечий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA 1, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>babski</ref> прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PJet. 1, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>babskij</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>бабий; знахарский</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>babsky</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. (стар.) <ref>babski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>женский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>babski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bapsh</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i прилаг. бабий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бабсъкий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабий, бабский . — Возможно, сюда же в конечном счете и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бабешки</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>старушечий, бабушкин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бабешки</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабий, старуше­ чий , кот., строго говоря, продолжают некую праформу *ЬаЬъсъ8къ]ъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъя/съ/ь от<ref type="etymon" target="baba-9">*baba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

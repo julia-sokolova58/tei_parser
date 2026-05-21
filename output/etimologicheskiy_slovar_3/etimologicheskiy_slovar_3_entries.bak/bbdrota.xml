@@ -1,0 +1,46 @@
+<Entry xml:id="bbdrota">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdrota</orth>
+    <lemma>bbdrota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бодрота</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(ГСБЛАА ему бодроту воинскую. Иос. Флав. О полонении Иерусалима. Кн. 4—7. Копия рукописи Волокол. м., л. 140 об. XII в., список XVI в. Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бодрота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нарядность, щегольство . — Сюда же, в конечном счете</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бъжд</ref>- рета, бождрета</orth>
+      </form>
+      <sense>
+        <def>бодрость урт^бртцзк; , образованное от сравн. степ. *bbdrje~</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дан. V, 11, Срезневский I, 197)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="bbdrb-2">*bbdrb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

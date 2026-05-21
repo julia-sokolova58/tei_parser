@@ -1,0 +1,62 @@
+<Entry xml:id="domovik">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domovikъ</orth>
+    <lemma>domovikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>домовик</ref> м. р. по суеверным представле­ ниям—</orth>
+      </form>
+      <sense>
+        <def>добрый или злой дух, живущий в доме; домовой (новг., олон., калуж., орл.), зять, принятый в дом невесты (олон., волог., яросл.. новг., киров.) , домовик м. р. хозяин дома, избы, постоялого двора , домовик м. р. тот, кто сидит дома, не работает, злой дух, живущий в доме; домо­ вой, гроб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 119)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., смол., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>домовик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дамавгк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домовой.— Сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>домовйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>домашняя хозяйка (олон.), по суеверным представлениям—жена доброго и злого духа, жи­ вущего в доме</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> от прилаг. <ref type="etymon" target="domovb">*domovb</ref> (см.); субстанти­
+вация.</gram>
+  </gramGrp>
+</Entry>

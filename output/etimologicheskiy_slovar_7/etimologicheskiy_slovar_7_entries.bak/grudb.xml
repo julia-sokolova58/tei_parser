@@ -1,0 +1,26 @@
+<Entry xml:id="grudb">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grudb</orth>
+    <lemma>grudb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gruda</orth>
+    <lemma>gruda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>grud</ref> м. p., стар, gruda ж. p.</orth>
+      </form>
+      <sense>
+        <def>тош­ нота, отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 336)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gruditi">*gruditi</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,122 @@
+<Entry xml:id="gode">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*godĕ</orth>
+    <lemma>godĕ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>нареч.</orth>
+    <lemma>нареч.</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гсд</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к, нареч. cbecxov, beneplacite угодно, приятно: годк выти, мл rc\vk</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., Euch., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>годе</ref>, част, при мест.: кой-годе</orth>
+      </form>
+      <sense>
+        <def>кто-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>годе</ref>, част.: где-годе</orth>
+      </form>
+      <sense>
+        <def>где-либо, где-нибудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>годе</ref>, годи, усилит, част, при неопред. мест.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 414—415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>godi</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>приятно, угодно, =koli</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hode</ref>: pozde hode</orth>
+      </form>
+      <sense>
+        <def>поздно, в поздний час</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>годе</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>полно, довольно, будет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ворон., орл., калуж., пенз., костр., волог., нижегор., Даль 3 I, 903; Филин 6, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гбдг</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>полно, довольно, нельзя, невозможно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 298; Укр.-рос. словн.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбдзе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватит</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гбдзя</ref>, нареч. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Маг1л. 137)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adverb</pos>
+    <gram>Нареч. на<m type="suffix">
+        <ref>-ё</ref>
+      </m> от основы <ref type="etymon" target="godb">*godb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

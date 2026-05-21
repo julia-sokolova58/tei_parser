@@ -1,0 +1,81 @@
+<Entry xml:id="gykati">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gykati</orth>
+    <lemma>gykati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hykati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вскрикивать от изумления</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 516)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hykat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hykatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>всхлипы­ вать, плакать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 922)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гикать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать пронзитель­ ный крик, восклицание, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гикать</ref> , гикать</orth>
+      </form>
+      <sense>
+        <def>кричать по-лебяжьи , ср. сюда же гичать кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КАССР, сарат., Филин 6, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Куликов­ ский 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(донск., терск., Филин 6, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ггкаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гикать</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения.</note>
+</Entry>

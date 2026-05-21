@@ -1,0 +1,48 @@
+<Entry xml:id="bermenatiji">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bermenati»(ji»)</orth>
+    <lemma>bermenati»(ji»)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бременит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беременный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, /147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brtmeual</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>тяжелый, тяжкий, беременный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. .1, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bf</ref> степи/у</orth>
+      </form>
+      <sense>
+        <def>отягощенный, тяжело нагруженный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, (.);&gt;)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от основы<ref type="etymon" target="egtep-">*Ьегтеп-</ref> (см. 
+<ref type="etymon" target="egshch">*Ьегщ)</ref>.</gram>
+  </gramGrp>
+</Entry>

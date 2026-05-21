@@ -1,0 +1,27 @@
+<Entry xml:id="esa">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*eša</orth>
+    <lemma>eša</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>еша</ref>, \еша</orth>
+      </form>
+      <sense>
+        <def>еще (Толк. неуд. позн. реч.), utinam, ocpeXov</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. Псалт. XIII в., Кирил. Иерус. XII в. 12, Срезневский I, 836—837)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Объяснено Г. А.</note>
+  <gramGrp>
+    <gram>Ильинским как продолжение и.-е.<ref type="etymon" target="esiet">*esiet</ref>, 
+3 л. ед. ч. оптатива гл. <ref type="etymon" target="es-">*es-</ref> (см. <ref type="etymon" target="esmb">*esmb)</ref>, ср. родственные греч. 
+et-rj, др.-лат. siet, др.-инд. syat.</gram>
+  </gramGrp>
+  <note>См. Фасмер И, 30 (с литер.).</note>
+</Entry>

@@ -1,0 +1,61 @@
+<Entry xml:id="cetatis">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetati s§</orth>
+    <lemma>cetati s§</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>cetac</ref> si?</orth>
+      </form>
+      <sense>
+        <def>ссориться, спорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>cotac</ref> si?</orth>
+      </form>
+      <sense>
+        <def>жиреть, отъедаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>че</ref>- тать</orth>
+      </form>
+      <sense>
+        <def>что или кого с кем признавать парой, дружкой; соединять четами; равнять, уподоблять, ставить парою, за одно , четаться равняться; бросать четку, стараться сделать четку в игре</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1329)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., Даль 3 IV, 132Э)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чатаща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>знаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Полевой, Новозыбк. 36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный от<ref type="etymon" target="ceta">*ceta</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

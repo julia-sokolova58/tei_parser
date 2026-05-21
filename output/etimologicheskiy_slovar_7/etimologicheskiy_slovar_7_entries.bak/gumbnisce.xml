@@ -1,0 +1,80 @@
+<Entry xml:id="gumbnisce">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gumbnisce</orth>
+    <lemma>gumbnisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гумнище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гумно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: гум- нйщё)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гу</ref> мните ср. р.</orth>
+      </form>
+      <sense>
+        <def>гумно , гувни- ште ср. р. ток, гумно , сербо­ хорв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гумнйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место для гумна или где было гумно , также гувнйште ср. р. , Gumniste ср. р., местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 753)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 733)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gum</ref>- nisce ср. р.</orth>
+      </form>
+      <sense>
+        <def>гумно в поле, место, где было гумно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>humnisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место для гумна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 517)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Humniste ср. р., местн. название (Profous I, 702), н.-луж. gum- nisdo ср. р. 'место ловли птиц' (Muka St. I, 341), ст.-польск. gumnisko ср. р. 'гумно' (St. stpol. II, 521), др.-русск, гХмънище (Далъ есмъ въ домъ святому Николи. . . полоса земли Урвановь- ская и гумнищо Урвановское. Дух. Вас. иг. ок. 1350 г., Срез­ невский I, 609), русск. диал. гумнище ср. р. 'гумно' (твер., ворон., ср.-урал., пек., смол., Филин 7, 230), укр. гумнище ср. р. 'место, на котором прежде было гумно, гумнище' (Грин­ ченко I, 340), блр. диал. гумтшча ср. р. (Сцяшковтч, Грод. 132), гумтшча, гумётшча ср. р. 'место под гумном или около гумна' (Бялькев1ч. Магш. 142), гумтшча ср. р. 'место, где было гумно' (Матэрыялы для дыял. слоунша Гомельшчыны 239).</note>
+  <gramGrp>
+    <gram>Производное (название места) с суф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="gumbno">*gumbno</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

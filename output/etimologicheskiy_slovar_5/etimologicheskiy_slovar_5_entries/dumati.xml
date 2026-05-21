@@ -1,0 +1,306 @@
+<Entry xml:id="dumati">
+  <pb n="154" end_page="156" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dumati</orth>
+    <lemma>dumati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>думам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>думам</ref> то же , думём то же , дум</orth>
+      </form>
+      <sense>
+        <def>думать (с. Корница, Благоевградско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Ев­ статиева. С Тръстеник, Плевенско. — БД VI, 169; Гълъбов БД II, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дума</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>думать, помнить, говорить , думам думать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Галичник, см. Б. Марков. Забелешки за лексичниот ма­ териал во Билтенот. — MJ IV, 1953, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dumati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гово­ рить, думать, задумываться , думати задумы­ ваться, напряжённо думать, говорить, разговаривать, советовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 885)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 20—21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>думат</ref> сг</orth>
+      </form>
+      <sense>
+        <def>додумываться, думать (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dumati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>думать, догадываться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dumaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>размышлять, думать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. , <ref>книж</ref>. dumac</orth>
+      </form>
+      <sense>
+        <def>думать, размышлять, мечтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 426)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХмати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рассуждать, совещаться , мыслить , замышлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 944 г., 971 г.; Поуч. Влад. Мон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иос. Флав. B. Иуд. V. 6.2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1097 г.; Новг. I л. под 1342 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 743—744)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>думать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мыслить, размышлять, предполагать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>думати</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>думаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>думать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По мнению Махека (Machek 2 134), чеш. dumati и слвц. dwnaV заимств. из польск. Этимологизация слов<ref type="etymon" target="dwna">*dwna</ref>, <ref type="etymon" target="dumati">*dumati</ref> — яркий пример того, как 
+неразработанность семантич. истории слова оборачивается неудачей 
+для собственно этимологич. разысканий. До последнего времени 
+признается, пожалуй, наиболее убедительной этимология, кот. ис­
+ходит из идеи изначальной данности знач-я 'мысль', 
+'думать', 
+в то время как это знач. есть результат определенного семантич. 
+развития. Речь идет об объяснении слав. <ref type="etymon" target="duma">*duma</ref> (для большинства 
+существующих этихмологий характерно оперирование именем как 
+основным словом этой глагольно-именной пары) как 
+заимствования 
+из герм., ср. гот. doms 'смысл, суждение'. См. Miklosich 52; 
+C. С. Uhlenbeck. Die germanischen 
+Worter im Altslavischen. — 
+AfslPh XV, 1893, 486; F. Solmsen KZ X X X I V . 1897, 53; A. Fick 
+BB XXIX, 
+1905, 238 (оба последних автора сближают <ref type="etymon" target="duma">*duma</ref> 
+с фриг. 8оир.о&lt;;: lepog Soupiog = 
+ISOOQ 
+абухХ^тод; как увидим ниже, со­
+звучие, по всей видимости, случайное); Berneker I, 237; J. J. Mik-
+kola RES I, 1921, 202; Bruckner 103; Kiparsky. Die gemeinslav. 
+Lehnworter aus dem Germ. 171; V. Kiparsky. Zur Datierung der 
+gemeinslavischen Lehnworter aus dem Germanischen. — AION (sez. 
+slava) I, 
+1958, 18; SJawski I, 
+179; Фасмер I, 552; Георгиев 
+ВЕР VI, 446; Skok. Etim. rjecn. I, 456. Сомнения (в частности, 
+семантич. характера) по поводу однозначного истолкования слав, 
+слова как герм, заимствования см. Мартынов. Славяно-германское 
+лексическое взаимодействие древнейшей поры 82—84. Слав, слово 
+семантически богаче германского (ср. основные знач-я 'слово', 
+'мысль', 'песня', 'совет', 'надутость, гордость' у слав, имени <ref type="etymon" target="dumat">*dumat</ref> 
+выше) и во многом не совпадает с последним. Этим обстоятель­
+ством оправданы поиски особой, негерм, этимологии слав, слова. 
+Не все опыты такого рода удачны, ср. умозрительную гипотезу 
+о метатезной связи слав. <ref type="etymon" target="duma">*duma</ref>: лит. ap-maudas 'досада, забота' 
+(Otr^bski.</gram>
+  </gramGrp>
+  <note>Studia indoeuropeistyczne 112), кот., впрочем, строится все на той же идее изначальности знач-я 'мысль', как и совер­ шенно иная этимология Вайана:<xr type="compare">ср. <ref type="etymon" target="doumeti">*doumeti</ref>
+    </xr>, 
+см. Vaillant. Gramm. comparee I, 199; A. Vaillant RES 27, 1951, 
+291 и сл. Первый серьезный шаг в семантич. реконструкции 
+слав, слова предпринял еще Младенов, кот., оспаривая герм, эти­
+мологию, обратил внимание на архаичность 
+знач-я болг. дума 
+слово' 
+и 
+на 
+возможность 
+родства 
+со слав. 
+, 
+см. Vaillant. Gramm. comparee I, 199; A. Vaillant RES 27, 1951, 
+291 и сл. Первый серьезный шаг в семантич. реконструкции 
+слав, слова предпринял еще Младенов, кот., оспаривая герм, эти­
+мологию, обратил внимание на архаичность 
+знач-я болг. дума 
+слово' 
+и 
+на 
+возможность 
+родства 
+со слав. 
+, 
+см. Vaillant. Gramm. comparee I, 199; A. Vaillant RES 27, 1951, 
+291 и сл. Первый серьезный шаг в семантич. реконструкции 
+слав, слова предпринял еще Младенов, кот., оспаривая герм, эти­
+мологию, обратил внимание на архаичность 
+знач-я болг. дума 
+слово' 
+и 
+на 
+возможность 
+родства 
+со слав. 
+, 
+см. Vaillant. Gramm. comparee I, 199; A. Vaillant RES 27, 1951, 
+291 и сл. Первый серьезный шаг в семантич. реконструкции 
+слав, слова предпринял еще Младенов, кот., оспаривая герм, эти­
+мологию, обратил внимание на архаичность 
+знач-я болг. дума 
+слово' 
+и 
+на 
+возможность 
+родства 
+со слав. 
+<xr type="compare">см. <ref type="etymon" target="duxb">*duxb</ref>
+    </xr>. 
+См. С. С. Младенов РФВ LXII, 1909, 262—265; Он же СбНУ 
+XXV, 1909, 57—58. Очень близко ср. еще I. Suman. «Duma». Sorod-
+nice in izvir besede duma. — DS XXI, 520 и сл. (цит. no: RS II, 1909,
+dunajb/*dunavb 
+2 5 4 — 2 5 5 ) . Эгот последний ученый, возражая против заимствования, 
+связывает *duma не только с *diix-/*dyx-/*dbx-9 
+но также и 
+с *&lt;čьт71р, *dqti 'дуть', а также с длительной формой -dymati. 
+Соб­
+ственно говоря, здесь представлены уже все элементы толкования, 
+так убедительно развернутого позднее Г. Якобссоном. См. G. Ja-
+cobsson. 'Hauch', Wort' und 'Gedanke' im Slavischen.— «Studia 
+slavica Gunnaro Gunnarsson sexagenario dedicata» (— «Acta Uni-
+versitatis Upsaliensis. Studia Slavica Upsaliensia» 1) 35 и сл. Ав­
+тор правильно определяет направление семантич. развития слав.. 
+См. С. С. Младенов РФВ LXII, 1909, 262—265; Он же СбНУ 
+XXV, 1909, 57—58. Очень близко ср. еще I. Suman. «Duma». Sorod-
+nice in izvir besede duma. — DS XXI, 520 и сл. (цит. no: RS II, 1909,
+dunajb/*dunavb 
+2 5 4 — 2 5 5 ) . Эгот последний ученый, возражая против заимствования, 
+связывает *duma не только с *diix-/*dyx-/*dbx-9 
+но также и 
+с *&lt;čьт71р, *dqti 'дуть', а также с длительной формой -dymati. 
+Соб­
+ственно говоря, здесь представлены уже все элементы толкования, 
+так убедительно развернутого позднее Г. Якобссоном. См. G. Ja-
+cobsson. 'Hauch', Wort' und 'Gedanke' im Slavischen.— «Studia 
+slavica Gunnaro Gunnarsson sexagenario dedicata» (— «Acta Uni-
+versitatis Upsaliensis. Studia Slavica Upsaliensia» 1) 35 и сл. Ав­
+тор правильно определяет направление семантич. развития слав.. 
+См. С. С. Младенов РФВ LXII, 1909, 262—265; Он же СбНУ 
+XXV, 1909, 57—58. Очень близко ср. еще I. Suman. «Duma». Sorod-
+nice in izvir besede duma. — DS XXI, 520 и сл. (цит. no: RS II, 1909,
+dunajb/*dunavb 
+2 5 4 — 2 5 5 ) . Эгот последний ученый, возражая против заимствования, 
+связывает *duma не только с *diix-/*dyx-/*dbx-9 
+но также и 
+с *&lt;čьт71р, *dqti 'дуть', а также с длительной формой -dymati. 
+Соб­
+ственно говоря, здесь представлены уже все элементы толкования, 
+так убедительно развернутого позднее Г. Якобссоном. См. G. Ja-
+cobsson. 'Hauch', Wort' und 'Gedanke' im Slavischen.— «Studia 
+slavica Gunnaro Gunnarsson sexagenario dedicata» (— «Acta Uni-
+versitatis Upsaliensis. Studia Slavica Upsaliensia» 1) 35 и сл. Ав­
+тор правильно определяет направление семантич. развития слав.. 
+См. С. С. Младенов РФВ LXII, 1909, 262—265; Он же СбНУ 
+XXV, 1909, 57—58. Очень близко ср. еще I. Suman. «Duma». Sorod-
+nice in izvir besede duma. — DS XXI, 520 и сл. (цит. no: RS II, 1909,
+dunajb/*dunavb 
+2 5 4 — 2 5 5 ) . Эгот последний ученый, возражая против заимствования, 
+связывает *duma не только с *diix-/*dyx-/*dbx-9 
+но также и 
+с *&lt;čьт71р, *dqti 'дуть', а также с длительной формой -dymati. 
+Соб­
+ственно говоря, здесь представлены уже все элементы толкования, 
+так убедительно развернутого позднее Г. Якобссоном. См. G. Ja-
+cobsson. 'Hauch', Wort' und 'Gedanke' im Slavischen.— «Studia 
+slavica Gunnaro Gunnarsson sexagenario dedicata» (— «Acta Uni-
+versitatis Upsaliensis. Studia Slavica Upsaliensia» 1) 35 и сл. Ав­
+тор правильно определяет направление семантич. развития слав.</note>
+</Entry>

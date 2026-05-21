@@ -1,0 +1,21 @@
+<Entry xml:id="bozetexb">
+  <pb n="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bozetexb</orth>
+    <lemma>bozetexb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bozetech</ref>, Boztech м. p., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ge­ bauer I, 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимич. сложение основ<ref type="etymon" target="bogb">*bogb</ref> (см.) и -tex- (см. <ref type="etymon" target="potexa">*potexa</ref>, 
+<ref type="etymon" target="utexa">*utexa</ref>, Hesiti).</gram>
+  </gramGrp>
+</Entry>

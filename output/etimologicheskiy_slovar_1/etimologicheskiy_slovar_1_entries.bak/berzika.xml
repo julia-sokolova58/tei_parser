@@ -1,0 +1,33 @@
+<Entry xml:id="berzika">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzika</orth>
+    <lemma>berzika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref> рези на ж. р.</orth>
+      </form>
+      <sense>
+        <def>береза*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА 11, 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от <ref type="etymon" target="berza">*berza</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср <ref type="etymon" target="berzica">*berzica</ref>
+    </xr> с этимоло­
+гически тождественным 
+формантом. 
+См. еще образование м. р . 
+*berzikb 
+(ниже).</note>
+</Entry>

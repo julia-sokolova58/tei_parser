@@ -1,0 +1,46 @@
+<Entry xml:id="cedisce">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cedisce</orth>
+    <lemma>cedisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cjedlste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кровельный желоб, место стока с крыши дождевой воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 805)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cediscc</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>приспособление для процеживания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cediste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>канава, ров с водой в поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)sce от гл.<ref type="etymon" target="cediti">*cediti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

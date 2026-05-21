@@ -1,0 +1,130 @@
+<Entry xml:id="gqs">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqs§</orth>
+    <lemma>gqs§</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -§te</orth>
+    <lemma>род. п. -§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъсё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок (РВЕ), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гасё</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев — БД III, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гусе</ref>, род. п. -ета, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 769)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gose</ref>, род. п. -eta, ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>house</ref>, род. п. -ete, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусе­ нок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>husa</ref>, род. п. -atfa, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 541)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>huso</ref>, род. п. -seta, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>huse</ref>, род. п. -sesa ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gqsif</ref>, род. п. -fda, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок , также g?si? ср. р. {Dorosz. II, 1114)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1074)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>goysq</ref>, род. п. -sdca, ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гуся</ref>, род. п. -сяти, ср. р.</orth>
+      </form>
+      <sense>
+        <def>гу­ сенок , также гусенЛ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гусяня</ref> ср. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -ft- от<ref type="etymon" target="gqsb">*gqsb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

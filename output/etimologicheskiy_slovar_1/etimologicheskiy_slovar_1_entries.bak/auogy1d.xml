@@ -1,0 +1,37 @@
+<Entry xml:id="auogy1d">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>аУОГЫ1ъ(дь)</orth>
+    <lemma>аУОГЫ1ъ(дь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>javoran</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яворовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(у одного автора X V I I в., а также в словарях Микали, Беллы и Стулли; R J A IV, 498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яворный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яворовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь IV, 1559)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="aiog-5">*аиогъ</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

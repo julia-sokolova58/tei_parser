@@ -1,0 +1,38 @@
+<Entry xml:id="grupa">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grupa</orth>
+    <lemma>grupa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grupa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>груда, ком земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gornowicz. Dialekt malborski II, 1, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grapa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча ; grepa куча, множество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 297)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Po- mor. Wb. I, 227; Sychta I, 360—361)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возм., родственно *gruda (<xr type="compare">см. <ref type="etymon" target="grqda-2">*grqda</ref>
+    </xr> l*gruda) 
+и * grgbb j * grubb 
+(см.), с отличием в расширении корня.</note>
+</Entry>

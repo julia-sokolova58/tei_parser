@@ -1,0 +1,119 @@
+<Entry xml:id="dran">
+  <pb n="217" end_page="218" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьranь</orth>
+    <lemma>dьranь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>draft</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дранка, тонкая дощечка, dfeft, мн. dfene щепки для разжигания огня , елвц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cecil, klad. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>draft</ref> ж. р., собират.</orth>
+      </form>
+      <sense>
+        <def>шваль, оборванцы , drafta ж. p. бесплодная почва , drafta падаль, дохлятина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Slovenske Pravno v Turc. z., Kalal 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 324)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>draft</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>подлец, негодяй , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dran</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak Doman. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дрянь</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>росчисть , Дрань, личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Новг. и Псков. 265, XV в., Сл. РЯ XI— XVII вв. 4, 367)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1657 г., Тупиков 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянные тонкие дощечки, употреб­ ляемые для обивки стен и потолка под штукатурку, для покры­ тия кровли, для плетения корзин и т. п., дрянь ж. р. что-либо бесполезное, негодное, хлам</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сало, отрезанное от туш или выдранное из туш (пенз.), вспашка сохою целины (пенз.) , мука крупного размола (олон.), вспаханная целина (пенз., онеж.), наказание розгами, кнутом и т. п.; порка (арх., перм., олон., костр.) , дрань ж. р. кора некоторых деревьев (липа, дуб), служившая материалом для плетения корзин , порка, рубка леса (Картотека Словаря белозерских говоров), дрянь кало (у человека) , дрянь ж. р. гной, гнойные выделения (иркут., костр., яросл., калуж., тул., курск., орл., брян.), кал, навоз (самар., моек.) , гной (Картотека Псковского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богор. у., Е. Ф. Будде. О некоторых народ­ ных говорах в Тульской и Калужской губерниях. — ИОРЯС III, 1898, 852)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дрянь, негодная вещь, дранка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 441)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Основа на -i-, производная от прич. прощ. &lt;5трад.<ref type="etymon" target="g">*
+г</ref>
+      <ref type="etymon" target="ygag">*йьга/гъ</ref> (см. 
+<ref type="etymon" target="dbrati-9">*dbrati)</ref>.</gram>
+  </gramGrp>
+</Entry>

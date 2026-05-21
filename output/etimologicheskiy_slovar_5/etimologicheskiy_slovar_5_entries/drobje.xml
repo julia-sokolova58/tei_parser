@@ -1,0 +1,46 @@
+<Entry xml:id="drobje">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobьje</orth>
+    <lemma>drobьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрдбл</ref>&gt;е ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 727)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drobje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, внутренности, требуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pleb. I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дробъё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дробленая крупа, сечка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(моек., Филин 8, 190)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ]е от основы drob- (см.<ref type="etymon" target="drobiti">*drobiti</ref> и др., 
+выше).</gram>
+  </gramGrp>
+</Entry>

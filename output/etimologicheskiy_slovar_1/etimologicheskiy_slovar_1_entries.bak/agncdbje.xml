@@ -1,0 +1,47 @@
+<Entry xml:id="agncdbje">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agnčdbje</orth>
+    <lemma>agnčdbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jagnede</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>тополя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A IV, 412)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdgnedje</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>der Schwarzpappelwald</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шилди</ref>\е</orth>
+      </form>
+      <sense>
+        <def>чернотополье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. экз. Шест., Срез­ невский III, 1638)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Русск.-цслав. форма не должна вводить в заблуждение, будучи ю.-слав. (или зап.-слав.? Ср. отсутствие близких форм в болг. и макед.) элементом цслав. лексики. Собственно вост.-слав, соответствия нам неизвестны.</note>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="agn-8">*agn</ref>$dbje — производное 
+с суфф. -bje от основы <ref type="etymon" target="agn-9">*agn</ref>$d- (см. <ref type="etymon" target="agn-10">*agn</ref>$db, где и об этимологии).</gram>
+  </gramGrp>
+</Entry>

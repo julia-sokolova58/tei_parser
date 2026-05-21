@@ -1,0 +1,68 @@
+<Entry xml:id="bbzati">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbzati</orth>
+    <lemma>bbzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bdzati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ambulare, ходить без дела, шататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA, 1, 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать (в жару от оводов, о круп­ ном рогатом скоте) .—Сюда же, с расширениями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>б</ref>*6згам</orth>
+      </form>
+      <sense>
+        <def>бросать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, носиться (о скоте) , елвц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bed</ref>- zgaV</orth>
+      </form>
+      <sense>
+        <def>метаться, носиться (о скоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 909)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения. См. Berneker I, 111—112.</note>
+</Entry>

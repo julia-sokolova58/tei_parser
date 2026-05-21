@@ -1,0 +1,115 @@
+<Entry xml:id="bordy">
+  <pb n="201" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordy</orth>
+    <lemma>bordy</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. *bordbve</orth>
+    <lemma>род. п. *bordbve</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. в^<ref>лд</ref>^!, род. п. -ъьб, Ж. p. oxercapvov, securis</orth>
+      </form>
+      <sense>
+        <def>топор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брадва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брадва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>железная подставка, на кот. стоит верхний мельничный жернов , брадба ж. р. топор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брадва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топор , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>брадва</ref> , сербо­ хорв. брадва ж. р.</orth>
+      </form>
+      <sense>
+        <def>топор, ascia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Поповски. Зборови од Мариово. — MJ I, 1950, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bradlja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топор с широким лезвием , последнее, видимо, — с гипер­ корректным I &lt; v, ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bradua</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бела Краина, см. Н. Wilfan JiS XIV, 1969, 128)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *bordy, основа на -й-, представлено только в ю.-слав. языках относительно полаб. borddind ж. р. 'топор' [Polanski — Sehnert 39, с реконструкцией<xr type="compare">см. <ref type="etymon" target="bordyna">*bordyna]</ref>
+    </xr>, с одной стороны, 
+Lehr-Sptawiiiski, Polanski, Slownik etymologiczny j^zyka Drze-
+wian polabskich 1, 44, где допускается происхождение от искон-
+нослав. *borda в знач. 'нижний конец лезвия топора', наряду 
+с герм, этимологией, см. ниже; с др. стороны, см. В.</note>
+  <gramGrp>
+    <gram>Szydtowska- Ceglowa LP 10, 1963, 121—122; с критикой фонет. аспекта объясне­ ния из<ref type="etymon" target="borda-2">*borda</ref> в упомянутом выше словаре; автор видит в полаб. 
+слове местное образование от ср.-н.-нем. barde 'широкий топор'). 
+Объясняется как заимствов. из герм. <ref type="etymon" target="bardd">*bardd</ref>, ср. др.-исл. barda, 
+др.-в.-нем. barta, др.-н.-нем. barda, ср.-нидерл. baerde 'боевой 
+топор', см. С. С. Uhlenbeck. Die germanischen Worter im Alt-
+slavischen. — AfslPh XV, 1893, 483. Ср. несколько неопределенно 
+Miklosich 19. См. еще в пользу заимствования Berneker I, 73; 
+Kiparsky. Die gemeinslavischen Lehnworter 
+aus dem Germani­
+schen 216; Bezlaj. Etim. slovar. Poskusni zvezek 9. Напротив, 
+о родстве герм, и слав, слов — и те и др. на базе названий 
+бороды — см. Младенов ЕПР 42; близко ср. Георгиев БЕР I, 73 
+(«От и.-е. <ref type="etymon" target="bhordhu">*bhordhu</ref>»). Тем не менее, мысль о заимствовании из 
+герм, сохраняет свою актуальность, поскольку опирается также 
+и на вероятие заимствования особой реалии — топора с удлинен­
+ным, «бородатым» лезвием. См. еще об этом слове С. Б. Бернштейп 
+«Зборник за филологи^у и лингвистику» XII, 13.</gram>
+  </gramGrp>
+</Entry>

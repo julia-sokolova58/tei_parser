@@ -1,0 +1,135 @@
+<entries>
+  <entry xml:id="cedjcedja" xml:id="cedjcedja">
+    <pb n="175" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕdjь/*cĕdja</orth>
+      <lemma>cedjb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>cedja</orth>
+      <lemma>cedja</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>цЪджъ</ref>, цЪждь м. р.</orth>
+        </form>
+        <sense>
+          <def>зола, щелок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>цег</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>щелок, вода с золой для мытья посуды и мыловарения</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>цё</ref>%, цЩ, цй]е% м. р.</orth>
+        </form>
+        <sense>
+          <def>(стираль­ ный) щелок (Вук, R J A : с XVII в.), сюда и</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>clde</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>осадок, муть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Mas. 427)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>сё</ref>]а ж. р.</orth>
+        </form>
+        <sense>
+          <def>процеживание</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 76)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>cez</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>цедилка, фильтр, ciz м. р. цедилка для отде­ ления вываренного хмеля от пива</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>цЪжъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>раствор муки для киселя , жидкий, процеженный раствор овсяной муки</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Пов. вр. л. под 1497 г., Срезневский III, 1448)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(А. Никольский. О языке Ипатьевской летописи.—РФВ XLII, 1890, 110)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>цеж</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>вода, налитая на овсяную несеяную муку и потом, по окиси ее, процеженная; из нее варят овсяный кисель, ц и ж  , цеж, циж м. р. жидкий, процеженный раствор овсяной муки, на кисель; водяной отстой от замесу, от киселя , цёжа ж. р. приправа к щам из за- болтки овсяной муки , цеж выпа­ ренный из брусники и подслащенный патокою или медом сок, с которым едят толокно , циж м. р. отстой­ ная вода от овсяного киселя, сулой , кежь ж. р. питье из овсяной муки с холодною водою (олон.), пойло для лошадей из той же муки (олон.) , кежь, кеж сы­ рая овсянка, людское питье и конское пойло из овсяной муки на холодной воде , кеж употребляемый для приготовления киселя отстой ржаных высевок , цёжа ж. р. приправа к щам из овсяной муки , цёжа ж. р. овсяный кисель (пек., Картотека Словаря русских народных говоров)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пек,, Опыт 253)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Даль 3 IV, 1268)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек., твер., Даль 3 IV 7, 1268)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Подвысоцкий 186)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(твер., Опыт 252)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Опыт 81)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Куликовский 35)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Подвысоцкий 65)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек., Опыт 253)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Производное 
+с 
+-у-овым 
+суфф. 
+от 
+основы 
+гл. 
+(см.). 
+О русск. диал. формах на к- см. Фасмер И, 221.</note>
+  </entry>
+</entries>

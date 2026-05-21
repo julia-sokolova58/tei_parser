@@ -1,0 +1,64 @@
+<Entry xml:id="drskatidrstati">
+  <pb n="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrskati/*dьrstati</orth>
+    <lemma>dьrskati/*dьrstati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dbrstati</orth>
+    <lemma>dbrstati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дръстА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>конопатить. мять, тре­ пать пеньку, лён, др*6ст№ (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>др</ref>*6стя</orth>
+      </form>
+      <sense>
+        <def>полоскать, др4&gt;стя се тяжело дышать (Георгиев), дръстЛ конопатить, мять лен, dpi&gt;cmuM се сильно чесаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drskati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скользить, соскальзывать, хрустеть, брызгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дйрскати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трясти (на воду)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. М. Семан. Особли- Bocrri гов1рки села Коритняни. Дип. роб. Ужгород, 1954, 86)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глаг. интенсив, производный с суфф. -sk-J-st- от<ref type="etymon" target="dbrati-13">*dbrati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 256 (автор говорит только о «форманте -sqo-»); V. Machek. Slavische Verba mit suffixalem sk. — SR X, 1957, 72 (с реконструкцией *dbrb-skati).</note>
+</Entry>

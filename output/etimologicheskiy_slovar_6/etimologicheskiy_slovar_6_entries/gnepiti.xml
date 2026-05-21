@@ -1,0 +1,73 @@
+<Entry xml:id="gnepiti">
+  <pb n="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnepiti?</orth>
+    <lemma>gnepiti?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ггьапити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадно есть, жрать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnapiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толочь, бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Machek 2 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gnapid</ref> sie</orth>
+      </form>
+      <sense>
+        <def>идти мелкими шагами, часто топать . — Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 856: объясняет из чеш.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнёпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скупой, чересчур расчетливый человек , да­ лее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 129; Филин 6, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнептйтъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скупиться, жадничать , гняптйтца скупиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 6, 239)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 130)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Видимо, экспрессивного происхождения. Ср. Machek 2 201, где только о чеш. Остальные слав, формы отражены в этимол сло­ варях слабо. Не исключена ассоциация с *gnet&lt;?,<xr type="compare">см. <ref type="etymon" target="gnesti">*gnesti</ref>
+    </xr>....</note>
+</Entry>

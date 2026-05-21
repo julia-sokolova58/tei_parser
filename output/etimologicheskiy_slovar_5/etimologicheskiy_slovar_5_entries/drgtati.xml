@@ -1,0 +1,96 @@
+<Entry xml:id="drgtati">
+  <pb n="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъgъtati</orth>
+    <lemma>drъgъtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрхтати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать, трястись (от страха)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>drktati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Nk. 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drhtdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать (от холода, от страха) , drgetdti то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>drgotaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрогътати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>содрогаться от ужаса , другътати . — Сюда же именная форма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георг. Ам. 70, Срезневский I, 724)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский 1, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дрогота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дрожь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфичес­ кая лексика Дрогичинского Полесья. —«Лексика Полесья» 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрыгбтка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дрожь,^ трепет</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, глагольный интенсив на<m type="suffix">
+        <ref>-tati</ref>
+      </m>, 
+производный 
+от основы гл. <ref type="etymon" target="drbgati-3">*drbgati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. A. Vaillant. Les presents slaves en -te-. — BSL 56, 1961, 1 8 - 1 9 .</note>
+</Entry>

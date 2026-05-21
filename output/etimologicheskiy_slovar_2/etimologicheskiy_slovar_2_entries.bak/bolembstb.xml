@@ -1,0 +1,25 @@
+<Entry xml:id="bolembstb">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'embstb</orth>
+    <lemma>bol'embstb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bolemest</ref>, род. п. -msta(?), м. р. личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг-ного сравнительной степени ср. p.<ref type="etymon" target="boVe">*boVe</ref> 
+(см. подробнее <ref type="etymon" target="og-3">*ЬоГъ]</ref>'ъ) и основы <ref type="etymon" target="mbstb">*mbstb</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="ogeog">*ЬоГеЬогъ</ref>
+    </xr>, 
+*ЬоГеса]ъ, *boVecbsfo, *ЬоГетИъ, выше.</note>
+</Entry>

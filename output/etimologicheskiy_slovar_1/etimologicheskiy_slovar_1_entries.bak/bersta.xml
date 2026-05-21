@@ -1,0 +1,62 @@
+<Entry xml:id="bersta">
+  <pb n="196" end_page="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bersta</orth>
+    <lemma>bersta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfesta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхний слой березовой коры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzesta</ref>, brzosta ж. р.</orth>
+      </form>
+      <sense>
+        <def>кора вяза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёста</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхний слой березовой коры, идущий на выгонку дегтя, выделку лаптей, корзинок и п., верхний, свет- *berstem.(ji») лый слой березовой коры Даль 3 I, 205)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бяреста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>березовая кора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бярбста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береста. Праслав. *bersta (точнее — *berzta) представляет собой форму, близко родственную праслав.<xr type="compare">см. <ref type="etymon" target="berza">*berza</ref>
+          </xr>, и, как и последняя, восходит к и.-е. периоду: *berzta &lt; *bherdgta, -t- производное от и.-е. основы *bherdg- светлый, белый, также в качестве назва­ ний березы. Праслав. слово непосредственно соответствует прежде всего герм, лексике: гот. bairhts светлый, ясный, др.-в.- нем. beraht блестящий, англос. beorht то же, англ. bright яркий, светлый, блестящий. См. Berneker I, 52; Pokorny I, 139; Фасмер I, 156; Sadnik—Aitzetmuller. Vgl. W b . 3, 147 (о первонач. адъектив­ ном характере образования)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>См. еще специально *bersfo (ниже).</note>
+</Entry>

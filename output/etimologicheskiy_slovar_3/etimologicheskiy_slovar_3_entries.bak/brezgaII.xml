@@ -1,0 +1,22 @@
+<Entry xml:id="brezgaII">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezga II</orth>
+    <lemma>brezga II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брезга</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рассвет, что-либо показавшееся, почудившееся, видение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вар. ж. р. к *bгezgъ II (см.).</note>
+</Entry>

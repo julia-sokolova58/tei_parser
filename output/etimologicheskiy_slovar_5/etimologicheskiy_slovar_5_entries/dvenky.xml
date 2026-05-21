@@ -1,0 +1,36 @@
+<Entry xml:id="dvenky">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vĕnъky</orth>
+    <lemma>d(ъ)vĕnъky</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>двенки</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двое, две , двенки мн., ум. от две , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл'Ьдъ двЪ три годины азъ пригр^щахъ въ обят1ята си двЪнкы д-Ьчица. П. Р. Славейков. Цариградски потайности I—II, 1877. Архив Болг. Возрождения, София; Иванчо отиде та набра малко овопця, и като си похап- н л ч Х ^ мълчишката, лДгн^чХ^ си близу до дьрвото, и заспах^ двЪнкъгтЪ. II. Р. Славейков. Иванчо и Марийка, 1868. Там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двенки</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56; Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 166)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с -и- Суффиксальным (не говоря о вторичном фор­ манте уменьшительности -ъ/с-) от формы ж. р. числ.<ref type="etymon" target="df-2">*df</ref> ъ)va, 
+<ref type="etymon" target="s-4">*с</ref>!(ъ)иё (см.). Ср. специально <ref type="etymon" target="dJuina">*dъJuina</ref> (см. ниже).</gram>
+  </gramGrp>
+</Entry>

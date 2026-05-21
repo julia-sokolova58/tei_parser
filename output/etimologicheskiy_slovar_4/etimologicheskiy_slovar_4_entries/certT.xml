@@ -1,0 +1,115 @@
+<Entry xml:id="certT">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>certT»</orth>
+    <lemma>certT»</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cret</ref>, род. п. creta, м. р.</orth>
+      </form>
+      <sense>
+        <def>болотистая местность, особенно в лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>eret</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болотистый лес; торф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eret</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болотистая местность , cret м. р. вид горного кустарника, горная сосна Pinns pumilio , стар, zhret болотистый лес (Jarnik XXII)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 87; Slovar sloven, jezika I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cret</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотистый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ka­ lal 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>юж</ref>. (из укр.? — см. ниже) черёт м. р.</orth>
+      </form>
+      <sense>
+        <def>бо­ лотное растение Arundo phragmites, тростник, камыш, очерет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черёт</ref> м. \у.=очерет</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарбт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>камыш, очерет</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чэрэт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>камыш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Расторгуев, Северск.-блр. 153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя<ref type="etymon" target="sen-2">*сеНъ</ref> 
+на слав, почве соотносится с гл. <ref type="etymon" target="cersti">*cersti</ref>, 
+<ref type="etymon" target="cbrtQ">*cbrtQ</ref> 
+(см.), что обычно используют для однозначного возведения <ref type="etymon" target="certb">*certb</ref> 
+в описанных выше значениях к и.-е. <ref type="etymon" target="y">*й</ref>#г-'резать\ причем трост­
+ник, камыш якобы назван «по острым, режущим листьям».</gram>
+  </gramGrp>
+  <note>См. Berneker I, 150; Фасмер IV, 342. Другие авторы, сомневаясь в этой этимологии, указывали исключительно на семантич. связь названий тростника, камыша и терминов 'плести, крутить, вязать'. При этом слав. *сеНъ сближали с др.-инд. cftdti 'связывает, скрепляет', krndtti 'сучит, прядет'. Так см. J. Charpentier AfslPh XXXVII, 1920, 48—50. Действительно, тот же самый слав, ко­ рень, выступающий в различных словообразовательных оформле­ ниях *сегтъ, *ёегръ,<xr type="compare">см. <ref type="etymon" target="segyop">*сегёпъ</ref>
+    </xr>, не допускает прямолинейного 
+отождествления со слав. *съНа, 
+<xr type="compare">см. <ref type="etymon" target="ebrtezb">*ebrtezb</ref>
+    </xr>, но благоразумнее, 
+наверное, будет констатировать для и.-е. предыстории вообще 
+н е в о з м о ж н о с т ь разграничения значений *кег- 'резать'—'пле­
+сти', образовывавших некий синкретический комплекс. См. Тру-
+бачев. Ремесленная терминология 247—248; ср. МеркуловаЛОчекри 
+по русск. нар. номенклатуре растений 48. 
+"™"••'™
+5Р1</note>
+</Entry>

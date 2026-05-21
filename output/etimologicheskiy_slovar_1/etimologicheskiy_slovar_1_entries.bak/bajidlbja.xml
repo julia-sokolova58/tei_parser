@@ -1,0 +1,27 @@
+<Entry xml:id="bajidlbja">
+  <pb n="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajidlbja</orth>
+    <lemma>bajidlbja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>баиля</ref>, байля ж. р.</orth>
+      </form>
+      <sense>
+        <def>знахарка, шептуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тим­ ченко I, 50—51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. -ь]а от имени действия на<m type="suffix">
+        <ref>-dlo</ref>
+      </m>
+      <ref type="etymon" target="bajidlo">*bajidlo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

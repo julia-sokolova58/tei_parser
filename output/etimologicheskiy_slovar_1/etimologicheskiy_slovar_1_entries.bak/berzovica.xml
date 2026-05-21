@@ -1,0 +1,69 @@
+<Entry xml:id="berzovica">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzovica</orth>
+    <lemma>berzovica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёзовица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовая палка 4, вид ядо­ витого гриба Lactarius torniinosus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezovica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовый с о к</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1,58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brezovice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Bir- kenwasser</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brezovica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовая палка, дубинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берёзовица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нацежи­ ваемый весною березовый сок, который, перебродив, образует сладковатый напиток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 203)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. lea от прилаг.<ref type="etymon" target="berzov">*berzov</ref>^jb) 
+(см. ниже).</gram>
+  </gramGrp>
+</Entry>

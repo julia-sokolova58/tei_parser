@@ -1,0 +1,87 @@
+<Entry xml:id="ashk">
+  <pb n="116" end_page="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬьшкъ</orth>
+    <lemma>ЬаЬьшкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бабник</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>род свиной колбасы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bab</ref> *babbskbjb nik м. p.</orth>
+      </form>
+      <sense>
+        <def>бабник, вид шалфея Salvia verticillata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>babnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>форма для выпечки теста</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бабник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бабий угодник, прихвостень, волокита</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(псковск., Даль 3 I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бабник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>форма для выпечки теста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бабтк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьпгкъ</ref>
+      </m> 
+от <ref type="etymon" target="aa-3">*ЪаЪа</ref> (см.), 
+охватывающее 
+весьма разнородные 
+по значению 
+и, видимо, по 
+образованию 
+случаи.</gram>
+  </gramGrp>
+  <note>Праслав. древность вызывает сомнения.</note>
+</Entry>

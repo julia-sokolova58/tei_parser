@@ -1,0 +1,39 @@
+<Entry xml:id="yoti1sh">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёьти1Ш</orth>
+    <lemma>ёьти1Ш</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cmouliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пачкать, марать , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чмблшпъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жеманиться, делать ужимки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 189)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Предположительно сложение приставочного элемента ёь- (редук­ ция<ref type="etymon" target="se--3">*се-</ref>, см. выше) и -muliti, 
+гл. на -Ш, производного от <ref type="etymon" target="ti1">*ти1ъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>О русск. слове см. иначе Фасмер IV, 370.</note>
+</Entry>

@@ -1,0 +1,114 @@
+<Entry xml:id="groxati">
+  <pb n="133" end_page="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groxati</orth>
+    <lemma>groxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грбхам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохать, грохотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ; Геров: грб- хамь, грухамъ 'молотить')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>груам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молотить хлеб, падать с грохотом, ударять, бить , грухъм уда­ рять, бить, делать тяжелую работу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grohati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать, ударять, бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hrochati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, грохотать, хрюкать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrochat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлопать бичом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruchac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохать(ся), падать с грохотом, раздаваться, греметь, ворко­ вать (о голубях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 919)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грохать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно сту­ чать, шуметь, с грохотом падать, обрушиваться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грохать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлопать (кнутом) (влад.), громко говорить о чем-либо (волог., арх.), лаять (волог.), говорить что-либо необдуманное, несураз­ ное (твер., перм., том.), накладывать, наваливать что-либо в бес­ порядке (волог., новг.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. редк. <ref>грбхати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохать . •groxotb Гл. на -ati звукоподражат. происхождения. Ср. Machek 2 185</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 365)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

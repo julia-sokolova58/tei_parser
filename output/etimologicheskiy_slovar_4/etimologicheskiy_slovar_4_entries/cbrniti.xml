@@ -1,0 +1,167 @@
+<Entry xml:id="cbrniti">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrniti</orth>
+    <lemma>cbrniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ч</ref>^ъыити xoavi</orth>
+      </form>
+      <sense>
+        <def>O^v</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить, красить в черный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црни</ref> то же , сербо­ хорв. црнити</orth>
+      </form>
+      <sense>
+        <def>чернить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cfniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чер­ нить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить, красить в черный цвет</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cerniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ужасно смотреть , слвц- ciernW красить в черный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>comic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чер­ неть, чернить, делать черным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>carnie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить, делать черным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czernic</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cdrmc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить, делать черным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo- vinz. Wb. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чернить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>окрасить черною краскою; ма­ рать, грязнить, пачкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чорнйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить, красить в черный цвет , чернйти то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарнщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чернить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Каузативный гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="sgp">*съгпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

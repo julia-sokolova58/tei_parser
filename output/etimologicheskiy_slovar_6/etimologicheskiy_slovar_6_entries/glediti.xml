@@ -1,0 +1,66 @@
+<Entry xml:id="glediti">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ględiti</orth>
+    <lemma>ględiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глёдити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глядеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>gtydzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть, глядеть . — Сюда же примы­ кают производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 8 3 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глядйло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>зрачок (волог.), зеркало , глядиво ср. р. рассматривание (куйб.), зрелище, представление (куйб.), смотрины невесты перед свадьбой (куйб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(горьк., иван., костр., киров., Филин 6, 2 3 0 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 2 3 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глядйло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>зеркало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 292)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный 
+с <ref type="etymon" target="gledeti">*gledeti</ref> I <ref type="etymon" target="gl-3">*gl</ref>$dati (см.).</gram>
+  </gramGrp>
+  <note>Не исключено воздействие форм наст, времени на</note>
+</Entry>

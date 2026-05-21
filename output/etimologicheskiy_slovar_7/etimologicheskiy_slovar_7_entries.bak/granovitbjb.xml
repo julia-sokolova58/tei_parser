@@ -1,0 +1,84 @@
+<Entry xml:id="granovitbjb">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>granovitbjb</orth>
+    <lemma>granovitbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грановитый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>стеблистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грановит</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грановит</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>вет­ вистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 571)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>granowity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>граненый, четырехгранный, квадратный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 902)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грано</ref>­ витый</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Черезъ поперекъ бору къ грановитой сосн^, отъ гранови­ тое сосны прямо на долокъ. Отводн. Кирил. мон. 1448—1468 гг., Срезневский I, 585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Грановитая</ref> палата, название ста­ ринного сооружения</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грановитый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>граненый, с гра­ нями; отделанный граненым камнем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., якут., Филин 7, 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиИъ</ref>
+      </m> от <ref type="etymon" target="granal">*granal</ref>
+      <ref type="etymon" target="granb-3">*granb/</ref>
+      <ref type="etymon" target="granb-4">*granb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

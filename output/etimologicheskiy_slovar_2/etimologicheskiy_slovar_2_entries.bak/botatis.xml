@@ -1,0 +1,124 @@
+<Entry xml:id="botatis">
+  <pb n="224" end_page="225" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>botati (s§)</orth>
+    <lemma>botati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бутам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, ударять, трогать, сбивать (масло)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров : бутамь 'дотрагиваться', 'трогать', 'тол­ кать', 'задевать, задирать кого словами', 'бить, пахтать масло')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бутам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, тыкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бута</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдтати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять, бить, бдтати се биться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>butati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, бить , raz-bgtati шуметь, стучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>botati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топать, бить (ногами)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ббтатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять по воде боталом; мутить воду боталом для более успеш­ ной ловли рыбы сетью и т. п.; тяжело ступать; ступая, стучать обувью (о человеке); бить копытом (о лошади), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. , <ref>ботатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>качать чем- нибудь, болтать ногами ^ ботатъся бес­ покоиться, хлопотать, суетиться (арх.), болтаться (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. Опыт 14; Труды МДК. Словарь к ответам на программу по Саратовской губ. — РФВ LXVI, 1911, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 10; Е. Будде. К диалек­ тологии великорусских наречий. Исследование особенностей рязанского говора. — РФВ XXVIII, 1892, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бутати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гордиться, спесивиться, форды­ бачить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 116)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно считают ступенью чередования (о : а) к *batati (см.; там же этимология). См. Berneker I, 78; Фасмер I, 200. В любом случае для данной формы глагола вокализм -о- в корне представ­ ляется вторичным в сравнении с другими близко родственными формами. Специально о болг. слове см. еще Георгиев БЕР II, 92. •botb</note>
+</Entry>

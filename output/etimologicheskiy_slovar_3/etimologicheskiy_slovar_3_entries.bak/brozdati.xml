@@ -1,0 +1,53 @@
+<Entry xml:id="brozdati">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brozdati</orth>
+    <lemma>brozdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brozddil</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить по воде, увязая в грязи и т. п . \ мешать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brozdati</ref> se</orth>
+      </form>
+      <sense>
+        <def>идти по воде, грязи, снегу, брести . —Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brozgail</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шлепать (по воде), мутить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 66)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное преобразование корня brod- (<xr type="compare">см. <ref type="etymon" target="broditi-2">*broditi</ref>
+    </xr>)l 
+См. 
+след. Чередование -zd- : -zg- 
+аналогично 
+чередованию -sk- : -st-
+в русск. пускать 
+: 
+пустить.</note>
+</Entry>

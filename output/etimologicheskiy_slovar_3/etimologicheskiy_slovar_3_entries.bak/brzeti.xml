@@ -1,0 +1,30 @@
+<entries>
+  <entry xml:id="brzeti" xml:id="brzeti">
+    <pb n="136" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrzĕti</orth>
+      <lemma>bbrzeti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bfzjeti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>festinare, спешить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A I, 696)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-eti</ref>
+        </m>&gt; производный от прилаг. <ref type="etymon" target="bbrzb-2">*bbrzb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

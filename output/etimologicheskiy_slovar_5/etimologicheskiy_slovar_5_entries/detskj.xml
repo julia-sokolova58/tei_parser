@@ -1,0 +1,78 @@
+<Entry xml:id="detskj">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtьskъ(jь)</orth>
+    <lemma>dĕtьskъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>A</ref> ^ T A C K Z , прилаг. veanepoc, VTJUIOS, iuvenis</orth>
+      </form>
+      <sense>
+        <def>дет­ ский, малолетний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>детски</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>детский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>детски</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>djetski</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>детский , детски, -а, -б , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 459)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>detsky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>удалой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>detsky</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. 'детский', сюда же субстантивированное decko ср. р. 'ребенок', диал. decko, уничиж. (Bartos. Slov. 54), слвц. detsky, прилаг. 'детский' (SSJ I, 254), диал. decky 'парень' (Kalal 90), субстан­ тивированное decko ср. р. 'ребенок, младенец' (SSJ I, 239), польск. dziecko ср. р. 'дитя, ребенок' (Dorosz. II, 559), стар, dzieczski 'детский' (Warsz. I, 638), др.-русск., русск.-цслав. дЪтъскыи, прилаг. от dim/k (Юр. ев. п. 1119 г.; Псалт. 1296 г.), 'малолет­ ний, молодой' (Суд. VIII. 7 по сп. X I V в.; Изб. 1073 г. 259), 'дитя' (Изб. 1073 г. 26), СО дЪтъска 'с малолетства' (Мин. 1096 г. сент. 23), изъ дЪтьска 'с малолетства' (Панд. Ант. X I в. л. 207) (Срезневский I, 797—798), дЪтьскыи, дЪцъкыи, дЫъскыи, дичь- скьух 'отрэк княжеский' (Пэв. вр. л. под 1097 г.; Ип. л. под 1147 г.; Лавр. л. под 1175 г., Срезневский I, 798), русск. детский, -ая, -ое 'принадлежащий, свойственный детям', 'предназначенный, уст­ роенный для детей, обслуживающий детей', укр. дщький, -а, -е 'детский' (Гринченко I, 393).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъвкъ</ref>
+      </m> от <ref type="etymon" target="deti">*deti</ref> (см.), <ref type="etymon" target="detb-5">*detb</ref> (см. 
+<ref type="etymon" target="detf">*detf)</ref>.</gram>
+  </gramGrp>
+</Entry>

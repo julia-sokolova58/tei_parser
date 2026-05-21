@@ -1,0 +1,103 @@
+<Entry xml:id="ednorokj">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnorǫkъ(jь)</orth>
+    <lemma>edьnorǫkъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еднорък</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еднорак</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedndruk</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>enorok</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jednoruky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 590)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jednoruky</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 646)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>однорукий</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1681)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>однорукий</ref>, -а, -е</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аднарут</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>однорукий</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., образованное сложением<ref type="etymon" target="edbnb-6">*edbnb</ref> (см.) и старой адъек­
+тивной формы от <ref type="etymon" target="rqka">*rqka</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

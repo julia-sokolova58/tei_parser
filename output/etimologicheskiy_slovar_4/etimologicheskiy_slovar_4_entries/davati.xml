@@ -1,0 +1,169 @@
+<Entry xml:id="davati">
+  <pb n="197" end_page="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>davati</orth>
+    <lemma>davati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>давам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать, позволять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>давам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>да­ вать , давъм давать, продавать , дбам то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. БД VI, 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать, отдавать, причинять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>давати</ref>, да)ём</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>ю.-з</ref>.) давам</orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>davati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>davati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ddvaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать, класть, ставить, птшчинять, обращать внимание</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dawau</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dawac</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ddvac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>давати</ref>, даваю *давать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Уст. гр. Вас. Дм. 1392 г.; Новг. I л. под 1343 г.; Жал. гр. Под. кн. 1375 г., Срезневский I, 622)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>давать</ref>, даю</orth>
+      </form>
+      <sense>
+        <def>вручать кому что-либо; передавать из рук в руки, предо­ ставлять в чье-либо пользование</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>давать</ref>, даваю</orth>
+      </form>
+      <sense>
+        <def>иметь, образовывать устье, плес и т. п. (о реке) (олон.), давать поклон, привет, проклятие и т. п. (арх., твер.), вызывать какие-либо чувства (олон.), выдавать замуж (арх., олон., перм.), давать, дать что-либо (самар.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>давати</ref>, даю</orth>
+      </form>
+      <sense>
+        <def>давать, вручать, доставлять, ссужать, подавать, давать, предлагать, сулить, допускать, позволять, выдавать замуж, задавать, -да­ вать почувствовать, бить, ударять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 354)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>SoFevat 'давать', др.-инд. davdne. См. Berne­ ker I, 181; L. Н. Gray. The Indo-European base-type *do-, *do-ie-, *do-ue~, *do-ze-. — AJPh LXI1, 1941, 478, 479; W. R. Schmal- stieg. The phoneme /vjin Slavic verbal suffixes. — «Word» 12, •dave 1956, 257; Chantraine. Dictionnaire etym. de la 1. grecque 1—2 (Paris, 1968), 281; Фасмер I, 480, Формант -v- идентичен -v- в нрич. прош. *davb,<xr type="compare">Ср. <ref type="etymon" target="davbeL">*davbeL</ref>
+    </xr> аналогичные суждения в: A. Bam-
+mesberger « Language* 50, 1974, 687 и сл.
+блр. да- ваць давать.</note>
+  <gramGrp>
+    <gram>Форма несврш. вида, соотносительная с гл.<ref type="etymon" target="dati">*dati</ref> (см.) и про­ должающая и.-е. <ref type="etymon" target="do-K-">*do-K-</ref> с лабиальным расширением, ср. лит. do- vana подарок, daviau прош. вр. я дал (с отражением <ref type="etymon" target="o">*о</ref> крат­ кого), греч. (кипр.)</gram>
+  </gramGrp>
+</Entry>

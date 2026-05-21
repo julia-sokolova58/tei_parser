@@ -1,0 +1,42 @@
+<Entry xml:id="duziti">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dužiti</orth>
+    <lemma>dužiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>dužiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать сильным, duziti se толстеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дюжить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдерживать, выносить, терпеть, (влад.) носить, (арх., влад.) одолевать, осиливать , дужйть грабить, применять физическую силу , дюжить оказыгаться в силах, быть в состоя­ нии что-либо сделать; выдерживать, выносить, терпеть (каз., пек., перм., новосиб., том., кемер., заурал., сиб., забайк., иркут.), выдерживать тяжесть, напор чего-либо; сохранять прочность (перм., том., кемер., сиб., приангар., свердл.), одолевать, осили­ вать (арх., влад., енис), нести, носить; везти (влад.), стано­ виться сочным, наливаться, созревать (иркут.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1275; Опыт 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Дон­ ской словарь 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 302—303)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="duzbjb">*duzbjb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

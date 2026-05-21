@@ -1,0 +1,99 @@
+<Entry xml:id="ceperitis">
+  <pb n="55" end_page="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceperiti s</orth>
+    <lemma>ceperiti s</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>eepiriti s$</orth>
+    <lemma>eepiriti s$</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чоп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ёра са, чопёра са хорохо­ риться, пыжиться, расставив ноги, загораживать дорогу, лазить (по заборам и деревьям) (Тетевен, Орханийско, Архив Болг. диал. словаря, София), чепёшм се хорохориться, чва­ ниться , чепёлъ съ взби­ раться, лезть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 288)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко. — БД V, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чепери</ref> се</orth>
+      </form>
+      <sense>
+        <def>взбираться, подниматься; двигаться вверх</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ceperiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>топорщиться, нахохлиться , сюда же, далее, sceperiti se важничать, пыжиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jez. I, 288; Plet. T, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. IT, 619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>cerepiriti</ref> se</orth>
+      </form>
+      <sense>
+        <def>хвастать, щеголять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv XTTI, 1893, 5R7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ceperW</ref> sa</orth>
+      </form>
+      <sense>
+        <def>топорщить перья, ерошиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>severH</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топорщить, щетиниться, нагонять, напугивать, возмущать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. TI, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czapierzyd</ref> si?</orth>
+      </form>
+      <sense>
+        <def>торчать, топорщиться (во все стороны)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. Т, 1090)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Неверно произведение от корня *skep-, ср. так еще Berneker I, 143; R. Bernard RES 46, 1967, 13—14. диал. czapirzyd si? наряжаться странно, крик­ ливо , czupierzyd si? то же . •cepuriti S č Сложение экспрессивной приставки се- и глагольной основы, насчитывающей целый ряд апофонич. вариантов *-periti, *-piriti, *-pyriti.</note>
+</Entry>

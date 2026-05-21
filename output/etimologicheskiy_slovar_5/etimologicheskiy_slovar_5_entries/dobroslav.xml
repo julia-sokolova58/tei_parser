@@ -1,0 +1,53 @@
+<Entry xml:id="dobroslav">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobroslavъ</orth>
+    <lemma>dobroslavъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Добрбслав</ref> м. р., личное имя собств. , сюда же Добрбслава ж. р. , ср. еще Добросав м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Речник на личните и фамилии имена у българите 176)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Доброслав</ref>, Доброслав м. р., личное имя собств. , сюда же Ддброслава, Ддброслава ж. р. , ст.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 402)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Dobroslav</ref> м. р., личное имя собств. , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Доброславъ</ref>, боярин галицкий .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1234 г., Ипат. 514. Тупи­ ков 185; Картотека СДР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dobrb-11">*dobrb</ref> (см.) и slav- (см. <ref type="etymon" target="slay">* slay</ref> а).</gram>
+  </gramGrp>
+</Entry>

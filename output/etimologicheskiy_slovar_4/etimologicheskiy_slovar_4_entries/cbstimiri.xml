@@ -1,0 +1,33 @@
+<Entry xml:id="cbstimiri">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbstimiri</orth>
+    <lemma>cbstimiri</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Cstimir</ref>, Ctimir, Stimir м. p., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ctimir</ref> м. p. , Cestmir M. p. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 291)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимич. сложение основ<ref type="etymon" target="ebstb">*ebstb</ref> (см.) и -т1гъ, представ­
+ляющей собой преобразование первоначального *-тёгъ, о кот. см. 
+под <ref type="etymon" target="io1sityog">*ио1сИтёгъ</ref>.</gram>
+  </gramGrp>
+</Entry>

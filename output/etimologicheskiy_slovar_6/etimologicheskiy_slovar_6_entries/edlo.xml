@@ -1,0 +1,39 @@
+<Entry xml:id="edlo">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędlo</orth>
+    <lemma>ędlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jdblo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черенок ложки , сюда же производное jadlisko то же, а также в знач. черенок железных вил</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>Ало</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лучины, которые жгут при ночной ловле рыбы (арх., Картотека СТЭ)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Производное (название орудия) с суфф. -dlo от гл.<xr type="compare">см. <ref type="etymon" target="ti">*$ti</ref>
+    </xr> 
+Праслав. диалектное образование. 
+Праслав. диалектное образование. 
+Праслав. диалектное образование. 
+Праслав. диалектное образование.</note>
+</Entry>

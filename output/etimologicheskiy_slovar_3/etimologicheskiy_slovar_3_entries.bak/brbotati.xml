@@ -1,0 +1,105 @@
+<entries>
+  <entry xml:id="brbotati" xml:id="brbotati">
+    <pb n="123" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrbotati</orth>
+      <lemma>bbrbotati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>brbotati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>balbutire, blaterare , brbotati crepare , брббтати издавать клокочущий звук, также борбдтати , брбдтати булькать, клокотать, болтать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 615: «происходит от ЬгЪай»)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 66)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PGA И, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brbotati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>клокотать, бурлить, говорить быстро, невнятно, лопо­ тать, мямлить, заикаться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 53)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brbotaV</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>говорить непонятно, неясно , также bebtaV</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 128)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>borbotac</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать, ворчать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 40)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>borbotae</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормо­ тать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 64)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>борботатъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Под­ высоцкий 5; Филип 2, 97—98)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Гл. звукоподражат. 
+происхождения, 
+см. Berneker I, 107—108; 
+формально представляет 
+собой производное 
+на -ati 
+от 
+(см.). О вокализме в связи с лит. burbeti 
+'бормотать; клокотать, 
+бурлить' см. еще Я. С. Отрембский ВЯ 1954, №5 , 30.</note>
+  </entry>
+</entries>

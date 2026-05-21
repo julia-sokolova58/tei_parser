@@ -1,0 +1,26 @@
+<Entry xml:id="berma">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berma</orth>
+    <lemma>berma</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>брёма</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный сосуд для воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацпн s. v.; Vis 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Гшолие возм., что мы имеем нерюд собой гипокористическое образование от сербохорв. bremenica (так<ref type="etymon" target="sm">* см</ref>. 11.1 А 
+I, 62о), по 
+не исключено, что эта форма — результат более раннего процесса.</gram>
+  </gramGrp>
+  <note>И таком случае *Ьел шта относится к *Ьепас. (п. е. *bh( jr.)intt), как праслав. *zif/ia--n п.-е *glicim.ij.</note>
+</Entry>

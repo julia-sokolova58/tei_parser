@@ -1,0 +1,95 @@
+<Entry xml:id="grabina">
+  <pb n="95" end_page="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabina</orth>
+    <lemma>grabina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грабила</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грабовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrabina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 516; Jungmann I, 742: hrabina sic. Plk.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grabina</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grabina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>граб, дерево граба, грабовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 893)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grabjina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево граба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грабила</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белый бук, дерево Carpinus betulus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 959)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грабила</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кустарник, свидина кроваво- красная Thelicrania sanguinea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русск. донских говоров I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грабишь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граб, одно дерево, (собир.) грабовые деревья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 320)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.-та от<ref type="etymon" target="grabb">*grabb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

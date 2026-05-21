@@ -1,0 +1,73 @@
+<Entry xml:id="beIogqzb">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beIogqzb</orth>
+    <lemma>beIogqzb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belogqza</orth>
+    <lemma>belogqza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёлогуз</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бйлогуз</ref>, б]ёлогуз м. р.</orth>
+      </form>
+      <sense>
+        <def>с белым задом, clunibus alb is, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белд</ref>- гуза, билдгуза, б]ёлогуза ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид птицы Saxicola oenanthe L</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>biloguza</ref> то же .—Сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mas. 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белогъзка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>птица Saxicola oenanthe</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: бЪлогжзка)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beloguzka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица Saxicola oenanthe, каменка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 397.</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="ggz">*ggzъ</ref> (см.), первоначально адъективное.</gram>
+  </gramGrp>
+  <note>Древность образования весьма правдоподобна,<xr type="compare">ср. <ref type="etymon" target="belogolub">*belogolub</ref>
+    </xr> 
+(выше) и т. п.</note>
+</Entry>

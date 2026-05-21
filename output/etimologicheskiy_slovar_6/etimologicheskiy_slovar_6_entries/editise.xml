@@ -1,0 +1,92 @@
+<Entry xml:id="editise">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*editi (sę)</orth>
+    <lemma>editi (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedumu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердить, раздражать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>judumu</ref>, ujedumu, jedumu се</orth>
+      </form>
+      <sense>
+        <def>сердиться, сюда же jadumu жаловаться, также приносить страдания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA VIII, 514—515; RJA IV, 400: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jediti</ref>, jdditi</orth>
+      </form>
+      <sense>
+        <def>сердить, злить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jediti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздражать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 613; §imek 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jedit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>злить, сердить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jediV</ref> sa</orth>
+      </form>
+      <sense>
+        <def>сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>jadzie</ref> si$, jedzid si?</orth>
+      </form>
+      <sense>
+        <def>сердиться, злиться, воспаляться, нарывать (о ране)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 123; St. gw. p. II, 217)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), производный от имени <ref type="etymon" target="edb">*edb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

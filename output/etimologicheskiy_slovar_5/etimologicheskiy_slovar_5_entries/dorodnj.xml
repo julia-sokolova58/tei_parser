@@ -1,0 +1,69 @@
+<Entry xml:id="dorodnj">
+  <pb n="78" end_page="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorodьnъjь</orth>
+    <lemma>dorodьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dorodny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>здоровый, красивый, видный; зрелый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дородъныи</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Государь нашь дородной государь, и разумной, и счастливой. Дел. Польск. — Кар. И. Г. P. X. пр. 78, Срезневский I, 708)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дородный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>полный телом; крупного, плотного сложения, диал, дорбдной способный, усердный, большой, многочисленный , дорбдной крепкий, сильный, мужественный, матерый , дород­ ный здоровый, плотный, видный; покойный, удобный (о месте), вкусный, готовый (о пище) , дородный, -ая, -ое хороший, красивый, видный (олон., волог., костр., пск., курск., нижегор., перм., арх., сиб.), способный, усердный (арх.), хорошего качества, выделки (калуж., волог., север.), покойный, удобный (о месте) (олон.), вкусный, готовый (о пище) (олон.), густой, урожайный (волог.), большой, многочисленный (арх.), большого размера, крупный (перм., сверд.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доргдний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>урожайный (Васильк. у.), рослый, круп­ ный (Канев. у.), прирожденный, врожденный (Александрийск. у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 425)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., образованное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> и приставкой <ref type="etymon" target="tfo-">*tfo-</ref> (см. <ref type="etymon" target="do-19">*do)</ref> 
+от <ref type="etymon" target="rocte">*rocte</ref>&gt;, <ref type="etymon" target="roditi">*roditi</ref> (см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание, по-видимому, ранняя специализация знач-я.</note>
+</Entry>

@@ -1,0 +1,32 @@
+<Entry xml:id="dagneti">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dagneti</orth>
+    <lemma>dagneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dachneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тлеть, гореть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 203)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Согласно Махеку, остаток архаич. слав. *deg-, ср. еще degbtb (см.). См. Machek 2 727.</note>
+  <gramGrp>
+    <gram>Точнее говоря, праслав. диал.<ref type="etymon" target="dagneti">*dagneti</ref> — 
+гл. на -eti, производный от некоего <ref type="etymon" target="dagn-">*dagn-</ref> (прилаг.?), кот. содер­
+жит корневой вокализм -а- &lt;^ и.-е. -б-, продленной ступени имен­
+ного -о- гласного, характеризующего форму, производную от глаг. 
+основы <ref type="etymon" target="deg-">*deg-</ref> (и.-е. <ref type="etymon" target="dheg">*dheg</ref>
+      <ref type="etymon" target="h-">*h-)</ref>.</gram>
+  </gramGrp>
+  <note>Сюда же еще<xr type="compare">см. <ref type="etymon" target="daglb">*daglb</ref>
+    </xr>.</note>
+</Entry>

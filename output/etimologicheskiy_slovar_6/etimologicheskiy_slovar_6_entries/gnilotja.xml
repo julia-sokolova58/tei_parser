@@ -1,0 +1,40 @@
+<Entry xml:id="gnilotja">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilotja?</orth>
+    <lemma>gnilotja?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gniloca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнилость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA III, 227; РСА III, 398)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gniloca</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнилёча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 293)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Йотовое расширение предыдущего (см.). Ввиду вторичного образования, возм., позднее.</note>
+</Entry>

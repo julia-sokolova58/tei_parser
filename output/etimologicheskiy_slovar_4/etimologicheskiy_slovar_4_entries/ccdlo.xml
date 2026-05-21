@@ -1,0 +1,35 @@
+<Entry xml:id="ccdlo">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cčdlo</orth>
+    <lemma>cčdlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cqdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>малое количество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta 1, 177)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от гл. <ref type="etymon" target="c-4">*c</ref>$ti, <ref type="etymon" target="spd">*съпд</ref> (см.).</gram>
+  </gramGrp>
+  <note>Важное древ­ нее диал. свидетельство, подтверждающее правильность рекон­ струкции праслав. *-dZo, а не *-/о в данном слове, а также реаль­ ность бесприставочной формы, наряду с<xr type="compare">см. <ref type="etymon" target="nacdlo">*nac$dlo</ref>
+    </xr>. См. далее 
+О. Н. Трубачев «Этимология» (М., 1963) 50—51, где праслав. 
+*-c$dlo 
+(кашуб скос л овин, форма автору тогда еще не была из­
+вестна) соотносится с кельт. *kenetlo&lt; 
+ирл. cenel 
+'род', валл. се-
+nedl, др.-корн. 
+kinethel.</note>
+</Entry>

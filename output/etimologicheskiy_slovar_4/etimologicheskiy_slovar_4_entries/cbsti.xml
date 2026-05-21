@@ -1,0 +1,99 @@
+<Entry xml:id="cbsti">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbsti</orth>
+    <lemma>cbsti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чете</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>casti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>cate</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>считает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polan- ski—Sehnert 45, с реконструкцией *cbte)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьсти</ref>, чести, чьтХ</orth>
+      </form>
+      <sense>
+        <def>считать , исчислять, измерять (Гр. Наз. XI в. и др.), почитать, полагать , читать (Остр. ев. и др.), почитать, уважать (Остр. ев. и др.), поклоняться (Остр. ев. и др.), чтить, соблюдать (Остр, ев.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ефр. Крм. Епиф. Кипр, о ер. л. 267)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1526—1527)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>старин</ref>, честь, чту</orth>
+      </form>
+      <sense>
+        <def>читать, считать, полагать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>честь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чи­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>чести</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Мате­ риалы к словарю закарпатской литературы XVI—XVII вв. Буда­ пешт, 1965, 406, микрофильм)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *cisti (см.; там же этимология),<xr type="compare">см. <ref type="etymon" target="eitati">*eitati</ref>
+    </xr>. Эти­
+мологически тождественно имени <xr type="compare">см. <ref type="etymon" target="6bstb">*6bstb</ref>
+    </xr>, вокализм которого 
+в точности воспроизводит и в отношении которого представляет 
+форму косвенного (дат.) п. (*ebstb—*6bsti).</note>
+</Entry>

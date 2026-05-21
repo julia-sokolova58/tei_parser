@@ -1,0 +1,51 @@
+<Entry xml:id="gbmyzati">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmyzati</orth>
+    <lemma>gbmyzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гамизати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ползать, пресмыкаться, кишеть , также gmizati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 183)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XV в., RJA III, 98, 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gmizati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>копошиться, кишеть, грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hmyzati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ползать, кишеть (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="gmzati-2">*gъmъzati</ref> 
+(см.) и именем <ref type="etymon" target="gmyz">*gъmyzъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Продленный вокализм суф. -yz- (ср. -Ъ2- в *gъmъzati, *gbmbzb) указывает скорее на глагольный характер образования, поскольку находится в соответствии с дуративным характером глагола на -ati.</note>
+</Entry>

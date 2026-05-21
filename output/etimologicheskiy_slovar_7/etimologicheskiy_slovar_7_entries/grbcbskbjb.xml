@@ -1,0 +1,141 @@
+<Entry xml:id="grbcbskbjb">
+  <pb n="161" end_page="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grbcbskb(jb)</orth>
+    <lemma>grbcbskb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Г</ref>^АЧА^КЪ, -МИ, прилаг. еХХт^яхбд, graecus</orth>
+      </form>
+      <sense>
+        <def>гре­ ческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сав., Супр. и др., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръцки</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грече­ ский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: гръцкый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грчкй</ref>, также грча- скй, прилаг.</orth>
+      </form>
+      <sense>
+        <def>греческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 716, 719; RJA III, 397: «Слово grbmeti праславянское»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. \<ref>grski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I , 771)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hfecsky</ref>, fecsky, прилаг.</orth>
+      </form>
+      <sense>
+        <def>греческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I R 494)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>reeky</ref>, прилаг., елвц. grecky, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I , 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grecki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 905)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>греческий</ref>, -ая, -ое</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грецкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>гречневый (смол.), грецкий орех сладкий орех (курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 135—136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>греческий</ref>, грецкий</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( X V в., Словник ст.-укр. мови X I V — X V C T . I, 261—262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грёцький</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>греческий, гречневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грэцт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греческий, гречневый , также грэ- чаекг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-bskb</ref>
+      </m> от <ref type="etymon" target="grbkb">*grbkb</ref> 
+(см.). 
+<ref type="etymon" target="grbkb-2">*grbkb</ref>, 
+<ref type="etymon" target="grbcinb">*grbcinb</ref>,</gram>
+  </gramGrp>
+</Entry>

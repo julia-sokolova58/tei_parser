@@ -1,0 +1,24 @@
+<Entry xml:id="cbstiborb">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbstiborb</orth>
+    <lemma>cbstiborb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Cstibor</ref>, Ctibor, Stibor м. p., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ge- bauerl, 192; Jungmann I, 247; см. также Vazny. Stfedovek. list. 11)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимич. сложение основ *6bstb (см.) и *<m type="suffix">
+        <ref>-Ьогъ</ref>
+      </m>, имя дея­
+теля к <ref type="etymon" target="borti">*borti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Относительно второго компонента см. в послед­ нее время F. Stawski. О stowniku praslowianskim.— JP LIII, 1973, 182.</note>
+</Entry>

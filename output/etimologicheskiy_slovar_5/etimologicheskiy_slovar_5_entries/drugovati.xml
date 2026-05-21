@@ -1,0 +1,59 @@
+<Entry xml:id="drugovati">
+  <pb n="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drugovati</orth>
+    <lemma>drugovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>другувамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>другдвати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 747—748)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drugoudti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>общаться, быть дружкой (на свадьбе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрХговати</ref>, дрХгХю .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Неже ненависть отъ Ба дана, аште не бышд зъл4 дроуговали. Изб. 1073 г. 70, Срезневский I, 725)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от <ref type="etymon" target="drugb">*drugb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,108 @@
+<Entry xml:id="ednostajnj">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnostajьnъ(jь)</orth>
+    <lemma>edьnostajьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>едностаен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>простой, цельный, не­ сложный, непрерывный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>едностаен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>непрерывный, беспрестанный , едностайно, нареч. непре­ рывно, постоянно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>jednostani</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>concors, similis , чеш, jednostejny, прилаг. одинаковый, однообразный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словаре Стулли, RJA IV, 555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jednostajny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>постоянный, непрерывный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 647)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jednostajny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>однообразный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бдностайний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>единодушный, солидарный, однородный, весь, везде одинаковый, цельный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аднастййны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>однообразный, монотонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>одно</ref>- cmajHbij</orth>
+      </form>
+      <sense>
+        <def>однородный, ровный, сплошной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Д. Климчук. Спе­ цифическая лексика Дрогичинского Полесья. — Лексика Полесья 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="edbrib-2">*edbrib</ref> (см.) и <ref type="etymon" target="stajbnb">*stajbnb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

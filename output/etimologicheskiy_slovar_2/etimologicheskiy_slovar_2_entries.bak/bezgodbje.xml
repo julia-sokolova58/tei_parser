@@ -1,0 +1,40 @@
+<Entry xml:id="bezgodbje">
+  <pb n="25" end_page="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgodbje</orth>
+    <lemma>bezgodbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безгоди</ref>\е</orth>
+      </form>
+      <sense>
+        <def>неблагоприятное время или положение, dcopcoc</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>bezgodbnb</ref>(jb) безгбдъе</orth>
+      </form>
+      <sense>
+        <def>неурожай , безгбдъе ср. р. сто же, что безгода (вят., орл., смол.), непогода, ненастье (смол.), неурожай (смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 185)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ]е от сложения<ref type="etymon" target="bez-35">*bez</ref> (см.) и основы <ref type="etymon" target="god-">*god-</ref>
+(см. *#ойъ) или префиксально-суффиксальное образование от 
+основы <ref type="etymon" target="god--2">*god-</ref>.</gram>
+  </gramGrp>
+  <note>Несмотря на тождество семант. модели и словообра­ зования ст.-слав. Ббз-годию и его греч. эквивалента d-opt'a, без­ оговорочное принятие идеи калькирования (см. К. Schumann. Die griech. Lehnbildungen und Lehnbedeutungen im Altbulgari- schen 13, 24) здесь не вполне убедительно, о чем говорят и явно независимые от греч. образца и семантически самобытные примеры в русск. народных говорах. Об образовании см. еще Meillet. Etudes II, 384.</note>
+</Entry>

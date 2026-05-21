@@ -1,0 +1,64 @@
+<Entry xml:id="bratitise">
+  <pb n="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratiti (se)</orth>
+    <lemma>bratiti (se)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>братя</ref> ео растении — пускать новые корни или стебли</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РБЕ I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>братем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жить с к.-л. в братских отно­ шениях, пускать несколько стеблей из одного зерна , брате пускать боковые стебли рядом с главным (о растении) , братй, только в 3 л., пускать несколько ростков из одного зерна (о хлебных злаках)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стой- чев БД II, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>называть братом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(также см. РСА II, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bratiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>брататься, заключать братский союз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="bratb-2">*bratb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

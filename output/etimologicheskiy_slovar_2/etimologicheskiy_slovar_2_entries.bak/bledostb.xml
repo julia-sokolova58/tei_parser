@@ -1,0 +1,129 @@
+<Entry xml:id="bledostb">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledostb</orth>
+    <lemma>bledostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blijedost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>pallor, бледность , блёдост</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., Микаля, Белостенац, Ямбрешич, Вольтиджи, Стулли, Даничич, I, 438)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>блщёдост</ref> ж. р. (стар.)</orth>
+      </form>
+      <sense>
+        <def>бледность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 639)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность , чеш». bledost ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bledost</ref>" то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bledosc</ref> (Zeman)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bledosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность, бледнота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bladosc</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SI. stpol., Stownik polsz.- czyzny XVI w., Warsz., Dorosz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bludesc</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бледность, блеклость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блЪдость</ref> a&gt;xpot, ш^рохт];, pallor</orth>
+      </form>
+      <sense>
+        <def>бледность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезнев­ ский I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>блёдостъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блЪдость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность , бледостъ = блЪдостъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Арх. ЮЗР. I, 1, 487—1596 г., Тимченко I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блгдгстъ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко, Желеховский)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ostb от прилаг. (см.).</note>
+</Entry>

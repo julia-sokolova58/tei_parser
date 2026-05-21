@@ -1,0 +1,133 @@
+<Entry xml:id="sepa">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се!ьпа</orth>
+    <lemma>се!ьпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чё</ref>/ьен, прилаг.</orth>
+      </form>
+      <sense>
+        <def>лобный, передний, передовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>челен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лобный, передний, головной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ceonl</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>frontis, primarius, лобный; главный, старший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1, 938)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celen9</ref> -1па прилаг.</orth>
+      </form>
+      <sense>
+        <def>лобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>передний, главный, celniy прилаг. лобный, передний, главный, сюда же субстан­ тивное celen м. р. бугшприт, наклонная мачта на носу судна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>celnyy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>лобный, передний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czelny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наглый, дерзкий, бес­ стыдный, стар, главный, первостепенный, важный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. 1,1120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёльный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к челу относящийся , сюда же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>челна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исток реки (олон., Картотека Словаря рус­ ских народных говоров), субстантивированное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёлъний</ref>, чглъ- ний, -а, -е</orth>
+      </form>
+      <sense>
+        <def>отборный, крупный, значительный, выдающийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 4Ь4)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ь/г- от<ref type="etymon" target="celo">*celo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

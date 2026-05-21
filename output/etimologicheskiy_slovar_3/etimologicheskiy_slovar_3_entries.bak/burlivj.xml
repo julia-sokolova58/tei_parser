@@ -1,0 +1,109 @@
+<entries>
+  <entry xml:id="burlivj" xml:id="burlivj">
+    <pb n="100" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*burьlivъ(jь)</orth>
+      <lemma>burblivb(jb)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>ЬйгЦи</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>turbulentus , бурлив, -а, -о, бурный, беспокойный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(XVII в., R J A I, 741)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PGA И , 305)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>burljlv</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>мятежный, шумный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 72)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bouflivy</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурный, шумный, неспокойный</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>burlivy</ref>, при­ лаг.</orth>
+        </form>
+        <sense>
+          <def>бурный, разбушевавшийся, волнующийся, стремительный, шумный, грохочущий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 146)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>burzliwy</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурный, изобилующий грозами</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 738)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бурливый</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурный (поэт.), шумный, беспокойный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ушаков I, 207)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бурлйвий</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурливый, бурный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко 1, 113)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бурлгвы</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурливый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 136)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ьИо- от гл. <ref type="etymon" target="buriti-2">*buriti</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

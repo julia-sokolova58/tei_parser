@@ -1,0 +1,111 @@
+<Entry xml:id="belasbjb">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belasb(jb)</orth>
+    <lemma>belasb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref>]ёлас м. р. = белац , Bjelds м. р., прозвище</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(см. под *Ьё1ъсъу ниже, там и знач-я)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA I, 594)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belasy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светлый, голубой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belasy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голу­ бой , сюд&amp; же, с увелич. знач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 20; SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>belasti</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovgtiak. Orav. 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bialasy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бе­ лесый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. , <ref>русск-цслав</ref>. бЪласыи , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Брада о челюстехъ бЪласа, густа и росохата. Прол. март. 18. Кир. арх., Срезневский I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. сущ. <ref>быас</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Boletus edulis , прилаг. быастий беловатый, белесый , со смягче­ нием — быястий беловатый, белеющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем., Гринченко I, 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, стр. 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>бялясы</ref>{й)</orth>
+      </form>
+      <sense>
+        <def>беловатый (Расторгуев</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Северск.-блр. 141). — Сюда же примыкают производные сербохорв. бёласав, диал. б]еласав 'белесый, белеющий', бел&gt;асав то же (РСА I, 433), bjelas м. р. 'лошадь светлой масти', bjelds (RJA I, 380); из оно­ мастики — Bjelasica ж. р., название гор в Герцеговине, Черно­ гории, название села в Сербии и т. д. (RJA I, 379—380), Ejua- сица ж. р. (РСА I, 594), Bjelasnica ж. р., гора в Боснии, близ Сараева (RJA I, 380); глагольное производное — сербохорв. bjelasati se 'albicare' (RJA I, 379). Ранний характер отдельных примеров и довольно широкое распространение в целом (сербохорв., чеш., слвц., польск., русск., укр., блр.), наряду с некоторыми другими особенностями (ср. наличие в сербохорв. различных производных форм) говорит о древности слав, основы прилаг-ного *belas-. Соотношение со случаями вроде слвц. диал. belasti, укр. быастий позволяет рассматривать исход последнего как вторичное наращение -t-y а не как суфф. -ast-.</note>
+  <gramGrp>
+    <gram>Образованием<ref type="etymon" target="belas-">*belas-</ref> как будто специально 
+не занимались.</gram>
+  </gramGrp>
+  <note>Ср. Machek 29, где говорится только о семант. употреблении. Можно считать *belas- производным от<xr type="compare">см. <ref type="etymon" target="yo1">*Ьё1ъ</ref>
+    </xr> с суфф. -as-. Допустимо поставить вопрос о связи с семанти­
+чески близким <xr type="compare">см. <ref type="etymon" target="yo1ez">*Ьё1езъ]ъ</ref>
+    </xr> с очевидно первичным вокализмом 
+суффикса.</note>
+</Entry>

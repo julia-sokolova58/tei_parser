@@ -1,0 +1,179 @@
+<Entry xml:id="dariti">
+  <pb n="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dariti</orth>
+    <lemma>dariti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дарити</ref> donare</orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>даря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дарим</ref> то же , дара</orth>
+      </form>
+      <sense>
+        <def>делать свадебный подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дари</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить, одаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>ddriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dariti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить, приносить в дар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet, I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dafiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>darid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить (особенно о свадебном подарке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>daris</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. книжн. <ref>darzyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ddfec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дарити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с дат. лица, Гр. Наз. XI в. 40; с вин. лица, Псков. I л. под 1460 г., Срез­ невский I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дарить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдавать, предоставлять что-либо другому безвозмездно; подносить подарок кому-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дарити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить, давать, награждать, жаловать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даръщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дарить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="darb">*darb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

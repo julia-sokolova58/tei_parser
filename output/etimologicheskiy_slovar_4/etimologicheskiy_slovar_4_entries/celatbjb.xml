@@ -1,0 +1,67 @@
+<Entry xml:id="celatbjb">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celatbjb</orth>
+    <lemma>celatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>celat</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>большелобый, лобастый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 926)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celat</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большелобый, лобастый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>celatyj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>только о строительном камне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Na takovou stavbu (kaple) aby byl kamen peknyj celatyj. Hruska. Slov. chod. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чола</ref>- тий, -a, -e</orth>
+      </form>
+      <sense>
+        <def>с большим лбом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., см. Гринченко IV, 468)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от основы<ref type="etymon" target="celo">*celo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

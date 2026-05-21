@@ -1,0 +1,151 @@
+<Entry xml:id="gorikvetb">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorikvetb</orth>
+    <lemma>gorikvetb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горицвет</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Lych­ nis, гороцвет м. р. название ряда растений — Orchis, Chelido- nium, Ranunculus acris, Primula veris, Adonis vernalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младе- нов БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гороцвет</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Adonis vernalis L. , гороцвет м. p. Primula officinalis, гороцвет м. р. Orchis (Радово, Трънско), гороцвет растение Ranunculus acris L. (Копривщица) (Архив Болг. диал. словаря, София), гроцвёт м. р. , грбчовет м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Зап. България. — СбНУ XI, 1894, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 148)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гороцвет</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горицвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гороцвет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Primula acaulis Jacq</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ЛЬ. Групче. Народни имина на pacTeHnjaTa од Скопска Црна Гора.—MJ VIII, 1957, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гороцвет</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Adonis, Orchis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 497; RJA III, 291: с XVI в., в оно­ мастике — с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorocvet</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Adonis vernalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>horikvet</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Adonis aestivalis, ст,-</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorzekwiat</ref>, gorzykwiat, horzekwiat м. p.</orth>
+      </form>
+      <sense>
+        <def>растение Adonis vernalis L. , Chelidonium majus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1460 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горицвет</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение сем. гвоздичных с красными цветами, зорька, степное лекарственное растение сем. лютиковых с крупными желтыми цветами, адонис</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горйцвЬт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рас­ тение Adonis vernalis L. , горёцвЬт м. р. рас­ тение Helleborus niger L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 311)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарыцвёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гори­ цвет</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение императива гл.<ref type="etymon" target="goreti">*goreti</ref> 
+(см.) и <ref type="etymon" target="kiyo">*киёЬъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Осмыс­ ление в связи с гора (<xr type="compare">см. <ref type="etymon" target="gora">*gora</ref>
+    </xr>) 
+или <xr type="compare">см. <ref type="etymon" target="gorbkb">*gorbkb</ref>
+    </xr>—плод народ­
+ной этимологии. См. подробно И. Дуриданов. 
+Бълг. 
+гороцвет, 
+срхърв. гороцвщет. 
+— 1Ф X X X , 1973, 107—115; W. Budziszewska 
+PF XXV, 1974, 285. Иначе см. Георгиев ВЕР IV, 265.</note>
+</Entry>

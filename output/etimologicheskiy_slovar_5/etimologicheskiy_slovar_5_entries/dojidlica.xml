@@ -1,0 +1,57 @@
+<Entry xml:id="dojidlica">
+  <pb n="52" end_page="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojidlica</orth>
+    <lemma>dojidlica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дсилицд</ref> ж. р. троербд, nutrix</orth>
+      </form>
+      <sense>
+        <def>кормилица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dojuAuua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, кормящая мать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 464—465)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доилица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кормилица , кормилица , дойная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. И. 7 по сп. XIV в.; Руф. IV. 16 по сп. XIV в., Срезнев­ ский I, 691; Пал. 1406, л. 184 об., Картотека СДР XI—XIV вв.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ж. Серг. Р. Епиф. 2, 16. XVI в.с/э1418 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ВМЧ, дек. 1—5, 13, XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. РЯ XI—XVII вв. 4, 288)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="dojidlo">*dojidlo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

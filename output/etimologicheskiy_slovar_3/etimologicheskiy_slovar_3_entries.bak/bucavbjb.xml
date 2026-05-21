@@ -1,0 +1,65 @@
+<Entry xml:id="bucavbjb">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bucavb(jb)</orth>
+    <lemma>bucavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бучтый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шершавый, растрепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бучав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>косматый , бучаф, прилаг. лох­ матый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Трънско, Архив Болг. диал. словаря, София; Шапкарев — Близнев Б Д III, 205)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bucav</ref>, прилаг-</orth>
+      </form>
+      <sense>
+        <def>лохматый, растрепанный, нечесаный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 706; РСА II, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бучавий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>ссохшийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Канев. у., Гринченко I, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -аи- от гл.<ref type="etymon" target="bucati">*bucati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>СеАман- тич. развитие в какой-то мере аналогично изменению 'звучать' &gt; 'разбухать, увеличиваться в объеме',<xr type="compare">ср. <ref type="etymon" target="buxngti">*buxngti</ref>
+    </xr> 
+(см.).</note>
+</Entry>

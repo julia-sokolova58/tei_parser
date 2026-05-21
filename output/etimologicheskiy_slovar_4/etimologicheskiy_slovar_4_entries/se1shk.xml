@@ -1,0 +1,92 @@
+<Entry xml:id="se1shk">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1ьшкъ</orth>
+    <lemma>се1ьшкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёлник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>главарь, вожак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёлник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железная накладка на тележной оси, предохраняющая ее от трения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Бидинско 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>чешик</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баран-вожак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Поречкиот говор 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ceonik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>praeiectus, magister, caput, princeps, antistes</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA I, 939)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ceinik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ремешок на лбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceinik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>тот, кто во главе, главный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>челънйк</ref> м. р. -</orth>
+      </form>
+      <sense>
+        <def>головной наряд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1303)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. нкъ от прилаг.<ref type="etymon" target="se1p">*се1ъпъ</ref> (см.); субстанти­
+вация последнего. 
+<ref type="etymon" target="celbnbjb">*celbnb(jb)</ref>,</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,74 @@
+<Entry xml:id="dobrovati">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrovati</orth>
+    <lemma>dobrovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добрувамъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благоденствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>dob</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рувам жить хорошо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добрд</ref>- вати, добруjeM</orth>
+      </form>
+      <sense>
+        <def>благоденствовать, быть добрым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>доброват</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благоденствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доброватъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жить в добре, в обилии, покое, холе и довольстве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1102)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от <ref type="etymon" target="yog">*йоЪгъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

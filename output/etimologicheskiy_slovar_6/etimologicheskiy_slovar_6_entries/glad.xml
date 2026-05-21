@@ -1,0 +1,82 @@
+<Entry xml:id="glad">
+  <pb n="116" end_page="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gladь</orth>
+    <lemma>gladь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. книжн., редк. <ref>глад</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гладкость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 85: русск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hlad</ref>\ hldd</orth>
+      </form>
+      <sense>
+        <def>ж. р. гладь, гладкая поверх­ ность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. поэт, <ref>hlad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 474)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гладь</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гладь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ровное гладкое место (волог., олон., сев.-двинск., пенз., свердл., беломор.), безлесная равнина, не используемая в сельском хозяйстве (новг.), болото, лишенное лесной растительности (новг.), обширная сухая равнина в тундре с моховым пастбищем (арх.) , гладь ж. р. одно- цветный материал, без узоров , также в кач-ве местн. названия Гладь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 183)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 79)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Namenbuch II, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гладь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гладь (Укр,-рос словн.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гладзь</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 80)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Основа на соотносительная с гл.<ref type="etymon" target="gladiti">*gladiti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См., далее, *gladъkъ.</note>
+</Entry>

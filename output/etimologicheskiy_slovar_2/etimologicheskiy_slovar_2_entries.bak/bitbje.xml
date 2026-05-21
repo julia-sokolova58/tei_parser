@@ -1,0 +1,142 @@
+<Entry xml:id="bitbje">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bitbje</orth>
+    <lemma>bitbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>биНе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бой, драка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 587)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bitje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>битье; драка, механизм часового боя, bitje то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bitje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>механизм часового боя, bitje, bitja</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pintar I, 3)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>biti</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>битье, удары, стук, избиение, стрельба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ысе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>битье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bise</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>битье, драка, бой, сражение, битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 38—39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjice</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>удары, побои</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>битьё</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударение, колоченье, бой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>битье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>битье, драка , бытье ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. ЗР. I, 14—1347 г. и др., Тим­ ченко I, 93)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( — Жадного там бытя не било, тылко Степан Матфея с хати выпхнулъ. Ак. Полт. Гор. Ур. I, 171—1669 г., Тимченко I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>биття</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>битье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бщцё</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Отглагольное имя действия, соотносимое с инфинитивом<xr type="compare">см. <ref type="etymon" target="biti">*biti</ref>
+    </xr>, но генетически производное, по-видимому, от основы страд, 
+причастия прош. вр. *ЬИъ, аналогично прочим 
+действительно 
+древним именам действия на -bje. Ср. об этой категории Трубачев 
+«Славянское языкознание (VI Международный съезд славистов. 
+Доклады советской делегации)». 
+М., 1968, 377—378.</note>
+  <gramGrp>
+    <gram>Основа прич.<ref type="etymon" target="bit-">*bit-</ref>, расширенная здесь суффиксом -bje дала — в соеди­
+нении с другими формантами — ряд имен, ср. сюда, вероятно, 
+<ref type="etymon" target="ika">*ЬИъка</ref>, <ref type="etymon" target="is">*ЬИъсъ</ref> (см. выше).</gram>
+  </gramGrp>
+</Entry>

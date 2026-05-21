@@ -1,0 +1,157 @@
+<entries>
+  <entry xml:id="byti" xml:id="byti">
+    <pb n="155" end_page="156" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*byti</orth>
+      <lemma>bytT</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bit</ref> м. и ж. р.</orth>
+        </form>
+        <sense>
+          <def>бытие, существование, сущность , byt м. р. жизнь; местожительство, жилище; сущ­ ность, бытие (Ст.-чеш., Прага)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Simek 32)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>byt</ref> м. р .</orth>
+        </form>
+        <sense>
+          <def>жилище, жилье, бытие, существование, жизнь</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>byt</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>пора, время , bit (byt) м. p. существование</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Za starych bytu 'в старые времена'; tin bytem jezdi 'он все время •bytbkb ездит'. BartoS. Slov. 32)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Vydra. Hornoblan. 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>byt</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>жилище, жилье, квартира, стар, бытие, существование</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 150)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>byt</ref>
+          </orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>бытъ</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Князь же Семенъ весь бытъ запечаталъ. Двин. лет., Срезневский I, 211)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>быт</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>общий уклад жизни, (стар.) имущество, (простор, и обл.) пора</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>быт</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>способ, образ действия; лад (тул., свердл., урал., самар.), время, пора (самар., моек., влад., нижегор., перм.), пол (муж­ ской, женский) (влад., оренб.) , повседневная жизнь, жизненный уклад, время, пора дня, года</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Филин 3, 351)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Деулинский словарь 72)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бытъ</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бытие, существование , состояние, жилище</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Рад. Вш. 1339)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Льв. Ставр. 35—1609 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 166)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. стар, <ref>бытъ</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>состояние, житье, имущество, хозяйство, домоводство, образ жизни</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(П. Бшецький- Носенко. Словник украшсько!' мови 66)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>быт</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>быт быту не даваць не давать покоя, Блр.-русск. 137. — Болг. бит</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бит</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>быт (совокупность условий жизни) поздно заимствовано книжным путем из соврем</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(см. Б Т Р , И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>быт</ref> с соответствующим знач.</orth>
+        </form>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -t- 
+от 
+основы 
+соотноси­
+тельное с <ref type="etymon" target="byto">*byto</ref> ср. р. (см.).</gram>
+    </gramGrp>
+    <note>Ср. лит. 
+butas м. р. 'жилище, квар­
+тира', тогда как др.-прусск. 
+buttan 
+'дом' формально ближе слав. 
+Первонач. прич. форма.</note>
+  </entry>
+</entries>

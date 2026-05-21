@@ -1,0 +1,123 @@
+<Entry xml:id="belobordbjb">
+  <pb n="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belobordb(jb)</orth>
+    <lemma>belobordb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белобрад</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, БТР, Георгиев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белобрад</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белобрад</ref>, б)елобрад, -а, -о</orth>
+      </form>
+      <sense>
+        <def>седобородый, белобородый , bjelb- brada ж. р. растения Helichrysum stoechas, Helichrysum angusti- folium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 447)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 382)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belobrad</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belobrady</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобородый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielo</ref>- brady, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialobrody</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белобородый</ref> (старец)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быоборбдий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с белой бородой, белобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белабарбды</ref>, сюда же фам. Белабарбды, Белабарбдау, соврем</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Белобородое</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла. Беларуская антрапашм1я 2, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 397.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и основы имени <ref type="etymon" target="borda-2">*borda</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Тип образования праславянский.</note>
+</Entry>

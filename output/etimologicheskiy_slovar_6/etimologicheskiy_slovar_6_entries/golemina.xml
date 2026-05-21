@@ -1,0 +1,70 @@
+<Entry xml:id="golemina">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golĕmina</orth>
+    <lemma>golĕmina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>големина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>величина, размер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: 'величина, объем', 'гордость')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>големина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богатая, видная женщина , ср. сюда же големйн м. р. январь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 52; Горов. Страндж. БД I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>големина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>величина, размер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>големина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>множество, большое количество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Галямина</ref>, название деревни, бывш. Перм. губ. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Russi- sches geographisches Namenbuch II, 310)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="golemb">*golemb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

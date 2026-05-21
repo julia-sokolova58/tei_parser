@@ -1,0 +1,78 @@
+<entries>
+  <entry xml:id="blcati" xml:id="blcati">
+    <pb n="117" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъlčati</orth>
+      <lemma>bblcati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bluceti</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Jestef by byl viece bluczal, toz kral kynu. aby mlcal. Nova Rada A 107 а, конец XIV в., Ст.-чеш., Прага)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>blceti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пылать, гореть, bVcat пылать с треском , bleat пылать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartos. Slov. 18)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Malina Mistf. 11)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>blcaV</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пылать, гореть пламенем</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 101)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>belczec</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>полыхать, пылать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, И З )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бевшати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурлить (о воде) , если последнее не полонизм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(лемк., Ф. Коковський. 1з лемювського говору. — «Рддна мова» I, 7, 1933; 250)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ей</ref>
+        </m>, родственный <ref type="etymon" target="1k">*Ьъ1къ</ref>, 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

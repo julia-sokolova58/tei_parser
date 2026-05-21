@@ -1,0 +1,94 @@
+<Entry xml:id="danbnikb">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>danbnikb</orth>
+    <lemma>danbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>данник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>данник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>данйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>данник, вассал</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dannlk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>налого­ плательщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>данъникъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>платящий дань , сборщик дани</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Суд. 1.30 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1169 г. и 1216 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>данник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>платящий дань своему победителю, подданный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. стар, <ref>данник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дан­ ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. стар, <ref>дантк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>данник</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъткъ</ref>
+      </m> от <ref type="etymon" target="danb">*danb</ref> (см.) или субстантивация 
+с помощью суфф. -1къ прилаг-ного <ref type="etymon" target="danbnbjb">*danbnbjb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

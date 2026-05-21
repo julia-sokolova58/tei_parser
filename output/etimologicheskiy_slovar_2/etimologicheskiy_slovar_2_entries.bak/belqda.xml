@@ -1,0 +1,62 @@
+<Entry xml:id="belqda">
+  <pb n="76" end_page="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belqda</orth>
+    <lemma>belqda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белу</ref> да ж. р.</orth>
+      </form>
+      <sense>
+        <def>белая корова или овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: бЪлуда)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>белуда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белая овца, сюда же белудка белая слива (Тыр- новско, Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белуды</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>глаза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 165)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, здесь представлено производное с древним суфф. -qd- от прилаг.<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Формант -qd- мы рассматриваем как вариант к -qt-, ср. ^ЬёЦЬъ (ниже); эта вариантность должна вос­ ходить к раннему времени, к эпохе активности консонантных ос­ нов, каковыми, бесспорно, были старые причастия вроде *belqto. Ср. еще отношения *tr-qdb:<xr type="compare">см. <ref type="etymon" target="tr-qfo">*tr-qfo</ref>
+    </xr>. Широта семант. харак­
+теристики 
+продолжений 
+*belqda ('белая овца', 
+'белая слива', 
+'глаза') полностью объясняется из исходного знач. 'белый'. Тес­
+ная связь русск. диал. белуды 
+'глаза' с русск. диал. 
+белуты, 
+особенно — белуткй 
+'глаза' (см. ниже под *belqtb, 
+*Ьё1$ъкъ) 
+не позволяет принимать для слова белуды какую-либо другую 
+реконструкцию, вместо *belqd-. Здесь, в частности, маловероятен 
+древний суффикс -ud-, который предполагал для болг. слова Мл а-
+денов (см. S. Mladenov. Geschichte der bulgarischen Sprache 210). 
+Совсем неправдоподобно искать в болг. белуда новогреческий ум. 
+суфф. -о68а (так см. P. Skok JO XII, 1933, 142).</note>
+</Entry>

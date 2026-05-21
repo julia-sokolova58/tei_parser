@@ -1,0 +1,33 @@
+<Entry xml:id="i">
+  <pb n="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬъИ]ь</orth>
+    <lemma>ЬъИ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бовч</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ботало, шест для вспугивания рыбы* , бовч углубление, вымытое водой, стоячая, никогда не высыхающая вода с илом (закарп.), пропасть (закарп.) , боуч глубокое место в реке, вымытое водой , bone м. р. глубокое место в реке, потоке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Корост, р-н, А. С. Лысенко. Словарь диалектной лексики север­ ной Житомирщины. — «Славянская лексикография и лексиколо­ гия» 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. А. Марусенко. Материалы к словарю украинских географи­ ческих апеллятивов (названия рельефов). — «Полесье» 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. А. Б1линець. Особли- вост1 гов1рки села Доробратово, 1ршавського району, дип. робота. Ужгород, 1956, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(St. Hrabec. Nazwy geografiezne Huculszczyzny. Krakow, 1950, 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. - j - от<ref type="etymon" target="y-3">*ЬъЫъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. Э. Балецкий «Studia Slavica» IV, 1958, 400 (исходит из *Ъъ1к-).</note>
+</Entry>

@@ -1,0 +1,75 @@
+<Entry xml:id="duplina">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dup(ь)lina</orth>
+    <lemma>dup(ь)lina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>доуплиыд</ref> ж. p. OUTJ, foramen, cavura</orth>
+      </form>
+      <sense>
+        <def>отверстие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дуплина</ref>, дутиъйна ж. р.</orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA V, 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duplina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>углубление, пустота , также dupljina ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>duplina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дупло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дуплйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пустота в дереве, выгнившее нутро пня, лесины; отрубок с дуплом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 1247)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ша</ref>
+      </m>, соотносительное с <ref type="etymon" target="dupga">*dup(ь)Га</ref> 
+(см.) 
+или <ref type="etymon" target="dap1o">*dap(ь)1о</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

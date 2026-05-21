@@ -1,0 +1,168 @@
+<Entry xml:id="ednj">
+  <pb n="49" end_page="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdьnъ(jь)</orth>
+    <lemma>ĕdьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Аден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вкусный (Дювернуа), Лден, прилаг. жалостный , Лден сердитый, гневный, жалобный , ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же; см. также Речник РОДД 587)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>iddbH</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердитый , йадно. нареч. сердито</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. Живков. Трънско. — СбНУ XXI, 1905, 49)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaden</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердитый, раздосадованный, печальный, грустный, несчастный, бедный, горемычный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedan</ref>, -дна, -дно</orth>
+      </form>
+      <sense>
+        <def>гневный, серди­ тый, также ujedaHy judan, judan бедный, несчастный, jddan, -dna, прилаг. ядовитый, сердитый, бедный, несчастный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 396—399)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>относящийся к еде, съедобный , jaden, -dna, прилаг. сердитый, раздо­ садованный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>jaden</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердитый, бедный, жал­ кий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SaSelj I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jedny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>съедобный, годный в пищу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 594)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jedny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jedny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>едомый, съестной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 541)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jednd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 74, с реконструкцией *fedbna[ja])</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jaudni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вкусный, прожорливый , сюда же субстантивированные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. к&amp;<ref>дъно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>язва (Вопр. Кир.), прижигание (в образ­ ных выражениях) (Псалт. толк. Феодор.), орудие для прижига­ ния (Ио. Леств. XIV в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1642)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Лдный, -ая, -ое 'ядовитый' (Словарь русских говоров Кузбасса 233), ёдна ж. р. 'лекарство от ломотной болезни: кладут зажженный трут на больное место и потом заживляют рыбьим жиром' (иркут., Опыт 271), Лдно ср. р. 'язва, рана' (Даль 3 IV, 1562), Лднб ср. р. (ядно поставить 'сделать искусственную рану посредством при­ жигания', сиб. Картотека Словаря русских народных говоров), еднб 'трут, смола, которую, зажигая, кладут на больное место для оттока крови' (Картотека Печорского словаря).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="sh">*Шъ</ref> (см.). 
+ёра: укр, диал.</gram>
+  </gramGrp>
+  <note>Лпа 'нарост на дереве', 'рубец, полоса на шкуре животного от сильного удара палкой' (Лисенко. Словник д1алект- Hoi лексики середнього i схщного Полкся 72), jdna ж. р. 'опу­ холь на теле', 'нарост на стволе дерева' (Н. В. Никончук. Из лек- сики полесского села Листвин. — Лексика Полесья 83), блр. диал. япа ж. р. 'грыжа у скота' (Янкоусш I, 201), jdpa 'нарост на березе, ольхе, клене и ясене' (Pietkiewicz, Rzecz. 149).—Сюда же производные укр. диал. япина ж. р. 'наросты на дереве' (Миусск. окр., Гринченко IV, 541), в том числе глагол — сербохорв. jdpiti 'быть открытой, зиять (о двери, ране)' (RJA IV, 462). В этимол. словарях пропущено, хотя представляет собой оче­ видный непроизводный стар, реликт ограниченного распростране­ ния. По-видимому, восходит к *о//?а, ср. родственное лтш. iepa 'волдырь на коже' (Muhlenb.—Eudz. И, 49). См. О. Н. Трубачев «Славянское языкознание. Доклады советской делегации. V Между­ народный съезд славистов» (М., 1963) 184. Сербохорв. производ­ ный гл. (выше) неудачно объясняют из тюрк, уартак 'покрыть, закрыть' (см. Skok. Etim. rjecn. I, 755), что элементарно не со­ ответствует знач-ю сербохорв. слова.</note>
+</Entry>

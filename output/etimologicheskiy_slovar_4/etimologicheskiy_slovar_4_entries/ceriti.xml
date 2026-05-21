@@ -1,0 +1,86 @@
+<Entry xml:id="ceriti">
+  <pb n="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceriti</orth>
+    <lemma>ceriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чбрл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ трепать волосы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.—БД IV, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cefiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шевелить, рябить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cerW</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>черйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>облупливать кору</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко IV, 457)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чыръщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тащить ца­ рапая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусш II, 194)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, продолжающий, по-видимому, и.-е. *(s)ker- 
+'резать, 
+царапать и т. п.' Болг. чбрл'ъ до сих пор не сближалось с чеш.-
+слвц. лексикой, хотя налицо их семантич. тождество, а в фор­
+мальном отношении чбрл'ъ, вероятно, продолжает древнее <ref type="etymon" target="cher">*чер</ref>\к 
+с болг. диал. развитием эпентетич.</gram>
+  </gramGrp>
+  <note>Г из йотации г (р) (ср. о по­ добных фактах — болг. диал. перл'а и др.—В. Н. Чекман. Гене­ зис и эволюция палатального ряда в праславянском языке. Блр. комитет славистов АН БССР. Минск, 1973, 13—14). Младенов (ЕПР 687) предполагал родство с болг. чвор 'сук' (<xr type="compare">см. <ref type="etymon" target="syyug">*сыюгъ</ref>
+    </xr>), 
+но форма чеш. слова этому препятствует. В свою очередь, мысль 
+о гаплологии чеш. cefiti&lt;cecefiti 
+(см. Machek
+2 100) отпадает 
+ввиду формы родственного болг. чбрл'ъ. Наиболее архаичны (если 
+иметь в виду семантику и.-е. *(s)ker-)y 
+по-видимому, значения 
+укр. и блр. слов.</note>
+</Entry>

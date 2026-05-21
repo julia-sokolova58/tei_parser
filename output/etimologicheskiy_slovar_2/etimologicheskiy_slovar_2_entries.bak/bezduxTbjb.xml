@@ -1,0 +1,65 @@
+<Entry xml:id="bezduxTbjb">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezduxTb(jb)</orth>
+    <lemma>bezduxTb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezduh</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездушный r</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pleb. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezduchy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездыханный; бездушный; неумный; запыхавшийся</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezduchy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мертвый, бездыханный, без­ душный, бессмысленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>Bezduch</ref> м. р., имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1481 г., Zilinsk. kn. 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездухий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имею­ щий запаха, малодушный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-27">*bez</ref> (см.) и 
+архаичной 
+основы прилаг-ного <ref type="etymon" target="yikh">*йихъ</ref> (см. <ref type="etymon" target="duxb">*duxb)</ref>.</gram>
+  </gramGrp>
+  <note>Общую характеристику таких прилаг-ных см. Taszycki. Archaiczny typ przymiotnikow sjowianskich. — T-cki. Rozprawy i studia polonistyczne. IV, 287—288). Использование этой лексемы при калькировании европеизмов (ср. знач. 'бездушный' и т. п.) не исключает древ­ него наличия самой лексемы в слав, словаре, ср. и разнообразие приводимых выше значений.</note>
+</Entry>

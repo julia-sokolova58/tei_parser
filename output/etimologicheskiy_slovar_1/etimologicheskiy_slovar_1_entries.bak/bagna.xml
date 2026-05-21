@@ -1,0 +1,74 @@
+<Entry xml:id="bagna">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagna</orth>
+    <lemma>bagna</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagn'a</orth>
+    <lemma>bagn'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>багна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Scabiosa arvensis L., короставник полевой, т о же, что багун, заросли багульника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. (<ref>арх</ref>.) багля</orth>
+      </form>
+      <sense>
+        <def>дорога, тропа, выстлан­ ная по раде (болоту) бревешками; бревенчатая мостовая, мостовин- ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>bahna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязь в поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. Hrabec. Narwy geograficzne Huculszczyzny. Krakow, 1950, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>багна</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>т о п ь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(E. Ф. Карский И О Р Я С II, 2, 1897, 562)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>багма</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топь, болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, М а п л . 80)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Форма ж. р., соответствующая ср. p.<ref type="etymon" target="bagno">*bagno</ref> (см.) и м. p. <ref type="etymon" target="bagiib">*bagiib</ref> 
+(см.) или (<ref type="etymon" target="bagn">*bagn</ref>'a) производное с суфф. -j(a) 
+от основы <ref type="etymon" target="bagn-">*bagn-</ref>, 
+объединяющей все эти слова.</gram>
+  </gramGrp>
+</Entry>

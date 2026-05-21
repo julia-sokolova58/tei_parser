@@ -1,0 +1,175 @@
+<Entry xml:id="gospodja">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gospodja</orth>
+    <lemma>gospodja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>госпожда</ref> ж. p. Secmotva, xopta, domina</orth>
+      </form>
+      <sense>
+        <def>госпожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(As., Supr., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>госпога</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>госпожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>господа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>госпожа</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>gospoja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>госпожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 730)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hospoza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>хозяйка, , н-луж. gospoza ж. p. хозяйка, гос­ пожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb" type="dialect">диал. (<ref>вост.-луж</ref>.) gtispoza</orth>
+      </form>
+      <sense>
+        <def>хозяйка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Щерба Вост.-луж. Приложение 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gospodza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>госпожа (чаще всего о богородице)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 883)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gospoza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хозяйка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zariba. Atl. J Q Z . sla,sk. V, 1, № 872)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>госпожа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>госпожа , богородица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 75; Р. Прав, Влад. Мон.; Сл. Дан. Зат.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пайс сб. Апл. Зап. 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 566)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>госпожа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>повелитель­ ница</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>госпожа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>титул богородицы, попадья, жена священника . — Болг. госпожа ж. р. госпожа, (стар.) монахиня заимств. из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 318)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>госпора</ref> ж. р. то же , госпбца ж. р. — из</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапка- рев— Близнев БД III, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. (<ref>банатск</ref>.) госпуг</orth>
+      </form>
+      <sense>
+        <def>а госпожа аналогично объясняет С. Стоиков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БЕ VIII, 1958, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>госпожда</ref> ж. р. (в обращении к богоро­ дице) заимств. из</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. (<ref>др.-болг</ref>.), см. RJA s. v.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ja</ref>
+      </m> (первонач. притяжат.) от <ref type="etymon" target="gospodb-3">*gospodb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

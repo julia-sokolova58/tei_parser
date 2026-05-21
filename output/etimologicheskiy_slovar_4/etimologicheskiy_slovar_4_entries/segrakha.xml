@@ -1,0 +1,74 @@
+<Entry xml:id="segrakha">
+  <pb n="70" end_page="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сеграха</orth>
+    <lemma>сеграха</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crepaha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепаха Testudo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Черепаха</ref>, личное имя собств. ? 1i *cerpti</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1686 г., Тупиков 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черепаха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>земноводное животное Testudo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1313)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>черепаха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>простая негодная посудина, черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>cerepd</ref>^a</orth>
+      </form>
+      <sense>
+        <def>чешуя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарапаха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепаха</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-аха</ref>
+      </m> от основы <ref type="etymon" target="segr">*сегръ</ref>, <ref type="etymon" target="segra">*сегра</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

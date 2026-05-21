@@ -1,0 +1,66 @@
+<Entry xml:id="erupa">
+  <pb n="80" end_page="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>^erupa</orth>
+    <lemma>^erupa</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>6eroIupa</orth>
+    <lemma>6eroIupa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черупка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорлупа, раковина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чурупкъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорлупа, оболочка , стар, ширупка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянс- • c e r v i t i кият говор. — БД IV, 233)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>([на младоженците]. . . на отъ кржстницата едно тиганче, (и то има колкото една орЪ- хова ширупка) да си пражятъ яйца... Ил. Блъсков. Пиян баща, 1879. — Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>черуп</ref> м.р., черу</orth>
+      </form>
+      <sense>
+        <def>пка ж. р. скорлупа (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czerapa</ref>, szczerupa ж. р.</orth>
+      </form>
+      <sense>
+        <def>скор­ лупа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 387)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Хотя детали отношений неясны, связано в целом с<xr type="compare">см. <ref type="etymon" target="skorolupa">*skorolupa</ref>
+    </xr>, продолжения которого в отдельных счав. языках вообще 
+отличаются разнообразием форм. Младеноч (ЕПР 683) говорит о 
+корне *(s)ker-: *(s)kor- с расширениями.</note>
+  <gramGrp>
+    <gram>Толкование<ref type="etymon" target="setra">*сетра</ref> как 
+производного от гл. <ref type="etymon" target="certi">*certi</ref> см.</gram>
+  </gramGrp>
+  <note>Ж. Ж. Варбот «VII Между нар. съезд славистов. Доклады советской делегации. Слав, языкозна­ ние» (М., 1973) 117.</note>
+</Entry>

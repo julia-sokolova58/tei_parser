@@ -1,0 +1,77 @@
+<Entry xml:id="cevbnica">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cevbnica</orth>
+    <lemma>cevbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Ц</ref>^БАИИЦЛ Ж. р. Хора, lyra ,</orth>
+      </form>
+      <sense>
+        <def>флейта, свирель (Sad.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цеваница</ref>, циваница, щевапица ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень, cjeunica ж . p . tibia, свирель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII—XIV вв., R J A I, 814)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cevnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>изморозь (на ветках, после дождя), лира, музыкальный инструмент</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cevnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Calamina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪвъпща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>струна (Толк, псалт.), лира (Мин. Пут. X I в. и др.), свирель (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон, л. под 1204 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1448)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="syoip">*сёиъпъ</ref> 
+(см.), 
+субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

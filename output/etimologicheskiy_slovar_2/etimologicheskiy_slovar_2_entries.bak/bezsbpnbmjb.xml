@@ -1,0 +1,131 @@
+<Entry xml:id="bezsbpnbmjb">
+  <pb n="47" end_page="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsbpnbm&gt;(jb)</orth>
+    <lemma>bezsbpnbm&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безсънен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бессонен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>besanan</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>insomnis, бессонный , бесанен , бёснен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 239; РСА I, 481)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 481)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 495)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezsenny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bez</ref>- senny, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezsenny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Linde I, 86; Warsz. I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бесънъныщ</ref> бесонъныи</orth>
+      </form>
+      <sense>
+        <def>неусыпный •beztqzbnbfjb)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. XIII в., Срезневский III, Доп. 14')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бессонный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ли­ шенный сна, проведенный без сна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безсбнний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяссбнны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Скорее всего, префиксально-суффиксальное образование с по­ мощью<xr type="compare">см. <ref type="etymon" target="bez-6">*bez</ref>
+    </xr> и суфф. -ъп- от основы имени <xr type="compare">см. <ref type="etymon" target="vrp">*върпъ</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Произведение с суфф. -ъп- от сложного прилаг.<ref type="etymon" target="e8rp">*Ъеъ8ърпъ]ъ</ref> 
+допустимо, но ограничивается практически одной парой (чеш. 
+bezesny—bezsenny) 
+и в данном случае менее вероятно.</gram>
+  </gramGrp>
+</Entry>

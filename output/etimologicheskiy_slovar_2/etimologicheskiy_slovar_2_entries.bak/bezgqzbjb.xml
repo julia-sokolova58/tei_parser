@@ -1,0 +1,24 @@
+<Entry xml:id="bezgqzbjb">
+  <pb n="27" end_page="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgqzbjb</orth>
+    <lemma>bezgqzbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безгузый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>бесхвостый (о птицах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-40">*bez</ref> (см.; там же подробно 
+об этом типе прилаг-ных) и основы <ref type="etymon" target="ggz-">*ggz-</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,180 @@
+<Entry xml:id="devaja">
+  <pb n="17" end_page="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕva(ja)</orth>
+    <lemma>dĕva(ja)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref> ^ Б Д Ж . p. Tuapftevos, virgo</orth>
+      </form>
+      <sense>
+        <def>дева, девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. книжн. <ref>дева</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="old">стар. <ref>дева</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ёва ж. р., также дйва ж. р., дева ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, дева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deua</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, дева</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>diva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. книжн. <ref>deva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>deua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, служанка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 52, с реконструкцией *deua)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. , книжн. <ref>dziewa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 591)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dziewa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>де­ вушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Maciejewski, Chelm.-dobrz. 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. -<ref>цспав</ref>. дЪва</orth>
+      </form>
+      <sense>
+        <def>дева (Остр, ев.; Панд. Ант. X I в.), женщина , дЪвам дева , девственная, непорочная , •devati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Чис. X X X . 4 по сп. X I V в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 780)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 76; Мин. Празд. X I I в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Есф. П - 2 по сп. X I V в.; Мин. 1097 г. 89)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 780)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>дева</ref> ж. р. /девушка</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дева</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ласковое обращение старших (стариков обычно) к девушкам, обращение одной женщины к другой вне зависимости от возраста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дьва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 386)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="d">*d</ref>&amp;va родственно гл. <ref type="etymon" target="doiti">*do]iti</ref> (см.); опираясь на этот 
+резерв внутренней реконструкции, можно объяснять <ref type="etymon" target="deua">*deua</ref> из 
+<ref type="etymon" target="doi-v-a">*doi-v-a</ref>, где корень восходит к и.-е. <ref type="etymon" target="dhei--2">*dhe(i)-</ref> 
+'кормить грудью', 
+a -v 
+суффикс именного производного, кот. было, как справедливо 
+полагают, прилаг-ным (ср. полные, местоим. формы вроде цслав. 
+дЪвахл, выше).</gram>
+  </gramGrp>
+  <note>В вопросе семантики и грамм, залога этого отглаг. прилаг-ного мнения расходятся. Мы реконструируем древнее знач. 'кормящая, способная кормить (грудью)'. Ср. др.-англ. faemne 'дева', афган. рб^1а то же, кот. сравниваются с древним названием материнского молока (см. Mayrhofer II, 212). Реконструкция знач. 'сосущая (грудь)' и связанное с этим допущение болеэ широкого знач.'сосунок'опровергается тем фактич. обстоятельством, что форма м. p. *devb неизвестна, а форма *deva — выразительное femininum tantum. Форма -/&gt; может указывать на потенцию, способность, ср.</note>
+</Entry>

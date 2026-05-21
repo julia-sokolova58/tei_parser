@@ -1,0 +1,50 @@
+<Entry xml:id="yo1ogy">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1огйь</orth>
+    <lemma>Ьё1огйь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ъ</orth>
+    <lemma>ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. *<ref>belorit</ref>, род. п. -i ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица с белымх/хво- стовым оперением , также belofit м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer 37; КОРЮЦ XV в., Mistra P. Zidka Sprayovna 60.—Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mistra P. Zidka Spravovna 99.—Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belofit</ref>, род. п. -а, м. р.</orth>
+      </form>
+      <sense>
+        <def>дроздовидная птица Saxicola</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>bialorzyt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>птица из семейства соколиных Strigiceps cineraceus Bp</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1472 г., SJ. stpol. I, 78)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение (первонач. адъективное типа бахуврихи), образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="ritb">*ritb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

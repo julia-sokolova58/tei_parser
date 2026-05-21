@@ -1,0 +1,116 @@
+<Entry xml:id="drvotna">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъvotьna</orth>
+    <lemma>drъvotьna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drvoten</ref>, род. п. -tne, м. р.</orth>
+      </form>
+      <sense>
+        <def>место, где рубят, колют дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 316, с пометой: «па SIov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dre</ref>- wutnia ж. р.</orth>
+      </form>
+      <sense>
+        <def>место, где рубят дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дровбтня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сечище ; Филин 8, 193: место, где рубят дрова (в лесу или во дворе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., зап., Даль 3 I, 1228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дро</ref>- вгтня ж. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, на котором рубят дрова , дрштня, др1бот,ня, дргвутня ж. р. бревно, на котором рубят дрова, а также и место, где оно находится</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 446)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дрив</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ыпнЧ место для рубки дров , дровутна то же , дрёвитня, дрйвитня, дривтня, дрйвитинь короткая толстая колода, на которой рубят дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Ф. Шило. Швденно- зах1дн*1 говори УРСР на швшч в1д Дшстра 244)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. М. Лизанець. Морфолопчш особливост1 гов1рки села Родник1вка Свалянського району, дип. роб., Ужгород, 1956, 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Слолник специ- ф1чно*1 лексики правобережжл Черкащини. «Леке, б юл.» VI, 1958, И)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрывбтня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дровяной сарай . — Сюда же примыкает суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дършотник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, колода, на которой рубят дрова (с. Каспичан, Коларовградско, дип. раб., Архив Софийск. ун-та), дървбтник м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шуменско, СбНУ XXXIV, 381, 382, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="a-2">*а</ref>"гъио (см.) и именной формы -tbna9 производной 
+от презентной основы гл. <ref type="etymon" target="tbng">*tbng</ref>, <ref type="etymon" target="t-2">*t</ref>$ti (см.). 
+drbvbje: болг. 
+диал. 
+дръве мн. 
+'тесаные 
+строительные 
+балки' 
+(П. Китипов. Казанлъшко. — БД 
+V, 114), дръв'а, дръвл'а мн., 
+собир. 'деревья (несрубленные)' (М. Младенов БД III, 60; Геров: 
+дрьв\е мн.), макед. dpeja мн. 'деревья' (Кон.), сербохорв. дрвл&gt;е 
+ср. р., собир. 'дерево, дрова', диал. dpeje ср. р., собир. то же 
+(РСА IV, 670), также дрвел&gt;е ср. р. (РСА IV, 666), русск. диал. 
+дровьё ср. р. 'дранка' (Словарь русских старожильческих говоров 
+средней части бассейна реки Оби. Доп. 126).</gram>
+  </gramGrp>
+  <note>Производное с суфф. -ьуе от<xr type="compare">см. <ref type="etymon" target="drbvo-2">*drbvo</ref>
+    </xr>....</note>
+</Entry>

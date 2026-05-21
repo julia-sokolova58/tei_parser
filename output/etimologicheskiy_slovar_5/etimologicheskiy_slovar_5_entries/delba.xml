@@ -1,0 +1,124 @@
+<Entry xml:id="delba">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlьba</orth>
+    <lemma>dĕlьba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>делба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>раздел (наследства, добычи и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Младенов БТР: 'раздел, дележ', 'доля'; Геров: д%лба)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дёлба</ref> ж. р. то же , д</orth>
+      </form>
+      <sense>
+        <def>албъ ж. р. , делба ж. р. раздел наследства , dea6i&gt; ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.—БД IV, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.—БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>делба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деление, раздел, доля, часть, дар, талант, расставание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>деЪба</ref> ж. р., диоба ж. р.</orth>
+      </form>
+      <sense>
+        <def>деление, раздел, делба то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дёлба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздача</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Елез. 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>delba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деление, раздел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>delba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деление, раздел, елвц. deVba ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дельба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>раздел, дележ (имущества, земли и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(петерб., вят., перм., курск., амур., смол., ср.-урал., Фи­ лин 7, 346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дыъба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дележ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя действия, производное с суфф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="deliti-4">*deliti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Orzechowska 162.</note>
+</Entry>

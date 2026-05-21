@@ -1,0 +1,31 @@
+<Entry xml:id="gvara">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvara</orth>
+    <lemma>gvara</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvari</orth>
+    <lemma>gvari</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gwara</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>говор , gwar м. p. говор, гомон, галдеж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 946; Dorosz. II, 1378—1379)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано чередованием с *govorb /<xr type="compare">см. <ref type="etymon" target="govora">*govora</ref>
+    </xr>. Реконструкция 
+*gbvarb 
+(см. Siawski I, 382) не кажется нам необходимой.</note>
+</Entry>

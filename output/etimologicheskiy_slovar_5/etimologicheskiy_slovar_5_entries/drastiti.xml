@@ -1,0 +1,65 @@
+<Entry xml:id="drastiti">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drastiti</orth>
+    <lemma>drastiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дръст</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ полоскать, стирать (бельё в речке), бить, лупить , дръсте то же , дръагСа бить (с. С;шрково, Хасковско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(G. Ковачев. Троянският говор. — БД IV, 199; Н. Ковачев. Севлиевско. — БД V, 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драстити</ref> се</orth>
+      </form>
+      <sense>
+        <def>цара­ паться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdstiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дразнить, раздражать, побуждать, ободрять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drastiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать шеро­ ховатым, расцарапывать. — Сюда же</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Drastihlara, название горы (BartoS. Slov. 65).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от основы <ref type="etymon" target="drask-">*drask-</ref> / <ref type="etymon" target="drast-">*drast-</ref> (о природе сочетания -st-
+см. на <ref type="etymon" target="drasta">*drasta)</ref>&gt; соотносительный с <ref type="etymon" target="draskati">*draskati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. Berneker I, 220. Иначе — и вряд ли убедительно (zdrastiti&lt;^*strastiti, род­ ственное др.-русск. въ-сорошити 'ерошить, спутывать (волосы)') — см. Machek 2 126; Bezlaj. Eseji о sloven, jez. 153.</note>
+</Entry>

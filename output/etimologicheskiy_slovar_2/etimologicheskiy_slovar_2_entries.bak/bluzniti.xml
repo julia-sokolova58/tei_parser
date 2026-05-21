@@ -1,0 +1,107 @@
+<Entry xml:id="bluzniti">
+  <pb n="139" end_page="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'uzniti</orth>
+    <lemma>bl'uzniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bluznit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить чепуху , beVezniV болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bluznic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богохульство­ вать, кощунствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 561)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блюзпити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бого­ хульствовать, хулить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Зиз. Леке. 109; Берест, соб. 204 и др., Тимченко I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блюзнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богохульствовать, кощунство­ вать . —Контаминативным скрещением *blgd- и *bVuzn- являются</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blouzniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бредить, говорить вздор, страстно мечтать о чем-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bVuznif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать вздор, •blbvati бранить, ругать*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bluznif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бредить, болтать чепуху, грезить, мечтать, фантазировать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 107)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Суффиксальное расширение -zn- основы *ЬГи- (<xr type="compare">см. <ref type="etymon" target="bVwati">*bVwati</ref>
+    </xr>, 
+*bVujq). Впрочем, однозначная трактовка консонантизма здесь 
+едва ли уместна ввиду первоначальности экспрессивного употре­
+бления ('болтать', 'ругать', см. обзор выше), ср. в этом смысле 
+bljusniti 'брякнуть (выскочить со своим замечанием)' (Plet.</note>
+  <gramGrp>
+    <gram>I, 35). В остальном см. Baudouin de Courtenay PF 3, 1891, 472; Bruck­ ner 30; Stawski I, 35; Sadnik-Aitzetmuller. Vgl. Wb. 3, 174 (тол­ куют, вслед за Бодуэном де Куртенэ,<ref type="etymon" target="bVuzniti">*bVuzniti</ref> как производное 
+от некоего имени <ref type="etymon" target="gshp">*ЬГшпь</ref>, 
+образованного якобы аналогично 
+известному <ref type="etymon" target="bojaznb">*bojaznb)</ref>. 
+Укр. блюзнйти (как и соответствующее блр. блюзнщь) могло 
+быть заимствовано из польск. См. Rudnyckyj 2, 151.</gram>
+  </gramGrp>
+</Entry>

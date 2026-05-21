@@ -1,0 +1,185 @@
+<Entry xml:id="ceIovati">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceIovati</orth>
+    <lemma>ceIovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ц</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Ьлсжлти aanaCeaftai, salutare приветствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>целувам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать , цалувам то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>целува</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>цала</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cjelduati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>osculari, amare, целовать , сюда же целйвати то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., R J A I, 808—809)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celovdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 77, с пометой «сербохорв.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celouati</ref> целовать</orth>
+      </form>
+      <sense>
+        <def>(Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. поэт, <ref>celouati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>юэт</ref>. celovaV то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>calowac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do- i'osz. I, 779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪловати</ref>, цоловати</orth>
+      </form>
+      <sense>
+        <def>при­ ветствовать (Остр. ев. и др.), благодарить, выражать благо­ дарность , целовать, лобызать (Нест. Бор. Гл. и др.), преклоняться (Гр. Наз. XI в.), чтить, покло­ няться (Пат. Син. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 971 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цело</ref>­ вать</orth>
+      </form>
+      <sense>
+        <def>прикасаться губами к кому-чему-н. в знак любви, дружбы, радости, при встрече или прощании</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цыувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цалаваць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 999)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. па<m type="suffix">
+        <ref>-atiy</ref>
+      </m> производный от основы на <m type="suffix">
+        <ref>-й</ref>
+      </m>
+      <ref type="etymon" target="syo1-9">*сё1ъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Отраже­ нием старой семантики являются знач-я 'приветствовать' (ст.-слав.), 'благодарить', 'преклоняться' (др.-русск., русск.-цслав.).<xr type="compare">Ср. <ref type="etymon" target="celiti">*celiti</ref>
+    </xr> 
+(см.), продолжающее основу с иным исходом. 
+См. A. Meillet RS II, 1909, 69; V. Machek 
+ZfslPh XIV, 1937, 
+277; A. 
+Vaillant 
+«Studia 
+linguistica 
+in honorem Th. 
+Lehr-Spfa-
+winski» 155.</note>
+</Entry>

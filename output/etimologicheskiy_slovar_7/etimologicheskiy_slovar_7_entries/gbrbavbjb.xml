@@ -1,0 +1,87 @@
+<Entry xml:id="gbrbavbjb">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrbavb(jb)</orth>
+    <lemma>gbrbavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърбав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый, сгорбленный, сутулый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: гръбавый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грбоф</ref>, -ва, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грбав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый, с горбинкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grbav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA III, 392— 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grbav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горбатый, морщинистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гърбавыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лев. XXI. 20 по сп. XIV в.; Пат. Син. XI в. 271, Срезневский I, 613)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> 
+от <ref type="etymon" target="gbrbb">*gbrbb/</ref>
+      <ref type="etymon" target="gbrba">*gbrba</ref> 
+(см.) или 
+от 
+гл. 
+<ref type="etymon" target="gbrbati">*gbrbati</ref> 
+(см.), ср. ю-слав. распространение 
+<ref type="etymon" target="gbrbati-2">*gbrbati</ref> 
+и *čъг6ауъ.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,63 @@
+<Entry xml:id="drgteti">
+  <pb n="138" end_page="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъgъtĕti</orth>
+    <lemma>drъgъtĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drhtjeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать, трепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Черногория, RJA И, 775)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drhteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать, трепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дригтъти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>превращаться в студенистое вещество, дрожать подобно студенистому веществу . — Эту же глаг. основу продолжает производное имя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрктётп</ref> ц. р.</orth>
+      </form>
+      <sense>
+        <def>дрожь, озноб . *&lt;1гъко1ъ(ь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 714)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="drbgbtati">*drbgbtati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

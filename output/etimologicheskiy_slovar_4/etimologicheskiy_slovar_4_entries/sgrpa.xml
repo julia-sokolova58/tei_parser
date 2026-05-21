@@ -1,0 +1,37 @@
+<Entry xml:id="sgrpa">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгрьпа</orth>
+    <lemma>сьгрьпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черпня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угощение, выпивка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бадья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., Опыт 257)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьпа</ref>
+      </m> от основы гл. <ref type="etymon" target="sgrai-2">*съграИ</ref> (см.), вернее — 
+от формы <ref type="etymon" target="sgr-i">*сьгр-И</ref> до проведения -а- тематизации.</gram>
+  </gramGrp>
+</Entry>

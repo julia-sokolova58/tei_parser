@@ -1,0 +1,77 @@
+<Entry xml:id="badoriti">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>badoriti</orth>
+    <lemma>badoriti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baduriti</orth>
+    <lemma>baduriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>badufitl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обманывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>baddrif</ref> экспр.</orth>
+      </form>
+      <sense>
+        <def>подталкивать, подзадоривать, подначивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 64; см. еще Habovstiak. Orav. 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>badoris</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>badurzyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать небылицы . Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>baddrat</ref> se</orth>
+      </form>
+      <sense>
+        <def>казаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 2)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово, довольно проблематичное относительно своего возраста и происхождения.</note>
+  <gramGrp>
+    <gram>Можно, исходя из знач., взвесить две возмож­ ности: (1) образование с префиксом Ьа- от гл.<ref type="etymon" target="duriti">*duriti</ref> (см.), отно­
+сительно природы префикса Ьа- ср. <ref type="etymon" target="batoriti">*batoriti</ref> (ниже); (2) произ­
+водное от основы гл. <ref type="etymon" target="badati-2">*badati</ref> (см.), ср. знач. слвц. слова.</gram>
+  </gramGrp>
+</Entry>

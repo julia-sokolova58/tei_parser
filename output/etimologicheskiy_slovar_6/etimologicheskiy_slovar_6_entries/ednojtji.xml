@@ -1,0 +1,96 @@
+<Entry xml:id="ednojtji">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnojьtji</orth>
+    <lemma>edьnojьtji</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еднбчъ</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>один раз, сер­ бохорв. jednoh то же, jednoc , также jednoc , jedniic</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 545)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 544)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 558—559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jednoi</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>од­ нажды, один раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jednuc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>один раз, однажды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мор., цит. по: Gebauer I, 620)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jednqc</ref>, jenqc</orth>
+      </form>
+      <sense>
+        <def>один раз, однажды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. Ill, zesz. 2(15), 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>единоичь</ref>, \единоичь</orth>
+      </form>
+      <sense>
+        <def>однажды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псалт. XI в. 135, Срез­ невский I, 813)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аднбйчы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>однажды</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Аналогично образованиям<ref type="etymon" target="dbvajbtji">*dbvajbtji</ref> 
+(см.) и Hrijbtji 
+(см.) полу­
+чено 
+сложением 
+<ref type="etymon" target="edbrib">*edbrib</ref> / <ref type="etymon" target="edinb">*edinb</ref> 
+(см.) 
+и 
+именной 
+формы от 
+гл. <ref type="etymon" target="jbti">*jbti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

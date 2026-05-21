@@ -1,0 +1,137 @@
+<Entry xml:id="ascerica">
+  <pb n="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ascerica</orth>
+    <lemma>ascerica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jduimepuua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сыпь на языке, во рту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарапиЬ, R J A : с X V I I I в., FG 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdscerica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>зеленая ящерица Lacerta viridis, растение Imperatoria ostruthium, jdscarica, dscerica, dskerica то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 7, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jestefice</ref> ж. p. =jesterka</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jascerica</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasterica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица Lacerta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jescefca</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>vistaraica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>jaszczerzyca</ref>, jeszczerzyca ж. p.</orth>
+      </form>
+      <sense>
+        <def>яще­ рица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 144, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jesciefdcd</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица , ujesciefacd ж. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 393)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . II, 1291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хщерица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срез­ невский III, 1676)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ящерица</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ящурйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 547)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-tea</ref>
+      </m> от <ref type="etymon" target="a">*а</ref>$сегъ (см.).</gram>
+  </gramGrp>
+  <note>Для реконструкции ^праслав. формы с а- начальным показательны формы словен., иолаб. и словин. языков (выше), где имеется чистый гласный в начале слова или выступает ^-протеза, при /-протезе в боль­ шинстве др.-слав. языков.</note>
+</Entry>

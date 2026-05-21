@@ -1,0 +1,46 @@
+<Entry xml:id="sgtynsa">
+  <pb n="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгтынса</orth>
+    <lemma>сьгтынса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Црмница</ref>, гидроним в Черногории</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crmnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>воспаление селезенки, сыпь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черепица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>корь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="sgtp">*съгтъпъ</ref> (см.); субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

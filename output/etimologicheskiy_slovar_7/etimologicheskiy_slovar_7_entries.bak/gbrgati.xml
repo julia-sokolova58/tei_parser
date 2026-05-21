@@ -1,0 +1,125 @@
+<Entry xml:id="gbrgati">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrgati</orth>
+    <lemma>gbrgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грга</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>литься, хлестать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гргати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ковыряться (в зубах) , сюда же grgrati полоскать горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 591)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 424)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gfgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клокотать, вор­ ковать , gurgdti ворковать , сюда же grgrati клокотать, хрипеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 261)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>grgaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыгать , grgat то же , grgae то же , сюда же grglat полоскать горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>grgaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гбргатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать , гаргатъ бить , гургатъ стучать, греметь , гургатъ стучать, греметь (волог.), урчать (волог.) , гыргатъ стучать (волог.), напевать, разговаривать с самим собой (перм.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 7, 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гяргацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, гоготать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 135)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивный вар. к<xr type="compare">см. <ref type="etymon" target="gbrkati">*gbrkati</ref>
+    </xr>.</note>
+</Entry>

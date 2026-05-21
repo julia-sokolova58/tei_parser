@@ -1,0 +1,42 @@
+<Entry xml:id="bodcga">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodčga</orth>
+    <lemma>bodčga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>bodzipga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид губки Spongia fluviatilis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бадяга</ref>, бодяга ж. р.</orth>
+      </form>
+      <sense>
+        <def>пресноводная губка сем. кремнероговых</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бодяга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>речная губка (водоросль), Spongia fluviatilis L. , блр, бадзяга бодяга, скиталец (ср. в последнем случае блр. бадзяцца)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -$ga от гл.<ref type="etymon" target="bosti-7">*bosti</ref> I <ref type="etymon" target="badati">*badati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,1044 @@
+<entries>
+  <entry xml:id="otbrbbje">
+    <pb n="137" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrçbbje</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv" type="dialect">словен. диал. atrôbë</orth>
+        </form>
+        <sense>
+          <def>отруби</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Košir 35)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>отрубъя</ref> мн.</orth>
+        </form>
+        <sense>
+          <def>шелуха от зерен пшеницы , отрубя мн. отруби , с вторичным вокализмом отробя то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Словарь Красноярского края 250)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словарь орловских говоров 8, 208)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словарь Среднего Прииртышья II, 236)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>вот</ref> руб</orth>
+        </form>
+        <sense>
+          <def>е отруби</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.-русск.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel" type="dialect">диал. <ref>отрубя</ref> собир. то же, вотрубя, вот руб</orth>
+        </form>
+        <sense>
+          <def>я то же , атрубэ мн. то же , вотрыбя отруби (из ржаной и пшеничной муки)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Слоз^н. naÿH04H.-заход. Беларус1 3, 268, 330)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Там же 1, 125)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Атлас беларусюх гаворак 4, 100)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суф. <m type="suffix">
+          <ref>-bje</ref>
+        </m> от <ref type="etymon" target="otbrqbb">*otbrqbb</ref> / <ref type="etymon" target="otbrqbb-2">*otbrqbb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrbbnica">
+    <pb n="137" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrçbbnica</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>отожеьницд</ref> ττυρός, frumentum</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Milk. LP: 2. reg. 27.28- kruš.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">слвц. диал. <ref>otrubnica</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>деревянный ларь для отрубей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sloven, nár. II, 676)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. otrçbnica</orth>
+        </form>
+        <sense>
+          <def>ларь, в котором собираются отруби при обмолоте пшеницы на ветряной мельнице</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SI. gw. p. III, 484)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. устар. <ref>otrqbmca</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>нескладная, толстая женщина , uotrqbňica то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sychta III, 347)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz. Pomor. Ill, 1, 746)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">ст.-русск. <ref>отрубница</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>хлеб из отрубей (?)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Библ. Генн. 1499 г. - СлРЯ XI-XVII вв. 14, 22)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>отрубница</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>лакомая до отрубей . — Возможно, сюда же относится</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль3 II, 1951)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>производное</ref> wotrubnička</orth>
+        </form>
+        <sense>
+          <def>В1аsenstäubling, Psysarum</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 875)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суф. <m type="suffix">
+          <ref>-ica</ref>
+        </m> от прилаг. <ref type="etymon" target="otbrqbbnb">*otbrqbbnb</ref> (см.) или с суф. -nica
+от <ref type="etymon" target="otbrqbb-3">*otbrqbb</ref> / <ref type="etymon" target="otbrqbb-4">*otbrqbb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrbbnikT">
+    <pb n="137" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrçbbnikT</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>отрш</ref>&gt;никъ panis furfureus</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Mikl. LP: pat.-mih. krk.10)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. otrôbmk</orth>
+        </form>
+        <sense>
+          <def>ящик для отрубей, хлеб из отрубей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 873)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>otrubnik</ref>: ottrubnyk</orth>
+        </form>
+        <sense>
+          <def>тот, кто занимается продажей отрубей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(StčSl 14, 967)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>otrubnik</ref> м. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Kott И, 448)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">слвц. диал. <ref>otrubnik</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>хлеб с отрубями</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kálal 440: Banská Bystrica)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. устар. <ref>otrqbn</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ik место, где хранятся отруби, также склад с отрубями , uotrqbňik то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sychta III, 347)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz. Pomor. Ill, 1, 746)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>отрубник</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>крестьянин, живущий на хуторе (отрубе) , кусок земли в 12 га , отрубник ящик для хранения отрубей (Прионеж. КАССР) , eidpyÓHÚK крестьянин, который вышел из общины и получил надел земли</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пск., смол., СРНГ 24, 303)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Сл. Одес. I, 363)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Даль3 II, 1951; СРНГ 24, 303)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словн. укр. мови I, 633)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суф. <m type="suffix">
+          <ref>-ica</ref>
+        </m> от прилаг. <ref type="etymon" target="otbrqbbnb-2">*otbrqbbnb</ref> (см.) или с суф. -ткъ
+от <ref type="etymon" target="otbrqbb-5">*otbrqbb</ref> / <ref type="etymon" target="otbrqbb-6">*otbrqbb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrbbnbjb">
+    <pb n="137" end_page="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrçbbnb(jb)</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>отожкьнъ</ref>, прилаг. furfureus</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Mikl. LP)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>otroben</ref>: otróbnu ali otróosku sítu (Hipolit), otróben, прилаг.</orth>
+        </form>
+        <sense>
+          <def>отрубной</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet.2 I, 868)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>отьроубънъ</ref>, прилаг. к отъроуби</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(ГА XIV], 108а-б)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(СДРЯ VI, 279)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">ст.-русск. <ref>отрубной</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>отдельный, отделенный от чего-л. , отмежеванный , отрубный сделанный из отрубей , отрубной: алтарь отрубной, название алтаря по форме</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кн. прих.-расх. Холмог. арх. д. № 101, 83 об. 1691 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Отказн. кн. южновеликорус., 47. 1634 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Хрон. Г. Амарт., 167. XIII-XIV вв. ~ XI в.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(СлРЯ XI-XIV вв. 14, 22)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Сл. промысл, леке. Сев. Руси XV-XVII вв. 2, 328)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>отрубный</ref>, -ая, -ое, прил. к отруби, отрубной, -0я, -ое, *otbrçèati (ист.) прилаг. к отруб (ср. отрубное хозяйство), отрубной, &lt;ля, óe и отрубный, ля, ое, прилаг. к отруб</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Ушаков II, 891)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>отрубные</ref>: отрубные участки</orth>
+        </form>
+        <sense>
+          <def>участки земли, принадлежащие помещикам , отрубной приготовленный из отрубей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сл. Одес. I, 363)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Сл. Среднего Урала III, 89)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>вгдрубний</ref>, а, е</orth>
+        </form>
+        <sense>
+          <def>отдельный, обособленный, совершенно отличный, иной , резкий, обрывистый (о речи, словах), вгдрубнйй, á, &lt;?, к вгдруб место поперечного сечения дерева, ист. к вгдруб закон 14 июля давал право перехода всей сельской общине и поселению с подворным землевладением к отдельным хуторам решением простого большинства сходки</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 227)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словн. укр. мови I, 633)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>адрубны</ref> ист.</orth>
+        </form>
+        <sense>
+          <def>отрубной</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.-русск.)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>В составе прилаг-ных с суф. <m type="suffix">
+          <ref>-ъпъ</ref>
+        </m> производные от <ref type="etymon" target="otbrqbb-7">*otbrqbb</ref> /
+<ref type="etymon" target="otbrqbb-8">*otbrqbb</ref> (см.) и производные от гл. <ref type="etymon" target="otbrqbiti">*otbrqbiti</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrati">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrç£ati</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. otrúčeti: <ref>Tu</ref> se zaháněli i otrúčeli i umenievali (fugabatur, impigebat, minorabatur) , odrúčať</orth>
+        </form>
+        <sense>
+          <def>завещать в наследство</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott II, 448: ВО)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kazmíř. Valaš. 216)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="old">ст.-слвц. odrúčať несврш. к odrúčiť, odrúčať (<ref>sa</ref>)</orth>
+        </form>
+        <sense>
+          <def>(как ругательство) желать кому-л., чтобы случились неприятности</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Histor. sloven. Ill, 205)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">слвц. диал. odrúčat</orth>
+        </form>
+        <sense>
+          <def>завещать наследство</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartoš. Slov. 253: slov., val.)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Итератив-имперфектив с «-основой к otbrqčiti (см.).</note>
+  </entry>
+  <entry xml:id="otbriti">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrç£iti</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. odručiti сврш.</orth>
+        </form>
+        <sense>
+          <def>выпустить (из рук), отпустить, оставить (Стулли: renunciare, remittere, relinquere), отказаться, отречься , сообщить, уведомить (Вранчич: renunciare), отметать, отвергать (из лат. nisi quis renuntiaverit omnibus ...)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Vrančic živ. 79)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA VIII, 669)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>одручит</ref> сврш.</orth>
+        </form>
+        <sense>
+          <def>опорожнить, опустошить, частично выкуть , odrucìti dar relatione</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ел. II)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kašič [115] 299)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. odročiti: odrozhíti</orth>
+        </form>
+        <sense>
+          <def>emanco, отрубить руки (Hipolit), odročíti сврш. вручить, передать (в собственные руки) , спорт, отвести руки в стороны</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet.21, 780)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Slovar sloven, jezika III, 312)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="old">ст.-слвц. odručiť сврш.</orth>
+        </form>
+        <sense>
+          <def>(распоряжением) освободить; вверить, доверить, завещать, оставить кому-л. что-л. , odručiti завещать, отказать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Histor. sloven. Ill, 204-205)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Zilinsk. kn. 402)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>отручйтъ</ref> сврш.</orth>
+        </form>
+        <sense>
+          <def>отстранить от каких-н. обязанностей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сл. Низовой Печоры 1, 545)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Глагол на <m type="suffix">
+          <ref>-iti</ref>
+        </m>, производный от сочетания <ref type="etymon" target="otb">*otb</ref> (см.) и <ref type="etymon" target="rqka">*rqka</ref> (см.)</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrusati">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrušati</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>отрушати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>отделять, отторгать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Наум. III, (Упыр. 47) XV-XVI вв. ~ 1047 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(СлРЯ XI -X V II вв. 14, 23)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. ompyiuámb несврш. 4OTpe3áTb (<ref>хлеб</ref>, мясо и т.п.)</orth>
+        </form>
+        <sense>
+          <def>(арханг., перм.), отрушать сврш. отрезать (хлеб, веревку и т.д.), оторвать (олон.) , отрезать (о хлебе) , отвязать, снять привязанное, завязанное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(СРНГ 24, 305)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Даль3 II, 1952; Иркутский областной словарь II, 110: Словарь Карелии 4, 325; Сл. Среднего Урала III, 89; Акчимский словарь III, 144)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Сл. Низовой Печоры 1, 545)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ati</ref>
+        </m>, итератив-имперфектив к гл. <ref type="etymon" target="otbru">*otbru</ref>šiti (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrusiti">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrušiti</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. odrúšiti сврш.</orth>
+        </form>
+        <sense>
+          <def>отломать, отколоть (камень от стены)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet.2 I, 780)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. odrušiti</orth>
+        </form>
+        <sense>
+          <def>устранить помехи при приеме радиостан­ (s$) ций, охоты, выпотрошить и разделать зверя, подготовить для кухни</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(PSJČ III, 906)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>отърюшити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>обрушить, выпустить ГБ к</def>
+        </sense>
+      </item>
+    </etym>
+    <note>XIV, 1146 (СДРЯ VI, 282), ст.-русск. отрушити ‘отделить, отторгнуть’
+(Травник Любч., 492. XVII в. ~ 1534 г.) (СлРЯ XI-XVII вв. 14, 23),
+русск. диал. отрушитъ сврш. ‘отрезать или отломить хлеба’ (яросл.,
+костр., урал.) (Даль3 II, 1952; Мельниченко 138; Ярославский областной словарь (О-Пито) 68; Опыт 148; Куликовский 75; Сл. Среднего
+Урала (Доп.) 385; СРНГ 24, 305), ‘отрезать ломтями’ (Словарь русских
+говоров Прибайкалья 3, 39), ‘отрезать веревку’, ‘оторвать’ (олон.),
+‘отвязать’ (арханг.) (СРНГ 24, 305), ‘освободить от привязи, отвязать’
+(Словарь Карелии 4, 325; Сл. Низовой Печоры 1, 545).</note>
+    <gramGrp>
+      <gram>Производное с преф. <ref type="etymon" target="otb-">*otb-</ref> от гл. <ref type="etymon" target="ru">*ru</ref>šiti (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbruti">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbruti</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>odrouti</ref>, odruji</orth>
+        </form>
+        <sense>
+          <def>оторвать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott И, 309; Jungmann II, 869)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с преф. <ref type="etymon" target="otb--2">*otb-</ref> от практически нигде не засвидетельствованного в простом виде гл. <ref type="etymon" target="ruti">*ruti</ref>, обнаруживающего точные соответствия в лит. ráuju, ráuti ‘рвать растение из земли’.</gram>
+    </gramGrp>
+    <note>Однако допустимо и другое объяснение - производное с преф. *otb- от инфинитива,
+сложившегося на базе основы наст. вр. *rujo. (ср. чеш. odruji). <xr type="compare">Ср. <ref type="etymon" target="obbruti">*obbruti</ref>
+      </xr>.</note>
+  </entry>
+  <entry xml:id="otbriutitis">
+    <pb n="138" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbr(i)utiti (s^)</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>удрут</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ъ съ сврш.отвыкнуть, отучиться, перестать делать что-то</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(П. И. Петков. Еленски речник. БД VII, 149)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. odřititi (<ref>se</ref>)</orth>
+        </form>
+        <sense>
+          <def>отвалить(ся), откатить, odřititi se стать бодрым (после пробуждения) , odrutiti se отскочить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott II, 308)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kott II, 448: Výb. I, 1122. st. ski.; Výb. I, 162)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="old">ст.-слвц. odrútiť</orth>
+        </form>
+        <sense>
+          <def>бросить, избавиться, отделаться от чего-л.; отклонить, отказать</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. odrútiť экспр.</orth>
+        </form>
+        <sense>
+          <def>отбросить, odrútiťsa отвалиться, броситься бежать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(S S JII, 510; Sloven.-rus. slovn.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">диал. odrútiť сврш.</orth>
+        </form>
+        <sense>
+          <def>отбросить, выбросить (вост.-слвц.), отвергнуть, отказаться, odrucilo mi jedzeňe утратить аппетит, желание есть (вост.-слвц.), отделить часть от целого, редк. о преждевременном избавлении от младенца, отодвинуть, освободить , o d ru ťiťsd отделиться, оторваться, стать самостоятельным</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sloven, nár. II, 554)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Horák. Pohořel. 164)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">ст.-польск. odrzucič, <ref>odrucic</ref>, otrzucič</orth>
+        </form>
+        <sense>
+          <def>отбросить, оттолкнуть, отклонить, отодвинуть, отстранить, покинуть, оставить, перевернуть, опрокинуть, ударить (обо что), столкнуться, сшибиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(St. stpol. V, 497-498)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. odrzucič сврш.</orth>
+        </form>
+        <sense>
+          <def>отбросить, отклонить, перен. отразить, дать отпор, возразить, отделить бракованное, отбросить, откинуть, не принимать что-л., отвергнуть, отклонить, odrzucilo je j na miode košci о беременной женщине, которая не может выносить некоторые вещи, odrzucič siq устар. отступиться от того, с чем раньше был согласен, арх. возобновиться, вернуться (об опухоли и т.п.) . - Вероятно, сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. III, 656)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>отрутетъ</ref> сврш. «не захотеть» .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(арханг., Симина 1970, СРНГ 24, 304)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с преф. <ref type="etymon" target="Otb-">*Otb-</ref> от гл. <ref type="etymon" target="riutiti">*r(i)utiti</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+  <entry xml:id="otbrbva">
+    <pb n="140" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrbva</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>оторва</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>часть берега, отмытая, отделенная протоком , отчаянный человек, сорвиголова (курск., калуж., влад., иван., моек., пск., смол., курск.) , озорник, шалун (калуж., влад., иван.), проходимец (смол., пск.), о том, кто на все руки мастер (смол.) , наглец , дерзкий, смелый человек</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль3 II, 1927)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Даль3 II, 1927; СРНГ 24, 261; Словарь говоров Подмосковья 327; Словарь орловских говоров 8, 204)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(СРНГ 24, 261)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словарь Среднего Прииртышья. Доп. 1, 112)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Диалектные различия русского языка. Словообразование. 1, 102)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel" type="dialect">блр. диал. <ref>аторва</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>лентяй, лодырь, бездельник, лежебока , адорва хапуга . - О более широкой представленности образования в славянских языках свидетельствует производное на -ina в</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Бялькев1ч. Магш. 68; Юрчанка. Народнае слова А -Л 46)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Янкоусю III, 10)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>ръвина</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>искусственный водоем для промывания руды</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БЕР 6, 362)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>odervina</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>то, что оторвано (особенно кусок скалы)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott II, 277: Krok.)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Обратное производное от гл. <ref type="etymon" target="otbrbvati">*otbrbvati</ref> (см.).</gram>
+    </gramGrp>
+    <note>Узколокальное образование, сложившееся в отдельных славянских диалектах по активной
+словообразовательной модели. Древность проблематична.</note>
+  </entry>
+  <entry xml:id="otbrbvatis">
+    <pb n="138" end_page="140" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>otbrbvati (s£)</orth>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>отрвдти</ref> (оть^- ant.) abrumpere</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Mikl. LP)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>отръвж</ref>, еврш. от отръвпшь</orth>
+        </form>
+        <sense>
+          <def>откусывать, оторвать, вырывать, освобождать, спасать; отнимать, отръвтмся освобождаться, спасаться, отниматься, отвязываться, отбиваться, отплетаться, ombpeá (се) еврш. избавить(ся), спасти(сь), отърв0 ми безл. мне невыгодно</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(БТР; Бернштейн)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>утървъ</ref> съ</orth>
+        </form>
+        <sense>
+          <def>избавиться , утърва ми нееврш. иметь интерес, осмеливаться , утървъ ми мне невыгодно , не ми е отрва нет интереса (к покупке) ,утървъм ронять, упускать что-л., спасать кого-л. , утървъ еврш., утървъм нееврш. отпустить того, кого удерживали, отпустить скотину, упустить момент, не уметь контролировать и воспитывать человека, детей, потерять контроль над испуганным животным в упряжи, не суметь спасти кого-л. , отървъ еврш. избавить, спасти</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ка^панци 337)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Денчев. Поповско. БД V, 255)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Л. Ралев, БД VIII, 177)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(СбНУ XLIV, 533)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Ст. Ковачев. Троянският говор БД IV, 230)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(П.И. Петков. Еленски речник. БД VII, 155-156)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Т. Бояджиев. Гюмюрджинско. БД VI, 100)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. odìvati</orth>
+        </form>
+        <sense>
+          <def>одолеть, преодолеть, побороть, справиться, одолеть, отпереть, открыть, отбить, odrvati (se) отстоять, защитить (Белла, Попович), оторвать (только в примере из цслав.): Lasovica ... odrva (написано отъдьрьва) jem u (т.е. взъерошенную) g la v u - Starine 11, 199)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA V ili, 670)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. odarvàt <ref>se</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>выдержать, вынести</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(HrasteSimunovič I, 695)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. odrváti <ref>еврш</ref>.</orth>
+        </form>
+        <sense>
+          <def>оторвать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 780)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>odervati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>оторвать , odervati быстро, силой оторвать, силой взять, отнять, разлучить, отделить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott II, 277: Rk., Nt., 309; Jungmann II, 837)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PSJČ III, 822-823)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="old">ст.-слвц. odorvať[<ref>oder</ref>-]</orth>
+        </form>
+        <sense>
+          <def>оторвать, odorvať sa отвернуться, отказаться, отречься , елвц. (s$) odorvat сврш. оторвать, силой отнять, взять, отделить, odorvatsa оторваться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Histor. sloven. Ill, 174)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(SSJ II, 497)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">диал. <ref>odervac</ref> сврш.</orth>
+        </form>
+        <sense>
+          <def>оторвать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Buffa. Dlhä Luka 187)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">ст.-польск. <ref>oderwac</ref>, oterwac</orth>
+        </form>
+        <sense>
+          <def>отнять, оторвать что-л. силой, рывком</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sl. stpol. V, 446)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>oderwac</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>оторвать, перен. оторвать, отвлечь кого от чего (от работы и т.п.), oderwac siq оторваться, перен. oderwac siq od kogo, od czego расстаться, разлучиться, разделиться, отцепиться, отвязаться, отстраниться; оставить, покинуть, бросить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. III, 593)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">диал. <ref>oderwac</ref>: odervac (se)</orth>
+        </form>
+        <sense>
+          <def>оторвать, отвалиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(H. Gomowicz. Dialekt malborski II, 1, 295)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. uodärvac (uotärvac) (<ref>sq</ref>)</orth>
+        </form>
+        <sense>
+          <def>оторвать(ся) , votürvac (sq) то же , odervac , ст,-</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz. Pomor. II, 1, 172)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz. Slovinz. Wb. II, 967)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Sychta IV, 371)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>оторвати</ref> и отрвати</orth>
+        </form>
+        <sense>
+          <def>оторвать что-л., силой отделить (часть от целого) , силой оторвать, сорвать что-л. привязанное, прикрепленное , сорвать с кого-л. , отнять с помощью военной силы, отбить , насильственно отдалить, лишить связи (дружбы, союза и т.п.) , оторватися и отрватися оторваться, отвалиться, отломиться , уйти, убежать, отделившись от общей массы (Пискар. лет., 93</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(1553 - Ник. лет. XIII, 216; Пов. суде Шемяки, 20. XVII в. и др.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(ДАИ VIII, 247. 1679 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Польск. д. II, 225. 1544 г. и др.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Нак. Милосл., 28. 1643 г. и др.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Переп. Хован., 369. 1682 г. и др.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Кн. п. Моск. I, 329. 1578 г. и др.)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>XVII в.), ‘находясь в походе, отделиться от основных сил, потерять
+связь с ними’ (ДТП II, 33. 1572 г.), ‘утратить связь с чем-л.’ (Евфр.
+Отразит, пис., 8. 1691 г.) (СлРЯ XI-XVII вв. 13, 291-292), русск.
+оторвать сврш. ‘отделить (часть предмета), с усилием дернув или
+натянув’, ‘отразить, снести (часть тела) машиной, снарядом и т.п.’,
+‘резко отнять, отстранить, отвести в сторону’, ‘отделить, разлучить’,
+разг. ‘отвлечь, помешать заниматься чем-н.’, оторваться ‘отделиться
+от чего-н. вследствие сильного натяжения, рывка’, ‘перестать смотреть на что-н.’, ‘перестать заниматься чем-н.’, ‘утратить связь, стать
+чуждым кому-, чему-н.’, воен. ‘прекратить или потерять связь, соприкосновение (с противником)’, авиац. ‘отделиться, взлетев’ (Ушаков
+И, 959-960), диал. оторвать ‘сорвать, снести’, ‘разобрать на части’
+(арханг.), оторвать на платье (куйбыш.), оторваться ‘вырваться’
+(арханг.), ‘стать непригодной для езды во время весенней распутицы
+(о дороге)’ (перм.) (СРНГ 24, 261), оторвать ‘надломив, отделить от
+стебля, корня и т.п. (ветку, цветок, лист и т.п.)’, ‘выдернув, вытащить
+силой; вырвать’, безл. ‘о состоянии, когда что-н. надоедает, становится неприятным’ (Словарь Карелии 4, 313), ‘выделить какую-л. часть
+кому-л.’, оторвать словечки «о болтливом человеке» (Новг. словарь
+7, 54), руки оторвать ‘отбить желание что-л. делать’, оторви голова,
+оторви ухо с глазом - о бойком, смелом человеке, оторвать: молоко
+оторвало ‘народная примета: к дождю у коровы становится меньше
+молока’ (Словарь русск. говоров Сибири 3, 134; Сл. говоров старообрядцев Забайкалья 327), оторваться от ума ‘забыть’ (Словарь русских говоров Алтая 3, I, 206), оторваться ‘уйти, уехать ненадолго,
+otbrygati (s$)
+вырваться’ (Словарь Карелии 4, 313), укр. відірвати ‘оторвать’ (Гринченко I, 214; Укр.-рос. слови. I, 230), диал. відорватисі ‘оторваться’,
+відорвавс’і від ш ибенщ ’і ‘об ободранном, небрежно одетом человеке’ (Онишкевіч. Сл. бойк. гов. 1: А -Н , 123), блр. адарватъ сврш.
+‘оторвать; (резким движением) оборвать’, адарвацца ‘оторваться;
+(порваться в результате резкого движения) оборваться’ (Блр.-русск.),
+диал. атарвацъ ‘оторвать’ (Слоун, пауночн.-заход. Беларусі 1, 118),
+адарваць то же (Бялькевіч. Магіл. 42; Сцяшковіч. Грод. 18), адырвацъ
+то же, атырвацъ то же, атарвацца, атырвацца ‘оторваться’ (Бялькевіч. Магш. 49, 62, 75), оторвацъ ‘оторвать’, оторвацца ‘оторваться’
+(Тураускі слоунік 3, 285).</note>
+    <gramGrp>
+      <gram>Производное с преф. <ref type="etymon" target="otb--3">*otb-</ref> от гл. <ref type="etymon" target="rbvati">*rbvati</ref> (sq) (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

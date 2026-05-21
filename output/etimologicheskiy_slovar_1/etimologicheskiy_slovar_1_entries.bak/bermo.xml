@@ -1,0 +1,25 @@
+<Entry xml:id="bermo">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bermo</orth>
+    <lemma>bermo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>берёмо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ноша в обхват руками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 25)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Морфолого-словообразовательный вариант ср. р. к *berma ж. р. (см.; подробно об этимологии<xr type="compare">см. <ref type="etymon" target="berme">*berme</ref>
+    </xr>). Древность образования 
+неясна. Возм., вторично преобразовано из *berme (см. эту статью, 
+в частности — соответствующие русск. диал. примеры в обзоре 
+форм).</note>
+</Entry>

@@ -1,0 +1,80 @@
+<Entry xml:id="yek">
+  <pb n="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ыекъ</orth>
+    <lemma>Ыекъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>блек</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение белена Hyoscyamus niger</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геор­ гиев; Геров: блЫъ м. р. 'белена черная Hyoscyamus niger^)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блёк</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>balatus, блеянье (овцы)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII -вм RJA)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ыёк</ref> м. р.: Ыек ovac</orth>
+      </form>
+      <sense>
+        <def>стадо овец у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ыек</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>блеянье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ЬГак</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ыек</ref>, blik м. р.</orth>
+      </form>
+      <sense>
+        <def>белена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание. См. Георгиев ВЕР I, 55 (с указанием на вторичность возникновения знач. 'белена' в ряде слав, языков, поскольку отравление беленой вызывает у человека, бред, рас­ стройство речи).<xr type="compare">Ср. далее <ref type="etymon" target="blekati">*blekati</ref>
+    </xr>, 
+*blekota, 
+<xr type="compare">см. <ref type="etymon" target="btekoto">*btekoto</ref>
+    </xr>. 
+Иначе — и вряд ли верно (от цветообозначения) — см. Sadnik— 
+Aitzetmtiller. Vgl. Wb. 3, 141-142.</note>
+</Entry>

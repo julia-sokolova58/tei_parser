@@ -1,0 +1,97 @@
+<Entry xml:id="bajbda">
+  <pb n="139" end_page="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajbda</orth>
+    <lemma>bajbda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>bajda</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтун, враль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>байда</ref>, общ. р . ,</orth>
+      </form>
+      <sense>
+        <def>гуляка, беспечный человек, прозвище неуклю­ жей женщины, краюха, ломоть хлеба . — Сюда же производные отыменные глаголы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 20; Укр.-рос. словн. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bajdat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. D o d . к Bart. 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bajdac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нести вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I. 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>байдати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать вздор, говорить чепуху</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>байдатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>б е з ­ дельничать, бить баклуши</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., орл., Филин 2, 54)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. имя действия, производное с суфф.<m type="suffix">
+        <ref>-oda</ref>
+      </m> от основы гл. 
+<ref type="etymon" target="bajati-11">*bajati</ref> 
+(см.) или 
+<ref type="etymon" target="bajiti">*bajiti</ref>.</gram>
+  </gramGrp>
+  <note>У ж е состоявшийся переход nomen actionis &gt; nomen agentis, а также тот факт, что суфф. -hda рано утратил продуктивность и вообще весьма редок (<xr type="compare">ср. <ref type="etymon" target="pravbda">*pravbda</ref>
+    </xr>, 
+*vorzbdd),ne 
+позволяет нам следовать за теми, кто, возм., скло­
+нен видеть здесь позднее образование, чему, видимо, способствует 
+экспрессивность этих слов (см. Stawski I, 25, особенно — Sadnik— 
+Aitzetmuller. V g l . W b . 2, 116—117; Machek 22). Знач. 'ломоть 
+хлеба', известное также у польск. pajda, bajda, в конечном счете, 
+вероятно, — тюркизм, с р . Bruckner 391.</note>
+</Entry>

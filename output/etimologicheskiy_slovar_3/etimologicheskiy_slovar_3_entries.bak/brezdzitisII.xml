@@ -1,0 +1,91 @@
+<Entry xml:id="brezdzitisII">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezdziti s§ II</orth>
+    <lemma>brezdziti s§ II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdziti</ref> se</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(VaJjavec Lj Zv XIII, 1893, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfezditi</ref> se</orth>
+      </form>
+      <sense>
+        <def>брезжить, светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 103; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brizitl</ref> se</orth>
+      </form>
+      <sense>
+        <def>светать , bre- jzdit se светать , bryjdit se то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 166)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>briezdW</ref> sa</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>brjezlf</ref> sa то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zoch 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzezdzyc</ref> si$</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. 1, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брезжить</ref>, брезжит</orth>
+      </form>
+      <sense>
+        <def>светать, распространять слабый свет в начале утра</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на - Ш от основы<ref type="etymon" target="brezgb-6">*brezgb</ref> 
+II (см.).</gram>
+  </gramGrp>
+</Entry>

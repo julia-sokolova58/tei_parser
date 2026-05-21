@@ -1,0 +1,66 @@
+<Entry xml:id="bagati">
+  <pb n="122" end_page="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagati</orth>
+    <lemma>bagati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bahac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догадываться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багати</ref>—бажати</orth>
+      </form>
+      <sense>
+        <def>сильно желать, хотеть . — С ю д а же польск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 1 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>zabagac</ref> sip</orth>
+      </form>
+      <sense>
+        <def>захотеть, пожелать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz, VIII, 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Это слово обычно этимологизируют как родственное греч. ?о&gt;уа) сжарить, поджаривать', др.-в.-нем. bahhan, др.-англ. Ьасап спечь, жарить', с развитием знач. сжарить, жечь' &gt; ' г о р я ч о желать, жаждать'. См. Berneker I, 38; Фасмер I, 104—105; Sad­ nik— Aitzetmuller. V g l . W b . 2, 107. Сюда же примыкают близко родственные праслав. *bazati,<xr type="compare">см. <ref type="etymon" target="baziti-2">*baziti</ref>
+    </xr>. Не получила 
+под­
+держки в литературе этимология, связывавшая праслав. *bagali 
+с др.-инд. bhdjati, bhdjate 'делит, наделяет; получает как часть', 
+а также с праслав. 
+*Ьодъ, 
+<xr type="compare">см. <ref type="etymon" target="bogatb">*bogatb</ref>
+    </xr>, причем *bagati якобы 
+получило знач. 'желать
+5 из первонач. 'хватать' (Г. А. Ильинский 
+И О Р Я С 
+X X I I I , 
+1918, 126—129). Менее вероятные 
+этимологии 
+(вроде гипотезы Петерссона о метатезе в связи с лит. gobsti ' ж а ж ­
+дать', подробно разбираемой другими авторами, см. напр. 
+Sad­
+nik—Aitzetmuller, 
+там же) здесь опускаем.</note>
+  <gramGrp>
+    <gram>Знач. 'догадаться' у глаголов с основой bag- (слвц. bahac, ср. еще укр. збагнути, Гринченко II, 121) мы объясняем конта- минативным сближением с глаголами с основой bad- (см.<ref type="etymon" target="badati-6">*badati)</ref>.</gram>
+  </gramGrp>
+</Entry>

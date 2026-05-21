@@ -1,0 +1,49 @@
+<Entry xml:id="bridatis">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridati (s^)</orth>
+    <lemma>bridati (s^)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брйдам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расплетать (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брйдати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдергивать нити из ткани, брйдати се изнашиваться, вытираться , брйдати се слегка волноваться (о воде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>брйдати</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ни терпъкою, бридаъяъ. Гр. Наз. с толк. Ник. Ир. XIV в., Срезнев­ ский I, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Хотя семантич. трудности до конца осилить не удается, у нас нет пока возможности иной этимологической интерпретации<ref type="etymon" target="bridati">*bridati</ref>, 
+кроме соотнесения его с <ref type="etymon" target="gyk">*ЬгЬйъкъ</ref> 
+(см.) и с 
+другими 
+именными и глагольными формами этого гнезда.</gram>
+  </gramGrp>
+  <note>У Бернекера пропущено.</note>
+</Entry>

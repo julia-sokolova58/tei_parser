@@ -1,0 +1,50 @@
+<Entry xml:id="dymokur">
+  <pb n="202" end_page="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymokurъ</orth>
+    <lemma>dymokurъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dymokury</ref> мн., местн. назван.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Regesta Bohemiae et Moraviae II, 1290; Libri Confirmationum, 1359, Gebauer I, 372; Profous I, 462—463: с 1249 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dymokury</ref> ж. p. мн.</orth>
+      </form>
+      <sense>
+        <def>масса перегнившего мха и травы, кот. легко воспламеняется</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дымокур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>всё горящее без пла­ мени, выделяющее много дыма (камч., сиб., северск., якут., амур., забайк., иркут., енис, тобол.), костёр, огонь, разведённый в чуме (сиб., северск.), окуривание дымом (иркут., якут.), трубочист (пек.) . — Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дымокХръныи</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Въ дымокоурьнЪ мрацЪ. Воскр. Цвет. Триод. XII—XIII вв. 75, Срезневский I, 764)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="aut">*аутъ</ref> (см.) и основы <ref type="etymon" target="kig">*кигъ</ref>, <ref type="etymon" target="kuriti">*kuriti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

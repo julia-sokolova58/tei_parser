@@ -1,0 +1,37 @@
+<Entry xml:id="berzinbjb">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzinb(jb)</orth>
+    <lemma>berzinb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref> резин</orth>
+      </form>
+      <sense>
+        <def>березовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA II, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bfazyny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>березовый*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -\пъ от<ref type="etymon" target="berza">*berza</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. предыд. статью.</note>
+</Entry>

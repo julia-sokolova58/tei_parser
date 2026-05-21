@@ -1,0 +1,39 @@
+<Entry xml:id="gleviti">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glĕviti</orth>
+    <lemma>glĕviti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глёеасъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задирать, дразнить, раздражать кого-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева, С. Тръстеник, Плевенско. — БД VI, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gleuiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жевать, грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I 217; Slovar sloven, jezika I, 697)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от имени <ref type="etymon" target="glevb">*glevb</ref> I <ref type="etymon" target="gleva">*gleva</ref> (см. сл.).</gram>
+  </gramGrp>
+</Entry>

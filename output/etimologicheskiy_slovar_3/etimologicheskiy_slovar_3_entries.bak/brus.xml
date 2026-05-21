@@ -1,0 +1,29 @@
+<entries>
+  <entry xml:id="brus" xml:id="brus">
+    <pb n="50" end_page="51" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brusъ</orth>
+      <lemma>brusi»</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>брХсъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>знак военачалия в виде каменной булавы, обтесанной углами</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Савв. 1 5 9 , Ор. Бор. Фед. Год. 1 5 8 9 г., Срезневский J, 1 8 1 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Имя, 
+соотносительное 
+с *brus
+rb (см.). Древность 
+образования 
+неясна.</note>
+  </entry>
+</entries>

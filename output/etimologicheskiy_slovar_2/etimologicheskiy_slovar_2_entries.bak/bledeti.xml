@@ -1,0 +1,51 @@
+<Entry xml:id="bledeti">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledeti</orth>
+    <lemma>bledeti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Б</ref>/УЬД1ТИ pallescere</orth>
+      </form>
+      <sense>
+        <def>бледнеть , сербо­ хорв. блёдети, блёдити, блйдити, блщёдити, блщёд]ети, блщё- %ети бледнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть; блекнуть, линять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bledeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть , н.-луж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 137)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ыёъей 'бледнеть' (Muka St. I, 50), ст.-укр. блЪдЪти 'бледнеть' (Тимченко I, 104).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="bledb">*bledb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

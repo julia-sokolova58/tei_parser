@@ -1,0 +1,48 @@
+<Entry xml:id="aig">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬигъ</orth>
+    <lemma>ЬаЬигъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бабур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>улитка Helix</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ба</ref>- бур м. р.</orth>
+      </form>
+      <sense>
+        <def>гриб Helvella esculenta, строчок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бабур</ref>, бобыр м. р. Обыкновенный ерш</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кривицкий. Из сло­ варя полесских рыболовов. «Полесье» 166)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное м. р. с суфф.<m type="suffix">
+        <ref>-игъ</ref>
+      </m> от основы <ref type="etymon" target="bab-">*bab-</ref>, см. подробнее 
+<ref type="etymon" target="aa">*ЬаЬа</ref> и <ref type="etymon" target="babura">*babura</ref>, где дается семасиологическая и этимологическая 
+характеристика 
+близких 
+образований.</gram>
+  </gramGrp>
+</Entry>

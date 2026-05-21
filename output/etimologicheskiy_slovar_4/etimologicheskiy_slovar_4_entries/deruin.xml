@@ -1,0 +1,46 @@
+<Entry xml:id="deruin">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>deruin</orth>
+    <lemma>deruin</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дерун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>драчун(Р) , дерун м. р. драчун, лепешка из тертого картофеля , специальный нож для сдирания коры , ср. Дерунъ, личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сло­ варь говоров Подмосковья 109; второе знач. см. также «Иркут­ ский областной словарь» I, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Красноярского края 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1563 г., Тупиков 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грабитель, взя­ точник, чесальщик шерсти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 372)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ипъ</ref>
+      </m> от презентной основы 
+гл. <ref type="etymon" target="dbrati-3">*dbrati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

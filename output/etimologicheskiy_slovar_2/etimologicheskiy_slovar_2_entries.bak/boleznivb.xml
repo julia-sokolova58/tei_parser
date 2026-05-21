@@ -1,0 +1,25 @@
+<Entry xml:id="boleznivb">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'eznivb</orth>
+    <lemma>bol'eznivb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bolezniv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный .—</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 43)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сюда, возм., и сербохорв. болежлив, -а, -о, болежлив, -а, -о то же (РСА И, 46, 55).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -iv- от<ref type="etymon" target="boVeznb">*boVeznb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

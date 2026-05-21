@@ -1,0 +1,117 @@
+<Entry xml:id="bodblivbjb">
+  <pb n="156" end_page="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodblivb(jb)</orth>
+    <lemma>bodblivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бодлив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодливый, колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров: бодливый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бо</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>длиф, прилаг. бодливый (о скотине), колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бодлив</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>колючий, pungens</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodljiv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодливый (напр. бык), колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bodlivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колю­ чий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bodlivy</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bodliwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 589)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бодливый</ref> pungens, xepauaT-fc, cornupeta</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(бодливъ волъ. Исх. XXI. 29 по сп. XIV в.; Изб. 1073 г. — Срезневский I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бод</ref>­ ливый</orth>
+      </form>
+      <sense>
+        <def>взявший привычку бодаться, охочий бодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бодлйвий</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадлгвы</ref> (Блр,- русск. словарь).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное со сложным суфф. -ьШ- от основы гл.<ref type="etymon" target="bosti-21">*bosti</ref>, <ref type="etymon" target="bodo">*bodo</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Варбот. Древнерусское именное слово­ образование 162.</note>
+</Entry>

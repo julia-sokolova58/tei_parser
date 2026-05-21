@@ -1,0 +1,204 @@
+<Entry xml:id="dola">
+  <pb n="59" end_page="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dola</orth>
+    <lemma>dola</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дола</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацип; РСА IV, 491)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dola</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ущелье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 430)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>dola</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долина Kalal Соотносительно с *doH,<xr type="compare">см. <ref type="etymon" target="dolina">*dolina</ref>
+          </xr>. dolba / *dolbb:. dolba / *dolbb:. dolba / *dolbb:. dolba / *dolbb:</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длаб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>желоб, паз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>длаб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>паз, углубление в дереве, сделанное долотом , длап, длаба, м. р. углубление, паз в ступице, куда встав­ ляется спица , длап м. р. жёлоб , паз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Ма- ринов. Думи и фрази из Западна България. —СбНУ XII, 1895, 272)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.—БД IV, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Кова­ лев. Севлиевско. — БД V, 17; Д. Евстатиева. С. Тръстеник. Пле- венско. — БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длаб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>выемка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dlab</ref> dolbati м. p.</orth>
+      </form>
+      <sense>
+        <def>паз, отверстие, выемка, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dlab</ref> , dlap м. p.</orth>
+      </form>
+      <sense>
+        <def>выемка, отверстие, выдолбленное в дереве , daaba ж. р. выдолбленное отверстие или желобок в дереве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vydra. НогпоЫап. 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Maliпа. Mistf. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlaba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выдолб­ ленное отверстие , dlap, род. н. -Ьиу м. р. выемка, выдолбленное отверстие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 271)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. čдиал. <ref>долоба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узкая (точно выдолбленная) тропинка , долббы мн. стан, в который вводят под­ ковываемую лошадь .—Сюда, далее, суффиксаль­ ные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., донск., Филин 8, ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>длапка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шина, лубок (для укрепления переломленной руки, ноги)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>долббка</ref> ж. ~р.</orth>
+      </form>
+      <sense>
+        <def>тропа , долоббк, род. п. -бка, м. р. тропинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Даль 3 I, 1143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(урал., свердл., Филин 8, 113)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное производное с -о- вокализмом от гл.<ref type="etymon" target="dblbati">*dblbati</ref> / <ref type="etymon" target="dblbti">*dblbti</ref> / 
+<ref type="etymon" target="dblbiti">*dblbiti</ref> (см.) или скорее — от более первонач. <ref type="etymon" target="delbti">*delbti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. и<xr type="compare">см. <ref type="etymon" target="dolbto">*dolbto</ref>
+    </xr>. См. Berneker 
+1, 206. Обращает на себя внимание 
+близость слав. *dolbb /*dolba и лит. ddlba 'рычаг, лом', 
+лтш. 
+dalba, dalbs 'ствол (дерева), шест'; эта близость тем более инте­
+ресна, что производящий гл. с подходящим знач. ('бить, дол­
+бить') в балт. языках 
+практически отсутствует, в 
+отличие от 
+слав., в кот. первичные глагольные формы представлены богато.. См. Berneker 
+1, 206. Обращает на себя внимание 
+близость слав. *dolbb /*dolba и лит. ddlba 'рычаг, лом', 
+лтш. 
+dalba, dalbs 'ствол (дерева), шест'; эта близость тем более инте­
+ресна, что производящий гл. с подходящим знач. ('бить, дол­
+бить') в балт. языках 
+практически отсутствует, в 
+отличие от 
+слав., в кот. первичные глагольные формы представлены богато.. См. Berneker 
+1, 206. Обращает на себя внимание 
+близость слав. *dolbb /*dolba и лит. ddlba 'рычаг, лом', 
+лтш. 
+dalba, dalbs 'ствол (дерева), шест'; эта близость тем более инте­
+ресна, что производящий гл. с подходящим знач. ('бить, дол­
+бить') в балт. языках 
+практически отсутствует, в 
+отличие от 
+слав., в кот. первичные глагольные формы представлены богато.. См. Berneker 
+1, 206. Обращает на себя внимание 
+близость слав. *dolbb /*dolba и лит. ddlba 'рычаг, лом', 
+лтш. 
+dalba, dalbs 'ствол (дерева), шест'; эта близость тем более инте­
+ресна, что производящий гл. с подходящим знач. ('бить, дол­
+бить') в балт. языках 
+практически отсутствует, в 
+отличие от 
+слав., в кот. первичные глагольные формы представлены богато.</note>
+</Entry>

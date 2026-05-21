@@ -1,0 +1,40 @@
+<Entry xml:id="golvatbjb">
+  <pb n="7" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golvatb(jb)</orth>
+    <lemma>golvatb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глават</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>большеголовый , сербо­ хорв. глават, -а, -о головастый, большеголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glavat</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet, I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlavaty</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. 'головастый', 'упрямый, строптивый', елвц. hlauaty, прилаг. 'твердолобый, упрямый', (диал.) hlavate копоре 'женская конопля' (SSJ I, 480), в.-луж. hiowaty 'головастый' (Pfuhl 204), н.-луж. giowaty 'головас­ тый' (Muka Si. I, 263), польск. стар., диал. giowaty: giowate konopie (Warsz. 1,848), giowaty 'семенной (оконопле)' (В. Falinska. Pol. si. tka- ckie I, 75), словин. glevdti, прилаг. 'большеголовый' (Lorentz Slovinz. Wb. I, 277), русск. диал. головатый, -ая, -oe 'имеющий несораз­ мерно большую голову, головастый, большеголовый' (южн.), 'ум­ ный, толковый' (сев.-кавк.), 'капризный, привередливый' (новг.), головатый бычок 'вид рыбы бычка' (азов.) (Филин 6, 302), ст.- укр. Головаты м. р., личное имя собств. (1421 г., Словн. ст.-укр. мови X I V — X V ст. I, 243), укр. головатий, -а, -е 'с большой головой, головастый', 'о растениях: с большой головкой, кочнехм', 'умный, разумный' (Гринченко 1, 302), блр. Галаваты, фам. (Б1рыла 96). — Ср. сюда же производное болг. (Геров) главатарь м. р. 'начальник, предводитель'.</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-atb</ref>
+      </m> от <ref type="etymon" target="golua">*golua</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

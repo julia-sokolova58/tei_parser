@@ -1,0 +1,169 @@
+<Entry xml:id="dn">
+  <pb n="213" end_page="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnь</orth>
+    <lemma>dьnь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДАЫА</ref>, род. п. Дčне, м. р. т^ёра, dies</orth>
+      </form>
+      <sense>
+        <def>день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>деп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>м. р. праздник , дън\ до/i м. р. день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 153, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>деп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>день , сербо­ хорв. дан м. р. день, также мера площади, пахоты и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла- jmian, II, 243—254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>день , также den м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>den</ref>, род. п. dne, м. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>den</ref>, род. п. dna, м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzen</ref>, род. п. dnja, м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ten</ref>, род. п. dna, м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. И, 1185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 49, с реконструкцией праслав. *dbnb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzien</ref>, род. п. dnia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 279 и сл.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>j</ref> l m , род. п. dria, м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дьнь</ref>, дьнъ, день</orth>
+      </form>
+      <sense>
+        <def>день , дънъю днём, в продолжение дня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юр. ев. п. 1119 г. 125; Ип. л. под 1116 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Никон. Панд. сл. 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 770—771)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>день</ref>, род. п. дня, м. р.</orth>
+      </form>
+      <sense>
+        <def>часть суток от восхода до захода солнца, от утра до вечера, сутки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>день</ref>, род. п. дня, м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзенъ</ref>, род. п. дня, м. р.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Восходит к и.-е. *dm-, производному с суфф. -п- от *di-/*dej- 'светить' (праслав. *dbnb и его родственные соответствия обозна­ чают светлую часть суток, в некоторых языках — светлый день). Существует даже предположение, что и.-е. *dm- связано отноше­ нием гетероклитической парадигмы с *diu- (ср. любопытное в этом отношении хетт, siun-); во всяком случае слав. *dbnb сохраняет следы основы на согласный, ср. род. п. ст.-слав. длыб. Ср. род­ ственные формы: др.-инд. dina- 'день', лит. diena, др.-прусск. вин. ед. deinan 'день', лат. пйп-dinae 'девятый день, базарный день', др.-ирл. tre-denus 'трехдневное время', гот. sin-teino сЫ 'постоянно, всегда', др.-в.-нем. lengi-zin 'весна' (собственно 'долго- дневная'), нем. Lenz то же, алб. dit'e 'день' (&lt;j*din-te, см. Бер- некер, ниже, вслед за Г. Майером), далее — лат. dies 'день', арм. tiv '(светлый, белый) день' — в противоположность арм. awr 'день'. См. Н. GraBmann KZ XI, 1862, 8; V. Jagic «Rad» IX, 1869, 89; L. Havet MSL 2, 1873, 179; Berneker I, 253—254; P. Kre- tschmer «Glotta» 14, 1925, 305 и сл. (с включением этрусск. слов); A. Meillet BSL 27, 1926, 126—127; G. Bonfante «Studi baltici» 4, 1934—1935, 123; P. Kretschmer «Glotta» 28, 1940, 113; A. A. Nehring. A neglected heteroclitic noun. — «Language» 16, 1940, I и сл.; W . Cimochowski LP II, 1950, 239; A. Goetze. On the Hittite words for year and the seasons and for 'night' and c d a y \ — «Language» 27, 1951, 469, 471—472; В. Георгиев ВЯ 1954, № 4, 52 (с включением этрусск. tin 'день', Tinia 'Juppiter'); M. Budimir «Rad» 309, 1956, 83 и сл. (: этрусск. Tin- 'Юпитер'); G. R. Solta. Die Stellung des Armenischen im Kreise der indoger- manischen Sprachen 60 и сл.; Ы. Birnbaum. Indo-European nomi­ nal formations submerged tn Slavic 153.</note>
+</Entry>

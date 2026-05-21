@@ -1,0 +1,87 @@
+<Entry xml:id="boltina">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boltina</orth>
+    <lemma>boltina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блатина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болото, топь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 633; RJA I, 425; blatina ж. р., увелич. от blato, с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blatina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сливки, сметана</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blatina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болотистая, топкая местность, трясина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст.-чеш., Прага; Kott I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blatina</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blocina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болотистая местность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болотина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>высохшее болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лебед. у., Грин­ ченко I, 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="bolto">*bolto</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Л. В. Куркина «Этимология. 1967» (М., 1969), 138—139. В отношении вторич- ности знач-ия словен. слова (см. выше) ср. сербохорв. бла­ тина ж. р. 'сорт герцеговинского винограда и вина (черного)' (РСА I, 633).</note>
+</Entry>

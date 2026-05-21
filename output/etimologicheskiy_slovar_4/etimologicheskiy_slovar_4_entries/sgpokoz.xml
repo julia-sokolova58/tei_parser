@@ -1,0 +1,38 @@
+<Entry xml:id="sgpokoz">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгпокозъ</orth>
+    <lemma>сьгпокозъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чернокбсъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд черный Turdus me- rula, растения Inula helenium, Telecia speciosa, Valeriana offici­ nalis, диал, чернокбс м. p. дрозд черный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.—БД V, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чорнокдс</ref>, чорнокйс м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд черный Turdus merula L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Полесские названия птиц. «Лексика Полесья» 466)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="bgp">*бьгпъ</ref> (см.) и <ref type="etymon" target="kov">*ковъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любопытная болг.- укр. изоглосса.</note>
+</Entry>

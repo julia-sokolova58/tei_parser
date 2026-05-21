@@ -1,0 +1,178 @@
+<Entry xml:id="dymiti">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymiti</orth>
+    <lemma>dymiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>димЛ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>димй</ref> 3 л.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дими</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дймити</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dimiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>дымить(ся), куриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dy</ref>- mitiy dymiti</orth>
+      </form>
+      <sense>
+        <def>дымить(ся)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 340, с пометой: Linde)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dymit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>курить, дымить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dymW</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dymid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, коптить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dymiu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, курить, чадить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dymic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, чадить; куриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 495)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>damjic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дымить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выделять, выпускать дым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>димгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, испускать дым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дымщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="dymb">*dymb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. лит. dumyti.</note>
+</Entry>

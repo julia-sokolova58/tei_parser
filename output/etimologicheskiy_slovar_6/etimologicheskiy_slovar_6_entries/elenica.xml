@@ -1,0 +1,93 @@
+<Entry xml:id="elenica">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elenica</orth>
+    <lemma>elenica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>jelenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лань, самка оленя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в сло­ варе Вольтиджи, RJA IV, 578; РСА VIII, 720—721: ]елёница)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лань, место течки оленей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelenice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шкура оленя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jelenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лань, самка оленя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jelenica</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jelenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лань, самка оленя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jelenica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>оленйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>самка оленя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="e1ep">*е1епъ</ref> 1<ref type="etymon" target="e1ep">*е1епъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

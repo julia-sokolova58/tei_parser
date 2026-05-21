@@ -1,0 +1,57 @@
+<Entry xml:id="bronitis">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>broniti (s§)</orth>
+    <lemma>broniti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брунити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>темнеть, мрачнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brdnit</ref> se</orth>
+      </form>
+      <sense>
+        <def>поспевать, спеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Та hruska se brani = dobfe roste 'хорошо идет в рост'. Hruska. Slov. chod. 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брбнитъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о овсе) колоситься , бронитъся метать колос , брунйтъся наливаться, созревать, поспевать (о хлебах) (волог.), осыпаться (о созревшем колосе зерна) (костр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре севера Пошехоно-Володарского у. Ярославской губ. 88; Мельниченко 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 203)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="gop">*Ьгопъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

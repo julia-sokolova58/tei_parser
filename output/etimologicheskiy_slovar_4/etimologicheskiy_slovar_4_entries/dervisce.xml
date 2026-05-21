@@ -1,0 +1,59 @@
+<Entry xml:id="dervisce">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervisce</orth>
+    <lemma>dervisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfevisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>плохое дерево, плохая древесина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dfowisco</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>лес, роща, дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St: I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>деревйще</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стоит деревище: в деревище и сусло, и масло, и смерть недалеко: кабак. Даль 3 I, 1066)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>деревйще</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гроб , деревйшче то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн. 14, Гринченко I, 368)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Г. Г. Немченко. Особливост1 гов1рки с. Широкий Луг, Тяч1вського району, дип. роб. Ужгород, 1954, 138; Областной словарь буковинских говоров 419)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isee</ref>
+      </m> от <ref type="etymon" target="dervo">*dervo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

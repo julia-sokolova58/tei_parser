@@ -1,0 +1,64 @@
+<entries>
+  <entry xml:id="ced" xml:id="ced">
+    <pb n="175" end_page="176" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕdъ</orth>
+      <lemma>cedb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. стар, <ref>цед</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>щелок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(. . . като поври малко и се утаи пепель-та отлива ся вода-та и тя е зола (ц$дъ) съ 'КОЕК-ТО СЯ пере. Сбирщина, Летоструй, 1872. — Архив Болг. Возрождения, София)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>цед</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>эссенция чего-либо, выжатый сок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Добровольский 975)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>щд</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>фермент для теста, приготовляемый из отрубей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Черк. у., Гринченко IV, 431)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>цэд</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>цеж</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 692: цед м. р. 'жидкий раствор из ов­ сяной муки, приготовляемый для сварения из него киселя, цеж')</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Обратное именное образование от гл. <ref type="etymon" target="cediti">*cediti</ref> 
+(см.); 
+любопытная 
+словообразовательная болг.-вост.-слав. 
+изоглосса.</gram>
+    </gramGrp>
+  </entry>
+</entries>

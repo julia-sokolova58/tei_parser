@@ -1,0 +1,124 @@
+<Entry xml:id="brbsnqti">
+  <pb n="56" end_page="57" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbsnqti</orth>
+    <lemma>brbsnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>връси</ref>^ти Eopetv, radere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръсна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бръсна</ref> то же , 6pi&gt;cna се</orth>
+      </form>
+      <sense>
+        <def>бриться , бдрснам то же , бръсна подмести (с. Енина, Казанлъшко, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Б Д III, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brsnuti</ref>=brskati</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA I, 682)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>bersniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросить, швырнуть , bfsniti=brcniti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jarnik 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бръснйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брить, гаdere, čopetv</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. Крм. 1280 г., Срезневский I, 183—184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>броснутъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сжимая пальцами, счищать что-либо или выжимать жидкость , отделять кострицу ото льна , броснутъ собирать ягоды, забирая их всей горстью руки, отрывая от стеблей (олон., перм.), броснутъ собирать, подбирать (беличьи шкурки) (олон.) , бруснутъ обрывать куглину у конопли , брбснутъся очищаться (о льне, конопле) (новг., твер., тамб.) . — С р . сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Опыт 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Под- высоцкий 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Иваницкий. Сольвычегодский крестьянин, его обстановка, жизнь и деятельность. — Ж С т . V I I I , 1898, 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3,198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бриснувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обгрызать, объедать, облуплять кору</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. С. Ващенко. Словник полтавських говор1в. Х а р ш в , 1960, 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-no-ti</ref>
+      </m> от основы гл. <ref type="etymon" target="bnsati-3">*bnsati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание довольно широкое распространение и, по-види­ мому, раннее лексическое обособление. См. из литер.: Berneker I, 90; Георгиев В Е Р I, 83—84.</note>
+</Entry>

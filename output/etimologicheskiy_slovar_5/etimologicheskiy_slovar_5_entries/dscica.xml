@@ -1,0 +1,105 @@
+<Entry xml:id="dscica">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъščica</orth>
+    <lemma>dъščica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъфицл</ref> ж. p. aavi</orth>
+      </form>
+      <sense>
+        <def>Siov, tabella дощечка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъечйца</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>дощечка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, РВЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дахчйца</ref> ж. р. то же , шчйци</orth>
+      </form>
+      <sense>
+        <def>доски , штица сос­ новая доска , штйца ж. р. скамья, на кот. сидит ткач перед станком (с. Церовица, Каменишко, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(СбНУ III: Нар. умотворения 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Прилепско, СбНУ I: Нар. умотворения 94; Лерин- ско, СбНУ III: Нар. умотворения 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dastica</ref> ж. р. ум.</orth>
+      </form>
+      <sense>
+        <def>дощечка , также ddscica ж. р. , штйца ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 286—287)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>descica</ref> ж. р., ум. 5дощечка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>destice</ref> ж. р., ум. к deska, descicky</orth>
+      </form>
+      <sense>
+        <def>стручки (гороха)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>dostica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>до­ щечка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъщица</ref>, дощица, ум. от дъека .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Лук. I. 63. Остр, ев.; Мин. 1096 г. 31, Срезнев­ ский I, 763—764)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="a-5">*а</ref>^ъзка (см.).</gram>
+  </gramGrp>
+</Entry>

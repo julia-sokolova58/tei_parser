@@ -1,0 +1,256 @@
+<Entry xml:id="segoeg">
+  <pb n="52" end_page="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегоегъ</orth>
+    <lemma>сегоегъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сетега</orth>
+    <lemma>сетега</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёмер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>беда, яд, отрава, чемерица * , дьявол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 608)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёмер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо про­ тивное, ненавистное , чёмър м. р. дьявол, злой ребенок , чём,ер м. р. рыболовная приманка , чёмер м. р. злой дух, ничто , чёмер м. р. бранное слово, проклятие , то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско.—БД V, 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Родопски сб. I, 268)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 299)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чемер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чечер</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Veratrum lobelianum Bernh</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jb. Групче. Народни имивьа на растешфта од Скопска Црна Гора. — MJ VIII, 1957, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёмер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>яд, гнев, досада</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сетёг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>яд, гной в ране, что-либо очень горькое, желчь, досада, гнев, гусиная кожа , стёг м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>сетег</ref> и. р.</orth>
+      </form>
+      <sense>
+        <def>название болезни, отвращение , сетега безобра­ зие; гадость, дрянь; мешанина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сетег</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезнь — опухоли величиной с орех на ногах, руках и на шее , болезненная сыпь , боль в спине и в суставах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сетег</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>заболевание вызванное свертыванием крови, слабость, вялость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czemier</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица , боль в желудке у лошади</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 382)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чемеръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ядовитое растение чемерица; в образных выражениях — отравленная стрела</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. Леств. XII в., Срезневский III, 1498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёмер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хребтовая кость?, макушка головы, самое темя; чуб, вихор, хохол, челка, прядь волос на темени, (нижегор.) болезнь чело- вечья, головная боль; боль в животе, иногда с поносом и рво­ той, либо острая поясничная боль; конская болезнь, род колера, падучей, с подводкой живота, (пенз.) яд и боль от яду , чемёр м. р. яд и боль от яду (пенз.), вихор на голове (вят.) , чёмер м. р. болезнь в пояснице или в животе; спазмы , чёиёр угар , цимер головная боль, мигрень , чёмор черт , чёмур ругательное слово вроде: черт, дьявол , чбмор леший , чеиер круп, таз , ченера ж. р. одуряющий табак из багуна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1304)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кули­ ковский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. К. Герасимов. Материалы по народной медицине и акушерству в Череповецком уезде Новгородской губ. — ЖСт. VIII, 1898, 163)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 189)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богораз 155)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., Даль 3 IV, 1304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чемер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хохол, болезнь лошадиная , чемьр м. р. боль в животе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 450—451)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чёмер</ref>, чаще мн. ч.,</orth>
+      </form>
+      <sense>
+        <def>чуб, косы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С Лисенко. Словник специф1чно1 лексики право- бережно! Черкащини. «Лексикограф1чний бюлетень» VI, 1958, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чэиер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица, чачёр м. р. то же , чёчер м. р. конская болезнь, состоящая в боли живота, от которой лошадь трясется и падает , чэмер м. р. горечь, острая желудочная болезнь у лошадей или рогатого скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Носов. 696)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 344)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, название ядовитого растения и растительного яда (про­ чие значения — из мира духовных и физических ощущений и мифол. представлений — производны, см. также ниже), продол­ жающее и.-е. диал.<ref type="etymon" target="kemer-t">*kemer-t</ref> 
+производное с суфф. -ег- от <ref type="etymon" target="ket-">*кет-</ref>, 
+ср. родственное <ref type="etymon" target="ket-g-u">*кет-г-у</ref> откуда слав. <ref type="etymon" target="sfg">*сфгъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Слав. *сетегъ) *сетега этимологически тождественны лит. *kemeras м. р., мн. ч. kemeral 'растение посконник Eupatorium cannabinum L.' и др.-в,- нем. hemera 'чемерица', прочие сближения сомнительны. См. Е. Zupitza KZ XXXVII, 1904, 399; Berneker I, 142—143; J. Loewenthal WuS X, 1927, 185 (производит из и.-е. *kemero-s 'болезненный, болезнетворный'); Bruckner 62; F. Sfawski SO 18, 1947, 275; Stawski 1, 99, Fraenkel I, 251—252; Фас- мер IV, 331—332 (русск. диал. чбмор 'леший' нельзя отрывать от чеиер в прочих значениях, ср. Фасмер IV, 372, где приво­ дится — правда, с сомнением — ошибочная фин.-уг. этимология; ср., далее, правильно Фасмер IV, 332, s. v. чёмур 'чёрт', отож­ дествляемым там с чеиер; здесь полезно указать на изосемантич. связь с болг. чёмер 'дьявол', выше); Pokorny I, 558; Machek 2 97; Skok. Etim. rjecn. I, 306.</note>
+</Entry>

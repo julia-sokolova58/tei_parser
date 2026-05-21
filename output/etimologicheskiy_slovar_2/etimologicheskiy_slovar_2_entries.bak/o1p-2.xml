@@ -1,0 +1,40 @@
+<Entry xml:id="o1p-2">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо1пь</orth>
+    <lemma>Ьо1пь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boln'a</orth>
+    <lemma>boln'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ыап</ref>, -ja</orth>
+      </form>
+      <sense>
+        <def>der Laden</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jarnik 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bldnja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>пень, колода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Erjavec LMS 1879, 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ыапе ж. р. 'пастбище, выгон' (1368, 1479 гг., Ст.-чеш., Прага), диал. Ыапа 'пленка, пенка на кофе, на молоке и т. п.' (Bartos Slov. 18), Ыапа ж. р. 'плёнка, пенка' (Sverak. Boskov. 106), н.-луж. Ыоп м. р. 'луг, поляна' (Muka SI. I, 42), полаб. Ыап I Ыапа ж. р. 'луг' (Polariski—Sehnert 38, с реконструкцией *Ьо1пъ, *bolna), др.-русск. болонъ 'низменное поречье, покрытое травою' (Сл. плк. Игор., Срезневский I, 146), русск. диал. болонъ ж. р. 'мясо между грудью и задними ногами быка; брюхо у быка' (иркут.. Опыт 12), болонъ 'древесина' (Куликовский 5), болонъ 'брюшина, брюшная часть тела', 'пленка на мясе', 'лубяной и образовательный слой (камбий) древесного ствола' (Сл. Сред­ него Урала 49), балбнъ 'верхние слои дерева' (Добровольский 21), болонъ ж. р. 'пол в гумне' (олон., Филин 3, 78), укр. болонъ 'луг, выгон' (А. С. Мельничук, письменно). Помимо основы на -i (*Ьо1пъ), во всем остальном тождественно по происхождению<xr type="compare">см. <ref type="etymon" target="bolna-2">*bolna</ref>
+    </xr>. Предположение о тождестве 
+с *ро1пъ, <xr type="compare">см. <ref type="etymon" target="polnina">*polnina</ref>
+    </xr> (Machek 33) не имеет под собой никаких 
+оснований.</note>
+</Entry>

@@ -1,0 +1,126 @@
+<Entry xml:id="ceta">
+  <pb n="92" end_page="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceta</orth>
+    <lemma>ceta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отряд, дружина , верста, ровня, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бригада каменщиков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.—БД II, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чета</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отряд; рота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чета</ref> ж. р. *отряд, группа (воинская)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ceta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отряд, группа налетчиков</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшой отряд, отделение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(возм., заимств. из сербохорв., см. Т. Orbs «Зборник за фило- лооц'у и лингвистику» XVI, 1973, 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чета</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отряд , собрание (Кирилл Иерус. XII в.), община (Гр. Наз. XI в. и др.), толпа, пол­ чище (Кирилл Иерус. Огл.), сообщники (Уст. крм. Поуч. исп.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Библ. 1499 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1503 —1504)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чета</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ровня, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чета</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть, доля, ровня, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 698)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма ж. р., соотносительная с формой м. p.<xr type="compare">см. <ref type="etymon" target="cetb">*cetb</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Отглагольное имя, производное от<ref type="etymon" target="cUq">*cUq</ref>, 
+<ref type="etymon" target="cistlj">*cistlj</ref>
+      <ref type="etymon" target="citati">*citati</ref> 
+(см.), 
+по-видимому, непосредственно на базе форм наст, вр.; первонач. 
+<ref type="etymon" target="ceta">*ceta</ref> — 'группа определенного количества', ср. и знач. 
+'доля', 
+'равная доля', выше.</gram>
+  </gramGrp>
+  <note>Это чисто слав, (ново)образование нет надоб­ ности сравнивать с созвучными лат. caterva 'толпа', умбр, kate- гати 'congregamini', ирт. cethern 'отряд, группа', хотя назван­ ное сравнение традиционно повторяется в литературе и словарях (см. Berneker I, 153; F. Hartmann «Glotta» И, 1921, 117; G. S. Lane «Language» 8, 1932, 295; Фасмер IV, 351). Мысль о взаимосвязи слов русск. чета, четь 'четверть', четыре (R. Jakobson IJSLP I/II, 1959, 275) вряд ли верна.</note>
+</Entry>

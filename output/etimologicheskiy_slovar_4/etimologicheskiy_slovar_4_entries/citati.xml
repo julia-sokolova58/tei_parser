@@ -1,0 +1,173 @@
+<Entry xml:id="citati">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>citati</orth>
+    <lemma>citati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>читъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>считать (с. Мечка, Никополско, дип. раб., Архив Софийск. ун-та), если оно по вокализму корня не тождественно</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. литер, <ref>чета</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чата</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чи­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>citati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать , citati почи­ тать, воздавать почести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>citati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чи­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>citati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать, считать, полагать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>citaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать, считать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 214—215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>citad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czytac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>читать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>воспринимать какую-нибудь письменную речь по ее внешним знакам, буквам и т. п</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>читать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать, по­ читать за кого , читать считать , читать считать , читать считать, делать что-либо требующее постоян­ ного расчёта, напр. вязать сети, чулки, вышивать, чинить сеть , читать считать, производить подсчеты, принимать в расчет, во внимание, считать, расценивать каким-л. образом, воспринимать как-л</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Е. Будде. К диалектологии великорусских наречий. Исследование особен­ ностей рязанского говора. — РФВ XXVIII, 1892, 68; Е. Ф. Будде. О некоторых народных говорах в Тульской и Калужской губер­ ниях. — ИОРЯС III, 1898, 896)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоц- кий 189)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 599)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>читати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>читать, считать (Вх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 465)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чы</ref>- тщь</orth>
+      </form>
+      <sense>
+        <def>читать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, итератив-дуратив к <ref type="etymon" target="cisti">*cisti</ref>, *6btg (см.).</gram>
+  </gramGrp>
+</Entry>

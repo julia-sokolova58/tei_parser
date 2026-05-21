@@ -1,0 +1,100 @@
+<Entry xml:id="bratatis">
+  <pb n="236" end_page="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratati (s§)</orth>
+    <lemma>bratati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братати</ref> се = братакати се</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bratat</ref>* se</orth>
+      </form>
+      <sense>
+        <def>дружить, водить дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bratac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать братьями, bratac sie брататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 648—649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>братати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>fraterno foedere iungere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Петр. Берк. Мин. Чет. июн. 411, Срезневский I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>братйтъеяу</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>брататися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заводить дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тим- ченко I, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брататися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брататься, дружиться, входить в дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>братацца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. словарь 131)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="ga">* ЬгаЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

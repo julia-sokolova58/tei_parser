@@ -1,0 +1,40 @@
+<Entry xml:id="Iabcii">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>I;abcii</orth>
+    <lemma>I;abcii</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>babeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бабиться, становиться старой бабой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бабгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться женоподобным, бабиться, изнежи­ ваться, набрякать, отекать, сморщиваться от долгого пребы­ вания в воде (о человеч. теле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния, производное регулярного вида с суфф.<m type="suffix">
+        <ref>-etl</ref>
+      </m> 
+от <ref type="etymon" target="uaba">*uaba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

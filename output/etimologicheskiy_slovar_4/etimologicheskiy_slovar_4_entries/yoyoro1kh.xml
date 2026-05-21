@@ -1,0 +1,67 @@
+<Entry xml:id="yoyoro1kh">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёы!;оро1хъ</orth>
+    <lemma>ёы!;оро1хъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>certoplach</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гриб Agaricus integer</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 283, со ссылкой на Линде; Kott V—VI, 1189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czartoptoch</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Carlina acaulis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чертополох</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>разные виды Cirsium и Carduus, колючая сорная трава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чертополох</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растения Carlina acaulis (Шух.), Xanthium spinosum L., Carduus nutans L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чортапалбх</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чертополох</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="sn">*сьНъ</ref> (см.) и <ref type="etymon" target="ro1kh">*ро1хъ</ref>, отглагольное от <ref type="etymon" target="polsiti">*polsiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер IV, 348.</note>
+</Entry>

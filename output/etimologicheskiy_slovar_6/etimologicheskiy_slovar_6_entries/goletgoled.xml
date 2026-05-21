@@ -1,0 +1,78 @@
+<Entry xml:id="goletgoled">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golĕtь/*golĕdь</orth>
+    <lemma>golĕtь/*golĕdь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goledb</orth>
+    <lemma>goledb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ъдлёт</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голая, безлесная горная местность, гдлёт</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>голщет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горная, каменистая местность со скудной растительностью или без нее , golet ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 433; GTer. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>golet</ref>, род. п. -gi,</orth>
+      </form>
+      <sense>
+        <def>гололед, корка льда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomasz. Lop. 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гбл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ад место, где ничего не растет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзендзел1вський. 1менники з суф1ксом -jadb в украшськш мовь — Studia z filo­ logii polskiej i sJowianskiej 11, 157)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-edbl-etb</ref>
+      </m> от прилаг. <ref type="etymon" target="goH">*goH</ref> 
+(см.). 
+<ref type="etymon" target="g-5">*g</ref>°l§? Р°Д-
+ п - -§te: чеш. редк. hole, род. п. -ete, ср. р. 'неоперив­
+шийся птенец', 'мальчишка, безусый юнец', в.-луж. holo, род. п. 
+-leda, ср. р. '(голый) младенец' (Pfuhl 212), н.-луж. gole, род. п. 
+-еčа, ср. р. то же (Muka St. I, 292), русск. диал. голяты мн. 'мышцы 
+бедра и голени' (Словарь русских донских говоров I, 106), укр. 
+голя, род. п. -ляти, ср. р. 'неоперившийся птенец' (Гринченко I, 
+307). — Сюда же, 
+с расширением 
+первонач. 
+основы, — чеш.</gram>
+  </gramGrp>
+  <note>Holata м. р., личное имя собств. (Jungmann I, 715), русск. Го- лята, местн. название, бывш. Перм. губ. (Russisches geographi- sches Namenbuch II, 424). Ум. производное с суфф. -?t- от прилаг.<xr type="compare">см. <ref type="etymon" target="goH">*goH</ref>
+    </xr>....</note>
+</Entry>

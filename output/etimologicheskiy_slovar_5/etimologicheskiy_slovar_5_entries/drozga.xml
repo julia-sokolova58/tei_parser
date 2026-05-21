@@ -1,0 +1,48 @@
+<Entry xml:id="drozga">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drozga</orth>
+    <lemma>drozga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрозга</ref> -ж. р.</orth>
+      </form>
+      <sense>
+        <def>металлический шлак; окалина, тина, нанос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 731; RJA II, 792)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drozgd</ref> ж/ р. смесиво</orth>
+      </form>
+      <sense>
+        <def>, druzga ж. р. месиво (напр. корм свиньям)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 177; Slovar sloven, jezika I, 505: 'выжимки (особенно виноградные)')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрьзки</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>щепки, черепки, ку­ сочки, дребезги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 445)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="drozgati">*drozgati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

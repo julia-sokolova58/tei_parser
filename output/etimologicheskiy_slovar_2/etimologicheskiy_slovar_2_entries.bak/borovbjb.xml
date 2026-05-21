@@ -1,0 +1,135 @@
+<Entry xml:id="borovbjb">
+  <pb n="210" end_page="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borovb(jb)</orth>
+    <lemma>borovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боров</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сосновый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боров</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боров</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>сосновый, pineus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>borov</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сосновый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>borovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сосновый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 87; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>borovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сосновый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>borovy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>borowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бо­ ровой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>berugvi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боровой</ref>, также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>боровой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лесной*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>боровый</ref>, прилаг. от бор</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 309, Тимченко I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боровйй</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>боровой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., образованное от<ref type="etymon" target="og-3">*Ьогь</ref> (см.; там же — о конце основы 
+производящего слова).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,140 @@
+<Entry xml:id="aze">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а ze</orth>
+    <lemma>а ze</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>are</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( X V — X V I . вв., R J A I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>az</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>до тех пор, пока</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>az</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 58—59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>ez</ref> , п.-луж. az, azo</orth>
+      </form>
+      <sense>
+        <def>до; что; до тех пор, пока; чтобы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(На- bovstiak. Orav. 48, 298, 305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 5—6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>az</ref>, стар, aze</orth>
+      </form>
+      <sense>
+        <def>даже; вот; до тех пор, пока; как только; так что , кашуб.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>azh</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ecjm, ли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Pomor. I, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>аже</ref>, ажъ счто; если; даже; тем более; а н в о т</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский 1,8—9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. обл. <ref>аже</ref>, аж</orth>
+      </form>
+      <sense>
+        <def>инда, даже, так что; напротив, между тем; ведь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. (<ref>ряз</ref>.) аже с д а ж е</orth>
+      </form>
+      <sense>
+        <def>(ряз., смол.) ажб даже, так что , аж счто, даже , а ж и о д а ж е , так что; как будто, точно, словно; а ведь, но, однако, между тем как, оказывается; возможно, вероятно; или, неужели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 1, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 1, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 1)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 1, 211—212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>аж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>так что даже, даже; до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 4—5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а, но вот; даже, что даже; пока даже; и вот; как</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 3)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Союзное и наречное словосочетание из<ref type="etymon" target="a">*а</ref> (см.) и усилительной 
+частицы <ref type="etymon" target="ze">*ze</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Vondrak. V g l . slav. Gramm. II, 495; Ma- chek 20; Sadnik-Aitzetmuller. V g l . W b . 1, 5. Очень подробно см. «Etymologicky slovnik slovanskych jazyku. Ukazkove cislo», 3—11. За пределами славянского параллель может быть указана в лит. ogi 'ведь, а вот; а ведь' (аналогичное усиление союза о с помощью энклитической частицы, близкой слав. ze). Обращает на себя внимание близость значений лит. слова и ряда значений вост.-слав, слов, возможно, вызванная контактами этих сосед­ ствующих языков. Относительно лит. о см. специально на *а.</note>
+</Entry>

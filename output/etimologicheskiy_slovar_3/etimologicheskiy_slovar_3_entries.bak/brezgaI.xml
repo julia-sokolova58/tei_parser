@@ -1,0 +1,27 @@
+<Entry xml:id="brezgaI">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezga I</orth>
+    <lemma>brezga I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брезга</ref> общ.</orth>
+      </form>
+      <sense>
+        <def>мелочный человек, воркотун, скряга , брезга ж. разная дрянь , брезга брезгливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вар. ж. р. к *bгёzgъ I (см.).</note>
+</Entry>

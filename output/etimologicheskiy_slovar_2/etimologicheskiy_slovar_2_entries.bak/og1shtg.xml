@@ -1,0 +1,29 @@
+<Entry xml:id="og1shtg">
+  <pb n="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьог1штгъ</orth>
+    <lemma>Ьог1штгъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Branimlr</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(в па­ мятниках на лат. яз. IX в., RJA I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Branimir</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Casopis Ceskeho Mus. VI. 60, Jungmann I, 171)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимич. сложение с формой пов. наклонения от гл.<ref type="etymon" target="bor-">*bor-</ref>
+niti (см.) — в первой части и именем <ref type="etymon" target="tgg">*тггъ</ref> (см.) — во второй.</gram>
+  </gramGrp>
+</Entry>

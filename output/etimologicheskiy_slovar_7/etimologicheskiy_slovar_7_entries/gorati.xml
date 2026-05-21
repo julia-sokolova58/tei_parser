@@ -1,0 +1,99 @@
+<Entry xml:id="gorati">
+  <pb n="30" end_page="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorati</orth>
+    <lemma>gorati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>gorati</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA III, 277: «неясное слово в сов­ ременной народной песне: Pijentuli pjevaju, a lepiri goraju, a andeli govoraju. M. Pavlinovic»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>horati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гореть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 334: ляшск., силезск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gorad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гореть, пылать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ок. 1450 г., St. stpol. II, 457; см. еще Warsz. I, 874)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gu</ref>$rdc</orth>
+      </form>
+      <sense>
+        <def>гореть, пылать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заниматься, истребляться огнем .—Ср. сюда же соотносительное (видимо, отглаг.) имя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 948)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>огонь, костер, разжигаемый пастухами на пастбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bak. Kramsk. 99; Szymczak. Doman. II, 262)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Наряду с гл. состояния<ref type="etymon" target="goreti">*goreti</ref> 
+(см.) и итеративом 
+*-garati, 
+форма 
+<ref type="etymon" target="gorati">*gorati</ref> 
+представляет 
+собой, 
+возможно, 
+достаточно 
+стар, 
+ступень 
+(комбинация 
+нормального 
+вокализма 
+корня 
+и 
+исхода 
+основы -ati при 
+инхоативном знач.? Ср. русск., выше).</gram>
+  </gramGrp>
+  <note>Ср. соот­ ветствие в лит. gardoti 'испаряться', 'страстно желать', наряду с особым лит. gordoti 'страстно желать', 'бегать, работать до пота' (: слав, -garati). gorazditi (sg): чеш. диал. horazditi 'бранить, ругать', польск. диал. garazdzic 'бесчинствовать, сеять смуту' (St. gw. p. II, 54), др.- русск. гораздитит 'преуспевать' (Илар. Зак. Благ., Срезневский I, 552), русск. диал. гораздитъ 'строить, стряпать, делать, ла­ дить, придумывать, умудряться' (Даль—без указ. м.), 'делать, совершать что-либо плохое или такое, чего не ждали' (нижегор.), ^ударять, бить' (сверд., хакас.) (Филин 7, 18), гораздитъся вскарабкиваться, взлезать с трудом и опасностью', 'умудряться, желать достигнуть какой-либо цели' (твер., Доп. к Опыту 35), укр. гараздйтися 'удаваться' (Онишкевич. Словник бойтвського д1алекту). Гл. на -Ш, производный от прилаг.<xr type="compare">см. <ref type="etymon" target="gorazdb">*gorazdb</ref>
+    </xr>.</note>
+</Entry>

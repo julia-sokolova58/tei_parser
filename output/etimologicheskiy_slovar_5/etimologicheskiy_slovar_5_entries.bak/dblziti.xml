@@ -1,0 +1,128 @@
+<Entry xml:id="dblziti">
+  <pb n="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dblziti</orth>
+    <lemma>dblziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дължа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть в долгу, быть должным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>должи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть должным, быть обязанным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ду</ref>- жити</orth>
+      </form>
+      <sense>
+        <def>объявлять должником</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обвинять, возлагать вину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dluziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть в долгу</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlziV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>де­ лать долги, занимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть должным, делать долги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dluzyu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>занимать, быть долж­ ным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dtuzyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать взаймы, одолжать, брать в долг, занимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>должйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одалживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сиб., том., Филин 8, 111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="dblgb">*dblgb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

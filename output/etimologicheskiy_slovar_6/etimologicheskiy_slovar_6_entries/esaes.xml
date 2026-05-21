@@ -1,0 +1,68 @@
+<Entry xml:id="esaes">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsa/*ĕsъ</orth>
+    <lemma>ĕsa/*ĕsъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёзъ</orth>
+    <lemma>ёзъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jds</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA IV, 474)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdsa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>просека в лесу , jesa ж. р. то же , jds м. р. свет, блеск, сияние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jas</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сияние, блеск .—Сюда же, по-видимому, ум. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1,633)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>яска</ref>&gt; ясочка ж. р.</orth>
+      </form>
+      <sense>
+        <def>звезда, звёздочка , яска огонь (тул., Картотека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., Даль 3 IV, 1583)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Вторичное обратное производное от прилаг.<ref type="etymon" target="esknb">*esknb</ref> (см.), возм. — 
+со следами первонач. наличия -к- в основе, ср. русск. диал. яскау 
+Лсочка (выше).</gram>
+  </gramGrp>
+</Entry>

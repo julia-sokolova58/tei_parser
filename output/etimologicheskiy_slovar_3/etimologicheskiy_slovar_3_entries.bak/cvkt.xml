@@ -1,0 +1,28 @@
+<entries>
+  <entry xml:id="cvkt" xml:id="cvkt">
+    <pb n="197" end_page="198" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cvьkъtъ</orth>
+      <lemma>cvbkbtb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>чвькътъу</ref> чвекътъ (вм. цвькътъ?)</orth>
+        </form>
+        <sense>
+          <def>звук?</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(.. . и приходить патр1архъ съ дтаконы и, приклонивъ свою главу надъ пропастью..., и слышать чвекотъ в пропасти. Аре. Селун. 75, Срезневский III, 1486)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ъЬъ</ref>
+        </m> от основы гл. <ref type="etymon" target="cubkngti">*cubkngti</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

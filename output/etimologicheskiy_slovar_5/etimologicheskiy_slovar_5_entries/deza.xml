@@ -1,0 +1,281 @@
+<Entry xml:id="deza">
+  <pb n="23" end_page="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕža</orth>
+    <lemma>dĕža</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dim</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 431)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dijezva</ref> то же , дйжва ж. р. (Карацип), производное дижвица, дижица</orth>
+      </form>
+      <sense>
+        <def>мера жидкости от 1 до 3 л. , также движица , д]ежвица деревянная посудина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кап. 268)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла^нац II, 264)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла^нац II, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vis. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dĕža</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кадушка (особенно для масла), улей, лоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136: «из нем. Dose»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dĕža</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>замешен­ ное тесто , dieza сосуд , diza ж. p. масленка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj LjZv IX, 1889, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(V. Novak. Ovcarstvo pod Stolom in v Planici. — «Etnolog» XV, 1942)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sa§el, Ramovs 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dieze</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>clautra, fermentina, copus , ум. diezice ж. p. , diezka ж. p. mul(c)trum, подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 249; Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dizey</ref> dfz ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянная квашня для теста</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dila</ref> ж. р. , d</orth>
+      </form>
+      <sense>
+        <def>izka подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мор., Kott I, 243)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dieza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня, кадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dieza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня, бочка вокруг жёрнова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>tela</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzieza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня, глиняный горшок для молока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 601)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>деош</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянная кадка, в которой обычно растворяют и месят тесто, квашня, квашня, в значении хлебного раствора и посудина Для этого; кадушка либо дуплянка , дежа ж. р. деревянная кадка, в которой приготовляется тесто для хлеба; квашня (ворон., курск., южн., тамб., твер/, нижегор., рязан., курск., пенз., костр., моек., тул., калуж., орл., брян., ворон.^ донск., сарат., самар., куйбыш., смол., петрогр., ср.-урал.. оренб., киргиз., акм., новосиб., енис, кубан., волог., якут., астрах/ Краснодар.), количество теста, находящееся в такой посуде (курск., ворон., костр., тул., север., юж., смол., пек.), дежа небольшая чашка (пек.), кадка, бочка (курск., калуж., новосиб., краснояр.) , сюда же производное дёженъ, дёжня разболтан­ ное в сыворотке со сметаной толокно , дёженъ, род. п. -жня, -жню, м. р., также дежёнь, дежбнъ, род. п. -жняу -жню, м. р. кушанье в виде густой смеси толокна с водой или квасом, молоком и т. п. , дёжня ж. р. кушанье из то­ локна, разболтанного в сыворотке и затем смешанного со сметаной (арх.), тесто из толокна (сев.-двин.) , дёжен м. р. кушанье из толокна с кислым молоком , дёжёль м. р. кушанье из толокна с квасом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев., южн., Даль 3 I, 1268)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 333)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., тобол., волог., вят., арх., иерм., тобол., новосиб., Филин 7, 334)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 335)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(шенкурск., Филин 7, 333)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дгжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня, кадка, в которой приготовляют тесто</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дежа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бочка (делается чаще всего из липовой клепки, употребляется для хранения меда)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>квашня (кадка)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="deza">*dĕža</ref> 
+«<ref type="etymon" target="dez-ja">*dez-ja)</ref> 
+объясняют 
+как 
+продолжение 
+и.-е. <ref type="etymon" target="dh">*dh</ref>,oighia, имя с корневым -о-вокализмом, производное от 
+гл. <ref type="etymon" target="dheigh-">*dheigh-</ref> (см. <ref type="etymon" target="zbdati">*zbdati)</ref>, ср. наиболее формально близкую основу 
+др.-инд. dehf 'вал' (<ref type="etymon" target="dhoighl">*dhoighl)</ref>.</gram>
+  </gramGrp>
+  <note>Важной приметой слав, имени яв­ ляется сохранение дометатезного взаиморасположения согласных, продолжающего, в отличие от праслав. гл. *zbdati, и.-е. состояние. См. J. Zubaty AfslPh XVI, 1894, 389; A. Meillet MSL 14, 1907, 334—335 (неверное предположение о заимствовании из нем.); Вег- neker I, 198; К. Moszynski JP XXXIII, 1953, 363 (пытается воз­ родить версию о заимствовании, см. Мейе, выше); Фасмер I, 494. *d§ga/*d§g ,b: словен. dega ж. р. 'ремень, стягивающий ярмо, супонь', 'ремень для переноски тяжестей' (Plet. I, 127), слвц. d'ahu. р. 'до­ рога, путь, направление' (SSJ I, 228), др.-русск., русск-цслав. дАгъ 'ремень' (Ис. V. 18 — Упыр.; Изб. 1073 г. 56, Срезневский I, 804), русск. диал. дЛга ж. р. 'кожаный пояс, ремень' (зап., Даль 31, 1275; Филин 8, 305: зап., сев.-зап.), дяга 'сила, рост' (Картотека Псковского областного словаря), дяг м. р. 'рост' (Филин 8, 305), укр. диал. д'аг 'полоса лыка' (Н. В. Никончук. Из лексики по­ лесского села Листвин. «Лексика Полесья» 82), блр. дзяга ж. р. 'ремень', диал. дзяга 'кожаный пояс, ремень' (Пустаселле, Витебск, обл. Мат. 70; Сцяшков1ч, Грод. 145). Имя, однокоренное с плохо сохранившимся гл. *d$gt4, ср. сло­ жение<xr type="compare">см. <ref type="etymon" target="obdgati">*obd$gati</ref>
+    </xr>, с сохранением глагольного вокализма. Ср. лит. 
+deflgti 'покрывать', также dingti 'пропадать, исчезать', диал. dengti 
+'бежать, нестись', лтш. diegt 'идти большими шагами, бежать', 
+др.-англ. tengan 
+'спешить, теснить', др.-исл. tengja 
+'связывать'. 
+На слав, почве родственно — с другим, именным -о-вокализмом — 
+*dyga, , с сохранением глагольного вокализма. Ср. лит. 
+deflgti 'покрывать', также dingti 'пропадать, исчезать', диал. dengti 
+'бежать, нестись', лтш. diegt 'идти большими шагами, бежать', 
+др.-англ. tengan 
+'спешить, теснить', др.-исл. tengja 
+'связывать'. 
+На слав, почве родственно — с другим, именным -о-вокализмом — 
+*dyga, , с сохранением глагольного вокализма. Ср. лит. 
+deflgti 'покрывать', также dingti 'пропадать, исчезать', диал. dengti 
+'бежать, нестись', лтш. diegt 'идти большими шагами, бежать', 
+др.-англ. tengan 
+'спешить, теснить', др.-исл. tengja 
+'связывать'. 
+На слав, почве родственно — с другим, именным -о-вокализмом — 
+*dyga, , с сохранением глагольного вокализма. Ср. лит. 
+deflgti 'покрывать', также dingti 'пропадать, исчезать', диал. dengti 
+'бежать, нестись', лтш. diegt 'идти большими шагами, бежать', 
+др.-англ. tengan 
+'спешить, теснить', др.-исл. tengja 
+'связывать'. 
+На слав, почве родственно — с другим, именным -о-вокализмом — 
+*dyga, <xr type="compare">см. <ref type="etymon" target="dqgb">*dqgb</ref>
+    </xr>. Связь знач-й 'тянуть' и 'двигаться, идти; путь' 
+(ср. напр, слвц., выше) аналогична в . Связь знач-й 'тянуть' и 'двигаться, идти; путь' 
+(ср. напр, слвц., выше) аналогична в . Связь знач-й 'тянуть' и 'двигаться, идти; путь' 
+(ср. напр, слвц., выше) аналогична в . Связь знач-й 'тянуть' и 'двигаться, идти; путь' 
+(ср. напр, слвц., выше) аналогична в <xr type="compare">см. <ref type="etymon" target="sgati">*s?gati</ref>
+    </xr> 
+*pfti,  
+*pfti,  
+*pfti,  
+*pfti, <xr type="compare">см. <ref type="etymon" target="pqtb">*pqtb</ref>
+    </xr>.
+См. Berneker 1, 190, 217—218; Фасмер I, 561; Fraenkel I, 88—89; 
+Bezlaj. Eseji о sloven, jez. 136 (сведения о распространении сту­
+пени -е- в слав, языках неполны); Ф. Безлай ВЯ 1967, № 4, 52; 
+Bezlaj. .Etim. slovar sloven, jez. 1, 96. 
+•deglbjb,.
+См. Berneker 1, 190, 217—218; Фасмер I, 561; Fraenkel I, 88—89; 
+Bezlaj. Eseji о sloven, jez. 136 (сведения о распространении сту­
+пени -е- в слав, языках неполны); Ф. Безлай ВЯ 1967, № 4, 52; 
+Bezlaj. .Etim. slovar sloven, jez. 1, 96. 
+•deglbjb,.
+См. Berneker 1, 190, 217—218; Фасмер I, 561; Fraenkel I, 88—89; 
+Bezlaj. Eseji о sloven, jez. 136 (сведения о распространении сту­
+пени -е- в слав, языках неполны); Ф. Безлай ВЯ 1967, № 4, 52; 
+Bezlaj. .Etim. slovar sloven, jez. 1, 96. 
+•deglbjb,.
+См. Berneker 1, 190, 217—218; Фасмер I, 561; Fraenkel I, 88—89; 
+Bezlaj. Eseji о sloven, jez. 136 (сведения о распространении сту­
+пени -е- в слав, языках неполны); Ф. Безлай ВЯ 1967, № 4, 52; 
+Bezlaj. .Etim. slovar sloven, jez. 1, 96. 
+•deglbjb,</note>
+</Entry>

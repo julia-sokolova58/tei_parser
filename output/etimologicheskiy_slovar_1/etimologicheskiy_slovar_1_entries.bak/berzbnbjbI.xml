@@ -1,0 +1,135 @@
+<Entry xml:id="berzbnbjbI">
+  <pb n="209" end_page="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzbnb(jb) I</orth>
+    <lemma>berzbnb(jb) I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ъ</ref>^Ъ\\Ь.\\ъ, -Ъ1И, прилаг., тоо хрт^оо, praecipitii</orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёжеп</ref> прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёжнй</ref>, бри]</orth>
+      </form>
+      <sense>
+        <def>ёжна береговой, прибрежный, гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezen</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(см. Badjura 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (стар.) <ref>bfezni</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brezny</ref> прилаг. редк.</orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzezny</ref> прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 691)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бережъныа</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бережной</ref>,</orth>
+      </form>
+      <sense>
+        <def>береговой , бережной, бережный расположенный на берегу, береговой, прибрежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 6)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(енис, том., арх., пек., волог., Филин 2, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>берёжнай</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прибрежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ыг- от имени<ref type="etymon" target="berg-5">*bergъ</ref> 
+(см.). 
+<ref type="etymon" target="berzbirbjb">*berzbirbjb</ref> 
+II: 
+русск. 
+бережный 
+'осторожный, 
+осмотрительный' 
+(Даль
+3 I, 202), бережной, бережный 'бережливый, 
+нерасточитель­
+ный', 'тщательно охраняемый, оберегаемый', 'осторожный, боязли­
+вый' (Филин 2, 250), ст.-укр. бережный то же 
+(Тимченко I, 84), 
+укр. берёжний 
+'осторожный' 
+(П. 
+Бшецышй-Носенко. 
+Словник 
+укр. мови, 53).</gram>
+  </gramGrp>
+  <note>Прилаг., образованное с суфф. -ъп~, соотносительное с гл.<xr type="compare">см. <ref type="etymon" target="bergt4">*bergt4</ref>
+    </xr>. Возраст образования неясен.</note>
+</Entry>

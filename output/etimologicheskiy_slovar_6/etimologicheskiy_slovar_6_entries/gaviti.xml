@@ -1,0 +1,83 @@
+<Entry xml:id="gaviti">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gaviti</orth>
+    <lemma>gaviti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гави</ref> се</orth>
+      </form>
+      <sense>
+        <def>зевать, таращиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gauiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>испытывать отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вызывать отвращение, gdbiti se</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>haviti</ref>, oha- viti</orth>
+      </form>
+      <sense>
+        <def>портить, пакостить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гавити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ротозейни­ чать, зевать . — Ср. сюда же обратное произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>неряха (о женщине)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 414)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Предполагалась связь с<xr type="compare">см. <ref type="etymon" target="govbno">*govbno</ref>
+    </xr>, см. Berneker I, 298— 
+299. Возражения см. Фасмер I, 379. Звукоподражание?, см. Berneker I, 298— 
+299. Возражения см. Фасмер I, 379. Звукоподражание?, см. Berneker I, 298— 
+299. Возражения см. Фасмер I, 379. Звукоподражание?, см. Berneker I, 298— 
+299. Возражения см. Фасмер I, 379. Звукоподражание?</note>
+</Entry>

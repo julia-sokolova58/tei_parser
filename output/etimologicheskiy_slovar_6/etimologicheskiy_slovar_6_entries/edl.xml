@@ -1,0 +1,121 @@
+<Entry xml:id="edl">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edlь</orth>
+    <lemma>edlь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jel</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. ]<ref>ёич</ref> род. п. jell, ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Roz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jedl</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель , также jedle ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 613)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedle</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель Abies</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель Abies</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>jedl</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пихта, ель , также стар, и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jedla</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ель</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грам. дел. о гран. Кир. мон. 1395 г., Срез­ невский I, 825)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ель</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>высокое хвойное вечнозеленое дерево сем. сосновых. — Ср. сюда же производные</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>елец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>высокий еловый лес (киров., Картотека СТЭ)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>ёлца</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>цветок, которым украшается дом невесты в день свадьбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыялектнага слоушка Гомелыпчыны 136)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно др.-прусск. addle, лит. egle, лтш. egle 'ель', с кот. слав. *edlb объединяет семантика и принадлежность к ж. р. (слав. — основа на балт. — на -ё-). Далее, родственно лат. ebulus ж. р., еЫйит ср. р. 'бузина', кот. вместе с балт. и слав, словами возводятся к и.-е. *edh-l- от *edh- 'острый'. Ср. еще, с другим суфф., галльск. od-ocos 'бузина'. Попытка Махека сбли­ зить праслав. *edla с греч. ёХатт] сель' на основе общего «праев- ропейского» субстрата не встретила сочувствия, поскольку греч. слово имеет свою достаточно надежную и.-е. этимологию (*e-lnt-a). См. Miklosich 102; A. Meillet. Le genre fcminin des norns d'arbres et les themes en -o-. — MSL 14, 1906—1908, 478; J. J. Mikkola « Jagic-Festschrift» (Berlin, 1908, 361); Он же.— IF XXIII, 1908, 126 (сближение с др.-ирл. aidlen 'ел ь ' , брет. aedlen то же, отклоненное специалистами); Berneker I, 261—262; A. Cuny. Gaulois odocos, latin ebulum.—MSL 16, 1910, 327 — 329; L. Tesniere RES XIII, 1933, 59; V. Machek. Quelques noms slaves de plantes. — LP II, 1950, 148; Machek. Ceska a slovenska jmrna rostlin 35 ([Рец.]: В. M. Иллич-Свитыч — ВЯ 1957, Л ' 2, 132); Slawski I, 582—583; Moszynski. Pierwotny zasia^g 58; Wahie- Hofm. I, 388—389; Fraenkel I, 117-118; Фасмер II, 17—18; Frisk I, 481.</note>
+</Entry>

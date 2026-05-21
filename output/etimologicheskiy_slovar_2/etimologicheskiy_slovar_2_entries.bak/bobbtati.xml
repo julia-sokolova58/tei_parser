@@ -1,0 +1,35 @@
+<Entry xml:id="bobbtati">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobbtati</orth>
+    <lemma>bobbtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bobtatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать: slowi zlojtnymi bobtye proti nam , буль­ кать (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Novy Zakon napsany Martinem Kofeckem r. 1425, 147 b)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vybor z literatury ceske I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bobtdm</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(только со ссылкой на «Starobyla skladani» Ганки: Jungmann I, 148)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражательный гл., близкий к<ref type="etymon" target="babotati-2">*babotati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

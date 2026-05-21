@@ -1,0 +1,47 @@
+<Entry xml:id="degnoti">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dęgnǫti</orth>
+    <lemma>dęgnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>degniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зариять, испускать лучи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(danes je oblacno, le redko solnce skozi oblake degne. Plet. I, 127, если не из *deg- ngti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дягнутъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поправляться, улучшаться, хорошеть , становиться сильней, здоровей, лучше, крепче; расти , расти, здоро­ веть (Картотека Печорского областного словаря), сюда же дякнутъ расти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., север., помор., новг., Филин 8, 305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(кинеш., Опыт 53)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, образованный на базе несохранившегося 
+<ref type="etymon" target="dfgt4">*dfgt4</ref> 
+(см. о нем под <ref type="etymon" target="dfga-2">*dfga</ref> / <ref type="etymon" target="dfgb">*dfgb</ref>, <ref type="etymon" target="d-3">*d</ref>$gfe j <ref type="etymon" target="dfglb-3">*dfglb)</ref>.</gram>
+  </gramGrp>
+</Entry>

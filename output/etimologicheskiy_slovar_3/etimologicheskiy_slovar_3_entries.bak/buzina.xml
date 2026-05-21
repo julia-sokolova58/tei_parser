@@ -1,0 +1,85 @@
+<Entry xml:id="buzina">
+  <pb n="103" end_page="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buzina</orth>
+    <lemma>buzina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>besana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина (куст)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>бузина</ref> , бузина ж. р. небольшое дерево или кустарник сем. жимолостевых</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Козмогр., нач. X V I I I в., л. 41; Болот. С. Ж . , ч. II, л. 31, стр. 66, 1778 г. Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бузина</ref>, бузина ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Sambucus nigra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прот. Полт. С. II, 208—1690 г., Тимченко I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бузина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus nigra L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бузЬна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ina от основы buz-, родственной<xr type="compare">см. <ref type="etymon" target="6gg">*6ггъ</ref>
+    </xr>. Отношения вокализма следует, по-видимому, рассматривать 
+как внутриславянские, и едва ли можно связывать слав. *buz- / *bbz-
+с и.-е. названием 
+бука *bhdgos 
+через посредство 
+ступени 
+и.-е. 
+*bhaug--, для чего привлекали исл. beyki 'буковый лес' (см. 
+* Н. Osthoff. Zwei Artikel zum Ablaut der ам-Basen. I. Zur Geschichte 
+Ides 
+Buchennamens. — BB 
+XXIX, 
+1905, 
+258; Berneker 1, 111; 
+»-H. Petersson KZ XLVI, 1914, 140 и след.; Фасмер I, 233). В по­
+следнее 
+время 
+сближение 
+слав. 
+*buz- / *Ъъzъ 
+с и.-е. 
+*bhagos, 
+' а также ступени чередования и.-е. *bhug- / *bhdiig- / *bhaug- 
+'бук' 
+оспариваются. Ср. Stawski I, 30—31; V. Pisani «Paideia» VI, 1951, 
+164 (выдвигает возражения со стороны семантики и консонантизма).</note>
+</Entry>

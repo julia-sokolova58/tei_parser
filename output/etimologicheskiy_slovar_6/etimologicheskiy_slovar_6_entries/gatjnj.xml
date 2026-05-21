@@ -1,0 +1,57 @@
+<Entry xml:id="gatjnj">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatjьnъjь</orth>
+    <lemma>gatjьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gacan</ref>, -бпа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>относящийся к штанам , гаПнй, -а, -б , гаттьй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hacny</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>га</ref>- чень</orth>
+      </form>
+      <sense>
+        <def>пояс для стягивания панёвы , гашенъ завязка у штанов , гаченъ, -чня, м. р. пояс или шнурок, который продевается в верхнюю часть штанов или юбки для их подвязывания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Севский у. Орловской губ. Труды МДК. — РФВ LXXI, 1914, 350)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., ворон., орл., брян., смол., Филин 6, 154)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="gatji-4">*gatji</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

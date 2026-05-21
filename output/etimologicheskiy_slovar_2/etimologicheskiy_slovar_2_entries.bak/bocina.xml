@@ -1,0 +1,61 @@
+<Entry xml:id="bocina">
+  <pb n="150" end_page="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bocina</orth>
+    <lemma>bocina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдчина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бок, сторона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 83—84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boeina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пузо, выпуклость (сосуда)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>склон, скат ,соседняя долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мор., Kott I, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бочйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть туши с ребрами, боковина (новг., волог.), участок по краю леса, пашни и т. п. (новг., волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 141)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="ok-2">*Ьокъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

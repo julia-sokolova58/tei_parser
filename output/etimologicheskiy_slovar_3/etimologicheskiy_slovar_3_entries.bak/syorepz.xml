@@ -1,0 +1,48 @@
+<Entry xml:id="syorepz">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёрепъз*ь</orth>
+    <lemma>сёрепъз*ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>цЪпЪнъ</ref>, прилаг. rigidus , ма­ кед. Серепа lokva ж. р., топоним неподалеку от Призрена</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XIV в., Дапичич, RJA I, 768)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cepenyj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>закаленный, здоровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪп</ref>&amp;нъш .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И знамеиьюмь крстьнымь победи цЪпАпыи непокорный родъ Болгарьекыи. Прол. Тр. XIV в. — Срезневский III, 1460)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>participle</pos>
+    <gram>Прич. страд, прога. вр. на -епъ]ъ от первонач. атематического гл.<ref type="etymon" target="cepti-2">*cepti</ref> (см. <ref type="etymon" target="cepati">*cepati)</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="cepeneti">*cepeneti</ref>
+    </xr> 
+(см.).</note>
+</Entry>

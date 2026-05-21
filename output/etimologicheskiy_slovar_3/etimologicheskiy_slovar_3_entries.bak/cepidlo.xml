@@ -1,0 +1,56 @@
+<Entry xml:id="cepidlo">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepidlo</orth>
+    <lemma>cepidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>цапйла</ref> мн,</orth>
+      </form>
+      <sense>
+        <def>большая сетка на двух жердях, наполняемая травяным фуражем , цепйлка ж. р. чурбан, колода для рубки дров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 297)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cepilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>орудие для прививки, прививка , cepivo ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jez. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цтйло</ref>, ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 433)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="syorsh">*сёрШ</ref> (см.), соотноситель­
+ное с <ref type="etymon" target="syor-2">*сёръ</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="cepidlbno">*cepidlbno</ref>
+    </xr> 
+(см.).</note>
+</Entry>

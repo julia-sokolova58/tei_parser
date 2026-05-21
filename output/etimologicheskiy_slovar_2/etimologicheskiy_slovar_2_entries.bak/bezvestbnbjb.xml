@@ -1,0 +1,92 @@
+<Entry xml:id="bezvestbnbjb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvestbnb(jb)</orth>
+    <lemma>bezvestbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>безвЪстънъ</ref>, прилаг. aSrjXos, incertus ,</orth>
+      </form>
+      <sense>
+        <def>тайный, неизвестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SJS; Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безвестен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>неизвестный, безвестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bezvjestan</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>ignotus, неизвестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 279)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. .редк. <ref>bezvestny</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>ничего не говорящий, бессмысленный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>безвЪстъныи</ref> aoiqXog, incertus</orth>
+      </form>
+      <sense>
+        <def>неизвестный, неведомый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XI в., Срезневский I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безвестный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>без вести пропавший; неизвестно, где находящийся (волог., перм.), ни­ кому не известный или незнакомый, безвестный (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвгетний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>безвестный, неизвестный, неведомый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-120">*bez</ref> 
+(см.) и суфф. -ъп- от имени <ref type="etymon" target="vestb-4">*vestb</ref> (см.) или производное с суфф. -ъп-
+от сложного прилаг. <ref type="etymon" target="bezvesfo">*bezvesfo</ref> (см.).</gram>
+  </gramGrp>
+  <note>Слово, известное в народных диалектах, могло распространяться, впрочем, и литер, путем, что ставит под сомнение его древность в ряде случаев.</note>
+</Entry>

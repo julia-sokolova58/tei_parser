@@ -1,0 +1,73 @@
+<Entry xml:id="beka">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beka</orth>
+    <lemma>beka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бека</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растения осока Сагех, чистец Stachys</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р ; Георгиев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бека</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение с мелкими мясистыми листиками и звездчатыми желтыми цветоч­ ками, стелющееся по скалам и каменным стенам, Sedum sem- pervivum tectorum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(черног., Ровинский 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид ивы Salix viminalis , у к р . becka Salix L . . — Далее, сюда же, возм., примыкают</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(St. Ma- kowiecki. Slownik botaniczny Jacinsko—maloruski. Krakow, 1936, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bekva</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Salix vitellina L., Salix viminalis L . , а также bekovica</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бековйна</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>растение Horminum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 81, без помет относительно распространения)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Эта группа слов целиком пропущена Бернекером и авторами некоторых других этимол. словарей (напр., русск. бековйна не упоминают ни Преобр., ни Фасмер). Мысль Георгиева о про­ исхождении болг. слова от звукоподражания, обозначающего овцу (см. Георгиев Б Е Р I, 40), не очень убедительна и не учиты­ вает близких форм в других слав, языках. Правда, нет полной уверенности в связи всех этих форм друг с другом, нельзя не считаться с различиями значений, наконец — с сомнитель­ ностью отдельных форм и в целом — с неясностью праслав. реконструкции, вытекающей отсюда. Основательному анализу подверг словен. и сербохорв. лексику Безлай, приводящий также производные словен. bekovica, bekovina и др. и указывающий на возможную связь с болг. названием.</note>
+  <gramGrp>
+    <gram>Безлай признает неясность происхождения слов, допуская вместе с тем заимствование из ср.-в.-нем.<ref type="etymon" target="weike">*weike</ref>, <ref type="etymon" target="weikel">*weikel</ref>, соврем, нем.</gram>
+  </gramGrp>
+  <note>Weichel, как, впрочем, в равной степени — вслед за Скоком— и из роман, названия ивы, ср. фриульск. venc 'Salix' (Bezlaj. Etim.slovar, рукоп., Любляна). Нетрудно заметить, что принадлежность сюда русск. формы означала бы ошибочность идеи об этих (сравнительно поздних) заимствованиях.</note>
+</Entry>

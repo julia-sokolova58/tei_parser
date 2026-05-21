@@ -1,0 +1,180 @@
+<Entry xml:id="beletis">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beleti (s£)</orth>
+    <lemma>beleti (s£)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть, выцветать, седеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>белеем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть; бледнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев-Близнев БД III, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отмечать, помечать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёлетщ</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бйлити</ref>, бщел&gt;ети</orth>
+      </form>
+      <sense>
+        <def>белеть, бёлети се</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бйлити</ref> се, бщёлети се</orth>
+      </form>
+      <sense>
+        <def>белеться, сиять белым цветом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beleti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть, делаться белым, beleti se белеться, выделяться белизной</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть, belief sa белеться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть, становиться белым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ЬёШ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть, блед­ неть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka. St I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bielec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть, становиться белым; седеть, белеться, казаться белым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 507)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бЪлЪтит</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Нест. Бор. Гл. 34, Срезневский I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бе</ref>­ леть</orth>
+      </form>
+      <sense>
+        <def>выделяться своей белизной, становиться белым, рас­ светать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪлЪти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться белым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бШти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, стр. 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бялёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белеть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол с основой на <m type="suffix">
+        <ref>-ё-ti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="yo1">*Ъё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

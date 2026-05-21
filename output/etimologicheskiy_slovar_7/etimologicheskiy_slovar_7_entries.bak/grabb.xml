@@ -1,0 +1,338 @@
+<Entry xml:id="grabb">
+  <pb n="98" end_page="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabb</orth>
+    <lemma>grabb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabn</orth>
+    <lemma>grabn</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>габър</ref> м. p. сграб Carpinus betulus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: габър)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>габер</ref> , габар м. р. , габер</orth>
+      </form>
+      <sense>
+        <def>м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 49; Горов. Страндж. — БД I, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско.—БД IV, 94)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.—БД VI, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>габер</ref> м. р. сграб</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. (<ref>бел</ref>, црн) габер, га- бар</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jb. Групче. Народни имин&gt;а на растени]ата од Скопска Црна Гора. — МJ VIII, 1957, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>граб</ref> м. р. гграб Carpi­ nus betulus L.</orth>
+      </form>
+      <sense>
+        <def>, грабар, род. п. грабара I грабра, м. р. то же , gabar м. p. , габер м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 531)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 138, 530)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdber</ref>, род. п. -bra, м. р.</orth>
+      </form>
+      <sense>
+        <def>граб Carpinus betu­ lus , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>graber</ref> м. p. , grab м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 242)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>habr</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>carpentus (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>habr</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>граб Carpinus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrab</ref> м. р. то же, hrap</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrab</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>граб Carpinus betulus*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 516)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrab</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>граб Carpinus betulus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grab</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>groboi</ref> мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 68, с реконструкцией *graby)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grab</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>граб Carpinus betulus , стар, gab м. p. , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1267)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1099)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gab</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 788)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>graub</ref>, род. п. grdbu, м. p.</orth>
+      </form>
+      <sense>
+        <def>граб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>граб</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дерево сем. березовых</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>граб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>де­ рево граб Carpinus betulus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>граб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>граб</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *grab(r)b имеет скудные соответствия за пределами слав., и они означают практически другие породы деревьев, ср. др.-прусск. wosi-grabis 'бересклет', умбр.</note>
+  <gramGrp>
+    <gram>Grabovius (с вариантами), прилаг. 'дубовый', эпитет Юпитера и других богов (см.<ref type="etymon" target="grabovbr">*grabovb)r</ref> 
+сюда же макед. 
+ypd|3iov 
+'факел' 
+« ' <ref type="etymon" target="d">* д</ref> у б о в ы й ' ? ) . Слав, название 
+граба сближают иногда с названиями того же дерева в других 
+и.-е. языках — лат, carpinus 
+'граб', лит. skroblas, 
+skroblus 
+то же, 
+хотя совершенно ясно, что между этими словами нет ничего эти­
+мологически общего и никакие ухищрения (напр. возведение ст.-
+лит. 
+skruoblas &lt;^<ref type="etymon" target="s-grob-">*s-grob-</ref> 
+или объединение 
+лат. carpinus, 
+слав. 
+<ref type="etymon" target="grabb">*grabb</ref> 
+и лит. skroblus 
+как заимствований из одного общего неиз­
+вестного субстрата) не в состоянии доказать их специальную бли­
+зость. Сопоставление этих названий полезно 
+только в типологи­
+ческом смысле, поскольку выявляет в них параллелизм 
+развития 
+значения названия дерева из сходных первонач. глагольных зна­
+чений, тем самым помогая прояснить истинную природу слав, назва­
+ния. Так, лат. carpinus 
+'граб' нельзя отделять от гл. сагрб 'рвать, 
+обрывать', а лит. skroblas, 
+skroblus 
+'граб' родственно лтш. 
+skrabet 
+'скрести, грызть' и близким. х\налогичная по семантике 
+глаголь-
+ная основа обнаруживается в др.-прусск. skoberwis 
+'граб', лтш. 
+skabardis 
+'бук.' Опираясь на эти аналогии, мы объясним слав. 
+<ref type="etymon" target="grabrb-2">*grab(r)b</ref> 
+как отглагольное производное (с продлением именной 
+ступени 
+вокализма о &gt; 6 
+(слав, а)) от гл. <ref type="etymon" target="greby">*greby</ref>, 
+<ref type="etymon" target="grebti-2">*grebti</ref> 
+(см.). 
+Использование такой глагольной именной основы находит объяс­
+нение не в какой-то особой зубчатой форме листьев у граба (ведь 
+аналогично 
+назван 
+не один 
+граб, 
+ср. 
+выше), а в экономике и 
+мире понятий 
+собирательства, 
+когда листья и молодые 
+побеги, 
+срываемые с деревьев, играют существенную роль как корм скоту. 
+Литер.: 
+Miklosich 
+76; Berneker 
+I, 
+343; St. Mladenov AfslPh 
+XXXIII, 
+1911, 
+11—12 
+(маловероятное 
+отнесение к 
+<ref type="etymon" target="ger-l">*ger-l</ref>
+      <ref type="etymon" target="gor-">*gor-</ref>
+'дерево, куст, лес', ср. ст.-слав. горд, болг. гора 
+'лес'); P. 
+Kret-
+schmer 
+«Glotta» 
+И , 
+1921, 233 и сл.; A. Nehring «Glotta» 14, 
+1925, 
+132; J. Loewenthal WuS X, 1927, 154; Walde — Hofm. I, 
+171; 
+Фасмер 
+I, 449; Pokorny I, 404; Slawski I, 332 (вслед за 
+Покорным увязывает с и.-е. <ref type="etymon" target="gerebh-">*gerebh-</ref> 
+Оцарапать', но крайне неудов­
+летворительно 
+мотивирует 
+это 
+зубчатостью 
+листьев, 
+как 
+уже 
+Вальде—Гофм., выше); V. Machek. Quelques noms slaves de plan-
+tes. — LP II, 
+1950, 
+(гипотеза 
+протоиндоевроп. 
+субстрата); 
+Machek. Ceska a slovenska jmena rostlin 129; Machek
+2 153; J. Ot-
+r^bski 
+LP 
+V, 
+1955, 
+29; 
+Георгиев 
+ВЕР 
+HI, 
+220; I. I. Russu 
+«В чест на акад. Д. 
+Дечев» 
+111; 
+Fraenkel 
+И, 818 
+(skroblas); 
+I. Galabov. Die bei den Stidslaven mit Gabr- 'Weissbuche' gebil-
+deten Ortsnamen und ihre 
+Probleme.—Opuscula slavica et lingu-
+istica, herausgeg. von H. D. Pohl. 
+Klagenfurt, 1976, 169 и сл.</gram>
+  </gramGrp>
+</Entry>

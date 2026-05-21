@@ -1,0 +1,98 @@
+<Entry xml:id="brukati">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brukati</orth>
+    <lemma>brukati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брукати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>позорить, срамить , брукати се насмехаться , сюда же (с переходом k &gt; h по мотивам экспрессивности, ср. ниже русск. формы на -х-)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA II, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук, R J A I, 684; PGA II, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bruhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>извергать, выплевывать; отхаркивать, вырываться наружу, бить струей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брукатъ</ref>, брухатъ</orth>
+      </form>
+      <sense>
+        <def>бросать, кидать, брыкать, лягаться, бодать, пырять; бить тычком, брухатъ бодать рогами , брухатъся бодаться. — Более проблематично отношение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., мак., Д а л ь 3 I, 321)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Е. Будде. К диалектологии велико­ русских наречий. Исследование особенностей рязанского го­ вора. — Р Ф В X X V I I I , 1892, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ворон., Опыт 15; Богород. у. К а л у ж . г., Е. Ф. Будде. О некоторых на­ родных говорах в Тульской и Калужской губерниях. — И О Р Я С III, 1898, 847)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brukati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>broukati</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brokat</ref> si</orth>
+      </form>
+      <sense>
+        <def>осмеливаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бру</ref>­ кати</orth>
+      </form>
+      <sense>
+        <def>ворковать , поскольку здесь можно говорить о звукоподражании, см. о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>слове</ref> Machek 2 68. i Бернекер не исключает родство с *bruja (см.), см. Berneker I, 89. Но в первую очередь следует указать на родство с лит. bra- ukti</orth>
+      </form>
+      <sense>
+        <def>вытирать, смахивать. См. Фасмер I, 217 (с литер.); Skok</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Etim. rjecn. I, 219. См. еще В. Сор «Ziva antika» IV, 1954, 150.</note>
+</Entry>

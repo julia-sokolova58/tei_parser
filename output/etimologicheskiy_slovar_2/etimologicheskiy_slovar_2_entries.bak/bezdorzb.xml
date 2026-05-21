@@ -1,0 +1,58 @@
+<Entry xml:id="bezdorzb">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdorzb</orth>
+    <lemma>bezdorzb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdroz</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёздорожъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бёздорож</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бёздараж</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье, распутица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование из<ref type="etymon" target="bez-23">*bez</ref> (см.; там же 
+о суффиксальном оформлении таких слов как <ref type="etymon" target="bezdorzb">*bezdorzb)</ref> и <ref type="etymon" target="dorga-2">*dorga</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Образовано на базе предложного словосочетания *bez dorgy. Возраст неясен.</note>
+</Entry>

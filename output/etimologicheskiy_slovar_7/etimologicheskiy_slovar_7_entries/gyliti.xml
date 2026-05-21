@@ -1,0 +1,53 @@
+<Entry xml:id="gyliti">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyliti</orth>
+    <lemma>gyliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гйлити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щекотать , ср. сюда же несврш. гйл&gt;ати ходить по грязи, воде, снегу, скакать на одной ножке, прихрамывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(о. Хвар, РСА III, 262)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйлйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смешить, острить; удивлять своими шутками; бала­ гурить , гйлйть, гылйть подбрасы­ вать мяч, чтобы другой игрок его бил , гйлйть кричать (Картотека Новгородского ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(север., арх., Филин 6, 171)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(южн., донск., курск., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гилйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подбивать мяч гилкою, бить палкою деревянный шар в игре в гилу, много набирать, накладывать и т. д</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 282—283)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *guliti,<xr type="compare">см. <ref type="etymon" target="guVati">*guVati</ref>
+    </xr>.</note>
+</Entry>

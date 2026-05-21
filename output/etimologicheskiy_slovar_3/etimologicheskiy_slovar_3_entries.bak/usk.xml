@@ -1,0 +1,46 @@
+<Entry xml:id="usk">
+  <pb n="146" end_page="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьуськъ</orth>
+    <lemma>Ьуськъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ысек</ref>, род. п. -ска, м. р.</orth>
+      </form>
+      <sense>
+        <def>бычок , баран</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ъусек</ref>, род. п. -ска, м. р.</orth>
+      </form>
+      <sense>
+        <def>бычок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Ъусек</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 148)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ъуск, н.-луж. Ьуск, польск. byczek, словин. Ыск м. р. 'бычок' (Lorentz Slovinz. W b . I, 33), др.-русск. бы- *Ьук*&gt; чекъ 'теленок-самец, молодой бык' (XVI в., СлРЯ XI—XVII вв. 1, 368), русск. бычок, род. п. -чка&gt; м. р. 'молодой бык', укр. бичок м. р., ум. от бик (Гринченко I, 59), блр. бычок м. р. ^'молодой бык, бычок' (Блр.-русск. слов. 137).</note>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="uk">*Ьукъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

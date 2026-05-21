@@ -1,0 +1,79 @@
+<Entry xml:id="6ugati">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>6ugati</orth>
+    <lemma>6ugati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cihati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстерегать, поджидать, пристально смотреть, нетерпеливо ждать, виднеться, торчать, couhati торчать, вы­ даваться, глазеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cuhat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подглядывать (напр. через за­ мочную скважину), глазеть , cuhat красо­ ваться , cohat поджидать, глазеть, тупо смотреть, выдаваться, выглядывать , euhat то же , cihaV тянуться за чем- либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bu- cov. 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cuhaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выглядывать .— Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чуга</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гора без растительности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ив.-Фр., Т. А. Ма- русенко. Материалы к словарю украинских географических апел- лятивов (названия рельефов). — «Полесье» 253)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Поскольку отправными Знач-ми целесообразно, по-видимому, признать такие, как 'виднеться, торчать, выдаваться' (откуда затем вторичные 'поджидать', 'выглядывать' и т. п.), надо признать гл.<ref type="etymon" target="cugati">*cugati</ref> экспрессивным образованием на -ati от имени, представ­
+ленного остаточно в укр. диал. чуга (см. выше).</gram>
+  </gramGrp>
+  <note>Полученное та­ ким путем *cuga есть вариант к<xr type="compare">см. <ref type="etymon" target="sika">*сика</ref>
+    </xr>. Толкование *cugati &lt; 
+*euga&lt;^*cuti 
+(см.; так Berneker I, 161) лишено достаточных се-
+мант. оснований. Сближение чеш. cihati: 
+нем. gucken 
+'глядеть, 
+смотреть' (Machek
+2 102) неудовлетворительно.</note>
+</Entry>

@@ -1,0 +1,48 @@
+<Entry xml:id="bermenitbjb">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bermenitb(jb)</orth>
+    <lemma>bermenitb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бременит</ref>, -а, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беременная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IL, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bremenlt</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>тяжелый (напр., о ко­ лосе), беременными, -ая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfemenity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отягощен­ ный, обремененный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 180)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -it- от основы<ref type="etymon" target="bermen-">*bermen-</ref> (см. 
+<ref type="etymon" target="berm">*berm</ref>.e).</gram>
+  </gramGrp>
+</Entry>

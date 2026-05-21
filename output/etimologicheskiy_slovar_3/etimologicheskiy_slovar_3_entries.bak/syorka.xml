@@ -1,0 +1,25 @@
+<Entry xml:id="syorka">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёръка</orth>
+    <lemma>сёръка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>цапка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щепка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 297)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ср.<ref type="etymon" target="syork">*сёръкъ</ref> 
+(см.).
+сербохорв. cjepka ж. p. assula, щепка, лучина . ceriti Производное с суфф. -ъка от основы гл. <ref type="etymon" target="cepati">*cepati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

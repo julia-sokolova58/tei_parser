@@ -1,0 +1,139 @@
+<Entry xml:id="gqbatbjb">
+  <pb n="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqbatbjb</orth>
+    <lemma>gqbatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>губат</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болтливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gobaty</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>губчатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hou</ref>- baty</orth>
+      </form>
+      <sense>
+        <def>губчатый , hubaty, прилаг. болтливый, крик­ ливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>gambaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мордатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hubaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болтливый, крикливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hu</ref>- bati</orth>
+      </form>
+      <sense>
+        <def>губастый, болтливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ripka. Dolnotrenc. 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hubaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мордатый, сварливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gubaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хваст­ ливый, бранливый, дерзкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>gfbaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мордатый, большеротый, большегубый, болтливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>губатийу</ref> -а, -е</orth>
+      </form>
+      <sense>
+        <def>имеющий большие губы, толстогубый, губастый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>губаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>губастый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-fajtb</ref>
+      </m> 
+от <ref type="etymon" target="ggba-2">*ggba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

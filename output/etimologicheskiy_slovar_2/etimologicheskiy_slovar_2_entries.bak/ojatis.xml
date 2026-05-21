@@ -1,0 +1,245 @@
+<Entry xml:id="ojatis">
+  <pb n="163" end_page="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьоjati (s§)</orth>
+    <lemma>Ьоjati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боя</ref> се</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ббйа</ref> се</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бои</ref> се</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. 6ojamu <ref>се</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>timeo, бояться, уступать, полагать, напр. бо]им се доЬи he мне кажется (боюсь), что придет</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. 6ojam</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bojdti</ref> se</orth>
+      </form>
+      <sense>
+        <def>бояться , bdti se, bojim se то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdti</ref> se</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>baf</ref> sa то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bojatf</ref> sa то же , bojit</orth>
+      </form>
+      <sense>
+        <def>sa то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bojec</ref> so</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bojas</ref> se</orth>
+      </form>
+      <sense>
+        <def>бояться, опасаться, страшиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 59—60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 37, с реконструкцией *beti из *bojeti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bac</ref> sie</orth>
+      </form>
+      <sense>
+        <def>бояться, опасаться, беспоко­ иться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 290—291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>buojec</ref> sq</orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бояться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>испытывать страх перед кем, чем-либо, опасаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бояцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бояться , •bojaznivb(jb)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материалы для изу­ чения быта и языка русского населения Северо-западного края, собранные. . . П. В. Шейном. - Сб. ОРЯС XLI, 1887, 542)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>боятися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бояться 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ЮРГр. № 15 — 1386 г., Тимченко I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боятися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баяцца</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="bojati-2">*bojati</ref> se родственно лит. bijoti(s) 
+'бояться', лтш. 
+bltieSy др.-прусск. biatwei то же, лит. bajus 
+'страшный', bdime, 
+bdile 'страх', др.-инд. bhdyate 'боится', авест. bayente '(они) боятся', 
+др.-инд. bht- '^жас', Ыйта- 'ужасный', bhitl- 'страх'. Сравнение 
+этих форм, а также общая типологическая вероятность направле­
+ния 
+фонетического развития i/ei -&gt; oi делает приемлемым вывод 
+о вторичном, производном характере вокализма корня слав, 
+глагола. Более первонач. вокализм г, выступавший исконно 
+в претерито-презентных формах (так в балт., индо-ир.; авторы 
+обычно предпочитают говорить здесь о претеритальном знач.), 
+славянскому неизвестен. Что касается -о- вокализма, вторично 
+обобщенного во в с е х слав, формах, то наиболее правдоподобна 
+точка зрения на него как на первонач. перфект с дальнейшей 
+функцией наст, времени. 
+Литература: Miklosich 16; A. Meillet MSL 14, 1907, 346; Berne­
+ker I, 68; A. Meillet BSL 23, 1922, 67; Trautmann BSW 24; Мейе. 
+'Общеслав. язык 189, 263; Фасмер I, 204; Fraenkel I, 43; S. E. Mann 
+«Language» 28, 1952, 32 (относит сюда же алб. dboj, bdoj, vdoj 
+'отпугивать, пугать' &lt; и.-e. <ref type="etymon" target="de-bhoieidy">*de-bhoieidy</ref> приставочный гл.); Sad­
+nik—Aitzetmuller. Handworterbuch 216; W. Meid «Die Sprache» 
+XI, 1965, 124 (ср. далее кельт, baith 'stultus', bais 'stultitia'); 
+Machek 27; Vaillant. Gramm. comparee HI, 2, 362, 392; A. Vaillant 
+BSL 57, 1962, 53. 
+Уже давно указано на родство <ref type="etymon" target="bojati-3">* bojati</ref> se и <ref type="etymon" target="biti">*biti</ref> (см.), см. Zu-
+baty. Studie a clanky I, 1, 79 и след.; Б. M. ЛяпуновИОРЯС XXXI, 
+1926, 35 и след.; Vaillant. Gramm. comparee HI, 2, 392 ( : «В балто-
+славянском имела место встреча с корнем слав.</gram>
+  </gramGrp>
+  <note>ЬШ'бить'». . .). См. еще раньше Suman AfslPh, XXX, 1909, 294 (bojati se &lt; bi- сбить', ср. греч. ехтсХа-fTjvai 'испугаться': TrXiqaaetv 'бить'), против см. V. J&lt;agic^&gt;, там же. О значительном распространении фонет. контракции oja &gt; а в этой основе в разных слав, языках см. недавно С. Б. Бернштейн «Славянское языкознание. VI Международный съезд славистов. Доклады советской делегации» (М., 1968), 23. К сожалению, говоря обычно о результате контракции oja &gt; а, исследователи упускают из виду интересные исключения вроде полаб. bet &lt; *bojati (см. выше).</note>
+</Entry>

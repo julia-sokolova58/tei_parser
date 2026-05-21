@@ -1,0 +1,36 @@
+<Entry xml:id="datb">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>datb</orth>
+    <lemma>datb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>daV</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>паек (воинский) , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, И)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дать</ref> booiQ, Ъщт^ш, datio</orth>
+      </form>
+      <sense>
+        <def>даянье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Еутх. И. Мин. Чет. апр. 100, Срезневский I, 635)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ-ное с основой на этимологически тождественное инф.<ref type="etymon" target="dati">*dati</ref> (см.) как своему дат. пад. (<ref type="etymon" target="dotei">*dotei)</ref>.</gram>
+  </gramGrp>
+  <note>Ср. авест. daiti- ж. р. 'дар', греч. Some, обок; 'даяние', а также лат. dos, род. п. dotis 'приданое', 'дар', лит. diiotis 'дар', и.-е. *ddt-s, основа на со­ гласный, к кот., по-видимому (снимая вторичную тематизацию на -č-) можно возвести и слав. *datb. См. еще Fick 3 I, 341.</note>
+</Entry>

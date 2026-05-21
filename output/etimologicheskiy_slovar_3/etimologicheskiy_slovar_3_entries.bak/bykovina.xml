@@ -1,0 +1,36 @@
+<Entry xml:id="bykovina">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bykovina</orth>
+    <lemma>bykovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bikovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бычья кожа, бычье мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bykovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо или шкура быка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 208)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="ukoi">*Ьукоиъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

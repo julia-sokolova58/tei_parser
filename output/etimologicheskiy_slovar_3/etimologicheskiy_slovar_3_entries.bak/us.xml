@@ -1,0 +1,88 @@
+<Entry xml:id="us">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьусь]ь</orth>
+    <lemma>Ьусь]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bicjl</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>taureus, бычий , бйчщи, бйч)й, -а, -в бычий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 282)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 591)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blcj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i, прилаг. бычий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ъусг</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бычий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>byci</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>byci</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бычий, воловий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>byczy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бычий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 750)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bici</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бы­ чий, воловий (Lorentz Slovinz</def>
+      </sense>
+    </item>
+  </etym>
+  <note>W b . I, 33), др.-русск. бычий, прилаг. от быкъ (Не -Ьмь МАСЪ бычий. Изб. 1073 г., Срезнев­ ский I, 211), русск. бычий, -ъя, -ье 'относящийся к быку', укр. бйчий 'бычий' (Гринченко I, 59).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ь/ь (притяжат.) от<ref type="etymon" target="uk">*Ьукъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

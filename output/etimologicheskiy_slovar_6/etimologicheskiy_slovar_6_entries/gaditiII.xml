@@ -1,0 +1,44 @@
+<Entry xml:id="gaditiII">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gaditi II</orth>
+    <lemma>gaditi II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гадя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ублажать, уговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Дю­ вернуа: гад\&amp; 'увещеваю, корю')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hddif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть (о жи­ вотных)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(krduy se nahddity, валашек., BartoS. Slov. 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="goditi">*goditi</ref>
+    </xr>, 
+с обобщением вокализма 
+, 
+с обобщением вокализма 
+, 
+с обобщением вокализма 
+, 
+с обобщением вокализма 
+<xr type="compare">см. <ref type="etymon" target="gadjati">*gadjati</ref>
+    </xr>....</note>
+</Entry>

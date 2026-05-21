@@ -1,0 +1,124 @@
+<Entry xml:id="bydlo">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bydlo</orth>
+    <lemma>bydlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bydlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>vestibulum, incolatus, conversatio, жизнь, жилище, приют, дом (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bydlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жи­ лище, существование</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bydlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жилище, местопребы­ вание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bydlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жилье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bydlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жилище, квартира</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bydlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>крупный рогатый скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 759)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бычок, молодой бык, вол .—Соответствующие вост.-слав, слова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . 1, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>быдло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>животное (Картотека ДРС)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бйдло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рогатый скот, скот, скотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бйдло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скот рога­ тый заимствованы из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bydlo</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от основы гл. <ref type="etymon" target="byii">*byii</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Про­ должает и.-е. словообразовательную модель, представленную еще в лит. buklas 'логово', bakld 'родина, местожительство', др. -сакс. bodel, bodal 'усадьба, поместье', англос. bold 'строение, жилище', нидерл. boedel, греч. србхХт] ж. р. 'род, порода'. См. S. Bugge KZ XX, 1872, 138; Berneker I, 112; A. Meillet RS И, 1909, 63—64; Trautmann B S W 41; SJawski I, 52; Machek 2 78; Franck— Van Wijk 75; Frisk II, 1052.</note>
+</Entry>

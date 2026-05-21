@@ -1,0 +1,24 @@
+<Entry xml:id="dorgomilj">
+  <pb n="75" end_page="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorgomilъ(jь)</orth>
+    <lemma>dorgomilъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>drdgomio</ref>, dragomila, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дорогой, милый , Dragomio, род. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA II, 752)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Dragomila, м. р., личное имя собств. (там же), ст.-чеш. Drahomil, м. (Gebauer I, 323), сюда же Drahomila Morgomir'b ?6 ж. p. (там же). — Ср. суффиксальное производное др.-русск. Дорогомиловичъ (I Новг. л. под 1268 г., лл. 144 об. —145. Картотека СДР), русск. дорогомйлый человек 'высокоценимый и любимый' (Даль 3 I, 1178). — Ср. производное елвц. стар, draho- milovany 'дорогой, любимый' (в обращении, SSJ I, 323).</note>
+  <gramGrp>
+    <gram>Сложение прилаг-ных<ref type="etymon" target="dorgb-2">*dorgb</ref> (см.) и <ref type="etymon" target="ty">*тйъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,194 @@
+<Entry xml:id="dorga">
+  <pb n="74" end_page="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorga</orth>
+    <lemma>dorga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узкий залив, ущелье, овраг, быст­ рый поток, (стар.) дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>draga</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долина, морской залив</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Црес, см. Tentor. Leksicka slaganja 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>draga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>канава для отвода воды на лугу, лощина, овраг, дорога (с ремаркой: «ро drugih slov. jezikih»)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 166; см. еще Jarnik VIII; Badjura 208; Barle 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drdha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>об­ щинный выгон, выгоны у дорог, дорога (Ст.-чеш.. Прага), отряд, дружина , выгон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 43; Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Brandl 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drdha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога, пустошь, выгон 7</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>draha</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>след ноги (человека, животного) способ , общинный выгон со скудной травой , drahy мн. травянистая пустошь за околицей, выгон , drdhi мн. общинный выгон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 65)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 65)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drdha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога, дорожка, путь, колея, борозда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>droha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>след, колея, дорога, улица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>droga</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дорога, путь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>droga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога, путь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 376—377)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>druega</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дорога</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>путь , также в кач-ве имени собств. Дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. плк. Игор.; Сл. о Задон.; Грам. Пол. кн. 1396 г., Срезневский I, 707)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1555 г., Тупиков 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. до­ <ref>рога</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ездовая полоса; накатанное или нарочно подготовлен­ ное различным способом протяженье для езды, для проезда или прохода, самая езда или ходьба, (сиб.) улица, покинутое русло, сухоречье, старица, большая уда, особ, с блесной, для ловли щук, окуней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дорога</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>до­ рога, путь, дорога, путешествие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 426)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дарбга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога, путь</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное производное с -о- вокализмом от гл.<ref type="etymon" target="dbrgati">*dbrgati</ref> 
+(см.), 
+т. е. 'дорога' — первонач. 'расчищенная', 
+ср. <ref type="etymon" target="cesta">*cesta</ref> (см.).</gram>
+  </gramGrp>
+  <note>Прочие сближения маловероятны. См. А. А. Потебня РФВ I, 1879, 259; А. Погодин РФВ X X X V , 1896, 142—144; A. Meillet MSL 14, 1907, 385; Berneker I, 212; Фасмер I, 530.</note>
+</Entry>

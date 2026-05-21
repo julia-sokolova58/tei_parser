@@ -1,0 +1,19 @@
+<Entry xml:id="dobravnjdobrovnj">
+  <pb n="94" end_page="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbravьnъ(jь)/*dǫbrovьnъjь</orth>
+    <lemma>dǫbravьnъ(jь)/*dǫbrovьnъjь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dqbrovbnbjb</orth>
+    <lemma>dqbrovbnbjb</lemma>
+  </form>
+  <etym type="cognates" />
+  <note>ДЛЧБ^ДБАЫЪ, прилаг. Spo^oo, silvae 'лесной' (Mikl., Sad., SJS), сербохорв. стар., редк. dubra- van, -una, прилаг. 'лесной, дубравный' (RJA II, 849), дубраван (PGA IV, 776), сюда же производное Дубровник м. р., местн. название (Далмация, Босния, там же), чеш. dubravnik м. р. 'растение Melittis melissophyllum', диал. dubravnik 'Melissa offi­ cinalis' (Bartos. Slov. 69), doubravnik, dubravnik м. p. 'гриб' (Hruska. Slov. chod. 22), польск. dabrownik м. p. 'местность, где есть дубовые леса', 'низкорослый дубняк' (Warsz. I, 430), др.- русск., русск.-цслав. дХбравънъш 'лесной' (Мин. 1096 г. сент. 91), 'полевой' (Быт. П. 5 по сп. XIV в., Срезневский I, 740), русск. дубравный*, дубровный 'к дубраве относящийся' (Даль 3 I, 1239), укр. д1брбвний, -а, -е 'дубравный, относящийся к дубраве' (Гринченко I, 386), блр. Дубрбуна ж. р., местн. название.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="dqbrava">*dqbrava</ref> l<ref type="etymon" target="dgbrova">*dgbrova</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,111 @@
+<Entry xml:id="gnusota">
+  <pb n="182" end_page="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnusota</orth>
+    <lemma>gnusota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнусота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нечистота, грязь (Дювернуа), гнусота ж. р. гадость, нечистота , гнусота ж. р. то, что вызы­ вает отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гнусота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нечистоплотный, отвратительный человек , гнусотд ж. р. тбеспорядок, мерзость , далее — гнусот м. р. грязь, мерзость , гнусетъ гнусность, мерзость , гнусотйя ж. р. грязь, мерзость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев. Родопски речник. — БД V, 163)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров— Панчев 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: гнусотйы ж. р. 'гадость, нечистота')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гнусутйъ</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( с Ковачев. Троянският говор. — БД IV, #gBU8b 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гнасота</ref> ж. р. :грязь, мерзость</orth>
+      </form>
+      <sense>
+        <def>, сербохорв*. gnusota ж. р. гнусность ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(редк., RJA III, 220; РСА III, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnusota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мерзость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223; Slovar sloven, jezika I, 708)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hnusota</ref> ж. p. Чггвратительность</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>knusota</ref> ж, р.</orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнусота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнус — мошка, комары, оводы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(амур., Филин 6, 251)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="gnus-3">*gnusъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

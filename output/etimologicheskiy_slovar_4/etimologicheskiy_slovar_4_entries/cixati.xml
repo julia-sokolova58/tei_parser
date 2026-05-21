@@ -1,0 +1,145 @@
+<Entry xml:id="cixati">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cixati</orth>
+    <lemma>cixati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чйхамъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cihati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cichac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Uichae</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 805)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czchac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чихать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>непроизвольно, с напряжением, судорожно, вследствие внезапного раздражения нервов в носу выдыхать резкими толчками воздух носом и ртом, производя характерный шум</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чихать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть подвержену сильной рвоте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Даль 3 IV, 1352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чйхаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пылать .—Сюда же, по-видимому, с вторичной в морфол. отношении краткостью коренного гласного (*cbxati) относятся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ен давно чихаець на мене злосцю. Носов. 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чхать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чёхатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать (о рвоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чхати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чхаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражание, как и синонимичное<ref type="etymon" target="kyxati">*kyxati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Ber­ neker I, 165—166; Фасмер IV, 367—368. В связи с этим пред­ ставляется излишней реконструкция своеобразной апофонии *kis~:</note>
+</Entry>

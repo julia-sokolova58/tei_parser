@@ -1,0 +1,113 @@
+<Entry xml:id="bekati">
+  <pb n="182" end_page="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bekati</orth>
+    <lemma>bekati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бёка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>balbutire , bekn^ti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Белостенец, Ямбрешич, Стулли, RJA* I, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bekdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, невнятно бормотать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bekat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рявкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бёкатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять; мямлить , у к р . бёкати кричать по-козьи, по-овечьи, блеять, реветь (о детях) . — Сюда же, далее, примыкает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 197 — 198; Филин 2, 206)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beketdti</ref>, begetdti</orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бегетати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять (об овцах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бекетать</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль, там ж е )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения от междом., передаю­ щего крик (напр. овцы), см. Berneker I, 48; Фасмер I, 146.</note>
+</Entry>

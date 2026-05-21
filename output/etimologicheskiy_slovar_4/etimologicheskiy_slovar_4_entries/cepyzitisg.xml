@@ -1,0 +1,29 @@
+<Entry xml:id="cepyzitisg">
+  <pb n="58" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepyziti sg</orth>
+    <lemma>cepyziti sg</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чепйжиться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рядиться, щегольски оде­ ваться, чваниться, величаться , надмеваться, надмеваясь несколько хорохориться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., Опыт 2э6)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки се- и основы гл.<ref type="etymon" target="pyziti">*pyziti</ref> se 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. по типу очевидно древнее *cepyriti se (см.).</note>
+</Entry>

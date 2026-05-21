@@ -1,0 +1,107 @@
+<Entry xml:id="bogomilb">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogomilb</orth>
+    <lemma>bogomilb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogumilb</orth>
+    <lemma>bogumilb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>богомил</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>приверженец богомиль­ ской ереси в древней Болгарии, также Богомил, личное имя собств. (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Bogomil</ref> м. р., имя собств. , сюда же местн. название Bogomil ж. р. , также мн. Bogomili м. р. , ср. еще апеллативное прилаг. bogomil, bogomio</orth>
+      </form>
+      <sense>
+        <def>угодный богу , bogumio, род. п. -На, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 492)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 493)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bogomil</ref>, -На, прилаг.</orth>
+      </form>
+      <sense>
+        <def>набожный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 40, с пометой: «хорватскосербское»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bohumil</ref> м. р., личное имя собств., ср. также Bohumila ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Bohumil</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zeman 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Bogumil</ref>, мужское личное имя собств.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Богомилъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1612 г., Тупиков 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Багу</ref> мы , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Слоушк асабовых уласных iMeH 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>бугумыа</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>здоровый, симпатичный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>О возможных ир. параллелях этим двуосновным именам см., вслед за Милевским, Трубачев «Этимология. 1965» (М., 1967), 29.</note>
+  <gramGrp>
+    <gram>Сложение компонентов<ref type="etymon" target="bogb">*bogb</ref> (см.) и <ref type="etymon" target="ti">*тИъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. еще о слав. BogomiH С. Роспонд ВЯ 1965, № 3, 5.</note>
+</Entry>

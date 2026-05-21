@@ -1,0 +1,159 @@
+<Entry xml:id="gucati">
+  <pb n="165" end_page="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gucati</orth>
+    <lemma>gucati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гучати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать (о голубях), (диал.) гово­ рить, глухо греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 784)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gucet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, вести речь о чем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>guedti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, грохо­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 774)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>huceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо раздаваться, звучать, бормотать, громко кричать, завывать, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 506)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>кисеб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. I, 26, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hucaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо шуметь, гудеть, кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hucat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выть, шуметь, бушевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гучати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Рим. д. 50. 1688 г., СлРЯ XI—XVII вв. 4, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гучать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть , гучать звучать, звенеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 7, 250)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Словарь народных говоров Зал. Брянщины 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гучати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, шуметь, гу­ деть, кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гучаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гучаць</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-etiy</ref>
+      </m> 
+родственный 
+<ref type="etymon" target="gukati">*gukati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 361; J. Otr^bski LP 1, 1949, 126.</note>
+</Entry>

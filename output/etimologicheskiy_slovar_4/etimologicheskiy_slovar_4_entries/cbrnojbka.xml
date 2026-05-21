@@ -1,0 +1,41 @@
+<Entry xml:id="cbrnojbka">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrnojbka</orth>
+    <lemma>cbrnojbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crndjka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>смуглая женщина, смуглянка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 845)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>црно</ref>]ка</orth>
+      </form>
+      <sense>
+        <def>сорт конопли , сорт конопли, семя которой позже созревает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RB. 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(JS. 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ojbka</ref>
+      </m> от прилаг. <ref type="etymon" target="sgp">*сьгпъ</ref> (см.), собственно — 
+ум. на -ъка от производного на -oj-a.</gram>
+  </gramGrp>
+  <note>Природа самого форманта -о/¬ и круг производных с ним выяснены слабо. См. Miklosich. Vgl. Gr. II, 84; Vondrak. Vgl. slav. Gramm. I, 407 (заметим, что оба автора приводят для основ на -а ж. р. один и тот же пример польск. dziewoja 'здоровая девка'). Очевидно древнее образование с ранней утратой продуктивности суффиксальной модели.</note>
+</Entry>

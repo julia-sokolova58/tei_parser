@@ -1,0 +1,49 @@
+<Entry xml:id="bezkostbjb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkostbjb</orth>
+    <lemma>bezkostbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezkosty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бескостный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>в ком или в чем нет костей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. без- <ref>кбстийу</ref> -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий костей, бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. вида, образованное из<ref type="etymon" target="bez-48">*bez</ref> (см.; 
+там же подробности о словообразовании) и именной основы <ref type="etymon" target="kost-">*kost-</ref>
+(см. <ref type="etymon" target="kostb">*kostb)</ref>.</gram>
+  </gramGrp>
+</Entry>

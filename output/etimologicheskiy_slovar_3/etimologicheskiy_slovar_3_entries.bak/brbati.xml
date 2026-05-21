@@ -1,0 +1,121 @@
+<entries>
+  <entry xml:id="brbati" xml:id="brbati">
+    <pb n="122" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrbati</orth>
+      <lemma>bbrbati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bfbati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>contrectare, рыться, шарить , брбати ворочать, обыскивать, рыться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 614: «от корня barb 'невнятно говорить, производить невнятный шум, звук'»)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 129)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brbati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>рыться, копаться, шарить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 52)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>барабатъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>разрывать, копать, перебирать руками, рыться, копаться, барабатъея рыться, копаться, возиться, барахтаться; карабкаться, всползать, взбираться , ббрбатъея плескаться в воде . — Сюда же примыкает вариант с Г epentheticum:</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(вят., каз., Даль 3 I, 117)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(киров., Филин 3, 97)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брбл</ref>&gt;ати, брблати</orth>
+        </form>
+        <sense>
+          <def>рыться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Вук, РСА Л, 130)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brbljdti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>болтать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 52)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brblali</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>невнятно, ворчливо говорить, ворчать, болтать, елвц. brblaV бормотать, невнятно говорить, ворчать, браниться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 128)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>brblaVsa</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>мараться, пачкаться в грязи, грубо делать что-либо</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kalal 911)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бараблятъея</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>возиться, барахтаться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Герасимов. Словарь уездного череповецкого говора 23)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Гл. звукоподражат. происхождения, 
+ср. лит. bifbti 
+'жужжать', 
+burbeti 
+'токовать'. См. Berneker I, 107—108. О русск. формах см. 
+специально А. А, Шахматов. К истории звуков русского языка. 
+Сочетания с долгими плавными. — Изв. 
+ОРЯС VII, 
+1902, 353.</note>
+  </entry>
+</entries>

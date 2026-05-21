@@ -1,0 +1,34 @@
+<Entry xml:id="glebatiglebeti">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glĕbati/*glĕbĕti</orth>
+    <lemma>glĕbati/*glĕbĕti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glebeti</orth>
+    <lemma>glebeti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глЪбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>внедрять , глЪбЪти, глЪблю внедряться , находиться внутри, гнездиться; проникать внутрь, внедряться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский 1,523)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. Злат. XIV в., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Требник, 72. XVI в. СлРЯ XI—XVII вв. 4, 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано чередованием гласных с *glibati, *glibb/b,<xr type="compare">см. <ref type="etymon" target="glibelb">*glibelb</ref>
+    </xr>, а также , а также , а также , а также <xr type="compare">см. <ref type="etymon" target="glbbeti">*glbbeti</ref>
+    </xr>....</note>
+</Entry>

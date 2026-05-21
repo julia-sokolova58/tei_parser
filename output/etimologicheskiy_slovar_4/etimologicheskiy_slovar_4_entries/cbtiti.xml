@@ -1,0 +1,103 @@
+<Entry xml:id="cbtiti">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbtiti</orth>
+    <lemma>cbtiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вычитывать, читать нравоучения , сербо­ хорв. чатити читать , ctiti читать, почи­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XV в.; RJA II, 80—81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdtiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать чепуху, вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj Slov. 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>catiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить напамять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ceis</ref> (стар., диал.)</orth>
+      </form>
+      <sense>
+        <def>чтить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czcic</ref>, czcz?</orth>
+      </form>
+      <sense>
+        <def>воздавать почести, окружать почетом, чтить, праздновать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чыпити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>почитать, уважать , оказать почет, почтить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Втз. XXVII. 16 по сп. XIV в. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1257 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1575)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, каузатив к группе глаголов <ref type="etymon" target="cbsti">*cbsti</ref>, 
+<ref type="etymon" target="cisti">*cisti</ref>, 
+<ref type="etymon" target="citati">*citati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Иногда реконструкция проблематична, так как в равной мере возможно<xr type="compare">см. <ref type="etymon" target="6bstiti">*6bstiti</ref>
+    </xr>, ср. н.-луж., польск. и некоторые 
+другие примеры (выше).</note>
+</Entry>

@@ -1,0 +1,107 @@
+<entries>
+  <entry xml:id="breditise" xml:id="breditise">
+    <pb n="12" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brediti (sę)</orth>
+      <lemma>brediti (s§)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bfedit</ref> se сбиться в судорогах; забывать от злости</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Е. Kolkop. Doplnky k Bart. Dial. slov. mor. ], 1 1 . — Kott. Dod. k Bart. 6)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bredzic</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бредить, говорить в бреду или во сне, с мелькать, сговорить ерунду, вздор</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 655)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бредить</ref> Произносить в болезненной дремоте или во сне малопонятные, несвязные слова и речи</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>бредить</ref> Прокладывать дорогу, уминая, утаптывая снег, траву и т. п.</orth>
+        </form>
+        <sense>
+          <def>, бредить П р о ­ казничать, бедокурить , бредить Говорить скороговоркой, читать , брэдить смолоть вздор , бредить Нидеть что-либо во сне (ряз.), сговорить вздор, пустое (волог., колым., орл., ряз.), Говорить скороговоркой, бормотать (волог., калуж.), Питать, читать вслух (волог.), Нидеть (вятск.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Проект Архангельского областного словаря 57)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Д. Зеленин. Особенности в говоре русских крестьян юго-восточной части Вятской губернии. — ЖСт. X I , 1901, 85)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(напр. ты все книги пробредил сты прочитал все книги'. — В. Шевляков. Местные слова города Тотьмы (Вологодской губ.). — ЖСт. IX, 1899, 139)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Богораз 26)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3, 170— 171)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бредити</ref> Плести, говорить вздор</orth>
+        </form>
+        <sense>
+          <def>, брЪдити то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко, I, 139)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 146)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брёдзиць</ref> Нрать, клеветать</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Носов. 33)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Глагол состояния, производный с суфф. <m type="suffix">
+          <ref>-Ш</ref>
+        </m> от 
+имени 
+I (см.), ср. *8ърпШ — от <ref type="etymon" target="zrp">*зърпъ</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>На связь с *bredg, 
+(см.) указывал еще Миклошич, см. Miklosich 20; Berneker 
+I, 
+83; 
+Фасмер 
+I, 
+210. 
+Особая, 
+ономатопоэтическая 
+этимология 
+(см. Bruckner 39) едва ли приемлема. Лит. bredyti
+ 
+сболтать, обма­
+нывать' заимств. из слав. (см. Fraenkel 1, 55), а не наоборот (ср. 
+L. Malinowski P F 1, 1885, 180). Излишне предположение о русск. 
+бредить &lt; *об-вредить (V. Pisani «Paideia» VI, 1951, 164). Отно­
+сительно -г- в польск. слове см. Stawski I, 42.</note>
+  </entry>
+</entries>

@@ -1,0 +1,244 @@
+<entries>
+  <entry xml:id="crkyrodp-ve" xml:id="crkyrodp-ve">
+    <pb n="198" end_page="199" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cьrky, род. п. -ъve</orth>
+      <lemma>сьгку</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>род. п. - Ъ У С</orth>
+      <lemma>род. п. - Ъ У С</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. <ref>црлкы</ref> ж. р., ци^кы</orth>
+        </form>
+        <sense>
+          <def>церковь, храм (Sad.)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>църква</ref>, чёрта ж. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>црква</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>церковь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>црква</ref>, цриква ж. р.</orth>
+        </form>
+        <sense>
+          <def>церковь, crkau, род. п. crkJe/i ж. р. , ст.-сербо- хорв. crki, род. п. crkve, ж. р</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XIII в., R J A I, 826)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(в им. п. ед. ч. только в одном памятнике XIV в., там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>сёгкеи</ref>, род. п. -kve, ж. р.</orth>
+        </form>
+        <sense>
+          <def>церковь, храм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 80)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>cirkeu</ref>, род. п. -кие, ж. р.</orth>
+        </form>
+        <sense>
+          <def>церковь (как религиозная организация)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>cirkev</ref>
+          </orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>cyrkej</ref>, cyrkew</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>cerkwja</ref>, cerkwa, cerkwej, cerkej, стар, cyrkwja</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>cerkiew</ref>, род. п. cerkwi, ж. p.</orth>
+        </form>
+        <sense>
+          <def>(вост., православная) церковь, стар, церковь (римско-католическая) , стар, cyrkiew</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 820)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 364)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>цьркы</ref>, црькы, църкви, церкы, церькви</orth>
+        </form>
+        <sense>
+          <def>храм христиан­ ский (Остром, ев. и мн. др.), храм вообще (Остром, ев. и др.), собрание верующих во Христа, христианская церковь (Мин. г. и др.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Срезневский III, 1444—1447)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>церковь</ref>, род. п. -кви, ж. р.</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>цёрква</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>церковь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко IV, 427)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>цёрков</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Желеховский)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>цёрква</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>церковь, храм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 688)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Заимствовано из 
+герм. 
+или 
+(ср. др.-в.-нем. chi-
+rihha, 
+др.-ниж.-нем. 
+kirika, 
+др.-англ. 
+ciricc, 
+circe), 
+кот., в свою 
+очередь, 
+восходит 
+к греч. xooiaxoc, 
+xupiaxov, прилаг. 'господний'. 
+См. 
+Miklosich 
+28; С. С. Uhlenbeck AfslPh 
+XV, 1893, 484; Ber­
+neker 
+I, 
+132; 
+A. 
+Bruckner 
+AfslPh 
+XXJX, 
+1907, 114 (считает 
+слав, исход -у аналогическим, а не непосредственно 
+из герм, -о); 
+P . 
+Skok. 
+La terminologie 
+chretienne en slave : l'eglise, les pret-
+res 
+et 
+les 
+fideles. — RES 
+VII, 
+1927, 
+181; 
+Фасмер 
+IV, 
+(с подробнейшей литер.); 
+Sadnik — Aitzetmuller. 
+Handworterbuch 
+zu den aksl. Texten 221; E. Dickenmann «Kratylos» I, 1956, 79; 
+Machek
+2 87; Skok. Etim. rjecn. I, 275 (с литер.). 
+Слав, с- не может 
+быть объяснено 
+в позиции перед -ь- (регу­
+лярным 
+было 
+бы 
+здесь 
+с-) 
+и так 
+же, 
+как с- в *ceta и 
+(см.), 
+должно 
+объясняться 
+как восходящее к 
+соответствующему 
+произношению 
+начального 
+согласного 
+иноязычного 
+слова-источ­
+ника, если иметь в виду произношение &amp;^&gt;c(ts) 
+перед i в позд­
+ней 
+латыни, 
+с одной 
+стороны, 
+и 
+палатализацию 
+k^&gt;z(ts) 
+в нем. диалектах (не говоря о палатализации типа англ. church 'цер­
+ковь') — с другой стороны. Близко к произношению начала слав. 
+подходят 
+такие 
+формы, как 
+бытующий в герм, странах 
+(напр. в Швеции) 
+антропоним (фамилия) 
+Zilliacus, 
+кот. возводят 
+через лат. *cyriacus 
+к греч. xooiaxoc. 
+В 3-м выпуске 583 словарных статьи.</note>
+  </entry>
+</entries>

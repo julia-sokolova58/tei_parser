@@ -1,0 +1,86 @@
+<Entry xml:id="bezstrasbnbjb">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezstrasbnb(jb)</orth>
+    <lemma>bezstrasbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безстрашен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бесстрашный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -шный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бестрашен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bes</ref>- trasno, нареч.,</orth>
+      </form>
+      <sense>
+        <def>бесстрашно , бестрашан&gt; -шна, -шно бесстрашный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA I, 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezstrasny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бесстрашный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бесстрашный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не знаю­ щий страха, боязни; бестрепетный, неробкий, удалой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безстрашний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесстрашный, неустрашимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от сложения<ref type="etymon" target="bezstraxb">*bezstraxb</ref> 
+(см. 
+предыдущее).</gram>
+  </gramGrp>
+  <note>Отношения *bezstrax^b—*bezstrasbnbjb (см. другие пары того же рода и общую проблематику — на *bez), весьма наглядные для чеш. bezstrachy—bezstrasny, должны для других слав, языков реконструироваться лишь условно, поэтому не исключено префиксально-суффиксальное образование *bez- strasbnb с помощью<xr type="compare">см. <ref type="etymon" target="bez-5">*bez</ref>
+    </xr> и суфф. -ъп- от <xr type="compare">см. <ref type="etymon" target="8gakh">*8Ьгахъ</ref>
+    </xr>.</note>
+</Entry>

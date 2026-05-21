@@ -1,0 +1,127 @@
+<Entry xml:id="golysb">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golysb</orth>
+    <lemma>golysb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>голйш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вид речной рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>golfs</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>безволосый, безбородый человек , голйш м. р. голодранец, бедняк , Голйш м. р., название горы в Ловчене</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 438)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>голйш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голый, неоперившийся птенец, голый мышонок (Елез. I), сло­ вен. golis м. р. голая поверхность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>ho</ref>- lys м. р.</orth>
+      </form>
+      <sense>
+        <def>неоперившийся птенец , елвц. /го- lys голый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>golysz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый чело­ век</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 870)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дикий камень твердой породы, особ, гранит, окатанный и оглаженный водою, яйцо без скорлупы, в одной пленке, мякиш (твер., пек.) сухой, голый блин, без подмазки, вологи, рыба Phoxinus laevis, Cyprinus chrysoprasius , неоперившийся птенец (курск., орл., калуж.), яйцо, снесенное без скорлупы (влад., костр., твер., са- мар., олон., арх., перм., урал.), безземельный крестьянин (костр.), сирота (самар.), камень (терск., моек., пек., твер.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 918)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 346—347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голйш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бедняк, растение Salvia nutans L., камыш, скошенный зимою</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бедняк .—Ср. сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голишаръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>неоперившийся птенец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>диал. голишат, прилаг. совершенно голый , Производное с суф. -у§ъ от прилаг.<ref type="etymon" target="goH">*goH</ref> (см.), субстантивация последнего.</gram>
+  </gramGrp>
+</Entry>

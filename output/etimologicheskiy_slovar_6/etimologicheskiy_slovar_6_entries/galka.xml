@@ -1,0 +1,85 @@
+<Entry xml:id="galka">
+  <pb n="96" end_page="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galъka</orth>
+    <lemma>galъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>галка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>название черной собаки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>галъка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>галка Corvus monedula , также в к^ч-ве имени собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 509)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1500 г., Ту- пиков 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>галка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица сем. вороновых, с черным оперением различного оттенка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>галка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>о курице с чер­ ным оперением (ворон.), о чернобровом и черноволосом человеке (арх.) , галка ж. р. кусок, клочок чего-либо горя­ щего (дерева, соломы и т. п.), летящий во время пожара в сто­ рону , непогасшая головня, обугливше­ еся, но еще тлеющее дерево, полено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(самар., сарат., донск., ворон., твер., костр., влад., волог., перм., свердл., Филин 6, 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>галка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка Corvus monedula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от прилаг. <ref type="etymon" target="gafo">*gafo</ref> II (см.).</gram>
+  </gramGrp>
+  <note>Булахов- ский (Общеславянские названия птиц. — ИАН ОЛЯ VII, 1948, 102) предполагает звукоподражат. происхождение.</note>
+</Entry>

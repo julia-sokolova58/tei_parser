@@ -1,0 +1,98 @@
+<Entry xml:id="brknqtiI">
+  <pb n="22" end_page="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br§knqti I</orth>
+    <lemma>br§knqti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>B</ref>^AKN^TH sonare</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёцна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(за)мычать, реветь; гудеть; браниться (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брецне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задеть, подтрунить; укорить, упрекнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёкнути</ref> = брецнути , breknuti</orth>
+      </form>
+      <sense>
+        <def>strepere, clamare , brecnuti inclamare, invehi, крикнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 623)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 621)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brenkniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звякнуть, брякнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plel. I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfink</ref>- nouti</orth>
+      </form>
+      <sense>
+        <def>брякнуть, стукнуть, brnknouti то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bryknut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стукнуть, брякнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 187)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ыакпий 'раскалывать, ударять' (Muka Si. I, 69), русск. брякнуть, ст.- укр. брякнута 'брякнуть, звякнуть' (Тимченко I; 146), блр. брякнуцъ, гл. сврш. от брякацъ (Носов. 36).</note>
+  <gramGrp>
+    <gram>Т л . на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, 
+производный 
+от междометной 
+основы 
+<ref type="etymon" target="brqk-">*brqk-</ref>
+(см. <ref type="etymon" target="brqkati">*brqkati)</ref>.</gram>
+  </gramGrp>
+</Entry>

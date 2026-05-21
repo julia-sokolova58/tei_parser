@@ -1,0 +1,121 @@
+<entries>
+  <entry xml:id="brst" xml:id="brst">
+    <pb n="58" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brъstь</orth>
+      <lemma>brbsti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бръс</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ж. р. самые нежные побеги деревьев, которыми зимой, в снег кормят коз и овец , бръс, бръйс ж. р. концы веток, верхушка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Горов Страндж. Б Д I, 69; Георгиев: бръст 'нарубленные ворхушки деревьев для зимнего корма скоту'; Геров: бръстъ, брьсь ж. р. то же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Ковачев. Троян. Б Д IV, 191)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>brst</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>листва</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 682)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brst</ref>, род. п. -I, м. р.</orth>
+        </form>
+        <sense>
+          <def>почка на дереве; побег, топкие ветки, хворост</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 66)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. редк. <ref>barsc</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>почка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 17)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бростъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бутончики, почки еще не развернувшихся листьев кус­ тарника</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Миртов. Донской словарь 27)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бростъ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>почка на дереве, цветочная почка на дереве, зелень на дереве, ветви</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 101)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Необходимо считаться с вероятием двух этимол. возможностей: 
+1) родство с др.-сакс, brustian 
+'пускать почки' 
+(N. 
+van 
+Wijk 
+IF X X I V , 
+1909, 235), далее — с гот. brusts, 
+др.-в.-нем. 
+brust 
+'грудь' —все в конечном счете из и.-е. <ref type="etymon" target="bhreus-">*bhreus-</ref> 
+'набухать' (Ро­
+к о т у I, 170—171; Rudnyckyj, 3, 218; Skok. Etim. rjecn. I, 218; 
+против такого объяснения A. Bruckner IF X X I I I , 
+1908, 218); 
+2) родство с гл. <ref type="etymon" target="brbsati">*brbsati</ref> 
+(см.) с развитием знач. 'сорванное (на 
+корм)' &gt; 'почка, побег, листва*, ср. сюда же в таком [случае 
+(см.); ср. уже у Младенова Е П Р 
+сближение болг. бръст 
+с болг. бруля, 
+бруся.</gram>
+    </gramGrp>
+    <note>В связи со слав. *bnstb 
+любопытно отметить хетт, 
+parsdu-
+'почка' (см. J. Knobloch «Kratylos» IV, 1959, 34). 
+Менее вероятны другие этимологии: сближение с лат. 
+frons, 
+род. п. frondis 
+'лист' (V. J. Petr ВВ X X I , 1896, 210); из и.-е. 
+ср. др.-англ. breotan, 
+др.-исл. briota 
+'ломать', 
+лат. 
+jrutex 
+'куст' (Berneker I, 91, с литер.; Фасмер I, 219; Георгиев 
+Б Е Р II, 84).</note>
+  </entry>
+</entries>

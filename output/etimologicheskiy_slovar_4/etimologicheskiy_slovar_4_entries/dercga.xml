@@ -1,0 +1,52 @@
+<Entry xml:id="dercga">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derčga</orth>
+    <lemma>derčga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>dzierzfga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz, I, 645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дерЛга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица сойка , плаксивый ребенок (вят.), вздорный, сварливый человек (волог., вят., перм.), несговорчивый человек (перм.), растение Lycopo- dium (волог., ленингр., новг., твер., пек.), дереза, растение Ly- cium (смол.) , дерюга , плаун или плавун, то, что дерет, скребет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 8, 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1071)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф, -$ga от гл.<ref type="etymon" target="derti">*derti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Bruckner 110: «Prastowo»; Фасмер I, 505.<xr type="compare">Ср. <ref type="etymon" target="deryga">*deryga</ref>
+    </xr>, ниже. 
+*derigqz
+,b: сербохорв. дёригуз м. р. 'поле, поросшее колючей травой' 
+(РСА IV, 226). 
+Глагольно-именное сложение с императивом от <xr type="compare">см. <ref type="etymon" target="derti">*derti</ref>
+    </xr> в пер­
+вой части и именем <xr type="compare">см. <ref type="etymon" target="gzb">*g&lt;?zb</ref>
+    </xr>—во второй.</note>
+</Entry>

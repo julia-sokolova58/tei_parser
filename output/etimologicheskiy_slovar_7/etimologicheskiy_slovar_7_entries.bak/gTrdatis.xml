@@ -1,0 +1,98 @@
+<Entry xml:id="gTrdatis">
+  <pb n="201" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gT&gt;rdati (s§)</orth>
+    <lemma>gT&gt;rdati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grdati</ref> se</orth>
+      </form>
+      <sense>
+        <def>испытывать тошноту, отвращение , ср. сюда же производное Grdan м. р., лич­ ное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 401, 471)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XIII в., RJA III, 400)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hrdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>презирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 751)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hfdaf</ref> книжн. редк. то же .—Ср., далее, производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гордан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гордец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Опыт 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+производный 
+от прилаг. <ref type="etymon" target="gbrdb">*gbrdb</ref> 
+(см.). 
+~gT&gt;rdeti (sč): макед. грдее 
+'дурнеть, становиться уродливым, безоб 
+разным' (И-С), сербохорв. 
+стар., редк. gfdjeti 
+то же (XV в., RJA 
+III, 403; 
+ср. 
+еще РСА III, 596), чеш. hrdeti 
+'становиться высо­
+комерным, 
+гордым' 
+(Kott 
+I, 
+487), в.-луж. kordzec 
+то же (Pfuhl 
+214), 
+др.-русск. гърдЪти, 
+гордЪти 
+'гордиться' (Ип. л. под 1240, 
+1262 гг., Срезневский 
+I, 615), русск. гордётъ 
+'постепенно стано­
+виться 
+гордым, 
+делаться надменным' (Даль
+3 I, 933). — Ср. сюда 
+же производное 
+русск. 
+диал. гордёй, 
+гордяй 
+м. р. 'гордый чело­
+век, гордец' (ворон., Даль
+3 I, 933; Филин 7, 30: ворон., курск.).</gram>
+  </gramGrp>
+  <note>Гл. состояния на -ёй, производный от прилаг.<xr type="compare">см. <ref type="etymon" target="gp2">*#гп2ъ</ref>
+    </xr>.</note>
+</Entry>

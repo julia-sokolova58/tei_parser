@@ -1,0 +1,109 @@
+<Entry xml:id="cecetbka">
+  <pb n="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cecetbka</orth>
+    <lemma>cecetbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cecetka</ref>, cecatka ж. p.</orth>
+      </form>
+      <sense>
+        <def>lactago (Klaret, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cecetka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>птица чечетка Fringilla linaria</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cecatka</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cicotka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чечетка Fringilla linaria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1063)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czeczotka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>птица Acanthis linaria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz;. I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чечетка</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>мелкая зерноядная птица из сем. вьюрковых</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чечгтка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чечетка Fringilla linaria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ча</ref>- чотка ж. р.</orth>
+      </form>
+      <sense>
+        <def>чечетка, также (карельская) береза .—Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 344; Бялькев1ч. Магш. 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cecetko</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Bellis perennis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> 
+от <ref type="etymon" target="cecetb">*cecetb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Bruckner 74—75; SJawski I, 115 (неточно о редупликации, кот. он опре­ деляет как префиксальную, тогда как здесь скорее всего реду- плицирована сама основа,<xr type="compare">ср. <ref type="etymon" target="sesega">*сесега</ref>
+    </xr> выше, а также балт. парал­
+лели: балт. языки не знают приставочного ке-\); Machek
+2 95—96 
+(«От звука cet-cet. ..»).</note>
+</Entry>

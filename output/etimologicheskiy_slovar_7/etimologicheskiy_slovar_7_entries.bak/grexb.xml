@@ -1,0 +1,362 @@
+<Entry xml:id="grexb">
+  <pb n="113" end_page="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grexb</orth>
+    <lemma>grexb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>грк</ref>%ъ арлхртьа, ар,артт][ш, peccatum, delictum, culpa, crimen</orth>
+      </form>
+      <sense>
+        <def>грех, проступок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грях</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грех</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грев</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грех</ref>, гри]ех м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 615—616)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfich</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех, елвц. hriech м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 525)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrech</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grech</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>grex</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Seh- nert 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzech</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>грех, проступок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1348)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gzyx</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grex</ref> M- P- rpex*</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 308)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гр-ёхъ</ref> #grexb</orth>
+      </form>
+      <sense>
+        <def>ошибка, грех , наказание , также грахъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XII. 31. Остр, ев.; Ис. XLIII. 6; Гр. Наз. XI в. 101; Сб. 1076 г.; Мин. Пут. XI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Златостр. сл. 7, Срезневский I, 604)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в., Срез­ невский I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грех</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>проступок, порок, недостаток</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грех</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ссора, раздор (иерм., костр., тобол.), спор (новг., влад., калуж.), о ком-, чем-либо приносящем неприятность, напасть (при выражении досады) (пек.) , грех, несчастный случай, беда (главным образом пожар)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гр1х</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грех, вина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грех</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пропуск при косьбе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дорошенко. Матер1али до словника д1алектно1 лексики Сумщини 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грэху</ref> род. п. граху, хМ. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. новообразование, не имеющее соответствий в других и.-е. языках.</note>
+  <gramGrp>
+    <gram>Внешнее сходство имен<ref type="etymon" target="grexb">*grexb</ref> 
+и <ref type="etymon" target="spexb">*spexb</ref>, 
+<ref type="etymon" target="smexb">*smexb</ref> 
+(см. s. v.), 
+вплоть до примеров 
+нарочитого параллелизма вроде 
+русск. и смех и грех, 
+а также 
+то обстоятельство, что производя­
+щие 
+глаголы для <ref type="etymon" target="smexb-2">*smexb</ref> 
+u<ref type="etymon" target="spexb-2">*spexb</ref> 
+точно 
+известны — 
+<ref type="etymon" target="smbjatiy">*smbjatiy</ref>
+      <ref type="etymon" target="speti">*speti</ref> 
+(см.), уже давно послужило основанием для того, чтобы и 
+в форме <ref type="etymon" target="grexb">*grexb</ref> 
+видеть производное 
+с суф. -х- от гл. 
+<ref type="etymon" target="grejati">*gre(ja)ti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 456 (с литер.). Эта этимология удерживается до недавнего времени, см. И. Гълъбов «Studia linguistica in ho- norem Th. Lehr-Splawinski» 220—226 (в пользу связи *grexb и *greti 'греть, давать тепло' в статье приводится — наряду с болг. грешка 'ошибка'—также болг. диал. гр'аш'ка 'тепло': еббата хич ни дава гр'аш'ка 'печь не дает тепла'). Однако как раз семантич. сторона этимологии *grexb — *greti вызывает больше всего сом­ нений. Ссылки на аналогию др.-инд. tdpas 'жара', 'боль' от tdpati 'распаляться' или на слав.<xr type="compare">см. <ref type="etymon" target="resa1">*реса1ъ</ref>
+    </xr> — от <xr type="compare">см. <ref type="etymon" target="reych">*реЫЧ</ref>
+    </xr> недоста­
+точны хотя 
+бы потому, 
+что *grexb — это 
+название 
+результата 
+действия, поступка, но не название чувства. Понятие 'грех' счи­
+тается окончательно 
+терминологизировавшимся при христианстве, 
+но ряд соответствующих древних 
+лексем восходит 
+к различным 
+более древним названиям конкретных действий и состояний; при 
+этом типологически особенно любопытно, что знач. 'горение, жже­
+ние (совести)', реконструируемое 
+гипотетически 
+при 
+этимологии 
+*grexb 
+— *gretiy 
+нигде достоверно н е 
+з а с в и д е т е л ь с т в о в а н о . 
+Из прихмеров развития значения 'грех' можно привести лат. 
+рес-
+catum 
+'грех' &lt;^ 'неверный 
+шаг', нем. Sunde 
+'грех' &lt; 'сущее, то, 
+что есть', др.-инд. pataka- 
+'грех' &lt;'падение' (ср. Buck. 
+A dictio­
+nary of selected synonyms
+3 1181—1182). Можно согласиться с тем, 
+что гипотеза 
+о 
+развитии 
+значения 
+'грех' 
+из первоначального 
+жжет совесть' есть не что иное, как подстановка христианского зна­
+чения на место первобытного, что невозможно для слова праслав., 
+т. е. еще дохристианского (см. Skok. Etim. rjecn. I, 617). 
+Семантика производного <xr type="compare">см. <ref type="etymon" target="gresiti">*gresiti</ref>
+    </xr> — 'промахиваться, не по­
+падать прямо', 'думать неверно (о ком-либо)'—помогает выбрать 
+другую этимологию для слова *grexb 
+из 
+числа 
+выдвигавшихся
+ранее, а именно — от основы со знач. кривизны *groi-so-, 
+ср. лтш. 
+greizs 
+'кривой' (см. так уже К. Буга РФВ LXVI, 1911, 236—237), 
+а также слав. <xr type="compare">см. <ref type="etymon" target="greza">*greza</ref>
+    </xr>, ср. русск. 
+диал. 
+нагрезитъ 
+'сделать 
+что-либо плохое, причинить ущерб'. См. дополнения в кн.: Фасмер 
+I, 455 (s. v. грёза); 
+Е. Prokosch AJPh XXXII, 1911, 434 (автор 
+сближает *grexb 
+и *greza, 
+но мотивы 
+этого сближения — «слав, 
+аналогия закону Вернера», т. е. озвончение в связи с местом уда­
+рения, — должны быть признаны ложными). 
+См. еще V. J. Petr ВВ XXI, 1896, 214 (сближение с греч. / p e l o ? , 
+ион. ХР^°č&gt; 
+аттич. 
+доеок, 
+XP^°S 
+'вина, 
+грех'); 
+Berneker I, 351 
+(К греч. ypiw 'мазать', Х Р
+0 ^
+'касаться 
+поверхности', 
+лит. 
+grieti 
+'снимать пенки (с молока)', откуда 
+якобы 
+знач. 
+'забывать'; не­
+убедительно); 
+A. 
+Meillet 
+BSL 
+22, 1920, 
+107; 
+J. 
+Charpentier 
+AfslPh XXXVII, 
+1920, 
+46—48 
+(*grexb &lt;*ghroi-so-, 
+ср. 
+гипо­
+тетическое др.-инд. *ghresa- 
+и «Reimwort» 
+последнего — др.-инд. 
+bhresati 
+'качаться, колебаться, оступаться'); Bruckner 
+161 (произ­
+водит grzech, 
+цслав. съгрЪза 
+'смешение' 
+от падения — grie— 
+'па­
+дать' (?)); SJawski 
+I, 
+368—369; Machek
+2 188—189 (выдвигается 
+сближение с лит. rinku, 
+rlkti 
+'ошибиться', причем слав. 
+*grechb 
+будто бы от *grexati 
+&lt;^*g-rek-sa-ti); 
+Bezlaj. Etim. slovar sloven, 
+jez. I, 174; С. Б. Бернштейн «Зборник за филологщу и лингвис­
+тику» XII, 1969, 12 (против отнесения праслав. *grexb 
+к основам 
+на -й- у Мейе).</note>
+</Entry>

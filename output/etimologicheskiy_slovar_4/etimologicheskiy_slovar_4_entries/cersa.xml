@@ -1,0 +1,51 @@
+<Entry xml:id="cersa">
+  <pb n="77" end_page="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cersa</orth>
+    <lemma>cersa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черёша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черешня Prunus avium у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: црЪиш)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>черёшау</ref> чирёша ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>черешау</ref> цреша ж. р.</orth>
+      </form>
+      <sense>
+        <def>черешня (дерево и плод) . — Сюда примыкает любопытное укр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>черёха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шпанская вишня Prunus Duracina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., Шух., Гринченко IV, 456; см. еще Р. Смаль-Стоцький «Slavia» 5, 1926, 26)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Узколокальное соответствие (болг.-макед.) общеславянскому *сег- ёыга (см.; там же подробно об этимологии обеих форм). В связи с этим укр. диал. (гуцул.) черёха представляется карпатско-бал- канским элементом лексики, тяготеющим к болг.-макед. череша, цреша (или исход -ха в укр. слове есть экспрессивная замена усеченной более полной формы типа *cersbna?). Возможна пра­ слав. древность формы *cersa.</note>
+</Entry>

@@ -1,0 +1,41 @@
+<entries>
+  <entry xml:id="brciti" xml:id="brciti">
+    <pb n="124" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrčiti</orth>
+      <lemma>ЬъгсШ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брчити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>плюхнуть, булькнуть (в воду)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 224; R J A I, 616)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>барчйть</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>противоредить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(яросл., Мельниченко 28; Филин 2, 123)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m>, родственный <ref type="etymon" target="gyosh">*ЬъгёШ</ref>,</gram>
+    </gramGrp>
+  </entry>
+</entries>

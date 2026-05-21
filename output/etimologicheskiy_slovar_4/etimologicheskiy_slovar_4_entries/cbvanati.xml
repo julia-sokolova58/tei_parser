@@ -1,0 +1,45 @@
+<Entry xml:id="cbvanati">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbvan'ati</orth>
+    <lemma>cbvan'ati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>простореч</ref>. evanhati</orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cvahhat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 14; Kopecny. Urc. 137: «ср. русск. чванный 'хвастливый, надутый'»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ivahaV</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (итератив-дуратив), соотносительный с <ref type="etymon" target="cwaniti">*cwaniti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Предположения об экспрессивной природе слова см. Berneker I, 175; Machek 2 80.</note>
+</Entry>

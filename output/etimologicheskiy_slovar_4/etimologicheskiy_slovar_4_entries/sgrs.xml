@@ -1,0 +1,27 @@
+<Entry xml:id="sgrs">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгрьсь</orth>
+    <lemma>сьгрьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чърпьць</ref>, черпъць</orth>
+      </form>
+      <sense>
+        <def>виночерпий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пчел. И. публ. б. л. 34 и др., Срезневский III, 1567)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> (имя деятеля) от гл. <ref type="etymon" target="sgrai">*съграИ</ref> (см.), 
+по-видимому, образованное до проведения в последнем тематиза-
+ции, т. е. еще от формы типа *6brp-ti.</gram>
+  </gramGrp>
+</Entry>

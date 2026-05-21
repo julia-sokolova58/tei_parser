@@ -1,0 +1,65 @@
+<Entry xml:id="ogvyik">
+  <pb n="211" end_page="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьогвыикъ</orth>
+    <lemma>Ьогвыикъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брашнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мучной ларь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: брат- ник м. р. 'амбар для муки, мучной ларь')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брашнйк</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>brasnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мешочек для хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Брусье на острове Хвар, Далмация, М. Hraste 1Ф VI, 1926— Ъогёьпо 1927, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Brasnik</ref> м. p., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1403— 4 гг., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бброшник</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л. у 1968, 198)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от основы <ref type="etymon" target="ogypo">*Ъогйъпо</ref> (см.) или — в слу­
+чае с чеш. — <ref type="etymon" target="og-3">*Ьог</ref>čъп'а (см.).</gram>
+  </gramGrp>
+</Entry>

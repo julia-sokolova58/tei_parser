@@ -1,0 +1,20 @@
+<Entry xml:id="cbstibogb">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbstibogb</orth>
+    <lemma>cbstibogb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Cstiboh</ref>, Ctiboh, м. p., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ge- bauer I, 192; Jungmann 1, 247)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антррпонимич. сложение основ<ref type="etymon" target="cbstb">*cbstb</ref> (см.) и <ref type="etymon" target="bogb">*bogb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

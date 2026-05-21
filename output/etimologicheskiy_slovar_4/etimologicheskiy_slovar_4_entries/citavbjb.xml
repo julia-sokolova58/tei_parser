@@ -1,0 +1,95 @@
+<Entry xml:id="citavbjb">
+  <pb n="123" end_page="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>citavb(jb)</orth>
+    <lemma>citavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>читав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>целый, невредимый, (обл.) чи­ стый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чйтаф</ref>, ~ва, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый , чйтъф, прилаг. целый, здоровый (с. Огнен, Бур- гаско, дип. раб., Архиз Софийск. ун-та), чытеф, чйтаф, -ава здоровый, целый, невредимый, хороший, благой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>читав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>целый, невредимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>читав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>целый, весь, целый, невредимый , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>citovat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>здо­ ровый, целый, невредимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чйтавий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>большой, порядочный, хороший , чйтавий крупный и живой, проворный , читавши большой , чйтаво здорово , чйтавий крепкий, здоровый, сильный, рабо­ тящий, работающий изо всех сил, старательный, целый, не­ поврежденный, разумный, способный все сделать, ловкий, проворный, точный, исполняющий обещанное, тот, у кого в подчинении много людей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко IV, 464)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. I. Феденець. Особ- ливост1 гов1рки села Малий Раковець 1ршавського округу. Дип. роб. Ужгород, 1952, 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. А. Быинець. Особливост1 говорки села Доробратово, 1ршавського району. Дип. роб. Ужгород, 1956, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ю. I. Герей. Морфо- лопчш особливост! гов1рки села Русьш Комар1вщ. Дип. роб. Уж­ город, 1956, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический ат­ лас 233)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -av- от прилаг.<ref type="etymon" target="si">*сИъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,26 @@
+<Entry xml:id="bridlo">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridlo</orth>
+    <lemma>bridlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bridlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дерн (напр. для обкладывания могилы и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -dio от<xr type="compare">см. <ref type="etymon" target="6gsh">*6гШ</ref>
+    </xr>. Ср. в семантич. отно­
+шении *а\гпъ 
+: <xr type="compare">см. <ref type="etymon" target="dbrati">*dbrati</ref>
+    </xr>.</note>
+</Entry>

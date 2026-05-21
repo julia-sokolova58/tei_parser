@@ -1,0 +1,65 @@
+<Entry xml:id="gblciti">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblciti</orth>
+    <lemma>gblciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlouciti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать в кучу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 680; Kott I, 435)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гблчитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко, с оживлением говорить , голчйтъ болтать, говорить , гблчитъ говорить , гблчитъ говорить, кричать , гбл­ читъ говорить, разговаривать, кричать, звать , гблчитъ говорить (волог., костр., яросл., олон., волог., север., арх., новг., тул., ворон.), кричать (яросл., тул., ворон., волог., олон., арх., донск., тамб., ряз., орл.), спорить, браниться (костр., твер., ряз., орл., тамб., пенз.), звать, призывать (яросл., костр., твер., ряз., орл., тамб.), вызывать эхо в лесу, в горах (сиб., перм.) , гбвчитъ говорить , гал- читъ гомонить, голдить, кричать, говорить; звать, кликать , галъчитъ кричать (арх.), говорить громко, оживленно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Под- высоцкий 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уездного Череповецкого говора 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре се­ вера Пошехоно-Володарского уезда Ярославской губернии 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 345)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(юж.. Даль 3 I, 843; Филин 6, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gblkb">*gblkb</ref> 
+(см.). ,Ср. <ref type="etymon" target="gblcati">*gblcati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

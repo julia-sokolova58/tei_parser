@@ -1,0 +1,175 @@
+<Entry xml:id="dvignoti">
+  <pb n="168" end_page="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvignǫti</orth>
+    <lemma>dvignǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДБИГМ</ref>;КТИ xtvelv, movere</orth>
+      </form>
+      <sense>
+        <def>двинуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дйгна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дйгнъ</ref>, дййнъ то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дигне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять, украсть, стащить; утаить, припрятать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйгнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарапиЬ; RJA И, 373—380; РСА IV, 285)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дйгнут</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>убирать (в доме, со стола)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvigniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>под­ нять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvihnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvihnut</ref>*</orth>
+      </form>
+      <sense>
+        <def>поднять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dvaignqt</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Po­ lanski—Sehnert 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzw</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ignqd поднять (тяжесть), осилить, воздвигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 667)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvjignoyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двигнХти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двинуть , двинХти то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XXIII. 4. Остр, ев.; Панд. Ант. XI в.; Бор. Гл. 50; Ярл. Тайд. 1356 г., Срезневский I, 638)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. гр. Новг. XIV—XV в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двинуть</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двйнути</ref>, двйгнути</orth>
+      </form>
+      <sense>
+        <def>двинуть, отправиться, двинуться, выстрелить, уда­ рить сильно, выстроить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 361, 362)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от <ref type="etymon" target="dvigati">*dvigati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

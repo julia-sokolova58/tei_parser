@@ -1,0 +1,146 @@
+<Entry xml:id="ganiti">
+  <pb n="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ganiti</orth>
+    <lemma>ganiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>haniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бранить, оскорблять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 405)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>haniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порицать, бранить, высмеивать . возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 410)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ganit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брызгать слюной , елвц. hanif хулить, бранить, ругать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>ganic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порицать, бранить, хулить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 801)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gqnic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хулить, порицать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ганитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порицать, осуждать, хулить, хаять , ганитъ ожидать; предстоять (Картотека Псковского областного словаря), ганитъея недомогать, находиться в расслабленном состоянии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., зап., Филин 6, 134—135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 111; Филин 6, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ганити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пори­ цать, укорять, бранить, злословить, порочить, поносить, бесчестить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ганщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порицать, осуждать [</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 77)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный и 
+родственный 
+<ref type="etymon" target="ganati-2">*ganati</ref> 
+(см.); 
+к этому последнему чистому verbum dicendi возводима и семан­
+тика порицания, 
+хулы (ср. устный характер этих действий!).</gram>
+  </gramGrp>
+  <note>Об этом свидетельствует и более «нейтральное» словоупотребление вроде русск. диал. ганитъ — 'ожидать; предстоять' (см.). Все вышеизложенное сопротивляется известной этимологии, объясняю­ щей *ganiti как родственное *gari &gt;ati,<xr type="compare">см. <ref type="etymon" target="goniti">*goniti</ref>
+    </xr>, , , , <xr type="compare">см. <ref type="etymon" target="gwati">*gwati</ref>
+    </xr>. 
+Так см. Р. Брандт РФВ XXIII, 1890, 301; Фасмер I, 392; Staw-
+ski I, 254—255 (там же прочая литер, и остальные, малоубеди­
+тельные объяснения). Попытку возродить объяснение *ganiti вто­
+ричным переразложением poganiti, производного от poganb, заимств. 
+из лат. paganus 'языческий', см. J. Marvan LF 1, 1961, 31 и сл.. 
+Так см. Р. Брандт РФВ XXIII, 1890, 301; Фасмер I, 392; Staw-
+ski I, 254—255 (там же прочая литер, и остальные, малоубеди­
+тельные объяснения). Попытку возродить объяснение *ganiti вто­
+ричным переразложением poganiti, производного от poganb, заимств. 
+из лат. paganus 'языческий', см. J. Marvan LF 1, 1961, 31 и сл.. 
+Так см. Р. Брандт РФВ XXIII, 1890, 301; Фасмер I, 392; Staw-
+ski I, 254—255 (там же прочая литер, и остальные, малоубеди­
+тельные объяснения). Попытку возродить объяснение *ganiti вто­
+ричным переразложением poganiti, производного от poganb, заимств. 
+из лат. paganus 'языческий', см. J. Marvan LF 1, 1961, 31 и сл.. 
+Так см. Р. Брандт РФВ XXIII, 1890, 301; Фасмер I, 392; Staw-
+ski I, 254—255 (там же прочая литер, и остальные, малоубеди­
+тельные объяснения). Попытку возродить объяснение *ganiti вто­
+ричным переразложением poganiti, производного от poganb, заимств. 
+из лат. paganus 'языческий', см. J. Marvan LF 1, 1961, 31 и сл.</note>
+</Entry>

@@ -1,0 +1,90 @@
+<Entry xml:id="begacb">
+  <pb n="58" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>begacb</orth>
+    <lemma>begacb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бегач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бегун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>б</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъгач м. р. моло­ дой олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мечев БД II, 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бегач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>беглец, бегун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>behac</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бегун; гонец , рабочий, который возит на тачке, напр. уголь в шахте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>behac</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рабочий с тележкой в шахте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>behac</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>biegacz</ref> (Stown. polszcz. XVI w.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biegacz</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-съ</ref>
+      </m> от глагольной основы 
+bega- (см. <ref type="etymon" target="begati">*begati)</ref>.</gram>
+  </gramGrp>
+</Entry>

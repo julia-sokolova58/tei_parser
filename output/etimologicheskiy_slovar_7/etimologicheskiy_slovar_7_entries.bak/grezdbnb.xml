@@ -1,0 +1,90 @@
+<Entry xml:id="grezdbnb">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grezdbnb</orth>
+    <lemma>grezdbnb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grezdbno</orth>
+    <lemma>grezdbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грезнъ</ref>, грьзнъ</orth>
+      </form>
+      <sense>
+        <def>ви­ ноградная ягода , грездно dpyeXXiov , грезно, гръзно грозд, виног­ радная ягода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юр. ев. под 1119 г. 37; Быт. XL. 10 по сп. XIV в.; Ефр. Крм. Трул. 28, Срезневский I, 587)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Козм. Инд., Срезневский I, 586)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Окт. XIII в. 65; Жит. Андр. Юр. 33, Срезнев­ ский I, 586—587)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грёзденъ</ref>, род. п. -дня, м. р.</orth>
+      </form>
+      <sense>
+        <def>срос­ ток плодов в орехах, грозд , гроздь (новг.), сросшиеся плоды (ореха, миндаля и т. п.) (влад.), лу­ ковичное растение (с зеленью и сросшимися луковицами) (яросл., твер.) , гряздень пучок луку, выросший из одной луковицы , грязнъ м. р. пучок , грезн м. р. гроздь, кисть (плодов и т. п.); сросшиеся плоды , грезнб пучок луку, выросший из одной луковицы , грезнб ср. р. луковичное растение (с зеленью и сросшимися луковицами) (яросл.), пучок растений (калуж.) , грязно пучок луку, вырос­ ший из одной луковицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Доп. к Опыту 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(моек., Филин 7, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., Филин Т, 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 56; Филин 7, 189: яросл.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грёзен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>виноградная кисть, гроздь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко I, 324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грез</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бн один из двух (или более) древесных ство­ лов, вырастающих из общего корня (Леке, атлас Правобережного Пол i сея)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -ьи- от<ref type="etymon" target="grezd">*grezdъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="grozdbngrozdbno">*grozdbn^*grozdbno</ref>
+    </xr> 
+(см.).</note>
+</Entry>

@@ -1,0 +1,80 @@
+<Entry xml:id="bezdbbnb">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbbnb</orth>
+    <lemma>bezdbbnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Бездён</ref>, название села, Сливенск. окр., особенно — MireaSoovi, село в Эпире, Греция</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Й. Займов. Заселване на бъл- гарските славяни на Балканския полуостров. София, 1967, 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezdan</ref>, род. п. bezdna, м. p., bezdan, род. п. bezdni, ж. p., brezdan, ж. р.</orth>
+      </form>
+      <sense>
+        <def>бездна , бёздагь, бёздагь м. и ж. р. бездна, пропасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 267, 266, 633)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 398)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezen</ref>, -zni ж. р.</orth>
+      </form>
+      <sense>
+        <def>стык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezden</ref>, род. п. -dni, ж. р. с бездна, пропасть, глубина</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. 1,121; Dorosz. I, 422)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бездънъ</ref>, бездънъ</orth>
+      </form>
+      <sense>
+        <def>бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. Леств. XIII в., Срез­ невский!, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бёзданъж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>бездна, пучина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с<m type="suffix">
+        <ref>-ъ</ref>
+      </m> суффиксальным от основы <ref type="etymon" target="bezdbbn-">*bezdbbn-</ref> 
+(см. 
+подробно <ref type="etymon" target="bezdbbna">*bezdbbna</ref>, а также <ref type="etymon" target="bezdbbno-2">*bezdbbno</ref>, 
+<ref type="etymon" target="bezdbbnb">*bezdbbnb)</ref>.</gram>
+  </gramGrp>
+</Entry>

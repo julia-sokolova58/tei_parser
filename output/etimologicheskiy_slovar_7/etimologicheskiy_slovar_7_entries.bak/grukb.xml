@@ -1,0 +1,26 @@
+<Entry xml:id="grukb">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grukb</orth>
+    <lemma>grukb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>grauk</ref>/groik м. р.</orth>
+      </form>
+      <sense>
+        <def>грушевое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski— Seh- nert 67, с реконструкцией *grukb)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано с<xr type="compare">см. <ref type="etymon" target="grusa">*grusa</ref>
+    </xr>, однако исход -къ не вполне ясен; воз­
+можно, из первонач. *gruxb, 
+родственного *grusa, 
+что подтверждала 
+бы вероятную (слав.) этимологию последнего.</note>
+</Entry>

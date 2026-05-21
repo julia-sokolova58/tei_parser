@@ -1,0 +1,74 @@
+<Entry xml:id="dristndristna">
+  <pb n="116" end_page="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dristьnъ, *dristьna</orth>
+    <lemma>dristьnъ, *dristьna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>дрисня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>понос, расстройство кишечника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ако ся блчде набозало д гЬтето съ такъво мл'Ько, то има да го стЬтять лихота, кривота,. . ., зелена дрисня . . . Й. Груев. Млада майка (иревод), кн. 7, б. г. Откакъ ся йде мл'Ько и ово- шдя, веднага да ся nie много вода, то не е добро, зачтото тогава лсспо хваща дрисня. Ктшжнпца за народа, кн. 5, 1873. — Архив Болг. возрождения, София; см. еще Дювернуа, Геров: дрисня)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрисн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>й ж. р. понос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drislen</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>связанный с кишечным расстройством, сла­ бительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>просшреч</ref>. дрисня ж. р.</orth>
+      </form>
+      <sense>
+        <def>понос</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрисня</ref> ж. р. то же , также дрйшня ж. р. , сюда же дрйсля ж. р.</orth>
+      </form>
+      <sense>
+        <def>понос, растение Galium verum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 443)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач-ное прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от гл. <ref type="etymon" target="driskati">*driskati</ref>\ 
+<ref type="etymon" target="drislati">*drislati</ref> (см.); ранняя субстантивация.</gram>
+  </gramGrp>
+</Entry>

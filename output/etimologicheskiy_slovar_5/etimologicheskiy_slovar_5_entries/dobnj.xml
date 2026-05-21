@@ -1,0 +1,74 @@
+<Entry xml:id="dobnj">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbьnъ(jь)</orth>
+    <lemma>dǫbьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>duban</ref>, род. п. dubna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дубовый , также дубтх, -а, -5 в выражении дубка папрат</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 839)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 773)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dubny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>цвета дубового листа , duben, род. п. -Ъпа, м. р. апрель, сюда же субстантивированное Dubno ср. р., местн. название , а также Dubne ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 495, со ссылкой на Линде)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХбъныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>древесный, дубовый , субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Афанас. о Мелхсд., Срезневский I, 741)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дубна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молодой лесок, дубовая роща , также дубня ж. р. дубовый лес; дубняк , сюда же Дубна, название реки и города в Моск. области.—Сюда же субстантивированные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(центр, и зап. обл., Филин 8, 237)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., центр, и зап. обл., Филин 8, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Дъбнйца, название местности, где прежде был дубовый лес (К. Попов. Говорът на с. Габаре, Бело- слатинско 154), слвц. dubnica ж. р. 'дубильная кора' (SSJ I, 339), укр. диал. дубнйца ж. р. 'поросль дубняка' (Н. В. Никон- чук. Из лексики полесского села Листвин. «Лексика Полесья» 82).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="dgbb-5">*dgbb</ref> (см.).</gram>
+  </gramGrp>
+  <note>О дублетах др.-русск. доубьныи — доубовыи см. Н. П. Звер- ковская «Лексикология и словообразование др.-русск. языка» (М., 1966) 235. О значительной древности производного *dgbbnb говорят его следы в ранней топонимии различных территорий, ср. нем. Deuben (1197 г. —Duben). См. Е. Eichler «Studia lin- guistica in honorem Th. Lehr-Splawinski» 459.</note>
+</Entry>

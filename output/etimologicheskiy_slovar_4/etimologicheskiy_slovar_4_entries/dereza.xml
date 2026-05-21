@@ -1,0 +1,81 @@
+<Entry xml:id="dereza">
+  <pb n="205" end_page="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dereza</orth>
+    <lemma>dereza</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derezga</orth>
+    <lemma>derezga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dereze</ref> ж. р. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>das Fupeisen, das Steigeisen , dreze ж. p. мн. 4 . то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дереза</ref> ж, p.</orth>
+      </form>
+      <sense>
+        <def>род степных кустарниковых растений с крепкими шипами и хорошо развитой корневой системой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дереза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растения Caragana frutescens, Lycium barbarum, Lycopodium clavatum, назойливый человек, ссора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 369)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзераза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плаун.—Сюда же производные</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>derdzka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вя­ занка срубленных веток , derdzek ветки, нанесённые течением и т. п. , darazina сорная трава , deryzka ж. р. растение Galium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап.-мор., Bartos. Slov. 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 357)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ькспрессивное? ср. и множественность вариантов огласовки) с суфф.<m type="suffix">
+        <ref>-ezaj-ezga</ref>
+      </m> от гл. <ref type="etymon" target="derti">*derti</ref>.</gram>
+  </gramGrp>
+  <note>О связи сербохорв. и русск. слов см. Skok. Etim. rjecn. I, 393. Формы других слав, языков, оставляемые без внимания Фасмером (I, 502), не позво­ ляют принять его реконструкцию *дърз-у к дёргать. Неясно сближение Махека с нем. названиями растений Thunrift, Tunri- der, Zaunreifi (Machek 2 115); он же сравнивал слав, dereza с лит. dedesra 'Galium aparine'. См. V. Machek «Slavia» 26, 1957, 441. Стоящее несколько особняком словен. dereze 'Steigeisen, Gle- tschereisen, ледяные шипы на башмаках' Безлай производит из и.-е. *derg'h-, сравнивая с лит. dirzas 'ремень', авест. der dza- 'оковы, путы' (Bezlaj. Etim. slovar, рукоп., Любляна).</note>
+</Entry>

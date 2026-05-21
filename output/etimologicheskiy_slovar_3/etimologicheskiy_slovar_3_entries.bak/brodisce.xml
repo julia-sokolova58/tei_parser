@@ -1,0 +1,74 @@
+<Entry xml:id="brodisce">
+  <pb n="36" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brodisce</orth>
+    <lemma>brodisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брддйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>паромная пристань, перевоз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА П, 1 9 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brodisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брод, перевоз, пристань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 6 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brodiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>лужа, в которой бродят ло­ шади, скотина, звери</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brodisko</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brod</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>isko</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 1 6 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бро</ref>- дище ср. р., увеличит, к брод .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(сев.-двин., Филин 3 , 1 8 7 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> и знач. места (исключение — русск. 
+диал.) от гл. <ref type="etymon" target="broditi-2">*broditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

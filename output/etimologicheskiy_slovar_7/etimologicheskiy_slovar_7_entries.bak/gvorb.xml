@@ -1,0 +1,85 @@
+<Entry xml:id="gvorb">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvorb</orth>
+    <lemma>gvorb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. (<ref>Доленско</ref>) gor м. p.</orth>
+      </form>
+      <sense>
+        <def>груда навоза (Безлай, см. ниже)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. -<ref>цслав</ref>, гворъ</orth>
+      </form>
+      <sense>
+        <def>пузырь дождевой или вообще водяной , ср. сюда же производное прилаг. гвора- тыи ; говоръ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прол. И. Публ. б. XIV в. 74; Пал. XIV в. л. И об.; Переясл. л. 3, Срезневский I, 512; Пчела, к. XIV в., л. 75, Картотека СДР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сребреными гвоздьми гворатыми четыреми пригвозди. Георг. Ам. 92, Срезневский I, 512)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(.. .говоръ на водЪ погибаеть. и памдть гордаго погибаеть по смрти. Юр. пр. XIV, 223 г.. Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>говор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пузырь на воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Опыт 38; Филин 6, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гвор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>клинья в шта­ нах .—Далее, ср. сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 278)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>guorilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вид ободка с основой для фески , гвдрило</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 521)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorjdca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узловатая, суковатая палка, дубинка , также garjdca ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 233)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 207)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано чередованием с *gurati, *guriti, *gyra/*gyr'a (см. s. vv.). См. в принципе уже А. А. Потебня РФВ III, 1880, 164 {гворъ: серб, гурав 'горбатый'); Л. В. Куркина «Этимология. 1971» (М., 1973), 67; J. Schiitz WdS VIII, 1963, 342; Фасмер I, 399; Ф. Безлай ВЯ 1967, № 4, 52; Bezlaj. Eseji о sloven, jez. 136; F. Bezlaj JiS XVI, 8, 1970/1971, 233; Beziaj. Etim. slovar slo­ ven, jez. I, 162. Объяснение др.-русск. гворъ из *g*4vorb, род­ ственного *govon (см. Berneker I, 339), устарело. О сербохорв. гворило см. специально И. П. Петлева «Этимология. 1973» (М., 1975), 47—49.</note>
+</Entry>

@@ -1,0 +1,102 @@
+<entries>
+  <entry xml:id="bratnj" xml:id="bratnj">
+    <pb n="10" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bratьnъ(jь)</orth>
+      <lemma>bratbivb(jb)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. <ref>B</ref>^ATANA, -иии, прилаг. притяж.</orth>
+        </form>
+        <sense>
+          <def>6 прбс, xov dSeXcpov, TC5V dSeXcpftv, fraternus, fratris брата, братский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SJS)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bratnl</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>fratris, fraternus , отсюда браттьев, -а, -о</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(XIII—XIV вв., R J A I, 605)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PCA II, 118)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bratny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>братский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 92)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bratni</ref> то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 650)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>братьнъ</ref>, братень dSeXcpixoc, fraternus</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Церк. Уст. Влад. по Корм. Рум., Срезневский I, 173; Р. Правд., Картотека ДРС)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. устар. <ref>братний</ref>, -яя, -ее</orth>
+        </form>
+        <sense>
+          <def>принадлежащий брату, относящийся к нему</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>братнш</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>братов; брат­ ский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 137)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>братнш</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>братний</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 95)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ьи- от <ref type="etymon" target="brafo">*brafo</ref> 
+(см.) и параллель­
+ное <ref type="etymon" target="ga">*Ьга</ref>^ъпъ]ъ 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

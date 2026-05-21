@@ -1,0 +1,34 @@
+<Entry xml:id="gyvbnb">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyvbnb</orth>
+    <lemma>gyvbnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>glvan</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>жадный, алчный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA III, 136; «Znacenje nije dosta jasno»; РСА III, 255: «гневный», в нар. песне; сближается с гибан)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> 
+от 
+незасвидетельствованной 
+глаг-ной основы слав. <ref type="etymon" target="gyv-">*gy(v)-</ref>, 
+<ref type="etymon" target="gyti-2">*gyti</ref>, 
+родственной 
+лтш. gilt 'хва­
+тать, ловить'.</gram>
+  </gramGrp>
+  <note>См. J. Schiitz «Езиков. изследв. в чест на акад. С. Младенов» 333; Popovic. Geschichte der serbokroatischen Spra- che (Wiesbaden, 1960) 545.</note>
+</Entry>

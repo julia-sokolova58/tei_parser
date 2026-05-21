@@ -1,0 +1,43 @@
+<entries>
+  <entry xml:id="bdryrodp-ve" xml:id="bdryrodp-ve">
+    <pb n="112" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъdry, род. п. -ъve?</orth>
+      <lemma>ЬъДгу</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>род. п. -ъте</orth>
+      <lemma>род. п. -ъте</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бадровъ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>закваска, дрожжи, причина, начало дела</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль 3 I, 93; Филин 2, 41)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Неясное слово, пропущенное 
+этимол. словарями.</note>
+    <gramGrp>
+      <gram>Возм. 
+(при 
+условии, 
+что 
+бадровъ 
+содержит 
+вторичный 
+перенос 
+ударения, 
+вместо <ref type="etymon" target="bsdrbv">*бсдрбвъ)</ref>, 
+родственно прилаг. <ref type="etymon" target="bdr">*bъdrъ</ref> 
+(см.), к кот. 
+относится как -й- основа к -й- основе.</gram>
+    </gramGrp>
+  </entry>
+</entries>

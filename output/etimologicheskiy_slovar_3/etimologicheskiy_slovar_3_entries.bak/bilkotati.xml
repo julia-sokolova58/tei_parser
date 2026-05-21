@@ -1,0 +1,78 @@
+<Entry xml:id="bilkotati">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bi&gt;lkotati</orth>
+    <lemma>bi&gt;lkotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>blkotat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пылать , булькать, клокотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina Mistf. 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk. bucov. 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blkotat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пылать, полыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>belkotac</ref>, belgotac, bulkotac, bulgotac</orth>
+      </form>
+      <sense>
+        <def>булькать, клокотать, заикаться, мямлить, бормотать, лепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>белкотати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>невнятно говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прот. Полт. С. IV, 209—1757 г., Тимченко I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>белькотати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лепетать, невнятно говорить, бормотать , если последнее не заимств. из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 49)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный на<m type="suffix">
+        <ref>-ati</ref>
+      </m> от <ref type="etymon" target="1sh">*Ьъ1Шъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,118 @@
+<Entry xml:id="bodb">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodb</orth>
+    <lemma>bodb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>укол острым, вид вязанья , ковырок, стежок, острие, лезвие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>петля в чулке, стежок при вышивании , острие палки, которой погоняют волов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стежок, острие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бод</ref> м. р. сукол, punctus</orth>
+      </form>
+      <sense>
+        <def>, способ шитья или вязанья, петля в плетении, штык, колючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 11—12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>bod</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скала, остров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>колотье (болезнь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>точка, пункт, укол, удар острым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>укол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>boud</ref>, род. п. buedu, м. р.</orth>
+      </form>
+      <sense>
+        <def>толчок, удар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="bod-2">*bodъ</ref> — имя со старым -о-вокализмом корня, соот­
+носительное с гл. <ref type="etymon" target="bodg-8">*bodg</ref>, <ref type="etymon" target="bosti-15">*bosti</ref> (см.), в котором мог быть обобщен 
+вторичный вокализм.</gram>
+  </gramGrp>
+  <note>Об этом в известной степени свидетель­ ствуют отношения лит. badas 'голод' (видимо, из первонач. '*колотье, боли (в животе)': слав, *bodъ 'укол') — лит. bedu, besti 'колоть, втыкать, рыть'.</note>
+</Entry>

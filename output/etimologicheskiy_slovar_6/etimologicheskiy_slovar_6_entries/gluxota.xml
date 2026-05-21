@@ -1,0 +1,175 @@
+<Entry xml:id="gluxota">
+  <pb n="145" end_page="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gluxota</orth>
+    <lemma>gluxota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глухота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота, глушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глу</ref>- вота ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота, глушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глухота</ref>, глувота ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gluhota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hluchota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота, глушь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hluchota</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухой человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hluchota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глухота, глушь, тишь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gluchota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота, тишь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 851; Dorosz. II, 1182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glayueta</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глухота</ref> ж. p.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глухота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лесная глушь, заросли (урал., свердл., том.), захолустье (свердл.), жара, духота; спертый воздух •gluxb(jb) (тобол., краснояр., свердл., том.), приданое, привозимое в дом жениха (ср.-урал.) , глухой, частый лес, лес­ ная чаща , глухота духота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин, 6, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Красноярского края 39; Сл. Среднего Урала I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глухота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глухатаж</ref>. р. то же. — Ср. сюда же производные</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глухотим</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глухотёвина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тишина, покой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>глувотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пустой колос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 366)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ota от прилаг. ^glu-хъ (см).</note>
+</Entry>

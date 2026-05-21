@@ -1,0 +1,22 @@
+<Entry xml:id="borivojb">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borivojb</orth>
+    <lemma>borivojb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Borivoj</ref> м. p., личное имя</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA I, 554)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Borivoj м. p., личное имя собств. (Gebauer I, 86), чеш. диал. borivoj 'смутьян' (Bartos Slov. 21), bofyvoj м. p. 'грубиян, не­ воспитанный человек' (Lamprecht. Slov. stfedoopav. 24).</note>
+  <gramGrp>
+    <gram>Сложение формы пов. наклонения от гл.<ref type="etymon" target="boriti-5">*boriti</ref> I <ref type="etymon" target="borti-7">*borti</ref> (см.) и 
+имени <ref type="etymon" target="vojb-2">*vojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

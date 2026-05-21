@@ -1,0 +1,21 @@
+<Entry xml:id="egyg">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬегЫгъ</orth>
+    <lemma>ЬегЫгъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Bezbir</ref>, имя собств.: Present(e) honorabil(i) vir(o), domin(o). . . Johanne dicto Bezbir, presbitero Cracouiensis dioecesis 1373 .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«SJown. stpol. nazw osobowych», I, 1, 129)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение<ref type="etymon" target="bez-2">*bez</ref> (см.) и <ref type="etymon" target="yg">*Ыгъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Садник, специально исследовавшая вопрос о форме основы Ыг- в грамм, и этимол. плане (см. Л. Садник. К проблеме этимологическо-граммати- ческих связей. «Этимология. 1968». М., 1971), по-видимому, права, когда сомневается в венг. происхождении широко рас­ пространенного др.-серб, биръ сналог', ср.-болг. биръ, болг. бир сналог, подать'. Зап.-слав, форма ^bez-Ыгъ (у Садник нет) существенно дополняет представление об ареале *Ыгъ. Слож­ ный, префиксальный характер ^bez-Ыгъ допускает объяснение от имперфективного *birati, хотя последнее, по мнению Садник, не свойственно для зап.-слав., где она констатирует обычное *berati.</note>
+</Entry>

@@ -1,0 +1,54 @@
+<Entry xml:id="goralb">
+  <pb n="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goralb</orth>
+    <lemma>goralb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horal</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>житель гор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horal</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 506)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>goral</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горец, житель гор .—Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Гаралёу</ref>, фам. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла 102)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-а1ь</ref>
+      </m> от <ref type="etymon" target="gora">*gora</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Поздний местный ха­ рактер не исключен.</note>
+</Entry>

@@ -1,0 +1,75 @@
+<Entry xml:id="gasatiII">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gasati II</orth>
+    <lemma>gasati II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hasati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, резвиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 660)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>gasatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадно есть, пожирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гасать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скакать, гарцевать на коне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., Филин 6, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гасати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, прыгать, метаться, усердно танцевать , если последнее не из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>hasac</ref>, как и</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гасаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать с высунутым языком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возможно экспрессивное образование, см. SJawski I, 409 (видит источник как чеш., так и вост.-слав, форм именно в польск.); Machek 2 162 (во многом прямо противоположная точка зрения: польск., возм., из укр., исходная форма сближается с др.-инд. (вед.) hasate 'соревноваться в беге'); N. Jokl AfslPh XXVIII, 1906, 3 (неправдоподобное объяснение из родственного ст.- слав. гнлти,жбн*); Г. А. Ильинский ИОРЯС XXIII, 1921, 236 (возводит к и.-е. *ghes- 'резать, уничтожать').</note>
+</Entry>

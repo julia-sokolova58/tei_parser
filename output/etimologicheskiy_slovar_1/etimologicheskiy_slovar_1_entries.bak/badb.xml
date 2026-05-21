@@ -1,0 +1,25 @@
+<Entry xml:id="badb">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>badb</orth>
+    <lemma>badb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>bad</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>punctus (XVII в.), sti­ mulus, заостренный стержень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 145; Елез. I; Тг. 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Обратное отглаг. производное от основы<ref type="etymon" target="badati-3">*badati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древность скорее сомнительна.</note>
+</Entry>

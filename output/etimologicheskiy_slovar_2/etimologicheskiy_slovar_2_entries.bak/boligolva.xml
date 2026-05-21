@@ -1,0 +1,96 @@
+<Entry xml:id="boligolva">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boligolva</orth>
+    <lemma>boligolva</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boligolvT</orth>
+    <lemma>boligolvT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>болй-глава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Picris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>болйглава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Cicuta virosa, куриная слепота Ranunculus ficaria, олеандр Nerium oleander , болйглав м. р. растение Cicuta virosa, цикута Conium ma- culatum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bolglowa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болиголов пятнистый, пестрый Conium maculatum L. , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>boliglowka</ref> ж. p.=szczwol</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>болиголов</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ядовитое растение Conium maculatum, болиголова растение Anthriscus sylvestris, вонючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болиголов</ref>, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Anthriscus sylvestris, Conium maculatum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>болиголова</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ва- щенко. Лшгвштична гeoгpaфiя Наддншрянщини 54)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глагольно-именное сложение с формой нов. наклонения<ref type="etymon" target="boli">*boli</ref> 
+(см. <ref type="etymon" target="boVeti">*boVeti)</ref> в первой части и именем <ref type="etymon" target="golva-5">*golva</ref> (см.) — во второй.</gram>
+  </gramGrp>
+</Entry>

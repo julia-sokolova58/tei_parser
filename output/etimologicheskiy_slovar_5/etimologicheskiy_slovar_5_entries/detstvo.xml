@@ -1,0 +1,99 @@
+<Entry xml:id="detstvo">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtьstvo</orth>
+    <lemma>dĕtьstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>детство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. дет­ <ref>ство</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>djetstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>detstuo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>detstvo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dziectwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪтъство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мла­ денчество, детство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон. Панд. сл. 4, Срезневский I, 798)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>детство</ref> ср. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дщтво</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 393)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от <ref type="etymon" target="deti">*deti</ref> (см.), <ref type="etymon" target="detb-6">*detb</ref> (см. <ref type="etymon" target="det">*det</ref>$).</gram>
+  </gramGrp>
+</Entry>

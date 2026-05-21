@@ -1,0 +1,136 @@
+<Entry xml:id="belostb">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belostb</orth>
+    <lemma>belostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Б</ref>^ЛОГТА Ж. р. Хеихбтт]^, candor</orth>
+      </form>
+      <sense>
+        <def>белизна, чистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bijelost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна, albor , бёлдст, бщёлост ж. р. белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV или с XVI в., RJA I, 295)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна, белый цвет, belostf ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belost</ref>\ bielosf ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белый цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>belosc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белизна, белый цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialosc</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>б</ref>^лостъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пал. XIV в., Срезневский I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бёлостъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>состоя­ ние, сущность, свойство белого</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 378)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бШстъ</ref>, род. п. -ости, ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский, Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бёласць</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

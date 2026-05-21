@@ -1,0 +1,27 @@
+<Entry xml:id="gobzeti">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gobьzĕti</orth>
+    <lemma>gobьzĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гобъзЪти</ref> eufhrjvelv</orth>
+      </form>
+      <sense>
+        <def>благоуспевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иов XXI. 23 по сп. XVI в., Срезневский I, 530)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>% производный от <ref type="etymon" target="gobbZb-3">*gobbZb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

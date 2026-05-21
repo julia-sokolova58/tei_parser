@@ -1,0 +1,108 @@
+<entries>
+  <entry xml:id="btarI" xml:id="btarI">
+    <pb n="140" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъtarь I</orth>
+      <lemma>bbtarb II</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbturb</orth>
+      <lemma>bbturb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbtyrb</orth>
+      <lemma>bbtyrb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>ббтур</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пень, ствол (Бо- тевградско, Георгиев), растение Cyclamen neapolitanum , с отличиями в вокализме корня и суффикса, сюда же произ­ водное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">макед. диал. <ref>бутрач</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>репейник</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Б. Ристовски. Зборови од Т и к в е ш к о . — M J II, 1951, 117)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>ЬдШг</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>Scir- pus palustris L</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XV в., R J A I, 564)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>батаръ</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>сорная трава, бурьян , батёр м. р. растение Spiraea ulmaria, таволга, таволожник, идущий на кну­ товища . — Ср. сюда же производное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(тамб., Даль 3 1, 135)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>( Д а л ь 3 I, 135)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>батёльник</ref> м. р., собир.</orth>
+        </form>
+        <sense>
+          <def>толстые стебли сорной травы и — со вставным -с бастылина, бастмльник сорная трава, которую используют как топливо в крестьянских домах</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(влад., Филин 2, 142)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(см. Фасмер I, 132, со ссылкой на С Аксакова; Фасмер считает темным словом)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное 
+с 
+суфф. 
+<m type="suffix">
+          <ref>-агъ</ref>
+        </m> / <m type="suffix">
+          <ref>-угь</ref>
+        </m> / <m type="suffix">
+          <ref>-игъ</ref>
+        </m> 
+(ср. 
+парные 
+/ <ref type="etymon" target="mezgyrb">*mezgyrb)</ref> 
+от 
+корня 
+расширение и.-е. <ref type="etymon" target="bhe">*bhe</ref>^~ 'расти, разрастаться'.</gram>
+    </gramGrp>
+    <note>Ср. 
+tbva 
+(см.). См. Георгиев 
+Б Е Р 
+I, 
+70; Sadnik-Ailzetmuller. 
+Vgl. 
+W b . 2, 71—72.</note>
+  </entry>
+</entries>

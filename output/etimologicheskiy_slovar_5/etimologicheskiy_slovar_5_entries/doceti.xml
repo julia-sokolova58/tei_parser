@@ -1,0 +1,33 @@
+<Entry xml:id="doceti">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dočęti</orth>
+    <lemma>dočęti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дочеши</ref>, ддчнём</orth>
+      </form>
+      <sense>
+        <def>(о)кончить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dociti</ref>, docnu</orth>
+      </form>
+      <sense>
+        <def>кончить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 259)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-5">*do</ref> (см.) и *-c$ti (см. <ref type="etymon" target="nac">*nac</ref>$ti, <ref type="etymon" target="pcc">*pcc</ref>$ti, 
+<ref type="etymon" target="zac">*zac</ref>$ti).</gram>
+  </gramGrp>
+  <note>На­ прашивается сравнение *doc$ti с приставочным гот. duginnan 'на­ чинать', хотя этому и препятствует консонантизм (как в при¬ ставке, так и в корне). Впрочем, герм, корневой консонантизм, отличный от ожидавшегося (*/г&lt;^и.-е. *&amp;), может объясняться предударностью задненёбного (закон Вернера).</note>
+</Entry>

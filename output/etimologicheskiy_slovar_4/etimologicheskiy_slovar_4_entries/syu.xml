@@ -1,0 +1,71 @@
+<Entry xml:id="syu">
+  <pb n="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>СЫУЬ]Ь</orth>
+    <lemma>СЫУЬ]Ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>червей</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>червь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: чёрвий м. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crvfi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>свойственный червям</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 855)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>vervi</ref>, прилаг. к cerv</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cervi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>cerwy</ref> (вместо *cerwi)</orth>
+      </form>
+      <sense>
+        <def>червивый, источенный червями (о плодах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>цервой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>червленый, красный?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Белоруссов. Местные слова Вологодской губ. — РФВ XVIII, 1887, 288)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. прилаг. (притяж.), производное с суфф. -ь/ъ от<ref type="etymon" target="sgi-4">*съгиъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Субстантивация затронула только болг.</note>
+</Entry>

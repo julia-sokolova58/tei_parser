@@ -1,0 +1,277 @@
+<Entry xml:id="edinedn">
+  <pb n="11" end_page="13" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edinъ/*edьnъ</orth>
+    <lemma>edinъ/*edьnъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edbnb</orth>
+    <lemma>edbnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>един</ref>, една, еднб</orth>
+      </form>
+      <sense>
+        <def>один , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>един</ref>, идйн, ъдйн, йедйн , ъдйн, ъннъ , еден , едън</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрд- жинско. — БД VI, 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева и К. Димчев. Речник на хасковския градски говор. — БД V, 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шап- карев—Близнев БД III, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еден</ref>, една, едно</orth>
+      </form>
+      <sense>
+        <def>один , сер­ бохорв. jedan, -дна, -дно один, также jedam</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>jen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>один (Елез. I), ёна ж. р. , ]едно, нареч. около ; jedUH, -а, -о единственный, также ]ёдйнй; сюда же jednom, нареч. один раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vuk. 388)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 550)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eden</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>один , также jeden, -dna , en , edin, прилаг. единственный, единый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 193)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeden</ref>, -dna, числ.</orth>
+      </form>
+      <sense>
+        <def>один, jediny, прилаг. единственный, единый, jen, нареч. только, лишь, также jenom</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeden</ref>, jedna, jedno, числ.</orth>
+      </form>
+      <sense>
+        <def>один, jediny, прилаг. единственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jedxjn</ref>, jeden</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jaden</ref>, jadna, jana, jadno, jano, числ.</orth>
+      </form>
+      <sense>
+        <def>один , jadny единственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 521)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Якубица</ref>)</orth>
+      </form>
+      <sense>
+        <def>единый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jaddn</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert •есЦпъ / *edbnb 72, с реконструкцией *]ейыгъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jeden</ref>, -dna, -duo</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>jany</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jaden</ref>, jedyn</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>juden</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. VVb. I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>одинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>один , одинокий, один , одинако­ вый, сходный (Пов. вр. л. введ.), некий, какой-то, некоторый (Жит. Влад.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 203; Пат. Син. XI в. 47; Ефр. крм. Крф. 122 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. 1381—1382 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский II, 616—618)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>единъ</ref>, \единъ</orth>
+      </form>
+      <sense>
+        <def>один , некоторый , одинокий (Сл. плк. Игор.) , единьныи, щдиньныи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 244; Мин. 1096 г. сент. 59 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Кир. Тур. 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 816)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 34, Срезневский I, 817)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>один</ref>, род. п. одного, одна, одно, сюда же субстантивное одина ж. р.</orth>
+      </form>
+      <sense>
+        <def>односелок, односелъе, посе­ лок в один двор, одинокий выселок , един, ёдна, (едина), ёдно один , едный один , ёдный один, единый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Даль 3 И, 1674)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской области 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских областных слов.—ЖСт. VIII, 1898, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., волог., перм., пек., ряз., яросл., вят., самар., каз., Филин 8, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>один</ref>, одна, одно, числ.</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко III, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>адзгн</ref>, род. п. аднагб</orth>
+      </form>
+      <sense>
+        <def>один</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Славянский сохранил прямое продолжение и.-е. числ.<ref type="etymon" target="eino-j">*eino-j</ref>
+      <ref type="etymon" target="omo-">*omo-</ref> ' Г в форме *]ъпъ (см.), семантика которого на слав, почве 
+продолжала 
+развиваться.</gram>
+  </gramGrp>
+  <note>В функции числ-ного '1' выдвинулась инновационная форма *ейшъ / *edbnb, представляющая собой усиление (слишком краткой?) формы с помощью местоименной проклитики ed- (ср. также *edva), сближаемой с лат. ed- в ессе (*ed-ce) и родственными. Функция сложения *ed-inb была перво- нач. выделительно-ограничительной: 'как раз один, только один'. В более длинном слове с подобной употребительностью прояви­ лась тенденция к сокращению вокализма, откуда вторичный дублет *edbnb. Эта тенденция особенно видна в еще более длин­ ных формах косвенных шт.: ст.-слав. гедиыъ — род. п. ЮДАЫОГО, русск. один — род. п. одного. Типология образования числ. '1' в разных языках подкрепляет вероятие местоименного генезиса компонента ed- в слав. *ейтъ и одновременно помогает понять различие структуры слав, и балт. (вост.-балт.) числ-ного '1': в то время как слав. *ed-inb сформировалось с помощью «ближнего» (е I i-) дейксиса, лит. vienas, лтш. viens '1' оформлено в духе «дальнего» (и-) дейксиса, т. е. начало реконструируемого вост.- балт. *v-einas надо сближать со слав. мест. *ОУЪ (СМ.), а не объяс­ нять из префикса или част. *ui-, как это делают некоторые из цитируемых ниже авторов. Литература: К. Brugmami IF XXIII, 1908, 311; Berneker I, 262; A. Meillet. Le nom de nombre «un». — MSL 22, 1921, 144; Trautmann BSW 3; Walde-Hofmann II, 821 и сл.; Фасмер III, 122; Machek 2 219 (выделяет в слав. *edinb част, ede); Stawski I, 544 (допускаемое последним родство *ей-тъ и цслав. геде-кзли 'кто бы то ни было', болг. еди-пой вносит в реконструкцию •edinbCb противоречие, ср. и Вайян, ниже, поскольку последние две формы продолжают относит, мест. *го-); Vaillant. Gramm. comparee II, 2, 619 (*/ейъ/гъ сближает с др.-инд. yddi 'если'); В. П. Мажюлис. Индоевропейская децимальная система числительных.—ВЯ 1956, № 4, 54; Fraenkel II, 1239; Э. Эрнитс. К происхождению чис­ лительного 'один' в разных семьях языков. — Советское финно­ угроведение IX, 1973, № 3, 164 и сл. *е&lt;Ипъ па desfte / *е1ьпъ па des^te: ст.-слав. юдлысылдб^ATZ, числ. порядк. 'одиннадцатый' (Sad.), болг. единайсет, единадесет, числ. 'одиннадцать' (БТР, РБЕ, Геров), также единайсе (РБЕ), макед. единаесет 'одиннадцать' (И-С), сербохорв. jedauaecm 'одиннадцать', словен. endjst, числ. 'одиннадцать' (Plet. I, 193), чеш. jedendct, слвц. jedendst 'одиннадцать' (SSJ I, 642), н.-луж. jadnasdo, janasdo (Muka Si. I, 522), полаб. janadist, числ. 'один­ надцать' (Polanski-Sehnert 72, с реконструкцией *jedbnb па desfte), также janiinacti (Polanski—Sehnert 73), польск. jedena- ecie, стар. jedenadcie, jedenajcie, диал. jedenast 'одиннадцать' (Warsz. II, 151, 152, 153), словин. jdnduscd 'одиннадцать' (Lo- rentz Slovinz. Wb. I, 388), др.-русск. одинадесАтъ, одинънат- ЦАТПЪ (Ип. л. под 1285 г.; Дух. гр. Дм. Ив. 1389 г., Срезнев­ ский I, 614), русск. одиннадцать, укр. одинадцять (Гринченко III, 39), блр. адзтаццацъ 'одиннадцать'. Более древняя модель числ-ного '1Г ('один + десять', ср. лат. un-decim, греч. ev-8exa &lt;С *sem-defcm, др.-инд. eka-daua-) сменилась в славянском инновационным описательным типом 'один на де­ сяти'. См. *edinby *raa, *des$tb. Эта инновация прослеживается, кроме слав., еще в некоторых других смежных языках, ср. лтш. vien-pa-dsmit, рум. un-spre-zeci. Лтш. числ-ное, по-видимому, — результат слав, влияния, ср. совершенно отличное образование лит. vienuolika '1Г, сближающее его с герм, ареалом. См. G. Rei- chenkron «Festschrift Е. Koschmieder», 1958, 152 и сл.; Slawski I, 545—546; Фасмер III, 122; Т. Skulina. Stowianskie liczebniki 11—19. — Z polskich studiow slawistycznych. Seria II. Warszawa, 1963, 141 и сл.</note>
+</Entry>

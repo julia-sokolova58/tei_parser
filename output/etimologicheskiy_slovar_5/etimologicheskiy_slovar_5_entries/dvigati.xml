@@ -1,0 +1,223 @@
+<Entry xml:id="dvigati">
+  <pb n="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvig(a)ti</orth>
+    <lemma>dvig(a)ti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДБИЗЛТИ</ref> xtvelv, [lexaxtvetv, movere</orth>
+      </form>
+      <sense>
+        <def>двигать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gynp., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дйгам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: двйгамъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дйгам</ref> то же , дйгъм</orth>
+      </form>
+      <sense>
+        <def>рыть, убирать (со стола) , поднимать, переносить , дйгъм се подниматься, вставать, перемещаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 297; В. Денчев. Поповско.— БД V, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев БД VI, 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дига</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйзати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать, дйНи поднять, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. , редк. <ref>digati</ref>, dvlgati</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 372, 924)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dvyzat</ref> se</orth>
+      </form>
+      <sense>
+        <def>подниматься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvigati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>duihaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>под­ нимать, будить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvihaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 349—350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zwigas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1123—1124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzwigac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 631)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvjigac</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>двищи</ref>, двигХ</orth>
+      </form>
+      <sense>
+        <def>двигать ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Каб. грам. 1389 г., Срезневский I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двигать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перемещать что-, кого-либо, не поднимая, но толкая, таща в нужном направлении, приводить в движение, заставлять действовать, производить движения чем-либо; шеве­ лить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двйгати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>носить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 361)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное от именной формы *dvigb, или скорее *d ъ Jvigb, типологически и семантически близкой нем.</note>
+  <gramGrp>
+    <gram>Zweig 'ветвь' (первонач. 'развилка') и, подобно последнему, образованной от числ. '2' (cM.<ref type="etymon" target="df">*df</ref> ъра).</gram>
+  </gramGrp>
+  <note>Развилка, подпорка, служившая рычагом, помогала осу­ ществлять движение, обозначавшееся гл-ом *dvigati, т. е. перво- нач-но—'поднимать, двигать вверх' (см. примеры выше). Ср. аналогичное слвц. диал. pososifsa 'подняться', sosif 'поднимать': socha 'развилка' (цит. по: Machek 1 463). Гл. *dvigati представляет собой слав, новообразование, как, впрочем, и исходное *d(ъ)vigb&gt; ср. параллельное возрастное обозначение<xr type="compare">см. <ref type="etymon" target="atsJvizb">*аЦъJvizb</ref>
+    </xr>. Поэтому 
+существующие и.-е. этимологии и сближения 
+с нем. zwicken 
+'щипать', др.-в.-нем. zwangan то же, ирл. dedaig 'oppressit', и.-е. 
+*асč + др.-инд. vejate 'метать', далее—с гот. du-wigan или gawigan 
+'двигать' не могут считаться вероятными. 
+См. О. Н. Трубачев «Этимология. 1964» (М., 1965), 4—6 
+(с литер.); так же см. Георгиев БЕР V, 325.. Поэтому 
+существующие и.-е. этимологии и сближения 
+с нем. zwicken 
+'щипать', др.-в.-нем. zwangan то же, ирл. dedaig 'oppressit', и.-е. 
+*асč + др.-инд. vejate 'метать', далее—с гот. du-wigan или gawigan 
+'двигать' не могут считаться вероятными. 
+См. О. Н. Трубачев «Этимология. 1964» (М., 1965), 4—6 
+(с литер.); так же см. Георгиев БЕР V, 325.. Поэтому 
+существующие и.-е. этимологии и сближения 
+с нем. zwicken 
+'щипать', др.-в.-нем. zwangan то же, ирл. dedaig 'oppressit', и.-е. 
+*асč + др.-инд. vejate 'метать', далее—с гот. du-wigan или gawigan 
+'двигать' не могут считаться вероятными. 
+См. О. Н. Трубачев «Этимология. 1964» (М., 1965), 4—6 
+(с литер.); так же см. Георгиев БЕР V, 325.. Поэтому 
+существующие и.-е. этимологии и сближения 
+с нем. zwicken 
+'щипать', др.-в.-нем. zwangan то же, ирл. dedaig 'oppressit', и.-е. 
+*асč + др.-инд. vejate 'метать', далее—с гот. du-wigan или gawigan 
+'двигать' не могут считаться вероятными. 
+См. О. Н. Трубачев «Этимология. 1964» (М., 1965), 4—6 
+(с литер.); так же см. Георгиев БЕР V, 325.</note>
+</Entry>

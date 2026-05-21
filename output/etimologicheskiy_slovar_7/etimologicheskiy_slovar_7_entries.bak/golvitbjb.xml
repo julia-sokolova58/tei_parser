@@ -1,0 +1,72 @@
+<Entry xml:id="golvitbjb">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golvitb(jb)</orth>
+    <lemma>golvitb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>главитый</ref> , прилаг.</orth>
+      </form>
+      <sense>
+        <def>главный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>главит</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>главит</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>краси­ вый, главиШу -а, -о главный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 289—290; см. еще RJA III, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glavlt</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>главный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hlavity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хороший, красивый , hlavite, нареч. хорошо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 28)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-Иъ</ref>
+      </m> от <ref type="etymon" target="golva-4">*golva</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

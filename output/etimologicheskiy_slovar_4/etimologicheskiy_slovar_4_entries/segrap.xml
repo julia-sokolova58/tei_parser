@@ -1,0 +1,36 @@
+<Entry xml:id="segrap">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сеграпъ</orth>
+    <lemma>сеграпъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Черепанъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1629 г., Тупиков 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>черепанъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>который горшки дьлаетъ , сюда же фам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Два ста­ ринных областных словаря XVIII столетия. Сообщение 11. К. Си- мони. Словарь областных слов, употребляемых в г, Устюге Вели­ ком (по записи 1757 г.).—ЖСт. V111, 1898, 447)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Черепанов.—Ср. словен. crepdnja ж. р. 'черепок 7 (Plet. I, 110), укр. диал. черепаня 'изделие из глины (горшок, миска, трубка) 7, 'изделие из дерева (миска, ложка)', 'крышка посуды', 'черепки', 'черепаха' (Карпатский диалектологический атлас 197).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-апъ</ref>
+      </m> от <ref type="etymon" target="segr">*сегръ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древность проблема­ тична.</note>
+</Entry>

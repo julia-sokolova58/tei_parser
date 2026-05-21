@@ -1,0 +1,163 @@
+<Entry xml:id="bezdetbnbjb">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdetbnb(jb)</orth>
+    <lemma>bezdetbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бездетен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -ный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бездетен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёздетан</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>южн</ref>.) бёзд]етан, -тна, -тно бездетный</orth>
+      </form>
+      <sense>
+        <def>л сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 267; РСА I, 400)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>brezdjetan</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 633)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdeten</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezdetny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezdetny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездет­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjezdzecny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jakubas 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdzietny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 77; Warsz. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бездЪтъныи</ref> liberis carens, axexvo;</orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон. Панд, сл. 4, Срезневский I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бездетный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>не имеющий детей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездгтний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяз</ref>- дзётны</orth>
+      </form>
+      <sense>
+        <def>бездетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъп</ref>
+      </m>~ от сложения <ref type="etymon" target="bez-14">*bez</ref> и det- (см. <ref type="etymon" target="det">*det</ref>$) 
+или от прилаг. архаического типа <ref type="etymon" target="bezdetb">*bezdetb</ref> 
+(см. 
+предыдущее), 
+но 
+тогда бросается в глаза 
+несоразмерность 
+ареалов 
+<ref type="etymon" target="bezdetb">*bezdetb</ref> 
+и <ref type="etymon" target="bezdetb">*bezdetb</ref>?ib.</gram>
+  </gramGrp>
+  <note>Об отношениях подобных пар см. подробнее на *bez.</note>
+</Entry>

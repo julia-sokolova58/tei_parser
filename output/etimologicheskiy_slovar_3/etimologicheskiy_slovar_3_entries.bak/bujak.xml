@@ -1,0 +1,132 @@
+<entries>
+  <entry xml:id="bujak" xml:id="bujak">
+    <pb n="82" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bujakъ</orth>
+      <lemma>bujakb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>воу</ref>^нгл м. p. рлорос, stultus; рхррарос, barbarus (Miklo- sich LP)</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бу</ref>]ак м. р.</orth>
+        </form>
+        <sense>
+          <def>заросли, чаща</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С; РЗидоескн. По- речкиот г-р 57)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бу</ref>]ак м. р.</orth>
+        </form>
+        <sense>
+          <def>потоки дождевой пли та­ лой воды , Bujak м. р., личное собств. имя (XIV в.), название горы , EyjaK, фам</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА И, 258)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 718)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PGA II, 258)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bujak</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jungmann I, 199, с пометой: sic)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>bujak</ref> м. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(SSJ I, 142)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">ст.-польск. <ref>Bujak</ref> м. р., личное имя собств. , др.-</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(XV в., Stown. stpol. nazw osobowych I, 2, 278)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>ьУкк</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>л [шрбс, stullus (Жит. Апдр. Юр.), pdppotpo? жестокий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Изб. 1073 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Срезневский I, 195)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>буяк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>племенной бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(зап., смол., Филип 3, 334)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. (<ref>ужгород</ref>., перечни., березн.) буйак</orth>
+        </form>
+        <sense>
+          <def>бык , буяк м. р. лесок в овраге, бык, растение Vac­ cinium uliginosurn</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Й. О. Дзеидзел1всь- кий, см. ниже)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 118)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-акъ</ref>
+        </m> от <ref type="etymon" target="bujb">*bujb</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Имеет характер суб­
+стантивации, указывая тем самым на первоначально 
+адъектив­
+ную принадлежность *bujb. 
+О слвц., польск. bujak, 
+укр. диал. 
+буйак см. Й. О. Дзендзел1вський. 
+Украшсько-захщнослов'янсьш 
+лексичш наралел1 27 (автор считает это слово общим слвц.-укр.-
+польск. образованием, упуская из виду ю.-слав. 
+соответствия). 
+Попытку семантич. интерпретации цслав. ьУшъ 
+на фоне данных 
+других слав, языков см. В. В. Виноградов ВЯ 
+1968, № 1, 17.</note>
+  </entry>
+</entries>

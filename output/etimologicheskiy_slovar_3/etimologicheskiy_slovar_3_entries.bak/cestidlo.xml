@@ -1,0 +1,25 @@
+<Entry xml:id="cestidlo">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cestidlo</orth>
+    <lemma>cestidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цИстило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жертвенник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иез. XLIII. 14, Срезневский III, 1466; Miklosich L P 1109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo (название орудия) от гл.<ref type="etymon" target="cestiti">*cestiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Возможно, книжная калька (приблизительная) с греч. IXacTTjpiov или лат. piaculum, букв, '(жертвенник) умилостивления'.</note>
+</Entry>

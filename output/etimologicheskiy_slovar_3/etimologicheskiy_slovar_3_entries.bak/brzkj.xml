@@ -1,0 +1,67 @@
+<entries>
+  <entry xml:id="brzkj" xml:id="brzkj">
+    <pb n="139" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrzъkъ(jь)</orth>
+      <lemma>b w z b k b ( j b )</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bfzek</ref>, -zka, прилаг.</orth>
+        </form>
+        <sense>
+          <def>быстрый, проворный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 6 8 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brzky</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>скорый, быстрый, внезап­ ный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Gebauer I, 1 1 0 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brzky</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>скорый</def>
+        </sense>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. ~(ъ)къ от прилаг. *6ъг2Ъ (см.),— 
+типичное суффиксальное расширение адъективной основы на 
+<m type="suffix">
+          <ref>-и</ref>
+        </m>, 
+о кот. свидетельствуют греч. $рау&gt;&lt;;, лат. breuis (&lt;^и.-е. 
+l<ref type="etymon" target="mrghu-s">*mrghu-s)</ref>, 
+при условии родства их со слав.</gram>
+    </gramGrp>
+    <note>Разительный 
+словообразовательный 
+параллелизм 
+к 
+слав. 
+представ­
+ляет в таком случае ир. 
+реконструируемое 
+на 
+базе 
+хотансак. mulysga- 
+'короткий', 
+согд. mwrzk 
+то же (см. о послед­
+них Mayrhofer II, 6 6 1 ) .</note>
+  </entry>
+</entries>

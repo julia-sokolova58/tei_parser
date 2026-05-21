@@ -1,0 +1,78 @@
+<Entry xml:id="bTrzota">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bT&gt;rzota</orth>
+    <lemma>bT&gt;rzota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръзота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поспешность, торопливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брздта</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>быстрота , брзота м. р, человек скорый на язык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 163)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brzota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Brzota</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott VI, 1082)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бързота</ref>, бръзота xa^os .—Сюда же производное с -/-овым суффиксом</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. X I в., Срезневский I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>брзЫгаж</ref>. р .</orth>
+      </form>
+      <sense>
+        <def>быстрота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 164)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="brz-2">*bъrzъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

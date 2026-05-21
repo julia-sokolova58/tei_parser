@@ -1,0 +1,104 @@
+<Entry xml:id="drpati">
+  <pb n="225" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrpati</orth>
+    <lemma>dьrpati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>di</ref>&gt;pna,M</orth>
+      </form>
+      <sense>
+        <def>тащить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: дръпамъ 'дергать', 'выдергивать', 'схватить')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>драпам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>притягивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дергать, выдергивать, вырывать, выклевывать, клевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>derpat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тащить, дергать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drpati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 792, 793)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfpati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ца­ рапать, греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drpati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колупать (пальцем), крошить (напр. хлеб) . — Ср. сюда же именное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drpek</ref>, drpecek</orth>
+      </form>
+      <sense>
+        <def>крошка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 68)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сравнение с *drapati (см.; так см. Berneker I, 256) требует оговорки как отдаленное: обе слав, формы являются продолжением и расширением особых и.-е. ступеней вокализма, причем *dbrpati представляет собой расширение (*dbr-p-ati) нулевой ступени и.-е. *dr-, точнее — ее слав, замены *йьг- подобно *dbr-g-ati, *dbr-k-ati, *dbr-m-ati (см. выше), поэтому прямое сближение *dbrpati как с греч. Зрело) 'ломать, резать' (Berneker, там же), так и с лит. durpaloti 'кропать' (см. К. Буга РФВ LXX, 1913, 106, кот. ре­ комендует реконструкцию слав. *dbrpati, вместо *dbrpati; ср. еще Mulenb. — Endz. I, 505: к лтш. drupt, лит. drupti 'крошиться', греч. Зрбтгш 'расчесывать, расцарапывать') не очень убедительно.</note>
+</Entry>

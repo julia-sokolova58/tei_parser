@@ -1,0 +1,58 @@
+<Entry xml:id="esetrina">
+  <pb n="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esetrina</orth>
+    <lemma>esetrina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesetrina</ref> ж. j).—jesetrovina</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PJet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>jesetrina</ref>, jeseterina ж. р.</orth>
+      </form>
+      <sense>
+        <def>осетрина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeseterina</ref>, ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>осетрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо осетра как пища</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>осетрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осетрина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 66)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="esetn">*esetn</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

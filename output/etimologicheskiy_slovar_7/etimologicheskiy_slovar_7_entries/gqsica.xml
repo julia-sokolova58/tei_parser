@@ -1,0 +1,55 @@
+<Entry xml:id="gqsica">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsica</orth>
+    <lemma>gqsica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>husice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гусенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 872; Kott I, 511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>husyca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гусь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gqsdcd</ref> ж. p. старый гусь</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гусйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гусыня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(том., кемер., новосиб., Филин 7, 245)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от -i- основы <ref type="etymon" target="gqsb">*gqsb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

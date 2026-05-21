@@ -1,0 +1,96 @@
+<Entry xml:id="glinisce">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinišče</orth>
+    <lemma>glinišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glinisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>глиняная яма , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlinisee</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>глиняная яма, глинище , чеш, стар, hliniste ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 428)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlinisko</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ' I, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gl</ref>&amp;nisce ср. р.</orth>
+      </form>
+      <sense>
+        <def>глинистый участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Глинище</ref>, местн. и водн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewassernamen I, 436)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>Hlynyszcza</ref> мн. ч., местн. название в Берестейской земле</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1500 г., Словник ст.-укр. мови X I V — X V ст. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глинище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, яма, откуда берут глину, глинница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 289)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глШшча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>глиняная копь , глиняный карьер, глинище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 80)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

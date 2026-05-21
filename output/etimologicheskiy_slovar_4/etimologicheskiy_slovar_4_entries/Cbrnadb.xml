@@ -1,0 +1,97 @@
+<Entry xml:id="Cbrnadb">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Cbrn(')adb</orth>
+    <lemma>Cbrn(')adb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfndd</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>caligo, также cfnud ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1, 848)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerned</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>порода уток Anas platyrinchos</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jun­ gmann I, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чърнАдь</ref>, чрънАдъ</orth>
+      </form>
+      <sense>
+        <def>утка особой породы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. плк. Игор., Срезневский III, 1567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чернядь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черная жирная утка , чернь, простонародье , чернеть общее название утки нырка Fuligula cristata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шейн. Дод. к сл. Даля, 1873)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чертт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черная шерстяная пряжа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чэрнець</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чернеть (утка). —Сюда же суффиксальное производ­ ное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чернАдка</ref>, чернетка ж. р.</orth>
+      </form>
+      <sense>
+        <def>плахта чёрного цвета</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 458)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-adb</ref>
+      </m> 
+от прилаг. <ref type="etymon" target="st">*сьтъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

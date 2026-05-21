@@ -1,0 +1,215 @@
+<Entry xml:id="dolina">
+  <pb n="61" end_page="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolina</orth>
+    <lemma>dolina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>долина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, низина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>долина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>долинка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>низина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот г-р 59; Видоески. Зборови од Пороче. — MJ II, 1951, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>долина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dolinka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>южный ветер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, низина (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dolina</ref> ж. р. , елвц. dolina ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, низина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dolina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина, низина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>duoldna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дошна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георг.Ам. 344; Жит. Андр. Юр. XII, 58, Срезневский I, 694; К.-Печ. пат., сп. 1406 г. 1366, Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>равнина, большая впадина между какими-либо возвышенностями в горной или холмистой местности</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>долина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>неза- росшее место в лесу (калуж.), большой участок обрабатываемой земли (курск.), гладкое, без склонов широкое место в низине, удобное для косьбы (горноалт.) , сюда же произ­ водное долинка ж. р. озерцо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 I, 1151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>долина</ref> doliSce ж. p.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 416)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>долина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>низ, нижняя часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>далгна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долина</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="dolb-2">*dolb</ref> (см.).</gram>
+  </gramGrp>
+  <note>О польск. dolina как о заимствовании из вост.-слав. см. специально S. Urbanczyk «Studia linguistica in honorem Т. Lehr-Sptawiiiski» 441.</note>
+</Entry>

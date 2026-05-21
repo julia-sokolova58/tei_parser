@@ -1,0 +1,103 @@
+<Entry xml:id="gasidlo">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gasidlo</orth>
+    <lemma>gasidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гасило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>то, чем гасят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гасило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>огнетушитель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гасило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>то, чем га­ сят огонь, пожар, свечу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gasilo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hasidlo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 660)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hasidlo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gasidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>приспо­ собление для гашения свечей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 808)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>га</ref>­ сило м, р.</orth>
+      </form>
+      <sense>
+        <def>церковный подстароста, который гасит в церкви дого­ рающие свечи (влад.), колпачок или еще что-либо, надеваемое на свечу, чтобы она погасла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гасило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>щипцы для гашения свечей в церкви</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 276)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (название орудия) с суфф. -(iJdlo от гл.<ref type="etymon" target="gasiti">*gasiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

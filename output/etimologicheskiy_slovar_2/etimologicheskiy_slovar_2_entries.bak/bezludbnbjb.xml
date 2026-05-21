@@ -1,0 +1,130 @@
+<Entry xml:id="bezludbnbjb">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezl'udbnb(jb)</orth>
+    <lemma>bezl'udbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безлюден</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безлюдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>безлуден</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безл</ref>&gt;удан, -нй, -на, -но</orth>
+      </form>
+      <sense>
+        <def>безлюд­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 408: ИТ 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezljuden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>без­ людный, обезлюдевший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezlidny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безлюдный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezVudny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjezludny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлюдный, обезлюдевший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 22; Jakubas 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezludny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлюдный, обезлюдевший, опустевший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 125; Dorosz, I, 436)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безлюдный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ненаселенный; малолюд­ ный, малонаселенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безлюдный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлюд­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязлюдны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлюдный, необитаемый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, префиксально-суффиксальное образование от основы<ref type="etymon" target="Vud-">*Vud-</ref> (см. <ref type="etymon" target="Vudbje-2">*Vudbje</ref>, */'ийъ) на базе словосочетания предл. 
+<ref type="etymon" target="bez-57">*bez</ref> (см.) и род. пад. от <ref type="etymon" target="Vudbje-3">*Vudbje</ref>.</gram>
+  </gramGrp>
+</Entry>

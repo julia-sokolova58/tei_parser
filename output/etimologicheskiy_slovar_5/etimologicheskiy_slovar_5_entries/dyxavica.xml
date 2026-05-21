@@ -1,0 +1,167 @@
+<Entry xml:id="dyxavica">
+  <pb n="199" end_page="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyxavica</orth>
+    <lemma>dyxavica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйхавица</ref>, дйхавица ж. р.</orth>
+      </form>
+      <sense>
+        <def>аорта, одышка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 356; см. еще RJA II, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dihavica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оды­ шка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dychavice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>астма, одышка, гор­ тань , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 338)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dychavice</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название болезни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. к Bart. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dychavica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>астма, одышка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dychawica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>одышка , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dychawica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(конский) сап</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(конец XV в., St. stpol. II, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dychawica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>астма, удушье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dlyjiica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>астма, удушье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дыхавица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одышка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лечебн. XVII в., Срезнев­ ский I, 765)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дихавйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>удушье, одышка, запал у лошадей, болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем. 410)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дыхавьщ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж, р. одышка (у животных, у человека — редко) , дихавйца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук, Специфическая лексика Дрогичинского Полесья. «Лексика Полесья» 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дыховица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лошадиная бо­ лезнь, сап , дйхавща ж. р. одышка (болезнь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-a</ref>
+      </m> pica от гл. <ref type="etymon" target="dyxati">*dyxati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

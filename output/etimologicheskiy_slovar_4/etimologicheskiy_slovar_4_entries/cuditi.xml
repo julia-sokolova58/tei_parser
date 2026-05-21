@@ -1,0 +1,141 @@
+<Entry xml:id="cuditi">
+  <pb n="127" end_page="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuditi</orth>
+    <lemma>cuditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чоудити</ref> СА &amp;aujxaCeiv, mirari</orth>
+      </form>
+      <sense>
+        <def>дивиться, удивляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чудя</ref> се</orth>
+      </form>
+      <sense>
+        <def>удивляться, биться над чем-либо, ломать голову, негодовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: чюдкся)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чуди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удивлять, изумлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чудити</ref> се</orth>
+      </form>
+      <sense>
+        <def>удивляться, изумляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuditi</ref> se</orth>
+      </form>
+      <sense>
+        <def>удивлятьбя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>euditi</ref> se то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 1229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чХдити</ref>, чХжХ</orth>
+      </form>
+      <sense>
+        <def>восхвалять, прославлять , чХдитисА быть восхваляемым, прославляемым (Жит. Феод. Студ. XIII в.), удивляться, пора­ жаться (Остр. ев. и мн. др.), восхищаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др., Срезневский III, 1546)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1547)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чудить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дурить, мудрить, чу­ диться казаться, мерещиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чудиться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>представляться, мерещиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чудитися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удивляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чудзйцьца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>изумляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 701)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="cudo">*cudo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,104 @@
+<Entry xml:id="belogrivbjb">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belogrivb(jb)</orth>
+    <lemma>belogrivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белогрив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белогривый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белогрив</ref>, б]елдгрив, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белогривый, с седой гривой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belohfivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белогривый, со светлой гривой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>belohfibij</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светловолосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielohrivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белогривый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialogrzywy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 476)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белогривая</ref> (лошадь)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быогрйвий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с белой, светлой гривой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белагрывы</ref>, ср. и фам. Белагрывы . См. еще Miklosich. Vgl. Gr. И, 398.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bipbma. Беларуская антрапа- шм1Я 2, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа ср. аналогичное<ref type="etymon" target="belo-golv">*belo-golv</ref>^, 
+образованное из <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и адъективно употребленной именной 
+основы *-golvъ (см. <ref type="etymon" target="golva-4">*golva)</ref>.</gram>
+  </gramGrp>
+</Entry>

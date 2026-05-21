@@ -1,0 +1,69 @@
+<Entry xml:id="belusa">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belusa</orth>
+    <lemma>belusa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>белуша</ref> (Георгиев), Бёлуша ж. р.</orth>
+      </form>
+      <sense>
+        <def>кличка белой коровы или козы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёлуша</ref>, б]ёлуша ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт самого белого винограда, белых слив, гли­ нисто-известняковая почва , bjelusa ж. р. сорт вино­ града, местн. н</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 457)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. стар, <ref>belusa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>те­ ленок, собачья кличка, женщина легкого поведения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belusa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белая корова, блон­ динка, Belusa, кличка белой коровы , фам. Бялуша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Б1рыла. Беларуская антрапан1м1я 2, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-usa</ref>
+      </m> от <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) или с суфф. 
+от 
+основы <ref type="etymon" target="yo1ikha">*Ьё1иха</ref> (см. выше).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="yo1i">*Ьё1и§ъ</ref>
+    </xr>.</note>
+</Entry>

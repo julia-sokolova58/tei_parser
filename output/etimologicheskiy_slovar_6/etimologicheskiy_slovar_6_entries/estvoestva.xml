@@ -1,0 +1,178 @@
+<Entry xml:id="estvoestva">
+  <pb n="54" end_page="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstvo/*ĕstva</orth>
+    <lemma>ĕstvo/*ĕstva</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>estva</orth>
+    <lemma>estva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>jĕstvo/*ĕstva</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье , jestva ж. р. то же , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA IV, 627)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jestvina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища, еда , jecmeuna ж. р. постная пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 627)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 744)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jestva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jestva</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>species (in apotheca) , сюда же производное jistvice ж. p. чаша, кубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Rozkochaneho nomenclator, Jungmann I, 605)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 655)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>ттва</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища (Азб. Новг. XIII в.), еда, едение (Сб. поуч. Мус.-Пушк. XIV в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ёстпво</ref> ср. р.. ёспгва ж. р.</orth>
+      </form>
+      <sense>
+        <def>яство, еда, кушанье , также ёсво , ёвство, ёство, ёсво еда , ёвстёо еда , ёвство ср. р. еда, кушанье , есва еда , ёсва, ёсъва ж. р. яство, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(распространено широко, см. Филин 9, 41; Шейн. Сказки Самар­ ского края. — РФВ XLI, 1899, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре севера Пошехоно- Володарского уезда Ярославской губернии 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., яросл., север., Филин 8, 314)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 195)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог,, вят., амур., КАССР, перм., сиб., Филин 9, 39—40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>иство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., Картотека Тимченко)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>icmeo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье .— Сюда же суфф. производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>jastewny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прожорливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>естбвный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стряпной, кухон­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., пенз., Даль 3 IV, 1522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Хстовнйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>съедоб­ ный, сытный, питательный ; далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>еставник</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горшок в полведра и в ведро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., Опыт 271)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *estvo имеет вид расширения супинной основы *estu-. Ср. лтш. qstuve 'место для еды' (Muhlenb.-Endz. s. v.)</note>
+</Entry>

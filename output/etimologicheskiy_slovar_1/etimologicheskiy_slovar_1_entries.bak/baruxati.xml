@@ -1,0 +1,23 @@
+<Entry xml:id="baruxati">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baruxati</orth>
+    <lemma>baruxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>barouchat</ref> *мять, комкать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 12—13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Представленное только в чеш. диалектах и явно экспрессивное по характеру, это образование сомнительно в отношении своей древности.</note>
+  <gramGrp>
+    <gram>Возм., из сложения приставки Ъа- и основы гл.<ref type="etymon" target="gi-">*ги-</ref>
+siti (см.).</gram>
+  </gramGrp>
+  <note>Относительно природы этой приставки в глагольном сложении см. еще под *batoriti. Ср. еще чеш. диал. (мор.) Ьагй- chat 'разрушать, разваливать', а также 'греметь', в кот. Махек объяснял Ъа- &lt; *ра- (пейоративный префикс), см. Machek 26, но с приставкой ра- у нас связано скорее представление об ис­ ключительно именном префиксе.</note>
+</Entry>

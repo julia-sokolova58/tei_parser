@@ -1,0 +1,90 @@
+<Entry xml:id="grustitis">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grustiti (s§)</orth>
+    <lemma>grustiti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grustiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>испытывать отвращение, досаду* , также грстити се, грштити се</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 482—483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>grus</ref>- tet se</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Cres, Tentor. Leksicka slaganja 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grustiti</ref> se, grstiti sey grsiti se</orth>
+      </form>
+      <sense>
+        <def>испытывать отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>zpic</ref>- mumu = съгрХститиш</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 601)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грустить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>испытывать чуство грусти, печалиться, тосковать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грустить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>печалить, огорчать , грус­ тить грозить, угрожать , гару сшить наводить уныние, досаждать , гаруститься печалиться, унывать, скучать, грущйться — груститься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(байк., влад., курск., Филин 7, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., донск., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 7, 172)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный 
+от <ref type="etymon" target="grustb">*grustb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 464—465; Bezlaj. Etim. slovar sloven, jez. I, 184.</note>
+</Entry>

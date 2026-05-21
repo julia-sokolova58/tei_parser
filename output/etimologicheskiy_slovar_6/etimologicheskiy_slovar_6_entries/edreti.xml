@@ -1,0 +1,82 @@
+<Entry xml:id="edreti">
+  <pb n="64" end_page="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędrĕti</orth>
+    <lemma>ędrĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>едрёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться крупнее, расти , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ; Геров: ядр^)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>едрёем</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedpamu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крепнуть, наливаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jezpam</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расти, разрастаться (Елез. I), jeepamu то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 623)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jadfeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наливаться, созревать (о плоде, ядре)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 595)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ядреть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>укисать, укиснуть , ядрёть, ядрйтъ о погоде — проясняться, о хлебе — зреть, созре­ вать (арх., Картотека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(иркут., Опыт 273)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="eyg">*ейгъ</ref> (см.) и с <ref type="etymon" target="edro-2">*edro</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер IV, 547; V. Pisani «Paideia» XIII, 1958, 315.</note>
+</Entry>

@@ -1,0 +1,98 @@
+<Entry xml:id="bosota">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bosota</orth>
+    <lemma>bosota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>босота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>босоногость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>bosbta</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>pedum nuditas, босоногость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV в., RJA I, 560; РСА II, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bosota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>босоногость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bosota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>босота</ref> nuditas pedum, -р^сжо^а</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сказ, о бед. Сб. XV в., Срезневский I, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>босота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нагота ног, состояние без обуви; голь, нужда, нищета</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>босота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нагота ног, нужда , босота голь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>басата</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>босяки |</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. словарь 119)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="bosb">*bosb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

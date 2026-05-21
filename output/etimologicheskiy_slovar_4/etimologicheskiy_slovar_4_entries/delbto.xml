@@ -1,0 +1,95 @@
+<Entry xml:id="delbto">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>delbto</orth>
+    <lemma>delbto</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длетб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото, резец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ътб ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско.— БД V, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длето</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>длёто</ref>, дли)ёто1</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>длйто</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото, резец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарапиЬ, РСА IV, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dleto</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото, резец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>hlitd</ref> ср. р. то же .—Сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sasel, Ra- movs 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dletko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>лезвие рубанка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Достаточно ранняя (ср. ю-слав.-чеш. ареал) и вместе с тем вторичная огласовка, сравнительно с<xr type="compare">см. <ref type="etymon" target="dolbto">*dolbto</ref>
+    </xr>, обусловленная 
+вокализмом слабо засвидетельствованного инф. <xr type="compare">см. <ref type="etymon" target="delbti">*delbti</ref>
+    </xr>, от­
+куда сербохорв. диал. dlisti. См. A. Meillet MSL 14, 1907, 376; 
+Berneker 1, 183.</note>
+</Entry>

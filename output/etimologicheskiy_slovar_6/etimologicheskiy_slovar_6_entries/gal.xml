@@ -1,0 +1,50 @@
+<Entry xml:id="gal">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galь</orth>
+    <lemma>galь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>goal</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>толстая дубинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рыба голец , галъ на галё голо, пусто , галъ ж. р. низ­ кое и сырое место , галъ открытое голое место (Картотека Псковского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 6, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(том., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Филин 6, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. диал, <ref>галъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голое, открытое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 49, 62)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сюда же ум. производное русск. диал. галёк, род. п. -лъка, м. р. 'шест, кол для проведения прямых линий в земляных работах' (арх., Филин 6, 109; Даль 3 I, 839). Связано с *gafo 1 (см.). Ср. также<xr type="compare">см. <ref type="etymon" target="golb-3">*golb</ref>
+    </xr>....</note>
+</Entry>

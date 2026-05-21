@@ -1,0 +1,59 @@
+<Entry xml:id="alovicina">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>alovicina</orth>
+    <lemma>alovicina</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jalovicina</orth>
+    <lemma>jalovicina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jalovicina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>телячья кожа</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jalovicina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>шовичина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>теля­ тина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Афан. Никит. 336, Срезневский III, 1656)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яловичина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>говядина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 540)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> 
+от <ref type="etymon" target="alovica">*alovica</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

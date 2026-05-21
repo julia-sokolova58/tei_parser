@@ -1,0 +1,91 @@
+<Entry xml:id="ezernj">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ezerьnъ(jь)</orth>
+    <lemma>ezerьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёзерен</ref>, -рна, -рно</orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jezeran</ref>, -та, прилаг.</orth>
+      </form>
+      <sense>
+        <def>озерный , je3epnu -а, -о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., RJA IV, 638)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezeren</ref>, -та, прилаг.</orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezerni</ref>, стар, jezerny, прилаг.</orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jazerny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>озёрный</ref>, озерной</orth>
+      </form>
+      <sense>
+        <def>к озеру от­ носящийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1697)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>озёрний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="ezero">*ezero</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. парал­ лелизм в лит. ezerinis 'озерный'.</note>
+</Entry>

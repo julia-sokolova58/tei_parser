@@ -1,0 +1,62 @@
+<Entry xml:id="bobisce">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobisce</orth>
+    <lemma>bobisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бббаще</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле, засеянное бобами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдбиште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле, засеянное бобами , ср. еще bobisle ср. p. Sedum telephium L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 669)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bobisce</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>бобовое поле (после снятия урожая)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bobiste</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бобовое поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="o-3">*ЬоЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,68 @@
+<Entry xml:id="dolga">
+  <pb n="61" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolga</orth>
+    <lemma>dolga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>длага</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шина, с помощью которой укреп­ ляют переломленную кость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dlaga</ref> ж. р. то же , длага ж. р. , также длаг м. р. , длази мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 469)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 361)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mic. 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dlaha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шина, применяемая при перевязке переломленной кости (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dlaha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шина, лубок, применяемые при переломе кости, брус в полу, в настиле моста и т. п</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dlaha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отесанное бревно, брус , елвц. dlaha ж. р. шина, налагаемая на перелом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 271)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно ирл. dluigim 'раскалывать', нем. Zelge '(отрезанная) ветка'. См. Berneker I, 207; Machek 2 120; Skok. Etim. rjecn. I, 416; Kluge 2 0 878—879. Объяснение болг. длага из длабка (Георгиев БЕР V, 399) фонетически неточно и лишено слависти­ ческой перспективы.</note>
+</Entry>

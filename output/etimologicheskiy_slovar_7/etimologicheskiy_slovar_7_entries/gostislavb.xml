@@ -1,0 +1,29 @@
+<Entry xml:id="gostislavb">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gostislavb</orth>
+    <lemma>gostislavb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Hostislav</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIII—XIV в., Gebauer I, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Goscislaw</ref>, Gosclaw .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XIII в., Stown. stpol. nazw osobowych II, 1, 180)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимич. двуосновное сложение<ref type="etymon" target="gostb">*gostb</ref> (см.) и <ref type="etymon" target="slava-3">*slava</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Н. D. Pohl. Die slav. zusammengesetzten Personennamen.— ONF 74/2, 37.</note>
+</Entry>

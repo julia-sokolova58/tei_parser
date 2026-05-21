@@ -1,0 +1,59 @@
+<Entry xml:id="brusbcb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusbcb</orth>
+    <lemma>brusbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брусецъ</ref> ум. м. р.</orth>
+      </form>
+      <sense>
+        <def>брусок, брусочек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brusac</ref>, род. п. -sea, м. р.</orth>
+      </form>
+      <sense>
+        <def>точильщик, брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 6 8 6 ; РСА 1J, 2 1 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brusec</ref>, род. п. -sea, м. р.</orth>
+      </form>
+      <sense>
+        <def>точильщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 6 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brusec</ref>, род. п. -see. м. р.</orth>
+      </form>
+      <sense>
+        <def>полотенце</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(rukop. llradecky, XIV r в., G e b a u o r J, 108; Сг.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="brusb-5">*brusb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

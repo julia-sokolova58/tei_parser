@@ -1,0 +1,38 @@
+<Entry xml:id="drgkj">
+  <pb n="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъgъkъjь</orth>
+    <lemma>drъgъkъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрехкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>такой, который сильно трясет, тряский, топкий, болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрогт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тряский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от гл. <ref type="etymon" target="drbgati-2">*drbgati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

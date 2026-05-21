@@ -1,0 +1,73 @@
+<Entry xml:id="bezdbbm">
+  <pb n="22" end_page="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbbm</orth>
+    <lemma>bezdbbm</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>черног</ref>.) бёздан м. р.</orth>
+      </form>
+      <sense>
+        <def>бездна, beza- dan, род. п. bezadna, м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стулли, RJA I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdeny</ref> -dna м. р.</orth>
+      </form>
+      <sense>
+        <def>бездна , brezen, -zna м. р. бездна, очень глубокое место в воде , bresen м. p. Abgrund , bezen, -zna м. p. расселина, дыра, яма, стык (напр. между досками в полу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Guts- mann 494)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bezden</ref>, род. п. bez- dena м. р.</orth>
+      </form>
+      <sense>
+        <def>пропасть, глубина , abyssus, пропасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1396 г. и др.; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>bezden</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SJ. st.-pol. I, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. адъективная форма м. р., сложение<ref type="etymon" target="bez-31">*bez</ref> (см.) и ос­
+новы <ref type="etymon" target="y">*йъ</ref>&amp;га- (см. <ref type="etymon" target="d-2">*d</ref>^no).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="bezdbbna">*bezdbbna</ref>
+    </xr>, 
+*bezd^no. 
+О словен. 
+bezen и соответствующих сербохорв. диал. bezan, bezden см. спе­
+циально P. Skok CSJZ VII, 1928, 70.</note>
+</Entry>

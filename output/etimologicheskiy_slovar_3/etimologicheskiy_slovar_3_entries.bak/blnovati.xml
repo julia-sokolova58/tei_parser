@@ -1,0 +1,30 @@
+<entries>
+  <entry xml:id="blnovati" xml:id="blnovati">
+    <pb n="159" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьlnovati</orth>
+      <lemma>bblnovati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бълнувам</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грезить и бредить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ovati</ref>
+        </m>, 
+производный от <ref type="etymon" target="1p">*Ьъ1пъ</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

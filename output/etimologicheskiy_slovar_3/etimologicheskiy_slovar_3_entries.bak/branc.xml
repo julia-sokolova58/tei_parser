@@ -1,0 +1,66 @@
+<entries>
+  <entry xml:id="branc" xml:id="branc">
+    <pb n="162" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьranьcь</orth>
+      <lemma>Ььгапьсь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brdnec</ref>, род. п. -пса, м. р. собир.</orth>
+        </form>
+        <sense>
+          <def>собранные каштаны</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 50)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>Ъгапес</ref>, род. п. -псе, м. р.</orth>
+        </form>
+        <sense>
+          <def>новобранец</def>
+        </sense>
+      </item>
+    </etym>
+    <note>Ъгапес, род. п. -пса, м. р. то же (SSJ I, 125), в.-луж. branc м. р. 
+'грабитель', польск. braniec, 
+род. п. -пса, 
+м. р. 'пленник, раб', 
+'рекрут', 
+русск. 
+диал. бранец 
+'посконь' 
+(калуж., 
+мещов.), 
+мн. 
+'орехи, упавшие с деревьев и собираемые с земли' (рыльск., судж., 
+курск., обоян.), 'молодые свежие орехи' (тул.), 'растение Turritis 
+glabra L.' (холмогорск., арх.) (Филин 3, 149), ст.-укр. 
+бранецъ 
+м. р. 'пленник, 
+невольник' (Д1ар. Фил. 138, Тимченко 
+I, 133), 
+укр. бранецъ 
+м. р. 'пленник; военнопленный', 
+'рекрут', 
+'нанятый 
+человек для выдергивания конопли' (Гринченко I, 92).</note>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ъсъ</ref>
+        </m> от прич. страд, прош. вр. 
+к гл. <ref type="etymon" target="gai">*ЬъгаИ</ref> (см.).</gram>
+    </gramGrp>
+    <note>
+      <xr type="compare">Ср. <ref type="etymon" target="gatsa">*Ьъгатса</ref>
+      </xr> 
+(выше). 
+(выше). 
+(выше). 
+(выше).</note>
+  </entry>
+</entries>

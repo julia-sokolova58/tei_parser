@@ -1,0 +1,64 @@
+<entries>
+  <entry xml:id="bsiti" xml:id="bsiti">
+    <pb n="139" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъšiti</orth>
+      <lemma>Ьъ§Ш</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бъшим</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>затаивать, укрывать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Божкова Б Д I, 2 4 3 ; Гълъбов Б Д II, 7 2 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">макед. диал. <ref>бъши</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>молчать, не созна­ ваться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Б. Видоески. Кумановскиот говор 2 5 4 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>ба</ref>- шити</orth>
+        </form>
+        <sense>
+          <def>отрицать, отказываться. — Ср., возм., сюда же недоста­ точно ясное</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>башить</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>лгать, врать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ну, уж не баши, пожалуйста. Арх., Филин 2 , 1 6 3 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m> от основы <ref type="etymon" target="lemma-3">*Ьъ</ref>§ъ (см.), *6ъх-, Ьих-, в конечном счете — 
+звукоподражат. происхождения.</gram>
+    </gramGrp>
+    <note>См. Георгиев Б Е Р II, 1 0 5 ; Skok. 
+Etim. rjecn. I, 9 1 . Русск. слово пропущено в этимол. словарях.</note>
+  </entry>
+</entries>

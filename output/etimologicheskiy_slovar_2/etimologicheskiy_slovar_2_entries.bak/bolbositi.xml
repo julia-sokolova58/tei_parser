@@ -1,0 +1,73 @@
+<Entry xml:id="bolbositi">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolbositi</orth>
+    <lemma>bolbositi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blabositi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>balbutire, заикаться, лепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., в словаре Микали, RJA I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bVabosif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балаббситъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать вздор , балаббшитъ говорить пустяки, врать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 2, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>балаббшити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, говорить , бараббсити болтать, балагурить, калякать, бить ладо­ нями по спине в игре в ярки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 28)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от основы <ref type="etymon" target="bolbos-">*bolbos-</ref>, возм., диссимили-
+рованной из <ref type="etymon" target="bolbol-">*bolbol-</ref> (см. <ref type="etymon" target="bolboliti">*bolboliti</ref>, 
+<ref type="etymon" target="o1o1">*Ьо1Ьо1ъ)</ref>, но ср. лит. bal-
+basuoti 'нявнятно говорить' (К. Буга РФВ LXX, 1913, 101), 
+кот. говорит о вероятной древности формы <ref type="etymon" target="bolbos--2">*bolbos-</ref>.</gram>
+  </gramGrp>
+</Entry>

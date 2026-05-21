@@ -1,0 +1,50 @@
+<Entry xml:id="blaznbnijb">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blaznbni»(jb)</orth>
+    <lemma>blaznbni»(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БЛАЗИАНЪ</ref>, -ZIH, прилаг. етиосраХт^, imprudens</orth>
+      </form>
+      <sense>
+        <def>подверженный ошибкам, колеблющийся, блуждающий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blaznan</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>blasphemus , blaznen, прилаг. stultus, fatuus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., в церк. книге, RJA I, 428)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(только у Стулли, RJA I, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блазнъныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ошибочный, неправильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. митр. поел. Клим., Срезневский III, Доп. 19')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы<ref type="etymon" target="blazn-">*blazn-</ref> (см. предыд.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,37 @@
+<Entry xml:id="bezdedjb">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdedjb</orth>
+    <lemma>bezdedjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bezdez</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bezdez</ref> м. р. название замка и деревни в Чехии</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>БездЪжъ</ref>, название города, бывшего где-то на нижнем Доне , ср. еще БездЪжа, деревня, пожалованная Тихвинскому монастырю близ деревни Усть-Шемушки в Новгор. волости .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1318 г., Срезневский I, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жал. гр. Лжедм. 1605 г., Срезневский, там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Старое производное с суфф. обозначающим принадлежность, от<ref type="etymon" target="bezdyod">*bezdёdъ</ref> (см. предыдущее).</gram>
+  </gramGrp>
+  <note>Далее см. Фасмер I, 144 с (литер.).</note>
+</Entry>

@@ -1,0 +1,54 @@
+<Entry xml:id="bedrica">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedrica</orth>
+    <lemma>bedrica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бедрйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сбитый хлопок, раскатанный тонкой и длинной прядью для прядения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бедрйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>б е д р о , о к о р о к , синяк, кровоподтек от удара на т е л е , р а с ­ тение Pimpinella, сорт яблок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 377)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бедрице</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>с о р т яблок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vis 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bedrica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>б е д р о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ica от древней адъективной основы</note>
+</Entry>

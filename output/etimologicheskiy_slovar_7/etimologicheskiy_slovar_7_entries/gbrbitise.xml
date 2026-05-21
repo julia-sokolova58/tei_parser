@@ -1,0 +1,167 @@
+<Entry xml:id="gbrbitise">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrbiti (se)</orth>
+    <lemma>gbrbiti (se)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърбя</ref> се</orth>
+      </form>
+      <sense>
+        <def>горбиться"* , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грба</ref> се</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско.—БД IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грби</ref> се</orth>
+      </form>
+      <sense>
+        <def>горбиться, сгибаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grbiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>горбиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 394; РСА III, 588)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбить, искривлять, морщить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбить, искривлять, hrbiti se горбиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrbif</ref> (sa)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horbic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбить, делать неровным, horbic so горбиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjar</ref>- bis</orth>
+      </form>
+      <sense>
+        <def>делать выпуклым, изгибать, gjarbis se горбиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>garbic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1042)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gur</ref>- bic</orth>
+      </form>
+      <sense>
+        <def>мять, морщить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 941; Dorosz. II, 1367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гор</ref>­ бить</orth>
+      </form>
+      <sense>
+        <def>гнуть, клонить , гбрбити горбить, суту­ лить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 932)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гбрбитися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгибаться, гор­ биться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбрбщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gbrbb">*gbrbb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

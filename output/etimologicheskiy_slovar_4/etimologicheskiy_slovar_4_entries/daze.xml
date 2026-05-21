@@ -1,0 +1,142 @@
+<Entry xml:id="daze">
+  <pb n="181" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>d a ze</orth>
+    <lemma>d a ze</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддже</ref>, с.</orth>
+      </form>
+      <sense>
+        <def>вплоть до, с тем, чтобы, длже до irplv т) usque ad (Mild., Sad.), дджи то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>даже</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>даже , сюда же преобразованное дорй даже, вплоть до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дор</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>вплоть до , даже , до тех пор, пока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>даже</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>даже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 20: цслав.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dare</ref> с.</orth>
+      </form>
+      <sense>
+        <def>по­ тому что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dar</ref>, dar do</orth>
+      </form>
+      <sense>
+        <def>вплоть до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>daze</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чтоб , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 16: Sb. si. ps. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дажъ</ref>, даже</orth>
+      </form>
+      <sense>
+        <def>чтобы , пока , если , и , даже (Р. Прав. — по Акад. сп.; По. митр. Прав.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 5-6; По. митр. Прав.; Новг. I л. под 1270 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дан. VI. 24; Златостр. XII в.; Кир. Тур. 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вопр. Кир.; Грам. 1130 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 235; Афанас. о Мелхсд.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 624—625)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>даже</ref>, союз, выражающий предел до чего, крайность, крайнюю, высшую степень . Ввиду того что конструкцию *da ze трудно отделить от *do ze как формально, так и семантически , а также учитывая природу плеонастических расшире­ ний этой конструкции в</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1021)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ср. др.-русск., русск.-цслав. доже 'до' (Срезневский I, 689) = ст.-слав. дджб 'до, вплоть до', см. выше)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дджб</ref> до</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доже</ref> до, дожи до, можно ставить вопрос об этимологич. родстве *da (см.) и *do (см.). Исконно дейктич. сущность обеих форм очевидна. Достаточно стар, словосочетание праслав. *da ze помо­ гает, т. о., дополнительно осветить генезис свободно употребляе­ мого *da, одновременно указывая на вторичный характер вока­ лизма этого последнего .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(неточно Георгиев БЕР VI, 413, где гово­ рится об «-о- вместо -а-» в болг. дорй 'даже')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Болг. дорй, сербо­ хорв. диал. dor, dorl, dure (выше), словен. dar содержат результат спорадического ю.-слав. ротацизма -f-&gt;-r-. См. еще Skok. Etim. rjecn. I, 418—419 (там же в общем верно сказано о местоим. природе d- в предл. do).</note>
+</Entry>

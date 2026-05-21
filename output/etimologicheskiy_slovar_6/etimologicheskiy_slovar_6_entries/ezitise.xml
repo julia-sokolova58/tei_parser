@@ -1,0 +1,157 @@
+<Entry xml:id="ezitise">
+  <pb n="36" end_page="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ežiti (sę)</orth>
+    <lemma>ežiti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. редк. <ref>ёжа</ref> се</orth>
+      </form>
+      <sense>
+        <def>ощетиниваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёжа</ref> се</orth>
+      </form>
+      <sense>
+        <def>ощетиниваться , ёжа съ ощетини­ ваться, сердиться , ёжъ съ надуваться, хорохориться , йёжъ съ гордиться, важничать , ёжим се ощетиниваться , ёжум съ угрожающе ощетиниваться, гото­ виться к нападению</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 171)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. БД IV, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 301)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близ- нев БД III, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ежи</ref> се</orth>
+      </form>
+      <sense>
+        <def>топор­ щиться, щетиниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. {<ref>ёжити</ref> се</orth>
+      </form>
+      <sense>
+        <def>топорщиться, щетиниться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeiiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>вставать дыбом, ощетиниваться, топорщиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeiiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ощетинивать, топорщить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jeiit</ref> se</orth>
+      </form>
+      <sense>
+        <def>сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeiitf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ощетинивать, топорщить, jeiWsa вставать дыбом, още­ тиниваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 652)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jeiyi</ref> se</orth>
+      </form>
+      <sense>
+        <def>ерошиться, горя­ читься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jezyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топорщить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jlezec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ёжить</ref>¬ ся, укрЛжитися</orth>
+      </form>
+      <sense>
+        <def>щетиниться, важничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 197)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на производный от<ref type="etymon" target="e">*е</ref>!ь (см.).</gram>
+  </gramGrp>
+</Entry>

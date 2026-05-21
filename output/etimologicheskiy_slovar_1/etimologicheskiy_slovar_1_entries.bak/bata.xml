@@ -1,0 +1,247 @@
+<Entry xml:id="bata">
+  <pb n="162" end_page="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bata</orth>
+    <lemma>bata</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bat'a</orth>
+    <lemma>bat'a</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>batja</orth>
+    <lemma>batja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бате</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>старший брат (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бать</ref> м. р .</orth>
+      </form>
+      <sense>
+        <def>отец, кум; старший брат , баку м. р. старший брат , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р ; Стойчев Б Д II, 127: бати. р . ' к у м ' )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бако</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>старший брат, о т е ц (Младе­ нов Б Т Р ) , балъо м. р. то же , далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>баща</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отец ( Б Т Р )</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бате</ref> м. р .</orth>
+      </form>
+      <sense>
+        <def>старший брат ( И - С )</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бата</ref> м. р . , ласкат.,</orth>
+      </form>
+      <sense>
+        <def>брат, друг, приятель, отец, свекор, де­ верь, пожилой человек , бато м. р . то же, часто в знач. отец, далее — Ъаса м. р. б р а т , ст.-чешек. bat а м. р . брат, фамильярное обращение ( Х р о н . Далимила, X V в.; Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 325)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( R J A I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdta</ref> м. р . , обращение к добродуш­ ному или глупому человеку, отсюда, далее, вторичные производ­ ные</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>batik</ref> м. р .</orth>
+      </form>
+      <sense>
+        <def>братец , batik м. р. милый , batck м. р . брат, милый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1490 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( X V — X V I вв., там же; Simek 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Simek 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>batik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>братец , batek, род. п. -tka, м. р. б р а т</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>batek</ref>, род. п. -Vka м. р.</orth>
+      </form>
+      <sense>
+        <def>маленький, коренастый парень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>batice</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>сестрица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer 1, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdfa</ref> м. р . , особенно в обращении</orth>
+      </form>
+      <sense>
+        <def>известный, немолодой человек , отец, дядя, старший брат , сюда же производное baVko м. р . , при фамильярном обращении, известный, немоло­ дой человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>батА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отец, pater , а также производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только один раз, Ип. летоп. под 1161 г. Срезневский I, 45—46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>батъко</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тверск. летоп. под 1160 г.. Срезневский III, Доп. 8'; Г р . берест, новг. № 290, X I I I — X I V вв., Картотека С Д Р )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>батя</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отец, священник</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>батя</ref> м. р. (презрит, и пренебреж.)</orth>
+      </form>
+      <sense>
+        <def>отец, дед, крестный отец, старший брат, т е с т ь , почтительное или ласковое обращение к старшему по возрасту, друг, приятель , вто­ ричные производные батюшка м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>батька</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отец , бачкя о т е ц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Труды М Д К . Словарь к отве­ там на программу по Тамбовской г у б . — Р Ф В L X V I , 1911, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>батъко</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отец , духовный отец , батко м. р. , у к р . батъко м. р . о т е ц , также — почтительное приветствие пожилому человеку , батя, ум. от батъко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1548 г . )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1562 г. там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко 1,33; Укр.-рос. словн. I, 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бацъка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отец, батюшка</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Вынесенные в заглавие статьи формы не исключают друг друга взаимно, но являются хронологическими вариантами, из кот. *bata — древнейший (реально засвид. в сербохорв.). остальные обнаруживают смягчение (экспрессивной природы), с наиболее законченным результатом в болг. (*batja). Форма *bata весьма архаична и по своим особенностям может быть поставлена в один ряд с другими простейшими названиями род­ ства (*baba, *рара, *iata, *тата), которые характеризует двух- сложность (нередко — чистая редупликация), однородный во­ кализм, принадлежность к экспрессивной сфере словоупотребле­ ния, как бы наделяющая их чертами ахронии. Эти особенности способствуют тому, что данная форма, будучи типологически очень древней, вместе с тем лучше всего подходит для того, чтобы подключаться к некоторым более развитым словообразовательно, тематизированным и семантически более нейтральным назва­ ниям родства на правах ум. формы. Поэтому мы имеем основания не рассматривать известную этимологию *bat'a как деминутива от *brat(r)b (см. Berneker I, 46; Machek 26—27) как последнюю досягаемую инстанцию истолкования нашего слова. Можно ска­ зать, что мужской термин родства *bata 'отец, дядя, стар­ ший брат, старший, почтенный мужчина' вторично соотнесен с *ЪгаА(г)ъ (см.). Заслуживает упоминания этимология, выдви­ нутая в принципе еще Соболевским, кот. сближал русск. батя, болг. баша с др.-инд. pita, греч. тгаттр, лат. pater (А. И. Соболев­ ский Р Ф В L X I V , 1910, 149; он же И О Р Я С X X V I I , 1924, 330 1), однако совершенно излишне при этом его предположение о заим­ ствовании славянами у скифо-сарматов. Здесь налицо озвончение (т. е. ослабление артикуляции) р^&gt;Ь, с р . напр. ит. ЪаЪЪо 'папа', при нейтральном padre 'отец', экспрессивное по природе, что же касается несоответствия в вокализме между старой акутовой долготой *bata (сербохорв. Ьаса) и краткостью и.-е. pdter, то вторична как раз краткость ( &lt; *pa-ter). Далее см. подробно, с литературой, Трубачев. Слав. терм, родства 21, 195 и след. См. еще Фасмер I, 135; Sadnik—Aizetmuller. V g l . W b . 4, 226; А . А. Бурячок. Назви спорщненост1 i свояцтва в укр. MOBi ( К ш в . 1961) 10 и след.</note>
+</Entry>

@@ -1,0 +1,74 @@
+<Entry xml:id="capiti">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>capiti</orth>
+    <lemma>capiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>capiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>avide comedere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ca</ref>­ piti</orth>
+      </form>
+      <sense>
+        <def>царапнуть, схватить, ударить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ca</ref>- pif</orth>
+      </form>
+      <sense>
+        <def>схватить, поймать, цапнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>capiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, швырнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>цапитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цара­ пать, (пек., твер.) стащить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 IV, 1248)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="capati">*capati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

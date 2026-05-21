@@ -1,0 +1,52 @@
+<Entry xml:id="globovati">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*globovati</orth>
+    <lemma>globovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глббвам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>втыкать, всовывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глобува</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>штрафовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глобувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оби­ жать кого; причинять кому боль, неприятность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., Вх. Зн. 11, см. Гринченко I, 290)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, соотносительный с <ref type="etymon" target="globa">*globa</ref>, <ref type="etymon" target="globb">*globb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Болг.- макед.-укр. изоглосса. Древность проблематична.</note>
+</Entry>

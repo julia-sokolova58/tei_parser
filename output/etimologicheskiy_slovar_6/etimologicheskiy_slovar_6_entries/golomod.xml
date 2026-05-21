@@ -1,0 +1,59 @@
+<Entry xml:id="golomod">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golomǫdъ</orth>
+    <lemma>golomǫdъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>holomudec</ref>, род. п. -dee, м. р.</orth>
+      </form>
+      <sense>
+        <def>не­ зрелый в половом отношении человек , далее — преобразованное holomek, holumek м. р. служитель (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holomek</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>молодой, неженатый человек, судебный служитель, исполнитель, прохвост</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 719)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holomok</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>подручный па­ лача, бездельник, негодяй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>golomqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свободный, но безземельный человек, батрак, служитель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1463 г., St. stpol. II, 452)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="golb-10">*golb</ref> (см.) и основы <ref type="etymon" target="myda">*myda</ref>, <ref type="etymon" target="mydbje">*mydbje</ref> (см.), с последую­
+щими сокращениями и преобразованиями в чеш.</gram>
+  </gramGrp>
+  <note>См. Machek 2 175; St. Urbanczyk. Staroczeskie holomek i staropolskie golomqd. — JP X X X V I I I , 281-282; M. Basaj, J. Siatkowski «Studia z filo- logii polskiej i stowianskiej» 6, 1967, 19.</note>
+</Entry>

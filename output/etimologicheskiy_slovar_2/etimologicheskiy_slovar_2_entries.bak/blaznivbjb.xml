@@ -1,0 +1,82 @@
+<Entry xml:id="blaznivbjb">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blaznivb(jb)</orth>
+    <lemma>blaznivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blazriiv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>adulatorius, ласкающий , блаз- нив, -а, -о соблазнительный, ласковый, злой, беспокойный, буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., в словарях Беллы и Стулли, RJA I, 429—430)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blaznlv</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>помешанный, дурацкий, сумасшедший, с преступный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bldznivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>душевнобольной, ненормальный, неразумный, буйный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bldznivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>душевнобольной, сумасшедший, шальной, сумасбродный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blazniwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупый, безумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blazniwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сумасшедший, дурацкий, глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 41-42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -iv- от основы<ref type="etymon" target="yagp">*Ыагпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

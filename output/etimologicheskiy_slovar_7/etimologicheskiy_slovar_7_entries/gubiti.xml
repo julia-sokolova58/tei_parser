@@ -1,0 +1,200 @@
+<Entry xml:id="gubiti">
+  <pb n="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gubiti</orth>
+    <lemma>gubiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гоувити</ref> tbcoXXoetv, perdere</orth>
+      </form>
+      <sense>
+        <def>губить, уничтожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>губя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять, утрачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров также — 'гублю')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>губя</ref> се</orth>
+      </form>
+      <sense>
+        <def>хиреть, слабеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>губи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять, проигрывать, (фольк.) губить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>губити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять, утрачивать, губить, губити се теряться, худеть, тощать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gubiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вредить, наносить ущерб, портить, губить, терять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hubiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>губить, уничтожать, истреблять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hubif</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hubic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>портить, уничтожать, губить, опустошать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gubtt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>губить, истреблять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gubid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять, утрачивать, губить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz, II, 1362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gubic</ref> se</orth>
+      </form>
+      <sense>
+        <def>теряться, терять ориентацию</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gubjic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гХбити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>губить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в.; Ио. екз. Бог. 225; Сбор. Троиц. XII в. 53, Срезневский I, 607)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>губить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уничтожать, истреблять; портить, делать негод­ ным</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>губить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять , губить одоле­ вать (о сне) (перм., свердл.), губить ячеи при вязке сетей — завязывать две ячеи одним узлом, чтобы сузить полотнище сети (пек.) , сюда же отглаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ворон., Опыт 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 194)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>производное губЛный 'плотный' (пек., Опыт 43), 'плотный, добротный (о материи)' (пек., Филин 7, 197), укр. губити 'губить, истреблять, уничто­ жать', 'терять' (Гринченко I, 335), блр. губщь 'губить', сюда же гублЛць 'терять'.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), 
+соотносительный 
+с <ref type="etymon" target="gbbngti-3">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Z. Gotab. The grammar of Slavic caus. 10. Ср. еще Berneker I, 361; Фасмер I, 469; Stawski I, 376. Недопустимо сближение с лит. zavlnti 'губить', zuti 'погибать' (см. J. Kurz «Slavia» 24, 1955, 144, вслед за К. Яначеком), т. к. эти лит. слова родст­ венны слав. *zovy,<xr type="compare">см. <ref type="etymon" target="zbvati">*zbvati</ref>
+    </xr>.</note>
+</Entry>

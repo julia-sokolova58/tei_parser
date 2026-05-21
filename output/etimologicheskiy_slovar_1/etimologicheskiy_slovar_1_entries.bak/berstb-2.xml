@@ -1,0 +1,28 @@
+<Entry xml:id="berstb-2">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstb</orth>
+    <lemma>berstb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёрестъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево Ulnius campestris , народное название береста-кара­ гача Ulmus campestris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 2, 257)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Словообразовательно-морфол. вариант к<xr type="compare">см. <ref type="etymon" target="ey-2">*ЬеЫъ</ref>
+    </xr>. 
+Древ­
+ность выделения 
+сомнительна.</note>
+</Entry>

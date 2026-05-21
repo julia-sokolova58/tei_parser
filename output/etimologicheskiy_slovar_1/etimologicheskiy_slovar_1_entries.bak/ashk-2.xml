@@ -1,0 +1,39 @@
+<Entry xml:id="ashk-2">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьа&amp;шкъ</orth>
+    <lemma>Ьа&amp;шкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdsnik</ref> м. р. Чюэт</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>basnlk</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>басникъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>знахарь, шептун, колдун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 60)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от <ref type="etymon" target="basnb">*basnb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

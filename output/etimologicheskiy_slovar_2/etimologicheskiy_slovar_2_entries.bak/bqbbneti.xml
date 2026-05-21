@@ -1,0 +1,63 @@
+<Entry xml:id="bqbbneti">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqbbneti</orth>
+    <lemma>bqbbneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бабне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, стукнуть, ударить, набухать, разбухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. , <ref>бубнетп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bobneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо греметь, раздаваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бубнъши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разбухать, взбухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н.-Волын. у., Грин­ ченко I, 104)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ей</ref>
+      </m>, производный от <ref type="etymon" target="dp">*ЬдЬъпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

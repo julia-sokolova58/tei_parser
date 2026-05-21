@@ -1,0 +1,37 @@
+<Entry xml:id="cvbknqti">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cvbknqti</orth>
+    <lemma>cvbknqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuekniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сказать глупость, брякнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar slo­ ven, jezika I, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цвъкиХти</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Не имамъ оставити его и цвъкноути или еще живоу быти. Жит. Феод. Сик. Мин. чет., Срезневский III, 1436)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, 
+соотносительный с <ref type="etymon" target="cuikati-2">*cuikati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

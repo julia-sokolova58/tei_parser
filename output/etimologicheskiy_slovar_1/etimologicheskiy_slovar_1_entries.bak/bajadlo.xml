@@ -1,0 +1,37 @@
+<Entry xml:id="bajadlo">
+  <pb n="136" end_page="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajadlo</orth>
+    <lemma>bajadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бащло</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>колдун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук КарапиЬ; Р С А I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баяла</ref> м. и ж., баялка ж. р.</orth>
+      </form>
+      <sense>
+        <def>то же, что баюн, го­ ворун, рассказчик . bajadlbcb Первонач. имя действия с суфф. -dlo от основы Ьа- с вторично проведенной тематизацией под влиянием формы гл.<xr type="compare">см. <ref type="etymon" target="bajati-2">*bajati</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Филин 2, 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Более древний вид именной основы, возм., представлен в образо­ ваниях на<ref type="etymon" target="badl-">*ba(d)l-</ref> 
+(см. ниже).</gram>
+  </gramGrp>
+</Entry>

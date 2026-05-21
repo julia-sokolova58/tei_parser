@@ -1,0 +1,52 @@
+<Entry xml:id="glistav">
+  <pb n="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glistavъ</orth>
+    <lemma>glistavъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глйстав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>больной глистами , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глистаф</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глйстав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>больной глистами*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glistav</ref>, прилаг. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218; Kastelec: glistou — verminosus)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(а)иъ от<ref type="etymon" target="glista">*glista</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

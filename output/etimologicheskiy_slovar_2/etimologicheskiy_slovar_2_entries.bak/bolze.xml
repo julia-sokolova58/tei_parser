@@ -1,0 +1,89 @@
+<Entry xml:id="bolze">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolze</orth>
+    <lemma>bolze</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>благе</ref>, нареч.: блазе ми</orth>
+      </form>
+      <sense>
+        <def>я счастлив , блазёму — выражение зависти хорошо ему</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Въбел, Никопол- ско, Плев, окр., дип. раб. Архив Софийск. ун-та; М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>bldzi</ref>, нареч. от blago</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Хорв. При­ морье, а также у одного автора XVI в., RJA I, 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blaze</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>блаженно, счастливо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болозё</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>благо, хорошо, ладно , бб- лозе: Болозе загребли сено, а то дождик пошел , болозе благо , болбзя благо, хорошо , бблози хорошо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Герасимов. Сло­ варь уездного Череповецкого говора 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Бе- лоруссов. Местные слова Вологодской губ. — РФВ XXIII, 1887, 279)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>балазё</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хорошо, что, благо, что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэщи 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>балазё</ref>, балбсъ</orth>
+      </form>
+      <sense>
+        <def>хорошо, что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Каре- лицк. р-н, Гродн. обл., Мат. 152)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ранняя лексикализация грамматической формы — местн. п. ед. ч.<ref type="etymon" target="bolze">*bolze</ref> от краткого, именного прилаг. <ref type="etymon" target="bolgb">*bolgb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Опи­ санная адвербиализация охватывает, по нашим материалам, болг., сербохорв. чеш., русск. и блр.</note>
+</Entry>

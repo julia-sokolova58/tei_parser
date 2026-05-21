@@ -1,0 +1,103 @@
+<Entry xml:id="glotn">
+  <pb n="139" end_page="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glotьnъ</orth>
+    <lemma>glotьnъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глбтеп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смешанный (с семенами сорняков) , глбтна, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Радуил, ИССФ VIII, IX, 363, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глотен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>смешанный с семенами сорняков (о хлебе) , глотно ср. р. сор, мусор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глотан</ref>, глотан, -тна, -тно, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сорный, непропеченный, клеклый (о хлебе), грязный, безобразный, бедный, скудный (о земле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>глотан</ref> л,еб</orth>
+      </form>
+      <sense>
+        <def>дурной, негодный для еды; таким считают хлеб из озимой ржи; в герц, краях глотно жито — нехорошо очищенное и глотно все, что плохо , глотгаанневкусный , глотна, прилаг. нечи­ стая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровин- ский 647)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Елез.'1)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(о роженице через 40 дней после родов)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(GP 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gloten</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сорный {glotno Шоч glotno zrnje, Plet. I, 219)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глотно</ref>, глгтно</orth>
+      </form>
+      <sense>
+        <def>тесно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290: Ольгой, у.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>глгтно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тесно . •glozbje Прилаг., производное с суфф. -ъпъ от<xr type="compare">см. <ref type="etymon" target="glota">*glota</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Р. Шило. Швденно-захццп говори УРСР на швшч в1д Дшстра 243)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Как и производящее слово, известно только в ю.-слав. и отчасти — в вост.-слав.</note>
+</Entry>

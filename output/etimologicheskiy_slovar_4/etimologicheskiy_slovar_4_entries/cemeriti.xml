@@ -1,0 +1,43 @@
+<Entry xml:id="cemeriti">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cemeriti</orth>
+    <lemma>cemeriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cemeriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>venenare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 937)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cemeriti</ref> se</orth>
+      </form>
+      <sense>
+        <def>гноиться (о ранах), cemeriti дразнить, cemeriti se сердиться , emeriti se то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PJet. I, 107)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="seteg">*сетегъ/</ref>
+      <ref type="etymon" target="setega-2">*сетега</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

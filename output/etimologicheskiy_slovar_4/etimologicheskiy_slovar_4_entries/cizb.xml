@@ -1,0 +1,152 @@
+<Entry xml:id="cizb">
+  <pb n="125" end_page="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cizb</orth>
+    <lemma>cizb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cizbkb</orth>
+    <lemma>cizbkb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cizikb</orth>
+    <lemma>cizikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cizaky</ref> род. п. clska, м. p.</orth>
+      </form>
+      <sense>
+        <def>Frin­ gilla spinus L., чиж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>clzek</ref>, род. u. -zkay м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж Fringilla spinus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чиж Fringilla spinus, cizek, род. п. -zkay м. p. то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>clz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чиж , cizik м. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cizik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cyz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж Fringilla spinus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czyz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чиж , czyzyk м. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ciskM</ref>. p.</orth>
+      </form>
+      <sense>
+        <def>чиж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Чижъу</ref> личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1498 г., Тупиков 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>чижик</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>acanthis (Ф. Поликарпов, Лексикон треязычный), чижу род. п. -а, м. р. небольшая певчая птица сем. вьюрковых</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чиЖу</ref> -ау м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж Fringilla spinus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх., Грин­ ченко IV, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чыЖу</ref> чыжык м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж Garduelis spinus L., щегол Garduelis carduelis L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(H. В. Никончук. Полесские назва­ ния птиц. «Лексика Полесья» 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чыж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чиж</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Звукоподражат. название птицы. См. D. Boranic. Onomatopejske rijeci za zivotinje u slavenskim jezicima. — «Rad» 178, 1909, 12; Berneker I, 158—159; Л. А. Булаховский. Общеславянские на­ звания птиц. — ИАН ОЛЯ VII, 1948, 112; Фасмер IV, 360, cubatbjb</note>
+</Entry>

@@ -1,0 +1,55 @@
+<Entry xml:id="bogotb">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogotb</orth>
+    <lemma>bogotb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogotb</orth>
+    <lemma>bogotb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boxotb</orth>
+    <lemma>boxotb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bohot</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>изобилие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ббгот</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бочаг, коблюх , ббгот, боготб*глубокое место в водоеме, яма , ббгатъ ж. р. болотце, лужа с топкой почвой , ббхотъ ж. р. вода, покрывающая лец на реке, наледь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре севера Пошехоно-Володарского уезда Ярославской губ. 87, там же формы богбтье, богбтьо)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 3, 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 54; Филин 3, 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>По-видимому, суффиксальное (-ot-) производное, но относи­ тельно характера образования основы трудно высказаться опре­ деленно.</note>
+  <gramGrp>
+    <gram>Возможно первонач. звукоподражание, что объясняло известную неустойчивость консонантизма (<ref type="etymon" target="bog-">*bog-/</ref>
+      <ref type="etymon" target="box-">*box-)</ref>.</gram>
+  </gramGrp>
+  <note>Связь с корнем *bagno (см.; так Фасмер I, 183) доказать трудно. На па­ раллелизм словен. bohot и русск. диал. бохотъ впервые обратила внимание Л. В. Куркина (см. «Этимология. 1966» [М., 1968], 106), однако она оставляет в стороне упомянутую выше русск. лексику с согласным -г- в корне, что, может быть и нецелесообразно, ср. близость ббгатъ I б охать, возможность смешения г фрикатив­ ного и х в части русских диалектов и, наконец, возможность h &lt; g на словенской диалектной почве.</note>
+</Entry>

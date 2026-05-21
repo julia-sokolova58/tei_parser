@@ -1,0 +1,184 @@
+<Entry xml:id="bratanb">
+  <pb n="236" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratanb</orth>
+    <lemma>bratanb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratanbkb</orth>
+    <lemma>bratanbkb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratanbCb</orth>
+    <lemma>bratanbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>британец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>племянник, сын брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>братанец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сын брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243; Гълъбов БД II, 71; Шапкарев-Близнев БД III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>братанец</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bratan</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>filius fratris, племянник (XIV в.), соврем. — ум. от brat брат, братец , брата- нац, род. п. -нца, м. р. племянник, сын брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 598; ср. также РСА II, 111—112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>братанац</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bratan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сын брата, племянник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bratanec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сын брата, племянник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 910)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bratanek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>племянник, сын брата , brataniec м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do­ rosz. I, 649)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>братанъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоюродный брат, &lt;Ьв&lt;]н6с, consobrinus сын брата, filius fratris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1132 г., Срезневский I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. обл. <ref>братан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>родной или двоюродный брат, брат, братец , двоюродный брат, родной брат , брат (волог., ленингр., новг., пек., твер., моек., ка­ луж., тул., влад., яросл., костр., пенз., вят., перм., урал., сиб.), двоюродный брат (вят., перм., ленингр., новг., волог., влад., яросл., тул., кемер., том., тобол., сиб.), троюродный брат (волог., олон.), сводный брат (пенз., иркут., сиб.), названный брат (твер., арх.), сосед (перм.), сдруг, товарищ (новг., моек., яросл., перм., твер., калуж., урал.) , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликов­ ский 6)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 152—153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братанокъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сын брата, племянник , братанецъ м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>племянник, братанецъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>братанэц</ref>\ род. п. -ни</orth>
+      </form>
+      <sense>
+        <def>а, м. р. неродной брат (двоюродный, троюродный и т. д.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского По­ лесья. — «Лексика Полесья» 22)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное (с помощью суфф.<m type="suffix">
+        <ref>-апъ</ref>
+      </m>, 
+-ап-
+<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m>, 
+<m type="suffix">
+        <ref>-ап-ъсъ</ref>
+      </m>) 
+от <ref type="etymon" target="bga">* бга</ref>^ъ (см.).</gram>
+  </gramGrp>
+</Entry>

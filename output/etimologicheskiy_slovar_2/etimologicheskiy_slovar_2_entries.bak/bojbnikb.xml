@@ -1,0 +1,44 @@
+<Entry xml:id="bojbnikb">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojbnikb</orth>
+    <lemma>bojbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ббйник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица Philomachus pugnax, рыба определенной породы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бо</ref>]нйп м. р. (черно- горек.)</orth>
+      </form>
+      <sense>
+        <def>боец, pugnator, забияка, драчун, homo pugnax (R J A s. v. : с XVI в.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bojnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>боец, воин , стар, bojnik Todtschlager. Homicida</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Megiser Dictionarium 1744)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Субстантивированное производное с суфф. Лкъ от основы прилаг-ного<xr type="compare">см. <ref type="etymon" target="bojbrib">*bojbrib</ref>
+    </xr>.</note>
+</Entry>

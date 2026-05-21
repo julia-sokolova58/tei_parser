@@ -1,0 +1,53 @@
+<Entry xml:id="globati">
+  <pb n="133" end_page="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*globati</orth>
+    <lemma>globati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глббам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тыкать еду вилкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД V I , 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть, глодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырывать, •globiti выкапывать, натачивать, грызть , golbati fгрызть, глодать . — Ср., с отличием в исходе основы, сло­ вен. globsti выдалбливать, вырезать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet, I, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *globa,<xr type="compare">см. <ref type="etymon" target="globb">*globb</ref>
+    </xr>....</note>
+</Entry>

@@ -1,0 +1,78 @@
+<Entry xml:id="dgna">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьgna</orth>
+    <lemma>dьgna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъгна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рубец, шрам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дагна</ref> ж. р., даггьа ж. р.</orth>
+      </form>
+      <sense>
+        <def>съедобный морской моллюск Mytilus galloprovincialis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dehna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>cacodaemon, злой дух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1360, 1364 гг.; Slovnfk Jana Vele&amp;na, 1558, см. Kott VI, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziegna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цынга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 655)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>дъгна</ref>, дегна</orth>
+      </form>
+      <sense>
+        <def>знак заживающей раны, струп , пятно , дъгна, догна рубец от раны, струп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лев. XIII. 2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Еутх. 30. Мин. Чет. апр. 114, Срезневский I, 767)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лев. XIII. 2; Псалт. толк. XII в. пс. L. 3, Срезневский I, 753—754)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. dygti 'прорастать, пускать ростки', diegti 'колоть'.</note>
+  <gramGrp>
+    <gram>В польск. слове представлена вторичная назализация (см. Bruck­ ner 112: «е, nie pierwotne»), поэтому видеть в нём сложение и.-е.<ref type="etymon" target="dent-">*dent-</ref> 'зуб' и слав. <ref type="etymon" target="gniti">*gniti</ref> (так Shevelov. A prehistory of Slavic 190) 
+было бы ошибкой.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 250; Machek 2 113 (допускает связь с *degbtb, см.); Фасмер I, 493; Skok I, 372. Соотносительно с<xr type="compare">см. <ref type="etymon" target="dbgriqti">*dbgriqti</ref>
+    </xr>....</note>
+</Entry>

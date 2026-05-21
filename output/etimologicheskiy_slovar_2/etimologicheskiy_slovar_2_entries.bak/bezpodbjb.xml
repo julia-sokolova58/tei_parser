@@ -1,0 +1,24 @@
+<Entry xml:id="bezpodbjb">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezp)odbjb</orth>
+    <lemma>bezp)odbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezplody</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бесплодный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., образованное сложением<ref type="etymon" target="bez-73">*bez</ref> (см.) и основы имени 
+<ref type="etymon" target="plodb">*plodb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Об архаичности данного словообразовательного типа прилаг-ных см. подробности на *bez.</note>
+</Entry>

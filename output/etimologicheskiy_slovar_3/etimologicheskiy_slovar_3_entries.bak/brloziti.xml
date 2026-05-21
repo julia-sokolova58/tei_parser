@@ -1,0 +1,80 @@
+<entries>
+  <entry xml:id="brloziti" xml:id="brloziti">
+    <pb n="170" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrložiti</orth>
+      <lemma>bbrloziti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брложити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>устраивать хлев для свиней, брло- жити се валяться, лежать (о свиньях)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>брложити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сорить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(напр. Тг. 127)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brloziti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>залегать, обитать в логове (о зве­ рях)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 64)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brnoziti</ref> (se)</orth>
+        </form>
+        <sense>
+          <def>работать кое-как</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brlozif</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>лежать, валяться (в постели)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>barlozyc</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>мусорить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Maciejewski, Chelm.-dobrz. 144)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на - Ш , производный от <ref type="etymon" target="bbrlogb">*bbrlogb</ref> / -а (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

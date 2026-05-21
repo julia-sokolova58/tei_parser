@@ -1,0 +1,75 @@
+<Entry xml:id="bezgovbnbjb">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgo!vbnb(jb)</orth>
+    <lemma>bezgo!vbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ьбзг</ref>\&amp;кшъ, прилаг. dxecpaXog, capite carens</orth>
+      </form>
+      <sense>
+        <def>безголовый, без головы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзглаван</ref>, -вна, -вно</orth>
+      </form>
+      <sense>
+        <def>без главы (напр. семья, дом)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezgldven</ref>, -una, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безголовый, без головы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezglowny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(De acephalis albo о bezgjownych ludziach. X. Chmielowskiego, Ateny I, 102. Linde I9 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безголбвное</ref> (дело), ср. уголовное , безголбвный, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>уголов­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 185)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от сложения<ref type="etymon" target="bezgolvbjb">*bezgolvbjb</ref> 
+(см.) или префиксально-суффиксальное образование с помощью 
+<ref type="etymon" target="bez--4">*bez-</ref> и -ъп- от <ref type="etymon" target="golva-2">*golva</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. еще на *bez-, где дополнительные соображения об отношении *bezgolvb — *bezgolvbnb.</note>
+</Entry>

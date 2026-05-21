@@ -1,0 +1,22 @@
+<Entry xml:id="briskati">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>briskati</orth>
+    <lemma>briskati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>brdskac</ref>, briscq</orth>
+      </form>
+      <sense>
+        <def>обваривать, ошпаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 77)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. образование. Ср. параллельное<xr type="compare">см. <ref type="etymon" target="bryzgati">*bryzgati</ref>
+    </xr>.</note>
+</Entry>

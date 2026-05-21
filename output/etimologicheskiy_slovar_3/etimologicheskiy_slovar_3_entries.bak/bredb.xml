@@ -1,0 +1,65 @@
+<Entry xml:id="bredb">
+  <pb n="13" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bredb</orth>
+    <lemma>bredb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bred'b</orth>
+    <lemma>bred'b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бред</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>конопляные изгреби , бред м. р. н и ж н я я часть хлебного снопа , бред м. р. н и ж н я я часть хлебного снопа; срез (петерб.), брёд верхняя часть снопа (петерб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Гера­ симов. О говоре крестьян южной части Череповецкого уезда Новгородской губернии. — ЖСт. I I I , 1893, 376; он же. Словарь уездного Череповецкого говора 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(петерб., Доп. к Опыту 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>брэд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>острие ножа . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бредь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхняя часть снопа , бредь ж. р., брёдка ж. р. вершина снопа, колосья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 3, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской области 34, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возм., родственно основе *brid- (<xr type="compare">см. <ref type="etymon" target="gyk">*ЪгЬйъкъ</ref>
+    </xr> 
+и др., ниже). 
+В предшествующих словарях (Бернекер, Фасмер) особо не вы­
+делено или же попросту пропущено, может быть, благодаря мол­
+чаливому отождествлению с *Ъгейъ 
+I и II (см.), однако этого 
+не позволяют делать значения 'срез', 'острие' и смежные (см. 
+выше).</note>
+</Entry>

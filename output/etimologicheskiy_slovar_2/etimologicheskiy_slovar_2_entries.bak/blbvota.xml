@@ -1,0 +1,37 @@
+<Entry xml:id="blbvota">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'bvota</orth>
+    <lemma>bl'bvota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блевота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>продолжительная тошнота, повто­ ряющаяся рвота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блювбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блевотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от гл. <ref type="etymon" target="bVbvati-3">*bVbvati</ref> (см. выше).</gram>
+  </gramGrp>
+  <note>См. также след.</note>
+</Entry>

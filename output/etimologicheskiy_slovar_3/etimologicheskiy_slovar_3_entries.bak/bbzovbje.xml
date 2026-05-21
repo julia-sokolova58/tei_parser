@@ -1,0 +1,44 @@
+<Entry xml:id="bbzovbje">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbzovbje</orth>
+    <lemma>bbzovbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>bazgov</ref>\e ср. p.</orth>
+      </form>
+      <sense>
+        <def>locus sambucis refertus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezgdvje</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>кусты бузины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bzovi</ref>, bezovi ср. p. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 61, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ)е (собир.) от прилаг.<ref type="etymon" target="goi">*Ьъгоиъ</ref> 
+(см.); 
+или — с суфф. -ovbje в той же функции от <ref type="etymon" target="g-3">*Ьъгъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

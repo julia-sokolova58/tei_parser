@@ -1,0 +1,197 @@
+<Entry xml:id="dlg">
+  <pb n="179" end_page="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъlgъ</orth>
+    <lemma>dъlgъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>длъгъ</ref> м. р. 6&lt;реčХт]р.а, Saveiov, debitum</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дълг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>длъг</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>долг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг, долг, обя­ занность , серб.-цслав. длъгъ ар-артеа грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук. ев. XIII в. 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дуг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 783)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolg</ref> м. р. да дг</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dluh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>doth</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг, долги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>atog</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>ddug</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Р о •dblziti lanski—Sehnert 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dlug</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dlug</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дългъ</ref>, длъгъ, дълъгъ, долгъ</orth>
+      </form>
+      <sense>
+        <def>долг , дань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XVIII. 27. Остр, ев.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. Дм. Ив. 1389 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 757)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обязанность перед кем-, чем-либо, деньги, взя­ тые или отданные заимообразно</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дояг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>доуг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>долг (взятое взаймы)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Слово с недостаточно ясной этимологией. Гот. dulgs 'долг 7, изо­ лированное в герм, языках, некоторые авторы считают займете, из слав. См. С. Lottner KZ XI, 1862, 174; Machek 2 121. Пред­ положение о заимствовании из герм, (гот.) в слав, пытаются под­ крепить ссылками на наличие ряда других гот. заимствований в слав, и на прочие нелингвистич. факторы. См. Berneker I, 244; N. van. Wijk IF XXIII, 1908, 373. Равным образом допускали родство слав, слова как с гот. dulgs, так и с ирл. dligim 'заслу­ живать, претендовать', см. Berneker, там же.</note>
+  <gramGrp>
+    <gram>Допускаемая при этом праформа слав.<ref type="etymon" target="dblgb">*dъlgъ</ref>, надо сказать, слишком близко подво­
+дит нас к известному <ref type="etymon" target="dblgb">*dъlgъ</ref>, прилаг. 'длинный, долгий' (см.), 
+чтобы эту близость игнорировать.</gram>
+  </gramGrp>
+  <note>См. это сближение: Преобр. I, 188—189; Bruckner 90; F. G. Mohl MSL 7, 1892, 419 (в понятие долга включался срок). Обычно приводимые как контраргумент интонационные различия между обоими слав, словами (ср. хотя бы сербохорв. дуг 'долг', но дуг 'долгий, длинный') объяснимы как показатель словопроизводных отношений на ранней стадии фор­ мального тождества имени и древнего прилаг-ного. В последнее время обстоятельную попытку новой этимологии предпринял Ондруш, см. S. Ondrus. Prvotny vyznam a povod slova dlh. — «Slov. rec» 39, 1974, 136 и сл. (от *del-j*dol- 'ру­ бить', т. е. 'долг' как 'зарубка', что, однако, сомнительно, как и отнесение к гл. 'рубить' русск. должъ, должен 'дощечка, закры­ вающая продольное отверстие улья', явных производных от долгий 'длинный').</note>
+</Entry>

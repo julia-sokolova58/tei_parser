@@ -1,0 +1,226 @@
+<Entry xml:id="elito">
+  <pb n="21" end_page="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elito</orth>
+    <lemma>elito</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jelito</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колбаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 582)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>olito</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, колбаса , jalito ср. р. колбаса из самой толстой кишки (кровяная и т. п.) , jelito кишка , olita pi. t. ки­ шки, кишечник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(хорв. Приморье, RJA VIII, 894)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лика, RJA IV, 442)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tentor. Leksicka slaganja 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelita</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт колбасы , olito ср. p. кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 820)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelito</ref> ср.</orth>
+      </form>
+      <sense>
+        <def>сорт кровяной колбасы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jelito</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крово­ подтек , елвц. jelito ср. р. колбаса, желудок, кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jelito</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колбаса , jelto ср. р. котомка, внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jelito</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>потроха, кишки, пузо, брюхо, пучина, ра­ нец или котомка из бычачьего пузыря , jelito ср. p. пузо, брюхо, желудочная колбаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 543)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jelito</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, колбаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>aleta</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>конечности и внутренности, потроха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Pomor. I, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ялитй</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 539)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ялйты</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>яйца у самца животных, ядра . — Сюда же производные (с сильным преобразованием исходной формы)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носович 727)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>литбха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, наполненная калом , литоха большое брюхо, обжора (сев.- двинск., Картотека Словаря русских народных говоров), литбка книжка, одна из частей желудка рогатого скота , литбшка малый желудок у коровы , литбшки тре­ буха животного , литбнья ж. р. третий желу­ док жвачных, книжка , дурная часть внутрен­ ности животного (моек., Картотека Словаря русских народных говоров), литония третий желудок в утробе животного , литбмия книга, второй желудок у жвачных (Картотека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 II, 661)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(сиб., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пенз., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 661)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бур- нашев, там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Поскольку преобладающее и, по-видимому, древнейшее знач. слова<ref type="etymon" target="elito">* elito</ref> было 'кишка, кишки' (см. выше; знач. 'колбаса'— 
+вторично из 'кишка'), 
+нелегкие поиски этимол. 
+связей 
+слав. 
+<ref type="etymon" target="elito">*elito</ref> нужно вести с учетом того, как сформировались старые 
+оригинальные названия кишки -в разных языках. Думается, что 
+Бернекер, сближавший 
+слав, слово (после неубедительного отде­
+ления элемента е- / о- как «и.-е. предлога» со ссылками при этом 
+на чисто г л а г. лексику — греч. e-fteXo), 6-хеХХо), б-xpova)) с греч. 
+dXfvo) 'мазать, 
+умащать', 
+ХГтос 'гладкий', 
+лат. 
+lino, 
+llui, Шит 
+'намазывать', 
+упустил из виду как раз этот интересный момент 
+типологии. Напр. русск. кишка и родственные 
+(см. 
+<ref type="etymon" target="kysbka">*kysbka)</ref> 
+этимологизируется как первонач. 
+'внутренность, полость', тогда 
+как лит. zdrna 
+'кишка' 
+имеет родственные связи с лексемами 
+'лента, полоса', 'жила, струна'; семантика 'бечевка, шнурок' и
+'кишка' 
+тесно переплетена в нем. Gam 
+и родственных герм, 
+словах. Поэтому можно попытаться сблизить слав. <ref type="etymon" target="el-ito">*el-ito</ref> (где 
+-ito — суфф.) с нем. Aal 
+'угорь' (и.-е. <ref type="etymon" target="yoo-">*ё/о-)</ref>, также в более древ­
+нем знач. 
+'полоска (напр. в ткани)' и, возм., с др.-инд. ali-
+'полоса, линия'. 
+Традиционное сравнение слав. <ref type="etymon" target="elito">*elito</ref> с неясным др.-прусск. 
+laitian 'колбаса' дает мало, еще меньше дает сближение Брюк-
+нера с лат. Ша 'внутренности', поскольку долгота лат. I здесь 
+явно заместительного происхождения; 
+совершенно произвольно 
+сравнение <ref type="etymon" target="elito">*elito</ref> с лат. botulus 'колбаса' у Махека. 
+См. Berneker I, 452—453; A. Bruckner KZ XLVI, 1914, 197; 
+J. Endzelin 
+ZfslPh XVIII, 1942, 122; J. Scheftelowitz KZ 53, 
+1925, 248; Фасмер II, 503 (:литбнья); Walde-Hofm. I, 678—679; 
+Pokorny I, 309—310; Machek
+2 222.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,37 @@
+<Entry xml:id="drvoton">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъvotonь</orth>
+    <lemma>drъvotonь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрвотон</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>поленница дров , слонен. druoton м. р. место для рубки дров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 677)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дроватбня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>место, где рубят дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 146)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="drbvo-3">*drbvo</ref> (см.) и именной формы Нопъ(ъ)от гл. <ref type="etymon" target="t">*t</ref>$ti (см.).</gram>
+  </gramGrp>
+</Entry>

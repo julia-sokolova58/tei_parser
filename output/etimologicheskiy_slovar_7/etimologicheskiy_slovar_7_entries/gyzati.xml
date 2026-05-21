@@ -1,0 +1,35 @@
+<Entry xml:id="gyzati">
+  <pb n="223" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzati</orth>
+    <lemma>gyzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>г1жаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кшг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в 3 л. ед. ч. гЬжьщь)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А што там людзёй тых было, чаш усё место гЬжало. Сц* Зэльв. 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив-дуратив на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+точнее 
+jati, 
+от гл. 
+<ref type="etymon" target="gbzii">*gbzii</ref> 
+с продлением корневого гласного ъ -&gt; у.</gram>
+  </gramGrp>
+  <note>В 7-м вып.</note>
+</Entry>

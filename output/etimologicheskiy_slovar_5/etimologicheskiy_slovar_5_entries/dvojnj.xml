@@ -1,0 +1,153 @@
+<Entry xml:id="dvojnj">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojьnъ(jь)</orth>
+    <lemma>d(ъ)vojьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двоен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двоен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>deojan</ref>, -;?ш, к -/но</orth>
+      </form>
+      <sense>
+        <def>двоякий, двойной, обоюдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvojen</ref>, -jna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvojny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvojny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>двойной, двойственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dwojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dwojny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двойной, двойственный; двуличный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 597)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двойной</ref>, -ая, -бе</orth>
+      </form>
+      <sense>
+        <def>состоящий, сделанный из двух однород­ ных или подобных предметов, вещей, частей и т. п., вдвое боль­ ший, увеличенный в два раза, сюда же субстантивированное двойня ж. р. двое детей, рожденных одновременно одной ма­ терью (близнецы)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>двойня</ref> , двойни мн.</orth>
+      </form>
+      <sense>
+        <def>два покоя, изба и горница, поставленные вместе под одной крышей (арх., волог.), вилы с двумя зубьями (арх.), орех-двойчатка (вят.) , двбйны мн. двойня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 291)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(куйбыш., Филин 7, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двшнйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>двойной, двухсторонний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>двайны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="dbvojb">*d(b)vojb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

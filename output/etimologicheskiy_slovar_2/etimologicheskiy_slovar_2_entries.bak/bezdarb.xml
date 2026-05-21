@@ -1,0 +1,21 @@
+<Entry xml:id="bezdarb">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdarb</orth>
+    <lemma>bezdarb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>В</ref>(i)ezdar, имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1389, 1391 гг. «Stown. stpol. nazw osobowych», I, 2, 162)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-10">*bez</ref> (см.) и <ref type="etymon" target="yag">*йагъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Русск.-цслав. бездарьныи аосорос, donorum expers, dona поп accipiens, поп praebens 'не имеющий или не получающий даров, их не дающий' (Поуч. исп. XV в., Срезневский I, 54) и некоторые близкие образования (напр., в ст.-слав.) надлежит рассматривать особо как литератур­ ную кальку, возм., с греч. образца.</note>
+</Entry>

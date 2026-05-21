@@ -1,0 +1,104 @@
+<Entry xml:id="cstina">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>c§stina</orth>
+    <lemma>c§stina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чёстина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сито (для муки) , чёсгщнъ, чёстинъ ж. р. решето , также честит ср. р. частое сито для муки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С Младенов. Към речника на Ново Село.—СбНУ XVIII, 1901, 505)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 241)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Го- ворът на Ново Село, Видинско 295; Герога: чястина ж. р. то же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>честина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелкое решето, сито</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>честйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мелкое решето для сеянья (проса и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; С. Поповски. Зборови од Мариово.—МЛ, 1950, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>честйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бук, RJA: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>частина</ref>, чАстина</orth>
+      </form>
+      <sense>
+        <def>чаща , род ткани</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ис. IX. 18. Библ. 1499 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Смол, гр. 1229 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>частина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гу­ стой лес, заросли, кустарник, где трудно пройти, трущоба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>частина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>частый холст</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русск. старожильческих говоров средней части б. реки Оби. Доп. II, 262)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="s">*с</ref>^1ъ (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,104 @@
+<Entry xml:id="bidlbce">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bidlbce</orth>
+    <lemma>bidlbce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bilce</ref> ср. p., ум. к bilo</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bidelce</ref> ср. p. спалка, жердь</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bidielce</ref> ср. p., ум.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бйлъце</ref> ср. p., ум. к било , бйлъца мн.</orth>
+      </form>
+      <sense>
+        <def>продольные бруски у бороны , бйлъцы мн. деталь ткацкого станка, служащая для сбивания ниток (курск.), дощечки у саней, к которым привязывают верх (кибитку) (влад.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., смол., Филин 2, 292)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(донск., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>билце</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то, чем бряцают на струнах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 210, Тимченко I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бйлъце</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перила, (у люльки) рама, (у кровати, стула и т. п.) спинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, стр. 58—59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бйлъця</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>края колыбели, скамьи и т. п., на которые опираются локтями , ср. бйлецъ, род. над. -лъця, м. р. било, короткая часть цепа, которою молотят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. С. Ващенко. Словник полтавських говор1в. Харк1в, 1960, 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kolb., Гринченко I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бглъцы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>перила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэщи 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсе</ref>
+      </m> от <ref type="etymon" target="bidlo">*bidlo</ref> (см. предыд.).</gram>
+  </gramGrp>
+</Entry>

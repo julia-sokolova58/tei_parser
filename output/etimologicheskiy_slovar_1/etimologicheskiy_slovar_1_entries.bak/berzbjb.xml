@@ -1,0 +1,32 @@
+<Entry xml:id="berzbjb">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzbjb</orth>
+    <lemma>berzbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (редк.) <ref>bfizi</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>березовый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bfezi</ref> (krdva)</orth>
+      </form>
+      <sense>
+        <def>пестрая, белая с красным или черным (о корове)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 26)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь/ь притяжательное прилаг. от<ref type="etymon" target="berza">*berza</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

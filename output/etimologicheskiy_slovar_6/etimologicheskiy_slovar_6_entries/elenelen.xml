@@ -1,0 +1,195 @@
+<Entry xml:id="elenelen">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elenъ/*elenь</orth>
+    <lemma>elenъ/*elenь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>е1епь</orth>
+    <lemma>е1епь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>жлбЫА</ref> м. p. IXacpos, cervus</orth>
+      </form>
+      <sense>
+        <def>олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>елён</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>олень Cervus elaphus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>елен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>j</ref>^en, ]Ьлеп м. р.</orth>
+      </form>
+      <sense>
+        <def>олень Cervus elaphus L. жук-олень Lucanus cervus L. также jelin м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., RJA IV, 580)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jelen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вол, по масти на­ поминающий оленя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelen</ref>, род. п. jelena, м. p.</orth>
+      </form>
+      <sense>
+        <def>благородный олень Cervus elaphus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelen</ref> м, p.</orth>
+      </form>
+      <sense>
+        <def>олень Cervus elaphus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jeVeh</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>жук-олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bar- tos. Slov. 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jelen</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>олень благородный Cervus elaphus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jelen</ref>, род. п. -nja, м. p.</orth>
+      </form>
+      <sense>
+        <def>олень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jelen</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 542)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jelen</ref> м. p.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jelin</ref>, leleii, lelin, wielen, wilen</orth>
+      </form>
+      <sense>
+        <def>олень Cervus elaphus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>олень</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Поуч. Влад. Мон.; Пайс. сб. 163, Срезневский II, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>еленъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ис. XXXIV. 15; Гр г Наз. XI в. 31, Срезневский I, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>олень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жвачное парнокопытное млекопитающее, с ветвистыми рогами и коротким хвостом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>олень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>олень , также бльнь м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>алёнь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>олень</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Продолжает основу на согласный и.-е. * el-en- / *el-n-, почему уже давно предпринимались попытки реконструировать праслав. парадигму в виде им. *е/г/, род. *elene (Брандт, ниже; собст­ венно говоря, у него даны формы щ\ъ\, юлеыб ст.-слав. типа). Как и во многих других таких случаях, славянский обобщил форму вин. п. *е1епъ, с последующим переводом всей парадигмы в -о- основу. Ср. лит. elnis, стар, elenis 'олень, лось', лтш. alnis 'лось', арм. eln 'лань', греч. eXXos (*elnos) 'олененок', eXacpos (*elnbhos) 'олень', кимр. elain ^ehnl) 'косуля', тохар. A yal, ylem 'газель'. Далее связывают с однокоренными цветообозна- чениями. См. еще *olni. См. Р. Брандт РФВ XXII, 1889, 133; A. Meillet MSL 14, 1907, 375; Berneker I, 263—264; Фасмер III, 134—135 (с литер.); Fraenkel I, 120; Specht. Ursprung 115; Vaillant. Gramm. compa- гёе II, 1, 197—198; Stawski I, 556; Джаукян. Очерки по истории дописьм. периода арм. яз. 241; В. Георгиев ВЯ 1958, № 6, 20; Pokorny I, 303—304.</note>
+</Entry>

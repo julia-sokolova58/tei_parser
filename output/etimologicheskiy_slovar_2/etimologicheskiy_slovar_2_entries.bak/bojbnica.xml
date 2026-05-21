@@ -1,0 +1,119 @@
+<Entry xml:id="bojbnica">
+  <pb n="168" end_page="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojbnica</orth>
+    <lemma>bojbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бойница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>метание икры рыбами , бой­ ница ж. р. бойница, амбразура в стене</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бо</ref>)ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>рыба Chondrostoma nasus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>божница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боевое (ружье, орудие)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA s. v.: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>воительница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bojnice</ref> ж. р., местное на­ звание</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бойница, отверстие для стрельбы в стене</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бойница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бойня, место, где бьют скот , деревянный молот, которым бьют (убивают) скот по лбу, для того, чтобы, как говорят, скорее освежевалась (пек.), курок ружья (тюмен.), выбоина, глубокая колея на дороге, образующаяся осенью от колес (куйб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Филин 3, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бойница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>башня, с которой стреляют</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Рук. Хрон. 126 и др., Тимченко I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бойнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бойница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от основы прилаг. <ref type="etymon" target="op">*Ьо]ъпъ</ref> (см.), 
+<ref type="etymon" target="bojbna">*bojbna</ref>, субстантивация этого последнего.</gram>
+  </gramGrp>
+  <note>В равной степени производна и семантика, отличающаяся разнообразием. Ср. след.</note>
+</Entry>

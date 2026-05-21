@@ -1,0 +1,238 @@
+<Entry xml:id="golengoleno">
+  <pb n="201" end_page="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golenь/*goleno</orth>
+    <lemma>golenь/*goleno</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goleno</orth>
+    <lemma>goleno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гблен</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голщен</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень, го- лён ж. р., (редк.) м. р. , golijeno ср. p. , также производное голёницо ж. р. голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 432)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень , также gole.no ср. р. , golenica ж. р. голень, голенище (сапога) , golenko ж. р. свид чулок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; Strekelj 12: с указанием на влияние грамм, рода слова koleno)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>holeh</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>crus, tibia (Ст.-чеш., Прага), также holeno ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 453; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holeh</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень (у животных), голенище (сапога)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>golen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>golen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>икра (ноги)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 867)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>guelen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>голень</ref>, голЪнъ ахеХод, crus ,</orth>
+      </form>
+      <sense>
+        <def>часть ноги между коленом и ступней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. X I X . 33. Остр, ев.; Ефр. Крм. Апл. 77; Козм. Инд., Срезневский I, 547—548)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1118 г., Срезневский III, 76')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голень</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть ноги от колена до ступни</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>голень</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>«голое», не на­ резанное место на винте (олон)., железный прут, из которого делается бурав (новг.) , гблянъ ж. р. открытое место в озере, не защищенное от ветра; водная гладь , голень веник , гблено часть шестерни водяной мельницы , ср. еще го- ляно ж. р. голень; голые икры ног , сюда же производное голянка ж. р. рукавица (новг., пек., твер., сиб.), передник без рукавов в женском (девичьем) тради­ ционном костюме (ряз., тул.) , голенище ср. р. часть чулка, охватывающая, покрывающая голень; паго­ ленок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 291)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Филин 6, 351)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 6, 291)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 291)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Филин 6, 350)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 350—361)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ворон., Филин 6, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>Голенка</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1485—1500 гг., Словник ст.-укр. мови X I V — X V ст. I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голънка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень , голъбнка ж. р. трубчатая кость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>голъбнка</ref>, голъбнка</orth>
+      </form>
+      <sense>
+        <def>голень , голънка предплечье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомирщины. — Славянская лексикография и лекси­ кология 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дорошенко. Матер1али до словника д1алектно1 лексики Сумщини 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галёнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>галёнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть руки от локтя до плеча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -еп- от<ref type="etymon" target="golb-4">*golb</ref> (см.): возм., подразуме­
+вается голая, не закрытая одеждой, штанами нижняя часть ноги 
+(ср. еще любопытное блр. диал. знач. 'часть руки', точнее 'го­
+лая часть руки'!).</gram>
+  </gramGrp>
+  <note>См. Miklosich 70; А. Соболевский «Slavia» V, 1927, 441—442; Bruckner 149 («о голой кости в противополож­ ность икре»); Фасмер I, 428; Stawski I, 311. Напротив, совершенно искусственной как фонетически, так и семантически представляется этимология, сближающая *golenb (якобы из *guolen-) с греч. paXov 'углубление, полость; выпук­ лость', 'ладонь, горсть', см. Berneker I, 321. Еще менее прием­ лемо метатезное сближение слав, слова с герм. *lagja-, откуда др.-исл. leggr 'трубчатая кость, икра, стебель' (J. Otrqbski. Studia indoeuropeistyczne 85; Machek 2 175).</note>
+</Entry>

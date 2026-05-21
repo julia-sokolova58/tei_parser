@@ -1,0 +1,77 @@
+<Entry xml:id="bagnb">
+  <pb n="126" end_page="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagnb</orth>
+    <lemma>bagnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bagan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болото при ключе, растение багун Le­ dum palustre, багульник, зоря , bagon м. p. б а ­ гульник болотный Ledum palustre , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bagen</ref>, род. п. -gna м. ^.=bagan</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka Sj. I, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>багбн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>багульник , баган м. р. б о л о т о , багульник , багун м. р. кустарник багульник Ledum palustre</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 89)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 89)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части бассейна р. Оби 1, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Ledum palustre L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>багун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>багульник Ledum palustre L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Местные н.-луж., р у с с к . , укр., блр. рефлексы, при всем их разнообразии, являются прямым продолжением праслав. *bagrw. Следовательно, речь может идти не о суффиксах -ан, -он, -ун, 'bagqtbnbjb как могло бы показаться на первый взгляд, а только о местных вторичных вокализациях группы -gn-.</note>
+  <gramGrp>
+    <gram>Обратное производное (<ref type="etymon" target="a">*Ьа</ref>^/гъ м. р.) от <ref type="etymon" target="bagno-3">*bagno</ref> ср. р. (см.) для обозначения растения 
+Ledum palustre, багульника.</gram>
+  </gramGrp>
+  <note>Ср. Фасмер I, 103, где сказано весьма осторожно: «возм., к багнб». Там же справедливо отвер­ гается сближение Соболевского с греч. срт^ос, лат. fagus. Подробно о названиях багульника (включая такие вторичные производные как русск. багульник, диал. багунник) см. В. А. Меркулова «Этимол. исследов-ия по русск. яз.» I l l (М., 1961) 15—17. Неправ В. И. Абаев («Studia linguistica slavico-baltica С.-О. Falk . . . o b - lata». Lundae, 1966/1968, 1 и след.), кот. отделяет явно вторичные варианты — диссимилятивное багула, багульник — и сближает их с далекими нем. Wachol-der 'можжевельник' и осет. iva^yly 'шиповник'.</note>
+</Entry>

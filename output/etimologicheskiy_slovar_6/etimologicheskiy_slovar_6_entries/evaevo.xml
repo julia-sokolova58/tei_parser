@@ -1,0 +1,102 @@
+<Entry xml:id="evaevo">
+  <pb n="8" end_page="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*e va/*e vo</orth>
+    <lemma>e va/*e vo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>e vo</orth>
+    <lemma>e vo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. (<ref>др.-болг</ref>.) еко</orth>
+      </form>
+      <sense>
+        <def>вот (Манассиева хрон., см. Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёва</ref>, ёво</orth>
+      </form>
+      <sense>
+        <def>вот , также ёве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ева</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>вот , также ёеъ , евё вот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Поливанов БД I, 179)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Стоиков, К. Костов и др. Говорът на с. Говедарци, Самоковско. — Известия на Инст. за бълг. ез. 4, 1956, 302; Божкова БД I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еве</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>вот, вот здесь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ёво</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вот, глядь, также евё</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 36—37: с XIV—XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>евё</ref> (Елез. I), jeuo</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA IV, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>heu</ref>, hevaj</orth>
+      </form>
+      <sense>
+        <def>сюда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>эва</ref>, нареч.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Щ *edinakb(jb) 'вот' (пек., Опыт 271), ёва, два, межд. 'вот где, там или тут' (Даль 3 I, 1277), ёво, ёво, ёва, ёва, указат. част, 'вон, вот' (пек., новг., ленингр., волог., арх., яросл., твер., моек., калуж., Филин 8, 312), межд. при выражении удивления (пек., волог., там же), ёво 'вот' (Картотека Печорского областного словаря).</note>
+  <gramGrp>
+    <gram>По-видимому, скорее сочетание<ref type="etymon" target="e">*е</ref> (см.) и указ. мест. <ref type="etymon" target="ouo">*ОУО</ref> 
+(см. <ref type="etymon" target="oi">*оиъ)</ref>.</gram>
+  </gramGrp>
+  <note>См. J. Zubaty. Studie a clanky II, 93; Георгиев ВЕР VI, 474, 475. Мнение об особой част, -va и.-е. происхождения, ср. др.-инд. va 'даже', лит. va, диал. ve 'вот, глядь', см. Фасмер IV, 513; I, 262.</note>
+</Entry>

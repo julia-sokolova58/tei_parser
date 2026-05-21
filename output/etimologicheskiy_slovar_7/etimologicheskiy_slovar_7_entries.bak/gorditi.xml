@@ -1,0 +1,231 @@
+<Entry xml:id="gorditi">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorditi</orth>
+    <lemma>gorditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^лдити oixoBojxelv, xttCeiv, aedificare</orth>
+      </form>
+      <sense>
+        <def>городить, огораживать, строить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>градя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>строить, сооружать, огораживать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: градж также 'делать' БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>градим</ref> , града , грагЧ, град</orth>
+      </form>
+      <sense>
+        <def>б</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев Б Д III, 209; М. С. Младенов. Из лексиката в Кюстендилско.—БД VI, 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стой- чев. Родопски речник. — БД V, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гради</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>строить, создавать, образовывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>градити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать, из­ готовлять, строить, сооружать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>градйт</ref> (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>graditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, запруживать, строить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hraditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>укреплять (в военных целях), огораживать, преграждать, загораживать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrafyV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, обно­ сить забором , елвц. hradW возмещать, компенсировать, погашать расходы, загораживать, перегораживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrodzid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, заго­ раживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grozU</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>из прутьев сплетать, вя­ зать хворост, огораживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grodzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать, обносить забором, перегораживать, загораживать, плести (стенки корзины)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grodzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>про­ девать нити утка сквозь нити основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. Falinska. Pol. st. tkackie I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gar</ref>^ec</orth>
+      </form>
+      <sense>
+        <def>огораживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>городити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огораживать , ставить изгородь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Нест. Жит. Феод. 17, Срезневский I, 555)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дел. Сем. Ив. XV в.; Судебн. г. 155, Срезневский III, 76')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>городить</ref> огораживать</orth>
+      </form>
+      <sense>
+        <def>, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>городить</ref> , делать, ставить изгородь, забор</orth>
+      </form>
+      <sense>
+        <def>(пек., твер., ленингр., новгГ, смол., ворон., курск., перм., том.), класть, складывать что-либо, куда-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., орл., Филин 7, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>городити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>городить, огораживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гриченко I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарадзщь</ref> городить .</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gordb">*gordb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

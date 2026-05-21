@@ -1,0 +1,108 @@
+<Entry xml:id="grukati">
+  <pb n="153" end_page="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grukati</orth>
+    <lemma>grukati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грукамъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грукати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрю­ кать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 704)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grukac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 921)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грукатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, греметь , грукатъ стучать, гре­ меть , грукатъ стучать, греметь, брякать , грюкать стучать, греметь, брякать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., тамб., Опыт 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских областных слов. — ЖСт. VIII, 1898, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., тамб., grustbnbjb юго-вост., Филин 7, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., пек., Филин 7, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грюкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, грохотать , грукати громко стучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 333)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бшецький-Носенко. Словник укр. мови 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грукаць</ref>, грюкаць</orth>
+      </form>
+      <sense>
+        <def>стучать, коло­ тить во что , грукаць стучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Глагол на -ati, производный от звукоподражания.</note>
+</Entry>

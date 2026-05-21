@@ -1,0 +1,110 @@
+<Entry xml:id="bogateti">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogateti</orth>
+    <lemma>bogateti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>богатея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bbgatjeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть, становиться богатым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA I, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bogateti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bohateti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бо­ гатеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bohacec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bogaciec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 590)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>богатеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться богатым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багатгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богатеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>багацёць</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="bogafo">*bogafo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

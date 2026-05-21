@@ -1,0 +1,54 @@
+<Entry xml:id="cutbka">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cutbka</orth>
+    <lemma>cutbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>citka</ref> ж. p. сслед, признак</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чутка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>весть, весточка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(II. А. Расторгуев. Словарь народных говоров Зап. Брянщины, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чутка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>слух, весть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чутка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толк, слух</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="cutb">*cutb</ref>, <ref type="etymon" target="cuta">*cuta</ref>, прич. страд, прош. от 
+гл. <ref type="etymon" target="cuti">*cuti</ref> (см.); субстантивация этого последнего.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,445 @@
+<Entry xml:id="dom">
+  <pb n="72" end_page="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domъ</orth>
+    <lemma>domъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом; хозяйство, семья, род­ ной дом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дом</ref> и.</orth>
+      </form>
+      <sense>
+        <def>дом, семья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 59; Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дом</ref>, род. п. дома, м. р.</orth>
+      </form>
+      <sense>
+        <def>дом (главным образом в смысле семьи), (знатный) род</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дом</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хороший, большой дом , семья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vis. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом, родной дом, приют</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>имение, земельный участок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pintar I, 6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dum</ref>, род. п. domu9 м. р.</orth>
+      </form>
+      <sense>
+        <def>дом, здание, родной дом, хозяйство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dum</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дом, передняя, сени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом, здание, семья, дом родной, (знатный) род, династия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом, отчий дом, родина, родной край</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dom</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дом как жилище, родина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dum</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>собственность, дом, наследство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski- Sehnert 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dom</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дом (как жилище, помещение), кров над головой, жилье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>down</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом, сени, передняя (в доме)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>домъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жилище, здание , хозяйство, домашнее устройство (Поуч. Влад. Мон.), семья, домашние , род , именье, имущество , храм, цер­ ковь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XIV. 3. Остр, ев.; Иис. Нав. XV. 14 по сп. XIV в.; Дог. Иг. 945 г. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. IV. 53. Остр, ев.; Иак. Пам. Влад.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лук. I. 27. Остр, ев.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Р. Прав. Влад. Мон. —по Син. сп.; Пов. вр. л. под 1078 г. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Никон. Панд. сл. 30; Жит. Кондр. XI в. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский 1, 699—702)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>здание, строение, пред­ назначенное для жилья и т. п., семья, люди, живущие в одной семье или в одном доме</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гроб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., моек., орл., новг., костр., волог., сев.-двинск., арх., КАССР, Филин 8, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>д1м</ref>, род. п. дому у м. р.</orth>
+      </form>
+      <sense>
+        <def>дом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дом</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Имя с основой на -и-&gt; восходящее к и.-е.<xr type="compare">ср. <ref type="etymon" target="domu-sy">*domu-sy</ref>
+    </xr> лат. domus, 
+род. п. 
+ж. р. 'дом, семья', арм. tanu-ter 'хозяин дома', неко­
+торые относят сюда же др.-инд. ddmu-na- м. р. 'хозяин дома, 
+глава дома, господин', далее — с нулевой ступенью корневого вока­
+лизма— греч. ион. SjjLcbg, род. п. fyajos (*dmou-s) 'пленник, раб'. 
+Основа на -о- и.-е. *domo-s также представлена древними парал­
+лельными формами: др.-инд. ddma- 'дом', греч. 8б[ло&lt;; то же (сюда же 
+принадлежат отдельные формы словоизменения лат. domus, выше). 
+Вполне вероятно, что лит. namasy обычно pi. t. namaly 'дом' дис-
+симилировано из *damas&lt;^ii.-e. 
+*domos. В последнее время под 
+влиянием Бенвениста распространяется мнение об отсутствии связи 
+между и.-е. *domos I *domus и *demo 'строить, сооружать' на том 
+основании, что и.-е. *domos /*domus 
+обозначало прежде всего не 
+постройку из стен и крыши, а общественную организацию, семью, 
+причем особое значение придается семантике лат. слова. 
+См. A. Meiliet MSL 8, 1893, 236; Berneker I, 210—211 (-и- ос­
+нова связывается с корневые именем *dem-y *dom-y *dm-)\ V. Pi-
+sani. II tema baltico *nama. — «Studi baltici» 4, 1934—1935, 50 
+и сл.; Otrqbski. Studia indoeuropeistyczne 
+119; Walde-Hofm. 
+I, 
+369—370; Mayrhofer II, 
+19; Pokorny I, 198—199; Chantraine. 
+Dictionnaire etymologique de la langue grecque 1—2, 292—293; 
+Fraenkel I, 482—483; Фасмер I, 526—527; Stawski I, 155; Machek
+134; V. Pisani «Paideia» V, 1950, 177; он же «Paideia» IX, 1954, 
+130 (иначе о др.-инд. ddmuna-); Benveniste. Le vocabulaire des 
+institutions indo-europeennes 
+I, 293 и сл.; J. Schindler BSL 67, 
+1972, 
+32 (реконструирует и.-е. *dom- в сильных падежах и *dem 
+в слабых, напр. род. п. *dem-sy откуда *dems potis 'хозяин дома': 
+греч. 8ео71отт]&lt;;, авест. dang paiti-). 
+domblviti s§: чеш. 
+domluviti 'досказать', 
+'договориться', 
+domlu-
+viti se 'договориться, условиться', др.-русск. домълвитисм, 
+домол-
+штит 'уговориться' (Новг. I л. под 1360 г., Срезневский I, 702),
+русск. домблвитъ, домблатъ 'договорить, досказать' (пенз., тамб., 
+Даль
+3 I, 1155), укр. домбвйтися 'договориться до чего', 'догово­
+риться, 
+условиться, 
+наняться' 
+(Гринченко I, 420), блр. домб-
+вщца 'договориться'. лат. domus, 
+род. п. 
+ж. р. 'дом, семья', арм. tanu-ter 'хозяин дома', неко­
+торые относят сюда же др.-инд. ddmu-na- м. р. 'хозяин дома, 
+глава дома, господин', далее — с нулевой ступенью корневого вока­
+лизма— греч. ион. SjjLcbg, род. п. fyajos (*dmou-s) 'пленник, раб'. 
+Основа на -о- и.-е. *domo-s также представлена древними парал­
+лельными формами: др.-инд. ddma- 'дом', греч. 8б[ло&lt;; то же (сюда же 
+принадлежат отдельные формы словоизменения лат. domus, выше). 
+Вполне вероятно, что лит. namasy обычно pi. t. namaly 'дом' дис-
+симилировано из *damas&lt;^ii.-e. 
+*domos. В последнее время под 
+влиянием Бенвениста распространяется мнение об отсутствии связи 
+между и.-е. *domos I *domus и *demo 'строить, сооружать' на том 
+основании, что и.-е. *domos /*domus 
+обозначало прежде всего не 
+постройку из стен и крыши, а общественную организацию, семью, 
+причем особое значение придается семантике лат. слова. 
+См. A. Meiliet MSL 8, 1893, 236; Berneker I, 210—211 (-и- ос­
+нова связывается с корневые именем *dem-y *dom-y *dm-)\ V. Pi-
+sani. II tema baltico *nama. — «Studi baltici» 4, 1934—1935, 50 
+и сл.; Otrqbski. Studia indoeuropeistyczne 
+119; Walde-Hofm. 
+I, 
+369—370; Mayrhofer II, 
+19; Pokorny I, 198—199; Chantraine. 
+Dictionnaire etymologique de la langue grecque 1—2, 292—293; 
+Fraenkel I, 482—483; Фасмер I, 526—527; Stawski I, 155; Machek
+134; V. Pisani «Paideia» V, 1950, 177; он же «Paideia» IX, 1954, 
+130 (иначе о др.-инд. ddmuna-); Benveniste. Le vocabulaire des 
+institutions indo-europeennes 
+I, 293 и сл.; J. Schindler BSL 67, 
+1972, 
+32 (реконструирует и.-е. *dom- в сильных падежах и *dem 
+в слабых, напр. род. п. *dem-sy откуда *dems potis 'хозяин дома': 
+греч. 8ео71отт]&lt;;, авест. dang paiti-). 
+domblviti s§: чеш. 
+domluviti 'досказать', 
+'договориться', 
+domlu-
+viti se 'договориться, условиться', др.-русск. домълвитисм, 
+домол-
+штит 'уговориться' (Новг. I л. под 1360 г., Срезневский I, 702),
+русск. домблвитъ, домблатъ 'договорить, досказать' (пенз., тамб., 
+Даль
+3 I, 1155), укр. домбвйтися 'договориться до чего', 'догово­
+риться, 
+условиться, 
+наняться' 
+(Гринченко I, 420), блр. домб-
+вщца 'договориться'. лат. domus, 
+род. п. 
+ж. р. 'дом, семья', арм. tanu-ter 'хозяин дома', неко­
+торые относят сюда же др.-инд. ddmu-na- м. р. 'хозяин дома, 
+глава дома, господин', далее — с нулевой ступенью корневого вока­
+лизма— греч. ион. SjjLcbg, род. п. fyajos (*dmou-s) 'пленник, раб'. 
+Основа на -о- и.-е. *domo-s также представлена древними парал­
+лельными формами: др.-инд. ddma- 'дом', греч. 8б[ло&lt;; то же (сюда же 
+принадлежат отдельные формы словоизменения лат. domus, выше). 
+Вполне вероятно, что лит. namasy обычно pi. t. namaly 'дом' дис-
+симилировано из *damas&lt;^ii.-e. 
+*domos. В последнее время под 
+влиянием Бенвениста распространяется мнение об отсутствии связи 
+между и.-е. *domos I *domus и *demo 'строить, сооружать' на том 
+основании, что и.-е. *domos /*domus 
+обозначало прежде всего не 
+постройку из стен и крыши, а общественную организацию, семью, 
+причем особое значение придается семантике лат. слова. 
+См. A. Meiliet MSL 8, 1893, 236; Berneker I, 210—211 (-и- ос­
+нова связывается с корневые именем *dem-y *dom-y *dm-)\ V. Pi-
+sani. II tema baltico *nama. — «Studi baltici» 4, 1934—1935, 50 
+и сл.; Otrqbski. Studia indoeuropeistyczne 
+119; Walde-Hofm. 
+I, 
+369—370; Mayrhofer II, 
+19; Pokorny I, 198—199; Chantraine. 
+Dictionnaire etymologique de la langue grecque 1—2, 292—293; 
+Fraenkel I, 482—483; Фасмер I, 526—527; Stawski I, 155; Machek
+134; V. Pisani «Paideia» V, 1950, 177; он же «Paideia» IX, 1954, 
+130 (иначе о др.-инд. ddmuna-); Benveniste. Le vocabulaire des 
+institutions indo-europeennes 
+I, 293 и сл.; J. Schindler BSL 67, 
+1972, 
+32 (реконструирует и.-е. *dom- в сильных падежах и *dem 
+в слабых, напр. род. п. *dem-sy откуда *dems potis 'хозяин дома': 
+греч. 8ео71отт]&lt;;, авест. dang paiti-). 
+domblviti s§: чеш. 
+domluviti 'досказать', 
+'договориться', 
+domlu-
+viti se 'договориться, условиться', др.-русск. домълвитисм, 
+домол-
+штит 'уговориться' (Новг. I л. под 1360 г., Срезневский I, 702),
+русск. домблвитъ, домблатъ 'договорить, досказать' (пенз., тамб., 
+Даль
+3 I, 1155), укр. домбвйтися 'договориться до чего', 'догово­
+риться, 
+условиться, 
+наняться' 
+(Гринченко I, 420), блр. домб-
+вщца 'договориться'. лат. domus, 
+род. п. 
+ж. р. 'дом, семья', арм. tanu-ter 'хозяин дома', неко­
+торые относят сюда же др.-инд. ddmu-na- м. р. 'хозяин дома, 
+глава дома, господин', далее — с нулевой ступенью корневого вока­
+лизма— греч. ион. SjjLcbg, род. п. fyajos (*dmou-s) 'пленник, раб'. 
+Основа на -о- и.-е. *domo-s также представлена древними парал­
+лельными формами: др.-инд. ddma- 'дом', греч. 8б[ло&lt;; то же (сюда же 
+принадлежат отдельные формы словоизменения лат. domus, выше). 
+Вполне вероятно, что лит. namasy обычно pi. t. namaly 'дом' дис-
+симилировано из *damas&lt;^ii.-e. 
+*domos. В последнее время под 
+влиянием Бенвениста распространяется мнение об отсутствии связи 
+между и.-е. *domos I *domus и *demo 'строить, сооружать' на том 
+основании, что и.-е. *domos /*domus 
+обозначало прежде всего не 
+постройку из стен и крыши, а общественную организацию, семью, 
+причем особое значение придается семантике лат. слова. 
+См. A. Meiliet MSL 8, 1893, 236; Berneker I, 210—211 (-и- ос­
+нова связывается с корневые именем *dem-y *dom-y *dm-)\ V. Pi-
+sani. II tema baltico *nama. — «Studi baltici» 4, 1934—1935, 50 
+и сл.; Otrqbski. Studia indoeuropeistyczne 
+119; Walde-Hofm. 
+I, 
+369—370; Mayrhofer II, 
+19; Pokorny I, 198—199; Chantraine. 
+Dictionnaire etymologique de la langue grecque 1—2, 292—293; 
+Fraenkel I, 482—483; Фасмер I, 526—527; Stawski I, 155; Machek
+134; V. Pisani «Paideia» V, 1950, 177; он же «Paideia» IX, 1954, 
+130 (иначе о др.-инд. ddmuna-); Benveniste. Le vocabulaire des 
+institutions indo-europeennes 
+I, 293 и сл.; J. Schindler BSL 67, 
+1972, 
+32 (реконструирует и.-е. *dom- в сильных падежах и *dem 
+в слабых, напр. род. п. *dem-sy откуда *dems potis 'хозяин дома': 
+греч. 8ео71отт]&lt;;, авест. dang paiti-). 
+domblviti s§: чеш. 
+domluviti 'досказать', 
+'договориться', 
+domlu-
+viti se 'договориться, условиться', др.-русск. домълвитисм, 
+домол-
+штит 'уговориться' (Новг. I л. под 1360 г., Срезневский I, 702),
+русск. домблвитъ, домблатъ 'договорить, досказать' (пенз., тамб., 
+Даль
+3 I, 1155), укр. домбвйтися 'договориться до чего', 'догово­
+риться, 
+условиться, 
+наняться' 
+(Гринченко I, 420), блр. домб-
+вщца 'договориться'.</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-18">*do</ref> (см.) и гл. <ref type="etymon" target="tyy">*тъЫй</ref> (см.) в сочетании с местоим. 
+(см.).</gram>
+  </gramGrp>
+</Entry>

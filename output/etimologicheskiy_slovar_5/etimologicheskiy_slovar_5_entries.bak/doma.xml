@@ -1,0 +1,175 @@
+<Entry xml:id="doma">
+  <pb n="66" end_page="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>doma</orth>
+    <lemma>doma</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>доллд</ref>, нареч. ev тф оГхф, clomi</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дома</ref> , обыкн. у дома</orth>
+      </form>
+      <sense>
+        <def>дома (РВЕ), дома дома , дома то же , домъ, нареч. дома (с. Стърница, Смолянско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 76; М. Младенов БД III, 59; Шапкарев—Близнев БД III, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдоп- ско. — БД IV, 99; Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дома</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома, домой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дома</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дома, домой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дома</ref> то же (Елез. I), сло­ вен. domd, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома, домой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>doma</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>doma</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>doma</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dumo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>домой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 57, с реконструкцией *doma)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>doma</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 236)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>du</ref>$may нареч.</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дома</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>у себя, в доме, на своей квартире</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дома</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 418)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дома</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дома</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Наречная форма от имени<xr type="compare">см. <ref type="etymon" target="domb">*domb</ref>
+    </xr> или, вернее — от ока­
+меневшей падежной формы предшествующего и.-е. *domus. Нет 
+полного согласия относительно исходного падежа. Предположение 
+о том, что слав. *doma продолжает *domdu, местн. п. ед. ч. от 
+*domu-, принятое, вслед за Зубатым, многими авторами, 
+фонети­
+чески 
+сомнительно.</note>
+  <gramGrp>
+    <gram>Простое отождествление нареч. doma = род. п. doma (Якобсон, ниже) недостаточно и, по-видимому, неверно, поскольку правильный генитив от -и- основы<ref type="etymon" target="yo7g">*йо/7гъ</ref>—• 
+<ref type="etymon" target="domu">*domu</ref> (хотя раннее смешение с -о- основами здесь так же воз-
+можно, как в лат. domus).</gram>
+  </gramGrp>
+  <note>Считать, что в исходе слав. *doma было древнее -а, как в нареч. места лат. intra 'внутри' (Мецгер, ниже), вряд ли верно. Единственно приемлемое отождествление — это связь слав. *doma и аблативного лат. domd. Об этом же говорит и древнее производное — слав, domatjb (см.), позволяющее восстановить предысторию слав.</note>
+</Entry>

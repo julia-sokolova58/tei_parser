@@ -1,0 +1,25 @@
+<Entry xml:id="cbrtelb">
+  <pb n="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrtelb</orth>
+    <lemma>cbrtelb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>czarciel</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Tithymalus lathyris Hill,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ок. 1465 г., SI. stpol. I, 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., производное с суфф. ~е1ъ от гл.<ref type="etymon" target="cerstiy">*cerstiy</ref>
+      <ref type="etymon" target="snd">*сьНд</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,79 @@
+<Entry xml:id="cbrxati">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrxati</orth>
+    <lemma>cbrxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>eerchati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проводить черты, линии, чертить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cerchac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шаркать ногами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cor</ref>%ac sq</orth>
+      </form>
+      <sense>
+        <def>тереться . — Сюда же отглагольное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 175—176; последние два примера цит. по Варбот, ниже)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>crcha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>linea (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>eercha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 172)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ранний вариант<xr type="compare">см. <ref type="etymon" target="6brtati">*6brtati</ref>
+    </xr>, представляющий собой расширение 
+на -S-, закономерно перешедшее после г в х. Родственно 
+лит. 
+kafsti 'расчёсывать, чесать', лтш. karst то же, хетт, kars-, 
+karsiia-
+'обрезать' &lt; и.-е. *kers- 'резать'. См. Ж. Ж. Варбот «Этимология. 
+1971» (М., 1973) 7—8.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>
+      <ref type="etymon" target="yogkhai">*ёъгхаИ</ref> представляет собой 
+результат имперфективации первоначального *6brsti, ср. ранние 
+именные производные <ref type="etymon" target="sgkh1">*съгх1ъ</ref>, <ref type="etymon" target="cbrslb">*cbrslb</ref> (см.), свидетельствующие 
+о наличии глагольной 
+основы до 
+проведения 
+-а-тематизации, 
+а также о вариантности x/s.</gram>
+  </gramGrp>
+</Entry>

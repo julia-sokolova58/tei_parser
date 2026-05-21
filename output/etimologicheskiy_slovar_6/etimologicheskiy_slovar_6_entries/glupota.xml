@@ -1,0 +1,86 @@
+<Entry xml:id="glupota">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupota</orth>
+    <lemma>glupota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глупдта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hlupota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hlupota</ref> ж. р. то же , hlupota</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartog. Slov. 97; Sverak. Karlov. 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlupota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glupota</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 853; Dorosz. II, 1186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gldpuotd</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глупбта</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос словн. I, 336)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="glupb-6">*glupb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

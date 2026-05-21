@@ -1,0 +1,68 @@
+<Entry xml:id="golost">
+  <pb n="212" end_page="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golostь</orth>
+    <lemma>golostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>обнаженность, нагота , golost, golost</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 717)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>на­ гота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>goloic</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 869)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. •<ref>golota</ref> guelosc ж. p.</orth>
+      </form>
+      <sense>
+        <def>оголенность, нагота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>голустъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нагота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю за­ карпатской литературы XVI—XVII вв. Будапешт, 1965: Сло­ варь Няговской Постиллы XVI в. 64 /микроф./)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="golb-11">*golb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возможно параллельное образование.</note>
+</Entry>

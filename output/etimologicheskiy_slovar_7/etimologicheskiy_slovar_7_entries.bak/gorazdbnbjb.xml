@@ -1,0 +1,67 @@
+<Entry xml:id="gorazdbnbjb">
+  <pb n="31" end_page="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorazdbnb(jb)</orth>
+    <lemma>gorazdbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гораздьно</ref>, нареч. sublimiter</orth>
+      </form>
+      <sense>
+        <def>возвышенно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS : VencNik)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hordzny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>большой, высокий, шумный, harasni хороший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валаш., Bartos. Slov. 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>горазьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>искусный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 912 г., Срезневский I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гораздный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>знающий, умеющий что- либо, искусный, в чем-либо , горазный, -ая, -ое, горазен способный на что-либо, искусный в чем-либо (арх., пек., печорск.), высокий, длинный (перм.), подходящий, удобный (арх.) , гораздной способ­ ный, умелый, искусный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., арх., Филин 7, 18—19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской обл. 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="gorazdb">*gorazdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

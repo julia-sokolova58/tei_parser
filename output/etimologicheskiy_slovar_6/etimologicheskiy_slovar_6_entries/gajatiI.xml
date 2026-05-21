@@ -1,0 +1,77 @@
+<Entry xml:id="gajatiI">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajati I</orth>
+    <lemma>gajati I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>gajati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>откармливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словаре Стулли, RJA III, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hdjat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лежать , сюда же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hajkaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разбрасывать; ку­ тить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гаять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>открывать , покрывать, кутать; прятать (ряз., яросл.), чинить, латать (ряз., яросл.) , путать, мять (Картотека Псковского об­ ластного словаря), сбивать, комкать (Картотека Новгор. ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гаяти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>замедлять, задерживать, гаяти час терять время, медлить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 277)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративно-дуративный гл., образованный от<ref type="etymon" target="gojiti">*gojiti</ref> 
+(см.) или 
+гл. на -ati, производный от <ref type="etymon" target="gajiti">*gajiti</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

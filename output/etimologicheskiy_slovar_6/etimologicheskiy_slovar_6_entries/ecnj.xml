@@ -1,0 +1,137 @@
+<Entry xml:id="ecnj">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьnъ(jь)</orth>
+    <lemma>ęčьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>jecan</ref>, jecna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ячменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA IV, 505)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jecny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ячневый, ячменный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jecny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jacny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячный, ячневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jqcane</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ячменный y</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 73, с реконструкцией *j$cbnbjb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jlcrii</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ячменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячменный, ячный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Четв. 1144 г. и др., Срезневский III, 1676)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ячный</ref>, яч­ невый</orth>
+      </form>
+      <sense>
+        <def>ячменный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>Ашной</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячневый, ячменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Ачний</ref>, -а, -е, также Ашний</orth>
+      </form>
+      <sense>
+        <def>ячменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Ачны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячменный, ячневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от стар, основы *$č- (*č&amp;-), 
+см. 
+<ref type="etymon" target="estu-2">*есъту</ref>.</gram>
+  </gramGrp>
+</Entry>

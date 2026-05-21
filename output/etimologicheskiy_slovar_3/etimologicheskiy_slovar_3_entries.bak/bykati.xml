@@ -1,0 +1,32 @@
+<Entry xml:id="bykati">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bykati</orth>
+    <lemma>bykati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bykati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, рычать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1450 г. Gebauer I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bykati</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 112)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражательный гл., ср.<ref type="etymon" target="uk">*Ьукъ</ref>, <ref type="etymon" target="bycati">*bycati</ref>, <ref type="etymon" target="bucati">*bucati</ref>, <ref type="etymon" target="bukati-9">*bukati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

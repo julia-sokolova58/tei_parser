@@ -1,0 +1,71 @@
+<Entry xml:id="detva">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtъva</orth>
+    <lemma>dĕtъva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>detva</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>молодежь, молодое поколение , сюда же местн. н. Detva ж. р., город и область в Словакии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dziatwa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>детва</ref> ж. р. соб.</orth>
+      </form>
+      <sense>
+        <def>яички, гусенички и личинки пчел, черь, в особых ячейках сотов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1087)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dimed</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дет­ вора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>детва</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>детвора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Из лексики полесского села Листвин. «Лексика Полесья» 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (собир.) с суфф.<m type="suffix">
+        <ref>-ъиа</ref>
+      </m> от <ref type="etymon" target="detb-3">*detb</ref> (см. <ref type="etymon" target="dete-4">*dete)</ref>, <ref type="etymon" target="deti">*deti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Отсюда, далее, вторичное расширение в русск. детвора, о кот. неверно см. М. Vasmer RS IV, 1911, 172. См. Фасмер I, 508.</note>
+</Entry>

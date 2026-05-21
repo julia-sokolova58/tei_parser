@@ -1,0 +1,101 @@
+<Entry xml:id="sgpou1">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгпоЬу1ъ</orth>
+    <lemma>сьгпоЬу1ъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгпоЬу1ь</orth>
+    <lemma>сьгпоЬу1ь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrnobylbje</orth>
+    <lemma>cbrnobylbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>crnobil</ref> м. р., также сгпоЬЦ</orth>
+      </form>
+      <sense>
+        <def>чернобыльник Artemisia vulgaris L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 844: считает недостоверным, возм., из русск. через бот. номенклатуру)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnobil</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Scrophularia nadosa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cernobyl</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чернобыльник Artemisia vulgaris, также cerno- byli ср. p</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cernobyV</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чернобыльник Artemisia vulga­ ris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чернобыль</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>один из видов полыни</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чорнббил</ref> м. р., чорнббилъи. р.</orth>
+      </form>
+      <sense>
+        <def>растение Artemisia vulgaris L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чернббыь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Gentiana carpatica</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шух., Гринченко IV, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чарнобыль</ref> м. р. чернобыльник Artemisia vulgaris L.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг.<ref type="etymon" target="syp">*сыпъ</ref> 
+(см.) и <ref type="etymon" target="u19">*Ьу1ь9</ref>
+      <ref type="etymon" target="bylbje">*bylbje</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

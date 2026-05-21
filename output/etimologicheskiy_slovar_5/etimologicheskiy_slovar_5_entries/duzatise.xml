@@ -1,0 +1,75 @@
+<Entry xml:id="duzatise">
+  <pb n="166" end_page="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dužati (sę)</orth>
+    <lemma>dužati (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duzeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крепнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duzieV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крепнуть, становиться сильнее, расти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дю</ref>­ жеть</orth>
+      </form>
+      <sense>
+        <def>становиться дюжим, рослым, плотным, сильным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1275)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дужатися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороться , дужати поправляться, выздоравливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн. 16, Гринченко I, 454; И. Свенцицкий. Опыт сравнительного словаря русских говоров (Галицко-бойковский говор). — ЖСт. X, 1900, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. Матер1али до словника д1алектизм1в украГнсъких говор1в Буковини 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дужацца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороться, меряться силами</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ей</ref>
+      </m>, производный от <ref type="etymon" target="dugb">*dugb</ref>, 
+<ref type="etymon" target="duzbjb">*duzbjb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

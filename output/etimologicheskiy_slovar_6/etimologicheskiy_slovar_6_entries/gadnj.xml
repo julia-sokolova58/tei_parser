@@ -1,0 +1,97 @@
+<Entry xml:id="gadnj">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadьnъ(jь)</orth>
+    <lemma>gadьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ГАДАЙ</ref>*, прилаг.</orth>
+      </form>
+      <sense>
+        <def>змеиный, гадкий, foedus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гаден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>противный, отвратитель­ ный, гнусный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Горов — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гад</ref>^ън, прилаг. то же , гадно (Софийско, Архив Болг. диал. словаря, София)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV 7, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гаден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гадкий, отвратительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гадан</ref>, -дна, -дно, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гадкий, отвра­ тительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гадъныи</ref>, прилаг. от гадъ,</orth>
+      </form>
+      <sense>
+        <def>пресмыкающийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георг. Ам.; Пал. XIV в. И , Срез­ невский I, 507)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гадный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>грязный, противный; мерзкий, гадкий , гадкий (Карто­ тека Псковского областного словаря), сюда же местн. назв. Гадно, бывш. Валдайск. у. Новгор. губ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(орл., самар., Филин 6, 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Na- menbuch II, 293)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

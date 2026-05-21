@@ -1,0 +1,27 @@
+<Entry xml:id="brescitis">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bresciti s§</orth>
+    <lemma>bresciti s§</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>brzeszczyd</ref> siey только безличн. brzeszczy sie</orth>
+      </form>
+      <sense>
+        <def>светает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 218)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от основы <ref type="etymon" target="gyovk">*Ьгёвкъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

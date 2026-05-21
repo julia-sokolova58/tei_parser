@@ -1,0 +1,26 @@
+<Entry xml:id="basnica">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>basnica</orth>
+    <lemma>basnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdsnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказочница, сказительница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля ж. р . , производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="basnb">*basnb</ref> (см.) 
+и соответствующее аналогичному имени м. p. <ref type="etymon" target="basnifo">*basnifo</ref> (см. след.).</gram>
+  </gramGrp>
+</Entry>

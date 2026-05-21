@@ -1,0 +1,35 @@
+<Entry xml:id="bojum">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojum</orth>
+    <lemma>bojum</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojim</orth>
+    <lemma>bojim</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bo</ref> fin м. р.</orth>
+      </form>
+      <sense>
+        <def>трус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боюп</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное (название лица) от основы гл.<ref type="etymon" target="bojati-5">*bojati</ref> s$ (см.).</gram>
+  </gramGrp>
+</Entry>

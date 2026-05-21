@@ -1,0 +1,29 @@
+<Entry xml:id="bbtuirb">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbtuirb</orth>
+    <lemma>bbtuirb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ботун</ref>, род. п. -а, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Allium altaicum, горный алтайский лук (сиб., уфим.), растение Allium schoenoprasum, лук-сеянец (иссык-кульск., перм.), «лук перего­ довалый, а иногда и стрельчатый» (костр., перм.) , бутун м. р. мелкий, репчатый лук, выращенный из семян, се­ вок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 70)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ипъ от основы *bbt- (<xr type="compare">ср. <ref type="etymon" target="bbtbva">*bbtbva</ref>
+    </xr>, 
+см.).</note>
+  <gramGrp>
+    <gram>Не исключено, правда, образование от гл.<ref type="etymon" target="boteti">*boteti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

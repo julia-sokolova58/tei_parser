@@ -1,0 +1,31 @@
+<Entry xml:id="certja">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>certja</orth>
+    <lemma>certja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>череща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шатер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. крм. 1280 г., Срезневский III, 1502)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Бернекер, вслед за Миклошичем, реконструирует *cersca&lt;^ *cerst-ia- и сближает его с др.-инд, kftti- ж. р. 'шкура, кожа' и далее—с праслав. *cersti, *съЩ. См. Miklosich 34; Berneker I, 150.</note>
+  <gramGrp>
+    <gram>Но даже если и признать др.-инд. слово отдаленно родст­ венным (см. о нем Mayrhofer I, 259), все-таки целесообразнее и проще объяснять слав, слово как производное с суфф. -/- от<ref type="etymon" target="sen">*сеНъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сближение с русск. черет, очерет 'камыш' см. уже Фас­ мер IV, 343.<xr type="compare">Ср. еще <ref type="etymon" target="segt">*сегтъ</ref>
+    </xr> 
+(см.). Древнее знач. слова было бы 
+соответственно 'тростниковая, камышовая хижина' или 'плетеная 
+хижина'.</note>
+</Entry>

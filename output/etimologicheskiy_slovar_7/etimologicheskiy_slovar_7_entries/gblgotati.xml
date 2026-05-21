@@ -1,0 +1,42 @@
+<Entry xml:id="gblgotati">
+  <pb n="189" end_page="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblgotati</orth>
+    <lemma>gblgotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gitlgitetac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болботать (об индюке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голготатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гоготать, кричать •gblka (о кликушах) (перм.), говорить лишнее, вздор, болтать (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 288; см. еще Даль 3 I, 903)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный с суф.<m type="suffix">
+        <ref>-otati</ref>
+      </m> 
+(интенсив) от звукоподражат. 
+основы, ср. <ref type="etymon" target="gblkb-2">*gblkb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

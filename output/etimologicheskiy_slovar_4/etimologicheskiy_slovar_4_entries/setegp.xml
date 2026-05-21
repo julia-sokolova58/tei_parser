@@ -1,0 +1,92 @@
+<Entry xml:id="setegp">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сетегьпъ(|ь)</orth>
+    <lemma>сетегьпъ(|ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёмерещ</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>зловещий, ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ Ш, 608; Геров: чемёрный 'проклятый, черный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёме</ref>- рен&gt; прилаг.</orth>
+      </form>
+      <sense>
+        <def>проклятый, зловещий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски реч­ ник.— БД V, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чемерен</ref>, -рна, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горький</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёиёран</ref>, -рна, -рно</orth>
+      </form>
+      <sense>
+        <def>очень горький</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сетёгеп</ref>, -та, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ядовитый, гневный, раздраженный , также стёпп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet 1, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet, I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>сетегпу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чемерный</ref>: чемер- пая боль .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1304)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="seteg1-2">*сетегъ1</ref>
+      <ref type="etymon" target="setega-4">*сетега</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

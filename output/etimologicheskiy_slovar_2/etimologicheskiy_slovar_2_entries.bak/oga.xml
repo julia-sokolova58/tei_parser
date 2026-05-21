@@ -1,0 +1,103 @@
+<Entry xml:id="oga">
+  <pb n="218" end_page="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬогьЬа</orth>
+    <lemma>ЬогьЬа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>борба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борьба, битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>борба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борьба , сербохорват, борба ж. р. борьба, бой, pugna, certamen</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ЪдгЬаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>борьба, состязание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ЪогЪа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борьба, битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 16, с пометой «книжн.», но ср. след.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>ЪогЪа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>борьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovenske Pravno v Turc. z. Kalal 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>борьба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>certamen</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1022 г., Срезневский I, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>борьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рукопашная схватка двоих, в которой каждый старается одолеть другого, свалив его с ног</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>борба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борьба, состязание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 10, Тимченко I, 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьЪа</ref>
+      </m> от основы гл. <ref type="etymon" target="borti-9">*borti</ref> (см.); имя дей­
+ствия.</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание почти полное отсутствие в зап.-слав, (где, кстати сказать, слабо представлен и произво­ дящий гл.); вост.-слав, народные диалекты также, по-видимому, не знают этого слова (так, оно отсутствует в «Словаре русских народных говоров&gt;&gt;), что делает вероятным книжное происхожде­ ние русск. борьба и т. п. В остальном небезынтересна ю.-слав.- елвц. изоглоссная связь (см. выше).</note>
+</Entry>

@@ -1,0 +1,53 @@
+<Entry xml:id="culitiSc">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>culiti Sč</orth>
+    <lemma>culiti Sč</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чули</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>навострять, настораживать (уши) , сер­ бохорв. culiti то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cuVic</ref> ёе</orth>
+      </form>
+      <sense>
+        <def>гнуться, сгибаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чулитися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прижать уши (о коне), навострить уши (о коне), съежиться, сердиться, хмуриться, повязать голову так, чтобы лоб был закрыт</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кар­ патский диалектологический атлас 243)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="si1">*си1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

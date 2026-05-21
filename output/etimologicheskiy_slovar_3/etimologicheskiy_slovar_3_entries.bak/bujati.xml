@@ -1,0 +1,148 @@
+<Entry xml:id="bujati">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujati</orth>
+    <lemma>bujati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>boyui</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>in »xopa:vsiv, stulte agere (счумти БСута^ТА, Miklo­ sich LP)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буя</ref>, буяя</orth>
+      </form>
+      <sense>
+        <def>буйно расти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; Геров: бу- т-ж)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dyjamu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, бу]ати набухать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бу</ref>]ат</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. J)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bujeti</ref>, bujcti</orth>
+      </form>
+      <sense>
+        <def>роскошествовать, процветать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Go- bauer I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bujeii</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буйно расти, кроцвгтать 7, разрастаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ЬщаС</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кутить, распутничать, буянить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bujac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>летать, носиться по воздуху, разгуливать, гулять на сво­ боде, качаться, развеваться, буйно расти , Др.-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 712—713)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бХшпи</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Не пгквъ ли оукращагемь дъмоущьсд п боуи;шць. Гр. Наз. XI в. и др., Срезневский I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>б</ref> у ять</orth>
+      </form>
+      <sense>
+        <def>вырастать, нежиться* , расти, вы­ растать в неге, в холе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 334—335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>б</ref> у яти</orth>
+      </form>
+      <sense>
+        <def>сво­ бодно и высоко летать, буйно проявляться , изобиловать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 135 и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>буяти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>роскошно расти, буйствовать, бушевать, парить, реять; жить и двигаться сво­ бодно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 119)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ati</ref>
+      </m> 
+(или *<m type="suffix">
+        <ref>-ёМ</ref>
+      </m>), производный от <ref type="etymon" target="i-2">*Ьи]</ref>'ъ (см.).</gram>
+  </gramGrp>
+</Entry>

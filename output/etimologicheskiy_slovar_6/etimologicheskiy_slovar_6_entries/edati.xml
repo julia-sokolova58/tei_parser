@@ -1,0 +1,129 @@
+<Entry xml:id="edati">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdati</orth>
+    <lemma>ĕdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jĕdati</ref>, итер.</orth>
+      </form>
+      <sense>
+        <def>есть, едать , также jedamu се, jddamu се сердиться, злиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 524)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA VIII, 631, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jĕdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, едать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jidati</ref> то же, также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jĕdati</ref> se</orth>
+      </form>
+      <sense>
+        <def>сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jadat</ref> se</orth>
+      </form>
+      <sense>
+        <def>сердиться, злиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jadat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jdddc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, едать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 375)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>х</ref>&amp;дати</orth>
+      </form>
+      <sense>
+        <def>есть , Ъдати есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иез. XLII. 13 по сп. XV в. и др., Срезневский III, 1639)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Толк, псалт. XI в., Срезневский III, 1619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>едать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>iddmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>едать, съедать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 196)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративно-дуративный гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="eytsm">*ейтъ(см</ref>.).</gram>
+  </gramGrp>
+</Entry>

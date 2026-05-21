@@ -1,0 +1,72 @@
+<Entry xml:id="gbrdlbnbjb">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrdlbnb(jb)</orth>
+    <lemma>gbrdlbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърлен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горловой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грлен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горловой, гортанный (о звуке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грднй</ref>, -а, -б</orth>
+      </form>
+      <sense>
+        <def>горловой , сюда же производное грбница ж. р. болезнь горла, также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 680)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гропица</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Vis. 298)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gflen</ref>, -lena, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горловой, гортанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrdelni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>касающийся жизни и смерти, также hrdelny</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суф. -ыгъ от ^ъгаЧо (см.).</note>
+</Entry>

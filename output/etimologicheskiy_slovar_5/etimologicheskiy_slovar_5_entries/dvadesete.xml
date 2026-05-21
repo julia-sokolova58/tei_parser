@@ -1,0 +1,145 @@
+<Entry xml:id="dvadesete">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)va desęte</orth>
+    <lemma>d(ъ)va desęte</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двадесет</ref>, двайсет, числ.</orth>
+      </form>
+      <sense>
+        <def>двадцать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дваесе</ref> л</orth>
+      </form>
+      <sense>
+        <def>двадцать , deduce</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.—БД VI, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дваесет</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>двадесет</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvajset</ref> , dvajst</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvacet</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvadsaV</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dwa</ref>- cyci, -co, -с</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dwazasca</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwadziescia</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvaslgsca</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двадесАть</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 163; Златостр. XII в.; Ип. л. под 1114 г., Срезнев­ ский I, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двадцать</ref> сдва десятка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1034)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двадцятъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дваццаць</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="dva">*d(ъ)va</ref> 
+(см.) и им. п. мн. от <ref type="etymon" target="des">*des</ref>$tb (см.).</gram>
+  </gramGrp>
+</Entry>

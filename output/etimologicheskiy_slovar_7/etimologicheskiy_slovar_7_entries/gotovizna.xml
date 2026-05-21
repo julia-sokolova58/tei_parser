@@ -1,0 +1,119 @@
+<Entry xml:id="gotovizna">
+  <pb n="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gotovizna</orth>
+    <lemma>gotovizna</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gotoviznb</orth>
+    <lemma>gotoviznb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hotovizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наличность, налич­ ные деньги (Ст.-чеш., Прага), ср. сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hotovizen</ref>, род. п. -zne, ж. р.</orth>
+      </form>
+      <sense>
+        <def>запас</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Bartos. Slov. 103; Sverak. Karlov. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. стар, <ref>hotovizen</ref>, род. п. -zne, ж. р.</orth>
+      </form>
+      <sense>
+        <def>наличность, наличные деньги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gotowizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>готов­ ность, запас, наличность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gotowizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо готовое, запас, наличность, наличные деньги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 885)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>готовизна</ref>, готовизъна</orth>
+      </form>
+      <sense>
+        <def>запас , сбере­ жения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. 2 4 2 . — А . Никольский. О языке Ипатьевской летописи.—РФВ XLII, 1899, 102; Срезневский I, 572: 'приготовленное', Изб. 1073 г. 74; 'запас провианта', Ип. л. под 1146 г.; Пчел. XV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Усп. сб. 325, XII—XIII вв. СлРЯ XI—XVII вв. 4, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>готовизна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>состояние или свойство готового</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 956)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>готовизна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>наличные деньги, звонкая монета</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Быецький-Носенко 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>готовизна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>налич­ ность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-izna</ref>
+      </m> 
+от прилаг. <ref type="etymon" target="gotovb-2">*gotovb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

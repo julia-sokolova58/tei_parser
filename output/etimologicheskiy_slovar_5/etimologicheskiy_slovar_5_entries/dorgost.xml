@@ -1,0 +1,98 @@
+<Entry xml:id="dorgost">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorgostь</orth>
+    <lemma>dorgostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драгосш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>радость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, РВЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>драгое</ref> . ж. р.</orth>
+      </form>
+      <sense>
+        <def>радость , драгое ж. р. радость, удовольствие , драгус ж. р. радость , сюда же, далее, драгуешье радости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 81; Стойчев БД II, 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско.— БД IV, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева и К. Димчев. Речник на хасковския градски говор. — БД V, 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(СбНУ I, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>драгосш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>приятность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драгосш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>приятность, пре­ лесть, дороговизна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dragdst</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драгоценность, доро­ говизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drahost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дорогоешь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1314 г., Срезневский I, 707)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="dorgb-5">*dorgb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

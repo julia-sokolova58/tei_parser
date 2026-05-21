@@ -1,0 +1,91 @@
+<Entry xml:id="bozuri">
+  <pb n="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bozuri</orth>
+    <lemma>bozuri</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>божур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пион Paeonia officinalis, дикий мак Papaver roeas, тюльпан Tulipa gesneriana</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бажур</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Георгиев; см. также Геров: ббжюръ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>божур</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>божур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пион Paeonia officinalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>божур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пион Paeonia offici­ nalis</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bozdr</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пион Paeonia officinalis, шафран</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 48)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Скорее всего, производное с суфф. -игъ от<xr type="compare">см. <ref type="etymon" target="o-3">*&amp;о#ъ</ref>
+    </xr>, ср. болг. 
+диал. ббжа 'дикий мак Papaver roeas' (Георгиев), близкое, как 
+видим, и по знач. (см. выше), а также — с иным знач., но близкое 
+словообразовательно — сербохорв. диал. бджура ж. р. 'свинья, 
+закалываемая на 
+рождество'. 
+См. 
+Berneker I, 78; 
+Младенов 
+ЕПР 39 (: «производное от бог или родственно багър»); Георгиев 
+БЕР I, 63 (: «Происхождение не вполне ясно. М. б., от бог или 
+родственно багра; ср. божичка 'пион; дикий мак'»). Славскийпред­
+полагает здесь даже заимствование из араб, busur, мн. ч. от besre 
+'почка, бутон, пузырь' (F. Stawski RS XVI, 1948, 85, со ссылкой 
+на RJA s. v.). 
+По-видимому, 
+справедливо 
+будет видеть 
+здесь 
+локальное, 
+балканославянское, относительно позднее образование, относи­
+мое поэтому здесь к праслав. слою более или менее проблема­
+тично.</note>
+</Entry>

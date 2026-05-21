@@ -1,0 +1,158 @@
+<Entry xml:id="edja">
+  <pb n="40" end_page="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdja</orth>
+    <lemma>ĕdja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>je</ref>%a ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(черногорск., КарапиЬ; РСА VIII, 686; см. еще RJA IV, 565)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jeza</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lex. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jeza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jedza</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1471 г., St. stpol. Ill, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jedza</ref> то же</orth>
+      </form>
+      <sense>
+        <def>кушанье, нища, ужин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. II, 249)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ёжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье , ежа пища, еда , ёжа пища, при­ нятие пищи, дорожная провизия , ёжа ж. р. еда: процесс еды , еда, пища , сюда же ум. ёжка ж. р. кушанье, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., тамб., твер., тобол., Опыт 271)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Ге­ расимов. О говоре крестьян южной части Череповецкого уезда Новгородской губернии.—ЖСт. III, 1893, 378)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ф. Покровский. О народных говорах северо-западной части Костромской губернии.—ЖСт. VII. 1897, 469)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 1013; Копорский. О говоре севера Поше- хоно-Володарского уезда Ярославской губернии 111; Словарь го­ воров Подмосковья 129)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. ]&amp;<ref>жа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>корм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ёжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 723)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, производное с йотовым суфф., соотносительное с<ref type="etymon" target="eda-2">*eda</ref> 
+(ср. и различия ударений 
+русск. еда и ёжа, сербохорв. )Ща% 
+выше), но фактически восходящее к и.-е. <ref type="etymon" target="edid">*edid</ref> 'то, что относится 
+к еде, съедобное'. Ср. др.-инд. ddyd- 'съедобный', лит. 
+edzia 
+'обжора', 'мот, транжир'. 
+См. К. Буга РФВ L X X , 1913, 106; 
+МШепЬ.—Endz. s. v. eza; Pokorny I, 288; Фасмер II, 10.</gram>
+  </gramGrp>
+</Entry>

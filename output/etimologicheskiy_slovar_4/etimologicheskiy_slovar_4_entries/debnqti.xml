@@ -1,0 +1,27 @@
+<Entry xml:id="debnqti">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>debnqti</orth>
+    <lemma>debnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дебне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстере­ гать, караулить (И-G), демне то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на<m type="suffix">
+        <ref>-ngti</ref>
+      </m> от <ref type="etymon" target="debeti">*debeti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любопытен формантный параллелизм *deb-ng-ti и др.-инд. *dabk-no-ti, с кот. болг. лин­ гвисты сближают слав, слово (как известно, слав, -по- тоже вос­ ходит к и.-е. *-пеи~). О др.-инд. слове (без слав, соответствий) см. Mayrhofer И, 17—18.</note>
+</Entry>

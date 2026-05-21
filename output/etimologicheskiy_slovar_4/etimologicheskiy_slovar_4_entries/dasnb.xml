@@ -1,0 +1,36 @@
+<Entry xml:id="dasnb">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dasnb</orth>
+    <lemma>dasnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дашен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>щедрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с Раковица, Кулско, дип. раб., Архив Софийск. ун-та; Илчев БД I, 189; Гълъбов. БД II, 75; И. Кънчев. Пирдопско. — БД IV, 97; Д. Евстатиева. С. Тръстеник, Плевенско.—БД VI, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>dasan</ref>, dasna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>щедрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 286)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. диал. *dasnb или *dasnb родственно лит. dosniis 'щед­ рый'. См. О. Н. Трубачёв «Этимология. 1967» (М., 1969), 314.</note>
+  <gramGrp>
+    <gram>Формально слав, слово представляет собой производное с суфф. -sn-, соотносительное с гл.<ref type="etymon" target="dati">*dati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Иначе — и вряд ли точно — из прич. буд. вр. объясняет Георгиев БЕР V, 322.</note>
+</Entry>

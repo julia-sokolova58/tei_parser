@@ -1,0 +1,31 @@
+<Entry xml:id="dobrovoj">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrovojь</orth>
+    <lemma>dobrovojь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Добровбй</ref> м. р., личное имя собств. , сербо­ хорв. Добровб), Добровб] м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Речник на личните и фамилии имена у българите 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dobrovoj</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 274)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dobrb-14">*dobrb</ref> (см.) и <ref type="etymon" target="vojb">*vojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

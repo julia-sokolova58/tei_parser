@@ -1,0 +1,125 @@
+<Entry xml:id="sa1yg">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>с.а1ыгь(]ь)</orth>
+    <lemma>с.а1ыгь(]ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДЛЛАЫА</ref>, -АМИИ, прилаг. [шхрод, 6 [xaxpav, 6 rc6ppa)&amp;ev, longinquus, remotus</orth>
+      </form>
+      <sense>
+        <def>дальний, отдаленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Mikl., Sad,)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddjbnu</ref>, -на, -но</orth>
+      </form>
+      <sense>
+        <def>дальний, da\an, ddfna, прилаг. даль­ ний, далекий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV—XV в., RJA II, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ddljen</ref>, -Ijna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дальний, далекий , ddljnji , dalanfi</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ddlny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>далекий, даль­ ний</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dalni</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>далекий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dalny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>да­ лекий, дальний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дальний</ref>, дальний</orth>
+      </form>
+      <sense>
+        <def>отдален­ ный, удаленный, в большом расстоянии находящийся, не близкий ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1022)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дальнш</ref>, -я, -е</orth>
+      </form>
+      <sense>
+        <def>дальний, отдаленный .—Ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. книжн. <ref>далнина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль, простор (РВЕ)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="dalb">*dalb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Теоретически можно предполагать здесь, впрочем, также суффиксальное производное на -л- от компаратива *daPe (*daljes-) в ступени редукции: *daVbsn-&gt;*daVbxn-^&gt;*daVbnb.<xr type="compare">Ср. <ref type="etymon" target="shp">*ЬШъпъ</ref>
+    </xr> (СхМ.) и др. анало­
+гичные образования, семантика которых, кстати сказать, обнару­
+живает оттенок компаративности. Об этимологии *dalbnb (в духе 
+родства с лит. toll, 
+tolus, лтш, td\s, 
+др.-прусск. talis, tals, а на 
+слав, почве—чеш. otdleti 'cunctari', с последующим t-^&gt;d- под 
+влиянием dblgb, dave, daubnb) см. J. Zubaty AfslPh XVI, 1894, 
+388—389.</note>
+</Entry>

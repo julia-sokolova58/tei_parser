@@ -1,0 +1,82 @@
+<Entry xml:id="dobrotivj">
+  <pb n="44" end_page="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrotivъjь</orth>
+    <lemma>dobrotivъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добрдтив</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>добрый, благосклонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 406)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobrotlu</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobrotiuy</ref>, прилаг.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dobrotiuy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 278)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dobroeiwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добрый, добродушный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 176)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. 4иъ от<ref type="etymon" target="dobrota">*dobrota</ref> (см.). 
+<ref type="etymon" target="dobrotbn">*dobrotbn</ref>
+rb(jb): сербохорв. ддбротан, 
+-тна, 
+-тно 
+'добрый, добро­
+душный', 'благотворный' (PGA IV, 405), словен. dobroten, -tna, 
+прилаг. 'добродушный' (Plet. I, 145), н.-луж. dobrotny 'добрый, 
+благотворительный, щедрый, 
+благосклонный' 
+(Muka St. I, 177), 
+др.-русск., русск.-цслав. добротъныи, 
+прилаг. от доброта (Зла-
+тостр. 44; Ио. екз. Бог.; Ио. Леств. XIV в., Срезневский I, 680), 
+русск. добротный, 
+-ая, -ое 'отличающийся прочностью, доброка­
+чественностью', укр. добротный, 
+-а, -е 'прочный, плотный, на­
+дежный' (Гринченко I, 399).</gram>
+  </gramGrp>
+  <note>Прилаг., производное с суфф. -ъпъ от<xr type="compare">см. <ref type="etymon" target="dobrota">*dobrota</ref>
+    </xr>.
+*dobrb(jb).
+*dobrb(jb).
+*dobrb(jb).
+*dobrb(jb)</note>
+</Entry>

@@ -1,0 +1,150 @@
+<Entry xml:id="gadina">
+  <pb n="78" end_page="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadina</orth>
+    <lemma>gadina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гадина</ref> ж. р. (</orth>
+      </form>
+      <sense>
+        <def>дикий) зверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа: гадина ж. р. 'змей', 'насекомое', 'домашняя птица', 'животное вообще')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гадина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>живое существо (животное или птица), собир. домашняя птица, плохой человек, недруг (с. Въбел, Никополско, Плев. окр. Дип. раб., Архив Соф. ун-та), гъдйнъ ж. мелкое животное , гадйнка ж, р. мелкое животное, паразит (вошь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV, 195)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД gaditi (s§) I I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гадина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гад. пресмыкающееся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гадина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гад, змея, гадина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гадина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дикий зверь, волк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(LM. 393, 583)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gddina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гадючья нора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>книж</ref>. hadina</orth>
+      </form>
+      <sense>
+        <def>гады</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. (<ref>вост</ref>.) hadzina</orth>
+      </form>
+      <sense>
+        <def>домашняя птица , hadHna</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HabovStiak. Orav. 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hadzina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гады, пресмыкающиеся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gadzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гадина, пресмыкающееся, (диал.) скотина, до­ машняя птица, насекомые, паразиты , сюда же личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1016)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Gadzinka</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1449 г., Slownik stpolsk. nazw osobowych. II, 1, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gdgana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гад, пресмы­ кающееся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 256)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гадинка, личное имя собств. (1582 г., Тупиков 157), русск. диал. гадина ж. р. 'змея' (псков., твер., олон., самар., курск., иркут., иссык- кульск., Латв. ССР), 'о каком-либо, обычно вредном животном' (смол., вят., самар., волог., ленингр.) (Филин 6, 91), укр. гадина ж. р. 'гад, пресмыкающееся животное, змея' (Гринченко I, 263), блр. гадзина ж. р. 'гадина, змея', 'всякое нечистое и гадкое насекомое', 'злая, неугомонная женщина' (Носов. 107), гадзта 'гадина, гадюка' (Байкоу—Некраш. 75).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

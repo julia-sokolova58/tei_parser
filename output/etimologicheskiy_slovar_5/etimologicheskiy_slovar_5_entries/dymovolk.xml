@@ -1,0 +1,30 @@
+<Entry xml:id="dymovolk">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymovolkъ</orth>
+    <lemma>dymovolkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дымоволок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деревянная труба, крытая на два ската, в избах с топкой по-чёрному , дымоволок, дымволок м. р. вытяж­ ная деревянная труба над дымовым отверстием в потолке или в стене избы с чёрной печью (олон., волог., новг., арх., перм.), отверстие для выхода дыма в потолке или в стене чёрной, курной избы, бани, овина (арх., олон., волог., перм.), дымопровод, труба, горизонтально проходящая по чердаку (соединяющая дымовое отверстие с вытяжной вертикальной трубой) , дымоход (кольск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уезд­ ного череповецкого говора 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 295)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="aut-2">*аутъ</ref> (см.) и <ref type="etymon" target="io1k">*ио1къ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

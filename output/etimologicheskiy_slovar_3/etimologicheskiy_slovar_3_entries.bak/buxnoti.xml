@@ -1,0 +1,130 @@
+<entries>
+  <entry xml:id="buxnoti" xml:id="buxnoti">
+    <pb n="81" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*buxnǫti</orth>
+      <lemma>buxnqti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бухна</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ударить, бухнуть, хлопнуть, разбухнуть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>buhnuti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>наброситься на кого-либо, вспых­ нуть, разгореться, разбухнуть, раздуться , сло­ вен. buhniti вырваться, вспыхнуть (о пламени), брызнуть (о крови), ворваться, ввалиться (напр., в дом), наброситься на кого-либо, ударить, хлопнуть кого-либо , buhniti набухнуть, раздуться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 718)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 70)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 70)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>buchnouti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>загудеть, бахнуть, выстрелить, бухнуть(ся), bouchnouti бухнуть, уда­ рить; выстрелить</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>bochnot</ref>, buchnot</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Gregor. Slov. slavk.- bucov. 25)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>buchndf</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бухнуть(ся), ударить, загреметь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 141)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бухнуть</ref>, сврш. от бухать, бухнуть</orth>
+        </form>
+        <sense>
+          <def>пухнуть^ вздуваться, расширяться от влажности, разбухать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль 3 I, 360)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бухнути</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ударить, упасть, свалиться, выстрелить , вспыхнуть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Грин­ ченко I, 117)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>бухнуты</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бухнуть, удариться, вспыхнуть, вырваться (об огне, пламени)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского По­ лесья. — «Лексика Полесья» 23)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бухнуць</ref> .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 136)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ngti</ref>
+        </m>, соотносительный с <ref type="etymon" target="buxati">*buxati</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Довольно регуляр­
+ный характер носит семантич. переход 'звучать, издавать звук' -&gt; 
+'расширяться, 
+толстеть, 
+пухнуть'. 
+См. об этом уже С. Микуц-
+кий Изв. ОРЯС IV, 1855, 336.</note>
+  </entry>
+</entries>

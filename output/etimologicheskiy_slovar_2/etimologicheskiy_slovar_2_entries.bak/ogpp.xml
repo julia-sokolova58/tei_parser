@@ -1,0 +1,59 @@
+<Entry xml:id="ogpp">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьогпьпъ(]ь)</orth>
+    <lemma>Ьогпьпъ(]ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>браньнъ</ref>, прилаг. iroXejiov, belli, тсоХецюс, hostis</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIV в., Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бранен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бранный, военный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; если не заимств. из русск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>branny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боевой, вооруженный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>branny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вооруженный, военный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>branny</ref>, прилаг. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 125)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="ogp-2">*Ьогпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

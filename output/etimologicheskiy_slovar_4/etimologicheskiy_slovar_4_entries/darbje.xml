@@ -1,0 +1,32 @@
+<Entry xml:id="darbje">
+  <pb n="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darbje</orth>
+    <lemma>darbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dapje</ref> ср. р., собир. от ddp</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>даръе</ref> ср. р., собир.,</orth>
+      </form>
+      <sense>
+        <def>свадебные подарки невесте, жениху и его родне, определённые при сговоре</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 7, 278)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь/е от<ref type="etymon" target="darb">*darb</ref>.</gram>
+  </gramGrp>
+  <note>Примечательна сербохорв.- русск. изоглоссная связь.</note>
+</Entry>

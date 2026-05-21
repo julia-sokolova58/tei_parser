@@ -1,0 +1,51 @@
+<Entry xml:id="ablonisce">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ablonisce</orth>
+    <lemma>ablonisce</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abo!nisce</orth>
+    <lemma>abo!nisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jablanlsce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яблоневый сад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jabloniste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яблоневый сад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 594)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jablonisco</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яблоневый сад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 228)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. собирательности<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="ayop-2">*аЫопъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

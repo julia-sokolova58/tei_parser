@@ -1,0 +1,233 @@
+<Entry xml:id="ykha">
+  <pb n="129" end_page="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ыъха</orth>
+    <lemma>Ыъха</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блъха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха Pulex irritans , бълха (Ге- ров, Георгиев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бблва</ref> ж. р. , бълва, бъйла (Георгиев), 64а , буа , бъла, бълй</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243; М. Младенов БД III, 42; Шапкарев—Близнев БД III, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>болва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>буха</ref>, буа ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха, pulex, buha ж. p. pulex</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., во всех словарях, кроме Даничича, RJA I, 777)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. 6yja то же , <ref>balha</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Алексинац, Сербия, Djor. II, 245)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bolha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха Pulex irritans</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blecha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха Pulex</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blcha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 103; Kalal28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>blyhaio</ref> же (КаЫЗО), Ьохаж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха , pcha ж. p. то же , tka, tkha ж. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 451)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 738)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>pcha</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>bcha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bldxa</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>pchla</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха Pulex</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>pcha</ref>, pla, ptecha, pha, blcha, blecha, blycha то же ; pkua то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. IV, 100; I, 177)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tomasz. Lop. 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>p</ref>%ld ж. p.</orth>
+      </form>
+      <sense>
+        <def>блоха ,-др.-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 769)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блъха</ref>, блоха, бълоха pulex</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Жит. Феод. Ст. 130, Срезневский I, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блоха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>маленькое паразитическое, кровососущее, прыгающее насекомое</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блоха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>на­ секомое Pulex irritans , блиха ж. $.=блоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 320 и др., Тимченко 1, 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр. Р. Арх. IX, 54, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блоха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блыха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блоха</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *Ь1ъха родственно лит. blusa блоха, лтш. blusa то же, афг. vraza 'блоха' « и р . *brusa &lt; и.-е. *bhlusa), возм., также согд. 'fls'h 'блоха' (с той же ир. праформой), далее — греч. фбХХос •btaxatbjb 'блоха' &lt; и.-е. *bhsulia &lt; *bhlusia, т. е. с метатезой, аналогичной польск. pchla&lt;^*Ыъха; наконец, формы, предполагающие и.-е. р- на­ чальное— арм. 1и, алб. plesht, лат. pulex, род. п. pulicis, др.-в.-нем. floh 'блоха'. См. A. Kuhn KZ IV, 1855, 36; А. Будилович. Первобытные славяне I, 1, 153; Miklosich 15; L. Havet MSL 4, 1879, 85 (объяс­ няет фбХХа&lt;С*тгиаХа, palex&lt;^*puslex); С. С. Uhlenbeck AfslPh XVI, 1894, 363; Н. Pedersen IF V, 1895, 33; Berneker I, 6 2 - 6 3 ; Пре­ ображенский I, 30—31; Trautmann BSW 35; Meillet. Etudes II, 247; он же. A propos dunom indo-europeen de la «рисе». — MSL 22, 1921, 142—143; Мейе. Общеслав. язык 27, 64, 278; F. Hartmann «Glotta» 12, 1923, 263; Walde 2 622-623; F. A. Wood Names of stinging, gnawing, and rending animals. — AJPh XLI, 1920, 229 *Ыъха &lt; *bhlusa &lt; и . - е . *bhleu- : *bhlei- : *bhele-, ср. др.-в.-нем. bliuwan 'бить', гот. bliggwan Sepeiv, (xaauyoov, xaiaxoTCieiv); A. Meillet. De quelques mots sogdiens. — BSL 23, 1922, 100; J. Otrqbski. Studja indoeuropeistyczne 47, 161, 178 (отношения и.-е. форм толкует как мену звонкого и глухого перед сонорным, а также как метатезу lu : ul); Vondrak. Vgl. slav. Gramm. I, 136, 350; Bruckner 401; F. Specht. Der Ursprung 42—43 (о древних особенностях флексии др.-инд. pldsi- 'блоха' и инновационном характере балто-слав. основы на -а, сменившей прежнюю основу на согласный; отделение герм, форм, практикуемое в германи­ стике, равно как и сближение их с др.-в.-нем. fliohan, гот. pliuhan автор оспаривает ввиду отличного начала последних слов); ср. Kluge 1 5 215 (где нем. Floh 'блоха' прямо толкуется как обра­ зование от fliehen 'бежать, убегать'); Ernout—Meillet 3 II, 962; Machek 34; Фасмер I, 176—177; Boisacq 4 1078—1079; Hofmann 428 («. . . с метатезой звуков и меной начального согласного в целях эвфемистического камуфляжа при обозначении надоедливого паразита»); Fraenkel I, 51—52 (также относит появление боль­ шинства древних вариантов формы за счет табу); W. Winter «Language» 38, 1962, 259; Джаукян. Очерки по истории дописьмен- ного периода армянского языка 66, 96; Sadnik — Aitzetmuller. Vgl. Wb. 5, 354.</note>
+</Entry>

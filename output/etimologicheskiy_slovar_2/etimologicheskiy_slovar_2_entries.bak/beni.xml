@@ -1,0 +1,45 @@
+<Entry xml:id="beni">
+  <pb n="87" end_page="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beni</orth>
+    <lemma>beni</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьёпъку</orth>
+    <lemma>Ьёпъку</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>benky</ref>, blenky мн. ж. р.</orth>
+      </form>
+      <sense>
+        <def>мотовило, сно­ вальня, мялка; приспособление для тканья полотна или обра­ ботки льна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 39; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>накладка на телегу, сделанная вроде санок; служит для пере­ возки сена, соломы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 31)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ни чеш., ни русск. слово практически не этимологизировалось, насколько известно.</note>
+  <gramGrp>
+    <gram>Может быть истолковано как продолжение<ref type="etymon" target="boi-n-">*boi-n-</ref>, связанного чередованием с <ref type="etymon" target="bei-">*bei-</ref> (см. <ref type="etymon" target="biti">*biti)</ref>, ср. аналогич­
+ные отношения именной и глагольной основы в 
+<ref type="etymon" target="tyopa">*тёпа</ref> 
+(см.) 
+&lt;C<ref type="etymon" target="moi-n-">*moi-n-</ref> и <ref type="etymon" target="mijati">*mijati</ref> (см.; отсюда польск. mijac) &lt;^<ref type="etymon" target="mei">*mei</ref>~.</gram>
+  </gramGrp>
+  <note>Пред­ ставляется архаизмом и, как таковой, вполне может быть отне­ сено к праслав. эпохе. Лексические значения (хотя и косвенно) подтверждают этимологич. сближение с *biti. Связь с последним на более поздней морфолого-словообразовательной основе, иными словами — реконструкция типа *Ьъ]апъку, *Ьъ]епъку, не отве­ чает фонетич. облику всех названных слов. В силу этого дву­ смысленным выглядит отношение рассмотренных слов и сербо­ хорв. диал. б]ёница ж. р. стот, кого бьют в игре «царан&gt;а»' (PCAI, 596), бщёница ж. р. 'пчела, которую осенью убивают, чтобы за­ брать у нее мед' (РСА I, 545), б]ёница ж. р. 'мед убитых пчел' (РСА I, 596).</note>
+</Entry>

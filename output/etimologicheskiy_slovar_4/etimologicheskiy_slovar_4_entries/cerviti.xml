@@ -1,0 +1,28 @@
+<Entry xml:id="cerviti">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>červiti</orth>
+    <lemma>červiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черевйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>потрошить рыбу или птицу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., тамб., Опыт 256; Подвысоцкий 187)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="sepyu">*сепю</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древность проблема­ тична.</note>
+</Entry>

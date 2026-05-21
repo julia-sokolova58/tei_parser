@@ -1,0 +1,224 @@
+<Entry xml:id="bp">
+  <pb n="142" end_page="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>бь!пъ</orth>
+    <lemma>бь!пъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>бь1по</orth>
+    <lemma>бь1по</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>члун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок, лодка у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ III, 627; Геров: члънъ, чюнъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чолн</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(рыбацкая) лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чун</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Р. Иетковски. Охрид. г-р. — МJ I, 1950, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок, лодка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>coin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лодка, корыто, чан (ткацкий) челнок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лодка, челн</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cln</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colm</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чёлн, лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>coin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челн, лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>colm</ref> то же , стар, celn м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>саап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski- Sehnert 45, с реконструкцией *сč'пъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czolno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>челн, долбленый из одного ствола; лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>czoln</ref> м. р. то же , czeln м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 382)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>czelno</ref> ср. р. , также czalno ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сё</ref>*ип м. р.</orth>
+      </form>
+      <sense>
+        <def>челн, лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>челнъ</ref>, чолнъ, члънъ, челонъ</orth>
+      </form>
+      <sense>
+        <def>лодка (Р. Прав. Влад. Мон. и др.), кубок, братина в виде челна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дух. Дм. Ив. 1509 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1487—1488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёлн</ref>, род. п. челна, м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая лодка, выдолбленная из одного куска дерева</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чблон</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>челн, душегубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чбвен</ref>, род. п. ~вна, м. р.</orth>
+      </form>
+      <sense>
+        <def>челн, лодка , также човнб ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 467)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 468)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чбвен</ref>, род. п. чбуна, м. р.</orth>
+      </form>
+      <sense>
+        <def>челн, челнок</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Обычно объясняется как родственное лит. kelmas 'пень', лтш. cetms то же (семантич. и реальное обоснование при этом: 'чёлн из одного ствола' &lt; 'ствол дерева'), с вариацией суффиксов -n-j-m-. Буга (ниже) привлекал для сравнения лит. kelnas 'рыбачий челн, паром'. Оба лит. слова соотносительны с гл. кёШ, но в основу kelmas легла более древняя семантика глагола 'подниматься, вырастать, происходить', а в основу более нового (и, кроме того, менее достоверного) kelnas — 'поднимать, переправлять'. Следова­ тельно, может быть принято только какое-то одно сравнение из приведенных двух. Предпочтение, по-видимому, следует отдать сближению с лит. kelmas, хотя и с ним связаны определенные сом­ нения. Знач-я и суффиксы у kelmas и *сь1пъ близки, но акцентоло­ гическая характеристика (акут лит. kelmas и циркумфлекс слав, слова — сербохорв. чун, словен. coin) серьезно различается. См. подробнее V. Kiparsky. Der Wortakzent der russ. Schrift- sprache (Heidelberg, 1962) 20, 78. См. И З литературы: Miklosich 31 (сближение с др.-в.-нем. scalm 'navis'); Berneker 1,166—167; К. Буга РФВ LXVII, 1912, 235; Trautmann BSW 126; A. Meillet. De quelques mots relatifs a la navigation. — RES VII, 1927, 7; Bruckner 80; W. J. Doroszewski. Monografie slowotworcze. — PF 15, 1931, 426 (праслав. *съ1пъ&lt; и.-е. *kil-no-s); Slawski I, 125; Machek 105 («Праслав. сь1пъ темного происхождения. Близко только изолированное лит. kel­ nas (Miezinis) с тем же знач.»); Skok. Etim. rjecn. I, 342; Fraenkel I, 237; Фасмер IV, 327. 'eblpti</note>
+</Entry>

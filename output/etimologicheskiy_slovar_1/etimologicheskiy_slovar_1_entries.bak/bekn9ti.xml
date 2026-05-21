@@ -1,0 +1,54 @@
+<Entry xml:id="bekn9ti">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bekn9ti</orth>
+    <lemma>bekn9ti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бепне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заблеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёкнуТпи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проблеять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ЬёкпШ</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>Ьё</ref>- knot</orth>
+      </form>
+      <sense>
+        <def>рявкнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bu5ov\ 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Перфективная глагольная форма на<m type="suffix">
+        <ref>-nqti</ref>
+      </m> от <ref type="etymon" target="bekati">*bekati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

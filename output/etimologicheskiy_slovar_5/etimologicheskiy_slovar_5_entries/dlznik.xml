@@ -1,0 +1,185 @@
+<Entry xml:id="dlznik">
+  <pb n="180" end_page="181" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъlžьnikъ</orth>
+    <lemma>dъlžьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. ^\<ref>ъжштъ</ref> м. р. осресХёт?]?, debitor</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длъжнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>должник</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дужнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>должник, кредитор, заимодавец (РСА V, И)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolznik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dluznik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>долж­ ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlznik</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolznik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dluznik</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>duznaice</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>должники</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski— Sehnert 55, с реконструкцией праслав. *dfzbnici)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dluznik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>должник, (стар.) кредитор, заимодавец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dluznik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дължъникъ</ref>, длъжьникъ, долъжьникъ</orth>
+      </form>
+      <sense>
+        <def>должник , заимодавец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. VI. 12. Остр, ев.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 288)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 758)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>должник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лицо, взявшее что-либо в долг, взаймы, стар, заимодавец (еще у авторов* начала XIX в.), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>должник</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(петерб., Филин 8, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>довжнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>должник, растение Euphrasia offici­ nalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 403)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даужшк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>должник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ikb от прилаг. ^аъИъпъ (см.); субстан­ тивация.</note>
+</Entry>

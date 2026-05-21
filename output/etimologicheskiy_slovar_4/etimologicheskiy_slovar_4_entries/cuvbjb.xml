@@ -1,0 +1,36 @@
+<Entry xml:id="cuvbjb">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuvb(jb)</orth>
+    <lemma>cuvb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>сии</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>внимание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X V I I I в., RJA II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>civij</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чувствительный, чуткий</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Ч8БЪ 'существо, одаренное силою чувствования' (Ио. екз. Бог., Срезневский III, 1544; также Mikl. LP).</note>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="cuti">*cuti</ref> (см.); элемент -у- скорее фонетич. 
+происхождения (устранение зияния), чем словообразовательного.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="cuvitva">*cuvitva</ref>
+    </xr> (см.).</note>
+</Entry>

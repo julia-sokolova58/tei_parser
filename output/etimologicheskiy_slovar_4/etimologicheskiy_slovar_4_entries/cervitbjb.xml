@@ -1,0 +1,29 @@
+<Entry xml:id="cervitbjb">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervitbjb</orth>
+    <lemma>cervitbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>перевитый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. Мал. Хрон., Срез­ невский III, 1500)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -it- от<ref type="etymon" target="segio">*сегио</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="segia-">*сегиа-</ref>
+    </xr>
+tbjb (см.).</note>
+</Entry>

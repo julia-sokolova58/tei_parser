@@ -1,0 +1,77 @@
+<Entry xml:id="grabisce">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabisce</orth>
+    <lemma>grabisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>grabiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>грабли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA III, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>грабиште</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть грабель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrabiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ручка грабель</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrabisko</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грабли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>grabiszcze</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ручка у грабель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 893)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grabisko</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. И, 269)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="grabja">*grabja</ref> / <ref type="etymon" target="grabji">*grabji</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

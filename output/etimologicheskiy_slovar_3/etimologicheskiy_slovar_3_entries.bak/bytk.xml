@@ -1,0 +1,56 @@
+<entries>
+  <entry xml:id="bytk" xml:id="bytk">
+    <pb n="156" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bytъkъ</orth>
+      <lemma>b y t b k b</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bitak</ref>, род. п. bitka, м. p.</orth>
+        </form>
+        <sense>
+          <def>esse, status, consti­ t u t e , бытие, существование, состояние</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A I, 337)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bltek</ref>, род. п. -tka, м. р.</orth>
+        </form>
+        <sense>
+          <def>бытие, существование</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I. 28)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bytek</ref>, род. п. -tku, м. р., ум. от byt (см. предыд.)</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бутбк</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>житьё</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Желеховский)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Ум. производное с суфф. <m type="suffix">
+          <ref>-ъкъ</ref>
+        </m> 
+от <ref type="etymon" target="byfo">*byfo</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

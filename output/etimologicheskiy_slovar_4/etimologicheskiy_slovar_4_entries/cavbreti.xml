@@ -1,0 +1,91 @@
+<Entry xml:id="cavbreti">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cavbreti</orth>
+    <lemma>cavbreti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чаврим</ref> се</orth>
+      </form>
+      <sense>
+        <def>нежиться , чаврим се усмехаться (с. Долна Милна, Трънско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>cauoriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бедствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лика, RJA I, 918)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чаверетъ</ref>, чавретъ, чавритъ</orth>
+      </form>
+      <sense>
+        <def>блекнуть, вянуть, чахнуть, сохнуть, хилеть, хизнуть, загни¬ вать , чавретъ терять здоровье, силы, чах­ нуть , далее — чабритъ сохнуть, вянуть (курск., Картотека Словаря русских народных говоров), чйвретъ, чйвереть худеть, сохнуть , с дальнейшими изме­ нениями (частичное удвоение и метатеза) чичёреветъ останав­ ливаться в росте, не достигать надлежащего развития, хиреть , чичёреветъ коченеть (?), останавли­ ваться в росте, хиреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1279)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 591)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Опыт 257)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(иркут., костр., Опыт 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёвр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ьти чахнуть, хиреть , с редупликацией — чучверЬти коря- веть, хиреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 449)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чаурыцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сохнуть, вянуть , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 344)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово с затемненным составом, ср. Фасмер IV, 309: «чйве­ реть, чавретъ.,. Неясно». Сближение вост.-слав, слов с сербо­ хорв. см. также в «SIown. prast.» II (1976), 119, где приводится сравнение с иной болг. лексикой и лит. kiduras (ср. о сербохорв. cauoriti еще Skok. Etim. rjecn. I, 301).</note>
+  <gramGrp>
+    <gram>Допустимо видеть здесь префиксальное сложение: экспрессивный элемент са- + гл.<ref type="etymon" target="igyoi">*иъгёИ</ref> 
+(см.) 'кипеть, потеть, усыхать', откуда затем 'чахнуть', 'вянуть', 
+'бедствовать' и некоторые другие экспрессивные значения (см. 
+выше).</gram>
+  </gramGrp>
+  <note>Любопытно обратить внимание на семантическую близость ' .3 и параллелизм структур *cavbreti и<xr type="compare">см. <ref type="etymon" target="cambreti">*cambreti</ref>
+    </xr>.</note>
+</Entry>

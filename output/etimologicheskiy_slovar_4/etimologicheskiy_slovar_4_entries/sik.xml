@@ -1,0 +1,61 @@
+<Entry xml:id="sik">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сикъ</orth>
+    <lemma>сикъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>молот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный молот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чук</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молоток (для отбивки) , Сйк м. р., название утеса, в Сербии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тг. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 600)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Обратное производное от гл.<ref type="etymon" target="eukati">*eukati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Маловероятно возве­ дение к и.-е. *кеи-, ступени чередования к *kovati (так см. S. М1а- ^ denov AfslPh XXXIV, 1913, 389—392; Младенов ЕПР 689).</note>
+</Entry>

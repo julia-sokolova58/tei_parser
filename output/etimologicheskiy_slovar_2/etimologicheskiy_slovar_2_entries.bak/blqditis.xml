@@ -1,0 +1,222 @@
+<Entry xml:id="blqditis">
+  <pb n="125" end_page="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blqditi (s§)</orth>
+    <lemma>blqditi (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Б</ref> Л У Д И Т И irXavaoftai, еггаге</orth>
+      </form>
+      <sense>
+        <def>блуждать, fuopveosiv, scortari, fornicare развратничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баловать, изнеживать, гладить, ласкать, блудити се ласкаться, нежиться, увлекаться, делать глупости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 658)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bloditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, заблуждаться, говорить вздор, размешивать, мешать, вводить в заблуждение, также bloditi se</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blouditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбиваться с пути, блуждать, бродить, заблуждаться, сюда же bloumati (se) ходить, бродить туда-сюда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>blomat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать , bloncat брякать, блуждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 24; Machek 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bliidif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбиваться с пути, бродить, блуждать, скитаться, заблуждаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bluzit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ыudzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вводить в заблужде- ние; сбиваться с пути; заблуждаться; блуждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bluzis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запутывать, смущать, блудить, заблуждаться; бредить, bluzis se ошибаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>blqdal</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(он) блуждал</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 39, с реконструкцией *Ыдййъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bt</ref>^dzic</orth>
+      </form>
+      <sense>
+        <def>заблуждаться, блуждать, сбиваться с пути ?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 566)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blqgec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заблуждаться, блуждать, нести вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 50—51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блХдити</ref> rcXavaa&amp;ai, еггаге, еггаге facere</orth>
+      </form>
+      <sense>
+        <def>заводить не туда, куда надобно бы идти, iropveoeiv, scortari</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блудить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скитаться, шататься; бродить или ездить, сбившись с дороги, сбиться с пути, плутать; проказить, шалить, портить что из шалости , совершать блуд, распутничать, о животных, обычно о кошке — воровать, таскать, проказни­ чать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>блудить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плутать, идти, не зная дороги, делать что-либо недозволенное, приносить вред, обманывать, врать , блудить трогать что-либо без позволе­ ния</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, сбиваться с пути, заблуждаться, прелюбодействовать , блудити ся беречься [sic!] , возм., из *блюдити ся (так А. С. Мельничук, письменно)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 102—103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. Деже. Материалы к сло­ варю закарпатской литературы XVI—XVII вв. Будапешт, 1965, 421, микрофильм)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блуждать, сбиваться с пути, заблуж­ даться, ошибаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="blgdb">*blgdb</ref> (см.), с первонач. 
+функцией каузатива, следы которой сохраняются в отдельных 
+примерах в некоторых слав, языках.</gram>
+  </gramGrp>
+  <note>Словообразовательно-грам­ матическая иерархия слав, образований представляется как *bl$sti -&gt; *ЪЦс1ъ -&gt; *blgditi. Вместе с тем удобнее говорить о со­ относительности праслав. *Ь1уйъ и *blgditi, потому что они про­ должают аналогичные более древние отношения, ср. лит. blandas 'дрема, сонливость; пасмурность' — лтш. blandities 'шляться', лит. blandyties 'протрезвляться', blandyti(s) 'блуждать; помра­ чаться; потуплять глаза, смущаться' (см. о балт. лексике К. Буга РФВ LXX, 1913, 100; Trautmann BSW 34-35; Fraenkel I, 47). См. далее (в более общем смысле) Berneker I, 62; Vaillant. Gramm. comparee III, 2, 412. Авторы нередко связывают, далее, слав. *blgditiy лит. blandytis с герм. *blandjan, каузативом к прилаг. нем. blind 'слепой' и т. д. (см. напр. Kluge 1 5 86), но проверка обнаруживает в этом формальном сходстве фактическое полное различие: герм. * bland]an произведено с аблаутом от упомянутого герм, прилаг., а слав, и балт. глаголы унаследовали вокализм от своих исходных именных основ.</note>
+</Entry>

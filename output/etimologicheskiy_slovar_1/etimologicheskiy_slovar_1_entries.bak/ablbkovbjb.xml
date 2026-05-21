@@ -1,0 +1,88 @@
+<Entry xml:id="ablbkovbjb">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ablbkovb(jb)</orth>
+    <lemma>ablbkovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>аболков</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jabukov</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоневый, яблочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A IV, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jablkovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблочный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jablkovy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ, I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jablukowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jablukowy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jablkowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное, производное на -ovb(jb), от<ref type="etymon" target="a1ko">*аЬ1ъко</ref> (см).</gram>
+  </gramGrp>
+  <note>Праслав. древность проблематична.</note>
+</Entry>

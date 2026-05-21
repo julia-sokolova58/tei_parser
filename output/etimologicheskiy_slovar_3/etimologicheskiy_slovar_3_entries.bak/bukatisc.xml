@@ -1,0 +1,149 @@
+<Entry xml:id="bukatisc">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bukati (sč)</orth>
+    <lemma>bukati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>букам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, плакать (с. Веригово, Кар- ловско, Архив Болг. диал. словаря, София), букам се быть в течке (о свинье) , бука се оплодотворяться (о свинье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Попгеоргиев Б Д I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев Б Д И, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бука</ref> се</orth>
+      </form>
+      <sense>
+        <def>спариваться (о свинье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>букати</ref>, бучём</orth>
+      </form>
+      <sense>
+        <def>реветь, мычать, mugio, разбрасывать (напр. сено рогами — о скоте)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bu</ref>­ kati</orth>
+      </form>
+      <sense>
+        <def>мычать, хрюкать , bukati быть в течке , bukati se быть в течке (о свиньях), не ладиться, не получаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jar- nik 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bukati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать (о сове, выпи), пищать (о комарах), жужжать , boukati бурчать, урчать (в животе), плохо играть, пиликать, boukati se спари­ ваться, быть в течке (о свинье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bukaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мы­ чать , bukaV sa быть в течке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 143; Kalal)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Ьикаб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, increpare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1404 г., St. stpol. I, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>букаться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>биться лбом , букать раздаваться, звучать (о глухих звуках)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(твер., Даль 3 I, 340; Филин 3, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>букати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, мычать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратсь- кий. Знадоби 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>букаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять лбом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. звукоподражат. происхождения, ср.<ref type="etymon" target="buxati">*buxati</ref> (особенно русск. 
+бухать —букать), 
+<ref type="etymon" target="bucati">*bucati</ref>, 
+<ref type="etymon" target="uk">*Ьукъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Miklosich 24; Вегпе- ker I, 98—99 сравнивает с кимр. bugad &lt; *boukato- 'boatus, mu- gitus', др.-инд. bukkati 'лает', греч. (Збхттгц; 'завывающий', ср.-в.- нем. pfuchen 'фыркать'); Фасмер 1, 236; R. Bernard R E S 40, 1964, 26—27.</note>
+</Entry>

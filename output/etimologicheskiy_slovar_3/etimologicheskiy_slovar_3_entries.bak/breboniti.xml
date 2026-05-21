@@ -1,0 +1,38 @@
+<Entry xml:id="breboniti">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>breboniti</orth>
+    <lemma>breboniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>breboniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>mussilare, бормотать, ворчать , breboniti то же , бребоуьити, брёбогьити бормо­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 621)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>breboniti</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения с частичной редуплика­ цией в основе (bre-b-), осложненной суффиксом -on-. Высказыва­ лось мнение об образовании сербохорв. бребогьити от сербохорв. бребити 'бить(ся)' (RJA I, 621), но ср. чеш. пример, указываю­ щий на возможную древность данного образования в слав, плане. В этимол. словаре Скока пропущены и breboniti и brebiti (см. Skok. Etim. rjecn. I).</note>
+</Entry>

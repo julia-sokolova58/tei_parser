@@ -1,0 +1,49 @@
+<Entry xml:id="eskravj">
+  <pb n="52" end_page="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕskravъjь</orth>
+    <lemma>ĕskravъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jaskrawy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ослепительный, яркий (о красках)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1072)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jaskrawy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яркий . — Блр. яскрйвы яркий скорее всего заимств. из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. . <ref>см</ref>. Sfawski. ниже.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -av- от основы<ref type="etymon" target="eskr-y">*eskr-y</ref> родствен­
+ной, с одной стороны, <ref type="etymon" target="eskrib">*eskrib</ref> 
+(см.), с другой стороны — <ref type="etymon" target="jbskra">*jbskra</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 433; Sfawski I, 515; F. Stawski JP XL, I960, 46—47; B. Kreja JP XL, 1960, 45—46. Остроумна, но не­ убедительна мысль о метатезе г и сравнение польск. jaskrawy с лит. rdiskus 'явный' (Otrqbski. Studia indoeuropeistyczne 80).</note>
+</Entry>

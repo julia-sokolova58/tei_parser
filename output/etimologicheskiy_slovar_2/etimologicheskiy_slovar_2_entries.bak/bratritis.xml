@@ -1,0 +1,51 @@
+<Entry xml:id="bratritis">
+  <pb n="237" end_page="238" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratriti (s§)</orth>
+    <lemma>bratriti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bratriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сближать, сдружить, bratriti se сбли­ жаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bratric</ref> so</orth>
+      </form>
+      <sense>
+        <def>брататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bratrif</ref>^sa</orth>
+      </form>
+      <sense>
+        <def>брататься, водить дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 127)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от 
+<ref type="etymon" target="bratrb">*bratrb</ref> 
+(см.) и параллельный 
+<ref type="etymon" target="bratiti">*bratiti</ref> 
+(см.).
+•bratrovb</gram>
+  </gramGrp>
+</Entry>

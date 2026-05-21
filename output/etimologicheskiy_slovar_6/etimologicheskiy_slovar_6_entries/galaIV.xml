@@ -1,0 +1,38 @@
+<Entry xml:id="galaIV">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gal’a IV</orth>
+    <lemma>gal’a IV</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>галя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баловство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тырнов. и Филип, окр., Качанов- ский. Сборник западноболгарских песен 566)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галя</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>игра в прятки (олон., новг.), деревянная бита для игры в бабки (новосиб.), тот, кто водит в игре (арх., сверд., ср.-урал.) , галя ж. р., ласкательное слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг. Филин 6, 124)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="galiti">*galiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

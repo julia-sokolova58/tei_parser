@@ -1,0 +1,39 @@
+<Entry xml:id="garnj">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garьnъ(jь)</orth>
+    <lemma>garьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гйран</ref>, -рна, -рно, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чумазый, лежа­ щий под паром (о земле) , edpno, нареч. темно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гарный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горящий (Картотека Псков­ ского областного словаря), горелый (Картотека Новгородского ГПИ)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="garb-2">*garb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Неясно происхождение укр. гарний 'красивый, хороший, хоро­ шенький', кот., между прочим, еще Потебня связывал с гореть (цит. по Мельничуку, см. ниже). Во всяком случае связь укр. слова с болг. харен 'красивый' или прямо с греч. х^Р 1^ скрасота', 'милость' маловероятна фонетически, см. G. Shevelov «Language» 44, 1968, 866, 869. Сканд. этимология укр. гарний (см. О. С. Мель- ничук. Зв1дки походить слово гарпий? — Мовознавство 1969, № 1, 29—36) крайне сомнительна.</note>
+</Entry>

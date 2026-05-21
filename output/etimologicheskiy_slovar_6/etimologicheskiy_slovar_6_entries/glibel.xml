@@ -1,0 +1,34 @@
+<Entry xml:id="glibel">
+  <pb n="124" end_page="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glibĕlь</orth>
+    <lemma>glibĕlь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>glibiel</ref> ж. р., также gnibiel</orth>
+      </form>
+      <sense>
+        <def>пропасть, бездна . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 834)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глибел</ref>&gt;ав, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грязный, топкий, илистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 345)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -*(ё)1ъ от гл.<ref type="etymon" target="glibati">*glibati</ref> (см.), ср. <ref type="etymon" target="kdryo1">*кдрё1ъ</ref>:</gram>
+  </gramGrp>
+</Entry>

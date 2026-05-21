@@ -1,0 +1,57 @@
+<Entry xml:id="gqtbnbjb">
+  <pb n="90" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqtbnbjb</orth>
+    <lemma>gqtbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hutny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>густой, крепкий, жесткий, плот­ ный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hutny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый, крепкий, прочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod.. k Bart. 32; Kasfk. Stfedobefcev. 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. книжн. <ref>hutny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>густой, плотный . — Ср. сюда же непроизводную форму в</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гутъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>заросли, трудно проходимое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 7, 250)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -ъпъ]ъ от основы<ref type="etymon" target="gqt-">*gqt-</ref>, представ­
+ленной также в <ref type="etymon" target="ggsfo">*ggsfo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

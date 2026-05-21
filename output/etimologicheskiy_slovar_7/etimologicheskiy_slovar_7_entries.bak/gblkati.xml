@@ -1,0 +1,76 @@
+<Entry xml:id="gblkati">
+  <pb n="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblkati</orth>
+    <lemma>gblkati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать, лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>golkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>holkac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гблкатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлопать, производить глухой, короткий звук (о ружье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(колым., Филин 6, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>галакат</ref>*</orth>
+      </form>
+      <sense>
+        <def>болтать, говорить громко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Из лексики полесского села Листвин. — Лексика Полесья 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-atit</ref>
+      </m> 
+производный от <ref type="etymon" target="gblkb-3">*gblkb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,91 @@
+<Entry xml:id="dospex">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dospĕxъ</orth>
+    <lemma>dospĕxъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>dospech</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>поспешность, торопливость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dugspjeg</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>поспешность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>доспЪхъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вооружение , изготовление, приготовление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. иод г., 1261 г.; Новг. I л. под 1290 г., Срезневский I, 711—712 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Правила, 74, XV—XVI вв., Сл. РЯ XI—XVII вв. 4, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доспехи</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>боевое снаряже­ ние, вооружение воина в старину</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>доспех</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>успех (влад., перм.), работа, мастерство (Соболевский — без указания места) , доспех м. р. досуг , доспех, нареч. внезапно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Па-Ржищ. Кр. Сел., Словарь говоров Подмосковья 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>docnix</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>успех, успешность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 430)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>dacnexi</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>доспехи. Отглаг</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>производное от<ref type="etymon" target="dospeti">*dospeti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Заметна ранняя семантич. специализация в русск.</note>
+</Entry>

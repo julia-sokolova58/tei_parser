@@ -1,0 +1,219 @@
+<Entry xml:id="drgnoti-2">
+  <pb n="221" end_page="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrgnǫti</orth>
+    <lemma>dьrgnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дръгна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно чесать, драть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дръгна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать , чистить (гумно от травы) , дръгна се чесаться , дрбгнъ съ то же , дčгнем чесать (коноплю), кусать (о паразитах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Христов. Говорът на с. Нова Надежда, Хасковско 221)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов, Страндж. — БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко. — БД V, 114; В. Кюв- лиева и К. Димчев. Речник на хасковския градски говор; — БД V, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дргне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать (лен, коноплю) , сюда же дрне дотро­ нуться, тронуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Кумановскиот говор 259)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>dfnuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвануть; стащить, dbrkati украсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pal. 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ср. еще RJA II, 785)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfgniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тереть, чесать , dergniti точить, царапать (Jarnik VIII)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>der</ref> ynot</orth>
+      </form>
+      <sense>
+        <def>чистить (картошку)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бодуэн де Куртенэ. Резьяне. Словарный материал. Архив, ф. 102, on. I, № 8, л. 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drhnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тереть, драть, чистить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drhnout</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать (лен) , drhnout, drhnot также щипать (перья) , drhnot сильно тереть, драть, чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Konff. Slov. morav. 286)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drhnuV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, драть, чесать (лен, коноплю)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>drhnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i тяжело ра­ ботать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik, Vychodonovohrad. 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzernyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сор­ вать (напр. листья)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dargngt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать (лен)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 49, с реконструкцией праслав. *dfgnqti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzierzgnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сплести узелком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. ^<ref>гегпощ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тереть, чистить, делать узелок, петлю</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъргнХти</ref>, дръгнХти , дьрнХти</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 773)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дёрнуть</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, соотносительный с <ref type="etymon" target="dbrgati">*dbrgati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,211 @@
+<Entry xml:id="bylbje">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bylbje</orth>
+    <lemma>bylbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. в <ref>т</ref> и ю ср. p. poxdvai, herbae</orth>
+      </form>
+      <sense>
+        <def>травы, растения, былье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>биле</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>трава, лекарственные травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>биле</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>трава , били ср. р. зелье, лекарство из трав</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 129)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Попгеор- гиев Б Д I, 2 0 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бил</ref>]е ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>растения, травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бйл</ref>&gt;е ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bilje</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>растения, травы, ботва, стебли, жнивье с соломой, стеблями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>byle</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>растения (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>byliy</ref> bejli ср. р.</orth>
+      </form>
+      <sense>
+        <def>сорная трава</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>byjli</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>картофельная ботва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 1 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bylie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>трава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 1 4 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>byle</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кустарник, трава, бурьян, ствол, сте­ бель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 2 4 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>быля</ref>\е {3OT&lt;XV7|, herba</orth>
+      </form>
+      <sense>
+        <def>трава (Пат. Син. XI в. и др.), cpdpjxaxov лекарство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1 0 7 3 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский 1, 2 0 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>быльё</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>былинки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>былье</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сухая трава , билъё? ср. р. огородина, овощ, слетье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 4 6 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(петерб.-гдов., пек., Даль 3 I, 2 1 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>былье</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трава , билие то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Зиз. Леке. 9 4 и др., Тим­ ченко I, 1 6 1 — 1 6 2 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 8 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>билля</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>былие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 5 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бъиСа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ботва, стебли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ю. I. Герей. Морфолог1чш особливост1 п ш р к и села Русьш К с мар]'вщ. Дип. роб. Ужгород, 1 9 5 6 , 1 4 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>билле</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>голые стебли, стеблистая трава, солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 4 0 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ]е (собир.) от<ref type="etymon" target="u1-2">*Ьу1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

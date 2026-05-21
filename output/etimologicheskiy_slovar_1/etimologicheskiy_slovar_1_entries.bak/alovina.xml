@@ -1,0 +1,101 @@
+<Entry xml:id="alovina">
+  <pb n="65" end_page="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>alovina</orth>
+    <lemma>alovina</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jalovina</orth>
+    <lemma>jalovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яловйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яловая скотина, овцы, ко­ ровы , яловйна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ДругаА дружина ходи съ стада, кои с^ч разд^лени, на хгловинж, шилета, доймы и слабы. Г. С. Раковски Показалец, 1859. Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jalovina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скотина, которая не доится , ]аловиУьа яловая скотина ( G P И )</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кап 269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jalovina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jalovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молодой рогатый скот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jalovina</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. (<ref>зап</ref>.) яловйна ж. р.</orth>
+      </form>
+      <sense>
+        <def>лядо, запу- щенная, плохая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1572)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Ллавша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перелог</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. ]<ref>йловыпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поле, засеваемое с промежутком в 2—3 года для повышения плодородия почвы, споле, которое не успели о б ­ работать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Выгонная. Полесская земледельческая термино­ логия. «Лексика Полесья». М., 1968, 130)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы прилагательного 
+<ref type="etymon" target="alovbjb">*alovbjb</ref>, 
+-aja (см.)</gram>
+  </gramGrp>
+</Entry>

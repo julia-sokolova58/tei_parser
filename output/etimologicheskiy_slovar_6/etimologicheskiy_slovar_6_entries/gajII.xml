@@ -1,0 +1,36 @@
+<Entry xml:id="gajII">
+  <pb n="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajь II</orth>
+    <lemma>gajь II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гай</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик , крик, шум, гам , стая, вереница гра­ чей, ворон, галок и пр. , несчастный слу­ чай, неудача , сюда же гая ж. р. стая, вереница птиц , также стадо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., тамб., Опыт 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(костр., тамб., курск., южн., самар., иссык- кульск., Филин 6, 96; арх., Картотека СТЭ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль, Филин 6, 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(забайк., Филин 6, 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Даль 3 I, 836)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Филин 6, 156)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *gajati II (см.).</note>
+</Entry>

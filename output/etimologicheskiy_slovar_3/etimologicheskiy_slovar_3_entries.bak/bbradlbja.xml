@@ -1,0 +1,47 @@
+<Entry xml:id="bbradlbja">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbradlbja</orth>
+    <lemma>bbradlbja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>браля</ref> (бралъя)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. . . к изб гЬ гд'Ь сидятъ брали и швеи.—Моск. деловая и бытовая письменность XVII в. М., 1968, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бралъя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>женщина, которая берет, т. е. снимает узоры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., Доп. к Опыту 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>браля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>работница, собирающая, дергающая коноплю</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко, I, 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. -ь/а (первонач.<m type="suffix">
+        <ref>-ъц</ref>
+      </m>) 
+от 
+<ref type="etymon" target="bbradlo">*bbradlo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

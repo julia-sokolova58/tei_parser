@@ -1,0 +1,80 @@
+<Entry xml:id="dranica">
+  <pb n="217" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьranica</orth>
+    <lemma>dьranica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dranice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка, потасовка , елвц. dranica неурожайная, плохая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 301)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dranica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дранка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Драница</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1377 г., Тупиков 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>драница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колотые, сосновые дощечки в сажень длины для кровель; треска, лучина для решеченья деревянных стен под штукатурку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дранйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драница, тонкая доска, отколотая или отщепленная от дерева (у потреб л. для кровель и пр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 440)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дранщы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>тес, тесаные доски</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="dbranb">*dbranb</ref> 
+(см.) или от <ref type="etymon" target="dbranb-2">*dbranb</ref>, 
+прич. прош. страд, от <ref type="etymon" target="dbrati-8">*dbrati</ref> (см.), с функцией субстантивации.</gram>
+  </gramGrp>
+</Entry>

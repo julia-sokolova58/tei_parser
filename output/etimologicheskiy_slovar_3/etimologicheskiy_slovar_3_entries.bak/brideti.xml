@@ -1,0 +1,87 @@
+<Entry xml:id="brideti">
+  <pb n="25" end_page="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brideti</orth>
+    <lemma>brideti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бридй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дует (о ветре), особенно — об ощу­ щении, получаемом языком от зеленых плодов: Крушата бридй на езйк, бште е зелена , бридй 3 л. ед. ч . — о б ощущении шероховатой поверхности наощупь, напр. ткани , бридй дует пронизывающе , сербо­ хорв. брйдети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Брезнишки говор, СбНУ XL1X, 7 7 4 . — Архив Болг. диал. словаря)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 243)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов Б Д II, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брйдити</ref>, брйд]ети, брЩети</orth>
+      </form>
+      <sense>
+        <def>свербеть, зудеть: бридй ми нога, брйдети, брйд]ети испытывать жже­ ние, зуд, гвеять пронзительным холодом, прорываться с силой, течь, трескаться, лопаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1, 642; РСА И, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бриждёт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зудеть; чувствовать глухую боль или онемение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brideti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть острым (об орудии); колоть, жечь, зудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брыдёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щипать, разъедать (гово­ рится о глазах, когда в них попадает мыло)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. А. Расторгуев. Словарь народных говоров Западной Брянщины, 55)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, 
+производный 
+от 
+основы 
+<ref type="etymon" target="brid-">*brid-</ref> 
+(см. 
+<ref type="etymon" target="bridbkb">*bridbkb)</ref>.</gram>
+  </gramGrp>
+  <note>См. Berneker 1,86; Георгиев Б Е Р 1, 78; Skok. Etim. rjecn. 1, 209. Если не считать русск. диал. свидетельства, данный гл. на -eti исключительно южнославянский.</note>
+</Entry>

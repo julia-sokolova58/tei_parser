@@ -1,0 +1,22 @@
+<Entry xml:id="eziti-2">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕžiti</orth>
+    <lemma>ĕžiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>jĕžiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шелушить, лущить, чистить (от кожуры), также jeziti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372; Бела Краина, см. Bezlaj, ниже)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сближается с лит. aizyti 'лущить', dizeti 'трескаться, лопаться', iezti 'лущить' &lt; и.-е. *aig-, далее ср. сюда же слав. *ezva. См. Bezlaj. Etyma slovenica 15.</note>
+</Entry>

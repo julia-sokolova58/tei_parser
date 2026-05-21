@@ -1,0 +1,26 @@
+<Entry xml:id="gadjj">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadjьjь</orth>
+    <lemma>gadjьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гажий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>змеиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 14; Филин 6, 93: олон., ленингр., пек., Латв. ССР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф. -;ь от<ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. более распространенное<xr type="compare">см. <ref type="etymon" target="gadbjb">*gadbjb</ref>
+    </xr>....</note>
+</Entry>

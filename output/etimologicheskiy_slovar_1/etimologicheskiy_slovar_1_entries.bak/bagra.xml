@@ -1,0 +1,60 @@
+<Entry xml:id="bagra">
+  <pb n="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagra</orth>
+    <lemma>bagra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>багра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>краска; цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>багра</ref> ж. -р.</orth>
+      </form>
+      <sense>
+        <def>цвет, окраска, п у р п у р , багрянец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bagra</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>pigmentum, мазь, которой смазывают сети, чтобы они не рва­ лись от с у х о с т и , багра ж. р. растение Puccinia gra- minis , багра ж. p. скрасная краска, вид морской рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PCA I, 230)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>багра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>п у р п у р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Во всем, кроме рода, тождественно *Ьа#(ъ)гъ I (см.; там же подробно об этимологии). Любопытно обратить внимание на изоглоссную связь ю.-слав. форм с блр. словом, тем более что относительно последнего трудно предположить книжное заимство­ вание, как это, видимо, имело место в других близких случаях в вост.-слав, языках.</note>
+</Entry>

@@ -1,0 +1,59 @@
+<Entry xml:id="dolanin">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dol’an(in)ъ</orth>
+    <lemma>dol’an(in)ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>do</ref>\anin м. p.</orth>
+      </form>
+      <sense>
+        <def>житель долины , также доланин м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 611)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 495)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>doljan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>житель долины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dolan</ref> м. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dolan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обитатель равнины, подолянин .— Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Dolenfe</ref> (ср. Gorenje)&lt;^*dolene мн., см. Bezlaj.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Eseji о sloven, jez. 108.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -ап(in)ъ/-ёп(in)ъ от<ref type="etymon" target="dolb-3">*dolb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

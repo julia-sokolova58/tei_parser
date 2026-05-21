@@ -1,0 +1,62 @@
+<Entry xml:id="brusati">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusati</orth>
+    <lemma>brusati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брусом</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить тяжело и с шумом (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брусом</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбивать (плоды, зерно)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brusati</ref> se</orth>
+      </form>
+      <sense>
+        <def>выбиваться из сил, спеша, гонясь за чем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 686)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brousati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крупно молоть, дробить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 101)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (итеративно-дуративный), соотносительный с 
+<ref type="etymon" target="bru--2">*bru-</ref>
+siti (см.), основным глаголом этого этимол. гнезда, и с именем 
+(см.).</gram>
+  </gramGrp>
+</Entry>

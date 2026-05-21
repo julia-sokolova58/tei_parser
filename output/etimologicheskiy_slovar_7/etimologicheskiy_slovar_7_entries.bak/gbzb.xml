@@ -1,0 +1,32 @@
+<Entry xml:id="gbzb">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>g b z b</orth>
+    <lemma>g b z b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>giez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>овод, слепень . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gzel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>овод, слепень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 240)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Соотносительно с гл. gъziti (см.; там же этимологии).</note>
+</Entry>

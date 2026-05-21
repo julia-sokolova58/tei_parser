@@ -1,0 +1,38 @@
+<Entry xml:id="bliskunb">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bliskunb</orth>
+    <lemma>bliskunb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бласкун</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение мята Mentha pulegium (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блискХнъ</ref>, блИскНнъ [ITJXCDV, papaver</orth>
+      </form>
+      <sense>
+        <def>мак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сильв, и Ант. вопр., Срезневский, I, 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ипъ</ref>
+      </m> от гл. <ref type="etymon" target="bliskati">*bliskati</ref> (см.; там же подроб­
+ности о вокализме).</gram>
+  </gramGrp>
+  <note>См. Sadnik—Aitzetmuller. Vgl. Wb. 2, 138. Болг. бласкун &lt;<xr type="compare">см. <ref type="etymon" target="blyaskun">*бляскун:</ref>
+    </xr> Георгиев, там же. Ср. и цслав. 
+блЪскоунЪу приводимое у Sadnik—Aitzetmuller, там же.</note>
+</Entry>

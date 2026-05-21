@@ -1,0 +1,156 @@
+<Entry xml:id="drazniti">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drazniti</orth>
+    <lemma>drazniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дразня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дразнить, возбуждать, вызывать (напр. аппетит)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дразни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздражать (Й-С)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дразнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дразнить, раздражать, подзывать, сгонять (скотину, стадо)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 654)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drdzniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дразнить, раздражать , ср. и соотносительное сущ-ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drdzn</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>раздражение (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drdznit</ref>, drdzlif</orth>
+      </form>
+      <sense>
+        <def>дразнить, раздражать , draznic то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 65)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>draznU</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дразнить, шалить, шутить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 198—199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>draznic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раз­ дражать, беспокоить, возбуждать, щекотать, выводить из себя, сердить, злить, дразнить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дразнить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>умышленно, намеренно сердить кого, раздражать чем-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дразнить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подражать , дражнйтъ дразнить (тамб., орл., курск., сарат., куйб., Краснодар., донск., калуж., пенз., ряз., тул., моек., твер., смол., новг.), именовать, называть по имени, звать (орл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Богораз 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дражнйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драз­ нить, сердить, прозывать, называть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 440)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дражнщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вередить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Наиболее вероятно объяснение как производного гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> 
+от слабо засвидетельствованного имени <ref type="etymon" target="draznb">*draznb</ref> (см. выше ст.-чеш.), 
+кот. представляет 
+собой производное с суфф. -zrib от основы 
+<ref type="etymon" target="dra-">*dra-</ref>, 
+см. <ref type="etymon" target="draskati">*draskati</ref>.</gram>
+  </gramGrp>
+  <note>См. Berneker 1, 221; Преобр. I, 193; Фасмер I, 534; Георгиев БЕР VI, 419; Stawski I, 162; Machek 127 (с отличиями в деталях).</note>
+</Entry>

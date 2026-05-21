@@ -1,0 +1,81 @@
+<Entry xml:id="bratranb">
+  <pb n="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratranb</orth>
+    <lemma>bratranb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratranbCb</orth>
+    <lemma>bratranbCb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratrenbCb</orth>
+    <lemma>bratrenbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bratranu</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>двоюродный брат ,сын брата, племянник (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bratranec</ref>, род. п. -псе, м. р.</orth>
+      </form>
+      <sense>
+        <def>сын дяди или тетки, двоюрод­ ный брат</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bratrenec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>patruelis, cognatus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl И)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bratranec</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 911)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>bratsenc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоюродный брат, patruelis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Chojn., Muka St. I, 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное (с помощью суфф.<m type="suffix">
+        <ref>-апъ</ref>
+      </m>, <m type="suffix">
+        <ref>-ап-ъсъ</ref>
+      </m>, 
+<m type="suffix">
+        <ref>-еп-ъсъ</ref>
+      </m>) от <ref type="etymon" target="ga-3">*Ьга</ref>&amp;ъ 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. параллельные *ЪгаЬапъ, *Ъга- tanbcb (см.;.</note>
+</Entry>

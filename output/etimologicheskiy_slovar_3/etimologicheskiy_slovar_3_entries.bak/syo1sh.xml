@@ -1,0 +1,138 @@
+<Entry xml:id="syo1sh">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сё1Ш</orth>
+    <lemma>сё1Ш</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ц</ref>/клити OepotTreoeiv, sanare</orth>
+      </form>
+      <sense>
+        <def>исцелять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>целя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исцелять, лечить (гл. обр. душевные недуги)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цели</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исцелять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>cijeliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>sanare лечить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в. R J A I, 784)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исцелять, вылечивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исцелять, лечить, елвц. celif то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cylic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать целым, дополнять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>ц</ref>$лити</orth>
+      </form>
+      <sense>
+        <def>лечить, врачевать, исцелять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остром, ев. и др., Срезневский III, 1449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>целить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>творить цела, здорова; исцелять, врачевать, лечить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>щлйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исцелять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 432)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, 
+соотносительный 
+с прилаг. 
+<ref type="etymon" target="syo1-6">*сё1ъ</ref> (см.), основой 
+на -й.</gram>
+  </gramGrp>
+  <note>Близкое образование — гл. на -i — может быть указано в герм., ср. гот. (ga)hailjan 'исцелять, лечить', нем. heilen то же.</note>
+</Entry>

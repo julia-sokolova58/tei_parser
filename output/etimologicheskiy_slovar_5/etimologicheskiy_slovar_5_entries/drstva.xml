@@ -1,0 +1,114 @@
+<Entry xml:id="drstva">
+  <pb n="226" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrstva</orth>
+    <lemma>dьrstva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дресва</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>вид непрозрачного кварца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 693)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfstev</ref>, род. п. -stva, м. р.</orth>
+      </form>
+      <sense>
+        <def>известняковый шпат, гравий , drsteu песок, которым начищают медные котлы, гравий, крупный песок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Badjura 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzierstwa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Triumfetta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. 1,645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>drzastwo</ref>, drzqstwo</orth>
+      </form>
+      <sense>
+        <def>гравий, щебенка, мелкие камешки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(середина XV в., SL stpol. II, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дресва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мелкий щебень, круп­ ный песок, получающийся от выветривания горных пород, при обделке камня и т. п</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дресва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мель в реке , дресва песок с ледешками, камушками, остатки после мятья льна , крупные железные опилки, мелкие обрезки листового железа (самар.), красный песчаник (перм.), остатки после мятья льна (вят.) , дресла ж. р. источенный белый камень, используемый для жерновов; дресва , дрезва ж. р. крупный песок; дресва , дверста ж. р. дресва , также с измененной формой гверста , зверства , гверзда ж. р. галька .— Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(том., Опыт 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(амур., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вят., Фи­ лин 8, 182)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., олон., Филин 8, 283)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., пек., Опыт 36; Труды МДК.— РФВ LXII, 1909, 296; Филин 6, 158)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., Филин 6, 158)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(псков., петерб., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drst</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мусор, сор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 339)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="dbrstati">*dbrstati</ref> (см. предыдущее).</gram>
+  </gramGrp>
+  <note>См. — с отли­ чиями в деталях — Berneker I, 256—257; Фасмер I, 538 (объяс­ няет несколько механистично из расширения корня *der- с помо­ щью суфф. -стъ, -ъство)\ Bezlaj. Etim. slovar sloven, jez. I, s. v.</note>
+</Entry>

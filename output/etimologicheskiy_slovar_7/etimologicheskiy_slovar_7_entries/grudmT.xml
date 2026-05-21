@@ -1,0 +1,100 @@
+<Entry xml:id="grudmT">
+  <pb n="151" end_page="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grudmT</orth>
+    <lemma>grudmT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грумик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>большой кусок (с. Станкьовци, Брезнишко, Архив Болг. диал. словаря, София), грумец каменная глыба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дебърско, ИССФ II, 294, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>грумок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ком, комок , далее — производное грумул&gt;е, груму.ька комок непромешанной муки в тесте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(J. Тасевски. Зборови од те- товскиот говор. — MJ III, 7, 1952, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гружен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ком (соли, земли), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>грумёгь</ref> м. р. , груме, род. п. -ета, ср. р. то же , грум, грум м. р.</orth>
+      </form>
+      <sense>
+        <def>кусок, ком , сюда же грун м. р. кусок, ком, группа, куча , грумйк м. р. кусок, ком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 705)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 704)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; RJA III, 480)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 706; Ровинский 647)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 705)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdmbelj</ref>, род. п. -Ы]а, м. р..</orth>
+      </form>
+      <sense>
+        <def>небольшая куча сена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грум</ref> , ср. сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Фасмер I, стр. 464 без указ. источника)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гарумт</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>семена гороха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мшска-маладзеч. III, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -теп- (и смежными) от основы<ref type="etymon" target="gruda-2">*gruda</ref> 
+(см. <ref type="etymon" target="grqda-2">*grqda</ref> j<ref type="etymon" target="gruda-2">*gruda)</ref>.</gram>
+  </gramGrp>
+  <note>Соответствует лит. graumenys мн. 'пустошь, чаща, дремучие леса' &lt;^*graudm-. См. Фасмер I, 464; Fraenkel I,. 164; Bezlaj. Etim. slovar sloven, jez. I, 184.</note>
+</Entry>

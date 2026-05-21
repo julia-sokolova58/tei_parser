@@ -1,0 +1,241 @@
+<Entry xml:id="cudo">
+  <pb n="128" end_page="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cudo</orth>
+    <lemma>cudo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -dese</orth>
+    <lemma>род. п. -dese</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cudb</orth>
+    <lemma>cudb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чоудо</ref>, род. п. -ere, ср. р. uaojxa, miraculum</orth>
+      </form>
+      <sense>
+        <def>чудо (iYIikl., Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чудо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: чюдъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чудо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо, диво, удивление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чудо</ref> ср. р. (мн, ч. чуда и чудеса)</orth>
+      </form>
+      <sense>
+        <def>чудо, (диал.) беда, несчастье, нареч. много</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>чудёсо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо , cuda много , cuda много</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ка. 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cudo</ref>, род. п. -desaj-da, ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо, нареч. много, удивление , cud, род. п. cuda, м. р. уди­ вление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cudo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо, чудище, чудак , также cudeso ср. р. чудо , cud м. р. чудо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 224)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 224)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cudo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cwodo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чудо, диковина, чудовище , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cudo</ref>, czudo</orth>
+      </form>
+      <sense>
+        <def>miraculum prodigium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1437 г., Si. stpol. I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cud</ref> M. p. (с мазурением)</orth>
+      </form>
+      <sense>
+        <def>чудо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1044)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cud</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чХдо</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чудо, сверхъестественное явление (Остр. ев. и мн. др.), удивление (Гр. Наз. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1547— 1548)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чудо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>в религиозных и мифологических пред­ ставлениях — явление, противоречащее законам природы и не объ­ яснимое ими, но возможное вследствие вмешательства потусто­ ронней силы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чудо</ref> ср. р. гчудо, диво</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чудо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>диво, чудное происшествие, шалости, непри­ личные выходки, странности , чуд м. р. чудо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 701)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Объясняют как имя с суфф. -d-, соотносительное с гл.<xr type="compare">см. <ref type="etymon" target="uti">*&lt;$uti</ref>
+    </xr>. При этом отмечается раннее развитие основы на -es- и 
+индоевропейская древность слав, образования, ср. родственное 
+греч. xoSos род. п. -eos ср. р. 'слава, честь, почет, великолепие'.</note>
+  <gramGrp>
+    <gram>Однако нельзя пройти мимо того факта, что слав.<ref type="etymon" target="cudo">*cudo</ref> восхо­
+дит к и.-е. <ref type="etymon" target="keados">*keados</ref>, а греч. хо8о&lt;;—к особому и.-е. <ref type="etymon" target="kudos">*kudos</ref>; далее, 
+греч. знает как будто только формы с вокализмом -о- данного
+и.-е. корня, ср. прежде всего xosco 'замечать, внимать, слушать', 
+и вообще не знает ступени 
+характерной для слав, имени и 
+гл. Т. о., отождествление слав, и греч. имен может быть при­
+нято с оговорками, касающимися апофонии корня.</gram>
+  </gramGrp>
+  <note>Что касается словообразования, то совершенно очевидно, что функции суффик­ сального -d- в слав, и греч. могут не совпадать. Принадлежность слав. *cudo I *cudese к основам на -es- как будто поддерживается аналогичной принадлежностью греч. xoSos / xoSeog (*kudos / *kudesos). Вместе с тем формы вроде *cudb м. p., *cuditi,<xr type="compare">см. <ref type="etymon" target="sis1yg">*сис1ыгъ</ref>
+    </xr> 
+свидетельствуют о наличии варианта без удомянутого исхода ос­
+новы. Основы на -es- обычно сохраняют вокализм глагола, поэтому 
+сомнения может вызвать связь хо8о^ с 
+XOSCD И , наконец, xoSog 
+с *cudo: *cuti. 
+См. Miklosich 37; Berneker I, 161; E. Prokosch AJPh XXXII, 
+1911, 433; P. Persson. Beitrage zur indogerm. Wortforschung I 
+(Uppsala, 1912), 187—188 обращает внимание на 
+возможную 
+связь греч. хо8о&lt;; ср. р. 'слава, честь' с хиВо? м. р. 'хула, хуле­
+ние', xo5dC(o 'бранить, хулить'); Briickner 67 (реконструирует ко­
+рень *skju-); S. Е. Mann «Language» 26, 1950, 384 (сближение 
+с греч. xeoftos 'укрытие', брет. kiiz 'тайник, тайна', валл. cudd 
+то же); Pokorny I, 587; С. Б. Бернштейн. Следы именных ос­
+нов на -s- в славянских языках.—ВЯ 1970, № 3, 76—77 (об 
+инновационном 
+характере 
+образования 
+-s-основы 
+*cudo / -ese 
+в ряде слав, диалектов, гл. обр.—в ю.-слав., ср. отсутствие 
+вообще корня cud- в чеш. и книжный характер основы чудес-
+в вост.-слав., но ср. народный характер примеров с основой *ки-
+des- в русск.); Фасмер IV, 377—378; F. Stawski «Studia indo-
+europejskie», 1974, 213.</note>
+</Entry>

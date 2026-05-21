@@ -1,0 +1,66 @@
+<Entry xml:id="gubati">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gubati</orth>
+    <lemma>gubati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>губати</ref> се</orth>
+      </form>
+      <sense>
+        <def>сгибаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gubdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать, собирать в складки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gubac</ref> sie</orth>
+      </form>
+      <sense>
+        <def>закатываться, подтыкаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 938, St. gw. p. II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gitbcic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать, собирать в складки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 311)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Дуратив-итератив на<m type="suffix">
+        <ref>-ati</ref>
+      </m>&gt; 
+соотносительный 
+с гл. <ref type="etymon" target="gubiti">*gubiti</ref> 
+(см.) 
+и <ref type="etymon" target="gbbngti-2">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Форма *gubati, не включенная, напр., Бернеке- ром в число старых образований этого глаг.-именного гнезда (см. Berneker I, 360—361: guba; gubb; gub'g, gubiti), может счи­ таться достаточно древней. Ср. параллелизм в лтш. gubat 'идти сутулясь', также gubaties (по вокализму корня ближе лит. gaubti 'покрывать, закутывать'),</note>
+</Entry>

@@ -1,0 +1,47 @@
+<Entry xml:id="bezpbrstbjb">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpbrstbjb</orth>
+    <lemma>bezpbrstbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezprsty</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>беспалый, без пальцев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezprsty</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>беспалый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беспёрстый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беспалый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 172)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-82">*bez</ref> (см.; 
+там же о словообразовании) и <ref type="etymon" target="rg">*ръг</ref>^ъ (см.).</gram>
+  </gramGrp>
+</Entry>

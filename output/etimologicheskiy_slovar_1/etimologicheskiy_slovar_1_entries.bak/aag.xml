@@ -1,0 +1,33 @@
+<Entry xml:id="aag">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьа\агь</orth>
+    <lemma>Ьа\агь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>батръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сказочник , бахаръ, ба~ хорь м. р. говорун, краснобай, сказочник, знахарь, любовник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вогораз 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 152)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на<m type="suffix">
+        <ref>-х-агь</ref>
+      </m> 
+от основы <ref type="etymon" target="a--5">*Ьа-</ref> 
+(см. 
+<ref type="etymon" target="bajali">*bajali)</ref>.</gram>
+  </gramGrp>
+  <note>См. А . И. Соболевский И О Р Я С X X V I I , 1924, 324; Berneker I, 38; Фасмер I, 136. Ср. еще расширения на -х-ог- от той же основы, ниже.</note>
+</Entry>

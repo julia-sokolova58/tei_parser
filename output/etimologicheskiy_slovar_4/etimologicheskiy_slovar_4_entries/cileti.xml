@@ -1,0 +1,54 @@
+<Entry xml:id="cileti">
+  <pb n="111" end_page="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cileti</orth>
+    <lemma>cileti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ciliti I</orth>
+    <lemma>ciliti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чили</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вымирать, исчезать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чилети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть духом, потерять силы, прийти в упадок (в имущественном отношении)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 685)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m> (или <m type="suffix">
+        <ref>-Ш</ref>
+      </m>?), соотносительный с праслав. *6ila (см.). 
+Подобно тому как для имени <ref type="etymon" target="cila">*cila</ref> 'миг, минута' « ' м и г покоя') 
+находится полная параллель в гот. fveila (и других герм.) 'мгно­
+вение, минута, время', точно так же для праслав. гл. *6ileti 
+(*6iliti) 'падать духом, приходить в упадок' находится глагольное 
+соответствие в герм,: гот. fveilan 
+'пребывать, прекращать', нем.
+6 i l e t i / * 6 i l i t i II 
+weilen 'пребывать, покоиться'.</gram>
+  </gramGrp>
+  <note>В этимол. словарях слав, глагол не освещался. Омонимично *cileti / *ciliti II (см.).</note>
+</Entry>

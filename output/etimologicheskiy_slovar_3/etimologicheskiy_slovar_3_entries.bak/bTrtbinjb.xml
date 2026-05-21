@@ -1,0 +1,95 @@
+<Entry xml:id="bTrtbinjb">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bT&gt;rtbin&gt;jb</orth>
+    <lemma>bT&gt;rtbin&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>brtny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бортный (о диких лесных пчелах)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bartny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бортный, бортнический</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бортьныи</ref>, борътъныи, прилаг. от борть, alvei, apiarii , боротной ста­ роста</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Р. Прав. Влад. Мон. 1114 г., Срезневский I, 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(грам. 1453 г., в сп. XVII в., см. А. А. Шахматов ИОРЯС VII, 1902, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бортный</ref>, прилаг.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бортный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бортный, бортнический</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. З Р . I, 18—1347 и мн. др. Тимченко I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ббртны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>имеющий естественное дупло, в которОхМ селится семья диких пчел (о дереве)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Анохина, П. В. Никончук. Полесская терминология пчеловодства. — «Лек­ сика Полесья» 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>бартны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бортный, с бортью (о дубе), такой, в котором ведутся пчелы . — Сюда же субстантивная форма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусш II, 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ббртенъ</ref>, род. п. -тня, м. р.</orth>
+      </form>
+      <sense>
+        <def>улей для приманки пчел, который обыкновенно ста­ вится на деревьях в саду или лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Дои. к Опыту 12)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="n-6">*ЬъНъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

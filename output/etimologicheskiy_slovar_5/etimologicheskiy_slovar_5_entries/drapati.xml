@@ -1,0 +1,257 @@
+<Entry xml:id="drapati">
+  <pb n="101" end_page="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drapati</orth>
+    <lemma>drapati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драпам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панчев, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>драпам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать , .драпам грубо почесываться, царапать, бить , дра­ пам спотыкаться в темноте, идти кое-как по плохой дороге , драпъм добираться, добиваться с трудом , драпъм, ждрапъм чесать, биться, добиваться , ма­ кед. драпа чесать, скрести также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 76; Д. Евстатиева. С. Тръстеиик, Плевенско. — БД VI, 168; с. Бобо- шево, Стдим:; с. Говедарци, Самоковско.—СбНУ XLII, 257; ИИБЕз IV, 302, Архив Болг. диал. словаря, София; с. Въбел, Никополско, Плев, окр., дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж.—БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева и К. Димчев. Речник на хасковския градски говор.—БД V, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.—БД IV, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>drapat</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hend- riks. The Radozda-Vevcani dialect of Macedonian 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драпами</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, чесать , сюда же дрцплати се чесаться , драфати чесать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ, РСА IV, 659—660)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drapati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, чесать, ковыряться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167; Jarnik 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drapati</ref> (. . . psicek drapaje nohu; Ст.- чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drapati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, рвать (ногтями, когтями)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drapat</ref> peri</orth>
+      </form>
+      <sense>
+        <def>щипать перья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>driapaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, рвать, щипать (перья), тащить, вытаскивать с трудом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>drapac</ref> ёе</orth>
+      </form>
+      <sense>
+        <def>царапаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drapac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, рвать (когтями)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1о8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drapas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать, чистить скребницею^ скоб­ лить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drapac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скрести, царапать, рвать (напр. когтями), щекотать, удирать , словин, drdpac царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 351—352)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>драпать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бежать, отступать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>драпать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать когтями, ногтями; драть, рвать , царапать (П. А. Рас­ торгуев. Словарь народных говоров Зап. Брянщины), дрАпать царапать, драть , дрЛпать царапать когтями, ногтями; драть, рвать (южн., курск.), черкая, рисуя и т. п., пачкать что-либо (донск.) , говорить пустяки, болтать (перм.), сплетничать, наговаривать на кого- либо (перм.), испражняться (перм.) , сюда же, далее, дрЛбать царапать когтями, ногтями; драть, рвать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап., Филин 8, 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(юж., зап., Даль 3 I, 1238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 230)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Фи­ лин 8, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>драпати</ref>, дрЛпати</orth>
+      </form>
+      <sense>
+        <def>царапать , дрЛпатися царапаться, карабкаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 441, 450)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>драпати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвсь- кого д1алекту)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>драпацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от более древнего <ref type="etymon" target="yga-">*йга-/</ref>?-, образован­
+ного с 
+формантом от старой ступени огласовки корня, пред­
+ставленного в праслав. 
+<ref type="etymon" target="dbrati-4">*dbrati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. греч. 8р(отггог 8кххо.тта) (Гесихий). См. Berneker I, 220; St. Mladenov AfslPh XXXVI, 1916, 119.</note>
+</Entry>

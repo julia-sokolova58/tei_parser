@@ -1,0 +1,96 @@
+<Entry xml:id="bakati">
+  <pb n="140" end_page="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bakati</orth>
+    <lemma>bakati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bakati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>increpare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X V I в., редк., R J A I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bakati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ссорить, натравливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bdkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>много болтать о пустяках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k. Bart. 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>bakac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(весело) кричать 3, ругать 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бакатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать, беседовать 4 . — Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бакулитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, пустословить 5 , а также, возм., ббкнутъ сказать что-либо т и х о 5 , сообщить что-либо не вовремя 5 и бокотатъ обидно выражаться , бякнутъ (влад., тамб.) сильно ударить о землю 5, (колым.) б у р к н у т ь 5 &lt;^ *бакнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Труды М Д К . Словарь к ответам на программу по Саратовск. губ. — Р Ф В L X V I , 1911, 204; Мельниченко 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. А. Шахматов И О Р Я С V I I , кн. 2, 1902, 346)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Расширение на -к- основы, представленной в<xr type="compare">см. <ref type="etymon" target="baati">*ba]ati</ref>
+    </xr> и 
+родственных. См. J. Olrqbski LP 1, 1949, 126; Sadnik—Aitzetmul­
+ler. Vgl. W b . 2, 118. Ввиду экспрессивного характера допустимо 
+считать относительно поздним 
+образованием.</note>
+</Entry>

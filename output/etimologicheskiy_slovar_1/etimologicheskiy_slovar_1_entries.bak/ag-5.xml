@@ -1,0 +1,43 @@
+<Entry xml:id="ag-5">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьагъ</orth>
+    <lemma>Ьагъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болото, место, непригодное для хозяй­ ственных целей (тверск.), глубокое место в море, где останав­ ливается пароход</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 2, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бар</ref> и. р.</orth>
+      </form>
+      <sense>
+        <def>м о ­ крое место между холмами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 27)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Не совсем ясно, можем ли мы говорить о бесспорном родстве с<xr type="compare">см. <ref type="etymon" target="bara">*bara</ref>
+    </xr>, кот. ведет себя как древний регионализм 
+субстрат­
+ного (иллир.?) 
+происхождения. 
+См. еще 
+Фасмер 
+I, 
+122, 
+кот. 
+не знал еще русск. диал. 
+форм.</note>
+</Entry>

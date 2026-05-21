@@ -1,0 +1,77 @@
+<Entry xml:id="baxora">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxora</orth>
+    <lemma>baxora</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bdchora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка, басня, выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X V в., Gebauer 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdchora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выдумка, побасенка, а также bachora ж. р. ребенок, только еще начинающий говорить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bdchora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выдумка . Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdchorka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>побасенка, выдумка ; лю­ бопытно отличие знач. приводимого Юнгманом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdchora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>набухшая слива . Русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>бахбра</ref> м. и ж.</orth>
+      </form>
+      <sense>
+        <def>разговорчивый человек, балагур, тот, кто хвастается, бахвалится, знахарь, знахарка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 156)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на -х-or- от основы Ьа- (см.<ref type="etymon" target="a--7">*Ьа-</ref>
+хагь, <ref type="etymon" target="bajati">*bajati)</ref>.</gram>
+  </gramGrp>
+  <note>Об экспрессивной роли -х- в этих образованиях см. Sadnik—Aitzetmuller. V g l . W b . 2, 117.</note>
+</Entry>

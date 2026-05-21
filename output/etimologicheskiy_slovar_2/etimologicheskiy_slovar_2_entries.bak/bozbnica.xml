@@ -1,0 +1,50 @@
+<Entry xml:id="bozbnica">
+  <pb n="229" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bozbnica</orth>
+    <lemma>bozbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>boznica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>храм</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>божнйця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полочка для икон, храм , бЬжпйця то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бажнща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полка с иконами; молельня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь 114)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Формально может быть понято как суффиксальное производ­ ное от праслав.<ref type="etymon" target="bog-4">*bogъ</ref> (см.), образованное с помощью формантов 
+-ъп-ica; столь же допустимо говорить здесь о субстантивирую­
+щем производном с суфф. -ica от прилаг. <ref type="etymon" target="o-3">*Ьо</ref>%ъпъ (см. след.).</gram>
+  </gramGrp>
+  <note>Вместе с тем полезно обратить внимание на близость согд. (ма- них.) ftyn- (vagn-) 'храм', кот. продолжает ир. *bagina- (согд. форму см. J. Gershewitch. A grammar of Manichean Sogdian. Oxford, 1954, 25). См. это сближение: О. Н. Трубачев ВЯ 1967, № 4, 41.</note>
+</Entry>

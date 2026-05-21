@@ -1,0 +1,118 @@
+<Entry xml:id="grobinica">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobi&gt;nica</orth>
+    <lemma>grobi&gt;nica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гробница</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>могила, гробница, (массовое) захоронение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: гробница)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гробница, склеп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>могила, также гробница ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 657—658)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grobnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>могила, склеп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>hrobnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гробница, склеп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гробьница</ref> coemeterium, xotp.Yji-rjpiov ,</orth>
+      </form>
+      <sense>
+        <def>надгробный храм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Передел, л. под 1145 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пут. Генн. и Позн. 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 595; III, 79')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пышная могила, мавзолей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гробница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., печор., арх., волог., яросл., самар., орл., Филин 7, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гробнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гроб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="grobn">*grobьnъ</ref> 
+(см.), субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

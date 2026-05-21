@@ -1,0 +1,101 @@
+<Entry xml:id="celesbnbjb">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celesbnb (jb)</orth>
+    <lemma>celesbnb (jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celesbno</orth>
+    <lemma>celesbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celesn</ref>, celesen, род. н. -snaj-snu, M, p . , также -stna,</orth>
+      </form>
+      <sense>
+        <def>печь , celesen м. p. furnus (XIV в.), cirpus, cirbus (XV в.) (Ст.-чеш., Прага), celesno устье, чело печи (Ст.-чеш., Прага), также лётка, отверстие улья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer 1, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celesten</ref>, род. п. -stna, celesen, род. п. ~snu, м. p., celestno, celesno</orth>
+      </form>
+      <sense>
+        <def>устье, чело печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>celesno</ref> ср. р. то же , также cesno ср. р.</orth>
+      </form>
+      <sense>
+        <def>лётка, отверстие улья, ceslo ср. р. то же, cesno ср. р. чело печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mist г. 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cesno</ref>, ceslo ср. р.</orth>
+      </form>
+      <sense>
+        <def>лётка, отверстие улья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>celesno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>челесь</ref>- ныи</orth>
+      </form>
+      <sense>
+        <def>главный, основной (Панд. Ант. Xil—XIII в.), началь­ ствующий (Псалт. толк. ХП в.), высший, верховный (Панд. Ант. XIV—XV вв.) .—Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский 111, 1487)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>celusna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отверстие печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от псевдоосновы на -es-<ref type="etymon" target="celes-">*celes-</ref> (см. <ref type="etymon" target="seo">*се/о)</ref>, или — в большинстве случаев выше — от <ref type="etymon" target="ceVustb-2">*ceVustb</ref> 
+(см.; ср. и знач. 'устье печи' и т. п.) с последующей ранней 
+контаминацией с упомянутой псевдоосновой.</gram>
+  </gramGrp>
+  <note>В ряде примеров выше прилаг. субстантивировано. Маловероятно см. Machek 2 97: celesno &lt; *celneso&lt;^*kelnes-o—к греч. xelXo; 'губа' из *khelnos.</note>
+</Entry>

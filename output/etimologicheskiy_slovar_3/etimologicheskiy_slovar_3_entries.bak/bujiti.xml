@@ -1,0 +1,65 @@
+<Entry xml:id="bujiti">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujiti</orth>
+    <lemma>bujiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ьоуити</ref> СА xa-aorcaxaXav, in deliciis vivere (Miklosich LP)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>буйм</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буйно и быстро расти (о траве и деревьях, ко­ торые растут на хорошей почве) (Зап. Болгария, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пышно разрастаться, под­ ниматься (о воде), бурно развиваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бу</ref>]ити</orth>
+      </form>
+      <sense>
+        <def>буйно расти, прибывать (о воде); кипеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I I , 2 6 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bujit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать тучным, жирным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 7 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, близкий к <ref type="etymon" target="bujati">*bujati</ref> 
+(см.); ср. еще <ref type="etymon" target="i-2">*Ьи]</ref>'ъ (см.).</gram>
+  </gramGrp>
+</Entry>

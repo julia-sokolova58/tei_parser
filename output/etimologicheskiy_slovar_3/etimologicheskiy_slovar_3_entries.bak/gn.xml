@@ -1,0 +1,66 @@
+<Entry xml:id="gn">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬгНъ</orth>
+    <lemma>ЬгНъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>brit</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>острие, острота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Saselj I, 2 4 4 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfit</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>острие (холодного оружия или режущего орудия) (Ст.-чеш., Прага: нет)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>острие, лезвие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 1 3 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брит</ref>, бриток м. р.</orth>
+      </form>
+      <sense>
+        <def>огузок, кохмель снопа, нижний, срезанный конец , верхний, колосовой конец хлеб­ ного снопа, а также крупное, тяжелейшее зерно хлеба , зерно высшего сорта (Картотека Псковского областного словаря). — Что каса­ ется формы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 I, 3 1 4 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бурна- шев. Опыт терминологического словаря I, 5 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брид</ref> (брит)</orth>
+      </form>
+      <sense>
+        <def>прорезь в стенках квашни для укрепления дна (Картотека Псковского областного сло­ варя), то она вторична, из *прид (<xr type="compare">см. <ref type="etymon" target="pridb">*pridb</ref>
+          </xr>) и сюда не относится</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именная форма<ref type="etymon" target="gi">*ЬгИъ</ref> соотносительна с гл. <ref type="etymon" target="briti-5">*briti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

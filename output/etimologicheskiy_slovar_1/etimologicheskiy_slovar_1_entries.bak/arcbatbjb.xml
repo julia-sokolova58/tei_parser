@@ -1,0 +1,76 @@
+<Entry xml:id="arcbatbjb">
+  <pb n="71" end_page="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>arčbatbjb</orth>
+    <lemma>arčbatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ярябатый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пестрый, рябой , йаребата, прилаг., сивопепелява на цвят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jerabaty</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jarabaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пестрый , jafabati полосатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott Dod. к Bart. 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina Mistf. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jarabaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рябой, пестрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jerjebaty</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jarzfbaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пестрый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -at- от именной основы<ref type="etymon" target="ag-5">*аг</ref>$Ьъ (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,90 @@
+<Entry xml:id="dyxadlo">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyxadlo</orth>
+    <lemma>dyxadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дихалка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>легкие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйхало</ref> с р.</orth>
+      </form>
+      <sense>
+        <def>дыхательное горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dihdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дыхательный орган, запах, аромат</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dychadla</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дыхательные органы, елвц. dychadla мн. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дыхало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дыхательное горло, ноздря кита, белухи и сродных с ними животных, одно из двух отверстий на темени, на лбу, для дыханья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дыхало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кадык, ада­ мово яблоко (сев.-кавк.), нос (пек., смол.), грудь (?) (том.), затылок (пек., твер.), прозвище женщины, страдающей одыш­ кой (костр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 298)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дйхало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дыхательное горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 385)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название орудия с суфф. -(a)dloy производное от гл.<ref type="etymon" target="dyxati">*dyxati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

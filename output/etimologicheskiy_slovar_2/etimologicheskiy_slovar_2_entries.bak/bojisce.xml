@@ -1,0 +1,99 @@
+<Entry xml:id="bojisce">
+  <pb n="166" end_page="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojisce</orth>
+    <lemma>bojisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. 6ojumme <ref>ср</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>место борьбы, поле боя, не­ рестилище (рыбы) 1</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bojisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле боя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bojisce</ref> ср. р. то же , bojisce, bojiste</orth>
+      </form>
+      <sense>
+        <def>bellidulium (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bojiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле боя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bojisko</ref>, bojiste ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле боя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bojisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>утрамбованный пол в риге, где молотят цепами, гумно 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>boisko</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>ровная, утрамбованная площадка, гумно, рига , др,-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боище</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>место битвы {Твер. л, под 1216 г., Срезневский III</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Доп. 23'), русск. бойще* бой, обух, плоскость бьющая' (Даль 31, 265), укр. богще ср. р. 'битва, бой', 'место битвы' (Гринченко I, 82), диал. ббШшчё 'ток, гумно' (Онышкевич. Словарь бойковского диалекта 86—87).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="bojb-3">*bojb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Вариация -isce/-isko, как и развитие знач. 'гумно, ток, место, где молотят', сосредото­ чены в зап.-слав., гл. обр. вокруг польск. территории.</note>
+</Entry>

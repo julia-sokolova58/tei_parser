@@ -1,0 +1,84 @@
+<Entry xml:id="berzica">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzica</orth>
+    <lemma>berzica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брезйца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брезица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение метлица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брезица</ref> ж. р., ум. от бреза</orth>
+      </form>
+      <sense>
+        <def>береза, также в качестве названия пестрых животных , словетг. brezica ж. р. ум. березка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IJ, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bfazyca</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береза; березовый прут, березка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берёзица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовый сок . — Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(каз., Доп. к Опыту 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Brezice</ref> ж. мн., название села в Хорватии, местности — в Сербии .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA 1, 634)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="berza">*berza</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

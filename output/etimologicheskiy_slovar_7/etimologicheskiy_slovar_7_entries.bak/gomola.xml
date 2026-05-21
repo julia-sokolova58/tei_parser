@@ -1,0 +1,213 @@
+<Entry xml:id="gomola">
+  <pb n="17" end_page="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomola</orth>
+    <lemma>gomola</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomolb(jb)</orth>
+    <lemma>gomolb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomula</orth>
+    <lemma>gomula</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomyla</orth>
+    <lemma>gomyla</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gomo</ref>\a ж. р.</orth>
+      </form>
+      <sense>
+        <def>груда (сыра) , gom\x\a ж. р. большая куча камней , гдмила ж. р. куча, если не из<xr type="compare">см. <ref type="etymon" target="mogyla">*mogyla</ref>
+          </xr>; ср. еще гамила то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(о-в Брач, RJA III, 265)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 264)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>go</ref>- mlla</orth>
+      </form>
+      <sense>
+        <def>навозная куча, мусорная куча , Gbme\a, местн. название в Боснии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gomola</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>непло­ дородная земля, пустошь на сланцах , gomblj м. p. ком , gomolja ж. p. т о ж е , gomdlja вид свадебного пирога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 231; Erjavec LMS 1879, 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ho</ref>- mole ж. р. в ономастике (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>homole</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>конус, homol м. p.: ty nemas zadneho homola ты ничего не смыслишь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 722; Kott I, 457)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>gomoVa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>без­ рогая корова , gomoly безрогий , елвц. homoVa ж. p. конус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валаш., Bartos. Slov. 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>homola</ref>, homula ж. p.</orth>
+      </form>
+      <sense>
+        <def>ком, холм , homola, gomola метелка проса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1070)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gomola</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>колос проса, пшена , gomoly безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gomola</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gomula</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>без­ рогая корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Maciejewski. Ghelm.-dobrz. 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. - <ref>цслав</ref>, гомола</orth>
+      </form>
+      <sense>
+        <def>ком , голйлга то же , сюда же Гомолинъ, личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дан. XIV, 26, Срезневский I, 548)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1495 г., Писц. кн.. Тупиков 576)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гомблина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кусок хлеба (Картотека Псковского областного словаря), гамыла ж. р. боль­ шой кусок хлеба , гомыля кусок боль­ шой (о хлебе) (Картотека Новгородского ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 6, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гомила</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верзила, дубина , гамёла толстый, неповорот­ ливый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 307)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гамула</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>карто­ фельные клецки с салом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Магш. 132)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ближе всего лит. gamalas 'ком, ломоть, кусок', gamulas то же, а также gamulas 'комолый', gomulys 'ком, кусок'. Сравнение помогает выделить в слав, слове корень gom- и суф. -о/-, однако при этом едва ли можно говорить о регулярности соответствий, поскольку перед нами, по-видимому, экспрессивная лексика, что проявляется (независимо) как в балт., так и в слав, языках. Так, Буга (ниже) указал на близость такого рода у лит. gamalas с синонимичным лит. gabalas 'ком, кусок', а для слав. *gomolb 'безрогий' характерно наличие глухого дублета *кото1ъ то же. Сам корень *gom- в составе слав. *gomola признается звукопод­ ражательным. Изложенное делает маловероятным старинное срав­ нение с греч. ysfico 'быть полным'. См. Berneker I, 326; Г. А. Ильинский РФВ LXIII, 1910, 338 и сл.; К. Буга РФВ LXVII, 1912, 238—239; Он же РФВ L X X , 1913, 248; A. Bruckner KZ XLV, 1913, 42; Фасмер I, 435—436; Siawski I, 315; Machek 175; Fraenkel I, 132; V. Kiparsky «Scando-Slavica» XIV, 1968, 74.</note>
+</Entry>

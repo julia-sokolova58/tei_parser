@@ -1,0 +1,98 @@
+<Entry xml:id="darovitbjb">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darovitb(jb)</orth>
+    <lemma>darovitb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>даровит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>даровитый, способный, талан­ тливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>даровит</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>даровит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>даровитый, способный, умный, щедрый, богатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>даровит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>умный, способный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vuk. 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>darovit</ref>, -На, прилаг.</orth>
+      </form>
+      <sense>
+        <def>щедрый (darovito polje плодо­ родное поле), одарённый, даровитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>даровитый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щедрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон, л. II, 378, Срезнев­ ский I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>даровитый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>талантливый, одарён­ ный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>даровйтий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>даровой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 359)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. оиИъ от<ref type="etymon" target="darb">*darb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

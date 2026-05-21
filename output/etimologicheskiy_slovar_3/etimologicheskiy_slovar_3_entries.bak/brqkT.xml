@@ -1,0 +1,59 @@
+<Entry xml:id="brqkT">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brqkT</orth>
+    <lemma>brqkT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ъгоик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жук</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ъгак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ъгак</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жук, bruki мн. паразиты, зрелые плоды большой фасоли или красного боба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брюк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>навозный жук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 3, 222)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. образование; имя с<m type="suffix">
+        <ref>-о-вокализмом</ref>
+      </m>, производ­
+ное от гл. с корневым гласным -е-, см. <ref type="etymon" target="br-13">*br</ref>$kati 
+и др., выше.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 88; Schuster-§ewc. (машмноп.) 146. Иначе см. Machek 2 68: «Несомненно заимствовано из ср.-лат. brucus а это, в свою очередь, из греч. Зроохос, (Зроо^ос...)» С этим нельзя согласиться ввиду наличия русск. диал. брюк (см. выше), кстати, неизвестного ни одному из вышеупомянутых ученых.</note>
+</Entry>

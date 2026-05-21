@@ -1,0 +1,69 @@
+<Entry xml:id="domaseddomosed">
+  <pb n="68" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domasĕdъ/*domosĕdъ</orth>
+    <lemma>domasĕdъ/*domosĕdъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>domosedb</orth>
+    <lemma>domosedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>domased</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>лежебока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>domased</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>домосед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>домосед</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>старик или ребенок, остающийся дома во время страды, когда остальные уходят в поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(терск., Филин 8, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>домосгд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домосед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дамасёд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>до­ мосед</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="doma-2">*doma</ref> (см.) и <ref type="etymon" target="sedeti">*sedeti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. близкое лат. domiseda, см. В. Н. Топоров «Этимология. 1972» (М., 1974), 6.</note>
+</Entry>

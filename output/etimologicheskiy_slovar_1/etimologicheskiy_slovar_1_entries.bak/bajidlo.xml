@@ -1,0 +1,29 @@
+<Entry xml:id="bajidlo">
+  <pb n="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajidlo</orth>
+    <lemma>bajidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bajilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колдовство, заговор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 10)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от основы гл. <ref type="etymon" target="bajiti">*bajiti</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="bajadlo">*bajadlo</ref>
+    </xr> (см.) и ряд слов с основой *ba(d)l- 
+(см. ниже).</note>
+</Entry>

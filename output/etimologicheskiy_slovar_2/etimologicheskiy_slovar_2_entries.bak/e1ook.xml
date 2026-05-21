@@ -1,0 +1,92 @@
+<Entry xml:id="e1ook">
+  <pb n="68" end_page="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ье1оЬокъ(]ь)</orth>
+    <lemma>Ье1оЬокъ(]ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>белобок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>о скотине, у кот. есть белая растительность в паху</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; Геров: бЪлобокый, прилаг. ^имеющий белую окраску в паху')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белобок</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белобок</ref>, -а, -о</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>б</ref>]елобок</orth>
+      </form>
+      <sense>
+        <def>белобокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 447)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biatoboki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белобокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белобокая</ref> (корова)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быоббкий</ref> сс белыми боками</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белаббт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белобокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. И, 298. Сложное прилаг. предположительно праслав. типа.</note>
+  <gramGrp>
+    <gram>Образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="ok-2">*Ьокъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

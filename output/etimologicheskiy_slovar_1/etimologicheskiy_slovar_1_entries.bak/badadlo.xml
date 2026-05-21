@@ -1,0 +1,38 @@
+<Entry xml:id="badadlo">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>badadlo</orth>
+    <lemma>badadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>badalo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>хирургический зонд , острио</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mas 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. стар, <ref>badadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колючка, острие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 63)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="hadati">*hadati</ref> (см.) с помощью суфф. 
+-dlo.</gram>
+  </gramGrp>
+</Entry>

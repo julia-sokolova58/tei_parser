@@ -1,0 +1,40 @@
+<entries>
+  <entry xml:id="bucelbucel" xml:id="bucelbucel">
+    <pb n="74" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bučelъ/*bučelь</orth>
+      <lemma>Ьисе1ъ</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>Ьисе1ь</orth>
+      <lemma>Ьисе1ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бучел</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>выпь , бучил м. р. лягушка — жерлянка огненная , бучёлъ м. р. шмель</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(тамб., Филин 3, 329)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(ряз., там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(арх., там же)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное 
+с суфф. 
+-el- от звукоподражат. основы см. <ref type="etymon" target="i-">*Ъи-</ref>
+cati, 
+Ср. в семант. отношении лит. bukas 
+'выпь'.</gram>
+    </gramGrp>
+  </entry>
+</entries>

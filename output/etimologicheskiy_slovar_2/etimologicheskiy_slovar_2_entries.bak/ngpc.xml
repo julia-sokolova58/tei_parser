@@ -1,0 +1,168 @@
+<Entry xml:id="ngpc">
+  <pb n="122" end_page="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬНгьпč</orth>
+    <lemma>ЬНгьпč</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -§te</orth>
+    <lemma>род. п. -§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>близня</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>близнё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>близнец , близнёта мн. близнецы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 71; Шапкарев—Близнев БД III, 203)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блйзне</ref>, блйзпета ср. р.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blizne</ref>, род. п. -ete, ср. р.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bliznata</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>двойня, близнецы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slov. stfedoopav. 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bVizne</ref>, род. п. bVizneca, ср. р., мн. bVizneta , bVizna</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. DLha Luka 134)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Habovstiak Orav. 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bliznie</ref>, род. п. -ecia, ср. p.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blizna</ref>, род. п. -nica, ср. p.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>близнА</ref> BtSujxoc, geminus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 114—115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>близня</ref>, близнятко ср. р.</orth>
+      </form>
+      <sense>
+        <def>один из двой­ ней, из близнецов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>близня</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>близня</ref>, род. п. -яти, ср. р.</orth>
+      </form>
+      <sense>
+        <def>ребенок близнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блгзня</ref>, блгзнё то же.—Ср. ещё</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>blaizqta</ref> дв. ч.</orth>
+      </form>
+      <sense>
+        <def>близнецы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 38, с рекон­ струкцией *blizete)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -$t- (формант названий молодых существ) от основы прилаг.<ref type="etymon" target="shp-">*ЬШъп-</ref>.</gram>
+  </gramGrp>
+  <note>Эта форма отличается от ожидаемой *ЬШьп- (<xr type="compare">см. <ref type="etymon" target="shp">*ЬШъпъ]ъ</ref>
+    </xr>, ниже), ср. также ст.-чеш. blizne (выше), 
+в остальных примерах, возм., преобразовано вторично, хотя полной 
+ясности на этот счет нет. См. след.</note>
+</Entry>

@@ -1,0 +1,35 @@
+<Entry xml:id="cevina">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cevina</orth>
+    <lemma>cevina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>кивйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>длинная палка цепа (петерб., Карто­ тека Словаря русских народных говоров), кевйна ж. р. часть цепа, короткая палка, прикрепленная ремешком к более длинной, ею ударяют по снопам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>цавгна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель однолетнего растения (картофеля, помидоров, щавеля и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусш II, 189)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. - т а от<ref type="etymon" target="ceva">*ceva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,116 @@
+<Entry xml:id="bledbmjb">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledbm&gt;(jb)</orth>
+    <lemma>bledbm&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бледен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бледный, бесцветный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бледный 'бледный, палевый')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бледен</ref>, прилаг. * то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blijedan</ref>, blijedna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бледный , блёдан, -дна, -дно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 437)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bleden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>светлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bledny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блед- * ный, pallidus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>блЪдьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезнев- &gt; ский I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бледный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светлый, неяркий, белесоватый; (о светящемся теле) неяркий, несветлый, тускловатый , лишенный румянца, свежести, бескровный, слабо окра­ шенный, неяркий (о цвете ч.-л.), тусклый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блгдний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блед- * ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бледны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ыг- от более древнего<ref type="etymon" target="yy">*ЫЫъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Словообразовательная инновация, впрочем, достаточно ши­ рокого масштаба. Трудно сказать, сводится ли появление форм *Ыёйъпъ в отдельных случаях к влиянию русск. языка (ср. Sadnik—Aitzetmuller. Vgl. Wb. 2, 136) или это — параллельное развитие.</note>
+</Entry>

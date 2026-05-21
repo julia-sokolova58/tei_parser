@@ -1,0 +1,239 @@
+<Entry xml:id="gatgat">
+  <pb n="108" end_page="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatъ/ *gatь</orth>
+    <lemma>gatъ/ *gatь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gatb</orth>
+    <lemma>gatb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гат</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>запруда, плотина, такясе gata ж. р. , гата ж. р. навозная куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gata</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>затор, запруда, плотина , gat м. р. плотина, запруда , отводной канал , rgatbka</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jurancic. Panon. 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ha</ref>? ж. p.</orth>
+      </form>
+      <sense>
+        <def>гать, дорога в болотистой местности (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>haf</ref> ж. р. то же, также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>haf</ref> ж. p. , haf ж. p.</orth>
+      </form>
+      <sense>
+        <def>яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina, Mistf. 30; Bartos. Slov. 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>haf</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>запруда, плотина, ограда из прутьев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hat</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пруд, запруда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gat</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гать, запруда, пруд, садок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пояс, набедренная повязка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(конец XV в., St. stpol. II, 387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гать, запруда из прутьев, хвороста, дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1012)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ветки хвойных деревьев , сад над озером</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(A. Saloni. Lud prze- worski. — Wista XIII, 1899, 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tomasz. čор. 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gdc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>временный мост</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1144 г., Срезневский I, 511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гать</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>настил из бревен или хвороста для проезда, прохода через болото или топкое место</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пло­ тина , проселочная дорога, вымощенная тон­ кими древесными стволами, с канавами по сторонам , запруда, плотина для проезда, прохода через неболь­ шую речку, пруд (донск., курск., пек., костр., ворон., калуж., рост., самар., тамб., пенз., смол., вят.), топкое, непроходимое место (пенз., свердл.), часть водного пространства реки, примы­ кающая к мельнице (волог.) , непросыхающее место, лужа, плотина, дорога , также в кач-ве местн. и водн. названия Гать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельни­ ченко 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewassernamen I, 425; Russisches geographisches Na- menbuch II, 326—327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гать</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гать , мокрая низменность , гат гребля , сюда же гат м. р. гать , гат м. р. лес, роща , также гата ж. р. гать, не­ большая плотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 277)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Марусенко. Названия рельефов Хмельниц­ кой области 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ужгор. р-н Закарп. обл., Чучка 313)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 277)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Верхратський. Знадоби 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гаць</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Вместе с<ref type="etymon" target="gatji-5">*gatji</ref> (см.) продолжает и.-е. <ref type="etymon" target="g-2">*g</ref>"a- 'идти, проходить', 
+вернее — производное <ref type="etymon" target="g-3">*g</ref>"d-t- 'проход', 'то, что связано с проходом, 
+ходьбой', ср. др.-инд. gatd- м. р. 'проход, дорога', авест. gatu-
+'место'.</gram>
+  </gramGrp>
+  <note>Стар, сближение с *gajb, *gajiti (см., напр., Фасмер I, 397) элементарно неприемлемо прежде всего по фонетич. причинам. См. Berneker I, 296 (сближает с gajb, признавая в общем тем­ ным); Преобр. I, 120 («Не объяснено. М. б., от инде. корня: 'идти'»); Machek 2 162 (праслав. gatbjgatb сближает с др.-инд. ga-tu- 'дорога' от и.-е. gd- 'идти'); Stawski I, 246; Skok. Etim. rjecn. I, 554—555 (принимает мнение Махека).</note>
+</Entry>

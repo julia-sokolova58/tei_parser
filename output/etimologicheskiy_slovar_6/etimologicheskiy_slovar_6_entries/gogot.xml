@@ -1,0 +1,64 @@
+<Entry xml:id="gogot">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gogotъ</orth>
+    <lemma>gogotъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gogot</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гоготание (гусей)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гогот</ref> м. р. сзаливной крик или хохот</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 895)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>го</ref>­ гот м. р.</orth>
+      </form>
+      <sense>
+        <def>крик курицы перед снесением и после снесения яйца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сарат., Филин 6, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гбгШ</ref>, род. п. -готу, м. р.</orth>
+      </form>
+      <sense>
+        <def>ржанье, сильный и продолжительный звук, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбгат</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>смех, хохот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="gogotati">*gogotati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

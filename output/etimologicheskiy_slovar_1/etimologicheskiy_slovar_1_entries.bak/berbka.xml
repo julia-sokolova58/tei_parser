@@ -1,0 +1,53 @@
+<Entry xml:id="berbka">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berbka</orth>
+    <lemma>berbka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berika</orth>
+    <lemma>berika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёръка</ref>, бёрика ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовый и кленовый с о к , бёрика ж. р. березовый сок, собираемый весной и идущий на пригото­ вление кваса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(великол., пек., Филин 2, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>бёрка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>березовый с о к</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово, не учтенное этимол. словарями.</note>
+  <gramGrp>
+    <gram>Упомянув чисто внеш­ нее созвучие с чеш. bfecka 'березовый с о к ' и родственными (кот. Махек возводит к гипотетическому деминутиву от названия березы —<ref type="etymon" target="berzicbka">*ber(zi)cbka</ref>, см. Machek 47; Sadnik—Aitzetmuller. 
+V g l . 
+W b . 3, 147; см. иначе об этой лексике под <ref type="etymon" target="gyoska">*Ъгёсъка</ref>, ниже), мы 
+видим единственную возможность использовать вост.-слав, слово, 
+предположительно относимое нами к праслав. состоянию, опре­
+делив 
+его как 
+отглагольное имя, 
+производное с 
+суффиксами 
+-bkal-ika (см. варианты выше) от основы наст, времени Ъег- (см. 
+<ref type="etymon" target="bbrati-3">*bbrati)</ref>.</gram>
+  </gramGrp>
+</Entry>

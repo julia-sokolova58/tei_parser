@@ -1,0 +1,150 @@
+<Entry xml:id="gorbnakb">
+  <pb n="55" end_page="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbnakb</orth>
+    <lemma>gorbnakb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горняк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>северный ветер &gt; дуб, дубовый лес , верхний мельничный жернов (Ге­ ров— Панчев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>горньак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>западный ветер, верхний мельничный жернов , горньак м. р. холодный североза­ падный ветер , горньак, горнёк м. р. запад­ ный ветер , гурнак м. р. ветер, дую­ щий с верхней стороны , горнак м. р. лес (дубовый)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Зап. Бълга- р и я . — С б Н У XI, 1894, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов Б Д II, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 297)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж.—БД I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горуьак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>северный ветер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горуьак</ref> м. р. сзападный ветер</orth>
+      </form>
+      <sense>
+        <def>, мельничный жернов, горуьак м. р. горец, верховой, горный ветер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 489; RJA III, 289: с XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. (стар.) <ref>gornjak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>западный ветер , gornjdk м. р. горец, горный, северный ветер, западный ветер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gutsmann 502)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>horndk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вид синицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hru&amp;ka. Slov. chod. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>Horniak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>житель верхней (северной) Венгрии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тигс. Kalal 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>простореч</ref>. горнЛк м. р.</orth>
+      </form>
+      <sense>
+        <def>горнорабочий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горняк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бриз (ветер) на озере Иссык-Куль, дующий летом по ночам с гор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гхрняк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарняк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горняк</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от прилаг. <ref type="etymon" target="gorbnb">*gorbnb</ref> 
+(см.); субстанти­
+вация.</gram>
+  </gramGrp>
+</Entry>

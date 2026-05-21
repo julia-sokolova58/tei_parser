@@ -1,0 +1,129 @@
+<Entry xml:id="bocbmjb">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bocbm»(jb)</orth>
+    <lemma>bocbm»(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bocnl</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>lateralis, баковой , бдчнй, бочий -а, -о боковой, побочный (о родстве)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 468)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ьбсеп</ref>, -спа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боковой, сводчатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ьоспу</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>побочный, второстепенный, боковой, bocni то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Ьоспу</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боковой, побочный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ъбспу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ъбспу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой, сто­ ронний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>boczny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бочьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1259 г., Срезневский III, Доп. 25')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бочный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бхчпий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боковой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. 68)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="ok-2">*Ьокъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

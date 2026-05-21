@@ -1,0 +1,129 @@
+<Entry xml:id="bujbnostb">
+  <pb n="85" end_page="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujbnostb</orth>
+    <lemma>bujbnostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буйност</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буйность, буйство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бу</ref>]ност ж. р.</orth>
+      </form>
+      <sense>
+        <def>буйность, неукротимость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bujnost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>petulantia , буйность, неукротимость, по­ ловая зрелость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 719)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА И , 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bujnost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пышность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bujnost</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>бурный рост, расцвет, буйство, *bujbin»(jb) 81)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bujnosf</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>и</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>bujnosc</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>роскошничанье, невоздержанность, шалость, резвость, сует­ ность, тщетность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>буйность</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свойство, качество, состояние буйного: кичливость, самонадеянность, само­ управство, наглость, забиячливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 338)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>буй</ref>- нЬстъ ж. р.</orth>
+      </form>
+      <sense>
+        <def>изобилие, плодородие, невоздержанность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>буйнбсцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бушеванье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="shchp-3">*Ьщьпъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

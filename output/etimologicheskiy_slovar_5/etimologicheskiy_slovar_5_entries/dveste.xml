@@ -1,0 +1,120 @@
+<Entry xml:id="dveste">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vĕ sъtĕ</orth>
+    <lemma>d(ъ)vĕ sъtĕ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двёсте</ref>, двёста, числ.</orth>
+      </form>
+      <sense>
+        <def>двести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двёсте</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двесте</ref> , с введением формы мн. числ. —</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dejecma</ref>, двёста, сло- Еен. duesto</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>due</ref> ste</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duesto</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwieecie</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>deicmi</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ио. X X I . 8. Остр, ев.; Ефр. Крм. Трул. 1; Панд. Ант. XI в., Срезневский I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двёсты</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>двёста</ref> , дебета</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(яросл., Филин 7, 284)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., волог., вят., новг., сев.- двинск., олон., арх., каз., ряз., Филин 7, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>deicmu</ref> , delcmi, deicma</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 362)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзвёсце</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двести</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание форм дв. ч. ср. р. от<ref type="etymon" target="dbua">*d(b)ua</ref> (см.) и <ref type="etymon" target="sbto">*sbto</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

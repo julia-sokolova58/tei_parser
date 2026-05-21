@@ -1,0 +1,75 @@
+<Entry xml:id="edinicaednica">
+  <pb n="10" end_page="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edinica/*edьnica</orth>
+    <lemma>edinica/*edьnica</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edbnica</orth>
+    <lemma>edbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. (<ref>цслав</ref>.) ждиинцл ж. p. unitas, гедиыицен) атгаč, semel</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>единица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единственная дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еденица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единица, един­ ственная дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>едйница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единственная дочь, домотканое редкое сукно (в одну нитку), jedlnica ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 529—530)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>edinica/*edьnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единственная дочь , ednica ж. р. единица (Plet</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>I, 193), также enica ж. p. (Plet. I, 194), чеш. jednice ж. р. 'единица', елвц. диал. jedinica ж. р. 'единственная дочь' (SSJ I, 642), jedenica ж. р. 'грубая ткань' (там же), русск.-цслав. единица (единица числомъ TOV evtxov dpiftfiov. Георг. Ам. 227, Срезневский I, 811), укр. оди- нйця ж. р. 'единица', 'единственная дочь' (Гринченко III, 39), диал. одынйца, одинйца 'ошибка при накидывании основы на бердо, заключающаяся в том, что вместо двух нитей в прогале между двумя тростинами оказывается одна, а в соседнем — три', 'разновидность полотняного тканья, применяемая при изготовлении редкого полотна из грубой пряжи' (Н. Г. Владимирская. Полес­ ская терминология ткачества. — Лексика Полесья 240).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="est">*ес/тъ/</ref>
+      <ref type="etymon" target="ey">*ейъ</ref>?гъ (см.); субстанти­
+вация.
+•есПпъ/ <ref type="etymon" target="edbnb">*edbnb</ref>
+    </gram>
+  </gramGrp>
+</Entry>

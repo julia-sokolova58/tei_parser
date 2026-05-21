@@ -1,0 +1,39 @@
+<Entry xml:id="blustelb">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'ustelb</orth>
+    <lemma>bl'ustelb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>buste</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>custos, страж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIII в., RJA I, 457)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блюстель</ref> ахотсбд, Speculator, custos</orth>
+      </form>
+      <sense>
+        <def>блю­ ститель, наблюдатель, страж , ср. еще блюстель ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в., Срезневский I, 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>TTJPTJOIS, custodia 'хранение' (Мин. Пут. XI в., Срезневский I, 121).</note>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-telb</ref>
+      </m> от основы гл. <ref type="etymon" target="bVudg">*bVudg</ref>, 
+<ref type="etymon" target="bVusti-4">*bVusti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Райхельт указал на словообразовательный паралле­ лизм цслав. БЛМГТ6\А и греч. гсеиаттдеюс 'вопросительный, испытую­ щий' (-tel-io-i-ter-io-), см. Н. Reichelt ВВ XXVII, 1902, 103. Цслав. БлмгтитбЛА м. р. с тем же знач. (SJS) представляет со­ бой более позднее образование.</note>
+</Entry>

@@ -1,0 +1,138 @@
+<Entry xml:id="besedovati">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besedovati</orth>
+    <lemma>besedovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Гчбг</ref>^до&amp;лчи 6[xiXelv, XaXeiv, oiaXs-fsiv, Tiposayoosoeiv</orth>
+      </form>
+      <sense>
+        <def>разговаривать, говорить с кем, к кому</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бесёдвам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беседовать, вести непринужденный разговор ( Б Т Р )</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёседовати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>besedovdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, читать нравоучения, держать речь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>besedovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>совместно развлекаться, беседовать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>besedovaV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjesadowac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>развлекаться, беседовать (Jaku­ bas)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biesiadowac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пировать, вкушать удовольствие, (охотн., промысл.) жировать (о диких животных)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беседовать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вести с кем-либо деловой или задушевный разговор</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бёседовати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бесгдувати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, произносить, беседовать, раз­ говаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>besiduvdty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить ( т е rusnace, besidujeme ро rusku; с. Комлошка, Венгрия)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производный гл. с суфф.<m type="suffix">
+        <ref>-ovati</ref>
+      </m> (см. <ref type="etymon" target="beseda">*beseda</ref>, выше).</gram>
+  </gramGrp>
+</Entry>

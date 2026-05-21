@@ -1,0 +1,96 @@
+<Entry xml:id="belozqbbjb">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belozqbb(jb)</orth>
+    <lemma>belozqbb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белозуб</ref>, б]елозуб, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белозубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belozdb</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белозубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belozuby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белозубый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielozuby</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialozeby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белозубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белозубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого белые зубы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бШзубий</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белазубы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белозубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 399.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образовано из<ref type="etymon" target="be1">*be1ъ</ref> (см.) и <ref type="etymon" target="zqbb">*zqbb</ref> (см.).</gram>
+  </gramGrp>
+  <note>О типе образования см. на *Ьё^о1иъ.</note>
+</Entry>

@@ -1,0 +1,105 @@
+<Entry xml:id="dudneti">
+  <pb n="149" end_page="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dud(ь)nĕti</orth>
+    <lemma>dud(ь)nĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дудп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>е шуметь, греметь , дуднем бубнить, неясно говорить , ср. ещё дудна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мла- денов БТР; И. Кънчев. Пирдопско. — БД IV, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать, елвц. dadnieV, dunieV то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 340, 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dudnec</ref>, danec</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dudniec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать, греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 580)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дуднъти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, греметь, шуметь . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дудуьати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буб­ нить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dudnjati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 183)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m> 
+от звукоподражат. 
+основы, напоминающей звуко-
+комплекс <ref type="etymon" target="shchp-">*Щъп-</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Otr^bski. Zycie wyrazow w jqzyku polskim 272 (автор предполагает контаминацию *ЩъП- и *dad*, сближая при этом специально с лит. dunda, dundeti 'гудеть, гре­ меть'); F. Stawski SO 18, 1947, 250; Георгиев БЕР VI, 443.</note>
+</Entry>

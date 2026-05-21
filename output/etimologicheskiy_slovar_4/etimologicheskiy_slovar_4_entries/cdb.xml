@@ -1,0 +1,56 @@
+<Entry xml:id="cdb">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>c§db</orth>
+    <lemma>c§db</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ЧАДА</ref> Ж. p. av&amp;pcoTiot, homines</orth>
+      </form>
+      <sense>
+        <def>челядь, люди</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>ced</ref> ж. р. собир.</orth>
+      </form>
+      <sense>
+        <def>род, родня, дети и слуги, челядь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV в., RJA I, 919)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чадъ</ref>, ЧАОЪ ж. р. собир.</orth>
+      </form>
+      <sense>
+        <def>дети , люди , народ (Пат. Син. XI в.), свои кому-либо, товарищи, дружина , чадъ челядь, дружина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1188 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1470)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. 108 а. А. Никольский. О языке Ипатьевской летописи. — РФВ XLII, 1899, 110)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Основа на -i- ж. р., соотносительная с<xr type="compare">см. <ref type="etymon" target="cdo-2">*c?do</ref>
+    </xr>.</note>
+</Entry>

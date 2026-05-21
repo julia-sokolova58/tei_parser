@@ -1,0 +1,43 @@
+<Entry xml:id="agnidlo">
+  <pb n="55" end_page="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agnidlo</orth>
+    <lemma>agnidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>агнйло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ягнятник; время ягнения овец, яг- нйло ср. р. место, куда пригоняют овец ягниться; время ягне­ ния овец , йегнйло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Горов. Страндж. БД I, 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. }<ref>ан</ref>&gt;ило</orth>
+      </form>
+      <sense>
+        <def>загон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В слав, этимол. словарях специально не рассматривается.</note>
+  <gramGrp>
+    <gram>Отглагольное именное производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> 
+от основы на 
+-i(ti) <ref type="etymon" target="agniti-2">*agniti</ref> (s?), см.</gram>
+  </gramGrp>
+  <note>Разительное сходство этого ю.-слав. слова с лат. agnile ср. р. совечий хлев 5 оказывается не более, чем внеш­ ним подобием ввиду регулярного словообразовательного харак­ тера слав, слова с реконструируемой праформой *agnidlo (см. выше), а также ввиду вторичности формы лат. agnile — по образцу ovlle. См. специально W a l d e — H o f m . I, 23.</note>
+</Entry>

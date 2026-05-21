@@ -1,0 +1,46 @@
+<Entry xml:id="dnitise">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьniti(sę)</orth>
+    <lemma>dьniti(sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>данити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пробыть, провести день, dnlti то же, также светать , dnlti se светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 474)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>daniti</ref> se</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>deniti</ref> se то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="s1p-2">*с1ьпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

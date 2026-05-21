@@ -1,0 +1,86 @@
+<Entry xml:id="elenina">
+  <pb n="19" end_page="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elenina</orth>
+    <lemma>elenina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jelenina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словаре Белостенца, fUA IV, 578)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelenina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленина (мясо), оленья шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelenina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленина, шкура оленя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jelenina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>оле</ref>­ нина ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленье мясо , мясо оленя как пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1736)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>оленина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо оленье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>алё</ref>- тна ж. р.</orth>
+      </form>
+      <sense>
+        <def>оленина</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="e1ep">*е1епъ</ref>\<ref type="etymon" target="e1ep">*е1епь</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

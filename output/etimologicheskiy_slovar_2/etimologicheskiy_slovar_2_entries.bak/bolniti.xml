@@ -1,0 +1,45 @@
+<Entry xml:id="bolniti">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolniti</orth>
+    <lemma>bolniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bldniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>insanire, сходить с ума, беситься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA I, 424)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болонйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приставать, на­ доедать , болонйтъ говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Буинск. у., Мотовилов. Симбирская молвь 16; Филин 3, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тул., Филин, там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В этимол. словарях освещения не получило.</note>
+  <gramGrp>
+    <gram>Производное на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от именной основы <ref type="etymon" target="boln-">*boln-</ref>, возм., связанной чередованием 
+гласных с <ref type="etymon" target="e1p">*Ье1пъ</ref> I <ref type="etymon" target="belena">*belena</ref> (см.).</gram>
+  </gramGrp>
+  <note>В формальном отношении<xr type="compare">ср. еще <ref type="etymon" target="o1p-2">*Ьо1пъ</ref>
+    </xr> (см).</note>
+</Entry>

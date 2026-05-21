@@ -1,0 +1,27 @@
+<Entry xml:id="bereja">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bereja</orth>
+    <lemma>bereja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>женщина, собирающая ягоды для до­ машнего употребления или для продажи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Д а л ь 3 I, 308)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля ж. р., производное с суфф.<m type="suffix">
+        <ref>-eja</ref>
+      </m> от презентной 
+основы гл. <ref type="etymon" target="bbrati">*bbrati</ref> (см.) — <ref type="etymon" target="berg-2">*berg</ref> и т. д.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,120 @@
+<Entry xml:id="bodblb">
+  <pb n="154" end_page="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodblb</orth>
+    <lemma>bodblb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>бодел</ref> , бодёл, бодли, м. р.</orth>
+      </form>
+      <sense>
+        <def>игла, колючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Отъ едн^-т^ч страна стояха около сто хиляди Американци, обрлчжени съ сопи, съ дьрвени ножове, нъ кошя и стр'Ьли, на кои-то боделъ-тъ беше направенъ или отъ рыбена кость или отъ кремакъ. П. Кисимов. Откритието на Америка, превод, ч. 1, 1875. — Архив Болг. Возрождения, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бо</ref>­ дел, ббдъл м. р.</orth>
+      </form>
+      <sense>
+        <def>колючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>бодле</ref> сдрвена направа за креван&gt;е воденички камен</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот говор 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. (<ref>черногорск</ref>.) бодал», род. п. ббдла, м. р. свид колючей травы</orth>
+      </form>
+      <sense>
+        <def>, еосот Cirsium arvense, счерто- полох Carduus , б бдел м. р. с растение ворсянка Dipsacus Silvester, сколотье (в груди, в боку)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bddelj</ref>, род. п. -dlja, м. р. сигла, колючка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бодлъ</ref> сшип, spina</orth>
+      </form>
+      <sense>
+        <def>— Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>([Святой мчкъ 1ул1анъ] по бод- лехъ коупинныхъ влачимъ скончасд. Патер. 158. — Срезнев­ ский I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ббдла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бодливое, колючее существо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ббдла</ref> ж. р . с шип, колючка</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>будла</ref> ж. р. со мелком лесе</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(терск., Филин 3, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bodli</ref> ср. р. схвоя</orth>
+      </form>
+      <sense>
+        <def>, bodlice мн. клыки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 165)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъ1ъ</ref>
+      </m> от основы гл. <ref type="etymon" target="bosti-17">*bosti</ref>, <ref type="etymon" target="bodg-10">*bodg</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Варбот. Древнерусское именное словообразование 80 (пред­ полагает суфф. -ъГъ). Ср. — с иным вокализмом корня —<xr type="compare">см. <ref type="etymon" target="al1">*ЬаЛъ1ъ</ref>
+    </xr>.</note>
+</Entry>

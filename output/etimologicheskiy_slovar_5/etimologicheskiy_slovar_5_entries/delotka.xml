@@ -1,0 +1,34 @@
+<Entry xml:id="delotka">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlǫtъka</orth>
+    <lemma>dĕlǫtъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>делутка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щепка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дупничко, Банско, СбНУ XI, 167; XLVIII, 441. Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>делутка</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот говор 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от основы стар. прич. действ, наст, 
+вр. <ref type="etymon" target="delgt-">*delgt-</ref> (см. <ref type="etymon" target="deliti">*deliti)</ref>.</gram>
+  </gramGrp>
+</Entry>

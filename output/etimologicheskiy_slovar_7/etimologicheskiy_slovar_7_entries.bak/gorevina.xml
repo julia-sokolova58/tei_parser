@@ -1,0 +1,38 @@
+<Entry xml:id="gorevina">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorevina</orth>
+    <lemma>gorevina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдревина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пожар, гарь, пожарище, обгоревшая часть предмета</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горевйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выжженное место в лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 31)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное {<m type="suffix">
+        <ref>-v-ina</ref>
+      </m>) от гл. <ref type="etymon" target="goreti">*goreti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Любо­ пытная сербохорв.-русск. изоглосса.</note>
+</Entry>

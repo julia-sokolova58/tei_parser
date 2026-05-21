@@ -1,0 +1,88 @@
+<Entry xml:id="bridnqti">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridnqti</orth>
+    <lemma>bridnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брйдиути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>треснуть, лопнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bridniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделаться горьким, жгучим</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bridnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жирнеть, тучнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bridnuV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>опроти­ веть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzydnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться безобразным, от­ вратительным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брйдиути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться безо­ бразнее, дурнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от основы прилаг. <ref type="etymon" target="brid--4">*brid-</ref> (см. 
+<ref type="etymon" target="lemma">*Ь</ref>^ъкъ).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,35 @@
+<Entry xml:id="gbbitbjb">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbbitb(jb)</orth>
+    <lemma>gbbitb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hbity</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>проворный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gbit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>округ, уезд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1428 г., St. stpol. II, 388—389)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-Иъ</ref>
+      </m> от гл. <ref type="etymon" target="gbbngti-5">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

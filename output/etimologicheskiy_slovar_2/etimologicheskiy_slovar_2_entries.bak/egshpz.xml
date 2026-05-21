@@ -1,0 +1,22 @@
+<Entry xml:id="egshpz">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬегШьпъзь</orth>
+    <lemma>ЬегШьпъзь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безлЪтъньш</ref> a/povos</orth>
+      </form>
+      <sense>
+        <def>безвременный, веч­ ный, мгновенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант., Срезневский I, 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Мысль о калькировании греч. образца допустима, но ср. на­ родный характер соответствующего имени<xr type="compare">см. <ref type="etymon" target="bezletbje">*bezletbje</ref>
+    </xr>.</note>
+</Entry>

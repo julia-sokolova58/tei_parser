@@ -1,0 +1,78 @@
+<Entry xml:id="gybadlo">
+  <pb n="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gybadlo</orth>
+    <lemma>gybadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gibalo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>движущий орган</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 130; PGA III, 252: диал. гйбало ср. p. 'удилище', см. еще Term, rib. 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gibalo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>(механический) привод , движущий орган</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 681)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hybadlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>движущая сила</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hybadlo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 545—546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гибало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>приспособление для заги­ бания полозьев, ободьев, дуг, колес и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., волог., урал., том., кемер., Филин 6, 167; Картотека Псковского областного словаря; Картотека Новгородского ГПИ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гiбdлa</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колода, на которой бондарь гнет обручи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -(a)dlo от гл.<ref type="etymon" target="gybati">*gybati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. выше<xr type="compare">см. <ref type="etymon" target="gbbadlo">*gbbadlo</ref>
+    </xr>.</note>
+</Entry>

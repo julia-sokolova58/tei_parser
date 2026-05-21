@@ -1,0 +1,46 @@
+<Entry xml:id="batina">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>batina</orth>
+    <lemma>batina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>батина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>палка, fustis, удар, палкой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdtina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>палка, дубинка, колотушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>batina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>точный удар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 12)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на<m type="suffix">
+        <ref>-ina</ref>
+      </m> с основой bat- (см. <ref type="etymon" target="a1">*Ьа1ъ</ref>, 
+<ref type="etymon" target="batati">*batati</ref> и др.).</gram>
+  </gramGrp>
+</Entry>

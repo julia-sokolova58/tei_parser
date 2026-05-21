@@ -1,0 +1,105 @@
+<Entry xml:id="detcadetcedetc">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtьca/*dĕtьce/*dĕtьcь</orth>
+    <lemma>dĕtьca/*dĕtьce/*dĕtьcь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>detbce</orth>
+    <lemma>detbce</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>detbCb</orth>
+    <lemma>detbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>деца</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дёца</ref> мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ёца ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>дети, также дёца , dijetac, род. п. dijeca, м. р. парень, юноша , отсюда производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 259)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI—XVII вв., RJA II, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dyclna</ref>, увелич. от dijete</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sus. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deca</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>дети , detec м. р. мальчик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv XIII, 1893, 690)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ditce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дитя, ребенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪтьць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дитя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. пр. Елис, Срезневский I, 799)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. ум. производное с суфф.<m type="suffix">
+        <ref>-ъса</ref>
+      </m>, <m type="suffix">
+        <ref>-ъсе</ref>
+      </m>, <m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="detb-4">*detb</ref> (см. 
+<ref type="etymon" target="dete-5">*dete)</ref>, <ref type="etymon" target="deti">*deti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

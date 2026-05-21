@@ -1,0 +1,40 @@
+<Entry xml:id="bezvertmenbje">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvertmenbje</orth>
+    <lemma>bezvertmenbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>безвеременше</ref> dxatpia, importunitas</orth>
+      </form>
+      <sense>
+        <def>не­ хорошее положение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон, л. под 1206 г., Срезневский I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>безвеременъе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>недобрый час</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. ЗР II, 190, 1528 г., Тимченко I, 67)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-115">*bez</ref> 
+(см.) и суфф. -bje от именной основы <ref type="etymon" target="vertmen-">*vertmen-</ref> (см. <ref type="etymon" target="vertm">*vertm</ref>$) или же 
+производное с суфф. -bje от соответствующего сложения, ср. 
+др.-русск. безверемА 'безвременье' (Псков. I л. под 1404 г., 
+Срезневский III. Доп. 9').</gram>
+  </gramGrp>
+  <note>Отнесение к праслав. древности пробле­ матично ввиду возможности здесь кальки с греч., ср. в этом смысле о ст.-слав. B63&amp;fj*L\6NANz dcopo; — К. Schumann. Die griech. Lehnbildungen und Lehnbedeutungen im Altbulgarischen 25.</note>
+</Entry>

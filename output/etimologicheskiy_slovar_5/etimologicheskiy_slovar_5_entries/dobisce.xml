@@ -1,0 +1,66 @@
+<Entry xml:id="dobisce">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbišče</orth>
+    <lemma>dǫbišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дабиште</ref> ср. р., увеличит, от даб</orth>
+      </form>
+      <sense>
+        <def>дуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dubiste</ref>, dubisko ср. р.</orth>
+      </form>
+      <sense>
+        <def>большой дуб, место, где растет дубняк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dubisco</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, где растут дубы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дубйща</ref> м. р., увелич.</orth>
+      </form>
+      <sense>
+        <def>дуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дубйще</ref> м. р., увелич. от дуб .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко Г, 452)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="dgbb-3">*dgbb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

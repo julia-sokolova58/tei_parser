@@ -1,0 +1,77 @@
+<Entry xml:id="dolbati">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolbati</orth>
+    <lemma>dolbati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длабам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить, выдалбливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>длабём</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длаби</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдалб­ ливать, вырезывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dlabati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlabaV</ref> то же . — Ср. еще, с другой глаг. темой</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dldbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от имени <ref type="etymon" target="dolbb">*dolbb</ref> / <ref type="etymon" target="dolba">*dolba</ref> (см.) с харак­
+терным именным вокализмом.</gram>
+  </gramGrp>
+</Entry>

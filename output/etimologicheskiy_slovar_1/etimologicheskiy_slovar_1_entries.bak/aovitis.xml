@@ -1,0 +1,94 @@
+<Entry xml:id="aovitis">
+  <pb n="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>a!oviti(s§)</orth>
+    <lemma>a!oviti(s§)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jaloviti(sč)</orth>
+    <lemma>jaloviti(sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>алови</ref> се</orth>
+      </form>
+      <sense>
+        <def>скидывать (о животном)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>аловити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выхолащивать, кастрировать (барана), делать яловой (корову, кобылу, овцу) , ]аловити се становиться яловой, бесплодной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Byк КарапиЬ; RJA: с X V I I в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jaloviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать бесплодной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jalowic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стано­ виться бесплодной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jaluevjic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать бес­ плодной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 380)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яловиться</ref>: земля яловится</orth>
+      </form>
+      <sense>
+        <def>отдыхает, лежит в пару</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1572)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (с каузативным 
+значением), производный от ос­
+новы прилагательного 
+<ref type="etymon" target="a1oi-2">*а1оиъ]</ref>'ьу 
+-aja 
+(см.)</gram>
+  </gramGrp>
+</Entry>

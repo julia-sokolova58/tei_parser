@@ -1,0 +1,196 @@
+<Entry xml:id="yis">
+  <pb n="138" end_page="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ы'и§сь</orth>
+    <lemma>Ы'и§сь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>блюш</ref> (Трънско), наряду с плюш (Поганово, Царибродско)</orth>
+      </form>
+      <sense>
+        <def>растение хмель Humulus lupulus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бл</ref>&gt;ушт м. р.</orth>
+      </form>
+      <sense>
+        <def>вьющееся растение Tamus communis L</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бл</ref>&gt;ушт ж. р.</orth>
+      </form>
+      <sense>
+        <def>плесень на вине , бл&gt;ушт ж. р. слюна, вы­ деляемая перед рвотой , бл&gt;ушт Pulmonaria officinalis , блушт ж. р. слюна перед рвотой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 665)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(FG 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>блуж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Tamus communis , также бл&gt;уж, бл&gt;ужд м. р. , сюда же блуштац м. p. Bryonia alba , б/ьушац м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 660)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 663)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 665)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 665)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bljilsc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Tamus communis, плющ Hedera helix, Bryonia , bljiiscec M. p. Bryonia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>blusc</ref> м. р. только в выражении: je jag blusc</orth>
+      </form>
+      <sense>
+        <def>жалкий, бедный (Malina Mistf. И)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>usf м. р. плющ, паслён</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blusc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1057)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blusc</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bluszcz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera helix, растение из семейства Aralia- ceae</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блющъ</ref> hedera хю- ао&lt;;</orth>
+      </form>
+      <sense>
+        <def>плющ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Наум. I, 10, Срезневский I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блющ</ref>&gt;</orth>
+      </form>
+      <sense>
+        <def>плющ , обычно — плющ м. р. ползучее растение из сем. аралиевых, цепляющееся за опору, которую оно обвивает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блющъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вер. Леке. 311, Тимченко 1, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блющ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Solanum dulcamara</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блюих</ref>- чык</orth>
+      </form>
+      <sense>
+        <def>растение будра</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Вариантность *ЬГшсъ j<xr type="compare">см. <ref type="etymon" target="pVuscb">*pVuscb</ref>
+    </xr> и значения отдельных про­
+должений праслав. *bVuscb (см. выше сербохорв. бл&gt;ушт 'слюна, 
+выделяемая перед рвотой') ясно говорят об этимологической связи 
+с <xr type="compare">см. <ref type="etymon" target="bUbvatilpVbvati">*bUbvatil*pVbvati</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Кстати, эта глагольная основа знает и суффиксальные расширения -sc-,<m type="suffix">
+        <ref>-zg-y</ref>
+      </m> что делает мысль 
+о родственной связи <ref type="etymon" target="y-4">*Ы</ref>'шсь:<ref type="etymon" target="gian">*ЬГъиаН</ref>, <ref type="etymon" target="bVujq">*bVujq</ref> многократно под­
+крепленной.</gram>
+  </gramGrp>
+  <note>Ср., в свою очередь, форму и знач. сербохорв. диал. бл&gt;узак, род. п. -зга, м. p. 'Bryonia alba' (РСА I, 663). Со стороны реалий эта связь может быть обоснована указанием на ядовитость растений Hedera и Bryonia. См. Berneker I, 65. См. далее A. Bruckner IF XXIII, 206 и след. (цит. по RS II, 1909, 234—235); Преображенский I, 32; J. Charpentier «Glotta» 9, 1918, 39 и след. Специально о мене Ыр в названии плюща см. Shevelov. A prehi­ story of Slavic 365; V. Kiparsky. Slavische und baltische fe/p-Falle. «Scando-Slavica» XIV, 1968, 74. Принимаемая нами этимология *ЬГи§сь: *bVujg, *bVwati (см. выше) постулирует древнее начало слова *6дг-, почему должны отпасть этимологии, предполагающие здесь древнюю последова­ тельность звуков *b(h)l- (см. V. J. Petr ВВ XXI, 1896, 210: сбли­ жает со ср.-в.-нем. bluost, нем. Blust, швейц.-нем. bluest 'цвет, цветение', лат. fids 'цвет, цветок', др.-ирл. blath 'цвет, цветение'; Machek 35 -36: ст.-чеш. bVusc и прочие слав, объясняет из *Ые- uk-jo-s, родственного лит. blunku, blukti 'блекнуть, бледнеть'; Sadnik—Aitzetmtiller. Vgl. Wb. 3, 143: праслав. *bVuscb&lt;^*bhleu- гблестеть'). Особняком стоит этимология *ЬГи§съ&lt;^ *Ъгъёсъ, ср. лат. bruscus предполагаемого праевроп. происхождения (см. Machek. J тёпа rostlin 153). Сближение с гот. biugan 'гнуть 5, предлагав­ шееся ранее Бернекером (см. Е. Berneker IF X, 151; G. Iljinskij AfslPh XXIX, 1907, 486; W. v. d. Osten-Sacken IF XXIV, 1909, 238—239), оставлено было затем им самим, см. Berneker I, 65. Подробную сводку этимологии слова (правда, без четкого предпочтения какой-либо одной из них) см. Фасмер I, 179.</note>
+</Entry>

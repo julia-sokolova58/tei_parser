@@ -1,0 +1,270 @@
+<Entry xml:id="godina">
+  <pb n="187" end_page="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*godina</orth>
+    <lemma>godina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гсдинд</ref> ж. р. &lt;Ьра, hora</orth>
+      </form>
+      <sense>
+        <def>время, удобное время, година, час</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Supr., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>го</ref>­ дина ж. р.</orth>
+      </form>
+      <sense>
+        <def>год , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гудйна</ref> ж. р. , година ж. р.</orth>
+      </form>
+      <sense>
+        <def>год, плодородие , гудйнъ ж. р. год , гъдйнъ ж. р. год</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. К. By- нина. Словарь говора олыпанских болгар. — Статьи и материалы по болгарской диалектологии СССР 5, 1954, 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Ви- динско 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>година</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>год</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>година</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>теп­ лое дождливое время , godina год</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(J. Тасевски. Зборови од тетовскиот го­ вор. MJ III, 1952, 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda- Vevcani dialect of Macedonian 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>година</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>год, (Дубр.) погода, непогода, (хорв.) дождь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>godina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дождь , -\qdina сверстник, ровесник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>godina</ref> ж, р.</orth>
+      </form>
+      <sense>
+        <def>год, именины, дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>godina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Saselj I, 254; Barle 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hodina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>удача, счастье, срок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hodina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>час, елвц. ho­ dina ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 494—495)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hodzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>час</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gozina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 308)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>godzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>час, срок, момент времени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1213— 1214; Warsz. I, 864)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>година</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>время, час (неопределенное время) , год , годины судьбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Есф. IV. 14 по сп. XIV— X V в.; Пат. Син. XI в. 160; Илар. Зак. Благ, и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Есф. IX. 21; Георг, Дм, 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Есф. I, 13 пр сп. X I V — X V в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>година</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>из­ вестная, чем-нибудь отличенная, ознаменованная пора, время, то же, что год</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гадина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погода , година хорошая погода, время , час, судьба , година ж. р. хорошая погода, ведро (курск., орл., тул., калуж., брян., донск., Краснодар.), плохая погода (донск.) , год (волог.), годовщина (влад., олон., свердл., том., тобол., костр., яросл., самар., бар¬ наул., урал.), время, пора (курск., донск.) , годины годовщина, год со дня смерти, рождения, отъезда, вообще — какого-либо события</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Халанский. О некото­ рых особенностях народного говора в северной части Путивль- ского у. Курской губ. — РФВ X V I , 1886, 234)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6. 268)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>го</ref>­ дина ж. р.</orth>
+      </form>
+      <sense>
+        <def>год</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1471 г., Словник ст.-укр. мови X I V — X V ст. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>година</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>час, время, пора, хорошая погода, година где идет дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шух. I, 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>година</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хорошая погода Ващенко. Словник полтавських говор1в I, 26; И. Свенцицкий</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Опыт сравнительного словаря русских говоров (Галицко-бойковский говор. — ЖСт. X , 1900, 216), година ж. р. 'час', 'время, пора', 'погода', 'непогода' (Ф. Д. Климчук. Специфическая лексика Дрогичинского По­ лесья. — Лексика Полесья 28), блр. диал. годзгна ж. р. 'непо­ года' (Туров, Народнае слова 306).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="god">*godъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Семантич. анализ см. Н. И. Толстой ВЯ 1963, № 1, 33 и сл.</note>
+</Entry>

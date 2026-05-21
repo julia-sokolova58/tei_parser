@@ -1,0 +1,57 @@
+<Entry xml:id="devj">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvьjь</orth>
+    <lemma>dĕvьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>devji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>девичий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. книжн. <ref>devi</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дёвий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девичий , дёвий, -въя, -въг девичий, девический , дйвийу -ья, -ье девичий . — Ср. с твердой основой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(том.,* краснояр., перм., костр.," новг., арх., якут., яросл., Филин 7, 315; Картотека Пе­ чорского областного словаря)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., олон., перм., Опыт 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дё</ref>- вый, прилаг.</orth>
+      </form>
+      <sense>
+        <def>девичий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части басе. р. Оби. Доп. 113)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф. -ъ/ь от<ref type="etymon" target="deva-6">*deva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

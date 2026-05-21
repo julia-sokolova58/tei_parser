@@ -1,0 +1,100 @@
+<Entry xml:id="syo1a">
+  <pb n="181" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сё1ьЬа</orth>
+    <lemma>сё1ьЬа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>цЪлъба</ref> ж. p. fteparceia, sanatio</orth>
+      </form>
+      <sense>
+        <def>исцеление, изле­ чение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>целба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>исцеление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>cjelba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>sanatio</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIII—XIV вв., R J A I, 8 0 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>исцеление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 7 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪлъба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лекарство , излечение, исцеление , лечение (Мин. чет. февр.), здоровое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1 0 7 3 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Минея 1 0 9 7 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ис. I, 6, Библ. 1 4 9 9 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1 4 5 7 — 1 4 5 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>целъба</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1 2 7 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цыъба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>исцеление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 4 3 2 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="celiti-2">*celiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Предположение о цслав. природе и сомнение в праслав. древ­ ности слова см. Orzechowska 1 6 0 — 1 6 1 .</note>
+</Entry>

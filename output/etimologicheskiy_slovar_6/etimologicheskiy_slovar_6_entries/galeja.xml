@@ -1,0 +1,23 @@
+<Entry xml:id="galeja">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galĕja?</orth>
+    <lemma>galĕja?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галея</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>полынья (арх.), пропущенное место на поле при севе; огрех (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 110—111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное от к.<ref type="etymon" target="gaH">*gaH</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

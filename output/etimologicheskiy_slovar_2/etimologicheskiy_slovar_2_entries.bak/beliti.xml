@@ -1,0 +1,237 @@
+<Entry xml:id="beliti">
+  <pb n="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beliti</orth>
+    <lemma>beliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. в^<ref>лити</ref> Xeuxouveiv, candidum facere</orth>
+      </form>
+      <sense>
+        <def>белить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>беля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очищать от кожи, коры, белить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>б</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еле чистить, шелушить (кукурузные початки), отбеливать (полотно) , бела очищать от коры, белить , бела очищать от кожи, коры, отделять , белим очищать от коры, белить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бели</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить, отбеливать, лущить, очищать (от кожуры)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёлити</ref>, бщёлити, бйлити</orth>
+      </form>
+      <sense>
+        <def>отбеливать (полотно)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить, красить белилами, приукрашивать, отбеливать, рас­ калять, приправлять, сдобрять жиром, обдирать, шелушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить, biliti белить; отбеливать (ткань)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить; отбеливать, обдирать, очищать от кожуры или коры (фрукты, картофель, дерево и т. н.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить; отбеливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ЪёШ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить, лу­ пить, снимать (кожу), чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>belet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стирать (белье), отбеливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bielic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить (обычно известкой), отбеливать, очищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do- rosz. I, 508)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjlelec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бЪлигпи</ref> Xsuxou</orth>
+      </form>
+      <sense>
+        <def>veiv</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр. XLIV, Срезневский Г, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белишь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать белым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>белишь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать белым, подвергая особой обработке; отбеливать, говорить о ком-либо хорошо, с похвалой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪлиши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белить, окрашивать в белый цвет, белить полотно (на солнце), убелять (умывая), лудить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бялщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свежевать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

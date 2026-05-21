@@ -1,0 +1,48 @@
+<Entry xml:id="gumati">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gumati</orth>
+    <lemma>gumati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гумати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пожирать, лопать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 751; RJA III, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>houmat</ref> : homa р1пб hobo</orth>
+      </form>
+      <sense>
+        <def>ест , gumatf толочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>gumaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толочь, пихать; дергать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 154)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Реконструкция сербохорв. гумати &lt; *glbmati : *gfatati (Skok. Etim. rjecn. I, 632; F. Bezlaj JiS XVIII, 1972/1973, 139—140) отпадает ввиду убедительного свидетельства чеш., слвц. слов, ускользнувших от внимания исследователей. Наиболее вероятным остается сближение с др.-в.-нем. goumon 'пировать', откуда могло быть рано заимствовано слав, слово, см. Berneker I, 362 (только о сербохорв., без чеш. и слвц.).</note>
+</Entry>

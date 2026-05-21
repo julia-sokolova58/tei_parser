@@ -1,0 +1,64 @@
+<Entry xml:id="grabica">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabica</orth>
+    <lemma>grabica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гр</ref>&amp;бица ж. р.</orth>
+      </form>
+      <sense>
+        <def>прозвище курицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>grabica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дорожка на меже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Narodopisje Slo- vencev» I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrabice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>более длинная (чем для ко­ шения сена) коса для кошения хлеба , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrabica</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 30; Gregor. Slov. slavk.-bucov. 63; Sverak. Boskov. 112; Sverak. Karlov. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грабйца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>женщина, сгребающая сено (Картотека Псковского областного словаря)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -(i)са от гл.<ref type="etymon" target="grabiti">*grabiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,38 @@
+<Entry xml:id="bobica">
+  <pb n="142" end_page="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobica</orth>
+    <lemma>bobica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бббица</ref> ж. р., ум. от боба,</orth>
+      </form>
+      <sense>
+        <def>ягода, растение Ruscus aculeatus, боб Vicia faba, прыщик, бородавка на шее индейки; (обычно мн.) яйца, личинка солитера, cysticercus, вызывающая болезнь у свиней и крупного рогатого скота, вы­ ступ на зубах у лошади, по которому определяется ее возраст</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 668—669)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бобица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт овощей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>ЪоЫса ж. р. 'ягода' (Plet. I, 36).</note>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="boba">*boba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

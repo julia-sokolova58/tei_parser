@@ -1,0 +1,94 @@
+<Entry xml:id="dremati">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕmati</orth>
+    <lemma>drĕmati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^</orth>
+      </form>
+      <sense>
+        <def>кмлти voaxdCeiv, dormitare дремать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрёмя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дремать (ВТР)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрём</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. БД VI, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дреме</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрщёмати</ref>, дрёмати, дрймати</orth>
+      </form>
+      <sense>
+        <def>дремать КарациЬ, РСА IV, 685)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drĕmati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfimati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дремать, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drchmat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спать (Sverak</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Boskov. 108), елвц. driemaf 'дремать' (SSJ I, 330), сюда же экспрессивное drichmaf 'спать, дрыхнуть' (SSJ I, 331), drychmaV (Kalal 118—119), drchmat' (Kalal 114), диал. drlxmatH 'долго спать поутру' (Matejcik. Vychodonovohrad. 176), в .-луж. dremac 'дремать' (Pfuhl 159), н.-луж. dremas 'дремать' (Muka St. I, 200), полаб. dremes 2 л. ед. ч. наст. вр. 'видишь во сне' (Polaiiski — Sehnert 55, с реконструкцией *dremjesb)y польск. drzemac 'дре­ мать' (Dorosz. II, 404), словин. driemac то же (Lorentz Slovinz. Wb. I, 209), др.-русск., русск.-цслав. дрЪмати, дремати dormitare, vuaxaCeiv (Ис. LVI. 10; Сл. плк. Ыгор.; Нов. вр. л. под 1103 г., Срезневский I, 736), русск. дремать 'быть в состоянии сонли­ вости, полусна', укр. дрьмати 'дремать' (Гринченко I, 445), диал. дрыматы 'дремать', 'цвести (о льне)' (Ф. Д. Климчук. Специфи­ ческая лексика Д^огичинского Полесья. «Лексика Полесья» 32), блр. дрымаць 'дремать' (Байкоу—Некраш. 98).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-atl</ref>
+      </m> от основы, родственной лат. dormio, dormire 'спать', 
+кот. продолжает и.-е. <ref type="etymon" target="dr-m-">*dr-m-</ref>, 
+тогда как слав, форма восходит 
+к особому <ref type="etymon" target="dr-e-m-">*dr-e-m-</ref>, ср. вокализм др.-инд. drdii 'спать'.</gram>
+  </gramGrp>
+  <note>Далее ср. греч. Sapftdvco, аор. eSpaOov 'спать'. Характерно отсутствие близких балт. форм. См. Е. Zupitza KZ X X X V I , 1900, 55; Н. Pedersen KZ X X X I X , 1906, 416; Berneker I, 223—224; Mayrhofer II, 76; J. Safarewicz «Studia linguistica in honorem Th. Lehr-Sptawinski» 134; Фасмер I, 537.</note>
+</Entry>

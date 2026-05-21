@@ -1,0 +1,32 @@
+<Entry xml:id="egk">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬеЬгъкъ</orth>
+    <lemma>ЬеЬгъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bebrk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>маленький бобр, бобренок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 10)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> 
+от основы ЪеЪг- (см. <ref type="etymon" target="eg-4">*ЬеЬгъ)</ref> 
+или 
+точнее — с суфф. -к- от -м-основы ЬеЬгъ-, ср. др.-инд. 
+bdbhruka-
+м. р. 'ихневмон' 
+от 
+babhru-.</gram>
+  </gramGrp>
+</Entry>

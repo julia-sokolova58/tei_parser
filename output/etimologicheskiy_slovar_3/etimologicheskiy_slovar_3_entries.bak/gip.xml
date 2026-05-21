@@ -1,0 +1,60 @@
+<Entry xml:id="gip">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъгипъ</orth>
+    <lemma>Ьъгипъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъгипъка</orth>
+    <lemma>Ьъгипъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>б</ref>^зун м. р.</orth>
+      </form>
+      <sense>
+        <def>майский жук , базунъ, бъзунъ то же , сюда же ббзгуп" м. р. черный жук , бъжгун м. р. шершень , бъзунка ж. р. майский жук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стой- чев Б Д II, 134)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 134)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bzunka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Oscinis</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bzunka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Oscinella frit</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ипъ(ка) (имя деятеля) от звукоподража­ тельной основы, представленной в гл-ах<ref type="etymon" target="bbzati">*bbzati</ref>, 
+<ref type="etymon" target="bbziti">*bbziti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

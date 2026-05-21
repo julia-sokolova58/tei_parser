@@ -1,0 +1,68 @@
+<Entry xml:id="grajb">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grajb</orth>
+    <lemma>grajb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>graja</orth>
+    <lemma>graja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грай</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лад песни, мелодия (Дювернуа)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гра</ref>] м. р.</orth>
+      </form>
+      <sense>
+        <def>карканье, грай</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гра</ref>]а, гра)а ж. р.</orth>
+      </form>
+      <sense>
+        <def>гомон, шум, крик (людей, птиц)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 554; RJA III, 381: с XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брань, хула</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 747)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>граи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пение птиц (Покаян</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Кипр.; Кир. Тур. 95, Срезневский I, 578), русск. грай м. р. 'воронье карканье, птичий крик'.</note>
+  <gramGrp>
+    <gram>Отглагольное производное от<ref type="etymon" target="grajati">*grajati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

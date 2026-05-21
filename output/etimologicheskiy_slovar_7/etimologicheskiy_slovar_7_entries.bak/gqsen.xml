@@ -1,0 +1,143 @@
+<Entry xml:id="gqsen">
+  <pb n="81" end_page="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsen</orth>
+    <lemma>gqsen</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъсер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goser</ref>, род. п. -г/а, м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>houser</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>husif</ref> , произ­ водное houserak то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. I l l )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>husor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gusor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gqsior</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гусак , gfsior м. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1074)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>ggeur</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Tomasz. top. 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>goifsor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 288)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (обозначение существа муж. пола) с суф.<m type="suffix">
+        <ref>-егь</ref>
+      </m> от 
+<ref type="etymon" target="ggsb-2">*ggsb</ref> 
+(см.) или, точнее—продолжение 
+еще и.-е. <ref type="etymon" target="ghans-er-">*ghans-er-</ref> 
+'гу­
+сак', производного соответственно от и.-е. <ref type="etymon" target="ghans-">*ghans-</ref> 
+'гусь'.</gram>
+  </gramGrp>
+  <note>Слав. *ggserb этимологически тождественно лат. dnser, род. п. -eris, 'гусь', первонач. *hanser, которое вместе со слав, словом продол­ жает названную выше и.-е. основу на согласный. Наличие общей с латинским (*gg$erb — anser) словообразовательной инновации древнего вида (консонантная основа!) означает неприемлемость мысли о заимствовании производящего слова<xr type="compare">см. <ref type="etymon" target="gqsb">*gqsb</ref>
+    </xr> из герм. 
+См. О. Hujer. Lat. 
+anser.—Sbornik 
+praci filologickych (Praha, 
+1923) 59 и сл. (цит. по: М. Noha ZfslPh V, 1928, 213; A. Neh-
+ring «Glotta» 16, 1928, 250); Stawski I, 266; Machek
+2 191; Walde — 
+Hofm. 
+I, 52. Специальная связь польск. gqsior 
+и т. д. со ср.-
+в.-нем. ganzer, 
+gansert 
+(V. Pisani «Paideia» XII, 1957, 272 и сл.) 
+менее очевидна ввиду относительно позднего характера нем. слова. 
+Интересно отметить, что праслав. *gyserb 
+неизвестно (или не со­
+хранилось?) в вост.-слав., где 
+фигурирует форма <xr type="compare">см. <ref type="etymon" target="gysakb">*gysakb</ref>
+    </xr>, 
+возможно, новообразование, охватившее, впрочем, почти все слав, 
+языки. Балт. языки не знают и.-е. *ghanser~, 
+ср. особое 
+лит. 
+zqsinas 
+'гусак'.</note>
+</Entry>

@@ -1,0 +1,33 @@
+<Entry xml:id="bezkorbjb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkorbjb</orth>
+    <lemma>bezkorbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezkory</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>не имеющий коры</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бескбрый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имеющий или лишенный коры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 160)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-46">*bez</ref> (см.; там же — об 
+архаичности типа подобных прилаг-ных) и основы имени <ref type="etymon" target="kora">*kora</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

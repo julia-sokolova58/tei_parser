@@ -1,0 +1,58 @@
+<Entry xml:id="dnina">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnina</orth>
+    <lemma>dьnina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>днйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>один день пахоты, мера земли, площадь, кот. можно вспахать за один день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 368; RJA И, 474; см. еще Вла]инац II, 265—266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dnlna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>день работы, рабочий день, дневной заработок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дьнина</ref>, днина</orth>
+      </form>
+      <sense>
+        <def>целый день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1185 г., Срезневский I, 768)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>днйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 394)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="s1p">*с1ъпь</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

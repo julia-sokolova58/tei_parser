@@ -1,0 +1,100 @@
+<Entry xml:id="dojkadojk">
+  <pb n="55" end_page="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьka/*dojьkъ</orth>
+    <lemma>dojьka/*dojьkъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dojbkb</orth>
+    <lemma>dojbkb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица , Дойка ж. р., личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ; Геров также: 'грудь, титька')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дюиернуа 532; несколько иначе см. Илчев. Речник на личните и фамилии имена у бългау^ите 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дбйкъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, кормящая мать , доек м. р. сосок (у скотины)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. до]<ref>ка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>женская грудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дд</ref>]ка</orth>
+      </form>
+      <sense>
+        <def>женский сосок, кормилица, дойная корова, овца и т. п. , dojcm, род. п. дб]ка, м. р. грудной сосок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 465)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dojka</ref>, ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, Plet. I, 149)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, дойная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст.-чеш., Прага; Simek 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>dojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дойная овца (Kott</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Dod. k Bart. 16; Sverak. Kar- lov. 112), 'дойная корова' (Gregor. Slov. slavk.-bucov. 44; Kasik. Stfedobecev. 91), слвц. dojka ж. p. 'кормилица', 'дой­ ная корова, овца и т. и.' (SSJ I, 288), в.-луж. dojka ж. р. 'кор­ милица, кормящая мать', 'дойная, кормящая самка' (Pfuhl 125), словин. deikd ж. р. 'кормилица' (Lorentz Slovinz. Wb. I, 193), русск. дойка ж. р. 'доение' (Даль 3 I, ИЗО), укр. дшка ж. р. 'сосок у коровы', 'подойник' (Гринченко I, 390), диал. дойка ж. р. 'мамка, кормилица в Угорщине' (Вх. Уг. 236, Гринченко I, 412), дщка ж. р. 'коровий сосок' (Ф. Д. Климчук. Специфическая лексика Дрогичинского Полесья. «Лексика Прлерья» 31).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьЦа</ref>
+      </m> от <ref type="etymon" target="dojifi">*dojifi</ref> (см.),
+Mojbnica</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,76 @@
+<Entry xml:id="dozindozinky">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dožinъ, *dožinъky</orth>
+    <lemma>dožinъ, *dožinъky</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dozhrbky</orth>
+    <lemma>dozhrbky</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. " <ref>dozin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>конец жатвы , dnzinky мн. праздник урожая, конец жатвы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 298)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дожйн</ref> м. р., дожинки</orth>
+      </form>
+      <sense>
+        <def>последний день жатвы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дожйн</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>конец жатвы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 410)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. до­ <ref>житы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>конец жатвы и связанные с ним обряды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Клим- чук. Специфическая лексика Дрогичинского Полесья. «Лексика Полесья» 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дажьгнт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>окончание жатвы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 45)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. производное от итер.<ref type="etymon" target="dozinati">*dozinati</ref>.</gram>
+  </gramGrp>
+  <note>См. *do, *z$ti.</note>
+</Entry>

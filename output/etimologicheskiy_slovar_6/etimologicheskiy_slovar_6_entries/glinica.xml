@@ -1,0 +1,83 @@
+<Entry xml:id="glinica">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinica</orth>
+    <lemma>glinica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глйница</ref> ж. р., ум. от глина</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глй</ref>- ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>окись алюминия , Glinica ж. р., ряд местн. названий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 349)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Босния, Хорватия, с XIII в., RJA III, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glinica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глина, глиняная яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlinice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глиняная яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glinica</ref> ж. ip.=glinianka</orth>
+      </form>
+      <sense>
+        <def>глиняный пол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 835)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глйница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>место, в котором брали глину, глинище, глиня­ ная посуда , также в кач-ве местн. названия Глйница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewasser- namen I, 436; Russisches geographisches Namenbuch II, 364)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

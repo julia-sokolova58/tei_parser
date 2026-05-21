@@ -1,0 +1,108 @@
+<entries>
+  <entry xml:id="brtviti" xml:id="brtviti">
+    <pb n="132" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrtviti</orth>
+      <lemma>bbrtviti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>брътвя</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>говорить глупости, нести вздор</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бртвим</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>говорить непонятно, неразборчиво (с. Долна Мелна, Трънско, дип. раб. Архив Софийск. ун-та)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бртвити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>затыкать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 215)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brtviti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>запирать, уплотнять</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 67; Slovar sloven, jezika I, 215)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл., производный от <ref type="etymon" target="nia">*ЬъНиа</ref> 
+'надрез, 
+отверстие', 
+также 'за­
+тычка' 
+(см. <ref type="etymon" target="bbrtva">*bbrtva)</ref>; 
+знач. 'говорить невнятно' развилось вто­
+рично из 'делать надрезы, зарубки ( = знаки)', ср. семант. эволю­
+цию лит. burti, 
+о чем см. на <ref type="etymon" target="bbrtva">*bbrtva</ref>, 
+а также см.</gram>
+    </gramGrp>
+    <note>Fraenkel I, 
+67. В этом смысле *bbrtviti 
+унаследовало 
+часть семантики более 
+древнего гл. *ЬъгИ 
+(см. о нем также на *ЬъНиа). 
+О связи сер­
+бохорв. и словен. brtviti 
+и <xr type="compare">см. <ref type="etymon" target="n-2">*ЬъНь</ref>
+      </xr> Skok. Etim. rjecn. I, 219. 
+Неверно Георгиев (и др.) Б Е Р И, 84, кот. исходят для 
+из 
+знач. 
+'бормотание' 
+и производят его из и.-е. 
+родственного лит. *burbeti 
+'бурчать'. Skok. Etim. rjecn. I, 219. 
+Неверно Георгиев (и др.) Б Е Р И, 84, кот. исходят для 
+из 
+знач. 
+'бормотание' 
+и производят его из и.-е. 
+родственного лит. *burbeti 
+'бурчать'. Skok. Etim. rjecn. I, 219. 
+Неверно Георгиев (и др.) Б Е Р И, 84, кот. исходят для 
+из 
+знач. 
+'бормотание' 
+и производят его из и.-е. 
+родственного лит. *burbeti 
+'бурчать'. Skok. Etim. rjecn. I, 219. 
+Неверно Георгиев (и др.) Б Е Р И, 84, кот. исходят для 
+из 
+знач. 
+'бормотание' 
+и производят его из и.-е. 
+родственного лит. *burbeti 
+'бурчать'.</note>
+  </entry>
+</entries>

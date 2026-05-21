@@ -1,0 +1,90 @@
+<Entry xml:id="cbrstveti">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrstveti</orth>
+    <lemma>cbrstveti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cursteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грубеть, твердеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerstveti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться свежее, бодрее, крепнуть , в-луж. cefstwjec становиться свежее, бодрее, здоровее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung­ mann 1, 281; Kott I, 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czerstwiec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черстветь, сохнуть, твердеть; становиться крепче, здоровее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, ИЗО)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черстветь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>высыхая, становиться черствым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёрствти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черстветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарсцвёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чер­ стветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="sy">*сы</ref>č2гг&amp; (см.).</gram>
+  </gramGrp>
+</Entry>

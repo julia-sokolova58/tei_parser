@@ -1,0 +1,107 @@
+<Entry xml:id="duxovitj">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxovitъ(jь)</orth>
+    <lemma>duxovitъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>духовит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>остроумный , способ­ ный, талантливый, душистый, пахнущий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: 'разумный, умный, даровитый')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>духовит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>остроумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>духдсит</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>остроумный , сло­ вен. duhovlt, прилаг. умный, остроумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duchovity</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бестелесный, призрачный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>duchowity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одушевленный, вдохновенный, смелый, храбрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL 1, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>духовитый</ref>, -ая</orth>
+      </form>
+      <sense>
+        <def>душистый, ароматный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деу­ линский словарь 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>духовйтий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>душистый, аромат­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>духавгты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пахучий, ароматный 4</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ouitb</ref>
+      </m> от <ref type="etymon" target="duxb-4">*duxb</ref> (см.) или с суфф. 
+— от прилаг. *1ихоиъ (см.).</gram>
+  </gramGrp>
+</Entry>

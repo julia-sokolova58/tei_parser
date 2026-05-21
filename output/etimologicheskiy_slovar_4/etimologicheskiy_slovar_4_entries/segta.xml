@@ -1,0 +1,55 @@
+<Entry xml:id="segta">
+  <pb n="68" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегтъ§а</orth>
+    <lemma>сегтъ§а</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегтъ§ь</orth>
+    <lemma>сегтъ§ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cemz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черемуха , cemz м. р. то же , сюда же, далее, cemaz м. р. вид дикого чеснока, черемша Allium ursinum , cremos м. p. TO же , фоне­ тически преобразованное (по диссимиляции?) sremsa ж. р. чере­ муха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 287)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slo­ var sloven, jezika I, 286)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II, 563)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черемша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид дикорастущего чеснока с широкими листьями и белыми цветами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарамша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черемша</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>J-овое производное от основы<ref type="etymon" target="segtkha">*сегтъха</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

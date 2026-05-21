@@ -1,0 +1,49 @@
+<Entry xml:id="bruja">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bruja</orth>
+    <lemma>bruja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бруя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рябь на воде от быстрого течения или плывущего предмета</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бруя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрое течение в реке, сквозняк . —Сюда, возм., и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 102; Карто­ тека Украинского академического словаря)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бру</ref>)а ж. р.</orth>
+      </form>
+      <sense>
+        <def>рокот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 215)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно (возм., поствербально) с гл.<ref type="etymon" target="brujati">*brujati</ref>, 
+<ref type="etymon" target="bru-">*bru-</ref>
+jiti 
+(см.).</gram>
+  </gramGrp>
+</Entry>

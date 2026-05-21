@@ -1,0 +1,70 @@
+<Entry xml:id="gvezdatbjb">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvezdatbjb</orth>
+    <lemma>gvezdatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. (<ref>Дювернуа</ref>) звЪздат, прилаг.</orth>
+      </form>
+      <sense>
+        <def>звездообразный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hwezdaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звездный, усыпанный, звездами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gwezdaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звездный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gjozdut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>звъздатий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>звездообразный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., см. Гринченко II, 131)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -(a)tb от<ref type="etymon" target="gvezda">*gvezda</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. лит. zvaigzdetas 'звездный'.</note>
+</Entry>

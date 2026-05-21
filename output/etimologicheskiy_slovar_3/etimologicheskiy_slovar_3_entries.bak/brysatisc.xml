@@ -1,0 +1,107 @@
+<Entry xml:id="brysatisc">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brysati(sč)</orth>
+    <lemma>brysati(sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. в^<ref>ыгдти</ref> cmo[j.dTTeiv, abslergere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брита</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вытирать , брйшем то же , брисатиси утираться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; М. Младенов. Б Д III, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов. Б Д И, 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Радом, окр., Качановский. Сборник западноболгарских песен 563)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брише</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вытирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brlsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>tergere , брйсати вытирать, чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 654)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА И, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брйсат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вытирать, очищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brlsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выти­ рать, brisati se вытираться, утираться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>braise</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>чистит (рыбу от чешуи)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 40, с реконструкцией личной формы *bryse)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративная форма глагола с продленной ступенью корневого вокализма и темой<m type="suffix">
+        <ref>-a-ti</ref>
+      </m>; родственно <ref type="etymon" target="brusiti-8">*brusiti</ref>, 
+<ref type="etymon" target="b-3">*b</ref>^sati 
+(см.; там же 
+о дальнейшей этимологии).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 90—91; Георгиев В Е Р I, 79; II, 104; Skok. Etim. rjecn. I, 211 ( : « . . . ю.-слав. глагол; в сев.-слав, языках отсутствует»; но ср. выше полаб. соответствие!). Попытка объяснить *brysati из и.-е. *bhreud-s- (К. F. Johansson IF X I X , 1906, 120) не может нас удовлетворить, т. к. вырывает *brysati из ряда родственных форм, напр.<xr type="compare">см. <ref type="etymon" target="gkay">*Ьгъкай</ref>
+    </xr> и др. на и.-е. к велярное.</note>
+</Entry>

@@ -1,0 +1,205 @@
+<Entry xml:id="gornitii">
+  <pb n="46" end_page="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorniti И</orth>
+    <lemma>gorniti И</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грънй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>иметь приторный вкус, иметь неприят­ ный, прогорклый вкус (о сале, жире и т. д.), издавать дурной запах (о сале) (с. Ни- колово, Русенско, дип. раб. Архив Софийск. ун-та), гржнй , грънН пахнуть затхлым, издавать дурной запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник.—БД VII, 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tyi маслу гржни 'это масло пахнет затхлым'. Материал за български речник. От гр. В.-Търново. — СбНУ XIV, 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. П. Ковачев. Севлиевско. — БД V, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гранити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сиять, портиться, прокисать (о вине)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>graneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сиять , с отличием в гласной основе, ср. елвц. hranief портиться, гнить, тлеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 245)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горбнить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отзываться на вкус горечью , гаронитъ горчить , гарёнить отдавать го­ речью , горёнитъ становиться горьким, гор­ чить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 34; Филин 7, 64: ряз., калуж., ту л., орл., донск., тамб., влад., пенз.; Словарь русских донских гово­ ров I, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских об­ ластных слов. — ЖСт. VIII, 1898, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., смол., юго-вост., Филин 7, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горёнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчить, отдавать горьким вкусом , горэнит то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 311)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук, Из лексики полесского села Листвин. — Лексика Полесья 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарэнщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдавать горьким вкусом , горчить, также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гарэныты</ref> .—Ср. сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского Полесья. — Лексика Полесья 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гранив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>прогорклый, протухший (о жире)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гранив</ref>, грънйф (с. Огнен, Бургаско, дип. раб., Архив Софийск. ун-та), не смешивать с</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гранив</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оранжевый &lt; ^granii/ъ (см.)! Можно сказать, что слово пропущено почти всеми этимол. сло­ варями, что послужило поводом для ошибочной характеристики</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>граня</ref>, грани</orth>
+      </form>
+      <sense>
+        <def>иметь прогорклый вкус: «Без соответствий в остальных слав, языках» . Ср., однако, приводимые выше формы и значения в</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев БЕР IV, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. , <ref>елвц</ref>.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Вост.-слав</ref>. обнаруживает некоторые преобразования формы, но</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горбнить</ref> сохранило совершенно регулярный метатезный рефлекс праслав. *gorniti.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Праслав. древность образо­ вания данной формы и обособления значения 'приобретать про­ горклый вкус и т. п.' для нас очевидна.</note>
+  <gramGrp>
+    <gram>Так же очевидно родство с<ref type="etymon" target="goreti">*goreti</ref> 
+(см.), конкретные связи с которыми, однако, двусмы­
+сленны: либо здесь представлено раннее обобщение основы 
+<ref type="etymon" target="gorn-">*gorn-</ref>
+от <ref type="etymon" target="gorngti">*gorngti</ref> 
+(ср. сербохорв. granuti 
+'вспыхнуть, засиять', сближе­
+ние granuti 
+и gruniti 
+см. Skok I, 592, однако ни значения 'пор­
+титься' (см. выше), ни прочих слав, соответствий последний не
+знает; равным образОхМ неточно он говорит о «корне gra-»; 
+о сербо­
+хорв. granuti 
+см. еще W. 
+v. d. Osten-Sacken 
+AfslPh 
+XXXII, 
+1911, 330: сближение с лит. garti 
+'испаряться, исходить тоской'), 
+либо каузативное 
+производное 
+на -Ш 
+от имени 
+<ref type="etymon" target="gor-nb">*gor-nb</ref> 
+(так 
+см. Георгиев БЕР, там же, с реконструкцией ^gar-пъ; очень бег­
+лое 
+объяснение 
+русск. 
+горбнитъ 
+и 
+болг. 
+граня 
+из 
+<ref type="etymon" target="gor-no-">*gor-no-</ref>
+см. Berneker I, 333; F. 
+Bezlaj JiS XVI, 
+8, 230; Bezlaj. Etim. 
+slovar sloven, jez. I, 170).</gram>
+  </gramGrp>
+  <note>Однако, если *gornqti засвидетельство­ вано слабо, то *gornb вовсе не засвидетельствовано. Совершенно неприемлемо толкование Шахматова (ИОРЯС VII, 1902, 363) — русск. горбнитъ из *гороконутъ, также не учитывающее слав, соответствий.</note>
+</Entry>

@@ -1,0 +1,83 @@
+<Entry xml:id="glyza-2">
+  <pb n="161" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glyža</orth>
+    <lemma>glyža</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gliza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>железа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218, если не к праслав. *gliza, см.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глыжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком застывший или за­ сохший , глыжй мн. комья за­ сохшей земли или мерзлой грязи, снега , сюда же ум. глыжка комок масла, снега , глыжка ж. р. засохший и замерзший ком земли, навоза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., Латв. ССР, Лит. ССР, Филин 6, 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Словарь народных говоров Зап. Брянщины81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сло­ варь говоров Подмосковья 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>обрыв, под­ рытый водою , обрыв, подмытый водой, большая груда земли (запорож.), пропасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 289)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. А. Марусенко. Материалы к словарю украинских географических апеллативов (названия рельефов) 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>глйжка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>груда земли, снега , глижи замерзшие комья земли на дороге</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лисенко. Словник д!алектно1 лексики середнього i схщного Пол1сся 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Леке, атлас Правобережного Пол1сся)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глыжа</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>большой ком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 67)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с - ] - суффиксальным от<ref type="etymon" target="glyza-2">*glyža</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

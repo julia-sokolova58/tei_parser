@@ -1,0 +1,90 @@
+<Entry xml:id="danbje">
+  <pb n="188" end_page="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>danbje</orth>
+    <lemma>danbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddne</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>даяние, подача, наследство, дань, подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 270—271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ddnje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подать, налог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ddnl</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дар</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>danie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>даяние, передача, блюдо (подаваемое на стол), подать, яд, отрава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>данит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>даяние (Мин. Празд. XII в.; Служ. Варл. XII в.; Кир. Тур.), пожало­ вание, дарование ; А съ татары аже будетъ князю великому Дмитрш миръ.. . или данъе, ино и князю великому Олгу миръ или данъе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Церк. Уст. Яросл.; Грам. кн. Всевол. 1136 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. Дм. Ив. 1381 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 626—627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>данъе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подарок, дар, приданое , данъе, данъе ср. р. подарок, дар (арх., олон.), приданое (арх.) , урр. дання ср. р. отрава вообще, в частности же яйца насекомых, брошенные в водку, которую подносят тому, кого хотят отравить (Киев, г.), заговорное питьё (Ном. Чуб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 271)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ/е от прич. страд, прош.<ref type="etymon" target="yap">*йапъ</ref> (см. <ref type="etymon" target="dati">*dati)</ref> 
+или от имени <ref type="etymon" target="danb">*danb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

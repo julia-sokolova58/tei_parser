@@ -1,0 +1,45 @@
+<Entry xml:id="cirbjb">
+  <pb n="116" end_page="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cirbjb</orth>
+    <lemma>cirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>eiry</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, прозрачный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. 6iry&gt; прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, прозрачный, полный, действительный, истинный, час­ тый, сплошной .—Сюда же примыкает суффиксаль- ное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сету</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистый, сплошной, ни с чем не смешанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ramutt 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Стар, региональный вариант к этимологически более первонач, праслав.<xr type="compare">см. <ref type="etymon" target="shg">*Шгь]ъ</ref>
+    </xr>, кот. 
+восходит к и.-е. *skei-ro- / *ski-ro-
+вместе с гот. skeirs 'ясный', нем. schier 'чистый'. См. Machek
+2 103.</note>
+</Entry>

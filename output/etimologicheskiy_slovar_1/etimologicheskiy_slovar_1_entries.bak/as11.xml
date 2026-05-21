@@ -1,0 +1,63 @@
+<Entry xml:id="as11">
+  <pb n="121" end_page="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьас1ъ1ь</orth>
+    <lemma>Ьас1ъ1ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бадал</ref>&gt;у род. п. -дм м. р.</orth>
+      </form>
+      <sense>
+        <def>травянистое расте­ ние Carduus, острый железный наконечник, которым погоняют волов, колючка (ежа), овод , рыба Cobitis tae­ nia L., баде.ъ то же, бадол&gt; м. р. то, чем погоняют волов , бадьъе ж. ми., б ад.ям м. им. глазная болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA I, 237)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. также Vis 298)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>badelj</ref>, род. п. -dlja, м. р.</orth>
+      </form>
+      <sense>
+        <def>высокое тернистое растение Silybum mariamim . — С ю д а же относится производное и преобразованное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika, I, 8 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бадр.ъииа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель, ствол, баздр.ъика ж. р. то же, баздрляща ж. р</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъ1ь</ref>
+      </m> от основы гл. <ref type="etymon" target="badati-4">*badati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. след. Не исключена вторичность образования от<xr type="compare">см. <ref type="etymon" target="bodb">*bod^b</ref>
+    </xr> под 
+влиянием вокализма *badati. 
+Об экспрессивных 
+формах 
+типа 
+бад/хъица как о производных от основы несврш. вида bad- говорит, 
+сравнивая их 
+с формой badaljika, 
+Скок 
+Skok. 
+Etim. 
+rjecn.</note>
+</Entry>

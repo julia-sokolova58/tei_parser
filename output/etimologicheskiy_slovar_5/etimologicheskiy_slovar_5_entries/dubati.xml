@@ -1,0 +1,87 @@
+<Entry xml:id="dubati">
+  <pb n="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d’ubati</orth>
+    <lemma>d’ubati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ubati клевать, толкать, пихать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>abat , jubad колоть, клевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ubaf клевать , zdobaf, zdobaf толкать, пихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 339)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ V, 789)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дюбатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клевать , клевать (обычно о рыбе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(кур., обоян., Доп. к Опыту 320)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзюбацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> or основы <ref type="etymon" target="d-5">*d</ref>'
+,ub- &lt; и.-е. <ref type="etymon" target="dheubh-">*dheub(h)-</ref> 
+'глубокий', 'дол­
+бить' (откуда, напр., нем. tief 'глубокий', лит. 
+dubus то же), 
+конгаминированный нередко с <ref type="etymon" target="zobati">*zobati</ref> (см.): Ср.</gram>
+  </gramGrp>
+  <note>Machek 2 132. О корне см. еще G. Iljinskij AfslPh X X I X , 1907, 489.</note>
+</Entry>

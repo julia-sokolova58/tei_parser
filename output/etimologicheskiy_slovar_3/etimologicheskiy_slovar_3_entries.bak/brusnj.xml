@@ -1,0 +1,58 @@
+<entries>
+  <entry xml:id="brusnj" xml:id="brusnj">
+    <pb n="52" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brusьnъjь</orth>
+      <lemma>brusbnbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>brusnl</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>точильный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 686; РСА II, 220)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brusny</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>точильный, также в выра­ жении brusne dfivi древесина (обычно еловая), пиленая, подго­ товленная для производства целлюлозы, также brusni, прилаг. точильный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jungmann I, 192)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brusny</ref>, прилаг.</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(SSJ I, 137)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бруспый</ref>, -ая, -ое</orth>
+        </form>
+        <sense>
+          <def>брусничный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(арх., Филин 3, 209)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг. с суфф. -ъп-&lt; соотносительное с <ref type="etymon" target="brusiti-5">*brusiti</ref> 
+(см.) и с 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

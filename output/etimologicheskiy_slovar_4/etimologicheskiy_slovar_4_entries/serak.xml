@@ -1,0 +1,62 @@
+<Entry xml:id="serak">
+  <pb n="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серакъ</orth>
+    <lemma>серакъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>серак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вид глиняного сосуда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>серак</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняный кувшин для воды , горшок для сметаны , пузатый глиняный сосуд с узким горлышком, для воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. II, 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>серак</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 7l)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чепак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чепец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 451)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Образование с суфф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m>, 
+соотносительное 
+с <ref type="etymon" target="sers">*серъсъ</ref> (см.), 
+ср. и значения.</gram>
+  </gramGrp>
+</Entry>

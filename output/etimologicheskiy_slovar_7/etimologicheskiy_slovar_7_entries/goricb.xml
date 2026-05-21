@@ -1,0 +1,67 @@
+<Entry xml:id="goricb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gori»cb</orth>
+    <lemma>gori»cb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гбрець</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Taraxacum officinale* хмель Humulus lupulus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гбрац</ref>, гдрац, род. п. горца, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение зверобой Hypericum perforatum, Gentiana asclepiadea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 477; сюда же изречение — Гори, ватро, горцем)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hofec</ref>, род. п. -fee, м. р.</orth>
+      </form>
+      <sense>
+        <def>горечавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 463; см. еще Gebauer I, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horec</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>змеевик, растение семейства гречишных</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ср.-урал., Филин 7, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Субстантивация прилаг.<ref type="etymon" target="gorbhb">*gorbhb</ref> 
+(см.), с проведением прогрес­
+сивной палатализации -ъкъ^&gt; 
+-ъсь.</gram>
+  </gramGrp>
+</Entry>

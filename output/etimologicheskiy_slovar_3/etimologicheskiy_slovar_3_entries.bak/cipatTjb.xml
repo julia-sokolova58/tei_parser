@@ -1,0 +1,33 @@
+<Entry xml:id="cipatTjb">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cipatT&gt;jb</orth>
+    <lemma>cipatT&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цибатий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>длинноногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(цибатий, як жура­ вель, Гринченко IV, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цыбаты</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Существует объяснение, предполагающее озвончение интерво­ кального -р-^&gt; -Ь-; прилаг., производное с суфф.<m type="suffix">
+        <ref>-atb</ref>
+      </m> от <ref type="etymon" target="cipb">*cipb</ref> / <ref type="etymon" target="cipa">*cipa</ref>: 
+<ref type="etymon" target="syor-2">*сёръ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. «Лексжа Палесся у прасторы i часе». Рэд. В. У. Мартынау (Мшск, 1971) 13.</note>
+</Entry>

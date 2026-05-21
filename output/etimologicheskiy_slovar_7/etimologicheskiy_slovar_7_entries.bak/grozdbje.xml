@@ -1,0 +1,95 @@
+<Entry xml:id="grozdbje">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grozdbje</orth>
+    <lemma>grozdbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>г</ref>^оздиге ср. р. атоссроХт], uva</orth>
+      </form>
+      <sense>
+        <def>виноградные грозди</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грозде</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>виноград</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грозде</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>громче</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>виноград, также грож%е, грбз]е ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grozdje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>виноград</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гроздию</ref> собир. от гроздь</orth>
+      </form>
+      <sense>
+        <def>виноград , грожди\е , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр.; Георг. Ам. 307, Срезневский I, 595)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Луче бо всЬхъ овощей на земли гpoждie то. Дан. иг., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гроздья</ref> мн. от гроздь</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гроздья</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>удила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(онеж., Филин 7, 148)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -ъ/е (собир.) от<ref type="etymon" target="grozdb">*grozdb</ref> / <ref type="etymon" target="grozdb">*grozdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

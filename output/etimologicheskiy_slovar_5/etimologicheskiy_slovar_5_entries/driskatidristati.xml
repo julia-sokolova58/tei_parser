@@ -1,0 +1,186 @@
+<Entry xml:id="driskatidristati">
+  <pb n="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*driskati/*dristati</orth>
+    <lemma>driskati/*dristati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dristati</orth>
+    <lemma>dristati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрискам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страдать поносом , дрйща то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрйштя</ref> то же , макс,;, дрека то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( Я . Къпчев. Ппрдопско.— БД IV, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(* 1-0)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>driskaii</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стра­ дать поносом д раскати, дрйскати , drickati , сюда же дрйцати, дрйцати , dristali</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 11, 782)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 713)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карацип, RJA II, 775)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 713)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 782)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дрйскат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страдать поносом (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dristati</ref>, driskati то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dristati</ref> то же , также dfizdatl</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmarm 1, 478)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dfisiat</ref> , dristac</orth>
+      </form>
+      <sense>
+        <def>болтать, нести чушь , елвц. dristaV говорить вздор SSJ I, 331}$ в .-луж. dristac бить струей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 18; Malina. Mislf. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dryzdas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страдать поносом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>drzystac</ref>, drystac</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 569, 575)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dras</ref>- tac</orth>
+      </form>
+      <sense>
+        <def>страдать поносом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>про</ref>- стореч. дристатъ</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дристати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страдать поносом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрыстацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить HOHOCOIM</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Принимая во внимание наличие остаточных форм типа *drbskati (см. макед. дрека, вышо), можно рассматривать * driskati /*dristati как ступень продления корневого вокализма на слав, почве. Ясно, что в таком случае мы имеем дело с расширениеАм корня *dr-[*der- (<xr type="compare">ср. <ref type="etymon" target="drbpati">*drbpati</ref>
+    </xr> — '•'dripati, см.), что семантически вполне оправдано 
+ввиду 
+экспрессивности знач-я названного корня. — '•'dripati, см.), что семантически вполне оправдано 
+ввиду 
+экспрессивности знач-я названного корня. — '•'dripati, см.), что семантически вполне оправдано 
+ввиду 
+экспрессивности знач-я названного корня. — '•'dripati, см.), что семантически вполне оправдано 
+ввиду 
+экспрессивности знач-я названного корня.</note>
+  <gramGrp>
+    <gram>При этом как будто бы должна отпасть распространенная индоевропейская эти­ мология слав.<ref type="etymon" target="driskati">* driskati/*dristati</ref> из глагольного интенсива 
+<ref type="etymon" target="drid-sk-">*drid-sk-</ref>&lt;^n.-e. 
+<ref type="etymon" target="dhreid-">*dhreid-</ref>, ср. др.-исл. drita, др.-англ. dritan, ср.-нидерл., н.-нем. 
+driten в том же знач., а также лит. triedziu, triesti то же, весьма 
+отличное, к тому же в консонантизме.</gram>
+  </gramGrp>
+  <note>См. F. Solmsen KZ XXXVII, 1904, 578исл.; онжеКг XXXVIII, 1905, 142 (со ссылкой на Маценауэра); Berneker I, 224; А. Со­ болевский «Slavia» V, 1927, 443; J. Scheftelowitz. Die verbalen und nominalen sk- und su-Stamme im Baltisch- Slavischen und Albanischen. — KZ LVI, 1929, 178; V. Machek. Slovanska inten- siva slovesna s pfiponovym -stati. — SaPL 1, 1954, 252; Он же, Slavische Verba mit suffixalem sk. — SR X, 1957, 72; Фасмер I, 538.</note>
+</Entry>

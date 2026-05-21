@@ -1,0 +1,20 @@
+<Entry xml:id="bolegoscb">
+  <pb n="185" end_page="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'egoscb</orth>
+    <lemma>bol'egoscb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bolehost</ref> м. р., название населенного пункта в Че­ хии .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 159; Profous s. v.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное старого типа, образованное с суфф. -]ь (функция принадлежности) от сложного личного имени собств. ^boPegostb, ср.<ref type="etymon" target="og-3">*ЬоГъ]ъ</ref> (см.) и <ref type="etymon" target="gostb">*gostb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

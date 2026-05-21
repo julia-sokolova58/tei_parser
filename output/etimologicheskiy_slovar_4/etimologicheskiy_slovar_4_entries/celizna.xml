@@ -1,0 +1,25 @@
+<Entry xml:id="celizna">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celizna</orth>
+    <lemma>celizna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бровь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-izna</ref>
+      </m> от <ref type="etymon" target="celo">*celo</ref> (см.)</gram>
+  </gramGrp>
+</Entry>

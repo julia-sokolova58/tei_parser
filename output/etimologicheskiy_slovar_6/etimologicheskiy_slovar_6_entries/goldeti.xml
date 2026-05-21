@@ -1,0 +1,61 @@
+<Entry xml:id="goldeti">
+  <pb n="198" end_page="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*goldĕti</orth>
+    <lemma>goldĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gladeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать, страстно желать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glozeu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать; быть голодным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>glade</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>голодает, нуждается, терпит нужду y</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Po­ lanski—Sehnert 64, с реконструкцией *goldeje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голодёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скудеть, оскудевать, беднеть, нищать исподволь . •goldb Гл. состояния на -eti, производный от<xr type="compare">см. <ref type="etymon" target="goldb-2">*goldb</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 911)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="zbldeti">*zbldeti</ref>
+    </xr> (см.) (см.) (см.) (см.)</note>
+</Entry>

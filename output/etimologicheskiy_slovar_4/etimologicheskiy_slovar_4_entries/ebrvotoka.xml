@@ -1,0 +1,46 @@
+<Entry xml:id="ebrvotoka">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ebrvotoka</orth>
+    <lemma>ebrvotoka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Cbrvotokb</orth>
+    <lemma>Cbrvotokb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , <ref>ред</ref>,к. crvotok м, р.</orth>
+      </form>
+      <sense>
+        <def>черво­ точина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA I, 856)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>червотбка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Anobium (Вх.), изъеденный червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>червотбк</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Верхратський. Знадоби 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="sgi-2">*сьгиь</ref> (см.) и <ref type="etymon" target="tokb">*tokb</ref>, <ref type="etymon" target="tociti-2">*tociti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

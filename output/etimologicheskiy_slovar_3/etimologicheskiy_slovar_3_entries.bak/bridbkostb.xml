@@ -1,0 +1,84 @@
+<Entry xml:id="bridbkostb">
+  <pb n="27" end_page="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridbkostb</orth>
+    <lemma>bridbkostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>britkost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>severitas, acies , словен^ bridkost ж. p. горечь, тревога, неприятность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 655)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bridkost</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брыдкость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>острота, способность к работе, рвение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>брид</ref>- костъ ж. р.</orth>
+      </form>
+      <sense>
+        <def>гадость, мерзость , брыдкость ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Зиз. Л е к е , Тимченко I, 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брйдтстъ</ref> ж. р. ^мерзость, гнусность</orth>
+      </form>
+      <sense>
+        <def>, безобразие, дурнота , олр. брйдкосць гадость, нечистота, неприятность для вкуса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Носов. 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="nyk">*ЪНйъкъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древ­ ность проблематична. Ср. параллельное<xr type="compare">см. <ref type="etymon" target="bridostb">*bridostb</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,111 @@
+<Entry xml:id="bystrica">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bystrica</orth>
+    <lemma>bystrica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бистрйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт вишни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков, Ба- нат. 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>blstrica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстрый поток , blstrica сорт слив , Бйстрща ж. р., название реки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sams., GTer. 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук, RJA I, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blstrica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрый, стре­ мительный поток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bistfice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>torrens (Petra Comestora Historia scholastica, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bystfice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрая река или поток , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bystrice</ref>, название реки, потока, крепости, местное на­ звание (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>bystrica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрый гор­ ный поток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ Т, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Быстрща</ref>, название водоема</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кн. переп. Нижегор., 1621—1629 гг.—Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бйстриця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрый и шумный поток, название мно­ гих рек, порода длинных слив</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (субстантивация) от прилаг. 
+<ref type="etymon" target="bystrb">*bystrb</ref> 
+(см.), <ref type="etymon" target="bystra">*bystra</ref>.</gram>
+  </gramGrp>
+  <note>Стар, образование, представленное, напр., в слав, гидронимии. Обращает на себя внимание форма fluvius Bustricius, река в Паннонии (Географ Равеннский, VII—VIII вв. н. э.), — латинизация слав. *bystrica или особая, иллир. форма? См. «Sfc)w- nik starozytnosdi sfowianskich» I, 1 (Wroclaw—Warszawa—Kra­ kow, 1961) 209; A. Mayer. Die Spracheder alten Illyrier. Bd. II (Wien, 1959) 31; Трубачев. Названия рек Правобережной Украины (М., 1968), 171 — 172.</note>
+</Entry>

@@ -1,0 +1,291 @@
+<Entry xml:id="segz">
+  <pb n="76" end_page="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегзъ</orth>
+    <lemma>сегзъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сеггъ</orth>
+    <lemma>сеггъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ч</ref>^кза, предл.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук. ев., XIII в., 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чрез</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>через</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">ст.-сербохорв. <ref>cres</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>через</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 11, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чрез</ref> (Воеводина)</orth>
+      </form>
+      <sense>
+        <def>через, по причине, по вине , также cerez , cez гчерез</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. Popovic Wiensl JbV, 1956, 10 и сл.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok; М. Tentor. Leksicka slaganja.— «Razprave» Г, 1950, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crez</ref>, предл. с вин. п.</orth>
+      </form>
+      <sense>
+        <def>свыше, паче, против, вопреки, через (о времени) , cez то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cez</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>через, между</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 165—166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cez</ref> , ces</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 25, 104, 301)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 73; ср. также Kott I, 180: cez, crez— «в Словакии»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чересъ</ref>, черезъ, черосъ, предл. с вин. п. для обозначе­ ния движения сквозь что-либо , для обозначения движения поперёк чего, с одной стороны на другую , для обозначения движения через верх чего-либо</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пов. врем. л. под 1098 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I летоп. под 1144 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 898 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский III, 1501—1502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. через, <ref>предл</ref>.</orth>
+      </form>
+      <sense>
+        <def>поперек чего-н., с од­ ной стороны на другую, с одного конца, края до другого</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. через, <ref>предл</ref>.</orth>
+      </form>
+      <sense>
+        <def>через, через посредство, при помощи, по при­ чине, из-за, благодаря, через (по истечении), за (известное время), в продолжение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цёраз</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>через (поперек, с одной стороны на другую).—Сюда же (см. ниже этимол. обоснования) относится имя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. (<ref>вост</ref>.) ceres</orth>
+      </form>
+      <sense>
+        <def>мужской пояс , если не заимств. из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. (<ref>см</ref>. ниже)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzos</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кожаный пояс для ношения денег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. через</orth>
+      </form>
+      <sense>
+        <def>ремень, как будто надутый; прежде в нем держали деньги , через особый пояс для хранения денег , черес пояс , через яз, рыбо­ ловный закол (плетень), но не во всю ширину реки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шейн. Сказки Самарского края.—РФВ XLI, 1899, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вост.-сиб., Даль 3 IV, 1312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёрес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кожаный пояс, в котором носят деньги; делается из двух широких ремней, положенных один на другой и сшитых вдоль но краям; внутренность и наполняется деньгами , чёрех м. р. кожаный поясок, в котором носят деньги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бшецький-Носенко. Словник украшсько! мови 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. стар, <ref>чёрес</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>широкий кожаный мужской пояс</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 471)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Этимологически наиболее авторитетная форма<ref type="etymon" target="cersb">*cersb</ref> (появле­
+ние варианта <ref type="etymon" target="cerzb">*cerzb</ref> обусловлено влиянием предлогов <ref type="etymon" target="vbz">*vbz</ref>, *;bz, 
+<ref type="etymon" target="niz">*niz</ref>, см.) может объясняться только из предшествующего <ref type="etymon" target="kert--2">*kert-</ref>
+s-j <ref type="etymon" target="skert-s-">*skert-s-</ref>, в противном случае <ref type="etymon" target="segv">*сегвъ</ref> дало бы <ref type="etymon" target="segkh">*сегхъ</ref> (единич­
+ное укр. чёрех не может считаться противоречащим фактом, это 
+скорее экспрессивное -х). Родственно лит. skefsas 
+'поперечный' 
+(ввиду отсутствия перехода 5 "&gt; s после г также, по-видимому,
+ёегВа 
+из <ref type="etymon" target="skert-s-y">*skert-s-y</ref> ср. лит. smdrsas 'вонь'&lt; <ref type="etymon" target="smard-sasy">*smard-sas)y</ref> лтш. sfyers 'по­
+перек, плохо, дурно', также cers- в сложных топонимах лтш. 
+Cers-angurey Cers-upey др.-прусск. Kirs-appeny 
+Kirs-neyden; 
+далее, 
+сюда же, возм., греч. erct-xapoiog 'поперек, в бок', epcapaiog то же. 
+Стремление особо этимологизировать 
+<ref type="etymon" target="cersb-2">*cersb</ref> 
+со знач. 'пояс' 
+(примеыр — выше; Бернекер (ниже) дает <ref type="etymon" target="cersb-3">*cersb</ref> 1 и <ref type="etymon" target="cersb-4">*cersb</ref> 2, 
+аналогично — другие авторы) не имеет под собой серьезных ос­
+нований, поэтому мы говорим об этих примерах как о вторичной 
+субстантивации предлога-наречия <ref type="etymon" target="cersby">*cersby</ref> значение которого ('по­
+перек, через') оказалось весьма удобным для обозначения пояса. 
+Особая этимология для <ref type="etymon" target="cersb-5">*cersb</ref> 
+'пояс' ничего по сути дела не 
+дает, т. к. единственное сближение при этом др.-ирл. crlssy кимр. 
+cryss 
+'пояс' 
+(поддерживаемое 
+иногда 
+гипотезой 
+о 
+кельт.-
+слав, языковых связях) приводит к реконструкции и.-е. 
+<ref type="etymon" target="kft-s-">*kft-s-</ref>, 
+т. е. праформы, элементарно близкой к <ref type="etymon" target="kert-s-y">*kert-s-y</ref> 
+лежащему в ос­
+нове названных выше предложных и наречных слов. Целесооб­
+разно поэтому видеть в кельт, названии пояса лексико-семантич. 
+параллелизм к синонимичным слав, словоупотреблениям. 
+-•Литература: A. Fick KZ XVIII, 1869, 415; Miklosich 115; 
+М. Valjavec. Kako je rabila rijecca crez 
+(novoj) slovenskoj knizi 
+do prije 50 godina, — «Rad» LXXXV, 1887, 34—120; LXXXVI, 
+1887, 1—75; LXXXIX, 1888, 25—60; P. Брандт РФВ XXII, 1889, 
+135—136; А. А. Потебня РФВ III, 1880, 101; S. Bugge IF I, 
+1892, 446; A. Meillet MSL 8, 1893, 297; E. Zupitza KZ XXXVII, 
+1904, 399; A. Meillet MSL 14, 1907, 386; Berneker I, 148—149; 
+И. Эндзелин. Славяно-балтийские этюды (Харьков, 1911) 31—32; 
+К. Буга РФВ LXX, 1913, 103; Trautmann BSW 129—130; Bru­
+ckner 583; A. Bajec SR V—VII, 1954, 222; I. Popovic. Serbokro-
+atisch mda. cerez
+ 
+cwegen, halber'. —Wiensl Jb. V, 
+1956, 10— 
+13 (сербохорв. диал. (Воеводина) cerez —не 
+русизм, но отражает 
+местное 
+фонетич. 
+развитие 
+с г - &gt; cer-/cir-); 
+Т. 
+Lehr-Sptawinski 
+RS XVIII, 1956, 6; К. Forbes «Glotta» 34, 1958, 258; Boisacq
+212—213; Frisk I, 537; J. Otr^bski LP 8, 1960 (без надобности 
+объясняет -z(b) в <ref type="etymon" target="cerzb-2">*cerzb/</ref>
+      <ref type="etymon" target="cersb-6">*cersb</ref> 
+как расширитель); Fraenkel II, 
+802—803; Фасмер IV, 338; Etymologicky slovnik 
+slovanskych 
+jazyku. Slova gramaticka a zajmena. Svazek 1. Pfedlozky. Kon-
+cove partikule. Sest. F. Kopecny (Praha, 1973) 49—52 (автор ог­
+раничивается— ввиду тематич. характера тома — только предлож­
+ными примерами, поэтому его точка зрения по проблеме <ref type="etymon" target="segv-2">*сегвъ</ref> 1 
+и <ref type="etymon" target="cersb-7">*cersb</ref> 2 остается нам пока неизвестной).</gram>
+  </gramGrp>
+</Entry>

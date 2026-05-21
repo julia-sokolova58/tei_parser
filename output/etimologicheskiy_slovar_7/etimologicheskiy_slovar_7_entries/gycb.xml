@@ -1,0 +1,126 @@
+<Entry xml:id="gycb">
+  <pb n="218" end_page="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gycb</orth>
+    <lemma>gycb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hyca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>капустная кочерыжка , hycka средняя жила листа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валаш., Bartos. Slov. 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вер­ хушка хвойного дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гичь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>огуречная ботва , гичь ж. р. ботва огородных растений , гич м. р. то же , гичка ж. р. ботва огородных растений (курск., орл., брян.), свежая рублен­ ная капуста (курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., зап., южн., Филин 6, 176)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(нижнедонск., кубан., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гич</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебли с листьями — преимущественно у огородных и бахчевых расте­ ний , также гича ж. р. , гичка ж. р. листва на огородных растениях, ботва, кочан кукурузы без зерен 1</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 284)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гичка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свекольная ботва , гичка листья с кукурузного початка, конец метлы (Онишкевич. Словник бойтвського ддалекту)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бело- церк., Курило 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. . •<ref>gyditi</ref> г1ч м. р.</orth>
+      </form>
+      <sense>
+        <def>ботва , гьчка конец завязанного мешка , сюда же ггчына ж. р. карто­ фельная ботва, стебель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(мозыр., 3 народнага слоушка 162)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Янкоусш И, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Близость формы и семантики *gycb и<xr type="compare">см. <ref type="etymon" target="gyza">*gyza</ref>
+    </xr> — ср. особенно 
+значения 
+'толстый 
+стебель', 'кочерыжка, утолщение' (выше) — и 
+большая определенность этимол. связей именно у *gyza 
+давно при­
+вели исследователей к заключению о вторичности, 
+экспрессивном 
+хар-ре форм на gyc-. 
+См. Berneker I, 374 (допущение контамина­
+ции); Otrqbski. Zycie wyraz6w 276—277 (также объяснение через 
+контаминацию); Stawski I, 275 (отмечает 
+раннее появление форм 
+на -с-); Е. Smutkowa LP XIV, 1969, 66 
+(предлагаемое 
+объясне­
+ние из лит. неверно ввиду 
+значит, 
+распространения 
+форм).</note>
+  <gramGrp>
+    <gram>Не исключено здесь, впрочем, также производное с суф. -к- от и.-е.<ref type="etymon" target="geu--2">*geu-</ref>.</gram>
+  </gramGrp>
+  <note>См. еще Р. М. Козлова. Белорусские регионализмы праслав. происхождения (на мат-ле лексики вост. Полесья). Автореф. канд. дис. Минск, 1977, 7; Она же «Беларуская лшгв1стыка» № 13, 1978, 65—66.</note>
+</Entry>

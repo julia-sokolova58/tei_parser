@@ -1,0 +1,45 @@
+<Entry xml:id="borislavb">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borislavb</orth>
+    <lemma>borislavb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borislava</orth>
+    <lemma>borislava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Борислав</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Речник на личните и фамилии имена убългарите. София, 1969: «из древ­ него Берислав»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Borislav</ref> м. р., личное имя собств. , также Bofislava ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ge­ bauer I, 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Борис</ref>- лавъ .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(приде кнзь Мьстиславъ на тържекъ и га борислава. . 1 Новг. лет. — Картотека СДР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимическое сложение формы пов. наклонения от гл.<ref type="etymon" target="boriti-3">*boriti</ref> или <ref type="etymon" target="borti-5">*borti</ref> (см.) и основы slav- (см. <ref type="etymon" target="slava-2">*slava</ref>, 
+<ref type="etymon" target="slaviti">*slaviti)</ref>.</gram>
+  </gramGrp>
+  <note>Ум. к *borislavb является, по-видимому, ст.-слав. (др.-болг.) Борисъ (см. о типе образования данной краткой формы Г. Г. Гин- кен ЖСт. III, 1893, 445), ср. восходящие к этой слав, краткой форме нем. фамилии Bors, Borsch, в 1176 г. — Boriz, на крайнем северо-западе слав, территории, в Поморье (германизированной Померании). Известная булгарско-тюрк. этимология имени Бо­ рис (см. Фасмер I, 194, с литер.) ощутимо ослабляется этими прибалтийско-славянскими свидетельствами, находившимися вне зоны тюрк, влияний. См. Трубачев «Этимология, 1966» (М., 1968), 8.</note>
+</Entry>

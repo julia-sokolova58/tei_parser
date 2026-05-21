@@ -1,0 +1,35 @@
+<Entry xml:id="grudatis">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grudati s§</orth>
+    <lemma>grudati s§</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>grudac</ref> so</orth>
+      </form>
+      <sense>
+        <def>чувствовать отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>grudac</ref> se то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 336)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, родственный <ref type="etymon" target="gruditi">*gruditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

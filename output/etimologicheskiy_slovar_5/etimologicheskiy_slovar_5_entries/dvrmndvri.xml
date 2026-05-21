@@ -1,0 +1,315 @@
+<Entry xml:id="dvrmndvri">
+  <pb n="171" end_page="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvьrь, мн. *dvьri</orth>
+    <lemma>dvьrь, мн. *dvьri</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>мн. *dvbri</orth>
+    <lemma>мн. *dvbri</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДКА</ref>^А Ж. p. &amp;6ра, janua</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>двери</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь, двери</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>deep</ref> ж. р., мн.</orth>
+      </form>
+      <sense>
+        <def>двери</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>двар</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>двери</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>средние врата на алтаре dbbati (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dari</ref> ж. p. мн.</orth>
+      </form>
+      <sense>
+        <def>дверь, двери , dveri мн. , davrl мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Trub., Plet. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dfvi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvefe</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь, двери</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvere</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь, двери</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>durje</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zafa</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>дверь, калитка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. И, 1202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Jak</ref>.) drwi мн.</orth>
+      </form>
+      <sense>
+        <def>двери</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dvar</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 57, с реконструкцией праслав. *dvbrb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drzwi</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>дверь, двери</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 409)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dzwierze</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dwierzy</ref> , dwierze</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 592)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvjerd</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двъръ</ref> ,</orth>
+      </form>
+      <sense>
+        <def>ворота , двиръ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. X. 9. Остр, ев.; Гр. Наз. XI в. 110 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грам. кн. Всевол. д. 1136 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 648)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сбор. Троиц. XII—XIII в. 166)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дверь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>створ, закрывающий ход в помещение</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дверь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(терск., донск., костр., Филин 7, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двёрг</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзвёры</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>дверь</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Древнее и.-е. слово, родственное гот. daur, др.-в.нем. turi, лит. durys мн. 'дверь', лат. fores 'двустворчатая дверь', греч. Оброс, алб. der'e дверь', др.-инд. вед. ddrah, арм. darn 'дверь' « в и н . ед. *dhurn)y тох. В twere 'дверь'. Сюда же греч. Ошрбд « *&amp;Fap- io&lt;;&lt;^*dhuf-io-) 'дверная петля'. Слав. *dvbrb характеризуется как первонач. основа на согласный *dhar- j *dhur-&gt; связанная чередо­ ванием корневого гласного с<xr type="compare">см. <ref type="etymon" target="dvorb">*dvorb</ref>
+    </xr>; их отношение напоми­
+нает разные падежные формы др.-инд. dvarah мн. — вин. durdb-
+Далее, возм., родственно др.-инд. dhur- 'дышло' и хетт, turiia-
+'запрягать'. 
+См. G. Meyer ВВ VIII, 1883, 188; Miklosich 53; Р. Брандт 
+РФВ XXII, 1889, ИЗ; A. Meillet MSL 12, 1902, 236—237; он же 
+MSL 14, 1907, 382; Berneker I, 241—242; W. Cimochowski LP 
+II, 1950, 240; S. E. Mann «Language» 28, 1952, 32; В. Георгиев. 
+ВЯ 1958, № 6, 20; E. Fraenkel «Festschrift Cyzevskyj» 110—113; 
+Mayrhofer II, 111; Benveniste. 
+Le vocabulaire 
+des institutions 
+indo-europeennes I, 312—313; Фасмер I, 487; H. Birnbaum. Indo-
+European nominal formations submerged in Slavic 147.; их отношение напоми­
+нает разные падежные формы др.-инд. dvarah мн. — вин. durdb-
+Далее, возм., родственно др.-инд. dhur- 'дышло' и хетт, turiia-
+'запрягать'. 
+См. G. Meyer ВВ VIII, 1883, 188; Miklosich 53; Р. Брандт 
+РФВ XXII, 1889, ИЗ; A. Meillet MSL 12, 1902, 236—237; он же 
+MSL 14, 1907, 382; Berneker I, 241—242; W. Cimochowski LP 
+II, 1950, 240; S. E. Mann «Language» 28, 1952, 32; В. Георгиев. 
+ВЯ 1958, № 6, 20; E. Fraenkel «Festschrift Cyzevskyj» 110—113; 
+Mayrhofer II, 111; Benveniste. 
+Le vocabulaire 
+des institutions 
+indo-europeennes I, 312—313; Фасмер I, 487; H. Birnbaum. Indo-
+European nominal formations submerged in Slavic 147.; их отношение напоми­
+нает разные падежные формы др.-инд. dvarah мн. — вин. durdb-
+Далее, возм., родственно др.-инд. dhur- 'дышло' и хетт, turiia-
+'запрягать'. 
+См. G. Meyer ВВ VIII, 1883, 188; Miklosich 53; Р. Брандт 
+РФВ XXII, 1889, ИЗ; A. Meillet MSL 12, 1902, 236—237; он же 
+MSL 14, 1907, 382; Berneker I, 241—242; W. Cimochowski LP 
+II, 1950, 240; S. E. Mann «Language» 28, 1952, 32; В. Георгиев. 
+ВЯ 1958, № 6, 20; E. Fraenkel «Festschrift Cyzevskyj» 110—113; 
+Mayrhofer II, 111; Benveniste. 
+Le vocabulaire 
+des institutions 
+indo-europeennes I, 312—313; Фасмер I, 487; H. Birnbaum. Indo-
+European nominal formations submerged in Slavic 147.; их отношение напоми­
+нает разные падежные формы др.-инд. dvarah мн. — вин. durdb-
+Далее, возм., родственно др.-инд. dhur- 'дышло' и хетт, turiia-
+'запрягать'. 
+См. G. Meyer ВВ VIII, 1883, 188; Miklosich 53; Р. Брандт 
+РФВ XXII, 1889, ИЗ; A. Meillet MSL 12, 1902, 236—237; он же 
+MSL 14, 1907, 382; Berneker I, 241—242; W. Cimochowski LP 
+II, 1950, 240; S. E. Mann «Language» 28, 1952, 32; В. Георгиев. 
+ВЯ 1958, № 6, 20; E. Fraenkel «Festschrift Cyzevskyj» 110—113; 
+Mayrhofer II, 111; Benveniste. 
+Le vocabulaire 
+des institutions 
+indo-europeennes I, 312—313; Фасмер I, 487; H. Birnbaum. Indo-
+European nominal formations submerged in Slavic 147.</note>
+</Entry>

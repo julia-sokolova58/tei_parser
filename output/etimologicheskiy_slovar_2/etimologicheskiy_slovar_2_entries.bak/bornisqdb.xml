@@ -1,0 +1,22 @@
+<Entry xml:id="bornisqdb">
+  <pb n="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bornisqdb</orth>
+    <lemma>bornisqdb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Branisdd</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Regesta Bohemiae et Moraviae II, 1297 г., Gebauer I, 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение формы пов. наклонения от гл.<ref type="etymon" target="borniti-3">*borniti</ref> (см.) и имени 
+<ref type="etymon" target="sqdb">*sqdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,34 @@
+<Entry xml:id="bezsbpnbjb">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsbpnb(jb)</orth>
+    <lemma>bezsbpnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бесан</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>бессонный, бодрствующий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 480—481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezesny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бессонный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. типа, образованное из<ref type="etymon" target="bez-104">*bez</ref> (см.; 
+там и подробности об этом типе в целом) и именной основы <ref type="etymon" target="zrp">*зърпъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Исторически тождественно предыдущему имени *bezsъpnъ9 являясь местоименной формой (-уь) этого последнего (в чеш. примере).</note>
+</Entry>

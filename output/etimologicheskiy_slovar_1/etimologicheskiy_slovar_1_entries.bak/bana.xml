@@ -1,0 +1,207 @@
+<Entry xml:id="bana">
+  <pb n="150" end_page="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ban'a</orth>
+    <lemma>ban'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>баня</ref> ж. p. сбаня, купальня; купанье</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ба</ref>?ьа ж. р.</orth>
+      </form>
+      <sense>
+        <def>баня, ванная, ку­ панье, ванна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>багьа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баня, купальня, ^мщю^альный источник, сюда же багыща ж. р. баня, купальня, ванна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdii</ref>, bane ж. р.</orth>
+      </form>
+      <sense>
+        <def>купол башни; небосвод; круглая крышка; круг­ лый сосуд, осиное гнездо, шахта, копь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>купол. , ban жбан, кувшин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slov. Stfedoopav. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubfn, Cech. klad. 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>baha</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>копь, шахта, круглый пуза­ тый сосуд , все округлое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 131: ruka mu napuxla jak bana)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>banja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>кувшин, тыква, вообще — все пузатое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bana</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брюхастый сосуд; чаша для воды; большой молочник, тыква</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bania</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>все выпуклое, выпуклый сосуд, купол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>баш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баня, balneum , баинА баня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X I в., Срезневский I, 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1599 г., там же, III, Доп., 7 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>баня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>специальное помещение, где моются и парятся, мытье в бане</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. (<ref>южн</ref>., зап.) баня</orth>
+      </form>
+      <sense>
+        <def>шар, мыльный пузырь , байка баня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 3; Опыт словаря говоров Калининской области 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>баня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баня , выпуклый сосуд, котел , купол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Беринда, Тимченко I, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1597 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1591 г., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>баня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>купол, солеварня, минеральный целебный источник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бан</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а каменоломня , bdni ж. р. минеральный источник, соле­ варня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. А . Софшканич. Особливоси roBipKii с. Лецовиця Мукач1вского р-ну. Дип. роб. Ужгород, 1954, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(St. Hrabec. Narwy geograficzne Huculszczyzny. Krakow, 1950, 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Достоверно объяснено как праслав. заимствование<ref type="etymon" target="ban">*ban</ref>'a 
+&lt; 
+<ref type="etymon" target="banja">*banja</ref> 
+&lt; народнолат. <ref type="etymon" target="banea">*banea</ref>, 
+balnia 
+(последнее засвид. в лат. 
+эпиграфике), 
+собственно — мн. 
+ч. 
+от 
+лат. 
+balneum, 
+balineum 
+'баня, 
+купальня', кот. в свою очередь заимствовано из 
+греч. 
+paXaveiov в том же знач.</gram>
+  </gramGrp>
+  <note>См. A . Meillet BSL 16, 1910, C L X X V I ; он же BSL 20, 1916, 91; он же MSL 11, 1899, 179 (в первых двух работах Мейе оспаривает мнение Фасмера и Шахматова о том, что слав, слово заимствовано из греч. или через посредство греч.; еще меньше оснований предполагать герм, посредство); особенно подробно, с освещением реалий, см. М. Murko. Die Schropfkopfe bei den Slaven. Slav, bana, barika, lat. balnea. — W u S V , 1913, 1—42; Berneker I, 43 (предполагает посредство ср.-греч. *|3avsiov); Мейе. Общеслав. язык 130 (со специальным указанием на отраже­ ние в слав, слове долготы народнолат. *banja : сербохорв. бап&gt;а)\ F. Stawski R S 16, 1948, 85; P. Chantraine L B V I , 1963, 16; Фасмер I, 121—122. См. еще И. С. Вахрос «Scando—Slavica» I X . 1963, 162—165, а также специальную монографию: I. Vahros. Grossruss. Sauna. «FF Communications)) N o . 197 (Helsinki, 1966) 68 и след., автор которой пытается, вслед за Махеком, реабилити­ ровать теорию непосредственного заимствования из греч. 3aXavelov, кот. якобы отразилось, в частности на русск. почве, в формах с ср. русск. диал. байна. Н о подобные формы могут быть легко объяснены иначе, см. А . Соболевский Р Ф В L X I V , 1910, 134, где говорится о диссимиляции *банъна. См. еще Sadnik—Aitzetmuller. V g l . W b . 2, 85—86, где подробно о взаимоотношениях 'баня, купальня' оо с к у п о л , пузатый сосуд' (однако с привлечением постороннего материала). Праслав. *baria, будучи заимствовано южными славянами в знач.'balneum,' прежде всего беспрепятственно распространилось у вост. славян в том же знач. 'balneum', и лишь через стадию 'рудник, шахта', распространилось в знач. 'купол, с о с у д ' в зап.-слав, языках (ср., впрочем, отдельные ю.-слав. соответвия *Ьапъка I *Ьапъка), под влиянием которых последнее^наиболее позднее, знач. по­ явилось и в вост.-слав. ГеографияУи относительная хронология распространения слова *6а/г'а как бы иллюстрирует наличие известных в науке изоглоссных рубежей и ареалов. См. Трубачев. Ремесленная терминология. (М., 1966) 289—293. Имели место попытки объяснить *Ьап'а как исконное слав, слово, см. A . Bruckner K Z X L V , 1913, 26—27 (но его ссылки на относительно позднее польск. banior, bajor неубедительны); Г. А . Ильинский И О Р Я С X X I I I , 1921, 197—202 (с маловероят­ ной попыткой объяснения из и.-е. *bhd-); S. Ondrus «Slavica Slo- vaca» 4, 1968, 242 и сл. (производит *ban'a от *batati 'бить', т. е. 'там, где бьют, хлещут водой', ср., впрочем, сходно — от *bkan- ' б и т ь ' — еще R. Meringer IF X V I , 1904, 158—159).</note>
+</Entry>

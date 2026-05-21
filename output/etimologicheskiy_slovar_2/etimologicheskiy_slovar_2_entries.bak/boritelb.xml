@@ -1,0 +1,76 @@
+<Entry xml:id="boritelb">
+  <pb n="203" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boritelb</orth>
+    <lemma>boritelb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>borite</ref>\ м. p.</orth>
+      </form>
+      <sense>
+        <def>certator, борец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV—XVIII вв., RJA I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boritelj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>борец, участник состязания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>boritel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>разрушитель</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>boriteV</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>борителъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>борец, bellator, pug- nator , борец; враг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стихир. XII в., Срезневский I, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Служ. Серг. л. 96, Срезневский III. Доп. 24')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>борителъ</ref> м. р. :борец победитель, поборовший противника</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 287—288)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-teh</ref>
+      </m> от основы гл. <ref type="etymon" target="boriti-4">*boriti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

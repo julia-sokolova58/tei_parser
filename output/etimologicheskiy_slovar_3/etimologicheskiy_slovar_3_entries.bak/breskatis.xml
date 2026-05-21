@@ -1,0 +1,32 @@
+<Entry xml:id="breskatis">
+  <pb n="16" end_page="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>breskati s§</orth>
+    <lemma>breskati s§</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>hreckati</ref> se</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-a-ti</ref>
+      </m>, 
+соотносительный 
+с именем 
+<ref type="etymon" target="breskb">*breskb</ref> 
+(см. 
+ниже).</gram>
+  </gramGrp>
+  <note>Вместе с тем, учитывая этимологию последнего — из и.-е. *Ыггёк'- sk- и вероятный глагольный характер аффикса -sk-, глагольное образование в данном случае можно датировать значительной древностью.</note>
+</Entry>

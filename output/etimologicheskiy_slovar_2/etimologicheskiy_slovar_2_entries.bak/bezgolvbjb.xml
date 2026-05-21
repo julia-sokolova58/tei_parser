@@ -1,0 +1,125 @@
+<Entry xml:id="bezgolvbjb">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgolvb(jb)</orth>
+    <lemma>bezgolvb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безглав</ref>(ый), прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>безглав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безголовый, растерянный, смущенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безглав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безголовый, без головы, безрассуд­ ный, помешанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 268; РСА I, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezglav</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezhlavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безго­ ловый, безмозглый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezhlavy</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>без­ головый, смущенный, беспомощный, безрассудный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezglowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 123; Dorosz. I, 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безголовый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>лишенный головы; обезглавленный, лишенный здравого смысла; глупый, тупой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безголовый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий головы, безумный, бессмысленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>безгаловы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего вида, образованное из<ref type="etymon" target="bez-38">*bez</ref> (см.; 
+там же подробно о словообразовании) и именной основы <ref type="etymon" target="golv-">*golv-</ref>
+(см. <ref type="etymon" target="golva">*golva)</ref>.</gram>
+  </gramGrp>
+  <note>См. специально Taszycki. Archaiczny typ przymiot- nikow stowianskich. — T-cki. Rozprawy i studia polonistyczne. IV, 287-288. Cm. Miklosich. Vgl. Gr. II, 403-404. Ср. мате­ риально близкое лит. begalvis 'безголовый', 'глупый'.</note>
+</Entry>

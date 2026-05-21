@@ -1,0 +1,33 @@
+<Entry xml:id="garula">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garul’a?</orth>
+    <lemma>garul’a?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>garu</ref>\a ж. р.</orth>
+      </form>
+      <sense>
+        <def>название животных черной масти (корова, кошка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>haruVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жареное ку­ шанье из картофеля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ;I, 462)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *garavb,<xr type="compare">см. <ref type="etymon" target="garati">*garati</ref>
+    </xr>....</note>
+</Entry>

@@ -1,0 +1,292 @@
+<entries>
+  <entry xml:id="burabura" xml:id="burabura">
+    <pb n="97" end_page="98" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bura/*bur’a</orth>
+      <lemma>bura</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bur'a</orth>
+      <lemma>bur'a</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. <ref>воур</ref>. ж. р. ХаТХаф, х а т о и у ^ , x e t ^ v , &amp;6еХХа, procella, tempestas</orth>
+        </form>
+        <sense>
+          <def>буря, гроза</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SJS; Востоков I, 32: воу^Д ж. р. 'буря')</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>буря</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря, гроза</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР; Геров: бура)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бура</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>дождевой поток (Кога превали та се зададё порой — казват бура йде, пиштат, бёгат, бти влачи камене; с. Лозен, Софийско. Дип. раб., Архив Софийск. ун-та), бура ж. р. вода, прибывающая после дождей (с. Хърсово, Мелнишко; дип. раб., Архив Софийск. ун-та), бура ж. р. вода, прорываю­ щаяся буйным потоком</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Божкова Б Д I, 243)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бура</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря, ураган, Шторм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">диал. <ref>бура</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурная, мутная вода, поток</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Б. Видоески. Зборови од П о р е ч е . — M J II, 1951, 24; Видоески. Поречкиот говор 57; Видоески. Кумановскиот говор 250)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бура</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря, сильный ветер, также</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>barja</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>северо-восточный ветер, буян , рододендрон</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 72)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. И, Dodatki II)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bare</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря, tempestas (Ст.-чеш., Прага)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">чеш. стар, <ref>bufa</ref> , соврем, boufe, boar ж . р.</orth>
+        </form>
+        <sense>
+          <def>буря, гроза</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(KottI, 109)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>Ъоита</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>волна</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Hosek. Ceskomorav. I, 95)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>bara</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>гроза , bura северный ветер</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 144)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kalal 47)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>burza</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>буря, гроза</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 736)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>baraii</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>буря, гроза</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lo­ rentz Slovinz. W b . I, 88)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>bifyra</ref>, в ^ д СаХт], tempestas , вуй^А</orth>
+        </form>
+        <sense>
+          <def>волне­ ние, треволнение</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Остром, ев., Срезневский I, 194)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>( Н а с т . т р . м. Фот. 1420 г., Срезневский III. Доп. 28')</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>буря</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>сильный разрушительный ветер, обыкновенно сопровождаемый грозой, дождем, в зимнее время — снегом, на воде — волнением</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>буря</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>громоздкий, большой (о предмете) , туча (самар.), кто или что-ни­ будь очень больших размеров</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Мельниченко 37)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(яросл., Филин 3, 301)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>буря</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря, гроза, метель , бура ж. р. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 158)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 155)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>буря</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря , бура ж. р. бурление воды</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 115)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 111)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бура</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>буря</def>
+        </sense>
+      </item>
+    </etym>
+    <note>Родственно лтш. bauruot 
+'мычать, реветь (о волах)' (A. Bezzen-
+berger ВВ X X V I , 1901, 188; Berneker I, 103; Г. А. 
+Ильинский 
+Р Ф В L X I I I , 1910, 325), далее, сближают с др.-исл. Ъугг 'попут­
+ный ветер при плавании' (Е. Lewy IF X X X I I , 158—159; цит. 
+по RS V I I , 1914—1915, 190), норв. Ъйга 'реветь (о неистовствую­
+щих волах)', др.-ирл. burach 'мычанье (быка), вскапывание земли', 
+buirithir 
+'ревет, мычит' (Trautmann B S W 28), возм., родственно 
+также лат. furd, furio 'бушевать, неистовствовать' 
+(Walde—Hofm. 
+I, 571). См. Преобр. I, 55; Bruckner 50 (сближает с лит. 
+biaurus 
+'отвратительный', «с вторичным -/-», далее — с лат. furia); 
+Meil-
+let. Etudes II («Этимология неясна. Лит. burps, 
+род. п. burio — 
+всего лишь 
+заимствование 
+из 
+славянского»); 
+Фасмер 
+I, 
+250; 
+Georgiev. Die Trager I, 96 (связывает слав, слово с догреч. (ил-
+У8 
+лир.) 
+Рореас 
+'северный 
+ветер' &lt; 
+и.-е. 
+Georgiev.</note>
+    <gramGrp>
+      <gram>Vorgriechische Sprachwissenschaft I, 82); Младенов Е П Р 50 из 
+и.-е. <ref type="etymon" target="yoi-">*Ыъои-</ref>, против см. F. Sfawski RS X V I , 1948, 85, где, вслед 
+за Мейе, *6ш*'а понимается как производное от кауз. 
+J. Otrebski L P I, 1949, 1 2 7 - 1 2 8 ; Георгиев Б Е Р II, 92; Sfawski 
+I, 51 здесь, в противоположность прежнему своему мнению, 
+считает <ref type="etymon" target="buriti">*buriti</ref> 
+производным 
+от имени 
+Machek
+ 
+(<ref type="etymon" target="bur">*bur</ref>'a — отглагольное, только слав.); Sadnik—Aitzetmuller.<ref type="etymon" target="Vgl">*Vgl</ref>. 
+W b . 3, 1 5 9 - 1 6 0 ; Skok. Etim. rjecn. I, 238. 
+Что касается старого сближения *6ur'a с лит. paburmiai 
+'бурно, 
+быстро, стремительно' (ср. уже К.</gram>
+    </gramGrp>
+    <note>Буга Р Ф В L X V I I , 1912, 233), 
+то это слово в переводе Даукантаса из Непота Отрембский тол­
+кует как опечатку, 
+вместе padurmey 
+'следом, по пятам' (см. 
+J. Otrebski L P V I I I , 1960, 307). Традиционное сближение 
+и др.-инд. bhurdti 
+'быстро двигаться' вызывает сомнения, см. 
+Mayrhofer I I , 5 0 8 - 5 0 9 .</note>
+  </entry>
+</entries>

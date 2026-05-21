@@ -1,0 +1,49 @@
+<Entry xml:id="bryxati">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryxati</orth>
+    <lemma>bryxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брйъм</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чихать (с. Гърмен, Благоевградско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бривам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно чихать , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. Андоновски. Зборови од Дебарско. — M J I, 1950, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brychati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить струей, вытекать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Postilla J. Rokycany, XV—нач. XVI в., Ст.-чеш., Прага; Simek 31; Kott I, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. основа, близкая к<ref type="etymon" target="brexati">*brexati</ref> 
+(см.), но не яв­
+ляющаяся продуктом чисто болг. развития, как полагают Геор­
+гиев (и др.)- Б Е Р II, 79.</gram>
+  </gramGrp>
+  <note>Об этом свидетельствует ст.-чеш. форма, пропущенная в словаре Махека.</note>
+</Entry>

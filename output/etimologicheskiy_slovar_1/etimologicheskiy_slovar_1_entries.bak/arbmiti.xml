@@ -1,0 +1,68 @@
+<Entry xml:id="arbmiti">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>arbmiti</orth>
+    <lemma>arbmiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdrmitl</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( R J A IV, 472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdrmiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запрягать в ярмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 359)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jarmiti</ref> (стар, и поэт.)</orth>
+      </form>
+      <sense>
+        <def>порабощать, угнетать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jarmW</ref> (книжн.)</orth>
+      </form>
+      <sense>
+        <def>порабощать, угнетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 633)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. (редк.) <ref>jarzmic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запрягать в ярмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="agto">*агъто</ref>, <ref type="etymon" target="agt">*агьтъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

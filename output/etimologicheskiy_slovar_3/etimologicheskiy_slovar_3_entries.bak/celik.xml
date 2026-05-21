@@ -1,0 +1,117 @@
+<entries>
+  <entry xml:id="celik" xml:id="celik">
+    <pb n="177" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕlikъ</orth>
+      <lemma>сё11къ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>celik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>растение Solidago</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>celik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>пласт минерала, оставленный в нетронутом виде из соображений без­ опасности (напр. штольни)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ VI, 18)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>цЪликъ</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(.. .грибов 10 пудъ цЪликовъ. Архивные бумаги Петра I, 1693 г. Попъ едетъ дорогою, а чертъ целикомъ. Послов. П а у с , 1-ая четв. XVIII в. — Картотека ДРС)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>целик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>один цельный каменища, монолит; матерая, нетронутая земля, материк; обшир­ ный пласт большой толщины; (вят.) большой снежный сугроб; целина, непахаиная земля, новь; вековой, нетронутый лес; (твер., пек.) целое, непочатое; (волог.) гриб обабок, молодой березови- чек; простор без дороги, неезженный, неторенный, ненакатанный путь (новг.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>( Д а л ь 3 IV, 1269)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>цылйк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>место, покры­ тое снегом, без проложенЕюй дороги; целик , целик м. р. целина, девственная почва, не видавшая плуга</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(новг., Опыт 253)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Молотилов. Говор Северной Барабы 182)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>щлйк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>це­ лина, новь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Черк. у., Гринченко IV, 432)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>цЧлйк</ref> то же , щлйк м. р.</orth>
+        </form>
+        <sense>
+          <def>перелог, пар</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(П. С. Лисенко. Лексичш особливост1 гов1рок Ставищанського району Ки1всько1 обл. — «Д1алектол. бюл.» V, 1955, 38)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(П. С. Лисенко. Словник специф1чно1 лексики правобережно'1 Черкащини. — «Леке, бюл.» VI, 1958, 21)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>цэлйк</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>целый, не помятый ездою снег , цалгк м. р. целина (преимущественно снежная)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 692)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 999)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное 
+с суфф. <m type="suffix">
+          <ref>-1къ</ref>
+        </m> от прилаг. <ref type="etymon" target="syo1-3">*сё1ъ</ref> (см.), субстантива­
+ция последнего.</gram>
+    </gramGrp>
+    <note>
+      <xr type="compare">Ср. <ref type="etymon" target="celica">*celica</ref>
+      </xr> 
+ж. р. 
+ж. р. 
+ж. р. 
+ж. р.</note>
+  </entry>
+</entries>

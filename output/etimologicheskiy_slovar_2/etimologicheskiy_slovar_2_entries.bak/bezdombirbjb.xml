@@ -1,0 +1,113 @@
+<Entry xml:id="bezdombirbjb">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdombirb(jb)</orth>
+    <lemma>bezdombirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бездомен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездомный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -мный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бездомен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezdoman</ref>, -тпа, прилаг. сбездомный, domo carens</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XV в., только в словаре Даничича, RJA I, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdomen</ref>, -тпа, прилаг. безрод­ ный</orth>
+      </form>
+      <sense>
+        <def>, в-луж. bjezdomny сбездомный, неоседлый; без­ родный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 21; Jakubas 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bzezdomny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Swjela 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdomny</ref> сбездомный, бесприютный; неоседлый</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 121; Dorosz. I, 422)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бездомъ</ref>- ныи dveaiLog с бездомный, бедный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. без- <ref>дбмный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>не имеющий жилища, бесприютный, не имеющий своей семьи, одинокий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездомный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездомный , блр, бяздбмны сбездомный . — Сюда же субстантивация с суфф. -Хкъ —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 42; заимств.?)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бездбмник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто не имеет своего жилища, пристанища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы bezdom- или пре­ фиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-21">*bez</ref> (см.) и 
+-ъп- от <ref type="etymon" target="domb-3">*domb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

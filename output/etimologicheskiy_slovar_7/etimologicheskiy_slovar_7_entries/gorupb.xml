@@ -1,0 +1,130 @@
+<Entry xml:id="gorupb">
+  <pb n="50" end_page="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorupb</orth>
+    <lemma>gorupb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gompa</orth>
+    <lemma>gompa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горупла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черемуха Prunus mahaleb</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gorup</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горький , также фам. Горуп , Gorupac, род. п. -рса, м. р., личное имя собств. , Gorupcic , сюда же, далее, горупла ж. р. сорт мелкой черешни , гдрупал&gt;, -пл&gt;ау -пл&gt;е&gt; прилаг. поздний (по вызреванию), мелкий (о плодах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 296)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 498)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA III, 296)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XIV в., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 499)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorup</ref>, gorjup, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горь­ кий, терпкий, прогорклый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 233, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горлупй</ref>, гарлупа ж. р.</orth>
+      </form>
+      <sense>
+        <def>растения Primula veris, Bunias orienta- lis, сурепица , горлупа, горлюпа ж. р. растение Bunias orientalis L. , гарлупа, гарлюпа ж. р. растение первоцвет Primula officinalis (орл.), растение Bunias orientalis (ряз., ворон., пенз.), редька полевая Raphanus raphanistrum L. , група ж. р. растение Symphytum offic. L., окопник аптечный (тул.), редька полевая Raphanus raphanistrum L. (тамб.) , група ж. р. растение сурепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 847)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тамб., тул., ряз., орл., ворон., Филин 7, 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тул., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горупа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рас­ тение Bunias orientalis L., Brassica napus L., Sinapis arven- sis L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>горпа</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>брюква Brassica napus L., var. arvensis Thell., горчица полевая Sinapis arven- sis L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лексика Полесья 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>горупа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горчица полевая , Гарупа, фам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Б1рыла 105)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач., видимо, прилаг., производное с суф.<m type="suffix">
+        <ref>-иръ</ref>
+      </m> от 
+<ref type="etymon" target="gorbkb-4">*gorbkb</ref>, 
+<ref type="etymon" target="goreti">*goreti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. так о словен. слове уже Miklosich. Vgl. Gr. II, 213; F. Bezlaj JiS XVI, 230. Привлечение и истолкование вост.- слав. слов см. В. А. Меркулова «Этимология. 1965» (М., 1967), 154—155. gorbka: болг. диал. горка ж. р., ум. 'горка' (Младенов БТР), сер­ бохорв. Горка ж. р., имя собств. (PGA 111, 486), чеш. редк. horka, hurka ж. р., ум. 'горка', слвц. horka^ ж. р. 'горка' (SSJ I, 506), диал. 'лесок' (Banska Bystrica, Turc. Z., Kalal 178), н.-луж. gorka ж. p. 'горка' (Muka St. I, 300), полаб. d'drka ж. p., ум. 'горка, кочка' (Polanski—Sehnert 59), польск. gorka ж. p. ум. 'горка' (Dorosz. И, 1260), словин. gorka ж. р. то же (Lorentz Slovinz. Wb. I, 287), др.-русск. горька, ум. от гора (Псков. 1 л. под 1397 г., Срезневский I, 559), русск. горка ж. р., ум. к гора. укр. ггрка ж. р., ум. 'горка' (Гринченко I, 285; Укр.-рос. словн. I, 330), блр. горка ж. р. 'горка, пригорок' (Байкоу — Некраш., 82). Ум. производное с суф. -ъка от<xr type="compare">см. <ref type="etymon" target="gora">*gora</ref>
+    </xr>.</note>
+</Entry>

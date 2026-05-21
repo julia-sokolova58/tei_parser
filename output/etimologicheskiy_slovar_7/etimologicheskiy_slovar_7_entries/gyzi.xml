@@ -1,0 +1,57 @@
+<Entry xml:id="gyzi">
+  <pb n="223" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzi»</orth>
+    <lemma>gyzi»</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gizk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>слепень, овод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>giz</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 831)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>г1з</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>муха-слепень . — Ср. сюда же йотовое производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гиж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Oestrus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 112)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gz">*gъzъ</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Огласовка -у- происходит, очевидно, из глаг-ного итератива-дуратива вроде<ref type="etymon" target="gyzati">*gyzati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

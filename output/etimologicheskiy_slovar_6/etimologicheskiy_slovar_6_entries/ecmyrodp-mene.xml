@@ -1,0 +1,258 @@
+<Entry xml:id="ecmyrodp-mene">
+  <pb n="63" end_page="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьmy, род. п. -mene</orth>
+    <lemma>ęčьmy, род. п. -mene</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -тепе</orth>
+    <lemma>род. п. -тепе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ечменъ</ref>, ячмень м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ечмён</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень , ечмён\ ичмйн\ ичумён м. р. ёчмень м. р. ячмень , ечмён м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Мла­ денов. БИТ И език на тракийските и малоазийските българи II. София, 1936, 127, 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. А. Георгов. Велеш. — СбНУ X X , 1904, 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ja4Men</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёчмён</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень, jaHMen м. р. ячмень (на глазу), jhiMen м. р. , сюда же ]ёчам, род. п. -чма, м. р. ячмень Hordeum vulgare L., сюда же диссимилированное jас- тег м. р. ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 755)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA VI, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jecmen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень, ячмень на глазу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jecmen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jacmeh</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jacmeh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum, ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jacmen</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 924)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jecmjen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum vulgare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jacmen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum, название болезни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 520)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jqcmin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ячмень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 74, с реконструкцией *jfcbmenb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jfczmien</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jqczmieh</ref> , j$cnien , j$cmiej, jqc- miej</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 176)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jlcmd</ref>, род. п. -mjena, ср. p.</orth>
+      </form>
+      <sense>
+        <def>ячмень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>тьмы</ref>, тьменъ</orth>
+      </form>
+      <sense>
+        <def>ячмень , также шьменъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сбор. Волог. X V в. и др., Срезневский III, 1675—1676)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. II л. под 1569 г., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ячмень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хлебный злак, обычно яровой, зерна которого идут на из­ готовление круп, муки, пива и на корм</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ячмънъ</ref>, род. п. -меню, м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum vulgare, воспаление сальной же­ лезки века</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ячмень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень</def>
+      </sense>
+    </item>
+  </etym>
+  <note>На архаичность кашу б.-словин. jicma см. указание: Е. Smut- kowa «Studia z filologii polskiej i stowiaiiskiej» 6, 1967, 173. He исключено распространение знач. 'ячмень на глазу' под влиянием лат. hordeum то же книжным путем.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -теп- от незасвидетельствованного гл.<ref type="etymon" target="fkt4">*fkt4</ref> (см. сведения о нем на *čса/а, выше).</gram>
+  </gramGrp>
+  <note>Далее родственно *?са/а,<xr type="compare">см. <ref type="etymon" target="ykqtb">*ykqtb</ref>
+    </xr>. Производные с суфф. -теп-, как правило.
+' ^ б ы п у к ъ 
+сохраняют неизменным вокализм производящего глагола, как и 
+в данном случае. Словообразовательный акт состоялся на слав, 
+почве, полные соответствия в других и.-е. языках отсутствуют. 
+См. Berneker I, 268; Фасмер IV, 571; Machek
+2 219 (*?.*-&lt; и.-е.. Производные с суфф. -теп-, как правило.
+' ^ б ы п у к ъ 
+сохраняют неизменным вокализм производящего глагола, как и 
+в данном случае. Словообразовательный акт состоялся на слав, 
+почве, полные соответствия в других и.-е. языках отсутствуют. 
+См. Berneker I, 268; Фасмер IV, 571; Machek
+2 219 (*?.*-&lt; и.-е.. Производные с суфф. -теп-, как правило.
+' ^ б ы п у к ъ 
+сохраняют неизменным вокализм производящего глагола, как и 
+в данном случае. Словообразовательный акт состоялся на слав, 
+почве, полные соответствия в других и.-е. языках отсутствуют. 
+См. Berneker I, 268; Фасмер IV, 571; Machek
+2 219 (*?.*-&lt; и.-е.. Производные с суфф. -теп-, как правило.
+' ^ б ы п у к ъ 
+сохраняют неизменным вокализм производящего глагола, как и 
+в данном случае. Словообразовательный акт состоялся на слав, 
+почве, полные соответствия в других и.-е. языках отсутствуют. 
+См. Berneker I, 268; Фасмер IV, 571; Machek
+2 219 (*?.*-&lt; и.-е.</note>
+</Entry>

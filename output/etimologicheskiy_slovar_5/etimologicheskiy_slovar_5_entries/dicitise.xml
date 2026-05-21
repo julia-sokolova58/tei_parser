@@ -1,0 +1,55 @@
+<Entry xml:id="dicitise">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dičiti sę</orth>
+    <lemma>dičiti sę</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dziczyc</ref> si$</orth>
+      </form>
+      <sense>
+        <def>дичиться, сторониться, избегать; быть диким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дичитит</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Море дичиться. Сбор. XVIII в., Срезневский I, 666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дичиться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о человеке или животном) быть диким, бояться людей, общества, быть угрюму или нелюдиму, робким, необходительным, несмелым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1088)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзЬчъщца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичиться</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глаг. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), производный от прилаг. <ref type="etymon" target="dikb-2">*dikb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

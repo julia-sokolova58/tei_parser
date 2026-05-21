@@ -1,0 +1,93 @@
+<Entry xml:id="cubatbjb">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cubatbjb</orth>
+    <lemma>cubatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eobdt</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>толсторожий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cubaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хохлатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cubaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>хохла­ тый , диал, iubati, прилаг. растрепанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czubaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>хохлатый, конусооб­ разный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чубатый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хохлатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 8 IV, 1366)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чубатий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>хохлатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 474)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чубаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хохлатый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от<ref type="etymon" target="si">*сиЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

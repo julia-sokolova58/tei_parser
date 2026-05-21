@@ -1,0 +1,27 @@
+<Entry xml:id="bezsbpnb">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsbpnb</orth>
+    <lemma>bezsbpnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бёссанъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бессонница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 124)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъ</ref>
+      </m> от именной основы <ref type="etymon" target="bezspn">*bezsъpnъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Может, впрочем, рассматриваться и как моментальное образо­ вание основы ж. р. (на -i-) с приставкой *bez- от *зърпъ м. р. (см.).</note>
+</Entry>

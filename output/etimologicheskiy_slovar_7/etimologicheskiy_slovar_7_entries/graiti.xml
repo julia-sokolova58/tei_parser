@@ -1,0 +1,35 @@
+<Entry xml:id="graiti">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gra§iti</orth>
+    <lemma>gra§iti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грашити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>веселить, грЬшити се радоваться, ве­ селиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 582)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грашитъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>насмехаться над кем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Филин 7, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="grositi">*grositi</ref>
+    </xr>.</note>
+</Entry>

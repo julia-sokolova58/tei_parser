@@ -1,0 +1,49 @@
+<Entry xml:id="yogs">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьёгьсь</orth>
+    <lemma>Ьёгьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjezac</ref>, род. п. bjesca, м. p.</orth>
+      </form>
+      <sense>
+        <def>fugitivus, беглец , б)ежац то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 390—391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 594)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezec</ref>, род. п. -zee, м. р.</orth>
+      </form>
+      <sense>
+        <def>бегун, гонец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezec</ref>, род. пад. -zca, м. р.</orth>
+      </form>
+      <sense>
+        <def>(о животных) бегун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 90)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ъсь</ref>
+      </m> от основы гл. <ref type="etymon" target="begt-4">*begt</ref>
+,i/ 
+<ref type="etymon" target="bezati">*bezati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,89 @@
+<Entry xml:id="boleznbjb">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'eznb(jb)</orth>
+    <lemma>bol'eznb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bdfezan</ref>, bb\ezna, прилаг. morbi, aegrotus, dolens</orth>
+      </form>
+      <sense>
+        <def>больной, болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI—XVIII в., RJA I, 541, с неточной пометой: «. . .усечено из старого прилаг. Ъо1Нпъпъъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bolezen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный, полный скорби, боли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bolozny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный, скорбный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>болЪзныи</ref> tcovtjpoc, malus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Исх. XXXIII. 4 по сп. XIV в., Срезневский I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>болезный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>вызывающий сострадание, жалость; милый, дорогой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болЪзный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный, причиняющий боль, печаль­ ный , болезный то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бблiзнuй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный, мучительный, скорбный, горестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. архаического типа (— тождественное основе соот­ ветствующего сущ-ного) от<ref type="etymon" target="boVeznb-2">*boVeznb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

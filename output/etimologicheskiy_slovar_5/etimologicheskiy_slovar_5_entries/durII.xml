@@ -1,0 +1,29 @@
+<Entry xml:id="durII">
+  <pb n="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*durъ II</orth>
+    <lemma>durъ II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дур</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>заостренная палка, которой попадают в ямку в земле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>д</ref>#рыи .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А отъ вяза прямо на путь, а путемъ къ дурому вязу, что стоить у перервы на березъ\ Дух. Ал. Белеут. 1472 г., Срезневский I, 746)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>По-видимому, связано с *dura II (см.).</note>
+</Entry>

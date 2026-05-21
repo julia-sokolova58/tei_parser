@@ -1,0 +1,89 @@
+<Entry xml:id="cbrvjenitis">
+  <pb n="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrv(j)eniti (s$)</orth>
+    <lemma>cbrv(j)eniti (s$)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>црвнем</ref> се</orth>
+      </form>
+      <sense>
+        <def>чернеть, краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црвени</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црвёнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>окрашивать в красный цвет, црвёнити се, также црл&gt;енити се краснеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerveniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cerwjenic</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cefwenis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет, румянить, cerwenie se краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чырванщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать красным, багрянить, багрить, оба­ грять, красить в красный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), производный от прилаг. <ref type="etymon" target="sgiep-2">*съги(])епъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

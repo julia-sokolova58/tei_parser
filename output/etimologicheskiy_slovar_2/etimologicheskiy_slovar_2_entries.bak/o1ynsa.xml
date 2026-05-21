@@ -1,0 +1,44 @@
+<Entry xml:id="o1ynsa">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо1'ынса</orth>
+    <lemma>Ьо1'ынса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>болница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>больная (женщина) , сербо­ хорв. bolnica ж. р. больная женщина , также бдла- ница ж. р. , ббница, ббница ж. р. , сло­ вен. bolnica ж. р. больная, пациентка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XIX в., словари Беллы, Белостенаца, Вольтиджи и Стулли, RJA I, 531)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="ogp-2">*ЬоГъпъ</ref> (см.), субстанти­
+вация этого последнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="ogtk">*ЬоГъткъ</ref>
+    </xr>. В функции названия 
+больницы, учреждения (русск., болг., сербохорв., словен.) вто­
+рично и здесь опускается (здесь прослеживаются межславянские 
+книжные заимствования — из русск., цслав.).</note>
+</Entry>

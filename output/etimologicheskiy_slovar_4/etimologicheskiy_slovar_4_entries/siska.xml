@@ -1,0 +1,62 @@
+<Entry xml:id="siska">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сиська</orth>
+    <lemma>сиська</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чучка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подушечка, низкая скамеечка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чучка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>возвышение, бугор , чучка ж. р. подушка , чучка ж. р. подушка на сидение , также цуцка ж. р. холм, бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Райлово, Пернишко, дип. раб., Архив Софийск. ун-та; Стойчев БД И, 303)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Величково, Пазарджишки окр., дип. раб., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Попица, Врачан- ско, дип. раб., там же; Л. Гълъбов БД И, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сйска</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пучок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Чучка</ref>, фам.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ька</ref>
+      </m> от основы <ref type="etymon" target="sik-">*сик-</ref>, <ref type="etymon" target="sis-">*сис-</ref> (см. <ref type="etymon" target="cucati">*cucati</ref>, 
+<ref type="etymon" target="yoika">*ёика)</ref>.</gram>
+  </gramGrp>
+</Entry>

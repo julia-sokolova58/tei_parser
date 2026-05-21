@@ -1,0 +1,26 @@
+<Entry xml:id="shsa">
+  <pb n="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬъШса</orth>
+    <lemma>ЬъШса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ббвтиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подвеска к серьге, кисть на снурке для украшения гуцульской шляпы или верхней одежды, метал­ лическая цепочка, украшающая кожаный пояс гуцула (Шух.), медный кружок, род пуговицы, употребляемый (во множестве) для украшения гуцульских кожаных сумок, ремней, сбруи и пр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шух., см. Гринченко I, 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="i-2">*ЬъИъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

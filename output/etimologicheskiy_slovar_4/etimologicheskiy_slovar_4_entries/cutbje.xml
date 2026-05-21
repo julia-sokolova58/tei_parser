@@ -1,0 +1,141 @@
+<Entry xml:id="cutbje">
+  <pb n="136" end_page="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cutbje</orth>
+    <lemma>cutbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>чоутиге</ref> ср. р. оиайтрк;, sensus, также чютиге</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>сисе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>слух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cutje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>слух, бодрствование , собир. чувства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 118)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>citi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ощущение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cutie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувствительность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сисе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чув­ ство, ощущение, нюх, обоняние, вкус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>сийе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувство, ощущение, нюх</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czucie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувство, чувствительность, ощущение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>ч6ти</ref>\е</orth>
+      </form>
+      <sense>
+        <def>чувство, ощущение (Пал. XIV в.), сила чувства (Ио. екз. Бог.), сознание, понимание (Гр. Наз. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чутьё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>у животных — способность чуять, замечать, отыскивать посредст­ вом органов чувств, преимущ. обоняния</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чуттЛ</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чуццё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чутье, обоня­ ние, чувство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 345)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глагольное существительное, производное с суфф. -ъ/е от прич. страд, прош.<ref type="etymon" target="sh-2">*Шъ</ref> от гл. *6uti (см.).</gram>
+  </gramGrp>
+</Entry>

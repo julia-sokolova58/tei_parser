@@ -1,0 +1,155 @@
+<Entry xml:id="dvornj">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvorьnъ(jь)</orth>
+    <lemma>dvorьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дворен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дворовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дворен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>двдран</ref>, -рна, -рно</orth>
+      </form>
+      <sense>
+        <def>обходительный, услужливый ; остатки более древнего знач. дворо­ вый прослеживаются в производных, ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dvornak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>какая-то трава , ср. еще под *dvorbnikb</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pal. 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duoren</ref>, -гпа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дворовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 190; Slovar. sloven, jezika I, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvornl</ref>, прилаг. тоже , также</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 526)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duorni</ref> , слвц, dvorny, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dworny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дворовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дворьныи</ref> , дворьнии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РПрав. л. 6216., 1282 г., Срезневский I, 645, Картотека СДР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. берест, (новг.) № 55, XIII в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дворнбй</ref>, -ая, -бе, двбрный, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>относящийся ко двору(орл., калин., тул.), до­ машний (о животных) (каракалпак.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 300; ряз., Деулинский словарь 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>двбрны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дворовый; домашний , усадебный, принадлежащий к дворне. — Сюда же субстан­ тивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дворня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>семья, живущая в одном дворе (доме) (калуж.), придворные (перм., свердл.), постоялый двор (оренб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двърня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дворня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 362)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="dvorb">*dvorb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

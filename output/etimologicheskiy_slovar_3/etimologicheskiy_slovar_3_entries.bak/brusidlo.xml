@@ -1,0 +1,54 @@
+<Entry xml:id="brusidlo">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusidlo</orth>
+    <lemma>brusidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>briisilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>точило, точильный брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 686)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брусило</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>briisilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>точило</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brusidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брусни­ ка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="brusiti-2">*brusiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

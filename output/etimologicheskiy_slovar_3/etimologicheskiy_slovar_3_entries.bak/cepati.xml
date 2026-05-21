@@ -1,0 +1,128 @@
+<Entry xml:id="cepati">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepati</orth>
+    <lemma>cepati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>цЪпати</ref> findere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>цапа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>расщеплять на волокна , цепа то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цёпати</ref>, цщёпати</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>цй</ref>- пати</orth>
+      </form>
+      <sense>
+        <def>колоть (напр. дрова), колоть (о боли, напр. в ногах)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>cipat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глубоко копать , cipati колоть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cepati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>умирать, околевать, дохнуть, падать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>пек</ref>. цепатъ, чепатъ</orth>
+      </form>
+      <sense>
+        <def>задевать, прищеплять, зацеп­ лять, надевать, привешивать; трогать* , цыпатъ царапать, царапаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 IV, 1274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(твер., Опыт 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цёпати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять слегка, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 427)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В большей части употреблений (см. выше знач-я 'рубить, ко­ лоть', 'расщеплять') представляется гл-ом на -ati (итеративно-ду- ративным), соотносительным с<xr type="compare">см. <ref type="etymon" target="syorsh">*сёрШ</ref>
+    </xr>. В 
+знач. 
+'умирать, 
+околевать, дохнуть' форма *сёрай может быть истолкована как 
+имперфективация 
+(и тематизация) первоначального *cepti, 
+этимо­
+логически 
+тождественного 
+лит. 
+kaipti 
+'испытывать 
+дурноту', 
+'прихварывать, 
+чахнуть'. Далее родственно <xr type="compare">см. <ref type="etymon" target="ceueti">*ceueti</ref>
+    </xr> с очень 
+близкими знач-ми, что показывает 
+суффиксальную 
+производность 
+основы *cep-ati: 
+*koi-p~.</note>
+  <gramGrp>
+    <gram>Отсюда прич.<ref type="etymon" target="syorep">*сёрепъ]</ref>'ъ (см.).</gram>
+  </gramGrp>
+  <note>См. Fraen­ kel I, 203, где лит. kaipti связывается с<xr type="compare">см. <ref type="etymon" target="cepeneti">*cepeneti</ref>
+    </xr>, кот. 
+само является 
+вторичным производным от 
+*сёрепъ]ъ.</note>
+</Entry>

@@ -1,0 +1,121 @@
+<Entry xml:id="cbrta">
+  <pb n="161" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrta</orth>
+    <lemma>cbrta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черта</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>черта, линия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сНа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA 1, 849)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cfta</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>сг1аж</ref>. p. (XV в., Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черта, линия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрта</ref>, чръта, черта</orth>
+      </form>
+      <sense>
+        <def>нарезка (Храбр, о письм.), орудие для нарезания, резец , черта, линия (Пат. Син. XI в. и др.), черта, знак (Остр. ев. и др.), буква , чертеж (?), направление (Ио. екз. Бог.) мгновение, минута (Пчел. Син. б.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оп. Ник. Кор. мон. 1551 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Златостр. сл. 7 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1568—1569)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узкая полоса, линия, рубеж, граница, предел</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>черта</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стальная вилка с загнутыми концами. Ею проводят на дереве правильные черты , черта строительный инструмент, резец (Картотека Псковского областного словаря), черта ж. р. столярный инструмент для про­ ведения линий на обрабатываемом изделии: рейсмус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Синозерский. Домашний быт крестьян Левочской волости Боровичского уезда Новгородской губ.—ЖСт. IX, 1899, 407)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь го­ воров Подмосковья 539)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>черта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кроме извести, знач., плотничий снаряд, которым проводится линия на досках для при- гнания одной к другой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 698)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Любопытен параллелизм рр.-инд. krta 'трещина, расселина'. См.</note>
+  <gramGrp>
+    <gram>Berneker I, 171; Фасмер IV, 348. диал. чырта ж. р. долото, паз, выдолбленный в бревне , Имя, соотносительное с гл.<ref type="etymon" target="cersti">*cersti</ref>, <ref type="etymon" target="sshch">*съЩ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

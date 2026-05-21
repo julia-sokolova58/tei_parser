@@ -1,0 +1,33 @@
+<Entry xml:id="drozgati">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drozgati</orth>
+    <lemma>drozgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drozgatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>месить, давить , dro- zati толочь, давить, вязнуть, увязать (в грязи, снегу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 177)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 177)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от основы <ref type="etymon" target="drozg-">*drozg-</ref>, ср. также <ref type="etymon" target="drosk-">*drosk-</ref>
+в <ref type="etymon" target="drosciti">*drosciti</ref> (см.) и далее — группу <ref type="etymon" target="trosk-">*trosk-</ref> 
+(см.), с очевидными 
+звукоподражат. ассоциациями.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,90 @@
+<entries>
+  <entry xml:id="cevje" xml:id="cevje">
+    <pb n="193" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕvьje</orth>
+      <lemma>cevbje</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>cevje</ref> ср. p. = o r o d j e</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Plet. I, 81)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>cevi</ref> ср. p.</orth>
+        </form>
+        <sense>
+          <def>цевки, трубки</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 130)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>цЪвше</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>рукоять</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Оп. Ник. Кор. мон. 1551 г., Срезневский III, 1447)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>цевьё</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>стержень, стержневая часть чего-н., верхняя часть ру­ жейного ложа</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>цавьё</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ручка ковша (арх., Картотека Сло­ варя русских народных говоров), цауё, мн. ч. от цэука, ноги от колен к низу , чивъё ср. р. рукоятка у ка­ кого-либо сосуда или орудия , чйвъе ручка ложки , чивъё рукоятка (у ложки, ножа, шила и пр.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(П. А. Расторгуев. Словарь народных говоров Западной Брянщины, 282)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(арх., Опыт 257)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Куликовский 133)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Подвысоцкий 188)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel" type="dialect">блр. диал. <ref>цауё</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>рукоятка , цэвъё ср. р. всякая продолговатая рукоятка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Касьпяров1ч 334)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Носов. 693)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное (формально — собир.) с суфф. -ъ]е 
+от <ref type="etymon" target="syoi-2">*сёиъ</ref>, 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

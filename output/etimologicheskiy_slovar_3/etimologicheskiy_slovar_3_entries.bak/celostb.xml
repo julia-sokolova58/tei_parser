@@ -1,0 +1,149 @@
+<Entry xml:id="celostb">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celostb</orth>
+    <lemma>celostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Ц</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ЬЛО.ГТА Ж. p. integritas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цялост</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>целое, целость, целостность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>це</ref>­ лости ж. р.</orth>
+      </form>
+      <sense>
+        <def>целое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cijeldst</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>integritas, целость, целое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., R J A I, 785)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>це­ лость, целостность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celesV</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>здоровье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomas ze Stitneho, Kott I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>целость, полнота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>celostf</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>caloec</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>целое, целость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>целость</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>целость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>состоя­ ние, качество целого</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь IV, 1271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цШсть</ref>, род. п. -лости, ж. р.</orth>
+      </form>
+      <sense>
+        <def>целость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цэласць</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>целость</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (собир.) с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="syo1-8">*сё1ъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Сле­ дует иметь в виду принадлежность ряда образований к книжной лексике.</note>
+</Entry>

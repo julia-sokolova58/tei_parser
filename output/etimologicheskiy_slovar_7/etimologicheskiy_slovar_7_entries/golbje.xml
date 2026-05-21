@@ -1,0 +1,58 @@
+<Entry xml:id="golbje">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golbje</orth>
+    <lemma>golbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golje</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>сучья без листвы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. \&gt; 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гольё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>подгорье, сплошь покрытое мелким плитняком , гольё ср. р. новая рыболов­ ная снасть, не дубленая и еще не бывшая в употреблении , сюда же голья ж. р. ветка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 6, 348)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(са- рат., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гглля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 285)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галлё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>хворост</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Производное с суф. -ь]е (собир.) от прилаг.<xr type="compare">см. <ref type="etymon" target="o-2">*#о/ъ</ref>
+    </xr>.</note>
+</Entry>

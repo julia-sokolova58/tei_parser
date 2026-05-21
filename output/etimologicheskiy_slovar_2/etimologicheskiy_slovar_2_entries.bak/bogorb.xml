@@ -1,0 +1,18 @@
+<Entry xml:id="bogorb">
+  <pb n="159" end_page="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogorb</orth>
+    <lemma>bogorb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>bogor</ref>, род. п. -orja, м. p.</orth>
+      </form>
+      <sense>
+        <def>tumor, чирей (Похорье, см. Bezlaj, ниже)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Ср. макед. бог 'tumor', сербохорв. bogav, прилаг. 'отекший, набухший', а также словен. zbogati se 'испортиться', напр. seme se zboga (Miklosich 16). В целом неясно. Данные взяты из: Bezlaj. bogotb Etim. slovar. (рукоп.; имеющееся там сравнение с семейством русск. бугор, лтш. baugurs 'бугор' маловероятно).</note>
+</Entry>

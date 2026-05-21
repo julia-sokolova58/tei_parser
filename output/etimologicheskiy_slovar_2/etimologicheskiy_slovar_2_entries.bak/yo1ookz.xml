@@ -1,0 +1,99 @@
+<Entry xml:id="yo1ookz">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1оокъ(зь)</orth>
+    <lemma>Ьё1оокъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белдок</ref>, б]елоок, -а, -о</orth>
+      </form>
+      <sense>
+        <def>с белыми кругами вокруг глаз (о животных й птицах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belook</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belooky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бело­ глазый, светлоглазый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialooki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белоглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белобк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рыба Abramis sopa palligs</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн. Днестр, Филин 2, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быобкий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белоглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белавбт</ref>, сюда же фам. Белавбкг . См. еще Miklosich. Vgl. Gr. II, 395 и след. — Видимо, сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла. Беларуская антрапашм1я. 2, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белокбн</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>про­ звище белоглазого человека , возм., — из *бело-окон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 2, 220)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="oko-5">*око</ref> (см.).</gram>
+  </gramGrp>
+  <note>По типу<xr type="compare">ср. <ref type="etymon" target="belogo-2">*belogo^</ref>
+    </xr> 
+(см.).</note>
+</Entry>

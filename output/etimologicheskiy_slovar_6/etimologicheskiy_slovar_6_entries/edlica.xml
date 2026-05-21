@@ -1,0 +1,104 @@
+<Entry xml:id="edlica">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edlica</orth>
+    <lemma>edlica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>елйца</ref> ж. р., ум.</orth>
+      </form>
+      <sense>
+        <def>елочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jelica</ref> ж. р., ум.</orth>
+      </form>
+      <sense>
+        <def>елка, елочка , также ]ёлика ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 579, РСА VIII, 723: ]'елица, ]елица)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedlice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>елка , елвц. jedlica ж. р. елочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 609)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ёлица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ель, ёлка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 8, 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ялйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 539)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ялйца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хвоя . — Сюда же суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. С. Ко­ лесник. Матер1али до словника д1алектизм1в украшських говор1в Буковини 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>jelic</ref> = smreka R. Bozidar. Crtice о Prekmurcih in о njiho- vem govoru. — Narodni koledar in letopis Matice Slovenske 1866— 1869</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ljubljana, 1868, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jedlici</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>ельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="edlb">*edlb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

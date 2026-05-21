@@ -1,0 +1,35 @@
+<Entry xml:id="bezpqta">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpqta</orth>
+    <lemma>bezpqta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>беспХта</ref>, безпХта</orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Соф. Bp. под 1479 г., Срезневский III. Доп., 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-74">*bez</ref> (см.) и именной основы <ref type="etymon" target="pgt-">*pgt-</ref> (см. <ref type="etymon" target="pgtb">*pgtb)</ref>, пер-
+вонач. прилаг-ное 
+древнего типа (— именная основа, 
+упо­
+требленная адъективно).</gram>
+  </gramGrp>
+  <note>О древности образования свидетель­ ствует также .такая черта, как наличие следов атематической основы на согласный *pgt- (<xr type="compare">ср. еще <ref type="etymon" target="bezpgtb">*bezpgtb</ref>
+    </xr>, 
+ниже), 
+до 
+темати­
+ческого расширения, представленного в регулярном варианте 
+на -i 
+*pgtb.</note>
+</Entry>

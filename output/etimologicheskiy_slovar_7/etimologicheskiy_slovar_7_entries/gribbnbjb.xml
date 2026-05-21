@@ -1,0 +1,69 @@
+<Entry xml:id="gribbnbjb">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gribbnbjb</orth>
+    <lemma>gribbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzybny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грибной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грибной</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к грибам, им свойственный, из них при­ готовленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 975)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грйбнб</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>обильно на грибы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 325)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грйбный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>урожайный на грибы, производящий грибы , грйбны урожайный на грибы , грыбны то же. — Ср. сюда же слав, топонимич. реликт на нем. территории Greifen y см. Е. Eichler «Studia linguistica in honorem Th. Lehr- Sptawinski» 459</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в 1104 г.— Gribna)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="gribb">*gribb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,45 @@
+<Entry xml:id="gadovati">
+  <pb n="80" end_page="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadovati</orth>
+    <lemma>gadovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гадоватъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брезгать, быть противным до тошноты , извергать ртом принятую пищу , тошнить, рвать, срыгивать (о ребенке) . — Ср. сюда же производное имя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской области 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>gudovaiie</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>abominatio</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA III, 87: «сущ-нов от невасвидетельствованного гл. gadovath)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Видимо, сюда же принадлежит болг. диал. гадави са 'отказы­ ваться от груди (о младенце)' (Т. Стойчев. Родопски речник. — БД V, 162).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, родственный <ref type="etymon" target="gadb-2">*gadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

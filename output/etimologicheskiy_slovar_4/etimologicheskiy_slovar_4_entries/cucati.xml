@@ -1,0 +1,132 @@
+<Entry xml:id="cucati">
+  <pb n="126" end_page="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cucati</orth>
+    <lemma>cucati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чуча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чучам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с. Баница, Врачан- ско, дип. раб., Архив Болг. диал. словаря, София; И. Кънчев. Пирдопско. — БД IV, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чучи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках, сидеть притаившись</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cudati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>domi desidem se- dere , cudati conquiniscere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA II, 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA I, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cueati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cuceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зевать, глазеть, сидеть на корточках</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cueet</ref> (си- cat)</orth>
+      </form>
+      <sense>
+        <def>сидеть на корточках, застревать, помалкивать , cucet, cocet сидеть на корточках , cucet сидеть на корточках, бездельничать, болтаться без дела, помалкивать, глазеть , cocet глазеть , cocet тупо смотреть, болтаться без дела , cocet глядеть , cucat то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kopecny. Urc. 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov, 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cucat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть тихо, помалкивать .—Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чучит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сесть (на детском языке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Через праформу *кеик-е- восходит к и.-е. *кеик-, ср., с другой ступенью чередования, праслав. *кик- с м . X и.-е. *коик-: словен. kacati 'сидеть на корточках', ст.-польск. kuczed то же, ср. далее др.-исл. hokra 'ползти', нем. hocken 'сидеть на корточках', хотя герм, формы предполагают реконструкцию и.-е. основы с исходом на звонкий согласный. Исходная семантика содержит указание на кривизну. См. G. Iljinskij. Der Reflex des indogermanischen Diphthongs eu im Urslavischen. — AfslPh XXIX, 1907, 488; Ber- neker I, 161; Младенов ЕПР 690; Machek 2 108; Kluge 1 5 324.</note>
+</Entry>

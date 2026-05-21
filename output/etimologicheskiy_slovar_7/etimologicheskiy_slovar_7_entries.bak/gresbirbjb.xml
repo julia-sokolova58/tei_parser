@@ -1,0 +1,67 @@
+<Entry xml:id="gresbirbjb">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gresbirb(jb)</orth>
+    <lemma>gresbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^шъкъ, прилаг. арартоЛо?, peccans</orth>
+      </form>
+      <sense>
+        <def>грешный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mild., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грешен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грешный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: гр4шный 'грешный', 'виноватый')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грешен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греш­ ный, греховный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гр</ref>)ешан, -шна, -шно</orth>
+      </form>
+      <sense>
+        <def>греш­ ный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gresen</ref>, -sua, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грешный, греховный (Plet</def>
+      </sense>
+    </item>
+  </etym>
+  <note>I, 250), чеш. hfisny, прилаг. 'грешный', слвц. hriesny, прилаг. то же (SSJ I, 526), в.-луж. hresny 'грешный' (Pfuhl 219), н.-луж. gresny то же (Muka St. I, 321), польск. grzeszny 'грешный, греховный' (Warsz. I, 934), словин. gfeisnl, прилаг. 'грешный' (Lorentz Slovinz. Wb. I, 308), др.-русск., русск.-цслав. грЪшьныи aixapToX6&lt;;, peccans (Лук. XIX. 7. Остр, ев., Срезневский I, 605), русск. грешный, диал. грешный 'жалкий, плохой' (калуж., курск., орл., тул.), 'фальшивый' (костр.) (Филин 7, 139), укр. гргшний, -а, -в 'грешный' (Гринченко I, 328), блр. грэшны 'грешный, греховный', 'нечестивый'.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="grexb">*grexb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

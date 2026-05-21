@@ -1,0 +1,56 @@
+<Entry xml:id="bbdbirbjb">
+  <pb n="114" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdbirb(jb)</orth>
+    <lemma>bbdbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бъдни</ref>, прилаг., напр. бъдни вечер</orth>
+      </form>
+      <sense>
+        <def>сочельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бадгьй</ref> дан</orth>
+      </form>
+      <sense>
+        <def>сочельник, сюда же субстантиви­ рованное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бадтъак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дубовое полено, кот. кладут в огонь накануне рождества</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bddnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сочельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы гл.<ref type="etymon" target="bdyoti-2">*bъdёti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="bdyn">*bъdynъ</ref>
+    </xr> 
+(см.).</note>
+</Entry>

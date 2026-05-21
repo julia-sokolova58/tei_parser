@@ -1,0 +1,110 @@
+<Entry xml:id="gvozditi">
+  <pb n="183" end_page="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvozditi</orth>
+    <lemma>gvozditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гвбздити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сковывать; зажимать, угнетать , вбивать клин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в словаре Белостенца, RJA III, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gozditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заклинивать, вбивать (клин), притеснять , также guozditi</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 241)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gwozdzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>при­ бивать гвоздем, заколачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gu</ref>$z- gec</orth>
+      </form>
+      <sense>
+        <def>прибивать гвоздями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гвоздить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>забивать, вколачивать гвоздь во что-либо (орл.), забить клином щель или дыру пробкою во второй раз (костр.), gvozd/ь прибивать что-либо гвоздями (арх.), стучать (курск., орл., ка­ луж.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гвоздйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прибивать гвоздями , разг., редк. гвоздйти гвоздить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гвоздзйцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить сильно, укреплять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="guozdb">*guozdb</ref> 
+(см. 
+<ref type="etymon" target="gvozdbj-2">*gvozdbj</ref>
+      <ref type="etymon" target="gvozdb">*gvozdb)</ref>.</gram>
+  </gramGrp>
+</Entry>

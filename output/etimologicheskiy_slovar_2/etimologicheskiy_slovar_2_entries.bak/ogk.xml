@@ -1,0 +1,37 @@
+<Entry xml:id="ogk">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬгъкъ</orth>
+    <lemma>ЬоЬгъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>ВоЪгек</ref>, в XVI в. — Bobrekh, фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(S. Rospond. Stownik nazwisk sl^skich. Cz. I. Wroclaw — Warszawa — Krakow, 1967, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Боброк</ref>, фам., откуда производное Бобраков</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Бабрбк</ref>, фам. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(материал см.: Б1рыла. Беларуская антрапа- шм1Я 2, 28—29)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="og-3">*ЬоЬгъ</ref> (см.) или — что исторически 
+вернее — расширение с помощью -к- древней -и- основы <ref type="etymon" target="og-3">*ЬоЬгъ</ref>.</gram>
+  </gramGrp>
+  <note>Может продолжать и.-е. форму *bhebhru-k-o-/*bhobhru-ko-, отра­ жения которой известны в других и.-е. языках, см. специально *ЬеЬгъкъ, а также под *ЬоЬгъ (— указание на фрак. Ве^рихес).</note>
+</Entry>

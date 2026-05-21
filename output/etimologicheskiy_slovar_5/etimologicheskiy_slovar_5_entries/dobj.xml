@@ -1,0 +1,38 @@
+<Entry xml:id="dobj">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobъ(jь)</orth>
+    <lemma>dobъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>доббй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хороший (Картотека Псковского област­ ного словаря), доб, кратк. прилаг. хорош, сущ. избалованный , доб, -а, -о добр, хорош (пск., новг., горьк.), силен, здоров (смол.), доб-здоров в совершенном здоровье (пск.) , доб-паренъ красивый парень (Карто­ тека Новгор. ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 72—73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дббый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хороший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Насушйлам молоду тинбирйц'у, измолблам та спиклам малйсник дуже дббый. В. В. Бабинець. Гов1рка с. Лавки Мукачгвського р-ну, дип. роб. Ужгород, 1954, 155—156)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *dobrb, *doblb,<xr type="compare">см. <ref type="etymon" target="doba">*doba</ref>
+    </xr>....</note>
+</Entry>

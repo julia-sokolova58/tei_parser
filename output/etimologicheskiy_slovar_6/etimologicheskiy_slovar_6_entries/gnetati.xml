@@ -1,0 +1,110 @@
+<Entry xml:id="gnetati">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnĕtati</orth>
+    <lemma>gnĕtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ётам мять, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кр. С. Стойчев. Те- тевенски говор. — СбНУ X X X I , 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>gnĕtati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>набивать, мять, месить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словаре Стулли, RJA III, 222: «на­ личие в нашем языке недостоверно»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. <ref>гн</ref>&gt;етати</orth>
+      </form>
+      <sense>
+        <def>мять, ме­ сить , гшг- тати совать, толкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 392, со ссылкой на два других источника)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 398)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnĕtati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнётатъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломаться, капризничать , гнёдатъся капризничать (преимущественно о ребенке) , сюда же, возм., преоб­ разованное гнехатъ ударять . — От мест­ ного продолжения гл. * gnetati, по-видимому, произведено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 6, 240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., ворон., Филин 6, 236)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(север., Филин 6, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гнетало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>специальное дерево с толстым концом для набивания мешка мукой на мельнице , гнитало ср. р. то же ; экспрессивным рас­ ширением или преобразованием заглавной формы может счи­ таться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ацам пихать, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 188)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> с удлинением корневого вокализма от <ref type="etymon" target="gnetq-3">*gnetq</ref>, 
+<ref type="etymon" target="gnesti">*gnesti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

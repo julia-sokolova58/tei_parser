@@ -1,0 +1,51 @@
+<Entry xml:id="edcedca">
+  <pb n="48" end_page="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdьcь/*ĕdьca</orth>
+    <lemma>ĕdьcь/*ĕdьca</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edbca</orth>
+    <lemma>edbca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ИДАЦД</ref> м. р. сраное, edax</orth>
+      </form>
+      <sense>
+        <def>едок, обжора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. )<ref>едац</ref>, род. п. ]Ьца, м. р.</orth>
+      </form>
+      <sense>
+        <def>ядовитый зуб змеи, незаживающая рана</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 631)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. ]<ref>адац</ref> (Сваки... грнац има дршци . . . ]едно мало удублевье Koje се зове ]адац.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>LM 59), словен. jedec, род. п. -dca, м. р. 'едок' (Plet. I, 362), ст.-чеш. jedec, род. п. -dee, м. р. 'едок' (Gebauer I, 610), также jiedce м. p. (Gebauer I, 645), чеш. диал. jitec, род. п. -tee, м. р. 'обжора', др.-русск., русск.-цслав. хадъцъ 'охотник поесть' (Стеф. еп. поуч. стриг, ок. 1386 г., Срезневский III, 1642), хлдъца то же (Юр. ев. под 1119 г., там же), ст.-укр. идця 'обжора' ( . . . и есь идъця и пяниця, товарышъ есь мытникумъ и грЪшникумъ. Деже Л. Материалы к словарю закарпатской литературы XVI—XVIII вв. Будапешт, 1965 (микрофильм) 119: Словарь Няговской Постиллы XVI в.), укр. гдёцъ, род. п. -дцЛ, м. р. 'едок' (Гринченко II, 196).</note>
+  <gramGrp>
+    <gram>Имя деятеля, проивводное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> (<m type="suffix">
+        <ref>-ьса</ref>
+      </m>) от основы гл.
+repa 
+<ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="edmb-4">*edmb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Сравнение цслав. ИДАЦА 'едок, обжора' и др.- в.-нем. a§ig 'edax' см. К. Brugmann. Grundrifi II, 1, 487— 488.</note>
+</Entry>

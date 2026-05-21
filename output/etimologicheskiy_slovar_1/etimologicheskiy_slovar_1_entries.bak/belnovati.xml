@@ -1,0 +1,54 @@
+<Entry xml:id="belnovati">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belnovati</orth>
+    <lemma>belnovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бленувам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отравиться беленой (Георгиев), пре­ даваться мечтам, грезить , Мечтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бленува</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мечтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blenovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott, I, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от имени <ref type="etymon" target="e1p-2">*Ье1пъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

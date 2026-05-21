@@ -1,0 +1,48 @@
+<Entry xml:id="brcciti">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brčciti</orth>
+    <lemma>brčciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёчити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>швырять, бросать (наземь), свалиться, удариться (о землю)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 621—622; PC А II, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брячить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бренчать , бречйть бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вят., Филин 3, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от междометной основы <ref type="etymon" target="g-3">*Ьг</ref>?к-у 
+общей 
+с 
+<ref type="etymon" target="br-4">*br</ref>$cati, 
+<ref type="etymon" target="br-5">*br</ref>$cati, 
+<ref type="etymon" target="br-6">*br</ref>$kati 
+(см.).</gram>
+  </gramGrp>
+</Entry>

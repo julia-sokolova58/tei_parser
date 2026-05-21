@@ -1,0 +1,86 @@
+<Entry xml:id="bezbivbjb">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezbivb(jb)</orth>
+    <lemma>bezbivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bfezan</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>fugitivus, fugax , бежан, б]ёжан, -жна, -жно кратковре­ менный, преходящий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только у Стулли, RJA I, 391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bezen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бегучий, беглый, мимолетный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>обычный, (арх.) беглый, мимолетный, текучий, подвижный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>привычный, текущий, (стар.) мимолет­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёжный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>избегающий чего-либо , бежнбй: бежнбе крыло невода гкрыло невода, которое заносится в глубь воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., орл., Филин 2, 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(астрах., сев., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бгжний</ref>: бгжпий кшець невода</orth>
+      </form>
+      <sense>
+        <def>та сторона невода, кото­ рую забрасывают заводом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(черном., Гринченко I, 63)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с помощью суфф. -ъп- от основы гл.<ref type="etymon" target="bezati">*bezati</ref>, 
+<ref type="etymon" target="begt4">*begt4</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Несмотря на возможность праслав. рекон­ струкции, фактическая древность образования неясна.</note>
+</Entry>

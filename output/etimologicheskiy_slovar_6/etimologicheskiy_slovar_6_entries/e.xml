@@ -1,0 +1,94 @@
+<Entry xml:id="e">
+  <pb n="7" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*e</orth>
+    <lemma>e</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>e</ref>\ межд.</orth>
+      </form>
+      <sense>
+        <def>ну, вот (Дювернуа)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>e</ref>, межд.</orth>
+      </form>
+      <sense>
+        <def>ну, вот, усилит, част</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 247; Гълъбов БД И, 78; М. Мла- денов БД III, 63; Д. Евстатиева. С. Тръстеник, Плевенско.— БД VI, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>e</ref>, част.</orth>
+      </form>
+      <sense>
+        <def>э, ну, вон, там</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. &lt;?, <ref>мeжд</ref>., выражающее подзывание, удивление, вопрос, сожаление , ё, утверд. межд.</orth>
+      </form>
+      <sense>
+        <def>да , ё, с. потому что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дубровник, XVI в., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук КараниЬ, RJA III, 19—20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ё</ref>, межд. и част. (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ё</ref>, межд., выражающее недоволь­ ство</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>э</ref>, межд.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>e</ref>, ё, межд., выражает удивление или восторг</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(яросл., якут., пенз., Филин 8, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>e</ref>, межд.</orth>
+      </form>
+      <sense>
+        <def>э</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 464)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Междометное употребление вторично. Праслав. *е восходит к указат. мест. и.-е. *е, рано или как правило выступающему в соединении с другими элементами (см. ниже *е da, *е 1ё, *е se, *е to, *е va). Ср. др.-инд. a-sau 'тот', греч. ё-xel 'там', лат. e-qui- dem 'все-таки'. Наличие или — по большей части — отсутствие йотации (ср. выше русск. е, наряду с э) объясняют особой пози­ цией этого элемента в речи. См. Berneker I, 260 (с литер.); Георгиев ВЕР VI, 473; Skok. Etim. rjecn. I, 485; Фасмер II, 5, s. v. ёва; IV, 513; A. Bajec SR V—VII, 1954, 196—197; Chant- raine. Dictionnaire etymologique de la 1. grecque 1—2, 329; Wal- de —Hofm. I, 386—387, 411; Pokorny I, 283.</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="dudk">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dudъkъ</orth>
+    <lemma>dudъkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dudek</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>uppupa (XVI в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dudek</ref>, род. п. -dka, м. р.</orth>
+      </form>
+      <sense>
+        <def>удод Upupa, также dud м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dudok</ref>, род. п. -dka, м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dudek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>удод Upupa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дудко</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удод Upupa epops</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Про гозор галицких лемшв 412)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание, передающее крик птицы. См. Machek 2 133.</note>
+</Entry>

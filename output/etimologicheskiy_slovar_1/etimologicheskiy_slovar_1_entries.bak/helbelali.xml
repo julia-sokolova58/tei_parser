@@ -1,0 +1,74 @@
+<Entry xml:id="helbelali">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>helbelali</orth>
+    <lemma>helbelali</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блебётлпт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>блебскат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить невнятно (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blebetdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blebtati</ref>, blebotati</orth>
+      </form>
+      <sense>
+        <def>невнятно бормотать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>blebtaV</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блебетатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лепетать, мямлить; болтать пустяки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Д а л ь I, 235)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол, производный от не полностью редуплицированной основы (<ref type="etymon" target="bel-be-">*bel-be-)</ref> с помощью интенсивирующего суфф. 
+-(e)tati.</gram>
+  </gramGrp>
+  <note>При реконструируемой ираформо *belbetati русск. блебетатъ должно было бы продолжать некое *белебетатъ с последующим выпадением гласного, понятным в этом экспрессивном слове, но ср. лит. blebeti, blabeti 'болтать', наряду с лит. balbatuoti ' в о р ­ чать' (см. Fraenkel I, 31). В подобном образовании не имеет смысла предполагать обычный ход метатезы плавного или регулярную апофонию гласных, уместнее говорить о звукопод­ ражании b-1-blb-r-b с различной вокализацией (Skok. Etim. rjecn., s. v. blabositij (I, ^166); Sadnik — Aitzetmuller. V g l . W b . 3, 1 6 6 - 1 6 7 ) .</note>
+</Entry>

@@ -1,0 +1,40 @@
+<Entry xml:id="arbika">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ar§bika</orth>
+    <lemma>ar§bika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jerebika</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рябина Sorbus aucuparia , возможно, первоначально сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 366)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>рябйка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рябина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Опыт 195; Диттель. Сборник рязанских областных слов. — ЖСт. 1898, вып. II, 222; Труды М Д К . Свод материалов, собран­ ных Комиссией. Словарь к ответам на программу по Тамбов­ ской губ. - Р Ф В L X V I , 1911, 216)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Образование с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от ирефигированного прилаг. <ref type="etymon" target="ag-5">*аг</ref>$Ьъ]ъ 
+(см.) или — в случае с русск. рябит — от <ref type="etymon" target="gf">*гфъ]ъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="gliba">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gliba?</orth>
+    <lemma>gliba?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глйба</ref>, глйба ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязная вода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hliba</ref> (?) ж. р.</orth>
+      </form>
+      <sense>
+        <def>какое-то пресмыкающееся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. диал <ref>глйба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба , глйба ж. р. глыба; мерзлая грязь, колышка, грудь, колоть , глйба льдина во время ледохода , глйба замерз­ ший комок земли , глйба ком земли на пашне , глйба ком земли (Картотека Словаря белозерских говоров), глибки, грудки свежий творог . Сомнительность выделения касается трудности разграничения форм на i и на у в ряде слав, языков, особенно если это усугуб­ ляется семантич. двусмысленностью примеров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Опыт 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., костр., Даль 3 I, 875)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Труды МДК: Саратовск. губ. — РФВ LXVI, 1911, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 51; Филин 6, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Г. Потанин. Этнографические заметки на пути от г. Никольска до г. Тотьмы. - ЖСт. IX, 1899, 227)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. производное от<ref type="etymon" target="glibati">*gliba??ti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

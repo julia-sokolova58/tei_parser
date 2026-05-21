@@ -1,0 +1,50 @@
+<Entry xml:id="o1gpo">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо1гьпо</orth>
+    <lemma>Ьо1гьпо</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>blozno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>перекладина у саней, лежащая поперек полозьев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bluozno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>санный кузов , blozno ср. p. санный полоз, загнутый кверху , blozmo ср. p. санный полоз, колода в торфянике</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sychta I, 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sychta I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бблозно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деревян­ ная основа сохи, к которой прикрепляются сошники, а также ручки для поддерживания сохи во время вспашки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликов­ ский 5; Филин 3, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически близко родственно *bolzina (см.; там же эти­ мология), от которого отличается родом и количеством гласного в суфф. (*Ьок-ъпо). См. A. Bruckner AfslPh XI, 1888, 123; Bru­ ckner 31—32; Фасмер I, 188—189.</note>
+</Entry>

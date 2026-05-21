@@ -1,0 +1,85 @@
+<Entry xml:id="sgpu">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгпу§ь</orth>
+    <lemma>сьгпу§ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Чернйш</ref>, местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ив. Дуриданов «Слависти- чен сборник» I. София, 1958, 236, со ссылкой на сербохорв. Crnis, топоним)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnis</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сорт винограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>crnys</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение иван-да-марья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cernys</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение иван-да-марья , cernys, cernejs м. p. черная кошка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Чернышь</ref>, личное имя собств., XV в.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тупиков 482—483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черныш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>весьма смуглый чело­ век, мальчик, черный куличок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3IV, 1320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чорнйш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черный хлеб (у нищих)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ysb</ref>
+      </m> от прилаг. <ref type="etymon" target="syp-2">*сыпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

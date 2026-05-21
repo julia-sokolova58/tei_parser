@@ -1,0 +1,86 @@
+<Entry xml:id="youog">
+  <pb n="179" end_page="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёьуогъ</orth>
+    <lemma>ёьуогъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чвор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сук (дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: чворъ, чвъръ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чвор</ref> м. р. ссук</orth>
+      </form>
+      <sense>
+        <def>, узел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново Село, Видинско 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чвор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сучок, сук, узел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чвдру</ref> род. п. чвдра м. р.</orth>
+      </form>
+      <sense>
+        <def>узел, сук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA II, 120—121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ёидг</ref>, род. п. би&gt;6гау м. р.</orth>
+      </form>
+      <sense>
+        <def>сук, узел (в дре­ весине) .—Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 119, с пометой: «сербохорв.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>биНу</ref> pop. п. 6ufsa м. р.</orth>
+      </form>
+      <sense>
+        <def>сук, узел (в древесине), узел в суставе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 119)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По мнению Младенова, образовано с суфф.<m type="suffix">
+        <ref>-огъ</ref>
+      </m> (ср. болг. чек-
+ор 'сук', сербохорв. кос-op 'cultri genus', далее — слав. ^stob-огЪу 
+<ref type="etymon" target="gov-orb">*gov-orb)</ref> от продолжения и.-е. <ref type="etymon" target="keu-">*keu-/</ref>
+      <ref type="etymon" target="kou-l">*kou-l</ref>
+      <ref type="etymon" target="ku-">*ku-</ref> 'гнуть, изгибать(ся)', 
+ср. арм. #' и й' 'bastone nodoso'.</gram>
+  </gramGrp>
+  <note>См. S. Mladenov AfslPh XXXIV, 1913, 395—397; Skok. Etim. rje6n. I, 345. D</note>
+</Entry>

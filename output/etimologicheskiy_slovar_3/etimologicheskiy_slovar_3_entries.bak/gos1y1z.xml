@@ -1,0 +1,72 @@
+<Entry xml:id="gos1y1z">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгос1ы1ъзь</orth>
+    <lemma>Ьгос1ы1ъзь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brodan</ref>, brodna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>navigabilis, судоход­ ный , брддан, -дна, -дно судоходный, доступный для перехода вброд (о реке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 667)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 195—196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>broden</ref>, -dna, прилаг,</orth>
+      </form>
+      <sense>
+        <def>связанный с бродом, перевозом, судоходный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brodny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>преодолимый (вброд)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брбдный</ref> (путь)</orth>
+      </form>
+      <sense>
+        <def>убродный, вязкий, топкий, болотистый; покры­ тый рыхлым снегом, сыпучими песками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>брбдный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домогающийся чего-либо, ходатайствующий о чем-либо (шадр., перм.), мелкий, такой, по которому ходят вброд (о реке, озере и т. п.) (перм.), рыхлый (о снеге) (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 190)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="brod-2">*brodъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

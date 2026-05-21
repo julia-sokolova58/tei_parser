@@ -1,0 +1,39 @@
+<Entry xml:id="sgtpk">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгтьпъкъ</orth>
+    <lemma>сьгтьпъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cork</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>яичный желток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cenk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный желток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 119)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от прилаг. <ref type="etymon" target="bgtp">*бьгтъпъ</ref> (см.); субстанти­
+вация.</gram>
+  </gramGrp>
+  <note>Ввиду ранней утраты производящего прилаг. в серболуж. может считаться древним образованием.</note>
+</Entry>

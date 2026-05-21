@@ -1,0 +1,85 @@
+<Entry xml:id="golgoliti">
+  <pb n="204" end_page="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golgoliti</orth>
+    <lemma>golgoliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>глаголя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 85, с поме­ той: «от рус. глаголить»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>глаголи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>глаголити</ref>, глаголшпи</orth>
+      </form>
+      <sense>
+        <def>говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 302, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlaholiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко звучать, раздаваться, говорить, •golica</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. книжн. <ref>MaholiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, раздаваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 477)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гологблитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>балясничать, балагурить . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., холм., Доп. к Опыту 34; Филин 6, 314)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>ГЛЛГОЛИБТ; прилаг. ХаХ^тб?, loquendi facultate praeditus 'способ­ ный говорить, говорящий' (SJS).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="golgolb">*golgolb</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. A. Meil- let MSL 19, 1915, 189.</note>
+</Entry>

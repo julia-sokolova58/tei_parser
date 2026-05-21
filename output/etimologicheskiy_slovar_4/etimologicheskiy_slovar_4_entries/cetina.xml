@@ -1,0 +1,61 @@
+<Entry xml:id="cetina">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetina</orth>
+    <lemma>cetina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чётина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щетина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>четича</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щетина (И-G), сербохозр. еёйпа ж. р. щетина, хвоя, иголка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cetina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хвоя, иголка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cetyna</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cetina</ref>, сесьпа</orth>
+      </form>
+      <sense>
+        <def>хвоя , noibCK. днат. czacina ж. р. хвоя, иголки хвойных деревьев . jBap. к<xr type="compare">см. <ref type="etymon" target="scetina">*scetina</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 367)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

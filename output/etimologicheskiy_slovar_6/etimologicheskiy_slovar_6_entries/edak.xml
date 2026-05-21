@@ -1,0 +1,135 @@
+<Entry xml:id="edak">
+  <pb n="38" end_page="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdakъ</orth>
+    <lemma>ĕdakъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пищевод, едок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 580)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeddk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обжора, едок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 640)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто много ест</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Опыт 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гдйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>едок .— Сюда же, далее, с различными расширениями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Же- лех., см. Гринченко II, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jedjak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>едок, хороший едок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(черногорск., Pal. 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ядач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голодный чело­ век</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jada4</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обжора, мучитель, тиран</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedd4</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>едок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 631)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeddca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье ; наконец, сюда же, с откло­ нением в гласном суффикса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>едок</ref>, род. п. edond</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>ядак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>едок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 156)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -{а)къ от гл.<ref type="etymon" target="edati">*edati</ref> (см.), хотя вполне 
+возможно вторичное соотнесение и осмысление в связи с конкрет-
+ной итеративно-дуративной 
+формой слав. <ref type="etymon" target="edati">*edati</ref>, поскольку есть 
+вероятие происхождения праслав. 
+<ref type="etymon" target="yoyak">*ёйакъ</ref> 
+из и.-е. <ref type="etymon" target="edako-">*edako-</ref>&gt; ср. 
+лат. edax, -acis 'прожорливый', 
+'едкий'.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,149 @@
+<Entry xml:id="bogyni">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogyni</orth>
+    <lemma>bogyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>богиня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>богигьа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bogiiia</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>dea, богиня , богиуье ж. р. мн. оспа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boginja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня, гадалка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bohyni</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бо­ гиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bohyne</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bohyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня, (народн.) колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bogini</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 592)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>богини</ref> frea, dea</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>богиня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>божество женского пола</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>богиня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Чет. 1489 г., Тимченко I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>богиня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня, употребляется как название обожаемой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баггня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от <ref type="etymon" target="bogb">*bogb</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Miklosich. Vgl. Gr. II, 143-145.</note>
+</Entry>

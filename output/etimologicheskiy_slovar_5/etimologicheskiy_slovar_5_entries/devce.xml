@@ -1,0 +1,121 @@
+<Entry xml:id="devce">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvъčę</orth>
+    <lemma>dĕvъčę</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -§te</orth>
+    <lemma>род. п. -§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёвче</ref>, род. п. -ета, также д]ёвче ср. р.</orth>
+      </form>
+      <sense>
+        <def>девочка, девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deuce</ref>, род. п. -ete, ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>divce</ref>, род. п. -te, ср. р., а также divce ж. р., мн. divcata</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dievca</ref>, род. п. -aVa, ср. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, девочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzowco</ref>, dzowcatko ср. p.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zowco</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девочка, девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewcze</ref>, род. п. -ecia, ср. р.</orth>
+      </form>
+      <sense>
+        <def>девушка; девочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 592)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>je</ref>/cg, род. п. -cica, ср. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>девчй</ref>, род. п.--и, ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка , девчата мн. девушки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сарат., Филин 7, 320)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(юж., зап., твер., пек., Даль 3 I, 1265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дЬвча</ref>, род. п. -чати, ср. р.</orth>
+      </form>
+      <sense>
+        <def>молодая девушка; девочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 387)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ум.) с суфф. -ft- от<ref type="etymon" target="yyoika">*йёиъка</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

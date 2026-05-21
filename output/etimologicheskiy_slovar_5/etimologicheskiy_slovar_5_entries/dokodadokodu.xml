@@ -1,0 +1,119 @@
+<Entry xml:id="dokodadokodu">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do kǫda/*do kǫdu</orth>
+    <lemma>do kǫda/*do kǫdu</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>do kqdu</orth>
+    <lemma>do kqdu</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>докуд</ref>(а)</orth>
+      </form>
+      <sense>
+        <def>до каких пор, докуда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dokdd</ref>, нареч. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dokud</ref> с.</orth>
+      </form>
+      <sense>
+        <def>до тех пор, пока</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dokaj</ref>\ dokef то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lam- precht. Slov. stfedoopav. 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>dokud</ref>, dokuz (Якубица),</orth>
+      </form>
+      <sense>
+        <def>докуда, пока; до тех пор, пока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dokqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>куда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dekoifd</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>куда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>докНдова</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>до каких пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Никон, л. VIII. 112, Срезневский I, 694)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>докуда</ref>, докудова, на­ реч.</orth>
+      </form>
+      <sense>
+        <def>до какого места или времени, доколе; покуда, пока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>докуди</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>доколе, до каких пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 415)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-16">*do</ref> (см.) и <ref type="etymon" target="kqda">*kqda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

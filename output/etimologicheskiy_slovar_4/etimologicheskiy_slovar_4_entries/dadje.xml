@@ -1,0 +1,42 @@
+<Entry xml:id="dadje">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dadje</orth>
+    <lemma>dadje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>даждие</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дань, подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. С. Раковски. Показа- лец, 1859 г. Архив Болг. возрождения, София; Геров: даждие; БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>даждие</ref> ж. р. (так!)</orth>
+      </form>
+      <sense>
+        <def>дань , даждие ср. р. дань , дажцие ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Нови Пазар, СбНУ XLVII, 323, Архив Болг. диал. словрая, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(3. Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близ- нев БД III, 210)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с -/- суффиксальным от редуплицированной основы dad-, ср. наст. вр.<ref type="etymon" target="dadmb">*dadmb</ref> (см. далее <ref type="etymon" target="dati">*dati)</ref>.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 176; Георгиев БЕР IV, 313.</note>
+</Entry>

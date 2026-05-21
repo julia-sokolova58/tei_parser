@@ -1,0 +1,60 @@
+<Entry xml:id="ezaez">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕža/*ĕžъ</orth>
+    <lemma>ĕža/*ĕžъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ё2ь</orth>
+    <lemma>ё2ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>йжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отводной канал, ручеёк, теку­ щий из родника, jeza ж. p. = greb]a</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 648)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. ]&amp;ж м. р.</orth>
+      </form>
+      <sense>
+        <def>канал</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 521—522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jĕža/*ĕžъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дамба, запруда, плотина, дерн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>иж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рыболовный снаряд, сплетенный из ивовых прутьев или из сети и ставимый подле берега реки на колышках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с йотовым суфф. от<ref type="etymon" target="ezb-2">*ezb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

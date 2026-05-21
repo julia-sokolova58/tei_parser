@@ -1,0 +1,213 @@
+<Entry xml:id="gnilj">
+  <pb n="175" end_page="176" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilъ(jь)</orth>
+    <lemma>gnilъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>пшъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнил</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой (Ге­ ров: гнйлый гнилой, мозглый), также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гнил</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гнил</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gnlo</ref>, gnila, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой , гмйо, гмйла, гмйло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnil</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. (<ref>субстан</ref>­ тивированное) hnil м. р.</orth>
+      </form>
+      <sense>
+        <def>гной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovnik PreSpursky 24, Ge­ bauer I, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnily</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 704)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnily</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gndla</ref>, прилаг. ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнилая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 65, с реконструкцией *gnilaja)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gnily</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 859)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>guilt</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гнилыи</ref> аатсрод, putris</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Мф. XIII. 28. Четвероев. 1144 г.; Ев. 1409 г.; Прол. сент. XIII в. и др., Срезневский I, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гнилой</ref>, -ая, -бе</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнилйй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнилой, испорчен- gnilb ный, гнилой, гниющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гныы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гныый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнилой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькеьчч. Ма- пл. 136)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>participle</pos>
+    <gram>Прич. прош. на<m type="suffix">
+        <ref>-1ъ</ref>
+      </m>, производное от гл. <ref type="etymon" target="gniti">*gniti</ref>.</gram>
+  </gramGrp>
+  <note>Допустима ранняя лексикализация ввиду того, что ряд слов произведен от<xr type="compare">ср. <ref type="etymon" target="gniledb">*gniledb</ref>
+    </xr>, 
+*gnilostb, 
+*gnilota, 
+*gnilusa, 
+*gnilb, 
+, 
+*gnilostb, 
+*gnilota, 
+*gnilusa, 
+*gnilb, 
+, 
+*gnilostb, 
+*gnilota, 
+*gnilusa, 
+*gnilb, 
+, 
+*gnilostb, 
+*gnilota, 
+*gnilusa, 
+*gnilb, 
+<xr type="compare">см. <ref type="etymon" target="gnilbcb">*gnilbcb</ref>
+    </xr>....</note>
+</Entry>

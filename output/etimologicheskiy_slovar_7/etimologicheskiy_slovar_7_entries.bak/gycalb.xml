@@ -1,0 +1,78 @@
+<Entry xml:id="gycalb">
+  <pb n="218" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gycalb</orth>
+    <lemma>gycalb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>b</orth>
+    <lemma>b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hycala</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстая, крепкая кость , giValy мн. ноги, ножищи , польск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>giczal</ref>, giczol м. р.</orth>
+      </form>
+      <sense>
+        <def>нога, ножища, го­ лень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гичаль</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стебель, толстое ребро- листа, толстая жила листа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гЬчап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>свекольная ботва . — Ср. сюда же, с отклонением формы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ляховицк. р-н Брестск. обл., Мат. 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>gizla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нога, ножища , н-луж. gizla ж. р. берцовая кость, голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 252)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -el- или -el- от<ref type="etymon" target="gycb">*gycb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

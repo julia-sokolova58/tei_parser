@@ -1,0 +1,24 @@
+<Entry xml:id="azbnenbjb">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>azbnenbjb</orth>
+    <lemma>azbnenbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>тънЪныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кожаный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срез­ невский III, 1650)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Прибал., производное с суфф. -ёп- от<ref type="etymon" target="azbno">*azbno</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

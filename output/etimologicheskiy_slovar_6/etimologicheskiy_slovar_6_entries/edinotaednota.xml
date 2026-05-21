@@ -1,0 +1,100 @@
+<Entry xml:id="edinotaednota">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edinota/*edьnota</orth>
+    <lemma>edinota/*edьnota</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edbnota</orth>
+    <lemma>edbnota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>enota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jednota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>единство, одиночество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 592)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jednota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 233—234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jadnota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство, согласие, единодушие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jednota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>согласие, гармония, единодушие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jdntteta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство 7</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>однота</ref>, одинота ж. р.</orth>
+      </form>
+      <sense>
+        <def>состояние одинокого , одинота одиночество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап., Даль 3 II, 1676)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 168)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Проблематичное в отношении возраста производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="edin">*edinъ</ref> / <ref type="etymon" target="edbnb-3">*edbnb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>О польск. слове см. специально М. Basaj, J. Siatkowski «Studia z filologii polskiei i stowiafiskiei» 7, 1967, 9.</note>
+</Entry>

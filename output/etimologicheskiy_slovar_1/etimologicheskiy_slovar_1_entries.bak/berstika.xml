@@ -1,0 +1,25 @@
+<Entry xml:id="berstika">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstika</orth>
+    <lemma>berstika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brestika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид вяза, ива, название гриба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от <ref type="etymon" target="berstb-2">*berstb</ref> (см).</gram>
+  </gramGrp>
+</Entry>

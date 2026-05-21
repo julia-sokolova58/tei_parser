@@ -1,0 +1,75 @@
+<Entry xml:id="yo1ogu">
+  <pb n="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1оЬгъуъ]ь</orth>
+    <lemma>Ьё1оЬгъуъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjelobrvast</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belobruy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белобровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialobrwi</ref>, bialobrewy</orth>
+      </form>
+      <sense>
+        <def>белобровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белобровый</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быобрбвий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с русыми бровями, белобровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белабрбвы</ref>, сюда же фам.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>БелабрбвЬч, Белабрбучык (Б1рыла. Беларуская антрапашм1я 2, 50). См. еще Miklosich. Vgl. Gr. II, 398.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ъё1ъ</ref> (см.) и адъективно 
+употребленной именной основы -<ref type="etymon" target="gi-3">*Ьгъиъ</ref> (см. ниже <ref type="etymon" target="bry">*bry</ref> /-ъие).</gram>
+  </gramGrp>
+  <note>Древность вероятна.<xr type="compare">Ср. еще <ref type="etymon" target="byologolv">*bёlogolvъ</ref>
+    </xr>, где о типе.</note>
+</Entry>

@@ -1,0 +1,59 @@
+<Entry xml:id="domovisce">
+  <pb n="70" end_page="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domovišče</orth>
+    <lemma>domovišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>domoviste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>родина, родной дом, domo- visko ср. р. домишко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>domovisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жилье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>domd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>isco ср. р. место, на котором был дом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. до- *<ref>domovbni</ref>&gt;jbj мовйще ср. p.</orth>
+      </form>
+      <sense>
+        <def>жилище (арх., КАССР), гроб (яросл., твер., волог., новг., петерб., пск., пенз., ряз., тул., орл., олон., костр., арх., вят., киров., перм., сиб., тюмен., тобол., том., якут., байк., камч.), сооружение, сруб в виде гроба над могилой (смол.), в суеверных представлениях — омут, в котором живет водяник (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от прилаг. <ref type="etymon" target="s1otoi">*с1отоиъ</ref> (см.)</gram>
+  </gramGrp>
+</Entry>

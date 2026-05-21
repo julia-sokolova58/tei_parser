@@ -1,0 +1,70 @@
+<Entry xml:id="bbzikati">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbzikati</orth>
+    <lemma>bbzikati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bzikati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прыскать, с силой брызгать , метаться, носиться (о крупном рогатом скоте) , bezikati то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bzikati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать, пугаться, в испуге носиться, метаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bzikaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать от овода (о скотине) , bzikat бегать от овода (о крупном рога­ том скоте) елвц. bzikat летать, но­ ситься (о насекомых), бегать от овода (о крупном рогатом скоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бзыкать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обезумев от сильной жары и укусов оводов, бежать, задрав хвост (о рогатом скоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(касим., ряз., урал., Филин 3, 288)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. основа (см.<ref type="etymon" target="bbzati">*bbzati)</ref>, 
+расширенная суффиксом -ik-</gram>
+  </gramGrp>
+</Entry>

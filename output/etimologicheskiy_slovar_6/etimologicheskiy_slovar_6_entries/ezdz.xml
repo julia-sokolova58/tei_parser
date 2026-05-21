@@ -1,0 +1,29 @@
+<Entry xml:id="ezdz">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕždžь</orth>
+    <lemma>ĕždžь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jazdz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ерш , ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezdik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ерш</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Родственно лит. ezgys 'ерш', др.-прусск. assegis 'окунь'. См. Miklosich 101; Berneker I, 277; Stawski I, 535; Machek 2 225—226 («Слово балто-слав., дальнейшие связи неясны»); Fraenkel I, 118.</note>
+</Entry>

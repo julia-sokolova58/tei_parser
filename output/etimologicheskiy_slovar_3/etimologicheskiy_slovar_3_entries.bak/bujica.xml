@@ -1,0 +1,70 @@
+<Entry xml:id="bujica">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujica</orth>
+    <lemma>bujica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буйца</ref>, буйца ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь Febris acuta, горячка, огневица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>буйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(тяжелая) болезнь (Само- ковско), буйца ж. р. то же (Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бурный поток, лихорадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бу</ref>)йца ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевой поток</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bujica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ручей, поток, сточная канава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 7 0 ; Bezlaj. Slovenska vodna imena I, 9 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>боуица</ref> (Се азъ мьстиславъ володимирь снъ дьржа роусьскоу землю въ свою кнджению повелЪлъ геемь сноу своюмоу всеволодоу Сидати боуицЪ стмоу геСОргиеви съ данию и съ ви­ рами и съ продажами и вено вотское. Гр. в. кн.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Мстислава, ок. ИЗО г., Обнор. № 8 , Картотека СДР; быша въ БуицЪ сел'Ь святого Георгия. Новг. I л. под 1 2 3 2 г., Срезневский I , 1 9 2 ) .</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="shch">*Ъщъ</ref> (см.) с первонач. функцией 
+субстантивации.</gram>
+  </gramGrp>
+</Entry>

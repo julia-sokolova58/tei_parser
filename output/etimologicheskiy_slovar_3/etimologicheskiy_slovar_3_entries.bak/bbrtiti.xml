@@ -1,0 +1,49 @@
+<Entry xml:id="bbrtiti">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrtiti</orth>
+    <lemma>bbrtiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bftiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>затыкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brtiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сверлить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бортйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдалбливать жёлоб, паз (Желе- ховский)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="n">*ЬъНъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

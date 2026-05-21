@@ -1,0 +1,115 @@
+<Entry xml:id="glus">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glušь</orth>
+    <lemma>glušь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глуш</ref>, глуша ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубокая тишина, уединение, одиночество; глушь , глуш м. р. вид можжевель­ ника Juniperus sabina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 373)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк., поэт, <ref>hlus</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глу­ бокая тишина, глушь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlus</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glusza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухая, мертвая тишина, глушь, пустын­ ное место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 853; Dorosz. II, 1188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gldsau</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глушь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густо заросшая часть леса, сада, отдаленное от населенного пункта пустынное место</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глушь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глухота (ворон.), глухая, глуховатая женщина (нижегор., урал.), дурной запах, вонь .(каз.) , глуш м, р. глухой, глуховатый человек (нижегор., урал.), дурной запах, вонь (каз.) , глушь ж. р. чувство одиночества, тоска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский сло­ варь 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глуш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густое заросшее место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глуш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глушь, глушь ж. р. непро­ ходимая чаща леса, полночь, полночная тишина, также местн. название Глуша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Namenbuch II, 378: примеры с территории Белоруссии)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -/- от прилаг.<ref type="etymon" target="gluxb-8">*gluxb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

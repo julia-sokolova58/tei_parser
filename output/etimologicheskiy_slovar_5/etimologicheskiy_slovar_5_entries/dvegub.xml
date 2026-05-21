@@ -1,0 +1,27 @@
+<Entry xml:id="dvegub">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vĕgubь</orth>
+    <lemma>d(ъ)vĕgubь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двЪг</ref>^бъ</orth>
+      </form>
+      <sense>
+        <def>двойной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр. XLIV. 170, 178; Мф. XXIII. 15. Гал. ев. XIII в., Срезневский I, 649)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение числ.<ref type="etymon" target="dbve-2">*d(b)ve</ref> (форма ж. р. обусловлена исходом 
+-ъ?) и *-gubb (см. <ref type="etymon" target="gubiti">*gubiti)</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="d">*dъ</ref>
+    </xr> Jvogubb (см.). Jvogubb (см.). Jvogubb (см.). Jvogubb (см.).</note>
+</Entry>

@@ -1,0 +1,206 @@
+<Entry xml:id="doba">
+  <pb n="38" end_page="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*doba</orth>
+    <lemma>doba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дбба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора (обыкн. ночная)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров: 'время, пора, случай')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дбба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>позднее, ночное время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла- денов БД III, 58; Шанкарев—Близнев БД III, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>доба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, время, возраст</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>доба</ref> ср. р., нескл.</orth>
+      </form>
+      <sense>
+        <def>время, пора</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>doba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, подходящее время, срок, возраст, образ, способ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dobaiza</ref> dobe</orth>
+      </form>
+      <sense>
+        <def>во­ время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 758)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>doba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, время</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>doba</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 275)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>doba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>запас, наличие, пора, время, момент</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1063)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>doba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>удобное время, пора, момент, сутки, время, мера, степень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 174—175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>doba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сутки, пора, время, эпоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>du</ref>$ba ж. р.</orth>
+      </form>
+      <sense>
+        <def>время, мо- нент</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цслав</ref>. доба</orth>
+      </form>
+      <sense>
+        <def>польза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дел. 1580 г., Срезневский I, 671—672)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дбба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, время , время, возраст (Картотека Псковского областного словаря), доба ж. р. возраст , даба время , дбба ж. р. пора, время (смол., твер., костр.), мера, возраст (смол., твер., костр., Латв. ССР)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., твер., Доп. к Опыту 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 78)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Рас­ торгуев. Словарь народных говоров Зап. Брянщины 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сутки, пора, время, возраст (Змиев, у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дбба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, сутки , даба время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некрапт. 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Расторгуев, Се- верск.-блр. 142)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Морфологич. аномалия сербохорв. формы (ср. еще<ref type="etymon" target="dobo">*dobo</ref>, см.) и 
+очевидное родство с лит. dabaf 'теперь, сейчас', нареч. времени, 
+продолжающим падежную форму сущ-ного, позволяют согласиться 
+с предположением, что праформой было имя с гетероклитич. ос­
+новой на согласный -г\п- и.-е. <ref type="etymon" target="dhabhf">*dhabhf</ref> /-nos, 
+ср. еще <ref type="etymon" target="dobrb">*dobrb</ref> (см.).
+<ref type="etymon" target="dobiti">*dobiti</ref> 
+Некоторые 
+говорят 
+об 
+и.-е. 
+<ref type="etymon" target="dhabhor">*dhabhor</ref> &gt; слав. 
+<ref type="etymon" target="doba">*doba</ref> по типу 
+и.-е. <ref type="etymon" target="ttgdor">*ttgdor</ref>&gt; слав. 
+*^oda (см.).</gram>
+  </gramGrp>
+  <note>Родственно, далее^ гот. ga-da- Ъап 'подходить, подобать'. Прочие соответствия см. на *dobrb. См. Berneker I, 204; A. MeilletBSL 27, 1927, 31; Г.Ильинский « Jagic-Festschrift» 1908, 295; Е. Fraenkel. Zu den idg. Zeitaus- drttcken. — ZfslPh XXVI, 1958, 350; Fraenkel I, 79 (лит. daba 'природа, способ', лтш. daba 'вид, способ, свойство, привычка' как родственные слав, doba, ср. мнение Бернекера, выше, о заимство­ вании из слав.); Skok. Etim. rjecn. I, 419—420; V. Machek «Slavia» 26, 1957, 133 (обращает внимание на знач. doba 'дли­ тельное время', в связи с чем предпринимает неубедительное фор­ мально сближение с греч. BoFav, STQV, *davbno); аналогично см. Machek 2 121—122 (разделяет временное doba 1, объясняемое упомянутым способом, и doba 2, ст.-чеш., 'форма, вид, способ'); Э. А. Якубинская-Лемберг. Этимология слова доба. УЗ ЛГУ 301, 60, 244—257 (цит. по RS XXVI, 1966, 240); Фасмер I, 519—520; Н. Birnbaum. Indo-European nominal formations submerged in Sla­ vic 154; Bezlaj. Etim. slovar sloven, jez. I, 105 (разграничивает, вслед за Махеком, выше *doba 1 'способ' и *doba II 'время').</note>
+</Entry>

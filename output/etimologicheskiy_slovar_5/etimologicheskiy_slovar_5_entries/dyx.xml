@@ -1,0 +1,64 @@
+<Entry xml:id="dyx">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyxъ</orth>
+    <lemma>dyxъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дих</ref> книяш. м. р. сдух, дыхание</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РБЕ; Дювернуа: дых 'дыхание, существо')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дих</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вздох, ды­ хание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dih</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вздох, дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 380)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dych</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вздох, дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дых</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дыхание (свердл., челябин.), дыхи мн. дыха­ тельные пути, ноздри у лошади</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 298)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, производное от гл.<ref type="etymon" target="dyxati">*dyxati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

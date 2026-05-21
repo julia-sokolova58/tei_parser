@@ -1,0 +1,115 @@
+<Entry xml:id="st">
+  <pb n="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>стъ</orth>
+    <lemma>стъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cina II</orth>
+    <lemma>cina II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чйнове</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>две палочки, разделяющие основу при тканье на домашнем станке , чен?аж. р. челюсть, место, где закреп­ ляется хомут</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 241)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чини</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>зев между ценовными дощечками (при тканье)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cine</ref> мн. ч.</orth>
+      </form>
+      <sense>
+        <def>палочки, поддерживающие ниченки (в ткацком станке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czyny</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>це- новные дощечки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нить в тканье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ев. толк. 1434 г., Срезневский III, 1519—1522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чини</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>место, где перекрещиваются нити основы, колышки в сновалке, при помощи которых делаются чини</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чыны</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>пересечение нитей основы .—Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусю II, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cinka</ref> (razova), термин ткацкого станка .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 170)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="cinb">*cinb</ref> / cina в описанных выше характерных знач-ях 
+^продолжает дослав, и.-е. *(s)kei-n-, 
+производное с суфф. -п- от 
+и.-е. *(s)kei- 
+'расщеплять, 
+раскалывать'.</gram>
+  </gramGrp>
+  <note>Слав. *стъ/*ста II стало по преимуществу ткацким термином, но эти знач-я восходят к более общему, о чем свидетельствует, напр. болг. диал. чен'а ж. р. 'челюсть'. Связано чередованием гласных с праслав.<xr type="compare">см. <ref type="etymon" target="dyop">*дёпъ</ref>
+    </xr>, также обозначение зева и приспособлений для зевообразо-
+вания в ткацком станке, далее — с праслав. диал. *ceniti II (см.) 
+'скалить зубы'. Далее родственно лит. skiemuo, род. п. -mens, 
+мн. skiemenys 'цены в ткацком станке; зев', лтш. sfyiemenis 'цены', 
+мн. ЩЬетецг, Щегтщ 
+'зев' &lt; балт. 
+*skai-men-, 
+производное от 
+того же и.-е. корня с помощью суфф. -теп-. См. Трубачёв. Ремес­
+ленная терминология 133.</note>
+</Entry>

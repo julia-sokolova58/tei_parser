@@ -1,0 +1,68 @@
+<Entry xml:id="celiti">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celiti</orth>
+    <lemma>celiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стесывать (напр. ствол дерева), гладко обрезать (нижний конец снопа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороться (против ч.-л.), лезть, пролезать (вперэд) (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть обращенным лицом (к ч.-л.), сопротивляться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полировать, начищать до блеска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>челйтъ</ref>, челитъ ворох</orth>
+      </form>
+      <sense>
+        <def>разделывать (делить) на чело и озадок или охвостье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1299)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="celo">*celo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

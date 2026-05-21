@@ -1,0 +1,98 @@
+<Entry xml:id="gnojnik">
+  <pb n="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnojьnikъ</orth>
+    <lemma>gnojьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gnojnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>унавоженное поле, куча навоза , ZHOJHUK м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>zuoja</ref>- ник</orth>
+      </form>
+      <sense>
+        <def>навозная куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnojnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>унавоженная грядка, выгребная яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnojnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто разносит навоз, навозная куча , елвц. hnojnik м. р. гриб Coprinus comatus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 705)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gnojnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>навозная куча, телега для навоза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 860)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гнойник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>нарыв, веред, чирей, болячка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 891)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гншнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>навозный жук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-хкъ</ref>
+      </m> от прилаг. <ref type="etymon" target="gnojbnb-2">*gnojbnb</ref> (см.); субстан­
+тивация последнего.</gram>
+  </gramGrp>
+</Entry>

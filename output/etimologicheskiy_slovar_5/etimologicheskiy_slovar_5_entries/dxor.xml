@@ -1,0 +1,98 @@
+<Entry xml:id="dxor">
+  <pb n="177" end_page="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъxorь</orth>
+    <lemma>dъxorь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>твдр</ref>, твдр м. р.</orth>
+      </form>
+      <sense>
+        <def>хорек Mustela putorius L.\</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dihur</ref>, род. п. -/а, м. р.</orth>
+      </form>
+      <sense>
+        <def>хорек , dihur , dehor , tvor м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 403)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Tominec 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SaSelj I, 313)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dehor</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>choerogryllus (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>tchof</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>хорек, также zhof</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V, 472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>schof</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>tchor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>хорек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ IV, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>txur</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>tkhor</ref>, род. п. -r/a, м. p.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Мъхъ 'хорек' (Pfuhl 738), iwof то же (Pfuhl 763), н.-луж. twof м. р. 'хорь, хорек' (Muka St. II, 822), польск. tchorz, диал. tworz, tforz м. р. 'хорек Putorius foetidus' (Warsz. VII, 36), словин. tkor м. p. 'хорек' (Lorentz Slovinz. Wb. II, 1217), др. трусск. дъхоръ, дохоръ, тхорь 'хорек' (Сказ. Акир.; Привил. Полоцк. 1498 г., Срезнев­ ский I, 762), русск. хорь м. р. 'хищный зверек из сем. куниц, ценный своим мехом', диал. тхорь 'хорь' (Мельниченко 203), укр. mxipf род. п. тхора, м. р. 'хорек Mustela putorius' (Гринченко IV, 298), диал. xip, род. п. хоря, м. р. то же (Вх., Гринченко IV, 400), тхыр, род. п. тхор'а м. р. 'хорек' (Ф. Д. Климчук. Спе­ цифическая лексика Дрогичинского Полесья. «Лексика Полесья» 72), блр. тхор м. р. 'хорек, хорь'.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-огь</ref>
+      </m> от основы гл. <ref type="etymon" target="dbxati">*dbxati</ref> / <ref type="etymon" target="dkhpdy">*дъхпдй</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 243; Фасмер IV, 270.</note>
+</Entry>

@@ -1,0 +1,124 @@
+<Entry xml:id="busitisc">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>busiti (sč)</orth>
+    <lemma>busiti (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, сильно колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р ; Геров: буиюь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>буша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разбивать (Орханийско, Архив Болг. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бурить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>буши</ref> се</orth>
+      </form>
+      <sense>
+        <def>взъерошиваться, важничать, задирать нос</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бушити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сверлить, busiti percutere, prosternere, dejicere, rejicere, con- futare, corruere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., R J A I, 747—748)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>busiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно ударять(ся), толкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bisiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бухать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>busif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить(ся), стукнуть, ударять, бухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>busye</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, хлопать, бить молотом, busye se биться, ударяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka S\. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бушйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шу­ меть, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уездного череповецкого говора 23; Филин 3, 332)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на - Ш , родственный<ref type="etymon" target="buxati">*buxati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

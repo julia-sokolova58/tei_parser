@@ -1,0 +1,60 @@
+<Entry xml:id="bezpqtbje">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpqtbje</orth>
+    <lemma>bezpqtbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. 6ecnyhey <ref>беспуНе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье, непрохо­ димая местность , brespuce ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 512)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>беспХти</ref>\е dvoBia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пайс сб. 151, Срезневский I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беспутье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожица, распутица или иная порча дороги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безпуття</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье, бес­ путица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шейк., Гринченко.I, 44; Укр.-рос. словн. I, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-77">*bez</ref> (см.) 
+и суфф. -ъ/е от основы имени <ref type="etymon" target="pgtb-4">*pgtb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, также первонач. прилаг-ные *bezpgta,<xr type="compare">см. <ref type="etymon" target="bezpgtb-2">*bezpgtb</ref>
+    </xr>. Предполагать кальку 
+с греч. dvoSta здесь необязательно.</note>
+</Entry>

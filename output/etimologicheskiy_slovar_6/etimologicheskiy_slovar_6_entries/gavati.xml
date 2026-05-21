@@ -1,0 +1,134 @@
+<Entry xml:id="gavati">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gavati</orth>
+    <lemma>gavati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гйвам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обманывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>врать, обманывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>havati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, говорить, рассказывать (Postilla М. Jana Rokycany, XV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hauat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять, тявкать . — Сюда же ср. расширенное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS, *'Slov. 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гавкамъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гав­ кать, лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гавка</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гйвкати</ref> = га- кати</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>havkaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тявкать (о щенке) , елвц. havkaV лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bar- tog. Slov. 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>простор</ref>, и обл. гавкать</orth>
+      </form>
+      <sense>
+        <def>лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 84: нижнедонск., тул., курск., смол.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гавкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять ; в связи с заглав­ ной реконструкцией представляет интерес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гавнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крикнуть (Картотека Новгородского ГПИ)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. гл., связанный с<ref type="etymon" target="gava">*gava</ref> (см.).</gram>
+  </gramGrp>
+  <note>Развитие знач. 'обманывать' (см. болг., выше) ср. с русск. брехать, укр. брехати.</note>
+</Entry>

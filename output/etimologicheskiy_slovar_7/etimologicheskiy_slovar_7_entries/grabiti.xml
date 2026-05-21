@@ -1,0 +1,214 @@
+<Entry xml:id="grabiti">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabiti</orth>
+    <lemma>grabiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Г</ref>^ЛБИТИ aprcdCeiv, гареге, diripere</orth>
+      </form>
+      <sense>
+        <def>грабить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Supr., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грабя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грабить, хватать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>граби</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>похищать, похитить , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>grabit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грабити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, сгребать граблями, черпать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gr</ref>&amp;biti</orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, сгребать граблями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 242)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hrabiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грабить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grabic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать граблями, собирать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grabHc</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grabjic</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грабити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грабить, расхищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 30; Ефр. Крм. Халк. 22; Вопр. Кир. и мн. др., Срезневский I, 574; III, 78')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гра</ref>­ бить</orth>
+      </form>
+      <sense>
+        <def>применяя насилие, отнимать, забирать чужое имущество, (простор.) грести, сгребать граблями</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грабить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать , грести граблями , сгребать* , грести (сено) , хватать, брать руками, сгребать граблями , сюда же гарабить забирать к себе; хватать руками , грабиться стараться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., Опыт 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ТМДК. Тихвин, у. Новгор. г у б . — Р Ф В LXII, 1909, 294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской обл. 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Филин 6, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских донских говоров 1, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>грабити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>описывать (имущество)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1447, гг. и др., Словник ст.-укр. мови XIV—XV ст. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грабщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грабить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грабщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, каузатив, соотносительный с <ref type="etymon" target="grebti">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ближе всего др.-инд. grahdyati 'заставлять схватить', см. Mayrhofer I, 353. Праслав. *grabiti вместе с последним продолжает и.-е. *ghrdbh- ei-. Семантика *grabiti 'хватать с помощью чего-либо' (см. выше) предполагает исходное название орудия с основой *grab- (и.-е. ghrobh-).</note>
+</Entry>

@@ -1,0 +1,186 @@
+<Entry xml:id="bucati">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bucati</orth>
+    <lemma>bucati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушительно шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бучж 'шуметь, издавать шум')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бучъ</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ковачев. Троян. Б Д IV, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bucati</ref> Tremere, strepere</orth>
+      </form>
+      <sense>
+        <def>, бучати глухо шуметь , бучати: и сад ми бучи глава од Jy4epatber пипа в голове ш у м и т . . . , бушевать, saevire, напр. бучи море</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., R J A I, 704)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA II, 329—330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бучат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>слышать шум (напр. в ушах и т. д.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bucati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать, бушевать, шуметь, реветь, мычать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>buceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать, реветь (Ст.-чеш., Прага: нет)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bucet</ref> se : krava se bucela = b y l a u byka , bucec</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Konif. Slov. morav. 284)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(о корове, Kellner. Vychodolas. I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bucat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bucec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, мычать, плакать, реветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bycas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хныкать, плакать, пищать (о детях), звенеть в ушах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Chojn., Hptm. L., Muka St. I, 99: «вместо *bucas»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>Vauce</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>лает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski — Sehnert 44, с реконструкцией *Ь'исе)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>buczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, громко пла­ кать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 701)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бучатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>о коровах: реветь, громко плакать , бучатъ издавать глухой звук, гул; гудеть (курск.), реветь, мычать (о корове) (курск.), жужжать, гудеть (о пчелах) (курск., моек.), громко плакать, реветь, визжать беспрестанно (о детях) (курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 328)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, 
+производный 
+от 
+звукоподражательной 
+основы, 
+ср. 
+<ref type="etymon" target="bukati">*bukati</ref> 
+(см.), 
+далее 
+ср. 
+лит. 
+baukti 
+'реветь', 
+лтш. 
+bucet 
+'звучать', 
+др.-инд. 
+bukkati 
+'лает'.</gram>
+  </gramGrp>
+  <note>См. С. Pauli KZ XVIII, 1869, 18; Berneker I, 98—99; J. Otre,bski L P I, 1949, 125; Shevelov. A Prehistory of Slavic 321; Фасмер I, 256.</note>
+</Entry>

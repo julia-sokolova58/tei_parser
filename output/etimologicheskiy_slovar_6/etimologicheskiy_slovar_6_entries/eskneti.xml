@@ -1,0 +1,160 @@
+<Entry xml:id="eskneti">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsknĕti</orth>
+    <lemma>ĕsknĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яснее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яснеть , яснея , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: шнЪ\%)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йёсна</ref> са (Тетевен, Архив Болг. диал. словаря, Со­ фия)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacnee</ref> {се)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdsneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яснеть, стано­ виться ясным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jasneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яснеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasnief</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jasnjec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jasnes</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проясняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 534)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jauniec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сиять, блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jasnauc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться ясным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яснеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться яснее, ясным</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>яснеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сверкать, блестеть (Картотека Псковского област­ ного словаря)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яснгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светлеть, делаться светлее, быть светлым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яснёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яснеть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="esknb-2">*esknb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

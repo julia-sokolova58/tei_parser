@@ -1,0 +1,86 @@
+<Entry xml:id="cenitiII">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceniti II</orth>
+    <lemma>ceniti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceniti</ref> (zuby)</orth>
+      </form>
+      <sense>
+        <def>скалить (зубы)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>canit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать , canit то же , canit болтать , возм., сюда и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bu- cov. 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 107; Kopecny. Urc. 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ценить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бранить, ругать , если это не *ceniti I (см.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., са- рат., Опыт 253)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> 
+от основы <ref type="etymon" target="syop-">*сёп-</ref> 
+из <ref type="etymon" target="koi-n-">*koi-n-</ref> 
+см. <ref type="etymon" target="syop">*сёпъ</ref>; 
+родственно 
+синонимичному 
+<ref type="etymon" target="ceriti">*ceriti</ref> 
+II (см.), производному от той же основы 
+с вариантным 
+суфф. -г-.</gram>
+  </gramGrp>
+  <note>В конечном счете сюда же и<xr type="compare">см. <ref type="etymon" target="cediti">*cediti</ref>
+    </xr> &lt; *skoi-d~. 
+Семант. 
+развитие: 
+'раскрывать 
+рот, 
+щериться, 
+скалиться, показывать 
+зубы' ]&gt; 'болтать, 
+бранить, 
+ругать'. 
+См. 
+(очень неопределенно) Berneker 
+I, 126; 
+Фасмер IV, 298 (s. v. 
+цен); Machek
+2 83 (детали объяснения явно сомнительны). Сомни­
+тельно см. К. 
+Strekelj AfslPh XXVIII, 1906, 511 (из нем. диал. 
+(бав.) zenneny 
+zannen 
+'зиять'). 
+*сёпъ, 
+мн.</note>
+</Entry>

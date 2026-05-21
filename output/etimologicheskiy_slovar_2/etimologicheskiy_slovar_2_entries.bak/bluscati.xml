@@ -1,0 +1,44 @@
+<Entry xml:id="bluscati">
+  <pb n="137" end_page="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'uscati</orth>
+    <lemma>bl'uscati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блуштати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>испытывать отвращение, тошноту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА 1, 665)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бл</ref>&gt;уштет</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bluszczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлестать,, бить (струей), течь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 169)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, экспрессивный гл., образованный не без влияния формы парных<ref type="etymon" target="giai">*ЬГъиаИ</ref> / <ref type="etymon" target="pVbuati">*pVbuati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

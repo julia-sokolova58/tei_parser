@@ -1,0 +1,52 @@
+<Entry xml:id="gricbI">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gricb I</orth>
+    <lemma>gricb I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйч</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>утес, каменистый, скалистый обрыв, круча , холмик, бугор с кустом или деревом , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 636)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>grlc</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(GTer. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grid</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>холм, каменистое место, каменистый склон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Вполне возможно, что здесь представлено производное с суф.<m type="suffix">
+        <ref>-icb</ref>
+      </m> от той же ступени корня, что и в <ref type="etymon" target="griva">*griva</ref> 
+(см.); сюда же, да­
+лее, мы относим <ref type="etymon" target="gora">*gora</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Прочие этимологии остаются пока маловероятными. См. Berneker I, 352 (сближает с греч. cppic, sppl- хоč 'шероховатость', 'дрожь', 'ощетинивание волос'); V. Machek LP 7, 1958, 305; Skok. Etim. rjecn. I, 616 (думает о дослав, субстрате, но не может указать сколько-нибудь подходящего ис­ точника); Bezlaj. Etim. slovar sloven, jez. I, 176—177.</note>
+</Entry>

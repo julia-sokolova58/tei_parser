@@ -1,0 +1,57 @@
+<Entry xml:id="gatka">
+  <pb n="109" end_page="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatъka</orth>
+    <lemma>gatъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гатка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>загадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гатка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, сказка, небылица, загадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдтка</ref>, гйтка ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, небылица, вздор, загадка, прибаутка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гатъка</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гатъками бесЪдовати — говорить гадательно, наугад. Ио. Леств. XII в., Срезневский I, 511)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от гл. <ref type="etymon" target="gatati">*gatati</ref> (см.).
+#gat<ref type="etymon" target="bva">*bva</ref> 
+ПО</gram>
+  </gramGrp>
+</Entry>

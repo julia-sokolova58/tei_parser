@@ -1,0 +1,52 @@
+<Entry xml:id="dnisce">
+  <pb n="212" end_page="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnišče</orth>
+    <lemma>dьnišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>данйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>однодневный привал, место, где проводят один день</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дънище</ref>, днище .</orth>
+      </form>
+      <sense>
+        <def>день пути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1159 г., Ип. л. под 1148 г., Срезнев- . ский I, 768—769)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>днище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>день пути или ден­ ное расстояние . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сиб., Даль 3 I, 1094)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>деновиште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>однодневный привал</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф.-Ше от<xr type="compare">см. <ref type="etymon" target="1p">*1ъпъ</ref>
+    </xr>....</note>
+</Entry>

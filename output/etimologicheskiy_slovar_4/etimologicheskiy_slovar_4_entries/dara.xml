@@ -1,0 +1,37 @@
+<Entry xml:id="dara">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dara</orth>
+    <lemma>dara</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддрд</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>милость (Супр., Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дара</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Слабо представленное и вместе с тем достаточно раннее, морфо­ логически весьма любопытное образование: будучи слав, формой сущ-ного ж. р., праслав. диал.<ref type="etymon" target="dara">*dara</ref> явно продолжает и.-е. <ref type="etymon" target="ddra">*ddra</ref>, 
+форму мн. ч. от <ref type="etymon" target="ddrom">*ddrom</ref> ср. р. (ср. греч. Saipov—Sspa), аналогично 
+ряду других случаев происхождения слав. ж. р. на -а от и.-е. 
+плюралей на -а ср. р.: слав. <ref type="etymon" target="spina">*spina</ref> — лат. spinum, слав. 
+<ref type="etymon" target="sera">*sera</ref>— 
+лат. serum.</gram>
+  </gramGrp>
+  <note>См. О. Н. Трубачев «Этимология. 1968» (М., 1971), 58, где продолжаются идеи Шмидта (J. Schmidt. Die Pluralbil- dungen der indogermanischen Neutra. Weimar, 1889).</note>
+</Entry>

@@ -1,0 +1,47 @@
+<Entry xml:id="dobravdobrava">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobravъ/*dobrava</orth>
+    <lemma>dobravъ/*dobrava</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dobrava</orth>
+    <lemma>dobrava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ддбрава</ref> ж. р., личное имя собств., также название реки в Сербии , Добрав м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 389)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>Dobrava</ref> ж. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Cas. mus. VI, 62, Jungmann I, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>добрава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лихорадка, лихоманка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., симб., Филин 8, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ас- от<ref type="etymon" target="dobrb-2">*dobrb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

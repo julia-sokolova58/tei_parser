@@ -1,0 +1,87 @@
+<Entry xml:id="bulavb">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bulavb</orth>
+    <lemma>bulavb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bulava</orth>
+    <lemma>bulava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>булав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>выпученный (о глазах), пучеглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 278—279)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>buVavy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый, полный, надутый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>butawa</ref> (с X V в.)</orth>
+      </form>
+      <sense>
+        <def>дубинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Stawski I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>булава</ref> (нач. X V I I в., Карто­ тека ДРС)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>булава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жезл с шаровидным набалдашни­ ком, служивший знаком власти</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>булава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шпилька с наконечником, булавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 3, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>булава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>булава, знак гетманского достоинства, палка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первоначально прилаг. (ср. живые свидетельства сербохорв. и чеш. языков, обычно оставляемые этимологами без внимания), производное с суфф. -av- от<ref type="etymon" target="bula">*bula</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 100; Фасмер I, 237 ((с подробной литер, по этимологии); так см. еще С. Микуцкий Изв. ОРЯС IV, 1855, 103).</note>
+</Entry>

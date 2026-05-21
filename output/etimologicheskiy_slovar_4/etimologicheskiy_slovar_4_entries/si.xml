@@ -1,0 +1,147 @@
+<Entry xml:id="si">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сиЬъ</orth>
+    <lemma>сиЬъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сиЬа</orth>
+    <lemma>сиЬа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сйЬа</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>cirrus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuba</ref>, ёбЬа ж. р.</orth>
+      </form>
+      <sense>
+        <def>губа (пренебреж.), обрубок, пенек, рант (обуви)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cub</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуб, хохол (у птиц) , 6uba ж. р. копна, в которую складываются снопы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cuba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вер­ хушка, хохол , cub хохол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 224)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cuba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czub</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чуб, хо­ хол, макушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1162—1163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cub</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чуб</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>клок волос, хо­ хол, вихор у мужчин</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чуб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вихор, часть волос впе­ реди, у птицы: хохол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чуб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пе­ редняя часть волос на голове человека, иногда вообще волосы; хохол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чуб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хохол</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Суждения о происхождении слова можно представить в виде альтернативы из двух этимологии. Наиболее вероятно родство с праслав. *skubg,<xr type="compare">см. <ref type="etymon" target="skubti">*skubti</ref>
+    </xr> и далее — с названиями чуба, пучка 
+волос, снопа, связки: гот. skuft 'волосы (на голове)', нем. Schopf 
+'чуб, вихор'. См. Berneker I, 160—161; Фасмер IV, 375. Сбли­
+жали также с гнездом и.-е. *keubpj- 
+'возвышаться сводом, ко­
+нусом', ср., с другой ступенью чередования, 
+ст.-слав. 
+к о у т 
+'куча', лит. kaupas 'куча, холм', др.-в.-нем. houf 'куча', др.-перс. 
+kaufa- 
+'гора' (G. Iljinskij AfslPh XXIX, 1907, 487), что вполне 
+приемлемо формально, но менее удовлетворительно семантически. 
+Более естественно родство знач-й 'чуб, вихор, волосы' и 'драть, 
+рвать, дергать', а не 'возвышаться'.</note>
+</Entry>

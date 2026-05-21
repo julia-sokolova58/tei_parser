@@ -1,0 +1,126 @@
+<Entry xml:id="girdbivbjb">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gi»rdbivb(jb)</orth>
+    <lemma>gi»rdbivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грдан</ref>, грдан, -дна, -дно, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громад­ ный, тяжкий, постыдный, безобразный, уродливый, плохой, худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 595—596; RJA III, 399—400: с X V — X V I в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>грдан</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безобразный (Елез. I), грдан несчастный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vuk. 382)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gfden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>противный, отвратительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hordny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гордый, высокомерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjardny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гордый, надменный, высокомерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gamy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>привередливый, гордый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 807)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гърдьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>твердый, жестокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сбор. XV в., Срезневский I, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горднбй</ref>, гбрд- ный</orth>
+      </form>
+      <sense>
+        <def>гордый, спесивый , горной, горный гордый (смол., вят.), вспыльчивый (брян.) , гордные мн. молодые, приехавшие или пришедшие в гости на другой день после свадьбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 7, 27)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 49—50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(яросл., Опыт 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>горны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заносчивый, хвастливый, хорошенький, красивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(3 народнага слоушка 143)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от прилаг. <ref type="etymon" target="gbrdb-4">*gbrdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

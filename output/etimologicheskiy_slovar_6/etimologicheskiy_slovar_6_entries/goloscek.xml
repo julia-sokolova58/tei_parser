@@ -1,0 +1,72 @@
+<Entry xml:id="goloscek">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gološčekъ</orth>
+    <lemma>gološčekъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>b</orth>
+    <lemma>b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голощёк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гололедица , голощбк м. р. гололедица (курск., орл., тул., калуж.), чистый, тонкий лед без снега (южн., новоросс.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 63; Словарь русских донских говоров 1, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голощЫ</ref>, голощбк, род. п. -щбку, м. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица; лед, обнаженный от снегу , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>голощбк</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А. С. Лы­ сенко. Словарь диалектной лексики северной Житомирщины. — «Славянская лексикография и лексикология» 16—17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>галашчбка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>земля без снега, покрытая льдом, гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(3 народнага слоушка 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, объяснение как сложения голо-щёк 'с голыми щеками', т. е. 'без снега' (так см. Е. Dickenmann. Untersuchungen tiber die Nominalkomposition im Russischen. Leipzig, 1934, 211) представ­ ляется не единственно возможным, ср. новую версию проис­ хождения второго компонента от основы гл.<ref type="etymon" target="scek-">*scek-/</ref>
+      <ref type="etymon" target="scbk-">*scbk-/</ref>
+      <ref type="etymon" target="seik-">*seik-</ref>
+'щипать, выдергивать', отсюда — 'наголо очищенная (поверх­
+ность)', ср. 
+словен. 
+golosek 
+'сплошная 
+вырубка 
+леса', 
+см.</gram>
+  </gramGrp>
+  <note>Ж. Ж. Варбот «Этимология. 1976» (М., 1978), 40.</note>
+</Entry>

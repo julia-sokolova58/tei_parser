@@ -1,0 +1,44 @@
+<Entry xml:id="gorezb">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorezb</orth>
+    <lemma>gorezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гореж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>поджог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гбреж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пожар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Босния и Герц., РСА III, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>го</ref>- рёж м. р.</orth>
+      </form>
+      <sense>
+        <def>пожар (jeTa пострбра здёлана послй горижу.—Кар­ тотека Новгородского ГПИ)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -(е)%ъ от гл.<ref type="etymon" target="goreti">*goreti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Представляет сербохорв .-русск. изоглоссу, тем не менее пропущено в сравнитель­ ных обзорах слав, словообразования Миклошича, Вондрака и Вай- яна. Характер изоглоссы и диал. статус производного элементарно противоречит предположению последнего (Vaillant. Gramm. com­ paree IV, 507) о происхождении слав, -е%ь из роман. -atge&lt;^ лат. -aticum {viaticum, silvaticum), что невероятно также фонети­ чески.</note>
+</Entry>

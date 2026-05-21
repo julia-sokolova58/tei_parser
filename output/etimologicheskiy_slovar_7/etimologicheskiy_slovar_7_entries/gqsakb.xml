@@ -1,0 +1,156 @@
+<Entry xml:id="gqsakb">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsakb</orth>
+    <lemma>gqsakb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъсак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: г&amp;сок, гжеък)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гасак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>селезень (Орханийско, Архив Болг. диал. словаря, София), гъебк м. р. гусак , гусък</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръ- стеник, Плевенско. — БД VI, 166)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гусак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гусак</ref>, род. п. -ака, м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 767—768)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак , также gosjdk м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>husdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак, гусопас, торговец гусями</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>husdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак, торговец гусями , husdk м. р. торговец гусями , husdk м. p. корзина, в кот. гусыня высиживает гусят , fusak м. p. гусак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bu5ov. 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gqsak</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гусенок, вид кровель­ ной черепицы , также gqsiak</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 812)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. G6rnowicz. Dia- lekt malborski II, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гХсакъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А за гйса" и за гу­ сыню присужа т по В. денги. Псков, суд. гр., Срезневский I, 609)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гусак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусь-самец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гусак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ливер , длинный шест у колодца для подъема воды; журавль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 56; Деулинский словарь 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 7, 240, там же другие переносные значения)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гусак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гусак</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от <ref type="etymon" target="ggsb">*ggsb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

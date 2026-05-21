@@ -1,0 +1,57 @@
+<Entry xml:id="bojevbjb">
+  <pb n="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojevbjb</orth>
+    <lemma>bojevbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bojovy</ref>, bojevy, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боевой, военный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bojovy</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боевой</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>имеющий от­ ношение к войне, к войску; военный, имеющий отношение к бою, сражению; предназначенный для боя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>боевый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бьющий, имеющий бой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бойовйй</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>боевой, военный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -ov- от имени<xr type="compare">см. <ref type="etymon" target="o-3">*&amp;о/ъ</ref>
+    </xr>.</note>
+</Entry>

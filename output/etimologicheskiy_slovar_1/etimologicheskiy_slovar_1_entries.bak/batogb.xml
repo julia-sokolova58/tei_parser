@@ -1,0 +1,150 @@
+<Entry xml:id="batogb">
+  <pb n="164" end_page="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>batogb</orth>
+    <lemma>batogb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>батог</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>палка, сушеная рыба , также баток м. р. сушеная рыба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА 1, 333)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(КарациЬ, s. v.; РСА I, 334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>batoh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плетка ( X I V — X V вв., Ст.-чеш., *batoriti Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>batoh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дорожная заплечная котомка, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>batoh</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>batog</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>здо­ ровенная дубина, batogi мн. битье палкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>butug</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бич, плеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>батогъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бич, flagellum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>батог</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>палка, т р о с т ь , простая из лесного дерева палка , бильная часть цепа, палка, п о с о х</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мель­ ниченко 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бадаг</ref>, бадег, бадбк, род. п. -ока, м. р.</orth>
+      </form>
+      <sense>
+        <def>палка, посох, трость, хворостина; било; бич, плеть, долгий кнут на длин­ ном кнутовище , бадбг, бадок в о о б щ е рычаг, тол­ стая длинная палка , падбг палка, п о с о х , часть ткацкого станка, палка у молотила, короткая палка цепа , ббдбг м. р. п о с о х , палка, бьющая часть цепа, било</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>батогъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>б и ч , палка, планка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1688 г., Тимченко I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>б</ref> а т / г , род. п. -ога, м. р.</orth>
+      </form>
+      <sense>
+        <def>кнут, плеть, растение Scorzonera rosea, у с ы у огурцов, дынь, растение Chondrilla juncea L . , сюда же, возм., преобразованное патйк м. р. палка, кол , а также батюга ж. р. большой кнут, плеть и батура ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ogъ</ref>
+      </m> 
+от основы гл. <ref type="etymon" target="batati">*batati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Х о т я группа образований на -ogъ в славянском весьма своеобразна, включает ряд темных, а также заимствованных слов, далее — содержит также отыменные производные и прочие специфические случаи, относительно *batogъ едва ли имеет смысл питать сомне- нения в его чисто слав, характере и отглагольности (см. выше), невзирая на известное количество затемненных вариантов (см. обзор). Относить *batogъ к «воинской» лексике ир. происхож­ дения (см. Moszynski. Pierwotny zasič\g 130—131) мы не можем хотя бы ввиду явной принадлежности нашего слова к аграрной, хозяйственной, бытовой (а не кавалерийской или военной) лек­ сике. Относительно особого знач. чеш. слова см. Machek 27. Ср. еще словен. batjdga ж. р. 'дубинка, колотушка' (J. Kele- mina C j K Z III, 1921—1922, 35), с отличием в огласовке суффикса. Далее см. Berneker I, 46; Фасмер I, 134. На заимствовании (из финно-угорского через тюркско-булгарский) настаивает Добро- домов «Этимология. 1967» (М., 1969) 253—270.</note>
+</Entry>

@@ -1,0 +1,59 @@
+<Entry xml:id="gulb">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gulb</orth>
+    <lemma>gulb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гул</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отдаленный шум большой мощности, мно­ гоголосый, сливающийся шум</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гул</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, плач* (псков., новг., том.), эхо (костр., псков., Латв. ССР), собачий лай (псков.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гул</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отдаленный или продолжительный шум, гул</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словн. укр. мови И, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гулы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>эхо, отзвуки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Объясняется как производное с суф.<m type="suffix">
+        <ref>-1ъ</ref>
+      </m> от к. <ref type="etymon" target="gu--2">*gu-</ref>, ср. <ref type="etymon" target="go--2">*go-</ref>
+иогъ, 
+<ref type="etymon" target="govoriti">*govoriti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, (там же замечание о сканд. соответствиях, о которых см. Berneker I, 361).</note>
+</Entry>

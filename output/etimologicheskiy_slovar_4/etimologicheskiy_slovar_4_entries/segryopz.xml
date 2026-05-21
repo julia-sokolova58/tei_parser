@@ -1,0 +1,32 @@
+<Entry xml:id="segryopz">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегрёпъзь</orth>
+    <lemma>сегрёпъзь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черепяной</ref>, -ая, -бе, черепяный</orth>
+      </form>
+      <sense>
+        <def>глиняный, гон­ чарный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>череп</ref>* яний, -а, -е,</orth>
+      </form>
+      <sense>
+        <def>о гончарных изделиях: глиня­ ный, черепичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг,, производное с суфф. -ёп- от<ref type="etymon" target="segr">*сегръ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

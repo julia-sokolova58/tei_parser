@@ -1,0 +1,127 @@
+<Entry xml:id="ecmyk">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьmykъ</orth>
+    <lemma>ęčьmykъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ечемйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень Hordeum sativum, также (диал.) ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: ячмык; Дювернуа: ячемик, ичимйк)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ечемйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пасхальный хлеб , ечимйк, ичимйк м. р. ячмень , ичимйк м. р. ячмень Hordeum sativum, ячмень (на глазу) , ичмшС м. р. , (и)чумйк м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Ро- допски речник. — БД V, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 64, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 205)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jecmik</ref>, jecmik м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень (на глазу) , ]ечмйк м. р. ячмень Hordeum, ячмень (на глазу) , jacmik м. р. ячмень , сюда же производные )ечмйчак, род. п. -чка, jdcmacina ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJА IV, 507)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 756)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Истрия, RJA IV, 392)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jecmyk</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(в антропонимии, Gebauer I, 610)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jecmyk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 607)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jacmyk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячмень (на глазу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jpczmyk</ref> м. р. (стар.)</orth>
+      </form>
+      <sense>
+        <def>ячмень, воспаление века</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jeczmyk</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шьмыкъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячмень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др., Срезневский III, 1676)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Стар, производное (расширение) с суфф. -къ от<xr type="compare">см. <ref type="etymon" target="stu-4">*$съту</ref>
+    </xr>....</note>
+</Entry>

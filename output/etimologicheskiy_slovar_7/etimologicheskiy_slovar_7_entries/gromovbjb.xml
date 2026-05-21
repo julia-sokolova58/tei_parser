@@ -1,0 +1,129 @@
+<Entry xml:id="gromovbjb">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gromovb(jb)</orth>
+    <lemma>gromovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>громоья</ref>, прилаг. ppovrf^, tonitrus</orth>
+      </form>
+      <sense>
+        <def>громо­ вой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zogr., Маг., Mikh, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>громов</ref>, громов, -а, -о</orth>
+      </form>
+      <sense>
+        <def>громовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 674)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gromov</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hromovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громовой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hromovy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gromowy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 912)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>громовъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сна громова (ПОМАНИ). Гр. Наз. XI в. 369, Срезневский I, 597)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>громовой</ref>, -ая, -ое, также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>громовой</ref>, громовый</orth>
+      </form>
+      <sense>
+        <def>сопровождаемый громом (о дожде) (новосиб.), громовый день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>громовйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>громовой, относящийся к грому</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грамавы</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>громовой.—Ср. сюда же производ­ ные</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>громовен</ref>, громовит, прилаг. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="gromb-3">*gromb</ref> 
+I (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,58 @@
+<Entry xml:id="bbrcadIo">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrcadIo</orth>
+    <lemma>bbrcadIo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брчало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>колотушка, погремушка, дудка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>брчало</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть гайды, музыкального инструмента</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Поповски. Зборови од Мариово. — MJ I, 1950, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brcadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>волчок, юла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бурчало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>насек, муха жужжалка Musca vomitoria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Пч., см. Грин­ ченко I, 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. ~{a)dlo от гл.<ref type="etymon" target="gsay">*Ъъгсай</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

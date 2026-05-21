@@ -1,0 +1,48 @@
+<Entry xml:id="grobb">
+  <pb n="132" end_page="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobb</orth>
+    <lemma>grobb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гроьъ</ref> м. р. тасрос, p.vir)[j.elov, sepulcrum</orth>
+      </form>
+      <sense>
+        <def>могила, склеп, гробница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Cloz., Supr., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гроб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>могила, гробница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гроп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гроб , могила, гроб (И. К. Бунина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 53)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Словарь говора ольшанских болгар. — Статьи и материалы по болг. диалектологии СССР 5, 1954, 17), макед. гроб м. р. 'мо­ гила' (И-С), сербохорв. гроб м. р. 'могила' (РСА III, 655), сло­ вен. grbb м. р. 'могила', 'яма для картофеля' (Plet. I, 254—255), чеш. hrob м. р. 'могила', елвц. hrob м. р. то же (SSJ I, 528), н.-луж. grob 'ров' (Muka St. I, 325), польск. grob, род. п. grobu, м. р. 'могила' (Dorosz. II, 1318—1319), словин. groub м. р. 'мо­ гила' (Lorentz. Slovinz. Wb. I, 302), др.-русск., русск.-цслав. гробъ 'яма' (Прол. И. Публ. б.), 'могила, гроб, гробница' (Ио. XII. 17. Остр, ев.; Мф. XXIII. 29. т. ж.; Изб. 1073 г. и др., Срезневский I, 594), русск. гроб м. р. 'ящик, в который кладут умершего для погребения', 'могила; место погребения', ст.-укр. гроб м. р. 'гробница, могила' (1446, 1479, 1490 гг., Словник ст.-укр. мови X I V — X V ст. I, 265), укр. гргб, род. п. гробу, м. р. 'могила' (Гринченко I, 327), блр. диал. гроб м. р. 'гроб' (Бялькев1ч. Магш. 139).</note>
+  <gramGrp>
+    <gram>Именное производное с вокализмом -о- от гл.<ref type="etymon" target="grebti-10">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Этого указания аблаута (в такой четкой форме, кстати, отсутствующего в герм.) достаточно, чтобы отвергнуть как неосновательную пов­ торяемую до недавнего времени мысль о заимствовании слав. grobb из герм, (др.-в.-нем. grab, гот. graba), см. например Vail- •grobbnica lant. Gramm. comparee IV, 38. См., далее, Berneker I, 353; Фасмер I, 459; Machek 2 181—182 (s. v. hrabati).</note>
+</Entry>

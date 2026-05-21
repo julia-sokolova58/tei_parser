@@ -1,0 +1,83 @@
+<Entry xml:id="bezptbnbib">
+  <pb n="40" end_page="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezp&lt;)tbnb(ib)</orth>
+    <lemma>bezp&lt;)tbnb(ib)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>весп</ref>^чАнъ TYJC dvoStas, invius</orth>
+      </form>
+      <sense>
+        <def>бездорожный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>беспатеп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездорожный, непроезжий, не­ проходимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>besputan</ref>, besputna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>in­ vius, бездорожный , bresputan то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., Микаля, Белла, Стулли, Вук; RJA I, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezpoten</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бездорожный, непроходимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беспутный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>в ком или в чем нет пути, толку, проку, пользы, беспутная зима теплая, сиротская, когда зимний путь не уста- наливается</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возможно префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-78">*bez</ref> (см.) и суфф. -ьтг- от основы <ref type="etymon" target="pgtb-5">*pgtb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Впрочем, не исклю- чено произведение с суфф. -ъп- от основы прилаг-ного *Ьегро1-л учитывая вероятную древность последнего (<xr type="compare">см. <ref type="etymon" target="bezpgta">*bezpgta</ref>
+    </xr>, 
+*bezpgfo 
+и приводимые там др.-русск. и сербохорв. примеры). Семантико-
+словообразовательный параллелизм слав, форм и греч. dvoSioc, 
+invius еще не дает оснований для того, чтобы видеть, напр., в ст.-
+слав. 
+кальку, как это делает Шуман, не задумываясь 
+над тем, что речь идет о совершенно конкретном топографическом 
+термине (К. Schumann. Die griech. Lehnbildungen und Lehn-
+bedeutungen im Altbulgarischen 14, 23).</note>
+</Entry>

@@ -1,0 +1,88 @@
+<Entry xml:id="bergovitbjb">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bergovitbjb</orth>
+    <lemma>bergovitbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бреговйт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>холмистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров: брЪговитый, прилаг., 'утесистый, обрывистый, стремнистый')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бреговйт</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>холмистый, гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bregovit</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>clivosus , холмистый, возвышенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I в., R J A I, 623)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bregovit</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>ktistenreich, гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfehovity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>имеющий берега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>brehovity</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>холмистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ov-it- от<ref type="etymon" target="berg-3">*bergъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

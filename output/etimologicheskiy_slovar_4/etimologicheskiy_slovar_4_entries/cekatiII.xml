@@ -1,0 +1,25 @@
+<Entry xml:id="cekatiII">
+  <pb n="36" end_page="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cekati II</orth>
+    <lemma>cekati II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чекам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тыкать, колоть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(R. Bernard. Quelques mots du dialecte de Balgari. Notules II. — RES XXXVI, 1959, 67—68)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ономатопоэтическое образование, в конечном счете тождествен­ ное этимологически<ref type="etymon" target="cekati-2">*cekati</ref> I.</gram>
+  </gramGrp>
+  <note>Ср. аналогичные отношения между *cakati I и *cakati II (см.).</note>
+</Entry>

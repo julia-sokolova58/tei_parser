@@ -1,0 +1,124 @@
+<Entry xml:id="dlgost">
+  <pb n="207" end_page="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlgostь</orth>
+    <lemma>dьlgostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. (<ref>др.-болг</ref>.) ДЛЪГО^ТА (И. Екз. Шест. И cd.— Материалы Староболг. словаря, София)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дугост</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 796; RJA И, 867: XVII—XVIII вв.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolgdst</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dlouhost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlhosf</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина, долгота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolhosd</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>dtugosd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dtugoec</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина, продолжитель­ ность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 145—146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дългость</ref>, длъгость</orth>
+      </form>
+      <sense>
+        <def>продолжительность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. Крм. Ник. 4, Срезневский I, 756)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дблгость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долгота, как свойство, продолжитель­ ность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дбвгмтъ</ref>, род. п. -остиу ж. р.</orth>
+      </form>
+      <sense>
+        <def>дол­ гота, длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 401)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="dblgb">*dblgb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Равным об­ разом допустимо говорить о соотносительности *dblgostb и *dblgb на слав, почве, поскольку, как уже давно указывалось в литера­ туре, праслав. *dblgostb имеет аналогию в хетт, dalugasti- ср. р. 'длина', тоже производное с суфф. -asti от прилаг. dalugaes им. мн. 'длинные', тождественного праслав. *dblgb. Ср. Pokorny I, 197. Сближение *dblgostb = dalugasti- восходит к Б. Грозному. См. ещё E. H. Sturtevant «Language» 3, 1927, 121; G. Watkins IJSLP IV, 1961, 9.</note>
+</Entry>

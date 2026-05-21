@@ -1,0 +1,33 @@
+<Entry xml:id="certa">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>certa</orth>
+    <lemma>certa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>creta</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>болотистое место, поросшее камышом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>ereta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>общинный выгон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(LjZv. XI, 1891, 298)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма ж. р. соотносительная с формой м. р.<xr type="compare">см. <ref type="etymon" target="sen">*сеНъ</ref>
+    </xr>.</note>
+</Entry>

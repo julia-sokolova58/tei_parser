@@ -1,0 +1,78 @@
+<Entry xml:id="bolboliti">
+  <pb n="170" end_page="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolboliti</orth>
+    <lemma>bolboliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blaboliti</ref> (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blaboliti</ref>, bldboliti</orth>
+      </form>
+      <sense>
+        <def>бредить, говорить бессвязно, нести вздор, болтать, редк. Ыа- boniti, bldboniti то же, сюда же zblaboniti то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V, 784)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bldbolif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессвязно говорить (особенно в горячке, агонии), болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>балаболить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить пустяки или о пустяках, болтать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>балаболить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шататься без дела по домам (моек., верейск.), говорить пустяки (моек., верейск., новг., тихв.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>балаббнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звонить, бренчать (напр. бубенчиками, погремушкой)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 23)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивная редупликация звукоподражательного корня *bol-, ср. прежде всего др.-инд. balbala-karoti 'заикается'. См. Berneker I, 69; Фасмер I, 111—112.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотноситель­
+ный с экспрессивным именем <ref type="etymon" target="o1o1">*Ьо1Ьо1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

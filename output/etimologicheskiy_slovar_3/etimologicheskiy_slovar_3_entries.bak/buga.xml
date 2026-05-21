@@ -1,0 +1,41 @@
+<Entry xml:id="buga">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buga</orth>
+    <lemma>buga</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>буга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сырое, топкое место (Банско, Архив Болг. диал. словаря, София; Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плесень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>буга</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>затопляемый весенним раз­ ливом береговой лес и кустарник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 11)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лтп1. bauga 'топкое место у реки; крутая дорога', 'плохая почва', см. Мюленбах—Экдзелин у Фасмера (I, 227). Далее — к и.-е. *bheug(h)- 'изгибать'. См. Георгиев Б Е Р II, 86. с реконструкцией первоначального знач. 'изгиб реки (где в по­ ловодье разливается вода)'. См. еще М. Rudnicki SO 6, 1927, 314; Т. Lehr-Sptawiiiski RS 21, 8. Менее вероятно родство с лит. banga 'волна', лтш. buoga 'каменистое место в поле, поросшее кустарником', др.-инд. bhangd- 'излом, волна', bhandktl 'ломает' (W. v. d. Osten-Sacken IF X X I I , 1907, 3 1 2 - 3 1 3 ) , против этой этимологии см. Фасмер, там же. Заметная болг.-русск.-балт. лексическая изоглосса.</note>
+</Entry>

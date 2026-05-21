@@ -1,0 +1,37 @@
+<Entry xml:id="gajitiII">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajiti II</orth>
+    <lemma>gajiti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hdjit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жалобно пищать (о птицах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Barto§. Slov. 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гаить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, шуметь (тамб., курск., новг., перм., ворон., сарат.), перекликаться, аукаться (тамб., курск., новг., перм.), гаить плакать , гаить пла­ кать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 94)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *gajati II (см.).</note>
+</Entry>

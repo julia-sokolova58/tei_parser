@@ -1,0 +1,148 @@
+<Entry xml:id="govbnikb">
+  <pb n="12" end_page="13" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>go!vbnikb</orth>
+    <lemma>go!vbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>главнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хозяин дома, главарь, предводитель, ступица, fдонный обруч бочки , главник жених (Ге- ров — Панчев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>главенйк</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 76; Т. Бояджиев. Дедеагачко.—БД V, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глав</ref>­ ник м. р.</orth>
+      </form>
+      <sense>
+        <def>хозяин дома, глава семьи, верховод, заводила, не­ доуздок, нижний обруч (кадки)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>главнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глава семьи, хозяин, краеугольный камень, недоуздок, куча земли, затычка бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glavniku</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>гре­ бень для волос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 215; Slovar sloven, jezika I, 694)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlavnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гребешок для волос , бондарный струг\</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 429)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>glownik</ref>, glownik м. р.</orth>
+      </form>
+      <sense>
+        <def>тяжкий преступник, убийца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 850; Dorosz. II, 1177, 1180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gluevuik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>убийца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>головъникъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>убийца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Прав. Яросл.—по Син. сп.; Псков, суд. гр., Срез­ невский I, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>головнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>уголовный преступ­ ник, убийца &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 34; Филин. 6, 309: пск.,арх.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>головнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рыба язь, убийца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>головнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>убийца, преступник, разбойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвського д1алекту 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> от прилаг. <ref type="etymon" target="golvn">*golvъnъ</ref> 
+(см.); субстанти­
+вация последнего.</gram>
+  </gramGrp>
+  <note>Семантич. обособленность пестрых ю.-слав. и довольно однородных зап. и вост.-слав. ('убийца, преступник') значений бросается в глаза и говорит о возможности независимого, параллельного образования. golvbnb(jb): ст.-слав. T A A K A N Z , - М И , прилаг. gravis, capitalis 'важный, П ™ Р В Н Ы Й ' (Mikl., Sad., SJS), болг. главен, прилаг. 'главный' ( Ы Р ) , макед. главен 'главный, основной' (И-С), сербохорв. гла- ван, -вна, -вно 'главный', 'красивый', главно, нареч. (Срем.): има главно свшьа, говеда, оваца много.. ., словен. gldven, -una, при- g o l b ( j b ) лаг. 'головной', 'главный' (Plet. I, 214), чеш. hlavni, прилаг. 'главный, важнейший', (ср. уже ст.-чеш. hlavni, Brandl 62), диал. hlavni 'лучший' (Konif. Slov. morav. 288), hlavni 'главный', 'красивый, лучший' (Gregor. Slov. slavk.-bucov. 60), hlauni 'хо­ роший, отличный' (Kubin. Cecil, klad. 178), ст.-слвц. hlavni^ hlavny : hlavnijy skutek 'взятие на месте преступления' (Zilinsk. kn. 174), слвц. hlavny, прилаг. 'главный' (SSJ I, 481), в.-луж. hlowny 'головной', 'главный, основной' (Pfuhl 204), н.-луж. glowny 'го­ ловной', 'главный' (Muka St. I, 264), полаб. gldvne, прилаг. 'главный' (Polanski — Sehnert 64, с реконструкцией *golvbnbjb), польск. glowny 'главный' (Dorosz. И, 1180), стар, glowny 'голов­ ной' (Warsz. I, 848), др.-русск. головъныи: головъные князи (Ярл. Берд. 1357 г.), головные люди (Запис о Ржевск. дан. п. 1479 г.), головъные тати (Судебн. 1550 г. 61 гл.) (Срезневский I, 544), русск. головной, -ая, -бе 'относящийся к голове', 'передовой', диал. головной 'главный, самый лучший, отборный' (Подвысоц- кий 32), головной, голбвный 'главный' (арх.), 'самый лучший' {арх., енис.) (Филин 6, 311), ст.-укр. головное ср. р. 'штраф за убийство' (XV* в., Словник ст.-укр. мови X I V — X V ст. 1, 249), укр. головнйй, -а, -ё 'головной', 'главный', 'опасный, угрожаю­ щий смертью' (Гринченко I, 302—303), блр. голбвный, прилаг. 'важный' (Носов. 117), галауны 'головной'. Прилаг., производное с суф. -ъпъ от<xr type="compare">см. <ref type="etymon" target="golva-5">*golva</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,148 @@
+<Entry xml:id="dvadvenadesete">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)va/*d(ъ)vĕ na desęte</orth>
+    <lemma>d(ъ)va/*d(ъ)vĕ na desęte</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>d(b)ve na des§te</orth>
+    <lemma>d(b)ve na des§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дванадесет</ref>, дванайсет, числ. fдве­ надцать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дванаесе</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дванаесет</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дванаест</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dva</ref>- ndjst</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvandct</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvandsV</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 348)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dwanace</ref>, -co</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dwanasdo</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dvenacte</ref>, dveniicti, dvenadist Двенадцать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwanaucie</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvanauscd</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дванаде</ref>- сАтъ, двЫадесАть , двенадцать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Лук. VIII. 42. Остр, ев.; Нест. Жит. Феод. 3; Поел. м. Фот. 1410 г., Срезневский I, 637)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двенадцать</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дванадцять</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дванаццацъ</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="a-6">*a</ref>\b)va 
+(см.), 
+предл. 
+<ref type="etymon" target="pa">*па</ref> (см.) и местн. п. ед. ч. 
+от <ref type="etymon" target="des-2">*des</ref>$tb (см.).
+<ref type="etymon" target="dbve">*d(b)ve</ref> sbte</gram>
+  </gramGrp>
+</Entry>

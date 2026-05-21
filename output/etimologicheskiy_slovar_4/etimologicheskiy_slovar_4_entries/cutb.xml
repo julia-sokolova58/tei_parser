@@ -1,0 +1,35 @@
+<Entry xml:id="cutb">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cutb</orth>
+    <lemma>cutb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cut</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чувство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чуть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голос, гул, звук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., костр., Даль 3 IV, 1381)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ-ное с основой на -г-, исторически тождественное инф.<ref type="etymon" target="cuti">*cuti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

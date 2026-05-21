@@ -1,0 +1,69 @@
+<Entry xml:id="brezgbi">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezgb И</orth>
+    <lemma>brezgb И</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Б</ref>^ЗГЪ</orth>
+      </form>
+      <sense>
+        <def>diluculum-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfezk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>diluculum , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zaltaf Podebradsky, 1396 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бр-Ъзгъ</ref>, брезгъ</orth>
+      </form>
+      <sense>
+        <def>рассвет, diluculum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Страт. XVI в., Срезневский I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. (<ref>простор</ref>, и обл.) брезг м. р.</orth>
+      </form>
+      <sense>
+        <def>наступ­ ление рассвета, брезг м. р. рассвет утра , рас­ свет . — Не совсем ясно, относится ли сюда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(симб., Опыт 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брязбк</ref> в выражении: на брязку</orth>
+      </form>
+      <sense>
+        <def>вот-вот, сейчас</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма, дублетная по отношению к *Ъгёзкъ (см. там же под­ робнее об этимологии). См. еще из литер.: J. Schmidt KZ X X V , 1881, 129; A. Walde KZ X X X I V , 1897, 515; Фасмер I, 211; Ма- chek 2 72.</note>
+</Entry>

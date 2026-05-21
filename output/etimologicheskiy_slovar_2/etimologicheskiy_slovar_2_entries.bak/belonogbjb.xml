@@ -1,0 +1,124 @@
+<Entry xml:id="belonogbjb">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belonogb(jb)</orth>
+    <lemma>belonogb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белоног</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоногий , белоног, белонога растение Saponaria officinalis (Георгиев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бело</ref>­ ног, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белоног</ref>, б)елоног, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belonog</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belonohy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielonohy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belonohi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialonogi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белоногий</ref> * у кого белая нога, ноги</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быонбгий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>белоногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>беланбгХ</ref>, беланог, сюда же фам. Беланбгг, Беланбг</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. (<ref>XVI</ref>—XVII вв.)</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Белоног, соврем, русск. фам. Белоногое (Б1рыла. Беларуская антрапашм1я 2, 50).</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и основы имени 
+<ref type="etymon" target="noga-3">*noga</ref> (см.).</gram>
+  </gramGrp>
+  <note>О типе см. на *belogolvb. Древность образования вытекает, в частности, из того косвенного обстоятельства, что праслав. *noga 'нога' в нек. ю.-слав. языках (напр. в болг.), почти вытеснено вторичной экспрессивной заменой.</note>
+</Entry>

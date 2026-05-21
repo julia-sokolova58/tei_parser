@@ -1,0 +1,59 @@
+<Entry xml:id="sh-2">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬШь</orth>
+    <lemma>ЬШь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bllza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blize</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. поэт. <ref>ЬШ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ЬШ</ref> м. и ж. р., ЬШа ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость, соседство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ. на<m type="suffix">
+        <ref>-i-основу</ref>
+      </m>, 
+производное от основы прилаг. 
+<ref type="etymon" target="blizbjb">*blizbjb</ref> 
+(см.) или, скорее, — от компаратива <ref type="etymon" target="she-3">*ЬШе</ref>.</gram>
+  </gramGrp>
+</Entry>

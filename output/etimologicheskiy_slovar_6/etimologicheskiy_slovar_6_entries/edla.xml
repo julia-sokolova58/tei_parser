@@ -1,0 +1,141 @@
+<Entry xml:id="edla">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edla</orth>
+    <lemma>edla</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ела</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель Abies excelsa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ела</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель , также ум. елка ж, р. рождественская елка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. )<ref>ёлау</ref> ]ела ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель abies</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jela</ref> ж. р. сель</orth>
+      </form>
+      <sense>
+        <def>, также ум. jelka ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jcdla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jedla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель, елка Abies alba Mill</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 540)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jadla</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Po- Jaiiski—Sehnert 72, с реконструкцией */edZa)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jodta</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>jedta</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jedla</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ель, пихта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 153, 181—182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ёлка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хвойное дерево Pinus abies, ель русская, ев­ ропейская</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ёлка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ель, елка. — Ср. еще производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>елач</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еловый лес, ельник (Сл</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Среднего Урала 152). Соотносительно с *edlb (см.; там же этимология).</note>
+</Entry>

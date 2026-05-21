@@ -1,0 +1,71 @@
+<Entry xml:id="detkodetka">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtъko/*dĕtъka</orth>
+    <lemma>dĕtъko/*dĕtъka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>detbka</orth>
+    <lemma>detbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>detka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>кукла , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pl e t- I» 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dietko</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>дитя, детеныш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ditko</ref> ср. p., ум. к dite</orth>
+      </form>
+      <sense>
+        <def>дитя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dietky</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>детки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>otka ж. р. дитя, младенец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>З&amp;Шкв ср. р. 'ребеночек' (Lorentz Slovinz. W b . I, 231), др.-русск. дЪтъпи, дЪтпи мн. ум. от дИгпА (Жит. Андр. Юр. LXIV; Псков. I л. под 1299 г., Срезневский I, 797), русск. дёпгка ж. р. соб. 'яички, гусенички и личинки пчел, черь, в особых ячейках сотов' (Даль 3 I, 1087), укр. дгтш мн. ч., ум. от дьти 'дети' (Гринченко I, 392).</note>
+  <gramGrp>
+    <gram>Производное с суфф. -ъка/-ъко (ум.) от<ref type="etymon" target="detb-2">*detb</ref> (см. <ref type="etymon" target="dete-3">*dete)</ref>, <ref type="etymon" target="deti">*deti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

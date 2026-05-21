@@ -1,0 +1,49 @@
+<Entry xml:id="sezpou">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сезпоуъ</orth>
+    <lemma>сезпоуъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чеснбв</ref>, прилаг.: чеснов лук</orth>
+      </form>
+      <sense>
+        <def>чеснок*, сербо­ хорв. cesnova trava ж. р. "растение Teucrium scordium L \</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesnou</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чесночный .— Сюда же субстантивированное суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чеснбвка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>головка чесноку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Даль 3 IV, 1325)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ои- от<ref type="etymon" target="cesnb">*cesnb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

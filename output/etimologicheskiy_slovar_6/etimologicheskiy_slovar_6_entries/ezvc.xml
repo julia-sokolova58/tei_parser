@@ -1,0 +1,210 @@
+<Entry xml:id="ezvc">
+  <pb n="58" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕzvьcь</orth>
+    <lemma>ĕzvьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>язовец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>барсук Meles meles (М. taxus) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йазоеец</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>азовец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>барсук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>j</ref>&amp;zvac</orth>
+      </form>
+      <sense>
+        <def>барсук , jazbac м. р. то же , щзавац, род. п. }азавца, м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 503)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. ]<ref>азбавац</ref> , тзмец , ]азбач , ]</orth>
+      </form>
+      <sense>
+        <def>азбак , ]азвак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Косово, Кучи, Djor. 289)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(у Средач^ жупи, Djor. 289)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Алекси- начко Поморавл»е, там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(око Бан&gt;е, Ягодина, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdzvec</ref>, jazbec м. р.</orth>
+      </form>
+      <sense>
+        <def>барсук Meles taxus , jazvica ж. p. барсучиха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezevec</ref>, род. п. -vce, м. p.</orth>
+      </form>
+      <sense>
+        <def>барсук, также jezvec м. p., стар, jezouec</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jazvec</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>барсук Meles meles</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jazwiec</ref>, род. п. -wca, м. p.</orth>
+      </form>
+      <sense>
+        <def>барсук Meles taxus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jazc</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>швъць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>барсук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1241 г., Срезневский III, 1645; А. Никольский. О языке Ипатьевской летописи. — РФВ XLII, 1899, НО)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>язвёц</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>барсук , язвец то же ; сюда же язвица барсук , язвйк м. р. то же , язвук то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., Опыт 273; Куликовский 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Ге­ расимов. Словарь уездного череповецкого говора 98; Он же ЖСт. III, 1893, 388)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 197)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Крестецкий у. Новгородской губ. Труды МДК.—РФВ LXXI, 1914, 333)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от <ref type="etymon" target="ezva">*ezva</ref> в знач. 'нора', т. е. '(зверь,) 
+живущий в норе', см.</gram>
+  </gramGrp>
+  <note>Фасмер IV, 550. Ср. еще Berneker I, 277, с несколько проблематичными морфол. соображениями. Неприем­ лемо сближение Соболевского (РФВ LXXI, 1914, 433) с лит. eze в знач. 'мелководье в заливе у берега'. Едва ли можно считать, что форма *ezvb в знач. 'барсук' в некоторых слав, языках представляет собой не словообразова­ тельный вар. к *ezvbcb и<xr type="compare">см. <ref type="etymon" target="ezva">*ezva</ref>
+    </xr>, а особое образование со 
+своей этимологией, как 
+полагал, напр., 
+Оштир, 
+связывавший 
+слав. *ezvb 'барсук' и лит. obsrus, 
+лтш. apsis, др.-прусск. wobs-
+dus 'барсук' (см. К. OStir «Etnolog» IV, 1930, 6, 10). Можно 
+лишь отметить совершенно различный характер названий барсука 
+в слав, и балт., а особое образование со 
+своей этимологией, как 
+полагал, напр., 
+Оштир, 
+связывавший 
+слав. *ezvb 'барсук' и лит. obsrus, 
+лтш. apsis, др.-прусск. wobs-
+dus 'барсук' (см. К. OStir «Etnolog» IV, 1930, 6, 10). Можно 
+лишь отметить совершенно различный характер названий барсука 
+в слав, и балт., а особое образование со 
+своей этимологией, как 
+полагал, напр., 
+Оштир, 
+связывавший 
+слав. *ezvb 'барсук' и лит. obsrus, 
+лтш. apsis, др.-прусск. wobs-
+dus 'барсук' (см. К. OStir «Etnolog» IV, 1930, 6, 10). Можно 
+лишь отметить совершенно различный характер названий барсука 
+в слав, и балт., а особое образование со 
+своей этимологией, как 
+полагал, напр., 
+Оштир, 
+связывавший 
+слав. *ezvb 'барсук' и лит. obsrus, 
+лтш. apsis, др.-прусск. wobs-
+dus 'барсук' (см. К. OStir «Etnolog» IV, 1930, 6, 10). Можно 
+лишь отметить совершенно различный характер названий барсука 
+в слав, и балт.</note>
+</Entry>

@@ -1,0 +1,26 @@
+<Entry xml:id="bezgrivbnb">
+  <pb n="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgrivbnb</orth>
+    <lemma>bezgrivbnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзгриван</ref>, -вна, -вно</orth>
+      </form>
+      <sense>
+        <def>безгрйвый, без гривы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 397)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ыг- от основы сложного прилаг.<ref type="etymon" target="bezgrivb">*bezgrivb</ref> 
+см.) или префиксально-суффиксальное образование от основы 
+имени <ref type="etymon" target="griva-2">*griva</ref> (см.). Об отношениях <ref type="etymon" target="bezgrivb-2">*bezgrivb</ref>— <ref type="etymon" target="bezgrWbnb">*bezgrWbnb</ref> и под. 
+см. на <ref type="etymon" target="bez-42">*bez</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,56 @@
+<Entry xml:id="egpogp">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегпогьпъ</orth>
+    <lemma>Ьегпогьпъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безножан</ref>, -жна, -жно</orth>
+      </form>
+      <sense>
+        <def>безногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA, I, 271, РСА I, 413)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>breznozen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beznozny</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>beznozny</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от сложной адъективной основы<ref type="etymon" target="beznogb">*beznogb</ref> 
+(см.), т. е. словообразовательно вторичное; 
+или префиксально-суффиксальное образование от <ref type="etymon" target="noga-2">*noga</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

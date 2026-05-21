@@ -1,0 +1,55 @@
+<Entry xml:id="belozorbjb">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belozorb(jb)</orth>
+    <lemma>belozorb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белозор</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Parnassia palustris (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref>]елозор м. р.</orth>
+      </form>
+      <sense>
+        <def>птица, поющая на заре</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 595)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>belozor</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>белый сокол</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быозбр</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Parnassia palustris , сюда же прилаг. быозб- рий имеющий светлые глаза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 399.</note>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="yo1">*Ъё1ъ</ref> (см.) и <ref type="etymon" target="zor--2">*zor-</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

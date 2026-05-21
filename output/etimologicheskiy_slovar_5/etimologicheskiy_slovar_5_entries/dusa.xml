@@ -1,0 +1,149 @@
+<Entry xml:id="dusa">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duša</orth>
+    <lemma>duša</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>доушл</ref> ж. p. TCVOTJ, halitus ,фиčГ), anima</orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>душа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>душе</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>воздух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>душа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>душа</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА V, 49—56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duša</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duse</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duse</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердцевина, стержень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duša</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 345—346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>duša</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дыхание, душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>duša</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dausd</ref> J daisd ж. p.</orth>
+      </form>
+      <sense>
+        <def>душа, дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 49, с реконструкцией *dusa)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dusza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>душа (Dorosz</def>
+      </sense>
+    </item>
+  </etym>
+  <note>II, 434), словин. dasd ж. p. 'душа' (Lorentz Slovinz. Wb. I, 166), др.-русск., русск.-цслав. дХша 'душа' (Гр. Наз. XI в. 154; Нест. Бор.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. I и др., Срезневский I, 749—750), русск. душа ж. р. 'психический мир человека', 'сущность, истинный смысл', диал. душа ж. р. 'грудь, грудная полость' (пек., енис), 'сердце' (петерб., смол.), 'тело' (смол.), 'бабочка, мотылек' (калуж.) (Филин 8, 280), укр. душа ж. р. 'душа', 'место внизу горла спереди', 'опухоль на шее' (Гринченко I, 460), блр. душа ж. р. 'душа'. Производное с суфф.<m type="suffix">
+        <ref>-j-a</ref>
+      </m> от <ref type="etymon" target="dikh">*дихъ</ref> (см.). можно предположить 
+существование и.-е. <ref type="etymon" target="dhousia">*dhousia</ref>, ср. лит. dausios ж. р. мн. 'воздух', 
+'эмпиреи, рай', далее — галльск. dusios 'fantasmi' (Aug., De civ. 
+dei XV, 23.</gram>
+  </gramGrp>
+  <note>Цит. no: G. Devoto. Origini indeuropee. Firenze, 1962, стр. 462: Tabelle; слав, слова автор не упоминает). См. A. Meillet MSL 14, 1907, 362; К. Б'уга РФВ LXX, 1913, 105— 106; Berneker I, 239; Фасмер I, 556.</note>
+</Entry>

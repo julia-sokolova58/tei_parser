@@ -1,0 +1,38 @@
+<Entry xml:id="bezrozbnT">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezrozbnT</orth>
+    <lemma>bezrozbnT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безрожан</ref>, —эюна, —эютьо</orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 421)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezrozen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 59)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-87">*bez</ref> 
+(см.) и суфф. -ъп- от <ref type="etymon" target="rog">*rog</ref> (см.).</gram>
+  </gramGrp>
+  <note>Словообразовательная модель, соотносительная с непроизводным<xr type="compare">см. <ref type="etymon" target="bezrogb">*bezrogb</ref>
+    </xr> и в известном 
+смысле вторичная.</note>
+</Entry>

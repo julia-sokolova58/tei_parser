@@ -1,0 +1,39 @@
+<Entry xml:id="drokati">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drǫkati</orth>
+    <lemma>drǫkati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drokati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкать, топать, растаптывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 176; Kastelec; s nogo drokati)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрюкатпъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, уда­ рять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., влад., яросл., Филин 8, 223)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="drqkb">*drqkb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

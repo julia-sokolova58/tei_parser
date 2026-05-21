@@ -1,0 +1,214 @@
+<Entry xml:id="gostiti">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gostiti</orth>
+    <lemma>gostiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гогтити</ref> čevtQeiv, levoSo^elv, hospitio</orth>
+      </form>
+      <sense>
+        <def>угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гостЛ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>госта</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">стар. <ref>гостА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гостить, пировать, пиршествовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гостя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гостить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гости</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угощать, угостить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гостити</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gostiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угощать, принимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hostiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>бродить, бывать на чужбине , елвц. hostitf угощать, принимать в качестве гостя , в.-луж, hoecic угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 475)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 513)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>goecid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>принимать, угощать, гостить, быть в гостях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gu</ref>$scec</orth>
+      </form>
+      <sense>
+        <def>при­ нимать, угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гостити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>принимать гостей, угощать , почитать , торговать, приезжать, ездить с целью торговли , также быть в гостях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 90; Гр. Наз. XI в. 237; Ио. екз. Бог. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Агаф. Мин. Чет. февр. 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 568—569)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Смол. гр. 1229 г.; Дог. гр. 1262—1263 г., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ж. Дан. Пер. 39, XVI в., СлРЯ XI—XVII вв. 4, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гостить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть, проводить время в гостях</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гостить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угощать , гостить ездить, ходить в гости (арх., волог., тобол., амур., якут., костр.), угощать (курск., смол., донск., олон.) , гастйть угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 66; Словарь русск. донских говоров I, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 94—95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гостити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гостить, принимать гостей, угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гась</ref>- тць</orth>
+      </form>
+      <sense>
+        <def>угощать, гостить, быть в гостях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Магш. 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gostb">*gostb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

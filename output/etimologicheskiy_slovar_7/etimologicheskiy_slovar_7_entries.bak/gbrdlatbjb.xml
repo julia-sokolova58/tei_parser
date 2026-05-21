@@ -1,0 +1,119 @@
+<Entry xml:id="gbrdlatbjb">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrdlatb(jb)</orth>
+    <lemma>gbrdlatb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грлат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горластый, крикливый , сербо­ хорв. грлат, -а, -о то же, сюда же gf\at, прилаг. гривастый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 447)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grlat</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>имеющий горло, имею­ щий форму бутылки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(grlata buca, grlata hruska, Plet. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hrdlaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горластый, крикливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 489)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gardlaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>имеющий зоб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 804)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горлатый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с горлом или с узким отверстием, с пережабиной в нем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 936)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горлатый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>имеющий при­ вычку кричать, крикливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 7, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горлатий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>крикливый, горластый, имеющий широкое отверстие, ши- рокогорлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 312—313; Укр.-рос. словн. I, 351)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гарлаты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крикливый .—Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лекеша 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>горлатъныи</ref>, гърлатъныи: гор- латныя шапки</orth>
+      </form>
+      <sense>
+        <def>высокие меховые шапки, на которые употреб­ лялся мех от горла зверя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Расходн. кн. 1584—1585 г., Срезнев­ ский I, 554)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное<ref type="etymon" target="s-2">* с</ref> суф. -atb от <ref type="etymon" target="gbrdlo">*gbrdlo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

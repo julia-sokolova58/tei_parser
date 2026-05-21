@@ -1,0 +1,168 @@
+<Entry xml:id="dosedosele">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do se/*do se lĕ</orth>
+    <lemma>do se/*do se lĕ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>do se 1ё</orth>
+    <lemma>do se 1ё</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>догбл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к, нар. ч. есо&lt;; apxt, a^pt TOO VDV, usque ad hue до сих пор , также догели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дделе</ref>, доели, доелиje</orth>
+      </form>
+      <sense>
+        <def>до сих пор (КарациЬ)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. <ref>dosele</ref>, doseli, нареч. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI, XVIII вв., RJA II, 669)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dosle</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до сих пор, doslej то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dosel</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>до каких пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dosiaV</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до сих пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>dosal</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до сих пор, до этого места</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dosiela</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>до сих пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доселЪ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доныне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XI. 12. Остр, ев.; Мф. XXIV. 21; Пов. вр. л. иод 947 г., Срезневский I, 709)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>досель</ref>, доселе, досёлевау (зап.) досюль</orth>
+      </form>
+      <sense>
+        <def>до сих нор или мест; до сего времени, доныне; по сие место; прежде, давно, встарь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дбее</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до сих пор , дбеи то же , дбее до сих пор, до настоящего времени (ворон., донск.), до данного места (донск.) , дбеи до сих пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вер. ПО-Федорц., Словарь говоров Подмосковья 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., орл., ворон., Филин 8, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>doci</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до сих пор, до этой поры, уже, в настоящее время, до сего места</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дасюль</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>досюда, до сих пор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание пред л.<ref type="etymon" target="do-21">*do</ref> (см.) и местоим. *$ь, se (см.), а также 
+энклитической част. *1ё (см.).</gram>
+  </gramGrp>
+</Entry>

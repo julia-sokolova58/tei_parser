@@ -1,0 +1,89 @@
+<Entry xml:id="gurblb">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gurblb</orth>
+    <lemma>gurblb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гурел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>засохшая слизь в глазах, особенно после сна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ; Геров: 'засохшие сопли, возгря; засохший гной на глазах, «а ране')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гур</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъл м. р. нечистота в уголке глаза , гурел м. р. , гуреа м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. II. Ковачев. Севлиевско. — БД V, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.—БД VI, 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Ев- статиева. С. Тръстеник, Плевенско.—БД VI, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гурел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гной , гурелка ж. р. гной (на глазах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гурел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гной на глазах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 763)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возможно, производное с суф.<m type="suffix">
+        <ref>-ъ1ъ</ref>
+      </m> от <ref type="etymon" target="guratil">*guratil</ref>
+      <ref type="etymon" target="guriti-3">*guriti</ref> 
+см.) с вероят­
+ной первонач. семантикой 'набитое, набившееся, сбившееся' 
+'гной 
+в углу глаза', ср. в качестве параллели нем. Augenbuttег 
+'гной 
+в углу глаза': Butter 'сливочное масло', а также <ref type="etymon" target="gmnezdzb">*gmnezdzb</ref> (см.)— 
+от <ref type="etymon" target="gnmb">*gnmb</ref> 
+(см.). Сомнительно объяснение 
+на 
+базе болг. 
+журя 
+'печь, жарить' (Георгиев 
+БЕР 
+IV, 
+295). 
+Ср. 
+еще I. Dnridanov 
+«Commentationes linguisticae et philologicae Ernesto 
+Dickenmann» 
+(Heidelberg, 1977) 52.</gram>
+  </gramGrp>
+</Entry>

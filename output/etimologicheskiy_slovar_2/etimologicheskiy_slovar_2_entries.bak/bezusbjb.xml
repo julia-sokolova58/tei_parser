@@ -1,0 +1,27 @@
+<Entry xml:id="bezusbjb">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezusbjb</orth>
+    <lemma>bezusbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezusi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безухий, без одного уха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 116)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное прилаг. с суф. -jo- (см. непроизводное<ref type="etymon" target="bezuxb">*bezuxb)</ref>.</gram>
+  </gramGrp>
+  <note>Функция древнего суфф. в этом случае недостаточно ясна (вто­ ричная адъективация при условии субстантивности непроизвод­ ной основы? — Формально ср. пары *bezocbjb—*bezokb, *bez- studjb—*bezstudъ, *bezumjb—*bezumb). Вторая возможность — префиксально-суффиксальное образование от основы *их- (<xr type="compare">см. <ref type="etymon" target="ikho">*ихо</ref>
+    </xr>), но она обычно реализуется в известных нам случаях 
+с помощью более продуктивного суфф. -ъп-.</note>
+</Entry>

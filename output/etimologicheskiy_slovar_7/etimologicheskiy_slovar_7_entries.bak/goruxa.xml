@@ -1,0 +1,112 @@
+<Entry xml:id="goruxa">
+  <pb n="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goruxa</orth>
+    <lemma>goruxa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горуха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Lepidum, Sinapis , изжога , горуха ж. р. тошнота, отрыжка (Ге­ ров), сюда же груха ж. р. жара, зной , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грухж</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с. Драганово, В.-Търн., СбНУ XIV, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горуха</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горчица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goruha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Bunias erucago , ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>horuch</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум , вихрь , с четко отличными знач-ми</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. VychodolaS, II, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гороха</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горчица , горюха гор­ чица, зерно горчичное . — Ср. сюда же суффиксальные производные сербо­ хорв. горуша (дивльа) ж. р. (полевая) горчица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 559)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Конст. Болг. Поуч. XII в. 91, Срезнев­ ский I, 562)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu" type="dialect">диал. <ref>yorusa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>насекомое — вредитель винограда ; ст.- слав. го^нлшыъ, прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 160)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>T O O aivdireo)&lt;;, sinapis 'горчичный' (Mikl., Sad., SJS), др.-русск., русск.-цслав. горХшъныи 'горчичный' (Лук. XVII. 6. Остр, ев.; Юр. ев. 1119 г. 56; Ев. 1307 г., Срез­ невский I, 559); сербохорв. горушица ж. р. 'изжога', 'горчица Sinapis arvensis' также диал. гурушйца (Елез. I), словен. goru- sica ж. р. 'горчица', 'растение Bunias erucago' (Plet. I, 235).</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-иха</ref>
+      </m> 
+от <ref type="etymon" target="goreti">*goreti</ref>, 
+<ref type="etymon" target="gorbkb-3">*gorbkb</ref> 
+(см. 
+s. 
+v.).</gram>
+  </gramGrp>
+  <note>Ср. Vaillant. Gramm. comparee IV, 674 — об отношениях твердого и мягкого вариантов суффикса и прич. ст.-слав. го^лшт- и го-</note>
+</Entry>

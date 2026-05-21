@@ -1,0 +1,63 @@
+<Entry xml:id="cbrvavbjb">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrvavb(jb)</orth>
+    <lemma>cbrvavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>cfvav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA I, 851)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crudv</ref>, -ova, прилаг. = irviv</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>бегоаиу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>источенный червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>бегиаиу</ref> то же , также irvavy</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>ervaui</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 54)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -av- от<ref type="etymon" target="syi">*сыиъ</ref>, <ref type="etymon" target="syia">*сыиа</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

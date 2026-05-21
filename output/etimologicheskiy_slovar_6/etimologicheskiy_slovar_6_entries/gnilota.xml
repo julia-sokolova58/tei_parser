@@ -1,0 +1,80 @@
+<Entry xml:id="gnilota">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilota</orth>
+    <lemma>gnilota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнилота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnildta</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnilota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 704)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гныата</ref> ж. р. то же. — Ср. сюда же производные</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гнилотща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>gnllotina</ref> ж. р. (Дубровник)</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 227; РСА III, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнйлбтъе</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>гнилые предметы, гнилье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Фи­ лин 6, 246)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="gniH-2">*gniH</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

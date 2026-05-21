@@ -1,0 +1,39 @@
+<entries>
+  <entry xml:id="brl" xml:id="brl">
+    <pb n="170" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrlь?</orth>
+      <lemma>Ьы1ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брл</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>овечья вертячка (болезнь) , сербо­ хорв. bfl м. p. vertigo, вертячка, болезнь овец</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 662)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">диал. <ref>брл</ref>&gt;</orth>
+        </form>
+        <sense>
+          <def>червь в голове овцы, больной вертячкой</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ел. 1; РСА II, 187)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>По-видимому, обратное производное от гл. <ref type="etymon" target="ggay-3">*ЬъгГай</ref> / <ref type="etymon" target="g1sh">*Ьъг1Ш</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

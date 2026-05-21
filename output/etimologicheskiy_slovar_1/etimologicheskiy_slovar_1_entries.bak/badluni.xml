@@ -1,0 +1,30 @@
+<Entry xml:id="badluni">
+  <pb n="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ba(d)luni</orth>
+    <lemma>ba(d)luni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балунм</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>шалун , баловник, шалун, баловень, избалованный человек, рассеян­ ный, невнимательный человек, лентяй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Доп. к Опыту 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ипъ</ref>
+      </m> от <ref type="etymon" target="badlovati-3">*ba(d)lovati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древность образования проблематична.</note>
+</Entry>

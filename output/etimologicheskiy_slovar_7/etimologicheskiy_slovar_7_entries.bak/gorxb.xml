@@ -1,0 +1,274 @@
+<Entry xml:id="gorxb">
+  <pb n="44" end_page="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorxb</orth>
+    <lemma>gorxb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грах</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горох Pisum sativum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грах</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>фасоль , грах м. р. горох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грае</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>фасоль , производное грашок м. р. горох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грах</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>фасоль Faseolus vulgaris L., (диал., ю.-зап.) горох, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>грй</ref>) , грйк , grag , гра</orth>
+      </form>
+      <sense>
+        <def>фасоль , гра- шак, род. п. -шка, м. р. горох Pisum sativum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 554)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 555)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 378)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(LM. 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grah</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горох Pisum sativum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrdch</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>горох</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrach</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hroch</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>горох Pisum sativum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>groch</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gorxu</ref>. p.</orth>
+      </form>
+      <sense>
+        <def>горох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>groch</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>горох Pisum sativum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1300—1301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grox</ref> rropox\</orth>
+      </form>
+      <sense>
+        <def>фасоль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bak. Kramsk 99; Szymczak. Doman. II, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grit</ref>#x м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>горохъ</ref> ,</orth>
+      </form>
+      <sense>
+        <def>зерна гороха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изиде на село събра т горохе. Цар. 4. IV. 39, Срезневский I, 559)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Р. Прав. Яр. — по син. сп.; Вопр. Кир. 38, Срезневский III, 77')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горох</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>травя­ нистое растение сем. бобовых и его плод</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горбх</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>го­ рох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбх</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горох. Слав. *gorxb продолжает и.-е. *ghorso~, именную форму с вока­ лизмом -о-; производящий гл. восстанавливается на базе др.-инд. ghdrsati тереть. Сюда же, далее, относится лит. gar sua растение Aegopodium podagraria (культурное растение горох по-литовски называется другим словом — zlrnis), лтш. garsa, garses, названия различных полевых трав. См. Miklosich 74; Н. Pedersen IF V, 1895, 54; F. Fortunatov KZ XXXVI, 1900, 37; А. Погодин РФВ L 1903, 230; Berneker I, 331; Фасмер I, 444; Machek 2 182 («праевроп.»); Fraenkel I, 138; Mayrhofer I, 358; E. Qabej «Bereiche der Slavistik. Festschrift zu Ehren von J. Hamm» 43 (сближает с алб. groshe боб, чечевица). gorica:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Wien, 1975)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горйца</ref> ж. р., ум.</orth>
+      </form>
+      <sense>
+        <def>лесок, горка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>го</ref>- рица ж. р., ум. от гора</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горйца</ref> ж. р., ум.</orth>
+      </form>
+      <sense>
+        <def>горка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 485; RJA III, 283: с XI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorica</ref> ж. р., ум.</orth>
+      </form>
+      <sense>
+        <def>холм, бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 233; Badjura 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hofice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>торф, Hofice, местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 729)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Диал</ref>. horica</orth>
+      </form>
+      <sense>
+        <def>лесок (Turc</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Z., Kalal 178), др.-русск., русск.- цслав. горйца, ум. от гора (Пат. Син. XI в. 3, Срезневский I, *э54), русск. диал. горйца ж. р. 'горка, небольшая возвышенность' (самар., тамб., смол., курск., Филин 7, 37).</note>
+  <gramGrp>
+    <gram>Ум. производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="gora">*gora</ref> (см.).
+• g o r i k v e t b</gram>
+  </gramGrp>
+</Entry>

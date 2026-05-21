@@ -1,0 +1,141 @@
+<Entry xml:id="capnqti">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>capnqti</orth>
+    <lemma>capnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цапна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ударять сильно, с шумом; шлепнуть, упасть, шлепнуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>цапнъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — Б Д IV, 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цапне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цапнуть, хап­ нуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdpniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть, плюхнуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>capnouti</ref>, еврш. к сарай , cdpnouti</orth>
+      </form>
+      <sense>
+        <def>ударить, шлепнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>capndt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, хлопнуть, бросить , сарпис" плеснуть, шлепнуться, цапнуть, схватить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dod. k Bart. 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slov. stfedoopav. 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>capndt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, хлоп­ нуть, бросить, швырнуть, тяжело, неловко упасть, шлепнуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>сарпас</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>схватить, цапнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 784)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цапнуть</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>цопнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть в грязь, попасть руками или ногами в какую-либо жидкость , цапнуть, схватить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 252)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( Д а л ь IV, 1263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цапнуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цапнуть . j Гл. на -ngti, соотносительный с *capati /<xr type="compare">см. <ref type="etymon" target="capiti">*capiti</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 685; Блр.-русск. 999)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

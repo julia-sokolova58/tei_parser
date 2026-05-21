@@ -1,0 +1,72 @@
+<Entry xml:id="bqkarb">
+  <pb n="234" end_page="235" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqkarb</orth>
+    <lemma>bqkarb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bgkar</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>выпь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 40, с рекон­ струкцией *Ьдкагь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>букаръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое, букашка . — Сюда примыкают — с иным грамм, родом и иным оформлением —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(иван., Филин 3, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ьйкагаж</ref>. p.</orth>
+      </form>
+      <sense>
+        <def>tumultus, delectatio tumultuosa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 722)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>букара</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>насе­ комое , бухара шмель, пчела , букарица букашка, насекомое , бука- рйца ж. р. насекомое, жучок, букашка (иркут., свердл., арх.), букарица личинка стрекозы (иван.) , букарки букашки, мухи, жуки, личинки бабочек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 263)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 6)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-агъ</ref>
+      </m> от гл. <ref type="etymon" target="bgkati">* bgkati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любопытная изоглосса, связывающая полаб. и русск. (русск. слово пропущено у Бернекера, вскользь упоминающего полаб. слово, см. Berneker I, 80, s.'v. bgkajg, bgkati, и не упоминается также Фасмером).</note>
+</Entry>

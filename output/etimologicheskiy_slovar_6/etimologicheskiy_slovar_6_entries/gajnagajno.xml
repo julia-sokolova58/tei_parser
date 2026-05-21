@@ -1,0 +1,163 @@
+<Entry xml:id="gajnagajno">
+  <pb n="87" end_page="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gajьna/*gajьno</orth>
+    <lemma>gajьna/*gajьno</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gajbno</orth>
+    <lemma>gajbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hajno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то, что запрещено употреблять в пищу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(2ivot. sv. Katefiny, XIII в., Kott I, 405)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hejno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стая, стадо, множество</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hejno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стадо гусей , gajno ср. p. pfistanek vedle domu</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. VychodolaS. II, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">слвц. стар. , книжн. <ref>hajno</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>стадо, множество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hejno</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcfk. Vychodonovohrad. 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gajno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стадо, стая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 792)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гаина</ref> testa, oaxpocxov</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Псалт. Феодорит. пс. XI. 16, Срезнев­ ский I, 508; СлРЯ XI—XVII вв. 4, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гайно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>хлев , гайно гнездо белки , гайно берлога медвежья и вообще зимнее помещение, устраивае­ мое зверем , гайно ср. р. гнездо, логовище зверя (сиб., волог., свердл., челяб., курск., арх., забайк., калин., влад., урал., том., кемер., енис, иркут., ряз., новг., олон., астрах.), гнездо птицы (свердл., арх., костр., онеж., забайк.), собачья конура (свердл., заурал., волог.), временное жилище, шалаш, палатка и т. п. (арх.), хлев (обычно свиной) (сиб., костр., пенз., перм., том., сарат., урал.), подстилка для свиней, обычно соло­ менная или из навоза (свердл., том., кемер., казан., смол., самар., вят., амур.), помет животных (урал.), о неубранном, грязном помещении, обычно жилом (свердл., сиб., сарат., пенз., ср.-урал,), грязь, беспорядок (костр., ленингр., сарат., сиб.), хлам, тряпье ga( jb) уогпъ / *ga vorna куча всякого хлама (сиб., иркут., влад., костр.), собир. различ­ ные мелкие, малоценные вещи домашнего обихода (том.), собир. маленькие дети (свердл.) , гайнб логово, гнездо; подстилка, собир. маленькие дети , гайна ржаная обмолоченная солома (Картотека Псков­ ского областного словаря), гойнб ср. р. гнездо, логовище неболь­ шого зверя (белки, куницы и т. п.) (север., зап., сиб., ряз., якут., иркут.), свиной хлев (север., зап., сиб.), подстилка для свиней в хлеву (из соломы, мякины и пр.) (том.) , война ж. р. гнездо белки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сиб., Опыт 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцк-ий 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 99—100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 109—110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(иркут., якут., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гайнб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>навоз, испражнения, подстилка соломы для скота, медвежья берлога, беспорядок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гайнб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязь, мусор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мелитоп., Курило 28; Л. С. Паламарчук. Словник специф1чно! лексики гов1рки с. Муспвки (Вчорайшенського району, Житомирсько! обл.). — Леке бюл. VI, 1958, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гайнб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>логово . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 73; Шатэрнш 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гащача</ref>, га]гьача, га]ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>пахотная земля, очищенная от леса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 165)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъпа/-ъпо от гл.<ref type="etymon" target="gajiti-3">*gajiti</ref> / <ref type="etymon" target="gojiti-3">*gojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,206 @@
+<Entry xml:id="dobytidobyvati">
+  <pb n="47" end_page="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobyti/*dobyvati</orth>
+    <lemma>dobyti/*dobyvati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dobyvati</orth>
+    <lemma>dobyvati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добйя</ref>, добйвам</orth>
+      </form>
+      <sense>
+        <def>добыть, добывать, (о жен­ щине) рожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>добйвам</ref>, добйа</orth>
+      </form>
+      <sense>
+        <def>рожать , добйа постичь (о болезни) , добйвам рожать , дубйвъм добывать, приобре­ тать, рожать (о женщине) , добйъм рожать (ребенка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евста- тиева. С. Тръстеник, Плевенско. — БД VI, 167)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко. — БД V, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>добие</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>получить, выиграть , добива получать, вы­ игрывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добиты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добыть, выиграть, полу­ чить, добйвати добывать, выигрывать, получать, также добй- jamu</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 380—381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobiti</ref>, dobom / dobodem</orth>
+      </form>
+      <sense>
+        <def>полу­ чить, выиграть, встретить, навлечь на себя , dobivati получать, выигрывать, побеждать , чеш, dobyti добыть, приобрести, заработать, завладеть, овладеть, достать, вынуть, вытянуть, dobyti se добраться, dobyuati добы­ вать, приобретать, овладевать, извлекать, dobyuati se доби­ раться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dobyV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>захватить, овладеть, добыть, добиться, dobyVsa добраться , dobyvaV овладевать (силой), добывать, dobyuaV sa добираться, проникать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 280)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dobyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>остаться, добыть, заработать, выиграть, овладеть, захватить, по­ бедить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 119—120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dobys</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>остаться, вытерпеть до конца, добыть, ddbyu se вникнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dobyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пробыть до, остаться, вынуть, достать, извлечь, захватить, овла­ деть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. П, 177—178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>duobec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добыть, приобрести, захватить, завоевать, победить , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добыти</ref>, добХдХ</orth>
+      </form>
+      <sense>
+        <def>приобрести, добыть , дожить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I летоп. иод 1186 г.; Сл. Дан. Зат.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Ниф. XIII в. 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 684—685)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добыть</ref>, добуду, добывать</orth>
+      </form>
+      <sense>
+        <def>доставать, приобре­ тать, разыскивать что-либо, приобретать трудом, зарабатывать, извлекать откуда-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добути</ref>, добуду</orth>
+      </form>
+      <sense>
+        <def>добыть, достать, приобрести, взять (город во время войны), вынуть (саблю из ножен), дожить до срока , также добувати</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 400)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дабыць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добыть; извлечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 86)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-4">*do</ref> (см.) и <ref type="etymon" target="byti">*byti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Исходя отчасти из знач. и.-е. 'производить, рожать', отчасти — из сходных знач-й слав, продолжений *dobyti (см. выше — болг.), отдельные авторы считают именно такое знач. первичным для *dobyti (см. Матл у Махека: Machek 2 122). В принципе можно было бы, конечно, считаться с вероятием сохранения (или оживления?) древнего значения и-е. праформы в слав, префиксальном сложении, но, пожалуй, более правдоподобным был бы взгляд на употребление *dobyti в знач. 'рожать' как на местный описательный или иносказательный сино­ ним.</note>
+</Entry>

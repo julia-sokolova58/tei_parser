@@ -1,0 +1,59 @@
+<Entry xml:id="drma">
+  <pb n="223" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrma</orth>
+    <lemma>dьrma</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дръма</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грабли , д*6рма ж. р. борона, грабли, густой, непроходимый, колючий кустарник , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>*6рми мн.</orth>
+      </form>
+      <sense>
+        <def>лохмотья (с. Нико- лово, Русенско, дип. раб., Архив Софийск. ун-та), одежда (с. Мечка, Никополско, дип. раб., Архив Софийск. ун-та; ср. Ге- ров: дръмы ж. р. мн. лохмотья, Дювернуа: дръмй тряпки)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрма</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лихорадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 716)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мешанина, грубая сечка в корм скоту, различные зеленые ветки, клубневые растения , название травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 173)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slo- var sloven, jezika I, 498)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отлаг. производное от<ref type="etymon" target="dbrmati">*dьrmati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

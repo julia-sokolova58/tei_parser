@@ -1,0 +1,105 @@
+<entries>
+  <entry xml:id="brid" xml:id="brid">
+    <pb n="27" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bridъ</orth>
+      <lemma>bridb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брйд</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>грань, край, острие, лезвие, гре­ бень, граница, межа, жжение, зуд, мороз , а также прилаг. brid facerbus</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 641; РСА II, 167)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 641)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brid</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>порча</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brid</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>грязь , словии. brid, род. п. bfadtty м. p. хворост , brid м. p. хворост, валежник, сухие ветки засохшего дерева, мелочь , brid м. p. хворост, древесная кора</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ ;1, 135)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . 1, 79)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz Pomor. I, 58)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Sychta I, 79)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брыд</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>острота, горечь в воздухе, дым или чад, гарь, испарения, мга , брид м. р. дым</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(юж., зап., пек., Д а л ь I, 323)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(брян., Филин 3, 179)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брид</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>гадость, мерзость, гадкий, безобразный человек</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Грин­ ченко I, 97)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брид</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>нечистота, брожение, горечь от брожения в заквашенных веществах</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 34)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>noun</pos>
+      <gram>Сущ. * 6 г ^ ъ , представленное, как видим, в ряде слав, языков, 
+правда, с весьма разнообразными знач-ми (развитие 
+некоторых 
+из них нуждалось бы в спец. объяснении), может быть истолко­
+вано как достаточно стар, образование, соотносительное с при­
+лаг. <ref type="etymon" target="bridk">*bridъkъ</ref> 
+(см.), ср. наличие стар, производных на -/-, близ­
+ких по ряду знач-й.</gram>
+    </gramGrp>
+    <note>Не исключается, впрочем, и 
+объяснение</note>
+  </entry>
+</entries>

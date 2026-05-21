@@ -1,0 +1,82 @@
+<Entry xml:id="bazati">
+  <pb n="171" end_page="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bazati</orth>
+    <lemma>bazati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bazatH</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жаждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бажатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очень хотеть чего-нибудь, сильно желать , желать, иметь склонность, любить, ласкать , искренно, сердечно любить, усиленно просить, ублажать , бажацъ пламенно желать чего</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кули­ ковский 2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бажати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>х о т е т ь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1675 г., Тим­ ченко I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бажати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно желать, хотеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бажацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно желать, просить ; , х о т е т ь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Северен.-блр. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Словообразовательный вариант, представляющий собой, по всей вероятности, /-овое расширение *bagati (см.: там же и отно­ сительно этимологии; см. еще *baziti, ниже).</note>
+</Entry>

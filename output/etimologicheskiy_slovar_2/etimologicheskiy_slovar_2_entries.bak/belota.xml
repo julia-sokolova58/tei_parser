@@ -1,0 +1,109 @@
+<Entry xml:id="belota">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belota</orth>
+    <lemma>belota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белота</ref>, б]елота ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна, белый предмет , bjelota ж. р. то же , бёлота, б]ё- лота м. р. животное (самец) белой масти, кличка такого живот­ ного , Bjelota м. р., мужское имя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 454)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(только у Стулли, RJA I, 387)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XIII в., Mon. serb. 98, RJA I, 387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белый цвет, белизна , стар, belota то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Megiser, Dictionarium 1744; в 1 изд. нет)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>belota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>belota</ref>, bielota ж. р. (поэт.)</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белый цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бЪлота</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БЪлота, чрьнота, роусость. Изб. 1073 г., Срезневский I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев., олон., новг., арх., Филин 2, 224; Наумов 5)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

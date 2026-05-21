@@ -1,0 +1,104 @@
+<Entry xml:id="grozbba">
+  <pb n="142" end_page="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grozbba</orth>
+    <lemma>grozbba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грдзба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grozba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrozba</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrozba</ref> ж. p. , н.-луя^. grozba ж. р.</orth>
+      </form>
+      <sense>
+        <def>испуг, страх, пугало; дрожь, боязнь, угроза, непогода, буря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 530)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grozba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 915)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грозъбаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>угроза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., пек., Филин 7, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грбзьба</ref> ж. р., также гргзьба</orth>
+      </form>
+      <sense>
+        <def>угрозы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грбзьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угрожение, стращание , угроза, устрашение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бай- коу—Некраш. 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (имя действия) с суф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="groziti">*groziti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. еще Orzechowska 162. •grozbnb(jb)</note>
+</Entry>

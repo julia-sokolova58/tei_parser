@@ -1,0 +1,129 @@
+<Entry xml:id="gqzbnbjb">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqzbnb(jb)</orth>
+    <lemma>gqzbnb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqzbno</orth>
+    <lemma>gqzbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъзен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>задний, заднепроход¬ ный , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гдзник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>зад (у шта­ нов)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>газен</ref>, прилаг. от газ</orth>
+      </form>
+      <sense>
+        <def>зад , ср. сюда же газла ж. р. толстозадая женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гузнй</ref>, -на, -но</orth>
+      </form>
+      <sense>
+        <def>связанный с задом, гузно црщево прямая кишка, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>guzelj</ref>, род. п. -zlja, м. р.</orth>
+      </form>
+      <sense>
+        <def>яго­ дица, гузка у курицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>huzen</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Na nohou meli huzne a boty. F. Horensky. Slovacke obrazky. V Telci 1894, 197. Kott. Dod. k Bart. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гУзно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бедра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Афан. Никит. 337, Срезневский III, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гузно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зад , гузно ср. р. задняя часть у человека, зад, ко­ мель снопа , гузно ср. р. нижняя, задняя часть чего-либо (влад., костр., казан., калин., куйбыш., новг., калуж., вят., иркут., том.), живот , прямая кишка у человека и животных (влад., перм., твер., арх., тобол., астрах.), мешок (енис), горизонтальная доска у прялки (для укрепления гребня и сидения) (олон., волог., ленингр., новг., енис, урал.) , ср. сюда же гузлб ср. р. нижняя часть снопа; комель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доб­ ровольский 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 208—209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(каз., Даль 3 I, 1004; Филин 7, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гузно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>задница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 337)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (первонач. прилаг.) с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="g-12">*g</ref>}zъ (см.).</gram>
+  </gramGrp>
+</Entry>

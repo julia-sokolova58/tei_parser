@@ -1,0 +1,93 @@
+<Entry xml:id="dryxati">
+  <pb n="144" end_page="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dryxati</orth>
+    <lemma>dryxati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dryxnqti</orth>
+    <lemma>dryxnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>др</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъхунъ дрыхнуть, валяться в по­ стели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мечев БД II, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drlhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крепко спать , также дрифати, дрифунити</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 775)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 713)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drlhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drychmat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дремать, спать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>простор</ref>, дрыхнуть</orth>
+      </form>
+      <sense>
+        <def>спать, дры­ хать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрыгать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спать; очень долго спать ,блр. дрыхнуць дрыхнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ворон., Филин 8, 221)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. с суффиксальной частью<m type="suffix">
+        <ref>-x-ati</ref>
+      </m>, представляющий собой экс­
+прессивное производное от усеченной основы гл. <ref type="etymon" target="dremati">*dremati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сближения за пределами слав, вроде др.-англ- drdsian 'лениться' (так Э. Леви у Фасмера, ниже) выглядят не очень убедительно в силу указанной инновационной природы слав, слова. См. И. Поповип HJ II, 1951, 212; Фасмер I, 545; Machek 2 131; Skok. Etim. rjecn. I, 435.</note>
+</Entry>

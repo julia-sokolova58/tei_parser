@@ -1,0 +1,38 @@
+<Entry xml:id="golyni">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golyni</orth>
+    <lemma>golyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Но1упёу</ref> местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Profous I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голынъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голь, (астрах.)песчаная отмель, оголяемая при сго­ не или выгоне воды , пустое место (сиб.), выжженный пожаром лес (сиб.), гололед (арх.) , Голынъ, Го­ лыми, местн. название, бывш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 31, 917)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 346)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Орл. губ., а также Галиция, Минск., Витебск, губ. (Russisches geographisch.es Namenbuch II, 419, 420).—Ср., возм., сюда же несколько двусмысленное сербо­ хорв. стар, golina ж. р. 'нагота' (XVII в.), Golina, местн. назва­ ние в Хорватии (RJA III, 254).</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от прилаг. <ref type="etymon" target="golb">*golb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,136 @@
+<Entry xml:id="edivo">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdivo</orth>
+    <lemma>ĕdivo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ядйво</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: ядиво; Геров — Пан- чев: ёдиво)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёд</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уво ср. р. , йадиву ср. р. , йадуу ср. р. (с. Кор- ница, Благоевградско, дип. раб. Архив Софийск. ун-та), йадеву ср. р. , идивб ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Младенов. Бит и език на тракийските и малоазийските българи II, 127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Дедеагачко. — БД V, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД VI, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jldueo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье с прилаг. jedivan, -una съедобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(стар., редк., в словарях Вольтиджи и Стулли, RJA IV, 537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jĕdivo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>съестные припасы, пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jedzivo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье , также jeziuo ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jĕdivo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>пища, продукты питания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jedHvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilis- szant6 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jedziwo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища, съестные припасы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. Ill, 157; Warsz. II, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хадиво</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еда, едение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пайс, сб., Срезневский III, 1639)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ёдево</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яство, снедь, брашно: что можно есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ivo</ref>
+      </m> от гл. *&amp;tt, <ref type="etymon" target="edmb">*edmb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

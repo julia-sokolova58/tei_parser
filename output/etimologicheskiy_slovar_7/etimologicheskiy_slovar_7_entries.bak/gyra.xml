@@ -1,0 +1,174 @@
+<Entry xml:id="gyra">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyra</orth>
+    <lemma>gyra</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyr'a</orth>
+    <lemma>gyr'a</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyrb</orth>
+    <lemma>gyrb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyrb</orth>
+    <lemma>gyrb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гйра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>морская рыба Smasis alcedo, Smaris vulgaris, (диал.) узловатое полено , ger м. р. растение Erythraea centaurium L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 269)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SJA III, 129, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gir</ref>, род. п. girja, м. p.</orth>
+      </form>
+      <sense>
+        <def>узел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>gyr</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бо­ лиголов , елвц. hyra шишка, желвак , gyr растение (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 195: Kollar)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gier</ref>&gt; gir, girz</orth>
+      </form>
+      <sense>
+        <def>растение Aegopodium podagraria L., Smyrnium olusatrum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1472 г., St. stpol. II, 413)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gira</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нога , gira, обычно giry мн. ноги, ножищи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Maciejewski, Chetm.-dobrz. 168; Gornowicz II, 1, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Szymczak, Doman. II, 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гырк</ref>&amp;, гирхл</orth>
+      </form>
+      <sense>
+        <def>тяжесть, гиря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Сид. Юрод. XVI в.; Соф. вр. II. 202; Афан. Никит. 340, Срезневский I, 619—620; III, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гиря</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>металлический груз, применяемый при взвешивании тяжесть, висячий груз</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гиря</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба, ком (тул.), льдина очень больших размеров (урал.) , гиря ж. р. стрижка под гребенку , гиря ж. р. стриженая голова , гири льдины , гйра гиря (Картотека Псковского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 7, 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., ВЯ 1957, № 5, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гиря</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>низко остриженный, гиря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гйра</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуб , гйра гиря , гыр верхушка дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойювського д1алекту)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Курило 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гъра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>волосы, чуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяцко, Зэльв. 44; На- роднае слова 305)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="gyrati">*gyrati</ref>, 
+<ref type="etymon" target="gyriti">*gyriti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

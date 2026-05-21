@@ -1,0 +1,51 @@
+<Entry xml:id="yo1ogip">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1огипъ</orth>
+    <lemma>Ьё1огипъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белорун</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белорунный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белорун</ref>, б]елорун, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белорунный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belorun</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>с белым руном, белой шерстью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belorouny</ref>, прилаг. (Beloroune stado lehounkych oblacku).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и основы имени 
+<ref type="etymon" target="gipo">*гипо</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

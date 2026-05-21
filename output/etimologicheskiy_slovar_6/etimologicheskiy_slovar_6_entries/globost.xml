@@ -1,0 +1,56 @@
+<Entry xml:id="globost">
+  <pb n="142" end_page="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbostь</orth>
+    <lemma>glǫbostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>hlubost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glebosc</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 842)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. гл^<ref>бостъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог. 254; Прох. Жит. Ио. Богосл. X X , Срезневский I, 521)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от основы <ref type="etymon" target="glqbolw">*glqb(olw)</ref> 
+(см.).
+rglqbbk<ref type="etymon" target="bjb">*b(jb)</ref>
+    </gram>
+  </gramGrp>
+</Entry>

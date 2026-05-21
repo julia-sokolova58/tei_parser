@@ -1,0 +1,95 @@
+<Entry xml:id="bordacb">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordacb</orth>
+    <lemma>bordacb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>braddc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>название рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA I, 578)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>braddc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бородач, бородатый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>braddc</ref> м. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>braddc</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brodac</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бородач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brodacz</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бородач</ref>, род. п. -ача, м. р.</orth>
+      </form>
+      <sense>
+        <def>кто не бреет бороды, носит бороду; у кого большая окладистая борода, растение Andropogon</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бо</ref>­ родач</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>барадач</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-асъ</ref>
+      </m> от <ref type="etymon" target="borda-2">*borda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

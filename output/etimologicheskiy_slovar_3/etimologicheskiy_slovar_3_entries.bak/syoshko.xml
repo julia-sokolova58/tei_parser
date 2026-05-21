@@ -1,0 +1,26 @@
+<Entry xml:id="syoshko">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сё&lt;Шъко</orth>
+    <lemma>сё&lt;Шъко</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceditko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>цедилка</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с ум. суфф.<m type="suffix">
+        <ref>-ъко</ref>
+      </m> от неличной формы гл. 
+<ref type="etymon" target="cediti">*cediti</ref> 
+(см.) — инфинитива 
+или супина <ref type="etymon" target="ceditb">*ceditb</ref>.</gram>
+  </gramGrp>
+  <note>Не исключено, впрочем, и позднее образование, принимая во внимание только чеш. ха­ рактер слова.</note>
+</Entry>

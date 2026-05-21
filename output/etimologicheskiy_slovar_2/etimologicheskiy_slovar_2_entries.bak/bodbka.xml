@@ -1,0 +1,59 @@
+<Entry xml:id="bodbka">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodbka</orth>
+    <lemma>bodbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ббдка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колючка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ббтка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>зеленая ветка, воткнутая на лугу, в саду и т. п. в знак того, что запрещен вход скотине</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bodka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ямка, приспособление на лесопилке, то, чем счищается земля, налипшая на лемех, укол . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 149; Kott I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>буодкы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>иголки хвойного дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лисенко. Словник д1алектно*1 лексики середнього i схщного Полнея 19)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от глагольно-именной основы, пред­
+ставленной в <ref type="etymon" target="bodb">*bodb</ref>, <ref type="etymon" target="bosti-16">*bosti</ref>, <ref type="etymon" target="bodg-9">*bodg</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

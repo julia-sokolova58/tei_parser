@@ -1,0 +1,126 @@
+<Entry xml:id="cujbnbjb">
+  <pb n="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cujbnb(jb)</orth>
+    <lemma>cujbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чуен</ref>, чурга</orth>
+      </form>
+      <sense>
+        <def>слышимый, слышный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cdjen</ref>, -fna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бдительный, чуткий, обладающий тонким слухом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>cujny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чувствительный, впечатлительный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сщпу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чувствительный, нежный, тух­ лый (о сале, масле) , Pujny бодрый, живой, быстрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cajnyy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>чуткий, чувствительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cajnel</ref>, -а, -о, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>чуткий, бдительный (о собаке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>eujny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>связанный с чувством, ощущением</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>cmrii</ref>, ирилаг.</orth>
+      </form>
+      <sense>
+        <def>бдительный, чуткий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чуйнйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>чуткий, бдительный, созна­ тельный, в сознании</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 477)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. обл. <ref>чуйны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чут­ кий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ыг- от презентной основы гл.<ref type="etymon" target="cap">*ca/p</ref>, <ref type="etymon" target="cuti">*cuti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

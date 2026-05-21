@@ -1,0 +1,70 @@
+<Entry xml:id="duxota">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxota</orth>
+    <lemma>duxota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>духота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>духота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duhota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>аромат</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duchota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дух, дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>duchota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>duchota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>одышка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 578)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Духота, личное имя собств. (XVII в., Тупиков 196), русск. ду­ хота ж. р. 'вонь, сильный противный запах', 'спертый, душный воздух, наполненный удушливыми испарениями', 'жаркий, тяжё­ лый воздух, знойная пора' (Даль 3 I, 1255), диал. духота ж. р. 'резкий дурной запах; зловоние, вонь, смрад' (твер., Филин 8, 280), 'тёплый, нагретый воздух' (Деулинский словарь 158), укр. духота ж. р. 'зной, жара, духота', 'спёртый воздух' (Гринченко I, 459), блр. духата ж. р. 'духота'. — Ср. ещё сербохорв. дувотм. р. 'дыхание; жизнь' (РСА IV, 783).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="duxb-3">*duxb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

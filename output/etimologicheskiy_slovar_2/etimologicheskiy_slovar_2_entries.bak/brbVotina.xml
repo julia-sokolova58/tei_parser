@@ -1,0 +1,92 @@
+<Entry xml:id="brbVotina">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbVotina</orth>
+    <lemma>brbVotina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БЛАБОТИЫД</ref> Ж . p. ep-etos, vomitus</orth>
+      </form>
+      <sense>
+        <def>рвота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch. и проч., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бдл</ref> 9ватина ж. р.</orth>
+      </form>
+      <sense>
+        <def>блевота , бълотйна ж. р. то же , блувбтина ж. р. пища, извергнутая из желудка (с. Долна Мелна, Трънско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов БД I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бл</ref>&gt;увотина ж. р.</orth>
+      </form>
+      <sense>
+        <def>блевотина, vomitus, b\uvotina ж. р. блевота , стар, блевотина ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в. RJA I, 459—460)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 637, 662)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blivotina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блевотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блевотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что извержено, выкинуто из желудка рвотой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I t 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блевотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блевотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блювбтйна</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>По-видимому, произведено с суфф. -ina от<xr type="compare">см. <ref type="etymon" target="brwota">*brwota</ref>
+    </xr>, чем 
+удостоверяется древность последнего.</note>
+</Entry>

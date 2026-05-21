@@ -1,0 +1,258 @@
+<Entry xml:id="syshsa">
+  <pb n="151" end_page="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сышса</orth>
+    <lemma>сышса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Ч</ref>^АЫИЦА Ж . р.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерево, шелковица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерево, шелковица Morus alba</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>черница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брусника , черная черешня, сорт винограда , църнйцъ ж. р. шелковица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.—БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стой­ чев БД И, 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гю­ мюрджинско. — БД V, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерево, шелковица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>садовая, черная земля, црнйца ж. р. черная черешня</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>црница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порода почвы, тутовое дерево, сорт черешни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mi6. 7, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ernica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>название различных животных черной масти, название различных плодов и растений, черная черешня, черника, чернозем, пе­ регной, темная опухоль, синяк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. v I, 112; Slovar sloven, jezika I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>crnice</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>черника , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sa§el, Ramovs 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ernice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ежевика , cernice ж. p. (XV в., в глоссах, Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cernice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт черешни, сорт груш, ежевика, черника</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cernica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт слив, черная черешня, ежевика, чернозем , cernica ж. p. черная черешня, чернозем , cernica ж. p. черная черешня , cernica ж. p. ежевика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. Ill)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cernica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ежевика Ru- bus caesius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cornica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ежевика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>carnica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черника, каменный уголь , no- лаб. carnaica ж. p. ежевика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 45, с рекон­ струкцией *cfnica)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>czernica</ref>, czyrnica ж. p.</orth>
+      </form>
+      <sense>
+        <def>черника Vaccinium myrtillus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. I, 369: 1472 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czernica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>черника, болезнь крови, порода утки, чернеть Fuligula cristata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Черница</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1501 г., Тупиков 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника Vac­ cinium myrtillus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чернйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника, ежевика , чорнйця ж. р. тоже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 458)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарнща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черника</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чарнщы</ref> мн. ч.</orth>
+      </form>
+      <sense>
+        <def>ягоды черники</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 488)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Лоренц приводит еще полаб. czorneicia 'мазница, ведро с дег­ тем' (F. Lorentz. Polabisches. — ZfslPh I, 1925, 58—59), не упо­ минаемое, напр., в словаре Полянского—Сенерта.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="sgp">*сьгпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,20 @@
+<Entry xml:id="brbvbje">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbvbje</orth>
+    <lemma>brbvbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>brut</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брови</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с собир. суфф. -ъ/е от основы Ьгъи- (см.<ref type="etymon" target="bry-4">*bry)</ref>.</gram>
+  </gramGrp>
+</Entry>

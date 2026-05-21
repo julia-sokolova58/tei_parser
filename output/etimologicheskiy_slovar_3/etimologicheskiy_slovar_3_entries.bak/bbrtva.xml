@@ -1,0 +1,73 @@
+<Entry xml:id="bbrtva">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrtva</orth>
+    <lemma>bbrtva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бртва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борть, дупло, отверстие в стволе де­ рева или в стене, которое устраивается также и специально для ловли улетевших роев пчел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бртва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>за­ тычка, пробка . — Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Brtua</ref> ж. р., название деревни Kott VI, 1078, также Brtuy .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Близко родственно<xr type="compare">см. <ref type="etymon" target="n">*ЬъНъ</ref>
+    </xr>, ср. и знач. макед. слова.</note>
+  <gramGrp>
+    <gram>Вместе с тем формально может быть истолковано как имя с суфф.<m type="suffix">
+        <ref>-tua</ref>
+      </m> 
+от гл. <ref type="etymon" target="bbrti">*bbrti</ref>, 
+прямо не засвидетельствованного в слав, 
+языках, 
+но 
+косвенно 
+существующего 
+в своих 
+именных 
+производных; 
+в частности, только наличием производящего гл. <ref type="etymon" target="gy">*Ьъгй</ref> 
+можно 
+объяснить также имя <ref type="etymon" target="n-4">*ЬъНъ</ref>.</gram>
+  </gramGrp>
+  <note>Тип образования *ЬъНиа — тот же, что у *bitva,<xr type="compare">см. <ref type="etymon" target="britva">*britva</ref>
+    </xr>. Полное этимол. 
+соответствие 
+праслав. 
+*ЬъгИ 'делать надрезы, надрезать, вырезать' находим в лит. burti 
+'колдовать' (с вторичным знач. из 'резать, 
+надрезать', ср. ниже 
+*bbrtviti); 
+отметим 
+еще словообразовательную 
+близость 
+слав. 
+*bbrtua 
+и лит. bur-tv-is 
+'колдун, чародей'.</note>
+</Entry>

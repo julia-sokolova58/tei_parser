@@ -1,0 +1,39 @@
+<Entry xml:id="gatisce">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatišče</orth>
+    <lemma>gatišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gausco</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>запруда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гатище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>настил из тонких бревен и жердей на за¬ !* волоченных участках дороги; гать , также в ;. Гатище, местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тюмен., Филин 6, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Namenbuch И, 325; Worterbuch der russischen Gewassernamen I, 424)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="gatb">*gatb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,125 @@
+<Entry xml:id="edlovj">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edlovъ(jь)</orth>
+    <lemma>edlovъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>елбв</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>еловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>елов</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>еловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>елов</ref>, -а, -о то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelov</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>еловый, хвойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jedlovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>еловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedlovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>еловый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedVovy</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jodlowy</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>пихтовый, еловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>еловый</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Иез. XXVII. 5, Срезневский I, 824)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>еловый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относя­ щийся к ели, из елей, из елового дерева сделанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яловий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>еловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 540)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="edlaf">*edlaf</ref>
+      <ref type="etymon" target="edlb">*edlb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

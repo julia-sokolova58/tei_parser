@@ -1,0 +1,73 @@
+<Entry xml:id="dudorati">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dud(o)rati</orth>
+    <lemma>dud(o)rati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дупдури</ref> се</orth>
+      </form>
+      <sense>
+        <def>расфуфыриваться, сердиться, дуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дундорати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормотать, говорить неразборчиво , также дундорити</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdrati</ref>, dfndrati</orth>
+      </form>
+      <sense>
+        <def>тарахтеть, тарабанить, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dudrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, брюзжать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dudraV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шептать, нашептывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 340)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. происхождения. Ср. предыдущее.</note>
+</Entry>

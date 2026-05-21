@@ -1,0 +1,109 @@
+<Entry xml:id="berkyni">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berkyni</orth>
+    <lemma>berkyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёкииа</ref>, брекйня</orth>
+      </form>
+      <sense>
+        <def>вид рябины Pirns lorminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; Геров: BJJ'LKMNW ж. р. 'рябина Sorbusčaucuparia')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брёкина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Pirus (Sorbus) aria , брЧпина ж. р. лесное дерево Sorbus domestica и его плод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД .1, 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов БД I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брекина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёпшъа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Sorbus torminalis L., Sorbus aria , плод, ягода этого растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брёкитьа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красные ягоды лесного дерева определенного вида; само дерево (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brekinja</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>Sorbus sp., Sorbus aria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfekyne</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>acerina (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfekyne</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода растения Pirus torminalis</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brekyna</ref> ук. р.</orth>
+      </form>
+      <sense>
+        <def>вид рябины, берека Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 129)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ynl</ref>
+      </m> от основы <ref type="etymon" target="berk--2">*berk-</ref> (см. <ref type="etymon" target="berka">*berka</ref>, <ref type="etymon" target="egk-2">*Ьегкъ)</ref>.</gram>
+  </gramGrp>
+  <note>Зап.-укр. диал. bra/супа представляет собой, но сути, заимство­ вание из иольск., т. к. отражает проявившуюся в последнем вторичную назализацию. См. Moszynski. Pierwotny zasia.g 54.</note>
+</Entry>

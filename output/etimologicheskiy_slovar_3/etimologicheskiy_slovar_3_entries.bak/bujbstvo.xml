@@ -1,0 +1,64 @@
+<Entry xml:id="bujbstvo">
+  <pb n="86" end_page="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujbstvo</orth>
+    <lemma>bujbstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буйство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>буйство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bujstvo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>stultitia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV в., R J A I, 719)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>буйство</ref> popia</orth>
+      </form>
+      <sense>
+        <def>простота ; Оуноша три . . . вел-Ьниге моучителево на боуиство преложыпе (s$) els cpXiQvacpov болтливость, пустословие , jxropia невежество , смелость (Сл. плк. Игор. и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кор. 1.1.21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ирм. о. 1250 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кор. 1.Ш.19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>буйство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>буйное поведение, бесчинство</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-hstvo</ref>
+      </m> от <ref type="etymon" target="bujb">*bujb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

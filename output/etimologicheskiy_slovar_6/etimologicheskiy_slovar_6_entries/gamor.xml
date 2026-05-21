@@ -1,0 +1,52 @@
+<Entry xml:id="gamor">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gamorъ</orth>
+    <lemma>gamorъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hamdr</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грохот, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гймор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум; беспокойство , гамбра ж. р. громкий шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Филин 6, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(донск., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гамгр</ref>, род. п. -мору, м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, крик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Достаточно стар, производное с суфф.<m type="suffix">
+        <ref>-огъ</ref>
+      </m> от гл. <ref type="etymon" target="gameti">*gameti</ref> / <ref type="etymon" target="ga-">*ga-</ref>
+miti (см.).</gram>
+  </gramGrp>
+  <note>О чеш. слове см. Machek 2 159 (без упоминания связи с вост.-слав.).</note>
+</Entry>

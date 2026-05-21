@@ -1,0 +1,107 @@
+<Entry xml:id="dervbje">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervbje</orth>
+    <lemma>dervbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drijeufe</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>дрова , dpeeje то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 779)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 680)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>driv</ref>\e</orth>
+      </form>
+      <sense>
+        <def>дерево, лес (материал)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dreuje</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>деревья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfiui</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дрова</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>drzewie</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>деревья, (виноградная) лоза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 572; Dorosz. II, 406)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>деревищ</ref> собир. от дерево</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 653)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>деревья</ref> мн. от дерево</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дерёвле</ref>, деревлё ср. р.</orth>
+      </form>
+      <sense>
+        <def>большое дерево (урал., каракалпак.), древесина (урал., каракалпак.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерёвля</ref> ж. р., возм., также деревня</orth>
+      </form>
+      <sense>
+        <def>срубленные деревья, лес для построек , ср., впрочем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>продолжения</ref> праслав. *dervbnb (см. след.).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь/е (собир.) от<ref type="etymon" target="deruo-3">*deruo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,132 @@
+<entries>
+  <entry xml:id="brudnj" xml:id="brudnj">
+    <pb n="45" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brudьnъjь</orth>
+      <lemma>brudbnbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brudny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грязный, бурый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott VI, 1078)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>brudny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грязный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott. Dod. k Bart. 7)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>книжи</ref>. brudny, прилаг.</orth>
+        </form>
+        <sense>
+          <def>грязный, нечистый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 135; ср. еще Kott I, 102, со ссылкой на Bernolakuv Slovar slovensky, 1825 г.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>brudny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>нечистый, грязный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 52, 1059)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>brudny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грязный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka Sj. I, 82)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brudny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>грязный, нечистый, загрязненный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 671)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>br</ref>&amp;dni, прилаг.</orth>
+        </form>
+        <sense>
+          <def>грязный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . I, 73)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брудный</ref>, -ая, -ое</orth>
+        </form>
+        <sense>
+          <def>гряз­ ный, мутный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(смол., Филин 3, 200)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бруднйй</ref>, -а, -е</orth>
+        </form>
+        <sense>
+          <def>грязный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 101)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брудный</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>нечистый, дурной по поведе­ нию</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 35)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ъп- от <ref type="etymon" target="brudb">*brudb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

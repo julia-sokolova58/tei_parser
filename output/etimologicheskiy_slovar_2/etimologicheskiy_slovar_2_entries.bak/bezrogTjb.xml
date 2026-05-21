@@ -1,0 +1,98 @@
+<Entry xml:id="bezrogTjb">
+  <pb n="42" end_page="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezrogT&gt;(jb)</orth>
+    <lemma>bezrogT&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безрог</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безрогий, комолый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Ге­ ров: -ый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безрог</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezrohy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezrohy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezrogi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 132; Dorosz. I, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безрогий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>не имеющий рогов; комолый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безрогий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>безрогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязрбгЬ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безрогий, комолый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-86">*bez</ref> (см.) 
+и основы имени <ref type="etymon" target="rogb">*rogb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Подробно о прилаг-ных этого типа см. на *bez.</note>
+</Entry>

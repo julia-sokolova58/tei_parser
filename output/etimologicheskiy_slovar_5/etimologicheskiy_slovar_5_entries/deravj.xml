@@ -1,0 +1,42 @@
+<Entry xml:id="deravj">
+  <pb n="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕravъjь</orth>
+    <lemma>dĕravъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>deravy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дырявый, елвц. deravy, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>деравий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>дырявый , dipAeuu то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 392)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> от итеративной глаг. основы 
+с инновационным -ё- (зап.-слав. инновация на базе основы <ref type="etymon" target="dira-">*dira-</ref>?).</gram>
+  </gramGrp>
+  <note>Ср., далее, *dira, *diravb.</note>
+</Entry>

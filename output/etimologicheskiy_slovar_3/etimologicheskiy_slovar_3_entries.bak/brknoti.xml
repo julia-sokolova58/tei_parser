@@ -1,0 +1,166 @@
+<entries>
+  <entry xml:id="brknoti" xml:id="brknoti">
+    <pb n="127" end_page="128" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrknǫti</orth>
+      <lemma>bi&gt;rknqti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>брькнж</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>запустить, засунуть руку или другое что куда-нибудь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бркне</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>погнать, порыться, по­ шарить, сунуть руку (в карман)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бркнути</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сунуть, провести (рукой, пальцем)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА 11, 185)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bfkniti</ref>=tekniti: nic mu ne brkne , стар, berkniti</orth>
+        </form>
+        <sense>
+          <def>бро­ сить, швырнуть (Jarnik VII)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 63)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brknouti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>споткнуться, задеть, наткнуться, крикнуть, щелкнуть пальцами, шепнуть</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>brknot</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>споткнуться , bfknut губежать,|удрать, споткнуться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Gregor. Slov. slavkov.-bucov. 28)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kott. Dod. k Bart. 6)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brknuV</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>быстро пролететь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>borknyd</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>выбро­ сить мордой (напр., о кроте); ударить (по чему-либо) (Zeman)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>буркнуть</ref>, евргп. от буркать</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>ббркнуть</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>кинуть, швырнуть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(волог., Филин 3, 100)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>буркнути</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>буркнуть bbrkotati</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 156)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>буркнуты</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>буркнуть, проворчать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Грин­ ченко I, 112)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>буркнуцъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>юркнуть, броситься в воду, ска­ зать , буркнуть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 39)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 135)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ngti</ref>
+        </m>, 
+производный от основы <ref type="etymon" target="gkai">*ЪъгкаИ</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

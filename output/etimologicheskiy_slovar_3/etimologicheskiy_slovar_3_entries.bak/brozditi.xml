@@ -1,0 +1,38 @@
+<Entry xml:id="brozditi">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brozditi</orth>
+    <lemma>brozditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brozditl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>se conjicere, впутываться в скверное дело</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 681)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brozditl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить туда-сюда, broz­ ditl se ходить, бродить (напр. по росе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska Slov. chod. 15)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное образование, ср.<ref type="etymon" target="brodltl">*brodltl</ref> 
+и 
+<ref type="etymon" target="brozdatl">*brozdatl</ref>.</gram>
+  </gramGrp>
+</Entry>

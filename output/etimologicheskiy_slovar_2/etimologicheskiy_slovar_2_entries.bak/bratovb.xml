@@ -1,0 +1,88 @@
+<Entry xml:id="bratovb">
+  <pb n="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratovb</orth>
+    <lemma>bratovb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>братов</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братов, принадлежащий брату</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>братуф</ref>, -ува, прилаг.</orth>
+      </form>
+      <sense>
+        <def>братов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков Банат. 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>братов</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братов</ref>, -а, -о то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bratou</ref>, -ova, -ovo то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak Orav. 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bratow</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братгв</ref>, -това</orth>
+      </form>
+      <sense>
+        <def>братов, принад­ лежащий брату</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>братау</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. словарь 131)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф.<m type="suffix">
+        <ref>-ovb</ref>
+      </m> от <ref type="etymon" target="bratb-3">*bratb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

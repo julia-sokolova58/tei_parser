@@ -1,0 +1,79 @@
+<Entry xml:id="baxoriti">
+  <pb n="134" end_page="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxoriti</orth>
+    <lemma>baxoriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бахорити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать, заговаривать (болезнь, горе)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bahoriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колдовать , сюда же Ъа- hdriti хвастать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bachoriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 63; Kott I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бахбрить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать , разговаривать, беседовать; сплетничать; наря­ жаться , болтать, говорить п о п у с т у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бахорити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворожить, гадать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. I. Реденець. Особливост1 гов1рки села Малий Ра- ковець 1ршавського округу. Дип. роб. У ж г о р о д , 1952, 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное суффиксальное расширение (-х-ог-Ш) основы Ьа- (см.<ref type="etymon" target="bajati-3">*bajati)</ref> или глагольное производное на -Ш от имени 
+<ref type="etymon" target="baxora">*baxora</ref>, <ref type="etymon" target="akhog">*Ъахогъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

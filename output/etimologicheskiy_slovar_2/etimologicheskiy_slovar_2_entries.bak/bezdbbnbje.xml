@@ -1,0 +1,59 @@
+<Entry xml:id="bezdbbnbje">
+  <pb n="23" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbbnbje</orth>
+    <lemma>bezdbbnbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezdane</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>abyssus, бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdnie</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бездонъе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>непроходимое болото (арх.), бездна, пропасть (пек., смол., сев. и сев.-зап. обл. СССР)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяз</ref>- дбнне ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ]е от основы<ref type="etymon" target="bezdbbn--2">*bezdbbn-</ref> 
+(см. <ref type="etymon" target="bezdbbna">*bezdbbna</ref>, 
+там же подробно о происхождении и образовании).</gram>
+  </gramGrp>
+  <note>См. еще Meillet. Etudes II, 384.</note>
+</Entry>

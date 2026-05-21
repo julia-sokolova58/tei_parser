@@ -1,0 +1,26 @@
+<Entry xml:id="drebeti">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drębĕti</orth>
+    <lemma>drębĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрябётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребезжать или издавать глухой, дрожащий звук , дребеть дребезжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1237; Филин 8, 225: влад., иван.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(иван., Филин 8, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Напоминает лит. drebeti 'дрожать, трястись', однако эта бли­ зость обесценивается экспрессивным и, по-видимому, звукоподра- жат. характером слав, слова.<xr type="compare">Ср. <ref type="etymon" target="drebnyti">*drebnyti</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

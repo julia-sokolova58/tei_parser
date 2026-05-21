@@ -1,0 +1,74 @@
+<Entry xml:id="datbkb">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>datbkb</orth>
+    <lemma>datbkb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>датак</ref>, род. п. датка, м. р.</orth>
+      </form>
+      <sense>
+        <def>подать, налог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>datek</ref>, род. п. -tkuy м. р.</orth>
+      </form>
+      <sense>
+        <def>подарок; вознаграждение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>datk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>передача, сдача</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ddtk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>даток</ref>, род. п. -тку, м. р.</orth>
+      </form>
+      <sense>
+        <def>даянье, подаянье,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 359)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> 
+(субстантивация) 
+прич-я 
+страд, 
+прош. вр. <ref type="etymon" target="datb">*datb</ref> от гл. <ref type="etymon" target="dati">*dati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

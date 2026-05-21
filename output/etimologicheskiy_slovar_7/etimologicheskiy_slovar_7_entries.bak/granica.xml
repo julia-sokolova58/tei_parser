@@ -1,0 +1,192 @@
+<Entry xml:id="granica">
+  <pb n="105" end_page="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>granica</orth>
+    <lemma>granica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>граница</ref> ж. p. lignum</orth>
+      </form>
+      <sense>
+        <def>ветвь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Nicod., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гра</ref>- •granivb ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница , граница ж. р. вид ветвистого дуба Quercus pedunculata , гръница дуб (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>граница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид дуба со сладкими желудями , граница ж. р. дуб Quercus pubescus , граница ж. р. вид дуба , граница ж. р. вид дуба Quercus pedunculata, Quercus pu­ bescus (Лъкавица, Ботевградско; с. Бели-Осъм, Троянско; Сев.- Зап. България; Солунско; с. Еркеч, Поморийско; Мъглиш; Сев- лиевско; Зап. България. — Архив Болг. диал. словаря, София), гръница ж. р. старый дуб , гърнйца ж. р. дуб Quercus sessiliflora</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Стоиков. Днешно състояние на еркечкия говор 358)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фраз и из Зап. България.—СбНУ XI, 1894, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(К. Попов. Говорът на с. Габаре, Белослатинско 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>граница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница , граница ж. р. вид дуба Quercus pedunculata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>граница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница, вид дуба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>granica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hranice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница, шта­ бель (напр. дров), елвц. hranica ж. р. граница, куча дров, костер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>granica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница, межа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>granica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gra-nca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>граница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>terminus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подтвр. грам. 1361 г.; Жал. гр. Под. кн. 1375 г.; Купч. 1400 г., Срезневский I, 584—585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>граница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>естественная или условная линия, разделяющая две смежные земли, области и т. п.; межа, черта раздела</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>граница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пустое зерно в хлебе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., орл., тул., калуж., Филин 7, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гранйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница, исландский мох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гранща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница; передел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.-ica от<ref type="etymon" target="granb-2">*granb</ref> 
+(см. 
+<ref type="etymon" target="grana">*grana</ref>\<ref type="etymon" target="gra">*gra</ref>№\<ref type="etymon" target="gran">*gran</ref>\&gt;).</gram>
+  </gramGrp>
+</Entry>

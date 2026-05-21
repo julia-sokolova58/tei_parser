@@ -1,0 +1,67 @@
+<Entry xml:id="elsa">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elьša</orth>
+    <lemma>elьša</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>елша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольха Alnus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. )<ref>елша</ref> ж. р. (сев. Хорватия)</orth>
+      </form>
+      <sense>
+        <def>ольха Alnus, также (кайкав.) jalsa ж. р. , joiua ж. p. , jeema ж. p. , сюда же производное ]ошл&gt;дл м. р. ольшаник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(и в словаре Белостенца, RJA IV, 444)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA VIII, 778)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 622)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelsa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольха , jolsa ж. p. , jalsa ж. p. , ср., с отли­ чием начала слова, olsa ж. р. ольха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 373)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 357)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 827)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>ousa</ref> (Бодуэн де Куртенэ. Терские славяне в север. Италии. 1873 г.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Архив АН СССР, ф. 102, on. 1, № И , л. 157), чеш. диал. jelse ж. р. 'ольха', обычно olse ж. р., слвц. jelsa ж. р. 'ольха Alnus' (SSJ I, 649), также jalsa (Kalal 215), диал. olsa (Stanislav. Lipt. 106), н.-луж. wolsa ж. p. 'ольха Alnus' (Muka Sf. II, 919), польск. olsza ж. p. 'ольха Alnus' (Warsz. Ill, 766).</note>
+  <gramGrp>
+    <gram>Перемежающееся с формами от<ref type="etymon" target="o1yoa">*о1ъёа</ref> (см.) производное с суфф. 
+-7- от <ref type="etymon" target="e">*е</ref>\ъха (см.).</gram>
+  </gramGrp>
+</Entry>

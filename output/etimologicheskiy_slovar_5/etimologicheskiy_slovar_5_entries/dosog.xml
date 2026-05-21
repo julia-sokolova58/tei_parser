@@ -1,0 +1,109 @@
+<Entry xml:id="dosog">
+  <pb n="82" end_page="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dosǫgъ</orth>
+    <lemma>dosǫgъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>досХгъ</ref> ,</orth>
+      </form>
+      <sense>
+        <def>свободное или удобное время , умение, лов­ кость, способность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пытати варить по досугу . . . какъ могя. Каб. запись XIV в., Срезневский I, 717)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. Бор. Ал. с кор. Каз. 1449 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ин. Сказ., 109, XVII в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. РЯ XI—XVII вв. 4, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>досуг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>время, свободное от работы, занятий, каких-либо дел</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>досуг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ладно, хорошо, ничего , с досугом с уменьем или особенно добрыми качествами* .—Сюда же прилаг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоц­ кий 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>досугий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>престарелый , далее — йотовое производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кременч. у., Гринченко I, 432)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>досужий</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Поповъ и дьяконовъ изобра дозужихъ людей. Никон, л. под 1604 г., Срезневский 1, 717)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>досужий</ref>, -ая, -ее Свободный от работы, праздный</orth>
+      </form>
+      <sense>
+        <def>(устар. и обл.) знающий свое дело, умелый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>досужий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>знающий, сведущий , расторопный, пронырливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., петерб., Доп. к Опыту 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулин- ский словарь 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дасужы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работающий, успевающий раньше других</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное имя, производное с -о- вокализмом от<ref type="etymon" target="dos">*dos</ref>?gaJti 
+(см.).</gram>
+  </gramGrp>
+  <note>Подробно см. Б. М. Ляпунов. Из семасиологических этюдов в области русского языка: досуг и пр. — ИАН ОЛЯ V, 1946, 6 3 - 6 8 .</note>
+</Entry>

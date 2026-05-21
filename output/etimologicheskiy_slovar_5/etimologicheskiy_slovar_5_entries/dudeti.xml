@@ -1,0 +1,45 @@
+<Entry xml:id="dudeti">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dudĕti</orth>
+    <lemma>dudĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дудеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на дудке, трубе, духовом инструменте</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дудеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, свистеть, гудеть (о ветре)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., Филин 8, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дудзёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дудеть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ей</ref>
+      </m>, производный от <ref type="etymon" target="duda">*duda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

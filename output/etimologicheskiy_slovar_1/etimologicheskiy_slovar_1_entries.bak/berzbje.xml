@@ -1,0 +1,83 @@
+<Entry xml:id="berzbje">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzbje</orth>
+    <lemma>berzbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёз</ref>]е, брёж%е ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>березы, березовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA II, 144, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>березовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfizi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>березовая поросль, ветки березы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bfezi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>березовый лес , березовые ветки, молодая поросль , сюда же ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bfezle</ref> ср. р. местн. название (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brezie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>березовая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берёзье</ref>, березъё, ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>березовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., смол., ленингр., Филин 2, 254)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф. -ь/е от<ref type="etymon" target="berza">*berza</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

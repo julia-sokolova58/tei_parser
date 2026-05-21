@@ -1,0 +1,34 @@
+<Entry xml:id="arcbbjb">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>arčbbjb</orth>
+    <lemma>arčbbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jar</ref> aby</orth>
+      </form>
+      <sense>
+        <def>пестрый , jar aby</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaraby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пестрый, рябой (обычно о птицах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 632)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Членная адъективная форма основы *areb- (<xr type="compare">см. <ref type="etymon" target="age">*агеЬъ</ref>
+    </xr>).</note>
+</Entry>

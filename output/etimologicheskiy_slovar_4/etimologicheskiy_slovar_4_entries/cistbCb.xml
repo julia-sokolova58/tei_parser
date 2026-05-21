@@ -1,0 +1,24 @@
+<Entry xml:id="cistbCb">
+  <pb n="122" end_page="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistbCb</orth>
+    <lemma>cistbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чйстац</ref>, чйстац, род. п. -сца, м. р.</orth>
+      </form>
+      <sense>
+        <def>пус­ тое, бесплодное яйцо, целебное растение Stachys recta L., Sideritis</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Sistec 'неоплодотворенное яйцо' (Plet. II, Dod. Ill), 'олово', также в выраж. па Sistec priti 'выяснить' (Plet. I, 105), ст.-чеш. Sistec м. p. 'electrum, stannura, penthafi- lion, peristerion' (Ст.-чеш., Прага), чеш. Sistec, род. п. -tee, м. p. 'растения Stachys, Veronica', Sistec, род. п. -stcc, м. p. 'кто-либо чистый, что-либо чистое', 'чистилище', 'озеро', 'олово', 'название c i t a v b ( j b ) некоторых растений' (Jungmann I, 300), диал. cistec, род. п. -tea, м. р. 'растение Linaria vulgaris', 'наледь' (Bartos. Slov. 49), слвц. Sistec, род. п. -tea, м. p. 'сорная трава Stachys arvensis' (SSJ I, 213), диал. cisVec м. p. 'Betonica officinalis L.' (Matejcik. Vychodonovohrad. 159), н.-луж. cysc м. p. 'растение Girsium ole- raceum Scop.' (Muka St. I, 149), др.-русск., русск.-цслав. чистьць 'олово' (Библ. 1499 г. и др., Срезневский III, 1534), русск. чи- стёц, род. п. -тца, м. р. 'растение Geum urbanum, гребник, гравилат', лён чистец 'очищенный, отрепленный и вычесанный', 'живучка Stachys' (Даль 3 IV, 1347), укр. чистёць, род. п. -тцю, м. р. 'растения Draba verna L.', 'Gallium mollugo L.', 'Orobus alus L.', 'Stellaria Holbostea L.', 'Stachys recta L.' (Гринченко IV, 464).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от прилаг. <ref type="etymon" target="cistb-5">*cistb</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Berne­ ker I, 158.</note>
+</Entry>

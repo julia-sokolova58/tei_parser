@@ -1,0 +1,28 @@
+<Entry xml:id="abrdbje">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abr§dbje</orth>
+    <lemma>abr§dbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>jabrzgdzie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вид тополя , abrzfdzie то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(St. g. polsk. I, 1)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ]'е от основы, представленной в<ref type="etymon" target="abrydb">*abrydb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Можно отметить формальный параллелизм праслав. *abr$dbje и иллир. (мессап.) [3psvuov, где этимологически тождественные основы расширены с помощью тождественного суфф. -Но-. См. еще *abredbje.</note>
+</Entry>

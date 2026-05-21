@@ -1,0 +1,53 @@
+<Entry xml:id="ezeranezeren">
+  <pb n="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ezer’anъ/*ezerĕnъ</orth>
+    <lemma>ezer’anъ/*ezerĕnъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>егегёпъ</orth>
+    <lemma>егегёпъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jteepaHWH</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>живущий близ озера , Jezerdni мн., название села в Хорватии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 698)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezeran</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гриб Agaricus caesareus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 369)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezeran</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>озерный житель, живущий у озера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 609)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См.: Й. Займов. Заселване на българските славяни на Балканския полуостров (София, 1967) 130: Езерени, село у Преспанского озера, ср. польск. Jeziorzany, чеш. Jezefany, укр. Озеряни.</note>
+  <gramGrp>
+    <gram>Производное с суфф. - уапъ/-ёпъ (название лица) от<ref type="etymon" target="ezero">*ezero</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,408 @@
+<Entry xml:id="grana">
+  <pb n="103" end_page="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grana</orth>
+    <lemma>grana</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grani</orth>
+    <lemma>grani</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>granb</orth>
+    <lemma>granb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грана</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ветка , грань ж. р. ветка , гранима, ветви , гран м. р. грань (напр. кристалла, драгоценного камня) , грань ж. р. пасмо пряжи , сюда же грън м. р. дуб (Дювернуа), производное гранка ж. р. ветка, прут, жердь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Младе­ нов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров, Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гран</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж. р. ветвь дерева , грани мн. прутья в ограде , гране мн. вер­ хушки деревьев (с. Сопица — Перник; Трънско, Архив Болг. диал. словаря, София), гранка ж. р. ветка дерева, гранкж ж. р. часть смотанной пряжи , гранк?а ж. р. ветка , гранък м. р. смотанная пряжа , грант м. р. вид дуба (с. Г. Камарци, Ботевградско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Стоиков, К. Костов и др. Говорът на с. Говедарци, Самоковско 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов Б Д III, 321)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материал за българския речник. От гр. В.-Търново — СбНУ XIV, 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Стоиков, К. Костов и др. Говорът на с. Говедарци, Самоковско 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветка, ветвь, гранка ж. р. то же , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>granka</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevuani dialect of Macedonian 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грана</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ветка, также грагь м. р., грагьа ж. р. , ум. гранка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 573; RJA III, 384)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 570)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветка, сорняк, Triticum repens , связка каштанов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 245)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 245; Saselj I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hrana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>грань, острый край , hrano ср. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 485)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (стар.) <ref>hran</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(острый) угол, грань, hrana ж. р. острый край, ребро, грань, hran, hran штабель (дров)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча (дров, камней и т. п.) , hrdnka поленница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ребро, острый край</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>острый угол, край, ребро , также hran</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>край, угол, строка , гроздь , gran ж. р. угол, край, строка , гроздь или виноградная кисть, усик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 315)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>gran</ref> ж. p., gran м. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grania</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>угол, край, ребро, граница, предел , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 902; Dorosz. И, 1289)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грань</ref> angulus, terminus; caput, titulus, xecpaXaiov, TITAOS</orth>
+      </form>
+      <sense>
+        <def>две черты напере­ крест X , грань межевой, порубежный знак на какой-либо поверхности , грань , гранка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. крм. 1280 г., 315; Ряз. крм. 1284 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Обв. меж. зап. 1391 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 585)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Арх. Стр. I, 204, 1530 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(АХУ III, 324. 1663 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(СлРЯ X I - X V I I вв. 4, 121—122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Месия есть стекло толсто, сломано гранками, всяких цв-ктовъ, и т*кми выкладано образы, лицы и ризы. Аре. Сух. Проскинитарий, 170. 1653 г., СлРЯ XI—XVII вв. 4, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>граница, сторона плоскости или твер­ дого тела, пересекающаяся с другими сторонами под углом; пло­ скость обреза</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грань (олон.), часть чего-либо (север.), граница чего-либо (перм., яросл., зауральск.) , гран м. р. грань , граны мк. грани , гряна ж. р. боль­ шая игла для сшивания грубого полотна, парусов и рогож , грань граница, правильно отрезанная часть ко- ровая, ребро у граней на граненом предмете, грань граница земельных станичных владений, сторона , грань столб (около метра высотой), обозначав­ ший границу владений соседних деревень , грань ж. р. граница земельных участков, межа (ряз., новг., волог., курск., ворон., донск., терск., пенз., куйбыш., вят., перм., оренб., у рал., челябин., том., новосиб., горноалт.), государственная граница (том., челябин., новосиб., горноалт.), пограничная межевая заметка (столбы, ямы и т. п.) (ряз., новг., ворон., оренб., челябин., пенз.), просека в лесу (перм.), часть, кусок чего-либо (новг., костр., каз., донск., терск., вят.) , грань ж. р. рама бороны , грань ж. р. несколько лесных русских орехов, сросшихся вместе (моек.), несколько яблок на одной ветви от одной почки (Бурнашев — без указ. м.) , гранка, грянка большая игла для сшивания грубого полотна, парусов и рогож , гранка "сросшиеся в кучу орехи на одном общем стебле , гранка ком густого теста, из которого приготовляются баранки (Бычков. Слова Валдайского уезда и Владимирской губернии XLIII), гранка ж. р. продольные мелкие складки на материи, гофрировка (обычно на черных паневах) (ряз., тамб.) швейная игла с трех­ гранным концом (арх.), стекло (сарат., ряз., пенз.) , гранка кусок (Картотека Псковского областного словаря), гранка узкая возвышенная полоса вдоль болота (арх., Картотека СТЭ), гранка ж. р. отверстие , возм., сюда же, далее, гранок, род. п. -нка, м. р. жаворонок, стриж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(якут., там же; так же см. Словарь русских старожильческих говоров средней части басе. р. Оби. Доп. I, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богораз 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Дон­ ской словарь 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(свердл., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 965)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 7, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гряна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть? , грань ж. р. межа, граница, грань, боковая плоскость в многограннике , производное гранка ж. р. грань, чашечка, в которой сидит орех, сорт ячменя, ячмень двурядный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Як придавив ложкою, так шкурка на Kami аж на чотир1 гряни й роспалась. Черк. у., Гринченко I, 334)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко 1,322)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гранка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>приспособле­ ние для подвески вощины в стояке , гранка ветка дерева, соплодие лесных орехов, грань пред­ мета, хребет горы , гранка ж. р. пространство между двумя стенками в клади снопов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 328, 357)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический атлас 101, карта № 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Приймак. До особливостей мдецево? лексики швшчно- захщних райошв Сумсько! обл. 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грань</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грань</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гранка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, кучка , грант мн. соты, наполненные медом , углубле­ ния в грядках , гранок, род. п. -нка, м. р. стриж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 139)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(3 народнага слоунша 207)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Мапл. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="gran-">*gran-</ref> 
+со своими многочисленными 
+значениями, из 
+которых следует выделить особенно значение 'ветка', 'соплодие' и 
+близкие (см. выше), хорошо объясняется как продолжение произ­
+водной отглагольной именной 
+(первонач. прич.) формы 
+<ref type="etymon" target="ghrd-n-">*ghrd-n-</ref>, 
+ср. прежде всего др.-в.-нем. gruoni, 
+нем. griin 
+'зеленый' (обычно 
+слав, слово сближают в первую 
+очередь с нем.</gram>
+  </gramGrp>
+  <note>Granne 'ость ко­ лоса' и близкими, хотя непосредственности этого сравнения сильно мешает несоответствие в вокализме корня слав, и герм. слов). И.-е. *ghrd-n- связано чередованием гласных с глагольной осно­ вой и.-е. *ghre-: *ghro-, *ghrd- 'расти, давать побеги', ср. др.-в.- нем. gruoen, др.-англ. growan, англ. (to) grow. Сюда же, далее, относятся такие производные как гот. gras, др.-в.-нем. gras 'трава', праслав.<xr type="compare">см. <ref type="etymon" target="grozdbb">*grozdb/b</ref>
+    </xr>. См. Berneker 
+I, 346; 
+F. A. Wood KZ 
+XLV, 1913, 63 (иное толкование — из *ger- 
+'схватывать', 
+'соби­
+рать', ср. греч. dyet'po)); W. 
+Krogmann 
+«Glotta» 
+23, 1935, 223; 
+W. Cimochowski LP V, 1955, 192 (ср. алб. grere 
+'что-либо колю­
+чее' &lt; *gro-n-); 
+Kluge
+2 0 275 (grun); 
+Фасмер I, 
+452—453; Slawski 
+I, 340—341; F. Stawski RS XVI, 1, 
+1948, 88; K. Moszynski JP 
+XXXVI, 1956, 110; Pokorny I, 
+454; Machek
+182—183 (с неко­
+торыми специфич. отклонениями в этимологии); Skok. Etim. rjecn. 
+I, 608; Bezlaj. Etim. slovar sloven, jez. I, 170. Cp. <xr type="compare">см. <ref type="etymon" target="gronoigrona">*gronoi*grona</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,43 @@
+<Entry xml:id="gybiti">
+  <pb n="217" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gybiti</orth>
+    <lemma>gybiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gibiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать в складки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйбитъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнуться, прогибаться; накреняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деул. сл. 109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, соотносительный 
+с <ref type="etymon" target="gybati-3">*gybati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Новый каузатив, ср. более стар.<xr type="compare">см. <ref type="etymon" target="gubiti">*gubiti</ref>
+    </xr>.</note>
+</Entry>

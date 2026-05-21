@@ -1,0 +1,64 @@
+<Entry xml:id="grustb">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grustb</orth>
+    <lemma>grustb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grust</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грусть</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чувство печали, тоска, уныние. — Ср. сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>grst</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тошнота , grusta, grusta, чакав. grusda ж. р. скука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV, XVI вв., RJA III, 471)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA III, 482, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grusca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-tb</ref>
+      </m> 
+от основы 
+<ref type="etymon" target="grud-">*grud-</ref>, 
+представленной 
+в <ref type="etymon" target="gruditi">*gruditi</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Нулевая ступень вокализма сербохорв. grst ло­ кальное явление, ср. также сербохорв. grusta (выше).</note>
+</Entry>

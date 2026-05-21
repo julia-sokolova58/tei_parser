@@ -1,0 +1,80 @@
+<Entry xml:id="berzina-2">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzina</orth>
+    <lemma>berzina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брежина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>холмистое место , крутизна (диал., Георгиев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brezina</ref> ж. р., увеличит, от brijeg</orth>
+      </form>
+      <sense>
+        <def>берег; холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 639; РСА II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezina</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>берег; насыпь; побережье, склон, обрыв, возвышен­ ность, горное сено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brezina</ref> ж. р. редк.</orth>
+      </form>
+      <sense>
+        <def>склон; холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бережйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отмель, идущая от берега в море, прибрежный луг, пожня, трава, растущая на морском берегу, редкий лес вдоль берега реки, теплая вода, парное молоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с.-в.-р., Филин 2, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бережйна</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>прибрежье, побережье, бережйна береговая трава, береговое сено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51; У к р . - р о с . словн. I, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="bergb">*bergb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

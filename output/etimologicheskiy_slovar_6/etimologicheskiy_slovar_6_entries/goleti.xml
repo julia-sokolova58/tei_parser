@@ -1,0 +1,127 @@
+<Entry xml:id="goleti">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golĕti</orth>
+    <lemma>golĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беднеть, нищать . оголяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Георгиев БЕР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 715)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголяться, обнажаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 717, со ссылкой на словарь Линде; см. еще Kott I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>holec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лысеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>goled</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголяться, лысеть, беднеть, нищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 867)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беднеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., смол., Филин 6, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обнажаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беднеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="gofe-2">*gofe</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

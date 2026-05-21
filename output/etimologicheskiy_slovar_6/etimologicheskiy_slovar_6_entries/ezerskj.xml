@@ -1,0 +1,75 @@
+<Entry xml:id="ezerskj">
+  <pb n="34" end_page="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ezerьskъjь</orth>
+    <lemma>ezerьskъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>езерски</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>озёрный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>je</ref>- зёрскй, -к&amp;, -ко</orth>
+      </form>
+      <sense>
+        <def>озерный, jlzepcnu</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>je</ref>- zerski, прилаг.</orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet, I, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezersky</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>озерный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>озерьскыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>озерный , приозёрный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оп. Кор. Ник. мон. 1551 г., Срезневский III, 202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жал. тр. 1497 г., ^Срезневский II, 635)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг.. производное с суфф.<m type="suffix">
+        <ref>-ъвкъ</ref>
+      </m> от <ref type="etymon" target="ezero">*ezero</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

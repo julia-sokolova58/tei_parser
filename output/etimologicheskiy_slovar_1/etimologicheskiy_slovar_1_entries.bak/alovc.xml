@@ -1,0 +1,43 @@
+<Entry xml:id="alovc">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>alovč</orth>
+    <lemma>alovč</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jalo\č</orth>
+    <lemma>jalo\č</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jatowe</ref>, род. -esa ср. p.</orth>
+      </form>
+      <sense>
+        <def>яловица, яловка, телка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (редк.) <ref>jaluve</ref>, род. п. ед. ч. -te&gt; ср. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jalovd</ref>, род. -at</orth>
+      </form>
+      <sense>
+        <def>а ср. р. телок, телка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Существительное, производное с суфф. -et- от адъективной основы<ref type="etymon" target="alov--2">*alov-</ref> (см. <ref type="etymon" target="a1oi">*а1оиъ]ъ</ref> \ <ref type="etymon" target="alovaja">*alovaja)</ref>.</gram>
+  </gramGrp>
+</Entry>

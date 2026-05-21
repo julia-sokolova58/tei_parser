@@ -1,0 +1,49 @@
+<Entry xml:id="cima">
+  <pb n="195" end_page="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cima</orth>
+    <lemma>cima</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cima</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхушка, ботва растения (лука, репы)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 796)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>zima</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(sazheti zuijti, zime gnati — flo- rescere, Kastelec)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cima</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>зародыш, завязь, мужской половой член, ледяная сосулька . — Сюда же суф­ фиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>черногорск</ref>.) цймина ж. р.</orth>
+      </form>
+      <sense>
+        <def>наружная, наземная часть, ботва картофеля или тыквы (Збирка речи Митра Пешикана из Трешвьева.— Архив Института сербохорв. языка Сербской академии наук, Белград)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Объясняют как стар, заимствование из нем.: др.-в.-нем. kimo, chim, chimo 'зародыш, росток', ср.-в.-нем. kime, нем. Keim то же. См. Miklosich 29; Berneker I, 129; С. С. Uhlenbeck AfslPh XV, 1893, 484 (считает, что заимствование состоялось рано ввиду перехода нем. &amp; &gt; с л а в . с). Однако объяснить происхождение слав, с- в этой позиции (ci-) затруднительно, скорее всего, слово попало в слав, (словен., сербохорв.) уже после перехода к^&gt;с перед i, что естественно прежде всего для лат., где имеется слово cima 'верхушка (растения)', откуда, в свою очередь, заимство­ вано и нем. слово. См. Skok. Etim. rjecn. I, 265. Происхожде­ ние из ит. cima сомнительно по фонетич. соображениям. Ввиду производных диал. форм (сербохорв. черногорск. цймина, см. выше) заимствовано рано, возм., из балканором. субстрата (Skok, там же).</note>
+</Entry>

@@ -1,0 +1,24 @@
+<Entry xml:id="delbti">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>delbti</orth>
+    <lemma>delbti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>чак</ref>., о. Крк) dlistl</orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. атематич. гл. с корневым гласным -е-, ср. сюда же<ref type="etymon" target="delbto">*delbto</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Skok. Etim. rjecn. I, 460 (с литер.).</note>
+</Entry>

@@ -1,0 +1,53 @@
+<entries>
+  <entry xml:id="blmotati" xml:id="blmotati">
+    <pb n="119" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъlmotati</orth>
+      <lemma>bblmotati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>болмотатъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать; говорить непонятно, так что нельзя разобрать слов , болмотатъ бормотать, говорить невнятно (твер., пек., свердл.), говорить пустяки, болтать вздор (пек.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пек., твер., Доп. к Опыту И )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3, 75)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel" type="dialect">блр. диал. <ref>балматацъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>говорить быстро</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Полевой, Новозыбк. 28; ср. Носов. 30: болмотацъ 'говорить без связи, болтать')</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Звукоподражат. 
+образование, 
+параллельное 
+(см.). 
+У Фасмера (I, 188) гл. пропущен, а отмеченное им обратное произ­
+водное диал. (смол.) бблмат 
+'говорун' характеризуется там весьма 
+приблизительно 
+и 
+неточно: 
+«скорее от 
+болтать, 
+чем заимств. 
+из польск. 
+balomeb.</note>
+  </entry>
+</entries>

@@ -1,0 +1,56 @@
+<Entry xml:id="dktern">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъkt’erьnъ</orth>
+    <lemma>dъkt’erьnъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>hcernji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дочерин, дочерний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dcerny</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъщерънь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дочерин , дъщеръна дочерина дочь, внука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский I, 763)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лев. XVIII. 10 по сп. 1538 г., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дочерний</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от основы <ref type="etymon" target="a-4">*а</ref>
+      <ref type="etymon" target="yeg-">*ъЫег-</ref> (см. <ref type="etymon" target="dbkti">*dbkti)</ref>, 
+Ср. лит. dukterlnis то же.</gram>
+  </gramGrp>
+</Entry>

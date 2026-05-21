@@ -1,0 +1,272 @@
+<Entry xml:id="cervo">
+  <pb n="82" end_page="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervo</orth>
+    <lemma>cervo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ч</ref>^кьо ср. р. уаатт)р, uterus</orth>
+      </form>
+      <sense>
+        <def>живот, чрево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черво</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка , чрево ср. р. живот, внутренности , черево ср. р. кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров, также чирвб, црЪвб)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чирёво</ref> ср.</orth>
+      </form>
+      <sense>
+        <def>кишка , црева колбаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев БД II, 301)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Брезн., Качановский. Сборник западно- болгарских песен 590)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црево</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>черево</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Петрушевски. Неколку црти на говорэт од Жиров- ница.—MJ II, 1951, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црево</ref>, црйво, црщево ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, также сгеи м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 822)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сгеоб</ref>, род. и. -esa, ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, брюхо, нижняя часть живота , ёеио ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>stfevo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка, tfevo ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сгеио</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>сегеио</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>crjewo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cfowo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кишки , стар, cfewo ср. p. то же , отсюда производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 136: Megiser)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>crjeja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Pflugsohle H. Fa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(3ke. Unbekanntes niedersorbisches Wortgut aus Werben.— ZfS V, 1960, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>crevii</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>кишки, внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzewo</ref>, стар, trzowo, czrzewo, strzewo ср. p.</orth>
+      </form>
+      <sense>
+        <def>внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>tfieuo</ref> cp. p.</orth>
+      </form>
+      <sense>
+        <def>кишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 1237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>черево</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жи­ вот, брюхо , чрево, утроба , мех с брюха животного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1018 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мин. 1097 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. Дм. Ив. 1509 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черево</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то же, что чрево, черево изгиб, излучина реки , че­ рево ср. р. изгиб, излучина реки , черево живот , черево ср. р. понос , чарэва, чэрэва чрево , черева кишки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Расторгуев. Словарь нарэдных говоров Зап. Брянщины, 283)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черево</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брюхо, живот, часть рыболовного снаряда, утолщённая средняя часть веретена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чэрыво</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брюхо, зубчатая часть пилы (Ф. Д. Климчук</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Специфическая лексика Дрогичинского Полесья. «Лексика Полесья» 75), блр. чэрава ср. р. 'чрево, брюхо' (Байкоу-Некраш. 346). Праслав. *сегио — основа на -о-, лишь вторично в отдельных дримерах развивающая черты псевдоосновы на -es-. Ср., помимо приведенных выше примеров, др.-русск. черевесъ 'брюшная часть шкурки' (1629 г., Словарь языка мангазейских памятников 553). См. еще С. Б. Бернштейн. Следы именных основ на s в сла­ вянских языках—ВЯ 1970, № 3, 83. Сопоставление лексем ^Ъг'ихо (см.) и *cervo как основных слав, названий живота, их семантики и словообразовательных полей позволяет выявить различия ономасиологической природы обоих на- званий, наряду с интерференциями вроде однотипных и близких по значению производных *br^uxafo,<xr type="compare">см. <ref type="etymon" target="cervatb">*cervatb</ref>
+    </xr>. Слово *br'uxo— 
+своего рода общий термин, фиксирующий такой броский и наи­
+более общий признак живота как 'утолщение, 
+вздутие'.</note>
+  <gramGrp>
+    <gram>Слово<ref type="etymon" target="cervo">*cervo</ref> — технический термин, фиксирующий в первую 
+очередь 
+такой признак как 'кожный покров живота' (впрочем, ср. и дета­
+лизирующее знач. 'кишки, внутренности', выше), именно от <ref type="etymon" target="cervo">*cervo</ref> 
+образовано древнее производное <ref type="etymon" target="segi">*сегиъ]ъ</ref>, обозначающее обувь, 
+и др.</gram>
+  </gramGrp>
+  <note>Слав. *cervo — типичный продукт слав, словообразования, что видно, между прэчим, по отсутствию полных достоверных соответствий в других и.-е. языках, и в этом также состоит одно из существенных отличий *сегио от *br'uxo, поскольку последнее имеет ряд и.-е. соответствий. Вместе с тем праслав. древность образования *cervo такова, что мы не можем указать на слав, почве его мотивирующую первооснову и лишь типологически вы­ деляем в нем -v- суффиксальное, относя основу к числу продол­ жений и.-е. *(s)ker- 'резать', 'кожа'. В литературе выдвигаются некоторые балто-слав. сравнения в связи со слав. *cervo. Из них наиболее серьезно сравнение с др.-прусск. kermens м. р. 'живот'. См. Trautmann BSW 128; Фасмер IV, 337. Впрочем, это тоже, по-видимому, совершенно самостоятельные образования, в др.- прусском — с и.-е. формантом основ на согласный -теп-, поэтому здесь недостаточно указания на «мену т: и» (так Otrqbski. Studia indoeuropeistyczne 122), попытка объединить ker-men-s и *cer-v-o в рамках одной гетероклитической парадигмы (так F. Specht. Ursprung 181) тоже проблематична. Сближение *cervo с лит. skilvis 'желудок' (Maclrek 2 587: «У нас было утрачено s «под­ вижное», а I было ослаблено в г») влечет за собой слишком много вопросов и сомнений, особенно если вспомним, что лит. skildndis 'желудок', кот. нельзя отрывать от skilvis, тот же самый автор в том же словаре связывает с совершенно другим слав, словом— *ге1^ъкъ (см. Machek 2 722). Литовский имеет совсем независи­ мое название живота — pilvas. Прочие этимологии см. A. Kuhn KZ IV, 1855, 14; А. А. По- ^ тебня РФВ IV, 1880, 211; Berneker I, 150—151.</note>
+</Entry>

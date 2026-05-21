@@ -1,0 +1,101 @@
+<Entry xml:id="glinnj">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinьnъ(jь)</orth>
+    <lemma>glinьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глйнен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глинеи</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глйнан</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 348)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hlinny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlinny</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glinni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 275)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глиньныи</ref>, прилаг. от глина</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Лев. VI. 28 по сп. XIV в.; Дан. П. 42 — Упыр.; Переясл. л. под 1035 г., Срезневский I, 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глин</ref>­ ный, -ая</orth>
+      </form>
+      <sense>
+        <def>сделанный из глины, содержащий много глины, гли­ нистый , глинный глиняный (волог., север.), глинистый (влад.) , Глинная, название реки в бассейне Десны, бывш. Брянский у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 197—198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Worter­ buch der russischen Gewassernamen I, 457)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

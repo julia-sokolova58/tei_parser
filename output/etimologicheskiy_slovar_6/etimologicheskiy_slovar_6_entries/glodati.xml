@@ -1,0 +1,216 @@
+<Entry xml:id="glodati">
+  <pb n="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glodati</orth>
+    <lemma>glodati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глбдамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать, глбждя глодать, грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глбдам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать , глбзда , глбждам колоть , глбиъм глодать, грызть , глбждум раздражать, вызывать болезненный зуд , глбжгъ глодать, грызть , глбждъ то же , глбде грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 321)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( С Ковачев. Троянският говор. — БД IV, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник — БД V, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глода</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать, грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глддати</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>glodat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тереть, размель­ чать пищу, издеваться, насмехаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glo</ref>- dati</orth>
+      </form>
+      <sense>
+        <def>грызть, глодать, стирать, стачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Piet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlodati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ModaV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glodas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>glodac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать, грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 842)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глодати</ref>, глождХ rodere, Tpdrfeiv, Sarcavav .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 6, Срезневский I, 520)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глодать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть, обгрызать что-либо твердое, оскабливать зу­ бами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глодать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отведать (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(петерб., Филин 6, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глодати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать . — Ср. сюда же, с другим исходом основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hloziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глодать (Husuv Vyklad Viery Desatero bozieho pfikazanie a modlitby Pane. Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Можно предположить особое (-d-) расширение и.-е. *gel- в близких знач-ях, ср. с иным расширением — *globati,<xr type="compare">см. <ref type="etymon" target="glabati">*glabati</ref>
+    </xr>. Существующие объяснения — родством с . Существующие объяснения — родством с . Существующие объяснения — родством с . Существующие объяснения — родством с <xr type="compare">см. <ref type="etymon" target="gladk">*gladъkъ</ref>
+    </xr>, 
+с др.-исл. glata 'уничтожать', с праслав. , 
+с др.-исл. glata 'уничтожать', с праслав. , 
+с др.-исл. glata 'уничтожать', с праслав. , 
+с др.-исл. glata 'уничтожать', с праслав. <xr type="compare">см. <ref type="etymon" target="glog">*glogъ</ref>
+    </xr>, из перво-
+нач. *lodati, якобы родственного лат. rodere 'глодать, грызть', 
+или из звукоподражания — менее вероятны. См. Berneker I, 
+306; Фасмер I, 414; Bruckner 143; SJawski I, 291; Machek
+2 168; 
+Георгиев ВЕР IV, 250-251; Rudnyckyj I, 650-651., из перво-
+нач. *lodati, якобы родственного лат. rodere 'глодать, грызть', 
+или из звукоподражания — менее вероятны. См. Berneker I, 
+306; Фасмер I, 414; Bruckner 143; SJawski I, 291; Machek
+2 168; 
+Георгиев ВЕР IV, 250-251; Rudnyckyj I, 650-651., из перво-
+нач. *lodati, якобы родственного лат. rodere 'глодать, грызть', 
+или из звукоподражания — менее вероятны. См. Berneker I, 
+306; Фасмер I, 414; Bruckner 143; SJawski I, 291; Machek
+2 168; 
+Георгиев ВЕР IV, 250-251; Rudnyckyj I, 650-651., из перво-
+нач. *lodati, якобы родственного лат. rodere 'глодать, грызть', 
+или из звукоподражания — менее вероятны. См. Berneker I, 
+306; Фасмер I, 414; Bruckner 143; SJawski I, 291; Machek
+2 168; 
+Георгиев ВЕР IV, 250-251; Rudnyckyj I, 650-651.</note>
+</Entry>

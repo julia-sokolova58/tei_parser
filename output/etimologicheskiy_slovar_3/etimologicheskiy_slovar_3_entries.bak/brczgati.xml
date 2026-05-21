@@ -1,0 +1,77 @@
+<Entry xml:id="brczgati">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brčzgati</orth>
+    <lemma>brčzgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брязгать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брызгать , бренчать, брякать, стучать (ворон., великол.), бить по лицу (влад., симб., смол., нижегор.) , брыз­ гать; брызгая, пачкать что-либо (новг., симб., твер.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., симб., твер., Опыт 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 228)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 227—228; Словарь говоров Подмосковья 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брязкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бря­ цать, звенеть, звякать , сюда ж е стар, бро- скати звучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пискунов 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брязкаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звенеть, звонить . — Ср., еще с отношением zg: zd, аналогичным sk:st (пускать : пустить)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>брАздати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бряцать, sonare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Толк, псалт. XI в., Срезневский I, 187)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> от звукоподражат. основы <ref type="etymon" target="brek-">*brek-</ref> / <ref type="etymon" target="br-9">*br</ref>$g-, 
+расширен­
+ной с помощью 
+суффиксальной 
+группы -zg-.</gram>
+  </gramGrp>
+  <note>Ср. лит. brqzgia, brengzti 'бренчать', brlngzter'ti 'брякнуть, ударить со звоном', brdngztereti то же, brdnkst 'бряк', см. К. Буга Р Ф В L X X , 1913, 102; Фасмер I, 225. О вар. brezdati см. еще A. Walde KZ XXXIV, 1897, 509; J. Charpentier AfslPh X X I X , 1907, 4; N. Jokl AfslPh XXIX, 1907, 45 сближение с лат. fremere, греч. (Зреро, др.-в.-нем. Ьгётап, польск. brzmiec).</note>
+</Entry>

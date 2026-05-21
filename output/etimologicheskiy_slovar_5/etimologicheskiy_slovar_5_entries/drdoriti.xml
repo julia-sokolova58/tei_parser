@@ -1,0 +1,87 @@
+<Entry xml:id="drdoriti">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrdoriti</orth>
+    <lemma>dьrdoriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дърдбря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать; говорить неясно, бормотать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>д</ref>$дрем , дърдбра , дрт&amp;дрем</orth>
+      </form>
+      <sense>
+        <def>катить с грохотом, ругать, бранить , дбдрам болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евста- тиева. С. Тръстеник, Плевенско. — БД VI, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрдори</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, трепать языком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрдорити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громыхать, бормотать, ворчать , дрндорити, дрндорити бить шерсть , дрдурити топорщить, растопыривать (перья) , наконец, сюда же дрдлати бормотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 679)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 721)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 679, RJA II, 765)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdrdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребез­ жать, трезвонить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 168)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивная редупликация; звукоподражание. См. Berneker I, 254; Георгиев ВЕР VI, 460.</note>
+</Entry>

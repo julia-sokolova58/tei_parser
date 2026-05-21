@@ -1,0 +1,104 @@
+<Entry xml:id="dogoditi">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dogoditi</orth>
+    <lemma>dogoditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>догодА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделать, приготовить, приспособить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>догбди</ref> са</orth>
+      </form>
+      <sense>
+        <def>удачно произойти, сложиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>догддити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>попасть, угадать, догддити се случиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dogoditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырастить до состояния зрелости, dogoditi se случиться, произойти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dohoditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добросить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dohodW</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добросить, подбросить, под­ ложить , русск, догодйть отомстить , дождаться чего-либо; промедлить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 284)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Филин 8, 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., вят., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>догодйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угодить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дагадзщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угодить, услужить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-8">*do</ref> (см.) и гл. <ref type="etymon" target="goditi">*goditi</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

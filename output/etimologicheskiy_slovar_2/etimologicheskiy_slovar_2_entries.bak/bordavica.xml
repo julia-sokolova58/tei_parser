@@ -1,0 +1,214 @@
+<Entry xml:id="bordavica">
+  <pb n="199" end_page="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordavica</orth>
+    <lemma>bordavica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брадавыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; отсюда очень рано заимств. в греч. [лшхр8а|3čтСа, см. М. Филипова-Байрова БЕ 11, 252—253; цит. по RS XXVI, 1966, 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брадавыца</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брадавыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боро­ давка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брадавыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка, verruca, сосок груди, пупырышек на листе, цветке, плоде, ветке , сюда же, с второстепенными отклонениями в суф­ фиксальной части, —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брадавца</ref> ж. р. то же , брадавныца ж. р.</orth>
+      </form>
+      <sense>
+        <def>родимое пятно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 94)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brada</ref>- vica ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bradavica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>veruca, papula, cubera (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bradavice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бо­ родавка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bradavica</ref> то же , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Ъга</ref>- dovica ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brodajca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боро­ давка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brodajca</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородавка; сосок (грудной)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>brodavaica.ж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка; грудной со­ сок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 41, с реконструкцией *bordavica)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bofdaica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сосок груди , bi»rz- ddica ж. p. то же , с отличием в форме, возм., вызванным воздействием нем.Bmstwarze*грудной сосок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Pomor. I, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бородавица</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(микита пл-Ьшивъ. бородатъ, швець порътнои боро- давыца на правомъ лици ПАТНО у него в косици. — Отрыв, акт. X I I I - X I V в., ЦГАДА, ф. 135, руб. III, № 5. Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бородавыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка (новг., кольск., ле- нингр.), зоб на шее и мелкие шишки на голове у коров (волог.) , бурдовйца бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бородавыцаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>бородавка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Млр. дом. леч. 30, Тимченко I, 125)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прямая этимологизация от *borda (см. Berneker I, 72: «по ра­ стущим на бородавках волосам»; Фасмер I, 196) отражает, скорее всего, лишь вторичное сближение с<xr type="compare">см. <ref type="etymon" target="borda-2">*borda</ref>
+    </xr>, народную эти­
+мологию. Более перспективно объяснение Махека (см. Machek 40;
+также см. дополнение к ст. бородавка: Фасмер I, 196), кот. ре­
+конструировал особое праслав. *vorda, этимологически тожде­
+ственное нем. Warze 'бородавка' и только вторично сближенное 
+с праслав. *borda. Т. о., в конечном счете название восходит 
+к и.-е. *uerdh- 'расти', а на слав, почве наиболее близкое соот­
+ветствие имеет в слове *иеЫъ, русск. веред (и родств.). Некоторую 
+корректуру целесообразно внести в словообразовательную часть 
+этимологии Махека: этот ученый понимал *bordavica как произ­
+водное с суфф. -avica от основы на -a (*vordaX*borda). 
+Показания 
+родственных и.-е. соответствий склоняют к тому, чтобы членить 
+*bordav-ica как затемненное отражение древней основы на -и-. 
+Ср. арм. girk, род. п. grki 'seno, grembo, braccia' &lt;и.-е. *učrdua&gt; 
+откуда и герм. *wartwo
+n 
+'бородавка' и н.-перс. balu 'бородавка' 
+{&lt;*uardu-) 
+(см. К. Ostir WuS IV, 1912, 218, без привлечения 
+слав, слова).</note>
+</Entry>

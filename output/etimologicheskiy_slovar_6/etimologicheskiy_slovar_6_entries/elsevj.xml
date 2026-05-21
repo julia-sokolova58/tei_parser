@@ -1,0 +1,69 @@
+<Entry xml:id="elsevj">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elьševъ(jь)</orth>
+    <lemma>elьševъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. /<ref>ёлшов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>ольховый, также jalsev, прилаг. , фшев , сюда же производные 1бшевица ж. р., название реки, jalsevina ж. р. ольшаник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словарях Белостенца и Ямбрешича, RJA IV, 444)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 778)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelsev</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ольховый , также olsev , ср. и производное jelsevina ж. р. дерево ольхи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 821)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jelsovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ольховый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jelsovy</ref>, прилаг! .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="e1">*е1ъ</ref>$а (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,125 @@
+<Entry xml:id="ebrvoto6b">
+  <pb n="170" end_page="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ebrvoto6b</orth>
+    <lemma>ebrvoto6b</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrvotocina</orth>
+    <lemma>cbrvotocina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>црвотбчина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>древесная труха, оставленная древоточцем , стоячая вода в полом стволе дерева (с. Дол на Милна, Трънско, дип. раб., Архив Софийск. ун-та), црееотбчина ж. р. древесная труха, оставленная древоточцем , макед, црвото- чина ж. р. червоточина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 271)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црвотдч</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чер­ воточина, также црвоточина ж. р. , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. 6rvoto6 м. р.</orth>
+      </form>
+      <sense>
+        <def>древоточец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 191; Ст.-чеш., Прага: 'caries', 'teredo')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>eervotoe</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жук Anobium, червото­ чина, 6ervoto6ina ж. р. червоточина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crvotoc</ref>, eervotoe ж. р.</orth>
+      </form>
+      <sense>
+        <def>древоточец Anobium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>eervotoe</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрвоточина</ref>, червоточина</orth>
+      </form>
+      <sense>
+        <def>червоточина, труха дерева, источенного червем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дан. иг., Срезневский III, 1557)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>червотбча</ref>, червоточина ж. р.</orth>
+      </form>
+      <sense>
+        <def>ход, лаз, проточенный червем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чер</ref>­ воточина ж. р.</orth>
+      </form>
+      <sense>
+        <def>червоточина, изъеденный червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарвятбчына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>червоточина</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ *6brvb (см.) и гл.<ref type="etymon" target="tociti">*tociti</ref> (см.); можно также 
+говорить о производном с суфф. -ь, -ina от готового сложения 
+*6brvotokb I <ref type="etymon" target="cbrvotoka">*cbrvotoka</ref> (см. сл.).</gram>
+  </gramGrp>
+</Entry>

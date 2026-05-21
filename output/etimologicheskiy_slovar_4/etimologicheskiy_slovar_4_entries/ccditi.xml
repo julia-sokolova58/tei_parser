@@ -1,0 +1,26 @@
+<Entry xml:id="ccditi">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cčditi</orth>
+    <lemma>cčditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чадити</ref>, чажу</orth>
+      </form>
+      <sense>
+        <def>родить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ирм. ок. 1250 г., Срез­ невский III, 1467)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="e">*e</ref>?do (см.).</gram>
+  </gramGrp>
+</Entry>

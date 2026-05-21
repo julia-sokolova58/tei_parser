@@ -1,0 +1,47 @@
+<Entry xml:id="sgkas">
+  <pb n="147" end_page="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгкась</orth>
+    <lemma>сьгкась</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>бегкас</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Lysimachia vulgaris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V— VI, 1182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>cirkoc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сверчок; кузнечик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski — Sehnert 46, с реконструкцией *сгкась)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черкач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>желто­ носый дрозд Turdus viscivorus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх., см. Гринченко IV, 457)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Имя деятеля, производное с суфф. -(а)съ от гл.<xr type="compare">см. <ref type="etymon" target="6brkati">*6brkati</ref>
+    </xr>. 
+О данной суффиксальной модели во всех слав, языках см. F. Sfaw-
+ski «Z polskich studi6w slawistycznych», 1963, 84 (указывается 
+на непродуктивность -асъ в полаб.).</note>
+</Entry>

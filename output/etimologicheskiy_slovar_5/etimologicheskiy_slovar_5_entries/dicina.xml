@@ -1,0 +1,59 @@
+<Entry xml:id="dicina">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dičina</orth>
+    <lemma>dičina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дичина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мясо дикого зверя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клим. Болг. поуч. в Сбор. Троиц. XII в., Срезневский I, 666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дичина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>домотканый материал в полоску или клетку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дичина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзЬчына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь , дзЬчына ж. р., соб. дичь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> (собир.) от прилаг. <ref type="etymon" target="dikb">*dikb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

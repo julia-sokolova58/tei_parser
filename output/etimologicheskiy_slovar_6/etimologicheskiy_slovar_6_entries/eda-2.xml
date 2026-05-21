@@ -1,0 +1,96 @@
+<Entry xml:id="eda-2">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕda</orth>
+    <lemma>ĕda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яда</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>вкус (Дювернуа), яда ж. р. гнев, упорство, упрямство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тяжелая болезнь, зло, горе, страдание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 509)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Ыйа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Ъда</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Жаравль не каша, еда не наша. Сим. поел. XVII в. — СлРЯ XI—XVII вв., 5, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>еда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>потребление пищи, пища, кушанье</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>еда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пища, а также процесс принятия пищи, аппе­ тит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Ida</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда (действие)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>См. еще R. Rzetelska-Feleszko «Studia z filologii polskiej i sto- wianskiej» 8, 132.</note>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="edati">*ĕdati</ref> (см.) или, возм., лишь вторично 
+соотнесено с ним на слав, почве и продолжает и.-е. <ref type="etymon" target="edu">*edu</ref>, ср. 
+др.-исл. ata ж. р. 'корм, пища', лит. eda 'еда', лтш. edas ж. р. 
+мн. ч. 'корм'.</gram>
+  </gramGrp>
+  <note>См. Фасмер II, 8—9; Pokorny 1, 288.</note>
+</Entry>

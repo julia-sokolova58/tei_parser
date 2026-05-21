@@ -1,0 +1,101 @@
+<Entry xml:id="edriti">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędriti</orth>
+    <lemma>ędriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ёдр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ съ взбираться на что-либо , также ёндръ (съ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jadpu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>набухать, созревать (о зерне и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedritl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крепнуть, плотнеть, наливаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 562)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jadriti</ref> se</orth>
+      </form>
+      <sense>
+        <def>спешить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jddfiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>zu Kern machen</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jadric</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наливаться (о зерне, плоде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едрйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о нарыве) нарывать , ядрит шибко плачет, говорится о ребенке (Бычков. Слова Валдайского уезда и Владимирской губернии XLVII)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвы- соцкий 195)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="edro-5">*edro</ref> (см.) или от *^гъ (см.).</gram>
+  </gramGrp>
+</Entry>

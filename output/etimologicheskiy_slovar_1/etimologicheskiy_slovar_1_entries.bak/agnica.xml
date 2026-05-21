@@ -1,0 +1,64 @@
+<Entry xml:id="agnica">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agnica</orth>
+    <lemma>agnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>агн</ref>&gt;ица, jamiua ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>черногорск</ref>.)</orth>
+      </form>
+      <sense>
+        <def>ягне­ нок женского пола (Карапип; R J A : с X V I в.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdgnjica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 355)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (<ref>редкое</ref>) jehnice ж. р.</orth>
+      </form>
+      <sense>
+        <def>суягная овца</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jahnica</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ягнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молодая овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от нераспространенной основы <ref type="etymon" target="agn--2">*agn-</ref>
+(см. <ref type="etymon" target="agn-13">*agn</ref>$).</gram>
+  </gramGrp>
+  <note>Относительно позднее образование, т. е. древнее *agn-, праслав. *agn&lt;? характеризуется как исключительно воз­ растное название ('детеныш овцы') без указания на пол.</note>
+</Entry>

@@ -1,0 +1,168 @@
+<Entry xml:id="galII">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galъ II</orth>
+    <lemma>galъ II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гал</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>галка Corvus monedula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гал</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>гйо</ref>, гала, гйло</orth>
+      </form>
+      <sense>
+        <def>черный, грязный, нечистый , субстантивированное gal м. р. черный цвет , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 188; ср. также RJA III, 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 92; РСА III, 167: гйл)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. , редк. <ref>gala</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица с черным оперением , домашнее жи­ вотное черной масти, gdla ж. р. женщина-неряха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., RJA III, 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gal</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица с черным оперением</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj Slov. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>gal</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязь (валашек.), черный крупный горох . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ваг- tos. Slov. 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>galic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>галиН</ref> , галйн м. р. (в Среме)</orth>
+      </form>
+      <sense>
+        <def>вороной конь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Djor. И, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>галун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон Corvus cornix , также Галун, Галунов, в антропо- нимии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Речник на личните и фамилии имена у бъл- гарите 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>галун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>galon</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>конь вороной масти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галъ</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>стая галок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русских донских говоров I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>галъ</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>галки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миусск. окр., Грин­ ченко I, 269)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вероятно, стар, цветообозначение; дальнейшие связи, однако, неясны. См. Berneker I, 293.<xr type="compare">Ср. еще <ref type="etymon" target="galbka">*galbka</ref>
+    </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+</Entry>

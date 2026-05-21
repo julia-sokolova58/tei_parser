@@ -1,0 +1,35 @@
+<Entry xml:id="davbkbjb">
+  <pb n="199" end_page="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>davbkbjb</orth>
+    <lemma>davbkbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ddyni</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терпкий (о плодах, вине).—Ср</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>давлмка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>фрукты с терпким вкусом, напр. дикие груши или дикие яблоки, застревающие в горле (Бос. Грахово, РСА IV, И)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от гл. <ref type="etymon" target="dauiti">*dauiti</ref> (см.). 
+<ref type="etymon" target="d">* d</ref> a v b C b / <ref type="etymon" target="d-2">* d</ref> a v b c a : ст.-слав.</gram>
+  </gramGrp>
+  <note>ДЛБАЦА М . p. Sonfjp, dator (Супр., Mikl., Sad.), сербохорв. стар, ddvac, род. п. ddvca, м. р. 'тот, кто дает' (XVII—XVIII вв., RJA II, 306—307; РСА IV, 8), словен. davec, род. п. -vca, м. р. 'тот, кто дает' (Plet. I, 123), чеш. ddvce то же (Kott I, 215), польск. dawca м. р. 'дающий, заимодавец' (Dorosz. II, 32), др.-русск., русск.-цслав. давъцъ 'тот, кто даёт' (Панд. Ант. XI в.; Ио. екз. Бог. 255; Пал. XIV в. л. И , Срезневский I, 623), русск. диал. давёц 'передающий в чужое судно своих по- крученников хозяин' (Подвысоцкий 66), укр. давёцъ, род. п. -вця, м. р. 'подающий, даватель' (Гринченко I, 355). Имя деятеля, производное с суфф. -ъсь, -ьса от гл.<xr type="compare">см. <ref type="etymon" target="davati">*davati</ref>
+    </xr> или скорее — от прич. прош. *davb.</note>
+</Entry>

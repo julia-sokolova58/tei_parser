@@ -1,0 +1,68 @@
+<Entry xml:id="dupati">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dupati</orth>
+    <lemma>dupati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дупам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>продырявливать, пробивать, прокалывать, подстрекать (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дупати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, ударять, есть с жадностью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dupati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, издавая глухой звук, глухо шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dupati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dupaV</ref> то же , сюда же dupkaf то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. происхождения.<xr type="compare">Ср. <ref type="etymon" target="dupiti">*dupiti</ref>
+    </xr> (см.). См. Machek
+2135. (см.). См. Machek
+2135. (см.). См. Machek
+2135. (см.). См. Machek
+2135.</note>
+</Entry>

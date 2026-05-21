@@ -1,0 +1,57 @@
+<Entry xml:id="ogs">
+  <pb n="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьогьсь</orth>
+    <lemma>Ьогьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>верАц</ref>* м. р. гсоХерлстстф;, bellator</orth>
+      </form>
+      <sense>
+        <def>борец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>борец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>борец, силач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>борец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, бо­ рец, поборник , сербохорв Ъогас, род. п. Ъотса м. р. борец, боец, certator , ббрац, бдрац, род. п. борца (борца), м. р. борец, боец, большая железная удочка для ловли крупных рыб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(«с XIII в., из словарей — у Микали, Белостенца и Стулли, в наше время только в литературе. . .» — RJA I, 549)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 65)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ъдгес, род. п. -гса ж. р. 'борец', 'боец' (Plet. I, 45), чеш. Ъогес, род. п. -гее м. р. 'борец' (Ст.-чеш., Прага : нет; в словаре Махека также отсутствует; возм., книжн. заимствование из русск.), слвц. Ъогес, род. п. -гса, м. р . 'борец' (SSJ I, 119), сюда же Ъотса м. р. 'поборник, ревнитель' (SSJ I, 118), др.-русск. борьць, борець TroXsjxiaiTjc, bellator, luctator (Ип. л., Лавр. л. под 1151 г. Срезневский I, 157), русск. борец, род п. борца, м. р . 'единобо­ рец, искусный в борьбе, или пытающий в ней силы; кто борется' (Даль 3 I, 287), ст.-укр. борецъ м. р. 'борец' (Ак. ЗР. 1, 352— 1503 г. и др., Тимченко I, 124), укр. борець, род. -рця, м. р . 'бо­ рец', 'Aconitum napellus L.' (Гринченко I, 86).</note>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от корня гл. 
+<ref type="etymon" target="borti-10">*borti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. еще Варбот. Древнерусское именное словообразова­ ние 82.</note>
+</Entry>

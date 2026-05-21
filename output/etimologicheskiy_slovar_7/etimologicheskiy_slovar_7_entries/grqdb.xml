@@ -1,0 +1,216 @@
+<Entry xml:id="grqdb">
+  <pb n="147" end_page="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqdb</orth>
+    <lemma>grqdb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръд</ref> ж. р., также гърдй мн.</orth>
+      </form>
+      <sense>
+        <def>грудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грдъ</ref> ж. р. то же , груди мн.</orth>
+      </form>
+      <sense>
+        <def>грудь, груди, легкие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Пле- венско.—БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мла­ денов. Говорът на Ново село, Видинско 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гради</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>грудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гржнди</ref> , gredi pi. t.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А. Мишев. Македонският говор в Брацигово. — СбНУ XI, 1894, 182)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>груд</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грудь , обычно — груди мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 698)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 700—701)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grod</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грудь, grodi мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrud</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ж. р. грудь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. /<ref>ггшГ</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hrud</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>a мн. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Horak. Pohorel. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gredzi</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>грудь, грудина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 489)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>грХдъ</ref>, грждъ</orth>
+      </form>
+      <sense>
+        <def>грудина , грХди женская грудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XXIX. 27 по сп. XIV в.; Лев. VII. 30. т. ж., Срезневский I, 600)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Афан. Никит. 333, Срезневский III, 80')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грудь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>передняя часть туловища от шеи до живота, грудная полость, вмещающая легкие и сердце, молочные железы у женщины</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>груди</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>грудь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грудзЬ</ref> pi. tant.</orth>
+      </form>
+      <sense>
+        <def>грудь</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Этимологически тождественно *grgda (см.; ср. и знач. 'грудь' в ряде примеров там же) и<xr type="compare">см. <ref type="etymon" target="greda">*greda</ref>
+    </xr>, 
+т. 
+е. 
+грудь 
+получила название как возвышение, выступающая часть тела (или 
+части, см. устойчивое 
+употребление мн. ч., выше). Слово пред­
+ставляет собой собственно слав, лексико-семантическую 
+иннова­
+цию, 
+и поиски для него особой и.-е. этимологии не оправданы 
+(архаическое слав, название груди представлено в */?Ы5Ь, 
+<xr type="compare">см. <ref type="etymon" target="pbrsi">*pbrsi</ref>
+    </xr>, ср. лит. pirsys 
+'грудь (у лошади)', др.-инд. pdrsu- 
+'ребро', 
+авест. pardsu- 
+'ребро', осет. jars 
+'сторона, бок'). 
+Неверно поэтому 
+сближение *grgdb 
+с лит. grandls 
+'кольцо, звено, обруч' и греч. 
+YpovOog 'сжатый кулак' (Зубатый, ниже), с греч. |3pev6og 'гордость', 
+Ppev66o[Aai 'надуваться, гордиться', ирл. bress, ср.-ирл. bras 'гордый' 
+(Остгоф, ниже), непосредственно с лат. 
+grandis 
+'большой, круп­
+ный' 
+(Остгоф, Бернекер, Фасмер — ниже), с лит. кгййпё 
+'грудь' 
+(Отрембский, Кипарский, Махек — ниже), наконец, с арм. 
+argand 
+'утроба, чрево' (Педерсен). 
+См. J. Zubaty AfslPh XVI, 1894, 393; Н. Osthoff IF IV, 1894, 
+266; 
+М. Фасмер РФВ LVIII, 1907, 416; Berneker I, 356; Otrqb-
+ski. 
+Studia 
+indoeuropeistyczne 
+115; Фасмер 
+I, 
+463; Stawski 
+I, 
+342—343; V. 
+Kiparsky 
+«Kratylos» 
+XI, 1966, 77; Machek
+2 186; 
+H. Pedersen. V. si. grqdi. — LP I, 1949, 
+1—2; Fraenkel I, 291; 
+F. Bezlaj JФ X X X , 246—247; Bezlaj. Etim. slovar sloven, jez. I, 
+180.</note>
+</Entry>

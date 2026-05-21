@@ -1,0 +1,149 @@
+<Entry xml:id="blizitis">
+  <pb n="123" end_page="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bliziti (s$)</orth>
+    <lemma>bliziti (s$)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>б</ref> лижи (се)</orth>
+      </form>
+      <sense>
+        <def>приближать (ся)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>bliziti</ref> se</orth>
+      </form>
+      <sense>
+        <def>appropinquare, приближаться , блй- зити (се) то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 447)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bliziti</ref> se</orth>
+      </form>
+      <sense>
+        <def>приближаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blizif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наносить ущерб кому-либо, оскорблять, blizifsa приближаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 104; Kalal 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blizic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blizys</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближать, ЪШуё se приближаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blizyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blazec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>близиться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближаться, сближаться, подходить близко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блйзити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближать , блйзитися приближаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ближйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приближаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мины пёть-десэть гoдiв ближйтъ без три. — Верхратський. Знадоби, 203)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от компаратива <ref type="etymon" target="she-2">*ЬШе</ref> (см. этимоло­
+гию на <ref type="etymon" target="sh-2">*ЬШъ]</ref>'ъ и т. д.).</gram>
+  </gramGrp>
+  <note>Формы на -z- соответственно вторичны.</note>
+</Entry>

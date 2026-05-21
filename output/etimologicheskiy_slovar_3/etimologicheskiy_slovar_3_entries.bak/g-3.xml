@@ -1,0 +1,38 @@
+<Entry xml:id="g-3">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬьЬгъ</orth>
+    <lemma>ЬьЬгъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дабар</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бобр , с диссимиляцией б—б^&gt;д—б</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бъбръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бобр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 211)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Стар, вариант, наряду с более распространенными названиями *ЬеЬгъ,<xr type="compare">см. <ref type="etymon" target="og">*ЬоЬгъ</ref>
+    </xr>. Ср. вокализм кельт. Bibroci, 
+этноним в Бри­
+тании, галльск. Bibracte, 
+местн. н.</note>
+</Entry>

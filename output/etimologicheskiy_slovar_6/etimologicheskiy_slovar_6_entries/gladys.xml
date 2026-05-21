@@ -1,0 +1,106 @@
+<Entry xml:id="gladys">
+  <pb n="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gladyšь</orth>
+    <lemma>gladyšь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gladis</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>травянистое растение Ononis spi- nosa L., название некоторых животных</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гладит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ковыль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 647)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gladysz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>щеголь, кринка (для молока)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gla</ref>­ dysz м. р.</orth>
+      </form>
+      <sense>
+        <def>франт, щеголь, красавец, галька, круглый гладкий камешек, приспособления для выглаживания, полирования, горшок для молока название ряда растений, насекомое Sphinx elpenor</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 838)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Гладышъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гладыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>о плот­ ном, упитанном человеке , гладыш м. р. толстый, тучный, жирный человек или животное , гладыш м. р. кринка, горшок для молока , также название ряда растений</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(костр., новг., влад., твер., волог., курск., тамб., вят., ср.-урал., орл., Филин 6, 182)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(зап., сев.-зап., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гладиш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>яйцо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гладыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гладыш</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-уёъ</ref>
+      </m> от основы <ref type="etymon" target="gladb-">*gladb-</ref> (см. <ref type="etymon" target="gladbkb">*gladbkb)</ref>.</gram>
+  </gramGrp>
+</Entry>

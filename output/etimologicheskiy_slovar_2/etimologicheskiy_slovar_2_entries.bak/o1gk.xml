@@ -1,0 +1,28 @@
+<Entry xml:id="o1gk">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо1гькъ]ь</orth>
+    <lemma>Ьо1гькъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>blozki</ref> (Якубица и др.)</orth>
+      </form>
+      <sense>
+        <def>блаженный, пра­ ведный, счастливый, святой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от основы <ref type="etymon" target="bolg-">*bolg-</ref> (см. <ref type="etymon" target="bolgo">*bolgo</ref>, 
+<ref type="etymon" target="bolgbjb">*bolgbjb)</ref>.</gram>
+  </gramGrp>
+  <note>Ввиду вторичного характера производного древность образования недостаточно очевидна.</note>
+</Entry>

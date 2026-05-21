@@ -1,0 +1,45 @@
+<Entry xml:id="bedratbjb">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedratb(jb)</orth>
+    <lemma>bedratb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bedrat</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>широкобедрый, с большими ляжками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjedraty</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jakubas)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бедрагпий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>широкобедрый, с развитыми бедрами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от основы bedr- (см.<ref type="etymon" target="bedro">* bedro)</ref>.</gram>
+  </gramGrp>
+</Entry>

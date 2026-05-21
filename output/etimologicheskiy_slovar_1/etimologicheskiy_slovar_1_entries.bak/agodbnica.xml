@@ -1,0 +1,84 @@
+<Entry xml:id="agodbnica">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agodbnica</orth>
+    <lemma>agodbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ягодница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>название дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jahodnice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерево, кушанье из земляники</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jahodnica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сок из ягод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ягодница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щека , ягодницы мн. щеки, скулы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 197)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материалы Смоленского словаря 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яггднйця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собираю­ щая ягоды</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Под этой реконструкцией объединены, по-видимому, разные образования: 1) производное с суфф.<m type="suffix">
+        <ref>-ътса</ref>
+      </m> 
+от <ref type="etymon" target="agoda">*agoda</ref> 
+(болг., 
+чеш., 
+в.-луж., 
+у к р . ) ; 
+2) 
+случаи, 
+непосредственно 
+связанные 
+с <ref type="etymon" target="agodica">*agodica</ref> 
+(см.) и в этом смысле словообразовательно 
+вторичные.</gram>
+  </gramGrp>
+</Entry>

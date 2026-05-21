@@ -1,0 +1,73 @@
+<Entry xml:id="gqzatisc">
+  <pb n="90" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqzati (sč)</orth>
+    <lemma>gqzati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>guzati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мять, комкать, стар, guzati (XVIII в.)&lt; с неясным знач. глотать?, смотреть?, бояться?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 518— 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gozati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть без аппетита</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 241)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>gu</ref>­ zati se</orth>
+      </form>
+      <sense>
+        <def>тащиться , медленно идти, лезть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Strekelj 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Stre- kelj 48. Dodatki)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гузатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>медлить, мешкать , гузатъ трусить, сдаться при игре , гузйтъ медлить, мешкать; тянуть (южн.-сиб., е н и с , уфим., перм., костр., твер., влад., курск., пек., свердл., волог., тобол., вост.-сиб.), очень долго ждать кого-, чего-либо (урал.), трусить, робеть (яросл., калин., волог., твер., олон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 129)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Копорский. О говоре севера Пошехоно-Володарского у. Яросл. губ. 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 206)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="g-11">*g</ref>?zb 
+(см.).</gram>
+  </gramGrp>
+  <note>Предполагать проис­ хождение словен. gozati из *g^g-s-ati (F. Bezlaj JФ X X X , 246;: Он же JiS XVI, 1970/1971, 231), не позволяют родственные слав, формы и их значения.</note>
+</Entry>

@@ -1,0 +1,46 @@
+<Entry xml:id="drstnj">
+  <pb n="226" end_page="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrstьnъjь</orth>
+    <lemma>dьrstьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drstny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>неровный, шершавый, шеро­ ховатый (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drsny</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drsny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шершавый, шероховатый, грубый, холодный, неприятный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 334)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m>, соотносительное с гл. <ref type="etymon" target="yy--2">*йы-</ref>
+skati I <ref type="etymon" target="dbrstati-2">*dbrstati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Неверно см. W. Foy IF VI, 1896, 334—335 (сближает чеш. слово с ирл. dorr 'грубый' &lt; *dors-y однако при этом ожидалось бы слав. *dbrx-); Machek 1 97 (неубедительное объ- яснение из балто-слав.<xr type="compare">ср. <ref type="etymon" target="sirst-t">*sirst-t</ref>
+    </xr> лит. siurkstus 'шершавый, ше­
+роховатый'). лит. siurkstus 'шершавый, ше­
+роховатый'). лит. siurkstus 'шершавый, ше­
+роховатый'). лит. siurkstus 'шершавый, ше­
+роховатый').</note>
+</Entry>

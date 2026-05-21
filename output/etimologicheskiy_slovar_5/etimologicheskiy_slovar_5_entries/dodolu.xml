@@ -1,0 +1,97 @@
+<Entry xml:id="dodolu">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do dolu</orth>
+    <lemma>do dolu</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ду</ref> долу</orth>
+      </form>
+      <sense>
+        <def>целиком, совсем, полностью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояд- жиев. Тюмюрджинско. — БД VI, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>додолу</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до­ низу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>dodola</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>вниз , сло- вин. dugdelu, нареч. вниз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 282)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>додблу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>на пол, на землю, до земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>да-долу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>книзу, вниз .—Ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>додбльная</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>женская рубаха, долгая, до полу, цельная, без приставки, подставки или пришивки стана</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Даль 3 I, 1122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>додолный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достигающий до земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 775)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Стар, сочетание<ref type="etymon" target="do-6">*do</ref> (см.) и род. п. ед. ч. от <ref type="etymon" target="dolb">*dolb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Обра­ щает на себя внимание наличие полного группового соответствия сочетания предл. и имени в герм.: ср.-нидерл. te dale, ср.-в.-нем. ze tal, др.-сакс, te dale, др.-фриз. to dele 'вниз' (см. о герм, сло­ восочетаниях Franck — Van Wijk 104—105, где только указано на близость знач. ст.-слав. долоу).</note>
+</Entry>

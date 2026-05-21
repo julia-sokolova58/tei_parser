@@ -1,0 +1,39 @@
+<Entry xml:id="gludkj">
+  <pb n="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gludъkъjь</orth>
+    <lemma>gludъkъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глудкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>скользкий , скользкий, гладкий , глудкой, глуздкой скользкий , глудкой, глюдкий сколь­ зящий, очень гладкий, ровный , глюдкий, -ая, -ое=глудкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., арх., Филин 6, 207)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Филин 6, 225)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(ъ)къ от первонач.<ref type="etymon" target="gludb">*gludb</ref> 
+(-й- основа? Ср. характер видимо древнего расширения, а также 
+соответствия ниже).</gram>
+  </gramGrp>
+  <note>Родственно лит. glaudus 'гладко прилегаю­ щий', gludus 'гладкий'. См. Berneker I, 308; Mulenb.-Endz. I, 623; Фасмер I, 416.</note>
+</Entry>

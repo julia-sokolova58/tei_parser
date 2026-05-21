@@ -1,0 +1,52 @@
+<Entry xml:id="diravj">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*diravъ(jь)</orth>
+    <lemma>diravъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйрав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>рваный, старый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дйрав</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дирЛвый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>дыря­ вый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., брян., калуж., перм., Филин 8, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзгравы</ref> ^дырявый</orth>
+      </form>
+      <sense>
+        <def>, дырявый; худой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -{а)иъ от итеративной гл. основы -dirati (обычно в сложениях с приставками).</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="bolgyni">
+  <pb n="174" end_page="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolgyni</orth>
+    <lemma>bolgyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Б</ref>\лгаыи ж. р. ауайотт]&lt;;, то dyafrov ^доброта, добро</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>благина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скоромная, жирная пища (масло, молоко, сыр и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>благина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пищевой жир , благина ж. р. заготовленные на зиму мясные и молочные продукты , благина ж. р. скоромная пища (мясо, сыр), мясо, сыр, приго­ товленные в зиму</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>благшьа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>благость, доброта</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от основы <ref type="etymon" target="bolg-y">*bolg-y</ref> см. прежде всего 
+прилаг. *&amp;о/#ъ(/ъ).</gram>
+  </gramGrp>
+</Entry>

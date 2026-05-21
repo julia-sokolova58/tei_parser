@@ -1,0 +1,57 @@
+<Entry xml:id="eg-4">
+  <pb n="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьег</orth>
+    <lemma>Ьег</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>о</orth>
+    <lemma>о</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>л)1ъ</orth>
+    <lemma>л)1ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бере.юзолъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>месяц апрель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Четвероев. 1144г., Срезневский I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. (стар.) <ref>березозол</ref>, березозолъ</orth>
+      </form>
+      <sense>
+        <def>месяц март или апрель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>березозьл</ref>, род. п. -зола, березозгль, род. п. -золя, м. р.</orth>
+      </form>
+      <sense>
+        <def>месяц март</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="berzo-zolb">*berzo-zolb</ref> именных основ <ref type="etymon" target="berz--2">*berz-</ref> (см. <ref type="etymon" target="berza">*berza)</ref> и <ref type="etymon" target="zoZ-">*zoZ-</ref>, 
+родственного <ref type="etymon" target="zelen">*zelenъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер I, 154; Sadnik—Aitzet­ muller. Vgl. W b . 3, 144.</note>
+</Entry>

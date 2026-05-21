@@ -1,0 +1,103 @@
+<Entry xml:id="borovikb">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borovikb</orth>
+    <lemma>borovikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боровик</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>бор, сосняк, место, поросшее можжевельником , Borbvik м. р., село в Славонии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 556)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>borovlk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гриб Boletus aeneus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>borowik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>медведь, брусника, вид грибов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боровик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>съедобный гриб, с темнокоричневою толстою шляпкой и беловатой толстой ножкой, (обл.) тетерев, особенно косач, (мн.) дикие боровые пчелы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>боровик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>место, на котором растет или рос бор (арх.), (собир.) деревья, расту­ щие в боровом лесу (арх.), гриб Boletus versipellis, осиновик, подосиновик (новг., волог., яросл., твер., костр., моек.), гриб Lactarius deliciosus, рыжик (твер., перм., вят.), гриб Boletus bovinus, козляк (новг., урал.), метла, веник из ветвей (арх.), самец тетерева, помесь тетерева и глухаря, обитающих в боровых лесах (арх.), бурый медведь, называемый иногда стервятни­ ком (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боровик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>житель бора, белый -гриб Boletus edulis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>боровик</ref> M.fp.</orth>
+      </form>
+      <sense>
+        <def>аист черный Ciconia nigra L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Полесские названия птиц. «Лексика Полесья» 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баравгк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый гриб, боровик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от прилаг. <ref type="etymon" target="ogou">*ЪОГОУЪ</ref> (см.), субстанти­
+вация этого последнего.</gram>
+  </gramGrp>
+  <note>Ср. аналогичные *borovica,<xr type="compare">см. <ref type="etymon" target="borovika">*borovika</ref>
+    </xr>.</note>
+</Entry>

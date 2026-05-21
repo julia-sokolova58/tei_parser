@@ -1,0 +1,128 @@
+<Entry xml:id="buka">
+  <pb n="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buka</orth>
+    <lemma>buka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>всука</ref> ж. p. turba</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(К4ше к-го БА воуцЧ n/\d(v\6NAN'k гедкл кид'кти. Pro).-Mich., Miklosich LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бука</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>желоб (Ге­ ров)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шум, крик , болван, дуралей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бука</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>mugitus, рев, мычание</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бука</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крик, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ьйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>б</ref>$ка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Налився аки мЬ х до гортань на- дошся аки боука, хотя расЬсти^. Сбор. Троиц. 153, Срезневский J, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бука</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>угрюмый человек, нелюдим, ска­ зочное страшилище, которым пугали маленьких детей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бука</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неизвестное, страшное и таинственное существо, обитающее преимущественно в темных и безлюдных местах , бука ж. р. черт; мифическое существо вообще (новг.), о начальнике (олон.), о грозном, свирепом человеке (симб.), толстый человек (пек.), несмелый человек (яросл., новг.), прозвище человека по какому-либо нравствен­ ному признаку (вят.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Молотилов. Говор северной Барабы 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бука</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>при­ видение; пугалище, которое, по сказкам суеверов, пожирает детей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бъчецький-Носенко. Словник укра'шсько! мови 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>детское слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="bukati-3">*bukati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. Miklosich 24; Berneker I, 9 8 - 9 9 ; Фасмер I, 2 3 5 - 2 3 6 .</note>
+</Entry>

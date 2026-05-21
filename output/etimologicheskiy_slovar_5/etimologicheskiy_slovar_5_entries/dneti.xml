@@ -1,0 +1,84 @@
+<Entry xml:id="dneti">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnĕti</orth>
+    <lemma>dьnĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dnieti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dneti</ref>, dniti</orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>днетъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наступать дню , днеть рассветать, светать, быть дню, длиться свету, не смеркаться , денять, безл. светает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Доп. к Опыту 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(сев., Даль 3 I, 1094)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры» 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>днгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>днець</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ян- коусш II, 59)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="dbrib">*dbrib</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

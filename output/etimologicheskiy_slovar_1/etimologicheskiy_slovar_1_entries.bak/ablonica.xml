@@ -1,0 +1,39 @@
+<Entry xml:id="ablonica">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ablonica</orth>
+    <lemma>ablonica</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abolnica</orth>
+    <lemma>abolnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jablonca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яблоня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 228)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Н е исключено, что это слово представляет собой относительно позднее новообразование с суфф. -ica на базе более древнего<xr type="compare">см. <ref type="etymon" target="ayop-2">*аЫопъ</ref>
+    </xr>, ср. в.-луж. jablon
+ 
+сяблоня'. Мотивы новообразова­
+ния 
+недостаточно 
+ясны 
+ввиду 
+синонимичности 
+производного 
+слова и производящей основы. Ср. чеш. диал. jablonice ж. 
+р. 
+'яблоневый сад' (Kott I, 594), а также серб. Jablanica, местное и 
+водное название ( R J A IV, 384), где мотивация 
+налицо.</note>
+</Entry>

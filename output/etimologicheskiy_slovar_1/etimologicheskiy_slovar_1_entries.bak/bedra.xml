@@ -1,0 +1,83 @@
+<Entry xml:id="bedra">
+  <pb n="174" end_page="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedra</orth>
+    <lemma>bedra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>ьбд</ref>^д ж. р. р-^рбс, femur</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёдра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бедро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bedra</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бедро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bedra</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бедро, ляжка, пах, поножи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 33; Si- mek 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>b</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>edram. р. бедро , bedratb(jb)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бедра</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>верхняя часть лядвеи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(СрезневЬкий I, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бедра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>верхняя половина всей ноги; часть от таза до колена; лядвея, ляжка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 144)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Старый словообразовательно-морфол. вариант ж. р. к *bedro (см.; там же подробно об этимологии). Легкость, с кот. варьируют *bedra и *bedro в разных слав, языках, наводит на мысль о перво- нач. адъективной природе образования.</note>
+</Entry>

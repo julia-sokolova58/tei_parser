@@ -1,0 +1,47 @@
+<Entry xml:id="dl">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlь</orth>
+    <lemma>dьlь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>del</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина (Ст.-чеш., Прага), также die ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>del</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>del</ref>, род. п. dli, ж. р., только в нареч. (we)dli</orth>
+      </form>
+      <sense>
+        <def>вдоль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 162)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Восходит к и.-е. *deZ-, сюда же праслав.<xr type="compare">см. <ref type="etymon" target="dblgb">*dblgb</ref>
+    </xr>....</note>
+  <gramGrp>
+    <gram>В свя­ занном виде, в составе предложных словосочетаний<ref type="etymon" target="i">*иъ</ref> dblije, 
+<ref type="etymon" target="vbz">*vbz</ref> dblije, <ref type="etymon" target="o">*оЬ(ъ)</ref> 
+dblije, */?о dblije (см.) имя <ref type="etymon" target="dblb">*dьlь</ref> (<ref type="etymon" target="dbZ">*dbZ</ref>'a) 
+представлено весьма широко, чем косвенно объясняется его слово­
+производная активность в слав., ср. <ref type="etymon" target="dblina">*dblina</ref>, 
+<ref type="etymon" target="dbliti">*dbliti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 252—253; Machek 2 114.</note>
+</Entry>

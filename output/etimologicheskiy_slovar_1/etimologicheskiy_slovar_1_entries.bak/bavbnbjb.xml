@@ -1,0 +1,52 @@
+<Entry xml:id="bavbnbjb">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bavbnb(jb)</orth>
+    <lemma>bavbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бавен</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>медленный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бавен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бавен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bavny</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>занимательный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 80)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы гл.<ref type="etymon" target="baviti-4">*baviti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

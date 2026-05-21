@@ -1,0 +1,61 @@
+<Entry xml:id="belika">
+  <pb n="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belika</orth>
+    <lemma>belika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>белйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горная береза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref>]елика ж. р. (черногорск.)</orth>
+      </form>
+      <sense>
+        <def>заболонь, alburnum, велика, б)ёлика ж. р. слой дерева между корой и сердцевиной, заболонь , велика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 460)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>б</ref>)елика ж. р.</orth>
+      </form>
+      <sense>
+        <def>заболонь дерева, беловатый плод — яблоко, черешня, слива, bjelika ж. p. alburnum, заболонь, бузина Sambucus, вид черешни, сливы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт яблок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.), исторически тождест­
+венное более широко распространенному <ref type="etymon" target="belica">*belica</ref> (см.; с прове­
+денной прогрессивной палатализацией к), с которым <ref type="etymon" target="belika">* belika</ref> 
+перекликается и семантически, ср. сербохорв. примеры.</gram>
+  </gramGrp>
+</Entry>

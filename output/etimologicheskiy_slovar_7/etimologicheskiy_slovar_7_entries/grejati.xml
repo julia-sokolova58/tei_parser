@@ -1,0 +1,232 @@
+<Entry xml:id="grejati">
+  <pb n="115" end_page="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gre(ja)ti</orth>
+    <lemma>gre(ja)ti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^</orth>
+      </form>
+      <sense>
+        <def>кгати 0ep;jtaiveiv, calefacere греть , .укти CA греться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad., SJS)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сав., Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть, согревать, сиять, светиться, испускать свет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>греем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть , грёйа греть, согревать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть, светить, сиять (о небесных светилах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>zpejamu</ref>, грщати</orth>
+      </form>
+      <sense>
+        <def>греть, светиться , также греши</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 611—612)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greti</ref>, grejem</orth>
+      </form>
+      <sense>
+        <def>греть, согревать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 250; Slovar sloven, jezika I, 759)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть, согревать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hfit</ref> , елвц. hriat\ hreje</orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 525)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hracy</ref> hreje</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hre6y</ref> hrjec</orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gres</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 321—322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>grij-sa</ref> 2 л. ед. ч. импер.</orth>
+      </form>
+      <sense>
+        <def>грейся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 68, с реконструкцией *greji-se)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gfauc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>zpimu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>согревать , грЪшписхл греться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. 239; Ио. екз. Бог. 93, Срезневский I, 603)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. XVIII. 18. Остр, ев., Срезневский I, 605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>греть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>согревать, нагревать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гръти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть, нагревать, согре­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грэць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греть</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *greti родственно, но отнюдь не тождественно<xr type="compare">см. <ref type="etymon" target="goreti">*goreti</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Последний представляет собой гл. состояния на -ё- от и.-е.<ref type="etymon" target="g-13">*g</ref>
+uher-, 
+тогда как <ref type="etymon" target="greti">*greti</ref> — переходный гл., у кот. тематич. глас­
+ный -ё- либо неисконный, либо иной природы.</gram>
+  </gramGrp>
+  <note>Поэтому вероятнее • g r e n b j b считать *greti не «расширенной основой *g whr-e-» (так см. Vail- lant. Gramm. comparee III, 269) v а продолжением аориста, на что- в принципе уже указал Бернекер: «Ступень *g*hre- относится к *g"her-, как др.-инд. d-pra-t 'наполнил', гом. TCXTJ-TO, лат. im- ple-t к др.-инд. pi-par-ti» (Berneker I, 351). Ср., далее, с той же первонач. огласовкой, алб. ngroh 'греть', см. Berneker, там же; S. Е. Mann «Language» 28, 1952, 39; Фасмер I, 456; Stawski I, 365 (неверно полагает, что первоначально здесь был глагол состоя­ ния со значением 'быть горячим', ср. у нас выше); Machek (сближает с греч. ^Xtatva) 'нагревать'). Тем не менее, слав. *greti и его и.-е. праформа *g~re- остаются почти изолированными. Нельзя не отметить при этом, что, напр., Покорный выделяет в сущности две праформы *g uhre-: одно *g~hre- (внутри статьи *g-her- 'hei|3, warm' и т. д.) — на основе алб. ngroh, цслав. грЪти, лтш. gremens 'изжога' и другое (в ка­ честве особого заглавного слова) *g"hre- 'нюхать, обонять, чуять', откуда др.-инд. jighrati, ghrati 'нюхать, пахнуть', прич. ghratd- ghrdfta- 'запах, аромат', греч. 60-cppouvop.ai 'нюхать, обонять, чуять', oo-cpprjoic 'запах' (см. Pokorny I, 494, 495). Думается, что Покор­ ный неправ и что от такого разъединения страдает этимология не только слав., но и др.-инд. и греч. слов (достаточно справиться в этимол. словарях Майрхофера и Фриска, чтобы убедиться, что этимологизация этих слов лишена глубины и перспективы). Только обращение к «истории идей» показывает, что 'нюхать, обонять' — вторичное значение и бывает иногда связано с более древними — 'дым, т е п л ы й запах, пар от готовящейся пищи'. Ср. др.-исл. pefr 'запах', pefa 'пахнуть': др.-англ. pefian 'разогре­ ваться', лат. tepor 'теплота', др.-инд. tapas 'жар'; др.-в.-нем. riohhan 'испускать дым, пар или з а п а х ' , соврем, нем. riechen ' п а х н у т ь ' (Buck. A dictionary of selected synonyms 3 1023— 1024). После этого делается ясным, что мы вправе причислять к и.-е. соответствиям праслав. *greti также еще др.-инд. ghrati и греч. 6a-cpp7]oi&lt;; с их вторичными значениями, а в и.-е. этимол. словаре выдвинуть единую праформу *g 4hre- 'греть, испускать тепло'&gt;'пахнуть', 'обонять', grenbjb: русск. диал. еринбй: гриная неделя 'неделя перед петров­ ками' (смол., Филин 7, 146), ср. еще грены мн. 'семик' (орл., Доп. к Опыту 37; Филин 7, 134), укр. грёний, гряний 'зеленый' (Гринченко I, 324), грЛний, -а, -е 'зеленый' (гряна недыя 'зеле­ ные святки, троицын день', Гринченко I, 334), блр. диал. гря- ная нядзёля то же (Бялькeвiч. Магш. 141), граная нядзёля (Матэрыялы для дыялектнага слоунша Гомелынчыны 236). — Ср. сюда же суффиксальное производное словен. grenica ж. р. 'зеленая кожура орехов' (Plet. I, 250). Слово пропущено во всех этимол. словарях. Реликтовое прич. с формантом -п-, производное от и.-е. *ghre- 'расти'. Связано че­ редованием гласных с *gran- (<xr type="compare">см. <ref type="etymon" target="granaj">*granaj</ref>
+    </xr> *granb/ 
+*granb).</note>
+</Entry>

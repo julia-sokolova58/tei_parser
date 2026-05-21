@@ -1,0 +1,46 @@
+<Entry xml:id="gaziti">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gaziti</orth>
+    <lemma>gaziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гази</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наступать, топтать, идти, ходить, ступать, идти вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гйзити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти вброд, наступать, попирать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти вброд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 208)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Скорее всего, производное от имени<ref type="etymon" target="gaz">*gazъ</ref> (см.; там же эти­
+мология).</gram>
+  </gramGrp>
+</Entry>

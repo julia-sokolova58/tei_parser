@@ -1,0 +1,50 @@
+<Entry xml:id="bezlesbjb">
+  <pb n="30" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezlesbjb</orth>
+    <lemma>bezlesbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezlesy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безлесый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ого­ ленный, не поросший лесом, голый, голопочвенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 1,162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безлъсий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Золотой, у., Гринченко 1,41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-51">*bez</ref> (см.; там же — относи­
+тельно 
+архаичности 
+данного 
+словообразовательного 
+типа) 
+и 
+именной основы <ref type="etymon" target="les-">*les-</ref> (см. <ref type="etymon" target="Zm">*Zm</ref>&gt;).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,145 @@
+<Entry xml:id="devoja">
+  <pb n="20" end_page="21" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvoja</orth>
+    <lemma>dĕvoja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>девбйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дес</ref>,о)ка ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ёвб]па ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, слу- жанка, также deeojna, duedjm ж. р</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>devojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>де­ вушка , сюда же дальнейшие производные формы —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PJet. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>devojna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, девица (Ст.-чеш., Прага), редк</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>devojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девица, девушка, devojna ж. р. то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dĕvoja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>dziewoja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девушка, девица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewoja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>милая, невинная девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 649; Dorosz. II, 599)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>givoia</ref>, gevoia</orth>
+      </form>
+      <sense>
+        <def>здоровая, крепкая девушка , сюда же производное dziewojka ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Szymczak Doman. I, 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 653)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>девбйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., Доп. к Опыту 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дЬвойник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рас­ тение Onobrychis sativa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 387)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-oja</ref>
+      </m> от <ref type="etymon" target="deva-3">*deva</ref> (см.); не совсем ясно отно­
+шение к местоим. форме первонач. прилаг-ного <ref type="etymon" target="devaja">*devaja</ref>.</gram>
+  </gramGrp>
+  <note>См. Miklo- sich. Vgl. Gr. И, 84.</note>
+</Entry>

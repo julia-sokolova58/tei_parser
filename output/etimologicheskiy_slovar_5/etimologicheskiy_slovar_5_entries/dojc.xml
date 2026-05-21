@@ -1,0 +1,36 @@
+<Entry xml:id="dojc">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьcь</orth>
+    <lemma>dojьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>доёц</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сосок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dojec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>доильщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 263: «Na Slov.»)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (имя деятеля) с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от гл. <ref type="etymon" target="dojiti-7">*dojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

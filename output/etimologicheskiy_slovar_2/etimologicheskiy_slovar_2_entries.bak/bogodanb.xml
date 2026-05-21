@@ -1,0 +1,54 @@
+<Entry xml:id="bogodanb">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogodanb</orth>
+    <lemma>bogodanb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogbdanb</orth>
+    <lemma>bogbdanb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Богдан</ref> м. р., Богдана ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Bogdan</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bohdan</ref> м. p., Bohdana ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Bohdan</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zeman 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Bogdan</ref>, Bogodan</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Богоданъ, Богданъ (1470 г., Тупиков 112), укр. Богдан м. р. (Гринченко IV, 549), блр. Багдан (Слоушк асабовых уласных 1мен. Мшск, 1965, 20). Древнее слав, мужское личное имя собственное.</note>
+  <gramGrp>
+    <gram>Сложение компонентов bogo- (см. *&amp;о#ъ) и прич. прош. страд, йаггъ (см.<ref type="etymon" target="dati">*dati)</ref>.</gram>
+  </gramGrp>
+  <note>Учитывая судьбу имени *bogb, а также структурную близость ир. антропонимов с близким компонентом *baga- (тео- форные имена), Милевский склонялся к выводу, что слав. *bogo- danb— калька ир. имени, ср. мид. Baga-data- 'богоданный, дан­ ный богом'. Литература: Т. Milewski. Ewolucja morfologiczna indoeuropejskich ztozonych imion osobowych. — BPTJ XVI, 1957, 37 и след.; он же. Stowiaiiskie imiona osobowe na tie porownawczym. «Z polskich studiow slawistycznych. Seria 2. J$zykoznawstwo» (Warszawa, 1963), 101 и след.; Трубачев «Этимология. 1965» (М., 1967), 29. Более ранняя гипотеза о происхождении имени Богдан из кальки греч. вео-8охос, с той же семантикой (см. об этом Г. Г. Гин- кен. Древнейшие русские двуосновные личные имена и их умень­ шительные. — ЖСт. III, 1893, 443), не столь вероятна, поскольку речь идет об имени, бесспорно дохристианском.</note>
+</Entry>

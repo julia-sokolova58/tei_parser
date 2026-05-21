@@ -1,0 +1,70 @@
+<Entry xml:id="glupys">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupyšь</orth>
+    <lemma>glupyšь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlupejs</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица Procellaria glacialis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 696, вслед за Добровским)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gUpis</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дурак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Глупышъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1498 г., Тупиков 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупыш</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глупыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>блины, оладьи, пироги и т. п., зажаренные в масле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., новг., Фи­ лин 6, 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глупыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица глупыш</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ysb</ref>
+      </m> от прилаг. <ref type="etymon" target="glupb-7">*glupb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

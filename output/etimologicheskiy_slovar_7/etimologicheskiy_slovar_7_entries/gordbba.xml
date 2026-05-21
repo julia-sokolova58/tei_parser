@@ -1,0 +1,148 @@
+<Entry xml:id="gordbba">
+  <pb n="37" end_page="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordbba</orth>
+    <lemma>gordbba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>градба</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>строительство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйдба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>межа ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 541; RJA III, 364: XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grddba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ограда, вал, укрепление, строительство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hradba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>укрепление, ограда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hradba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ограда, забор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 31; Ho§ek. Ceskomorav. I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hradba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ограда, оплот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grodzba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>огораживание , grodzba ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 910)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 916)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Городьба</ref>, лич­ ное имя собств. г.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тупиков 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>городьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>материал для изгороди (краснояр.), огороженное место, где растут овощи и плодовые деревья (иркут.), двор без кровли (в отличие от крытого) (смол.) , городьба ж. р. ограда, изгородь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Перм­ ской обл. 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарадзьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>городьба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гырыдзьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>городьба, ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Мапл. 145)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ьЬа</ref>
+      </m> 
+(первонач. <m type="suffix">
+        <ref>-имя</ref>
+      </m> действия) от гл. на 
+<m type="suffix">
+        <ref>-iti</ref>
+      </m>
+      <ref type="etymon" target="gorditi">*gorditi</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Праслав. образование предполагает Orzechowska 163 (для болг. там же приводится диал. гражба). gordbn-b(jb) * g o r d b C b : ст.-слав. Г ^ Д Д А Ц А M . p. xd&gt;p.ij, woXt'Siov, rcoXt^viov, x7)7ripiov, vicus, hortus 'городок', 'садик, огород' (Zogr., Mar., As., Supr., Вост., Mikl., Sad., SJS), болг. (Геров) градёць м. р. 'городок', макед. градец м. р., ум. 'городок' (Кон.), сербохорв. градац, род. п. граца, м. р. 'городок', ' р а з в а л и н ы города, крепости' (РСА III, 541), Градац, местн. название (там же), словен. grddec, род. п. -dca, м. р., ум. 'городок' (Plet.), чеш. hradec, род. п. -dee, м. р. 'замок' (Jungmann I, 744), польск. grodziec м. р. '(ук­ р е п л е н н о е ) местечко, городок' (Dorosz. II, 1304), словин. garc м. р. тоже (Ramutt 39), др.-русск. городъць 'городок', 'крепостца (?)' (Новг. I л. под 1216 г.; Георг. Ам. 316), Городъць, соб. имя, крепость у Киева (Пов. вр. л. под 1078 г.) (Срезневский I, 558), русск. городёц, род. п. -дца, м. р. 'городок, крепостца, укреп­ ленное тынОхМ местечко, селение' (Даль 3 I, 940), диал. городёц, род. п . -дца, м. р. 'небольшой у к р е п л е н н ы й город, крепость' (самар.), 'старое городище' (влад., яросл.) (Филин 7, 57), Горо­ дёц, местн. название, бывш. Ростов, у. Яросл. губ.; Боровск, у. Калуж. губ. и мн. др. (Russisches geographisches Nemenbuch II, 490), у к р . горбдецъ, -дця, м. р., ум. от город (Гринченко I, 314; Укр.-рос. словн. I, 352: горбдецъ 'огородец'). Ум. производное с суф. -ъсъ от *gordb. Древность образования явствует из примеров с архаич. огласовкой вроде TapStxt, местн. название, распространенное в Греции. См. М. Vasmer. Zu den slav. Ortsnamen in Griechenland. — Symbolae grammaticae in ho- norem I. Rozwadowski II (Krak6w, 1928); то же см. M. Vasmer. Schriften zur slav. Altertumskunde und Namenkunde II (Berlin 1971), 925. * g o r d b n b ( j b ) : ст.-слав ? Г ^ Д Д А М Ъ , прилаг. rrj&lt;; тгбХешд, XTJTTOO, urbis, horti 'городской' (Супр., Вост., Sad., Mikl., SJS), болг. граден, при­ лаг. (Геров — Панчев), сербохорв. стар., редк, grddan, -dna, при­ лаг. 'городской' (с XIII по XVIII в., RJA III, 364), словен. grdden, род. п. -dna м. р. 'дуб Quercus sessiliflora' (Plet. I, 243; Slovar sloven, jezika I, 744: Quercus petraea), чеш. hradni, при­ лаг. 'замковый, крепостной', также стар, hradny, слвц. hradny, прилаг. (SSJ I, 517), др.-русск. городъныи, прилаг. 'городской' (Уст. Яр. о мост.; Новг. I л. под 1157 г.; Дан. иг.; Жал. гр. Волог. кн. Анд. Вас. 1479 г.; Срезневский I, 557—558), сюда же субстантивное городънхл 'часть моста от одного быка до другого' (Новг. I л. под 1143 г.), 'часть, звено крепостной стены' (Уст. Яр. о мост.; Соф. вр. II, 418) (Срезневский I, 557), Городьно, местн. название (Лавр. л. 1377, л. 99, Картотека СДР), русск. диал. городнбй, -ая, -бе 'городской' (влад., иван., яросл., Филин 7, 59), городёнъ ж. р. 'часть тына, забора от столба до столба, звено, прясло' (сиб., Даль 3 I, 940), го родня 'ограда' (Картотека Новгородского ГПИ), Городно, название озера в бывш. Новг. губ. (Worterbuch der russischen Gewassernamen I, 497), Городна • g o r d b s k b ( j b ) (там же, 496), Городня, река в басе. Десны, бывш. Калуж. губ. (там же, 497), ст.-укр. городнъш, прилаг. 'городской' (XV в., Словник ст.-укр. мови X I V — X V ст. 1, 252), Городно, название города (1400 г., там же), укр. горбдний, горбднш, прилаг. 'ого­ родный' (Гринченко I, 315), блр. гарбдны, также диал. гарбд- ный, прилаг. 'огородный' (Бялькев1ч, Мапл. 133). Прилаг., производное с суф. -ъпъ от<xr type="compare">см. <ref type="etymon" target="gordb">*gordb</ref>
+    </xr>. Подробно 
+об употреблении в топонимии см. Н. Borek. Zachodniostowianskie 
+nazwy 
+toponimiczne 
+z formantem 
+-ыг- (Wroclaw, 1968) 66 и сл.</note>
+</Entry>

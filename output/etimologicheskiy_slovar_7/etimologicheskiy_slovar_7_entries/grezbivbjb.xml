@@ -1,0 +1,111 @@
+<Entry xml:id="grezbivbjb">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grezbivb(jb)</orth>
+    <lemma>grezbivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>г</ref> резан, -зна, -зно</orth>
+      </form>
+      <sense>
+        <def>грязный , субстантивированное грёжгьа ж. р. непролазный талый снег, каша , greznja то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 610)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(черногор., Pal. 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grezen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>топкий, илистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грАЗъныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязный, тинистый , также в кач-ве личного имени собств. Грязной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Отдельн. Вяж. мон. 1505 г., Срезневский III, 81 1)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., Тупиков 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грязный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>покры­ тый грязью; замаранный, запачканный; нечистый; неопрятный , также в качестве местн. названия Грязная, река в бывш. Арханг. губ., и т. д. , субстантивное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 996)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewas- sernamen I, 536—537)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грязни</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>болота, топи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Майков. Великорусск. заклинания, Филин 7, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. редк. <ref>грязний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 369)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>грязный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грязный, испачканный , гразна грязно, неопрятно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(3 народнага слоунша 261)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="gr-6">*gr</ref>$zb 
+(см.).</gram>
+  </gramGrp>
+</Entry>

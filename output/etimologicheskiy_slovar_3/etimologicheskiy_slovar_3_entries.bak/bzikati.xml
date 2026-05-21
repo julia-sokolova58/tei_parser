@@ -1,0 +1,86 @@
+<entries>
+  <entry xml:id="bzikati" xml:id="bzikati">
+    <pb n="143" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъzikati</orth>
+      <lemma>bbzina</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bezina</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. 1, 24)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bzina</ref>, be- zina ж. р.</orth>
+        </form>
+        <sense>
+          <def>бузина (Ст.-чеш., Прага: нет, но ср. там bziny мн. ч. ж. p. vaccina, Klaret), елвц. bazina ж. р. бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 76)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>bzina</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>дерево сирени, сиреневый куст</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бзина</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кл1м. Bipmi VI и др., Тимченко I, 88)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бзина</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 54)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>бзина</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(гуцул., лемк., Карпатский диалектологический атлас 95)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ina</ref>
+        </m> от <ref type="etymon" target="bbzb">*bbzb/</ref>
+        <ref type="etymon" target="bbza">*bbza</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

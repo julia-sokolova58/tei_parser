@@ -1,0 +1,46 @@
+<Entry xml:id="brbzdatisc">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbzdati (sč)</orth>
+    <lemma>brbzdati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брздати</ref> се</orth>
+      </form>
+      <sense>
+        <def>пачкать себе губы при еде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brzddti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взнуздывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 68)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+родственный <ref type="etymon" target="brbzda">*brbzda</ref> 
+(см.), 
+хотя не 
+исключено 
+участие звукоподражат. ассоциаций (ср. сербохорв. брздати 
+се, 
+а также <ref type="etymon" target="b-2">*b</ref>^zditi, 
+см.).</gram>
+  </gramGrp>
+</Entry>

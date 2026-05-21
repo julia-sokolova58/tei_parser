@@ -1,0 +1,73 @@
+<Entry xml:id="buniti">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buniti</orth>
+    <lemma>buniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстрекать к бунту, бунтовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бунт)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подстрекать к бунту, смущать, приводить в растерянность, замешательство (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бунити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>под­ стрекать, возмущать, также громко разговаривать, говорить бессвязно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCА II, 287—288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bunic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выпускать газы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бунйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать глухой звук (тамб., донск., иссык.-кульск.), реветь, мычать (куйб.), кричать (о выпи) (тамб.), плакать (куйб.), петь (чаще о пьяных) (куйб.), гово­ рить неразборчиво, гнусаво (терск., сарат.), стучать чем-либо, шуметь (куйб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 276)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. гл., родственный<ref type="etymon" target="buna">*buna</ref>, 
+<ref type="etymon" target="buneti">*buneti</ref> 
+(см.; подробно 
+!--об этимологии — на <ref type="etymon" target="ipa-2">*Ьипа)</ref>.</gram>
+  </gramGrp>
+  <note>Полезно обратить внимание на иден­ тификацию сербохорв. бунити 'шуметь' и норв. bynja 'шуметь' (J. Loewenthal AfslPh XXXVII, 1920, 388).</note>
+</Entry>

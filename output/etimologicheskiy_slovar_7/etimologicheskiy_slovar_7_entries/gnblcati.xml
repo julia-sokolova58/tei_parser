@@ -1,0 +1,148 @@
+<Entry xml:id="gnblcati">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gnblcati</orth>
+    <lemma>gnblcati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гълча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, шуметь, разговаривать, говорить, бранить, ворчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; РБЕ; БТР; Геров: глъчж)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гълчъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить , гъачъ ругаться , если</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Поливанов БД I, 179)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С Тръстеник, Плевенско. — БД VI, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>формы</ref> не из *g^citi (см. след.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golcati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, шуметь, греметь сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. (<ref>прекмурск</ref>.) glu- sati</orth>
+      </form>
+      <sense>
+        <def>звучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(F. Bezlaj «Koroski kulturni dnevi» I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hluceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hluceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 437)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlcaf</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>holcec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gielczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, галдеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 821)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гълчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр- Юр. XVII. 78, Срезневский I, 612)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голчатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пого­ ворить , голчатъ кричать, реветь, вопить , голчатъ говорить (костр., вят., волог., твер., новг., горьк., влад.), кричать (арх., влад., костр., твер.), звать, призывать (вят.), греметь (алт., том.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., костр., твер., Опыт 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Доп. к Опыту 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 344)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -etiy производный от (см.).</note>
+</Entry>

@@ -1,0 +1,46 @@
+<entries>
+  <entry xml:id="brzc" xml:id="brzc">
+    <pb n="139" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrzьcь</orth>
+      <lemma>Ьъггьсь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брзац</ref>, род. п. брсца, м. р.</orth>
+        </form>
+        <sense>
+          <def>быстрый человек (черног.), заяц , вид хищной рыбы</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(PGA II, 1 5 7 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brzec</ref>, род. п. -zca, м. р.</orth>
+        </form>
+        <sense>
+          <def>жужелица . — Сюда же производное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 6 8 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>Борзецовъ</ref>, антропоним .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>( 1 6 2 9 г., Картотека ДРС)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Производное с суфф. -ьсь (субстантивация) от прилаг. 
+(см.).</note>
+  </entry>
+</entries>

@@ -1,0 +1,127 @@
+<Entry xml:id="dnevnj">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnevьnъ(jь)</orth>
+    <lemma>dьnevьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДАибБАНЪ</ref>, прилаг. 7]fj,eptvog, есрт^ерос, diurnus, quotidianus</orth>
+      </form>
+      <sense>
+        <def>дневной 5, ежедневный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>днёвеНу</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>дневной, однодневный, сегодняшний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дневен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дневной, суточный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dnevan</ref>, dnevna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дневной , dnevni</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 474)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVIII в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dneven</ref>, -una, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dnjowny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дневной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dnowny</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъневьныи</ref>, дневьныи</orth>
+      </form>
+      <sense>
+        <def>дневной , ежедневный (Панд. Ант. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мин. 1096 г., 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 768)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дневной</ref>, дневный</orth>
+      </form>
+      <sense>
+        <def>ко дню относящийся, денной, су­ точный; ежедённый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1093)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от основы <ref type="etymon" target="dbnev-">*dbnev-</ref>, нуждаю­
+щейся в специальном комментарии: базой послужил, по-видимому, 
+гл. состояния <ref type="etymon" target="dbnevati">*dbnevati</ref> (болг. денувам, сербохорв. danovati, польск. 
+dniowac, 
+русск. дневать 
+'проводить день'), сложившийся, как 
+можно предположить, не без влияния парного <ref type="etymon" target="nokt">*nokt</ref>'
+)evati (см.), 
+ср. устойчивое выражение русск. дневать и ночевать. Во всяком 
+случае видеть здесь следы именной -и- основы <ref type="etymon" target="dbneu-">*dbneu-</ref> нет основа­
+ний, поскольку известно, что <ref type="etymon" target="dbnb">*dbnb</ref> (см.) восходит к первонач. 
+основе на согласный -п и.-е. <ref type="etymon" target="dm-">*dm-</ref>.</gram>
+  </gramGrp>
+</Entry>

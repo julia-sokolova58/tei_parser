@@ -1,0 +1,43 @@
+<Entry xml:id="goreslavb">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gor'eslavb</orth>
+    <lemma>gor'eslavb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorislavb</orth>
+    <lemma>gorislavb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Hofeslav</ref> м. p., личное имя собств. , Horislav м. p. личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 463)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Gorzyslawy</ref> личное имя собств. , вост.-слав. Горислов, местн. название, *бывш. Стародуб. у. Черниг. губ. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1329 г., Stown. stpol. nazw osobowych II, 1, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geogra- phisches Namenbuch II, 466)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Двуосновный антропоним, сложение основ гл.<ref type="etymon" target="goreti">*goreti</ref> 
+(см.) и 
+<ref type="etymon" target="slava-2">*slava</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Характер непосредственного словообразования не вполне ясен: возм., произведено от императива *gori с вторичным сближением с именными формами<xr type="compare">см. <ref type="etymon" target="gore">*gor'e</ref>
+    </xr>.</note>
+</Entry>

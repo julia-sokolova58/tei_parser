@@ -1,0 +1,62 @@
+<Entry xml:id="divokj">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divokъjь</orth>
+    <lemma>divokъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>divoky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дикий, сюда же субстантивирован­ ное divok м. р. дикарь, дичь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 243: «па Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>divoky</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о погоде) пронзительный, пронизывающий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>divoky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дикий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dziwoki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дикий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 663)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение субстантивно-адъективного<ref type="etymon" target="yi">*йЬиъ</ref> (см.) и основы -окъ, 
+выступающей в роли суффикса, но со следами полнозначного упо­
+требления, что-то вроде 'имеющий вид', ср. <ref type="etymon" target="oko">*око</ref> и особенно — вто­
+рой компонент слов <ref type="etymon" target="glybokb">*glybokb</ref>, <ref type="etymon" target="ngok">*Нгокъ</ref>, <ref type="etymon" target="iuvok">*иувокъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>На близость образования этих последних и *divokb правильно указал Махек (см. Machek 2 И 9), однако его трактовка морфемы -ок- как «нового суффикса» едва ли удачна, ср. и раннюю непродуктивность этих сложений. Семантически ^div-окъ первоначально могло значить 'имеющий дикий вид, дикий в з г л я д ' , что было бы в согласии с предложенной нами выше этимологией, а также вскрывало бы генетическую связь с *diviti (s$) 'смотреть', 'удивляться', *divo&gt; *divb 'чудо, диво', кот. нередко отрицают.</note>
+</Entry>

@@ -1,0 +1,35 @@
+<Entry xml:id="bebrovbna">
+  <pb n="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bebrovbna</orth>
+    <lemma>bebrovbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bebrownja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жилище бобра . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Bebreunlca</ref> ж. р., название села в Хорватии .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIII в., R J A I, 218)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпа</ref>
+      </m> от основы прилаг. <ref type="etymon" target="bebrov-">*bebrov-</ref> (см. <ref type="etymon" target="bob-">*bob-</ref>
+гоиъ]ь, 
+с отличием в корневом вокализме).</gram>
+  </gramGrp>
+</Entry>

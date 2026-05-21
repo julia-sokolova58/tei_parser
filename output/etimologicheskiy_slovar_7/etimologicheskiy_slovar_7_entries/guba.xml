@@ -1,0 +1,161 @@
+<Entry xml:id="guba">
+  <pb n="163" end_page="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>guba</orth>
+    <lemma>guba</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gubb</orth>
+    <lemma>gubb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>губа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>корка (Дювернуа), губа ж. р. лист теста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>губа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>корка запеченного теста (в банице)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>губа</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>giiba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>складка , сюда же произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hubka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дифтерит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hubky</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gab</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gaba</ref> ж. р. то же , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 311; см. специально H. Popowska-Taborska RS X X X V I , 1975, I, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гъба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>округ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. гр. Новг. с в. к. Ив. Вас. 1456 г.; Зап. о Ржевск. дан. 1479 г., Срезневский I, 607)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>губа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>полоса земли, вдающаяся в реку (пек.), мыза, дача, селение (новг., пек.) , сюда же Губа, местн. на­ звание , губа ж. р. искривленное дерево, вырытое из земли с корнем, которое употребляется для постройки лодок и барок* , губка ж. р. условная величина для измерения длины основы будущей ткани, равная расстоянию между первым и вто­ рым вертикальным рядом колышков, вбитых в стену избы (при сновании на стене)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(бывш. Новг. губ., Russisches geographisches Namen- buch II, 594)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(каз., Филин 7, 192—193, там же ряд других технических зна­ чений)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., брян., Филин 7, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>губка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мера основы для полотна разной длины в зависимости от длины стены хаты, когда снуют на вбитых в стену колышках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики сев. Житомирщи- ны.—Слав, лексикография и лексикология 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>губа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(узкое) болото, мера (земли) , губка, губща ж. р. мера длины полотна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыял. слоу- нша Гомельшчыны 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(4—5 м.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мшска-маладзеч. 41, 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="gubati">*gubati</ref> 
+(см.), <ref type="etymon" target="gbbngti">*gbbngti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. Бернекер I, 360; Фасмер I, 469; Ф. Безлай ВЯ 1967, № 4, 51—52; Staw­ ski I, 375. Специальное сравнение с лит. gaubas 'возвышение, бугор' см. J. Otr^bski LP VII, 1959, 315.</note>
+</Entry>

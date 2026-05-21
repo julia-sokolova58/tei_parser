@@ -1,0 +1,228 @@
+<Entry xml:id="sype1">
+  <pb n="145" end_page="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сыпе1ь</orth>
+    <lemma>сыпе1ь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сыпе1а</orth>
+    <lemma>сыпе1а</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cmela</ref> ж. p.=pcela</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cmelj</ref> м. p. , cmflj м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель Bombus terrestris , также crmelj м. p. , efmelj, род. п. -mlja, м. p. , emerelj м. p. , smelj м. p. , scemelj м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet.; Slovar sloven, jezika I, 307)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II, 639)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II, 619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cmel</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cmeV</ref> м. p. то же , также cmela ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cmuV</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa, Dlha Liika 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cmjela</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>tsmel</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 807)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czmiel</ref>, trzmiel м. p.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>шмель</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>насекомое из сем. пчёл с толстым мохнатым тельцем</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чмел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель , щамель то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ворон., Даль 3 IV, 1355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доброволь­ ский 1010)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чмЬль</ref>, род. п. чмеля, м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель , также джмыь, род. п. джмеля, м. р. , чмола ж. р. насек. Xylocopa violacea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 467)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 376)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чмелъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>шчамёль</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 226; Мшска-маладзеч. 155)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Наиболее вероятно образование с суфф.<m type="suffix">
+        <ref>-е1ъ</ref>
+      </m> от корня <ref type="etymon" target="st-">*сът-</ref>&gt; 
+представляющего собой ступень редукции от чередования <ref type="etymon" target="ket--2">*кет-/</ref>
+      <ref type="etymon" target="kot-">*кот-</ref>, откуда <ref type="etymon" target="kotag">*котагъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>В конечном счете звукоподражание. Тождества вроде сербохорв. cmela = pcela и формы словен. cebela, диал. chela, zbela (<xr type="compare">см. <ref type="etymon" target="se1a">*Ьъсе1а</ref>
+    </xr>) не дают достаточного осно­
+вания, чтобы сближать эти названия пчелы и *съте1ь генетически. 
+Прочие этимологии *сьте1ь (см. также ниже) менее вероятны. 
+Слав. *съте1ъ ближе всего, если иметь в виду ступень редукции 
+корневого вокализма и особую суффиксацию, к др.-в.-нем. humbal, 
+нем. Hummel 'шмель', англ. humbleiee. См. Kluge—Gotze
+1 5 331—332. 
+Балт. названия — лит. kamane 'вид шмеля', др.-прусск. 
+camus 
+'шмель' — и в том и в другом отношении более далеки. 
+См. из литературы: Berneker I, 167; A. Meillet MSL 14, 1907, 367; 
+W. Porzezinski RS IV, 1911, 6; A. Bruckner KZ LI, 1923, 230; 
+Bruckner 
+79; 
+J. 
+Kalima 
+A ASF 
+27, 
+и 
+сл. 
+(цит. 
+по: 
+RS XII, 1936, 66: автор сомневается в связи слав, слова с фин. 
+kimalainen 
+'пчела'); Е. 
+Nieminen. Indoeuropaische und ostsee-
+finnische Ausdrucke fur Hummel.—LP 3, 1951, 187—204 (скло­
+нен производить название шмеля в слав, и балт. языках от 
+балто-слав. *кат- 'ком', а не от звукоподражания, ср. аналогию
+•ebmuliti? 
+лит. 
+samane 
+'шмель': 
+samanos 
+'мох'); 
+К. 
+Moszynski 
+JP XXXIII, 1953, 364 (полагает, что в названиях медоносных 
+растений русск. команйка, польск. koniczyna и родственных коре­
+нится исчезнувшее слав, название дикой пчелы, близкое к лит. 
+kamdne); 
+A. Debeljak SR V—VII, 1954, 175—176 (о префик­
+сальном характере начального согласного в слав. *6ьте1ь); Fraen-
+kel I, 212; Bezlaj. Slovenscina v krogu slovanskih jezikov 3; 
+F. Bezlaj JiS 1959/1960, 89 (придаёт значение огласовкам с -г-
+в словен. и некоторых других формах); Machek
+2 105 (объединяет 
+слав., балт. и герм, названия шмеля с фин. названием пчелы 
+как потенциально «праевропейские»); Фасмер IV, 459.</note>
+</Entry>

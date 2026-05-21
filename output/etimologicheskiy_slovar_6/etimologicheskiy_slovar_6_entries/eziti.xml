@@ -1,0 +1,63 @@
+<Entry xml:id="eziti">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕziti</orth>
+    <lemma>ĕziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>азити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отводить воду, также запруживать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 526)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jĕziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запруживать, перегораживать запрудой (воду)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>езйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ставить ез (рыболовный закол)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 8, 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гзйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перего­ раживать реку для ловли рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко И, 197)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный с суфф.<m type="suffix">
+        <ref>-iti</ref>
+      </m> от имени <ref type="etymon" target="ezb">*ezb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,120 @@
+<Entry xml:id="as">
+  <pb n="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬьсь</orth>
+    <lemma>ЬаЬьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бабац</ref>, род. п. бапца м. р.</orth>
+      </form>
+      <sense>
+        <def>старуха, старая баба, крупный орех 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>babec</ref>, род. п. -Ъса м. р.</orth>
+      </form>
+      <sense>
+        <def>бабник 5, т р у с 5 , кукла 5, раст. Verbascum nigrum 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ЪаЬес</ref>\ род. п. -Ъсе, уничиж.</orth>
+      </form>
+      <sense>
+        <def>баба 5</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>babec</ref>, род п. -Ъса м. р. (шутл.)</orth>
+      </form>
+      <sense>
+        <def>дед, старик 5 , баба, старуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(уничиж., Gregor. Slov. slavk.bucov. 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бабёц</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>г о л о ­ вастик, Cottus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бабёцъ</ref>- головач</orth>
+      </form>
+      <sense>
+        <def>подкаменщик Cottus gobio L. 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( У к р . - р о с словн. I, 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ъсъ от<xr type="compare">см. <ref type="etymon" target="aa-2">*ЪаЪа</ref>
+    </xr>. 
+ftbabbjb: 
+цслав. 
+Б А Б И Й 
+прилаг. ураа&gt;8т|с, 
+'anilis
+(Mikl.), сербохорв. 
+баб(ы)]й 
+прилаг. (PCA 
+I, 
+221), 
+ЪаЦь 'принадлежащий 
+бабке, 
+старухе' 
+(с X V I I в., RJA 
+I, 
+134), словен. babji 
+'старушечий, 
+бабий' (Plet. I, 8), чеш. ЬаЫ 'женский, бабий', слвц. ЬаЫ, обычно 
+только в сочетании babie leto 'бабье лето' (SSJ I, 01), н.-луж. 
+ЬаЫ 'старушечий, 
+бабушкин' 
+(Muka 
+Si. 
+I, 
+6—7), 
+польск. babi 
+'старушечий, 
+бабушкин' (Dorosz. I, 
+280—281), словин. babji 'ба 
+бий' (Lorentz Slovinz. W b . I, 10), др.-русск. бабий 
+бабий, ani­
+lis' (Срезневский 
+I, 
+37), русск. бабий, 
+ст.-укр. бабш (XVII в., 
+Тимченко I, 45).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. притяжат. регулярного вида, нроизводное с суфф.<m type="suffix">
+        <ref>-ъуь</ref>
+      </m> от <ref type="etymon" target="baba-8">*baba</ref> (см.) исключительно в знач. 'женщина, баба, старуха'.</gram>
+  </gramGrp>
+</Entry>

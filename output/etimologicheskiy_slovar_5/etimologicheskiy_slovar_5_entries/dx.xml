@@ -1,0 +1,111 @@
+<Entry xml:id="dx">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъxъ</orth>
+    <lemma>dъxъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^х^</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъх</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дыхание, запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дах</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dah</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дыхание, дух, запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA II, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>даа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запах, вонь (Елез. I), словон. dah, dah м. р. вздох, выдох, дыхание, вонь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dech</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дыхание, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dech</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(nemoz'e dechu popadnuc'. Lamprecht. Slovn. stfedoopav. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>dex</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дыхание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. Л65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дох</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдых , дох м. р. отдых (арх., твер.), гибель рыбы подо льдом из-за недостатка кислорода, замор (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоц- кий 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 159)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="dbxati">*dbxati</ref> j<ref type="etymon" target="dbxnqti">*dbxnqti</ref> 
+(см.); возм., отглаг. имя.</gram>
+  </gramGrp>
+  <note>Указывают на параллельное лит. dusas 'вздох' с соответствующим вокализмом. См. A. Meillet MSL 14, 1907, 362; Berneker I, 243.</note>
+</Entry>

@@ -1,0 +1,274 @@
+<Entry xml:id="serg">
+  <pb n="59" end_page="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серьгъ</orth>
+    <lemma>серьгъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>йеръгъ</orth>
+    <lemma>йеръгъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёпоръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёпор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обрубленная ветка, обрубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. Плевен­ ско.— БД VI, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чепор</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>сук, сучок , чепур м. р. трубка в оборудованном источнике</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чопур</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деревянный или металлический жолоб для стока воды из источника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(J. Тасевски. Зборови од тетовскиот говор. — MJ III, 1952, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чапур</ref>, чепур м. р.</orth>
+      </form>
+      <sense>
+        <def>пенек (срубленного молодого дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: только у Вука)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>чапур</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пень и колода в дровах, которую кладут на ог­ нище , серег клещ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 684)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>серит</ref>, род. п. -г/а, м. р.</orth>
+      </form>
+      <sense>
+        <def>футляр для оселка у косца , серег, род. п. -г/а, м. p. Ixodes redivius (Bezlaj. Etim. slovar, рукоп.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 289)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cupr</ref>, несклон, прилаг.</orth>
+      </form>
+      <sense>
+        <def>хорошенький, смазливый, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cupr</ref>: to Je cupr clef се</orth>
+      </form>
+      <sense>
+        <def>хороша девка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>capor</ref>, caper м. p.</orth>
+      </form>
+      <sense>
+        <def>хлам, старье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чепоръ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(се бы с искусенъ чепоръ и нь. подобенъ теб^ никто же на земли. Ефр. Сир. XIV в., Срезневский ITI, 1498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чупер</ref>, род. п. -пра, м. р.</orth>
+      </form>
+      <sense>
+        <def>хохол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чупир</ref>, род. п. -пру, м. р.</orth>
+      </form>
+      <sense>
+        <def>волосы, чуб , сируг то же .—Сюда же, далее, суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буко- винских говоров 472)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чупёр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ък м. р. четверть, расстояние между растопырен­ ными большим и указательным пальцами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троян. — БД IV, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чуперок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прядка волос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сирёгак</ref>, род. п. -тка, м. p.</orth>
+      </form>
+      <sense>
+        <def>fasciculus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>coparica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица Parus cristatus, die Нааг- buschelraufe</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чуприк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гряз­ ный, неряшливый человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 601)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно связывают болг. чёпор, сербохорв. чапур с<xr type="compare">см. <ref type="etymon" target="ser">*серъ</ref>
+    </xr>. См. Berneker I, 143: J. Scheftelowitz IF 33, 133 и сл. 
+(цит. 
+по: 
+RS 
+VII, 1914—1915, 
+199); 
+Младенов ЕПР 681. 
+В этом же смысле (т. е. принимая сер- корневое) сближают 
+упомянутые ю.-слав. слова с *cepuriti, см. Berneker, там же. 
+Эта связь 
+вполне вероятна, хотя она и требует подчас вы­
+яснения семантич. иерархии (см. 
+ниже), 
+однако 
+мы знаем, 
+что корень слов *cepuriti, 
+*cepyriti, 
+*серъгъпъ]ъ \ *серъгъпъ]ъ, 
+*cepiriti, *ceperiti (см. s. vv.)—не сер-, a pur-jpyr-, 
+тогда как 
+се 
+приставка, «усилительное» се- (Махек). 
+Глагольное знач. 'торчать, топыриться и т. п.' 
+перечислен­
+ных глаголов родственно производному значению отглагольных 
+имен 'сук, ветка и т. д.' в ю.-слав. языках. 
+Производные от
+'топорщиться' глагольные значения типа 'охорашиваться' легли 
+в основу значения чеш. сирг 
+(выше), а также, по-видимому, 
+русск.-цслав. чепоръ, 
+т. к. в единственной известной нам ци­
+тате Срезневского из Ефрема Сирина 
+речь 
+идет 
+как будто 
+о красоте. 
+Особенный 
+расцвет этих значений 
+характеризует 
+зап.-слав. 
+и 
+вост.-слав. 
+прилагательные, 
+приводимые 
+под 
+*серъгъпъ]ъ J *сер ъгъпъ]ь 
+(см.).</note>
+  <gramGrp>
+    <gram>Значения 'хлам' (в.-луж.) и 'хохол, волосы, пучок, прядь' (укр., сербохорв., макед.) от­ четливо связаны с глагольным значением 'топорщить, торчать', Вокалические отличия, не всегда сводимые прямо к звуковому составу реконструкции<ref type="etymon" target="serg">*серъгъ</ref> I <ref type="etymon" target="serg">*серъгъ</ref> 
+(примеры — выше), — 
+позднего происхождения.</gram>
+  </gramGrp>
+  <note>Таким образом, *серъгъ / *серъгъ — отглагольное имя, про­ изводное от приведенного выше глагольного ряда. С<xr type="compare">см. <ref type="etymon" target="ser">*серъ</ref>
+    </xr> не связано.</note>
+</Entry>

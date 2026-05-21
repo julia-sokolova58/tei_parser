@@ -1,0 +1,42 @@
+<Entry xml:id="cesriti">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesriti</orth>
+    <lemma>cesriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. —с <ref>экспрессивной</ref> заменой s^&gt;x— cechriV (поэт., редк.)</orth>
+      </form>
+      <sense>
+        <def>трепать, ерошить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чъстрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать на гребне пеньку, шерсть , чустрити бить, сечь, о дожде: лить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шух., Гринченко IV, 466)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 479)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="cesrati">*cesrati</ref> (см.; там же подроб­
+нее об этимологии).</gram>
+  </gramGrp>
+</Entry>

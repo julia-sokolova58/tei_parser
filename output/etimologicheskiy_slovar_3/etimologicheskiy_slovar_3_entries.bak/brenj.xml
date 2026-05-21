@@ -1,0 +1,24 @@
+<entries>
+  <entry xml:id="brenj" xml:id="brenj">
+    <pb n="125" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrĕnъjь</orth>
+      <lemma>Ьъгёпъ]ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brzany</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>просяной</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 687)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Прилаг., производное с суфф. -ёпъ 
+(см.).</note>
+  </entry>
+</entries>

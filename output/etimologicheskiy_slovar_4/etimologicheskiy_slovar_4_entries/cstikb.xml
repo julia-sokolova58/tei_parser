@@ -1,0 +1,65 @@
+<Entry xml:id="cstikb">
+  <pb n="104" end_page="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>c^stikb</orth>
+    <lemma>c^stikb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>c^stika</orth>
+    <lemma>c^stika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>частикъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>частый невод , также личное имя собств. Частикъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Царек, жал. кр. Астр. Тр. м. 1575 г. февр. 12, Срезневский III, 1475)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1605 г., Тупиков 477)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>частик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>частый невод, (обл.) частый лес, частокол, ча­ стик мотня невода; маленький невод с мелкими ячеями , частик рыболовная мелкоячейная сеть , частик м. р. частый кустарник, частая молодая по­ росль леса , частика ж. р. заросли молодого леса . — Сюда же преобразованное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кули­ ковский 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоц- кий 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 537)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чащикъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>частый лес (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мен. гр. 1497 г., Срезневский III, 1485)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -1къ\чка от прилаг.<ref type="etymon" target="cesfo">*cesfo</ref> 
+(см.), субстан­
+тивация последнего.</gram>
+  </gramGrp>
+</Entry>

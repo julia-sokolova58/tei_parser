@@ -1,0 +1,34 @@
+<Entry xml:id="abrdbka">
+  <pb n="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abr§dbka</orth>
+    <lemma>abr§dbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jabrdtka</ref>, jabardtka мн. ч. ср. р.</orth>
+      </form>
+      <sense>
+        <def>сережки (на вербе, иве и т. п.), гусята</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 214)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> (ед. ч. <m type="suffix">
+        <ref>-ъко</ref>
+      </m>) от <ref type="etymon" target="abredb-2">*abredb</ref> или от <ref type="etymon" target="ab-">*ab-</ref>
+redb (см.), 
+ближайшим 
+образом 
+связанное с другой 
+производной 
+формой — праслав. <ref type="etymon" target="ag-5">*аЬг</ref>^ъкъ 
+(см. след.).</gram>
+  </gramGrp>
+</Entry>

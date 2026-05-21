@@ -1,0 +1,311 @@
+<Entry xml:id="esen">
+  <pb n="28" end_page="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esenь</orth>
+    <lemma>esenь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёсен</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йасен</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>есен</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёсён</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesen</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. книжн. <ref>jesen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень, также jesen м. р</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jesen</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszant6 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jesen</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jesien</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>vjiesen</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 1302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>осень</ref> , также есенъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Дог. Игор. 945 г.; Новг. I л. под 1069 г.; Поуч. Влад. Мон. 81, Срезневский И, 716)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 833)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>осень</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>одно из четырех времен года, между летом и зимой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>есенъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень , есеня ж. р. осень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1302: ряз.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Доп. к Опыту 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ость</ref>, род. п. осени, ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень , также егсень ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>восенъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осень</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *esenb восходит к основе на согласный и.-е. *esen- (ср. и характерный слав, исход -ь) или к *osen~, соотносительному с вар. *oser-. Ср. др.-прусск. assanis 'осень' (при отличном вост.- балт. названии осени: лит. ruduo, род. п. rudens, лип. rudens — из первонач. 'красное'), гот. asans 'жатва', др.-в.-нем. aran, am 'жатва, урожай', далее — нем. Ernte то же, греч. бтссора 'конец лета, жатва' &lt; *орijosara букв, 'после жатвы'. Сближение с хетт, zenn- 'кончать', zena- 'осень' (Бенвенист, ниже) малове­ роятно и нисколько не проясняет существенный вопрос о вну­ тренней форме слав, слова. Попытки в этом направлении уже делались. Одна из них (Мартынов, ниже) анализирует праслав. название осени как *es-enb \ *os-enb «колосень» от и.-е. *аč-, ср. слав.<xr type="compare">см. <ref type="etymon" target="ostb">*ostb</ref>
+    </xr>, лат. agna 'колос', гот. ahs то же (любопытно 
+отметить, что аналогичная мысль о происхождении нем. 
+Ernte 
+'жатва, 
+урожай' от Ahre 'колос' приходила в голову еще Готт-
+шеду, см. Kluge
+2 0 173). Другая попытка, представленная в ста­
+ринной этимологии Микуцкого (см. ниже), связывает слав, слово 
+с санскр. корнем as- 'ire', 'esse', ср. лит. asmi, esmi 'sum', лтш. 
+asins, санскр. asan 'кровь' (собств. dsrk \ asndb). Эта мысль (о связи 
+с и.-е. 
+'быть') значительно позже высказывалась, напр., при­
+менительно к лат. as( s)ег 'кровь' и другими учеными (ср. Прель-
+виц у: Walde — Hofm. I, 72). В значительной степени вопрос 
+упирается в типологию формирования таких сложных, а, следо­
+вательно, непервоначальных, 
+понятий и терминов как 'осень', 
+'кровь' и т. д. Ср. сводку: С. D. Buck. A dictionary of selected 
+synonyms in the principal Indo-European languages. 3
+r d impression. 
+Chicago—London, 1971, 1015—1016 («Autumn»). 
+Из литературы: С. Микуцкий Изв. ОРЯС IV, 1855, 413; Mik-
+losich 105; Berneker I, 265; Ё. Benveniste BSL 50, 1954, 29 и сл.;
+В. В. Иванов ВСЯ II, 28; Он же «Советское славяноведение» 
+1973, № 4, 69; Фасмер III, 158; W. Prellwitz «Glotta» 19, 1931, 92 
+« и . - е . 
+*е$- + дат. п. в знач. 'делаться собственностью, принад­
+лежать'); Specht. Ursprung 171; Мартынов. Слав.-герм, лексиче­
+ское взаимодействие (Минск, 1963) 133 (считает герм, слова за-
+имств, из праслав.); Frisk II, 408; Chantraine. Dictionnaire etym. 
+de la langue grecque III 
+(Paris, 1974), 813; Pokorny 
+I, 343; 
+J. Schindler 
+«Die Sprache» XII, 1966, 75 (о двух ступенях во­
+кализма в данной гетероклитич. основе); В. Сор «Linguistica» 
+X, 1970, 101—102., лат. agna 'колос', гот. ahs то же (любопытно 
+отметить, что аналогичная мысль о происхождении нем. 
+Ernte 
+'жатва, 
+урожай' от Ahre 'колос' приходила в голову еще Готт-
+шеду, см. Kluge
+2 0 173). Другая попытка, представленная в ста­
+ринной этимологии Микуцкого (см. ниже), связывает слав, слово 
+с санскр. корнем as- 'ire', 'esse', ср. лит. asmi, esmi 'sum', лтш. 
+asins, санскр. asan 'кровь' (собств. dsrk \ asndb). Эта мысль (о связи 
+с и.-е. 
+'быть') значительно позже высказывалась, напр., при­
+менительно к лат. as( s)ег 'кровь' и другими учеными (ср. Прель-
+виц у: Walde — Hofm. I, 72). В значительной степени вопрос 
+упирается в типологию формирования таких сложных, а, следо­
+вательно, непервоначальных, 
+понятий и терминов как 'осень', 
+'кровь' и т. д. Ср. сводку: С. D. Buck. A dictionary of selected 
+synonyms in the principal Indo-European languages. 3
+r d impression. 
+Chicago—London, 1971, 1015—1016 («Autumn»). 
+Из литературы: С. Микуцкий Изв. ОРЯС IV, 1855, 413; Mik-
+losich 105; Berneker I, 265; Ё. Benveniste BSL 50, 1954, 29 и сл.;
+В. В. Иванов ВСЯ II, 28; Он же «Советское славяноведение» 
+1973, № 4, 69; Фасмер III, 158; W. Prellwitz «Glotta» 19, 1931, 92 
+« и . - е . 
+*е$- + дат. п. в знач. 'делаться собственностью, принад­
+лежать'); Specht. Ursprung 171; Мартынов. Слав.-герм, лексиче­
+ское взаимодействие (Минск, 1963) 133 (считает герм, слова за-
+имств, из праслав.); Frisk II, 408; Chantraine. Dictionnaire etym. 
+de la langue grecque III 
+(Paris, 1974), 813; Pokorny 
+I, 343; 
+J. Schindler 
+«Die Sprache» XII, 1966, 75 (о двух ступенях во­
+кализма в данной гетероклитич. основе); В. Сор «Linguistica» 
+X, 1970, 101—102., лат. agna 'колос', гот. ahs то же (любопытно 
+отметить, что аналогичная мысль о происхождении нем. 
+Ernte 
+'жатва, 
+урожай' от Ahre 'колос' приходила в голову еще Готт-
+шеду, см. Kluge
+2 0 173). Другая попытка, представленная в ста­
+ринной этимологии Микуцкого (см. ниже), связывает слав, слово 
+с санскр. корнем as- 'ire', 'esse', ср. лит. asmi, esmi 'sum', лтш. 
+asins, санскр. asan 'кровь' (собств. dsrk \ asndb). Эта мысль (о связи 
+с и.-е. 
+'быть') значительно позже высказывалась, напр., при­
+менительно к лат. as( s)ег 'кровь' и другими учеными (ср. Прель-
+виц у: Walde — Hofm. I, 72). В значительной степени вопрос 
+упирается в типологию формирования таких сложных, а, следо­
+вательно, непервоначальных, 
+понятий и терминов как 'осень', 
+'кровь' и т. д. Ср. сводку: С. D. Buck. A dictionary of selected 
+synonyms in the principal Indo-European languages. 3
+r d impression. 
+Chicago—London, 1971, 1015—1016 («Autumn»). 
+Из литературы: С. Микуцкий Изв. ОРЯС IV, 1855, 413; Mik-
+losich 105; Berneker I, 265; Ё. Benveniste BSL 50, 1954, 29 и сл.;
+В. В. Иванов ВСЯ II, 28; Он же «Советское славяноведение» 
+1973, № 4, 69; Фасмер III, 158; W. Prellwitz «Glotta» 19, 1931, 92 
+« и . - е . 
+*е$- + дат. п. в знач. 'делаться собственностью, принад­
+лежать'); Specht. Ursprung 171; Мартынов. Слав.-герм, лексиче­
+ское взаимодействие (Минск, 1963) 133 (считает герм, слова за-
+имств, из праслав.); Frisk II, 408; Chantraine. Dictionnaire etym. 
+de la langue grecque III 
+(Paris, 1974), 813; Pokorny 
+I, 343; 
+J. Schindler 
+«Die Sprache» XII, 1966, 75 (о двух ступенях во­
+кализма в данной гетероклитич. основе); В. Сор «Linguistica» 
+X, 1970, 101—102., лат. agna 'колос', гот. ahs то же (любопытно 
+отметить, что аналогичная мысль о происхождении нем. 
+Ernte 
+'жатва, 
+урожай' от Ahre 'колос' приходила в голову еще Готт-
+шеду, см. Kluge
+2 0 173). Другая попытка, представленная в ста­
+ринной этимологии Микуцкого (см. ниже), связывает слав, слово 
+с санскр. корнем as- 'ire', 'esse', ср. лит. asmi, esmi 'sum', лтш. 
+asins, санскр. asan 'кровь' (собств. dsrk \ asndb). Эта мысль (о связи 
+с и.-е. 
+'быть') значительно позже высказывалась, напр., при­
+менительно к лат. as( s)ег 'кровь' и другими учеными (ср. Прель-
+виц у: Walde — Hofm. I, 72). В значительной степени вопрос 
+упирается в типологию формирования таких сложных, а, следо­
+вательно, непервоначальных, 
+понятий и терминов как 'осень', 
+'кровь' и т. д. Ср. сводку: С. D. Buck. A dictionary of selected 
+synonyms in the principal Indo-European languages. 3
+r d impression. 
+Chicago—London, 1971, 1015—1016 («Autumn»). 
+Из литературы: С. Микуцкий Изв. ОРЯС IV, 1855, 413; Mik-
+losich 105; Berneker I, 265; Ё. Benveniste BSL 50, 1954, 29 и сл.;
+В. В. Иванов ВСЯ II, 28; Он же «Советское славяноведение» 
+1973, № 4, 69; Фасмер III, 158; W. Prellwitz «Glotta» 19, 1931, 92 
+« и . - е . 
+*е$- + дат. п. в знач. 'делаться собственностью, принад­
+лежать'); Specht. Ursprung 171; Мартынов. Слав.-герм, лексиче­
+ское взаимодействие (Минск, 1963) 133 (считает герм, слова за-
+имств, из праслав.); Frisk II, 408; Chantraine. Dictionnaire etym. 
+de la langue grecque III 
+(Paris, 1974), 813; Pokorny 
+I, 343; 
+J. Schindler 
+«Die Sprache» XII, 1966, 75 (о двух ступенях во­
+кализма в данной гетероклитич. основе); В. Сор «Linguistica» 
+X, 1970, 101—102.</note>
+</Entry>

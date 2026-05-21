@@ -1,0 +1,70 @@
+<Entry xml:id="drcati">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrčati</orth>
+    <lemma>dьrčati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать, дребезжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 766; RJA II, 764: drcati 'бежать', 'производить набег')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drcati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скользить, поскальзываться, бежать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребезжать, греметь , также drnceti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребезжать , дирчати дребез­ жать, о коростеле: кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 372)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 384)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="dbrkati">*dbrkati</ref>; допустимо, впрочем, 
+видеть в <ref type="etymon" target="dbrcati">*dьrčati</ref> мягкий (экспрессивный) вар. к <ref type="etymon" target="dbrkati">*dbrkati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

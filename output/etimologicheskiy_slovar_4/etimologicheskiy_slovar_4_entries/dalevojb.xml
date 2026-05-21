@@ -1,0 +1,22 @@
+<Entry xml:id="dalevojb">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dal' evojb</orth>
+    <lemma>dal' evojb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dalevoj</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 204)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Двуосновное именное сложение, образованное из компаратива<ref type="etymon" target="daVe-2">*daVe</ref> (см.) и имени <ref type="etymon" target="io">*ио]ь</ref> (см.).</gram>
+  </gramGrp>
+  <note>Семантически ср. с *daliborb/<xr type="compare">см. <ref type="etymon" target="daVeborb">*daVeborb</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,247 @@
+<Entry xml:id="gsan">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬъгсаН</orth>
+    <lemma>ЬъгсаН</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бърчам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать (о пчеле) (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать; шуметь, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>брчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бурчать (о животе), жужжать; журчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bfcati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, греметь, дребезжать, шуметь, лететь с шу­ мом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лететь, порхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 99; Ст.-чеш., Прага, со ссылкой: Bible Olomoucka, XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>brceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>фыркать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brcaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, ворчливо говорить , brcat ворчать , brcat вор­ чать, ругать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak Karlov. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina Mistf. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>borcec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, жуж­ жать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ъагсай</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, бормотать, жужжать , стар, и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>bureau</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, громко ворчать , Ъугсаё чирикать, свиристеть, шуметь, шелестеть, шуметь, приманивать зовом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>burczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, роптать , стар, barczed шуметь, шеле­ стеть (о ветре) , bruczed бурчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 729)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(S. Rospond J P XXVIII, 1948, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>b</ref>&amp;rcec</orth>
+      </form>
+      <sense>
+        <def>дразнить, задирать, оби­ жать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 87—88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бурчать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормо­ тать, говорить невнятно, неразборчиво, урчать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бурчать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, браниться (тамб., ворон., курск., астрах., пек., тверск., олон.), ворчать (о собаке) (пек., тверск.) , бур- чётъ мурлыкать , борчатъ бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Филин 2, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бурчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подавать голос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бурчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, брюзжать, журчать (о ручье, потоке), урчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бурч</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ати реветь, мычать (о волах), бурчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диалекта 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бурчаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать свойственно собаке , бурчаць ры­ чать, ворчать, урчать, сердито бормотать, ворчать, брюзжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 136)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения (чем и объясняется мно­ жество вариантов вокализации корня, см. выше), см. Berneker I, 108.</note>
+  <gramGrp>
+    <gram>Собственно говоря, здесь представлено образование на<m type="suffix">
+        <ref>-eti</ref>
+      </m> 
+от основы <ref type="etymon" target="gk-">*Ъъгк-</ref> (см. <ref type="etymon" target="gkai">*ЬъгкаИ)</ref>.</gram>
+  </gramGrp>
+  <note>Ср. лит. bufkti 'гудеть' (J. Otrq- bski L P 1, 1949, 126). См. еще Фасмер I, 249.</note>
+</Entry>

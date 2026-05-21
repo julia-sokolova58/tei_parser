@@ -1,0 +1,80 @@
+<Entry xml:id="elbedelbed">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elbędь/*elbedь</orth>
+    <lemma>elbędь/*elbedь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>elbedb</orth>
+    <lemma>elbedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>лёбед</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лебедь Gygnus olor</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ; Геров: лйбедъ м. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>лебед</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лебедь , сербо- хорв. lebed м. р. лебедь Gygnus , ГёЬШ м. р. то же , сло- вен. lebed м. р. лебедь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в словаре Стулли, с указанием, что это русск. слово, RJA V, 944)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI по XVIII в. и в словарях Вранчича и Стулли, RJA V, 944)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>лебедь</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>большая водоплавающая птица из сем. утиных</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>лёб1дъ</ref>% род. п. -бедя, м. р.</orth>
+      </form>
+      <sense>
+        <def>лебедь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>лёбедзъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лебедь, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>лебедзь</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сержпутовский, Чудина 53)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *elb?db / *elbedb (см. еще вар. *olbqdb) имеет и.-е. истоки, ср. родственное др.-в.-нем. albig, elbig 'лебедь', лат. albas 'белый', а также любопытное, в т. ч. своим формантом, народно- лат. *albandus, если последнее действительно лежит в основе франц. blond, ит. Hondo 'светлый, светловолосый' (цит. по: Н . A. Fodd AJPh X X , 1899, 341). См. A. Pictet. De quelques noms du cygne et de l'oie. — KZ IV, 1855, 124—126 (устарело); H. Osthoff IF VIII, 1898, 65—66; Л. А. Булаховский. Обще- слав. названия птиц. — ИАН ОЛЯ VII, 1948, 2, 110, 118—119; Он же ВЯ 1968, № 4, 103; Фасмер II, 470—471; F. SJawski. О stowiaiiskich formaciach па -do, -da, -db. — Studia indoeuropej- skie, 1974, 215—216.</note>
+</Entry>

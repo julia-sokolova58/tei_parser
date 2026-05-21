@@ -1,0 +1,36 @@
+<Entry xml:id="gyzdati">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzdati</orth>
+    <lemma>gyzdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gizdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>украшать, наряжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA HI, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gizdati</ref> то же , gizdati se</orth>
+      </form>
+      <sense>
+        <def>наряжаться, ки­ читься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 684)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В этимол. словарях Скока и Безлая не отмечено. Принадлежит к многочисленному семейству *gad- / *gyd- j *gvazd- (см. s. vv.). О развитии -zd- &lt;[ -dd- см. V. Machek «MNHMA. Sbornik vydany na pamet ctyficitileteho ucitelskeho pusobeni prof. J. Zubateho» (Praha, 1926) 418.</note>
+</Entry>

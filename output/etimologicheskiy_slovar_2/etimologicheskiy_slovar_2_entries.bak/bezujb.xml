@@ -1,0 +1,21 @@
+<Entry xml:id="bezujb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezujb</orth>
+    <lemma>bezujb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Biezuj</ref>, Biezwuj, имя собств.: ...Bezug, 1244 г.; . . . Besuuy cum uxore. Конец XII в. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«Stown. stpol. nazw osobo- wych» I, 2, 164)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-111">*bez</ref> (см.) и имени <ref type="etymon" target="ujb">*ujb</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. еще Milewski. Indoeuropejskie imiona osobowe 119, 223.</note>
+</Entry>

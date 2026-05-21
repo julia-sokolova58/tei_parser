@@ -1,0 +1,135 @@
+<Entry xml:id="s1pk">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сь1пъкъ</orth>
+    <lemma>сь1пъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чунак</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>(ткацкий) челнок, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. , <ref>чун</ref>&gt;ак&gt; род. п. -тька, м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pal. 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mi6. 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>colnek</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок, в т. ч. ткацкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>бипек</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(V. Novak. Pridelovanje lanu v slo- venski Krajini. «Etnolog» XVII, 1944, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clunek</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок, маленькая лодка, (ткацкий) челнок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>clnok</ref>, род. п. -пка, м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. с&amp;<ref>апак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(ткацкий) челнок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 45, с реконструкцией *с^пъкъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colnk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(ткацкий) челнок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>челнок</ref>, род. п. -а, м. р.</orth>
+      </form>
+      <sense>
+        <def>в ткацком стану—колодка с заос­ тренными концами, в виде челна, внутри которой прикрепля­ ется нить—утка, пропускаемая через основу для переплетения с ней</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чаунбк</ref>, род. п. чаунака, м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок. — Ср. еще морфологически отличные</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>чунка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клубок пряжи, простень, веретено с пряжей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czotenko</ref> ср. р. (диал. czolnek м. р.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чалнык</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 545)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="s1p-3">*съ1пъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Лексикосемантич. характеристику см. Трубачев. Ремесленная терминоло- v гияЗб—37, 120.</note>
+</Entry>

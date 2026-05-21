@@ -1,0 +1,50 @@
+<Entry xml:id="datbirbjb">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>datbirb(jb)</orth>
+    <lemma>datbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddtan</ref>, ddtna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>тот, который нужно дать, обильный , датан, -тна, -тно урожайный, обильный, щедрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 287)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 65—66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>datny</ref> — datliwy,</orth>
+      </form>
+      <sense>
+        <def>тот, который можно дать, давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 429)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>датный</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Спасибо, мое солнце, угрявное.. . Уж не жалел особенной датной золотой казны. Онеж., Филин 7, 279)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от инф. <ref type="etymon" target="dati">*dati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Судя по словообразовательным и семантическим особенностям (ср. отте­ нок долженствования сербохорв. слова, выше), а также по парал­ лелизму с лит. duotinas 'тот, кот. нужно дать', древнее слово. Ср. аналогичное<xr type="compare">см. <ref type="etymon" target="u1p">*Ъу1ъпъ</ref>
+    </xr> и под.</note>
+</Entry>

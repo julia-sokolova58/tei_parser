@@ -1,0 +1,129 @@
+<Entry xml:id="aseg">
+  <pb n="86" end_page="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а§сегъ</orth>
+    <lemma>а§сегъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. редк. <ref>faster</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ангина, воспаление горла ( X V I I в.), ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в народной загадке: guster faster plete gace navrh kuce: dim. R J A IV, 487)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jammep</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Djor. II, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jester</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ящер, змей, дракон</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaster</ref> м. p. т о ж е</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шцеръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский Ш, 1676)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ящер</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шероховатое воспаление языка у скота и ло­ шадей; трещины по языку; рак языка; кожа, обделанная сыпью, шершавая шагрень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1588)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ящер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь языка у рогатого скота (твер., пенз., Картотека Словаря русских народных говоров)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Сюда же примыкают чеш. диал. jascur 'саламандра' (ляшск., Bartos Slov. 130), слвц. диал. jascur м. р. 'ящерица' (Buffa. Dlha Luka 160), польск. jaszczur м. р. 'саламандра', 'шершавая кожа, шагрень' (Warsz. II, 144), русск. ящур м. р. 'род мыши или сони, малый полчок Myoxus avellanarius' (Даль 3 IV, 1590), укр. 7ящур 'саламандра' (Гринченко IV, 547, I. Верхратський. Знадоби 274), которые восходят к той же праформе *а§сегъ. Формальные отли­ чия (-иг вм. -ег) могут быть объяснены фонетически как лабиа­ лизация гласного в условиях отвердения предшествующего ши­ пящего, существенный мотив этого развития коренится в семантике слов, выделении производных значений. Чисто морфологическое объяснение (-иг суффиксальное) едва ли подошло бы. Очевидное направление семантического развития: 'название животного' &gt; 'название болезни' (ср. аналогию русск. рак), затем 'кожа определенного вида' (примеры — выше). Об отношениях русск. ящур 'Myoxus avellanarius' см. специально Фасмер IV, с литер.). Подробный обзор названий ящерицы с этой основой в слав, языках см. еще Будилович. Первобытные славяне I, 1, 164; Miklosich 101; Berneker 1, 33.</note>
+  <gramGrp>
+    <gram>Наиболее приемлема этимология, согласно которой праслав.<ref type="etymon" target="a">*а</ref>§сегъ 
+и 
+все близкие 
+формы 
+(см. 
+<ref type="etymon" target="ascerica">*ascerica</ref>, <ref type="etymon" target="a">*а</ref>$сегъка, 
+<ref type="etymon" target="a">*а</ref>$сегъ) 
+происходят из древнего сложения 
+<ref type="etymon" target="ask-scer-">*ask-scer-</ref>, 
+причем 
+первая часть представлена 
+в <ref type="etymon" target="aek">*аэкъ</ref>, 
+<ref type="etymon" target="askyni">*askyni</ref> 
+(см.), в целом же сложное слово значило 'роющий пещеры, норы', 
+ср. тесно примыкающее 
+сюда <ref type="etymon" target="gllscer">*gllscerъ</ref> (см.), известное гл. обр. 
+в 
+ю.-слав. 
+языках 
+и близко 
+этимологизируемое 
+как <ref type="etymon" target="gu-scer-">*gu-scer-</ref>
+'роющий дыры'.</gram>
+  </gramGrp>
+  <note>См. Ст. Младенов РФВ L X X 1 , 1914, 454—458; Младенов ЕПР 115; ср. еще Георгиев БЕР IV, 297. Относительно второй части сложения —• глагольной основы<xr type="compare">см. <ref type="etymon" target="sceriti-2">*sceriti</ref>
+    </xr>. 
+Преимущества 
+приведенной 
+этимологии сравнительно 
+с другими 
+объяснениями (см. ниже) заключаются 
+в том, что она объясняет 
+также и те моменты, которые иначе 
+либо игнорируются 
+(напр. 
+*ascelb, см.), либо прямо признаются темными, как напр. *guscerb, 
+слово, несомненно, тесно связанное с *а§сегъ 
+но происхождению. 
+Близкую к изложенной этимологию дал 
+еще Брюкнер, который, 
+однако, видел в конечных -ег, -иг 
+суффиксы, 
+см. 
+Bruckner 201. 
+Прочие этимологии: сближение с греч. doxaptXco 'прыгать', axaipa) 
+то же (Berneker, там же; 
+отношение</note>
+</Entry>

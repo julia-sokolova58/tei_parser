@@ -1,0 +1,187 @@
+<Entry xml:id="begb">
+  <pb n="61" end_page="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>begb</orth>
+    <lemma>begb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бяг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Георгиев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бег</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бегство, побег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бег</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бйг</ref>, бщег</orth>
+      </form>
+      <sense>
+        <def>бегство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beg</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег; ход (охотн.) нога зайца, серны, собаки, пернатых</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>beh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег; ход</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>beh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег, ход</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>beg</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka. St. I, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bieg</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег, быстрое дви­ жение, вращение, течение реки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 500 и след.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjeg</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бЪгъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бегство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др., Срезнев­ ский I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бег</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>быстрое движение</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бег</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>беготня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪгъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бег, бег­ ство , оборот, вращение, сход belasb(jb)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ЮРГр. № 26—1393 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 168—169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 6ie, м. <ref>p</ref>.</orth>
+      </form>
+      <sense>
+        <def>бег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бег</ref> м. р. сбег</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Несмотря на сближение с лит. begas (см. Мейе. Общеслав. язык 274), мы имеем здесь дело бесспорно с вторичным, чисто славянским образованием, отглагольным именем, производным от<ref type="etymon" target="begt-2">*begt</ref>'i, 
+<ref type="etymon" target="begati">*begati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>В древнем именном производном от глагола с -е- вокализмом в корне мы ожидали бы вокализм-о- (ср.</note>
+</Entry>

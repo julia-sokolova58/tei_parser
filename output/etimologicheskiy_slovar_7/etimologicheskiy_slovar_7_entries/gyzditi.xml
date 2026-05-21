@@ -1,0 +1,108 @@
+<Entry xml:id="gyzditi">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzditi</orth>
+    <lemma>gyzditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гйздя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>украшать, наряжать , ср. сюда же (Ге­ ров) гыздйло ср. р. наряд, убор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гйзнъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погрязать, уто­ пать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 15; Геров: гызнж 'мокнуть в воде, в грязи')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гизди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наряжать, украшать , сюда же гижи быть перенасыщенным водой (о земле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>gizditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наряжать, украшать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gizditi</ref> se</orth>
+      </form>
+      <sense>
+        <def>кичиться, быть высокомерным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hyzditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уродовать, бранить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hyzdif</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 550)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gizdzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пачкать, загрязнять, срамить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 831; St. gw. р. И, 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), соотносительный с <ref type="etymon" target="gyzdb">*gyzdb</ref>, 
+<ref type="etymon" target="gyzdati">*gyzdati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

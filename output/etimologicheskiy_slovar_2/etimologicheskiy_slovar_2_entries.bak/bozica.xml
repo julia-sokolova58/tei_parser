@@ -1,0 +1,75 @@
+<Entry xml:id="bozica">
+  <pb n="227" end_page="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bozica</orth>
+    <lemma>bozica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bozica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>dea, богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«с XVI в. и во всех словарях, кроме Вранчича, Вука и Даничича», RJA I, 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bozica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>богиня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bozice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>га­ далка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 86, с пометой: «па Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>божйця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>богиня, икона с женским изображением</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Мельничук «Д1ал. бюл.» II, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -čса от<xr type="compare">см. <ref type="etymon" target="bogb">*bogb</ref>
+    </xr>. Возраст образования, 
+особенно ввиду более широко распространенного <xr type="compare">см. <ref type="etymon" target="bogyni">*bogyni</ref>
+    </xr>, 
+проблематичен.
+*boziti 
+(sč): 
+болг. диал. редк. 
+ббжа се 'божиться, 
+клясться' 
+(РБЕ I, 73), сербохорв. божити 'поминать бога (при привет­
+ствии)', чеш. boziti 'обожествлять' (Kott I, 86), слвц. bozvV sa 
+'клясться, божиться' (SSJ I, 122), польск. bozyc sie 'божиться, 
+клясться' (Dorosz. I, 623), русск. божиться 'клясться именем бога, 
+говорить «ей-богу» в подтверждение правильности своих слов', 
+укр. божйтися, блр. бажьщца 'божиться'.</note>
+  <gramGrp>
+    <gram>Производный гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, образованный от имени <ref type="etymon" target="bogb">*bogb</ref> (см).</gram>
+  </gramGrp>
+</Entry>

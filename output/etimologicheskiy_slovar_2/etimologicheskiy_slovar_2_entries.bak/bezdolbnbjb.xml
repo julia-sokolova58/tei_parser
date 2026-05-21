@@ -1,0 +1,58 @@
+<Entry xml:id="bezdolbnbjb">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdolbnbjb</orth>
+    <lemma>bezdolbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdolny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>несчастливый, бездольный, бедный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бездольный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бедовик, несчастливец, чело­ век, которому не выпало доли, части, счастья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездольный</ref>, бездыъний*бездольный,несчастный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяздбльны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обездоленный, горемычный, бесталанный, бездольный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ыг- от<ref type="etymon" target="bez-18">*bez</ref> (см.) и <ref type="etymon" target="doVa-2">*doVa</ref> (см.).</gram>
+  </gramGrp>
+  <note>Словообразовательно может быть охарактеризовано, скорее, как вторичная форма (подробную характеристику аналогичных отно­ шений см. на *bez). Не исключено позднее местное образование. Ср. семантически близкое образование *bezc$stbn^b.</note>
+</Entry>

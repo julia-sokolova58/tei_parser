@@ -1,0 +1,145 @@
+<Entry xml:id="dale">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dal'e</orth>
+    <lemma>dal'e</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддле</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>далее, дальше (Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дал</ref>&gt;ё, дал&gt;е, сравн. степ,</orth>
+      </form>
+      <sense>
+        <def>дальше, далее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dalje</ref>, нареч. сравн. степ,</orth>
+      </form>
+      <sense>
+        <def>далее, дальше , также ddlj, del] , dlje</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120, 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dale</ref>, dot</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">стар. <ref>ddleji</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>далее, дальше</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dale</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дальше</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dole</ref>], нареч. сравн. степ,</orth>
+      </form>
+      <sense>
+        <def>дальше</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 53, с реконструкцией *dale]e)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dale</ref>], стар, dale</orth>
+      </form>
+      <sense>
+        <def>дальше, да­ лее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 423)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дале</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>далеко, дальше , далЪ далеко , далЪе , далЪи долее , далхт далее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иак. Бор. Гл. 109; Дог. гр. Новг. с Ал. Мих. 1325—1326 г., Срезневский I, 625)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Уст. гр. Вас. Дм. 1392 г., Срезневский I, 626)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. 1349 г., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 298, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. далее, <ref>ука</ref>­ зывает на продолжение или распространение действия,</orth>
+      </form>
+      <sense>
+        <def>вслед за тем, после</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дале</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дальше (курск., орл., тул., ка­ луж., моек., влад., костр., иван., пенз., сарат., смол., твер., пек., арх., том., хакас, олон.), потом (курск., орл., тул., калуж.), еще (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дал1</ref>, нареч., сравн. степ, от да­ леко .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сравн. степень прилаг-ного с формантом -/е&lt;^и.-е. *-ios. Ин­ тересны случаи вторичного наслаивания этого форманта (-/е+-/в), напр. русск. далее. Относительно этимологии<xr type="compare">см. <ref type="etymon" target="dalekb">*dalekb</ref>
+    </xr>(jb).</note>
+</Entry>

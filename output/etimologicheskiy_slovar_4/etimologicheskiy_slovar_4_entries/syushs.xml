@@ -1,0 +1,170 @@
+<Entry xml:id="syushs">
+  <pb n="169" end_page="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>С Ы У Ш (s§)</orth>
+    <lemma>С Ы У Ш (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>червя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет , диал- цръвим красить в красный цвет, цръвим се краснеть, стыдиться , черва съ краситься румянами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 287)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Илевенско. — БД VI, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црви</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить помадой, румянить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кра­ сить, точить (как червь), дробить, мельчить, кишеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 855)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>cfviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет , carvlt красить (в любой цвет)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 428)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о насекомых) плодить, класть яйца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cerwis</ref> se</orth>
+      </form>
+      <sense>
+        <def>насаживать яйца (о пчёлах и насекомых), о червях: кишеть , также eefwid, eefwjed класть яйца, личинок (о насекомых), делаться червивым, источенным червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>czerwid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оплодотворять, czerwid sip плодиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>cervid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>класть яйца (о пчеле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zariba, Niepot. 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чървити</ref>, чръвити, червити</orth>
+      </form>
+      <sense>
+        <def>красить (Ио. Мал. Хрон.), румянить (Пов. вр. л.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сеять, сносить яички (о матке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>червити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>о насекомых: выплаживать, класть яички</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>черйць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плодить, свойственно пчёлам и им подобным насекомым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 697)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="sgi">*сьгиь</ref> (см.).</gram>
+  </gramGrp>
+  <note>Распространенное знач. 'красить в красный цвет' объясняется известной древней технологией добывания красного красителя из кошенили.</note>
+</Entry>

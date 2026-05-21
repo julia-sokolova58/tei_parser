@@ -1,0 +1,55 @@
+<Entry xml:id="drobys">
+  <pb n="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobyšь</orth>
+    <lemma>drobyšь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрдвиш</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>мелочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 727)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drobis</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>мелочь, крошки, название какой-то травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Дровыш</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 190; XVI в., Москва, Рязань, С. Б. Веселовский. Ономастикой. Древне­ русские имена, прозвища и фамилии. М., 1974, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрббыш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прозвище чело ека, ходящего мелкими, частыми шагами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 8, 189)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф, -у§ь от основы drob- (см.<ref type="etymon" target="drobb-2">*drobb</ref> и се­
+мейство).</gram>
+  </gramGrp>
+</Entry>

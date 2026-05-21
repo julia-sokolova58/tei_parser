@@ -1,0 +1,40 @@
+<Entry xml:id="grudbivbjbII">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grudbivbjb II</orth>
+    <lemma>grudbivbjb II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>grudny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>страшный, отвратитель­ ный, гнусный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грудный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достойный жалости (костр.), милый, нежный (костр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 42; Филин 7, 163)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m>, родственное <ref type="etymon" target="gruditi">*gruditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

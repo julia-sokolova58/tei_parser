@@ -1,0 +1,246 @@
+<Entry xml:id="gajvorngavorna">
+  <pb n="88" end_page="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ga(jь)vornъ/*gavorna</orth>
+    <lemma>ga(jь)vornъ/*gavorna</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gavorna</orth>
+    <lemma>gavorna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гавран</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон Corvus comix , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>и</ref> стар, гарван м. р. , гар- ван м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон, ворона , гарван* м. р. ворон , гаврин* м. р. ворон , сюда же прилаг. гарван чер­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 73; И. К. Бунина. Словарь говора ольшанских болгар. — «Статьи и материалы по болгарской диалек­ тологии СССР» 5, 1954, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 321; Геров: гаврин м. р. 'ворон')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Лопян, Илчев БД I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гавран</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон , также гарван м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>gavran</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hend- riks. The Radozda-Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>г</ref>&amp;врйн м. p.</orth>
+      </form>
+      <sense>
+        <def>ворон, также g&amp;rvan м. p. , grdvran м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA HI, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гйрван</ref> (Елез. I), гарван, гравран , гравл&gt;ан , далее — гаврана ж. р.</orth>
+      </form>
+      <sense>
+        <def>коза черной масти , производное гавраница ж. р. ворона , также гавраника ж. р. , гйвранка, гавранка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Djor. И, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdvran</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>havran</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон Corvus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>havran</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hawron</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gawron</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон Corvus согах L., грач Corvus frugilegus L., черная галка Corvus Corone L. , garona ж. p. ворона; грач Corvus frugilegus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gawron</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>грач Corvus frugilegus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1063)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Gawron</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIV в., Stown. stpol. nazw osobowych II, 1, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гайворон</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 836; Филин 6, 96: тобол.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гайворон</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грач Corvus frugilegus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>га</ref>]ворон м. р.</orth>
+      </form>
+      <sense>
+        <def>жаворонок полевой Alauda arvensis L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лексика Полесья 444)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Строго говоря, мы здесь имеем не изначальное сложение<ref type="etymon" target="gajb">*gajb</ref> II (см.) и <ref type="etymon" target="iogp">*иогпъ</ref> (см.), как можно понять Фасмера (I, 383), 
+а первонач. <ref type="etymon" target="ga-vornb">*ga-vornb</ref>, 
+сложение с экспрессивным элементом ga-, 
+по всей видимости, только слав, звонкий вар. к <ref type="etymon" target="kaiogp">*каиогпъ</ref> (см.), 
+поскольку лишь последнее имеет соответствия в других и.-е. язы­
+ках, ср. лит. kovarnis 'грач, галка', лтш. kuovarnis. 
+См. Miklo-
+sich 152 (с допущением начального местоим. элемента); Р. Брандт 
+РФВ XXIV, 1890, 179; Berneker I, 298 (о звукоподражат. при­
+роде); D. Boranic. Onomatopejske rijeci za zivotinje u slavenskim 
+jezicima. — «Rad» 178, 1909, 13 (сближение со звукоподражанием 
+gakati); 
+Л. А. Булаховский. Общеславянские названия птиц. — 
+ИАН ОЛЯ VII, 1948, 115—116; A. Debeljak SR V—VII, 1954, 
+169 (видит здесь приставку ка-, ga- со знач. увеличительности); 
+SJawski I, 263—264; Георгиев БЕР III, 230; Fraenkel I, 284; 
+G. Morgenstierne. Indo-Iranian frontier languages. III. Oslo 1956, 
+(относит 
+сюда пашаи 
+xaiwar'a 
+'ворона' &lt; <ref type="etymon" target="ka-varaka">*ka-varaka</ref>?); 
+F. V. Маге§. К metodice etymologickeho badani: Etymologie nek-
+terych slovanskych pojmenovanf ptaku onomatopoickeho puvodu. — 
+Slavia 36, 1967, 361.</gram>
+  </gramGrp>
+</Entry>

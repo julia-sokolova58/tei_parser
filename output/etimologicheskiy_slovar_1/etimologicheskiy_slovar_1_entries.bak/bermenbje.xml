@@ -1,0 +1,32 @@
+<Entry xml:id="bermenbje">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bermenbje</orth>
+    <lemma>bermenbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёмеьье</ref> ср. р. собпр.</orth>
+      </form>
+      <sense>
+        <def>тяжесть, груз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfemeni</ref> ср. р. гноша, скарб</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott, J, 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф. -ь]е от основы<ref type="etymon" target="bermen--3">*bermen-</ref> (см. <ref type="etymon" target="berme-2">*berme)</ref>
+    </gram>
+  </gramGrp>
+</Entry>

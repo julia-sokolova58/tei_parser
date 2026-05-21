@@ -1,0 +1,165 @@
+<Entry xml:id="blekotati">
+  <pb n="108" end_page="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blekotati</orth>
+    <lemma>blekotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блекётати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 641)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blekotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лепетать, бормотать , bleketdti блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blekotati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, булькать (о воде)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blekota</ref>?</orth>
+      </form>
+      <sense>
+        <def>ворчать, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 909)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blekotac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормотать, лепетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>blekotai</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blekotac</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(St. stpol., Slownik polszczyzny XVI w., Warsz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blekuotac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz. Slovinz. Wb. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>блекотати</ref> ЗХтгдоао&amp;ои, balare</orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр., Срезневский I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блекотатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить пустое, болтать, (пек.) блеять , говорить вздор , бликотатъ*звенеть чем-либо, брякать , блекотатъ блеять (об овце) (пек., олон., волог., твер., моек., калуж., тул., орл., курск., ряз,, ворон., куйб.), * говорить быстро, невнятно, нераз­ борчиво (волог., твер., тул.), много говорить, болтать; пусто­ словить, говорить вздор (костр., новгор., твер., пек., олон., яросл., волог., перм., влад.), греметь чем-либо, брякать (влад., курск., орл., пек.), громко плакать (орл., калуж.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт И)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блекотати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нести вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. ЮЗР. II, 234, Тимченко I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блекотати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лепетать, невнятно говорить, бормотать, клокотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 72)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание, см. Sadnik—Aitzetmiiller. Vgl. Wb. 3, i87 и след.</note>
+  <gramGrp>
+    <gram>В морфол. отношении гл.<ref type="etymon" target="blekotati">*blekotati</ref> 
+сущ. <ref type="etymon" target="yeko1">*Ыеко1ъ</ref> I 
+<ref type="etymon" target="blekota">*blekota</ref> (см.) 
+гл. <ref type="etymon" target="blekati">*blekati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Иначе — как расширение на -otati от blekati — см. A. Vaillant BSL 56, 1961, 18.=</note>
+</Entry>

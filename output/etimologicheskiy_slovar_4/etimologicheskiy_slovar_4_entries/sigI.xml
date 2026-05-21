@@ -1,0 +1,62 @@
+<Entry xml:id="sigI">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сигъ I</orth>
+    <lemma>сигъ I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чюръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дым, чад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чур</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чур</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чад , сербо­ хорв. сиг м. р. дым .—Может быть, сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Поречкиот г-р 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>сите</ref>, ругательство</orth>
+      </form>
+      <sense>
+        <def>неряха, замарашка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, соотносительное с гл.<ref type="etymon" target="curiti">*curiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Далее родственно — с чередованием гласных —<xr type="compare">см. <ref type="etymon" target="kurlti">*kurlti</ref>
+    </xr>. См. S. Mladenov AfslPh 
+XXXIV, 1913, 394—395; Младенов ЕПР 689; Shevelov. A pre­
+history of Slavic 119.</note>
+</Entry>

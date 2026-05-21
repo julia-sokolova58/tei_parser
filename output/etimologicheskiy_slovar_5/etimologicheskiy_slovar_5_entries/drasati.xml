@@ -1,0 +1,50 @@
+<Entry xml:id="drasati">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drasati</orth>
+    <lemma>drasati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>распускать, развязывать, разделять , drdhati пороть (шов), вносить раздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drdsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дергать, рвать, раздирать, терзать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drdsat</ref>\ driasaf</orth>
+      </form>
+      <sense>
+        <def>дергать, рвать, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 325)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Объясняется как глаг. интенсив, производный с суфф. ~s(ati) от основы<ref type="etymon" target="drap-">*drap-</ref> (см. <ref type="etymon" target="drapati">*drapati</ref>, 
+<ref type="etymon" target="drapiti">*drapiti)</ref>.</gram>
+  </gramGrp>
+  <note>См. еще Berneker I, 221; V. Machek «Slavia» 22, 1953, 354; Machek 2 126; R. Kolaric WdS XI, 1966, 74. Cp.<xr type="compare">см. <ref type="etymon" target="draskati">*draskati</ref>
+    </xr>....</note>
+</Entry>

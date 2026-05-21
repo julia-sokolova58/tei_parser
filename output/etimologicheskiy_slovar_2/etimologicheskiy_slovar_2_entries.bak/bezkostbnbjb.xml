@@ -1,0 +1,73 @@
+<Entry xml:id="bezkostbnbjb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkostbnbjb</orth>
+    <lemma>bezkostbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безкостен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, 1, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>beskostan</ref>, beskosna, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>exos, бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezkostny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бескостный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bez</ref>- kostny</orth>
+      </form>
+      <sense>
+        <def>бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бескостный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>в ком или в чем нет костей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безкгсний</ref> то же (Кузеля).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное, с суфф. -ъп- от сложения<ref type="etymon" target="bez-kosfo">*bez-kosfo</ref> 
+(см. предыдущее), или префиксально-суффиксальное образование 
+от основы имени <ref type="etymon" target="kostb-2">*kostb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

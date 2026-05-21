@@ -1,0 +1,71 @@
+<Entry xml:id="bornisce">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bornisce</orth>
+    <lemma>bornisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бранище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>заповедный лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Българско орачьство, въ кое връчмА почв^ть да сЬють, как ор^ть, каквы жита сЬщъ, какъ жьн^ть, какъ вьрз^ть снопы, крьхцы, . . . Българско садовъдство, кое са д'Ьли на плодоносны дьрвета, сЬгамы отъ сЬма или отъ присажданшА на бранища (курии), имАна на употребительны дьрвета. — Г. С. Раковски. Показа- лец, Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>браныште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>младо сечище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков Банат. 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>браниште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>укрепление, оборонительная позиция, укрепленный тыл, запретный, заповедный, частный лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>branisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>укрепление, крепость, основа бороны (без зу­ бьев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>braniste</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>Werbeplatz</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dobrovsky, см. Kott I, 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-Ше</ref>
+      </m> и функцией названия места от гл. 
+<ref type="etymon" target="borniti-4">*borniti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

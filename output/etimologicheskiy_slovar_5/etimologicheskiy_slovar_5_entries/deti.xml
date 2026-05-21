@@ -1,0 +1,48 @@
+<Entry xml:id="deti">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕti</orth>
+    <lemma>dĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. . <ref>д</ref>*кти мн.</orth>
+      </form>
+      <sense>
+        <def>дети (Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дети</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dĕti</ref> мн. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dĕti</ref> мн. , цольск. dzieci мн.</orth>
+      </form>
+      <sense>
+        <def>дети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ.Ii 260)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 636)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Siecd мн. 'дети' (Lorentz Slovinz. Wb. I 235), русск. дети мн. 'малолетние; мальчики, девочки; ребята', 'сыновья, дочери', укр. дьти, род. п. -тёй, мн. 'дети' (Гринченко I, 392), блр. дзёц1 'дети'. Форма мн. ч. от слабозасвидетельствованного *detb (см, *det$).</note>
+</Entry>

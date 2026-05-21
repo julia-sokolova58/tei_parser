@@ -1,0 +1,225 @@
+<entries>
+  <entry xml:id="brusnica" xml:id="brusnica">
+    <pb n="51" end_page="52" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brusьnica</orth>
+      <lemma>brusbnica</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бруснйца</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>корь, брусника</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бруснйцъ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>оспа (с. Каспичан, Коларовградско, дип. раб. Архив Софийск. ун-та), бруснйца ж. р. брусника, вид оспы</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Стойчев. Б Д II, 1 3 3 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бруснйца</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>брусника</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>brusnica</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>место, где добывается точильный камень (только в словарях Белостенца и Стулли), также в кач-ве названия сел , бруснйца ж. р. корытце для воды и точильного бруска , бруснйца ж. р. брусника Vaccinium vitis idaea, черника Vaccinium myr- tiilus 1</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 6 8 6 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 2 2 0 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brusnica</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>станина для точила, вода в точиле , брусника Vaccinium vitis idaea , сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 6 7 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brusnicky</ref> мн. ч. ж. p.</orth>
+        </form>
+        <sense>
+          <def>cornia (Klaret, Ст.-чеш., Прага)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brusnice</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>брусника, корытце при точиле, елвц. brusnica ж. р. брусника Vaccinium vitis idaea</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ 1, 1 3 7 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>brusnica</ref>, bruslica ж. p. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Pfuhl 5 3 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>brusnica</ref>,</orth>
+        </form>
+        <sense>
+          <def>брусника Vaccinium vitis idaea L</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 8 6 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brusznica</ref> ж. p. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 6 7 7 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>brusnica</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>брусника , сюда же bresnlcka ж. p. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . I, 6 7 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . I, 7 0 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бруснйца</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>бру­ сника Vaccinium vitis idaea</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 1 4 4 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бруснйця</ref> ж. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 1 0 2 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бруенща</ref> ж. р., мн. бруенщы брусника</orth>
+        </form>
+        <sense>
+          <def>. — Сюда же, видимо</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бруейца</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>брус­ ника и — инновационное по консонантизму суффикса—русск. брусника ж. р. мелкое ягодное кустарниковое растение семейства вересковых</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(орл., Филин 3 , 2 0 5 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ica</ref>
+        </m> от прилаг. <ref type="etymon" target="gi8p">*Ъги8ъпъ</ref> 
+(см.), 'субстан­
+тивация этого последнего; 
+ср. в семантич. 
+отношении 
+русск.
+диал. брусный 
+'брусничный'.</gram>
+    </gramGrp>
+    <note>Брусника, 
+т. обр., —это 
+ягода, 
+которую легко собирать, сбрасывая, счесывая сразу много ягод 
+(в том числе — гребнем или под. приспособлением). Эту един­
+ственно верную этимологию слово *brusb?iica получило уже давно. 
+См. Berneker I, 90 (ср. лит. Ъгйкпё. 
+лтш. bruklene 
+'брусника': 
+лит. 
+braukiu, 
+braukti 
+'вытирать, 
+проводить'); 
+Преобр. 
+I, 47; 
+Bruckner 42; Sjawski I. 45; Младенов Е П Р 46; Георгиев Б Е Р И, 
+82; Фасмер I, 221; Sadnik—Aitzetmuller. Vgl. W b . 4, 220; Skok. 
+Etim. rjecn. I, 221. Полезные сведения по семасиологии назва­
+ний брусники см. в спец. монографии: В. Peters. Onomasiologie 
+und Semasiologie der 
+Preiftelbeere. Marburg, 1967 ( = «Marburger 
+Beitrage zur Germanistik», Bd. 10). См. еще H. H. 
+Bielfeldt. 
+Deutsch Preiflelbeere 
+'Vaecinium vitis-idaea', seine Herkunft 
+und 
+Wortgeschichte. — ZfS X V I , 1971, 704 и сл. 
+He может считаться убедительной отличная этимология Махека, 
+объяснявшего слав, название наряду с нем. Rausch, 
+Rauschbeere 
+'брусника' как «праевропейское» заимствование (см. V. Machek 
+L P 2, 1950, 159; Machek
+ 
+2 70). Но о нем. слове совсем иначе см. 
+Kluge — Gotze
+ 
+1 5 : из и.-е. *rezg- 
+'плести, 
+вить'.</note>
+  </entry>
+</entries>

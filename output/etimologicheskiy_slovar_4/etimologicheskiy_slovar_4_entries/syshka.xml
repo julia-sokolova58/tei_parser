@@ -1,0 +1,66 @@
+<Entry xml:id="syshka">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сышка</orth>
+    <lemma>сышка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>черника</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерева, шелковица , чърнйкъ ж. р. то же , чернйкъ ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 204; с. Лозен, Софрйтско, дип. раб., Архив Софийск. ун-та; М. Младенов БД III, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 233)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евста- тиева. С. Тръстеник, Плевенско. — БД V, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crnika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>каменный дуб Ilex, название сортов винограда, груш, че­ решни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 842)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>падуб остролистый Ilex aquifolium, чёрная черешня, чернушка Nigella arvensis L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 113; Slovar sloven, jezika I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черника</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>куст и ягода Vaccinium myrtillus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1317)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от <ref type="etymon" target="sgp">*съгпъ</ref> (см.), ср. близкое <ref type="etymon" target="sgtsa">*съгтса</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Об инновационном характере огласовки -ika (сравнительно с -ica) в русск. примерах высказывается Шевелёв, см. Shevelov. A prehistory of Slavic 342; ср. еще V. Kiparsky. Uber slav. -ika und -ica als Allomorphe. «Scando-Slavica» XVI, 1970, 138. Однако явление трудно поздно датировать ввиду наблюдаемого выше геогр. распределения (болг., сербохорв., словен., русск.).</note>
+</Entry>

@@ -1,0 +1,94 @@
+<Entry xml:id="cistidlo">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistidlo</orth>
+    <lemma>cistidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>чистило</ref> piaculum</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Шестоднев Ио. Экз., XIII в., Mikl., LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>clstilo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>purgatorium (с XVII в.), purificatorium, medicamentum purgatorium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eistilo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>очистительное, слабительное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cistidlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>орудие для чистки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cistidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>выделения у животных после родов, плохая, некрасивая одежда, особенно выцветшая, полинявшая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cistidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>средство для чистки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Chojn</ref>.) cysdidto ср. р.</orth>
+      </form>
+      <sense>
+        <def>чистилище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чистило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>детский послед, placenta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх., см. Гринченко IV, 464)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="cistiti">*cistiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

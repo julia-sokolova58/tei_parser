@@ -1,0 +1,58 @@
+<Entry xml:id="buneti">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buneti</orth>
+    <lemma>buneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bunieV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, жужжать , ср. еще buna? то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 911)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ J , 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бунетъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать , глухо реветь, мычать (о скотине) , производить какой-либо шум, стук, ударять (в дверь, окно и т. п.), ворчать, брюзжать на кого-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., Опыт 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Солосин. Материалы для этнографии Астраханского края. Краткие све­ дения о говоре ахтубинских сел Царевского уезда. — Р Ф В L X I I I , 1910, 128)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулин- ский словарь 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бунгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ж у ж ж а т ь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., см. Грин­ ченко I, 110)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. гл., родственный<ref type="etymon" target="ipa">*Ьипа</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

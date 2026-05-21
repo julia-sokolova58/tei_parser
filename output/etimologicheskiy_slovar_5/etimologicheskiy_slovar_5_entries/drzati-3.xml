@@ -1,0 +1,250 @@
+<Entry xml:id="drzati-3">
+  <pb n="230" end_page="231" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьržati</orth>
+    <lemma>dьržati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref>^АЖДТИ, Д|&gt;:АЖЛТИ хратеТу, xaxe^etv, ouve^etv, tenere</orth>
+      </form>
+      <sense>
+        <def>держать, обладать, соблюдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>държа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>др</ref>*6жау д^ржа</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД. III, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>држи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать, иметь, обла­ дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>држати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drzati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drzeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drzet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>иметь, хранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drzaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 3 3 7 — 3 3 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzerzec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать , zarzae то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dzierzec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать, владеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>държати</ref>, дръжати, дръжати, держати</orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лук. XXII. 63. Остр, ев., Срез­ невский I, 7 7 5 — 7 7 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>держать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взяв что-либо, ухватив­ шись за что-либо, не выпускать из рук; иметь в руках, удер­ живать, не отпускать, иметь у себя, при себе, быть, служить опорой чему-либо, хранить, сохранять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>держать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издер­ живать, расходовать, тратить (деньги, продукты и т. п.) (перм., свердл., волог., ленингр., сев.-двинск., беломор., тобол., якут.), содержать, кормить (олон., арх., том., якут.), носить, одевать (олон., арх.), брать (сев.-двинск., ленингр.), возглавлять что- либо, заведовать, управлять чем-либо (семипалат.), поддержи­ вать, соблюдать (влад.), сохранять, сберегать (колым., твер.) , доржатъ держать, иметь в руках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(костр., яросл., арх., влад., волог., новг., твер., моек., ряз., сарат., тамб., симб., вят., самар., акм., перм., сиб., свердл., тюмен., тобол., том., алт., забайк., костр., сиб., Филин 8, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>держати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дер­ жать, иметь у себя, держать, содержать, соблюдать, охранять, исполнять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 370; ср. и Деже Л. Словарь Няговской постиллы XVI в. 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>дгхржацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Мапл. 152)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Едва ли образовано с суфф.<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от <ref type="etymon" target="dbrg-">*dbrg-</ref>, родственного авест. 
+drafaghe 
+'держать, 
+иметь при себе', 'вести', греч.</gram>
+  </gramGrp>
+  <note>Spoaoopai, атт. SpaxTOfiat 'обнимать, охватывать'. В таком случае мы получили бы полную корневую омонимию (или этимологич. единство?) с *dbrgati (так см. Vaillant. Gramm. comparee III, 246, 386), что расходится со знач. и употреблением *dbrzati 'овладевать', 'крепко брать' и т. п., т. е. с указанием на связь с понятиями силы, начала действия. Поэтому лучше предпочесть реконструк­ цию и этимологию *dbrzati &lt;<xr type="compare">ср. <ref type="etymon" target="dbrz-jatit">*dbrz-jatit</ref>
+    </xr> (вплоть до наличия 
+йотового суфф.) др.-инд. dfhyati 
+'быть крепким' 
+«*drgh-ie-), 
+авест. dardzayeiti 
+'связывать, 
+привязывать', 
+далее — лат. 
+стар. 
+forctis 
+'сильный, 
+храбрый, доблестный'. См. иначе Berneker I, 
+258; Фасмер I, 503. 
+*dbrzavb(jb), (вплоть до наличия 
+йотового суфф.) др.-инд. dfhyati 
+'быть крепким' 
+«*drgh-ie-), 
+авест. dardzayeiti 
+'связывать, 
+привязывать', 
+далее — лат. 
+стар. 
+forctis 
+'сильный, 
+храбрый, доблестный'. См. иначе Berneker I, 
+258; Фасмер I, 503. 
+*dbrzavb(jb), (вплоть до наличия 
+йотового суфф.) др.-инд. dfhyati 
+'быть крепким' 
+«*drgh-ie-), 
+авест. dardzayeiti 
+'связывать, 
+привязывать', 
+далее — лат. 
+стар. 
+forctis 
+'сильный, 
+храбрый, доблестный'. См. иначе Berneker I, 
+258; Фасмер I, 503. 
+*dbrzavb(jb), (вплоть до наличия 
+йотового суфф.) др.-инд. dfhyati 
+'быть крепким' 
+«*drgh-ie-), 
+авест. dardzayeiti 
+'связывать, 
+привязывать', 
+далее — лат. 
+стар. 
+forctis 
+'сильный, 
+храбрый, доблестный'. См. иначе Berneker I, 
+258; Фасмер I, 503. 
+*dbrzavb(jb),</note>
+</Entry>

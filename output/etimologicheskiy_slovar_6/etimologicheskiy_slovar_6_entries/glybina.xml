@@ -1,0 +1,59 @@
+<Entry xml:id="glybina">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glybina</orth>
+    <lemma>glybina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>глибйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глыбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., моек., ленингр., Филин 6, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глибйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глыбтя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы <ref type="etymon" target="glybokb-2">*glyb(okb)</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,116 @@
+<Entry xml:id="glzdatiglzdetiglzditi">
+  <pb n="162" end_page="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glьzdati/*glьzdĕti/*glьzditi</orth>
+    <lemma>glьzdati/*glьzdĕti/*glьzditi</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glbzdeti</orth>
+    <lemma>glbzdeti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glbzditi</orth>
+    <lemma>glbzditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глёздатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скользить , глёздатъея кататься на ледя­ ной дорожке , глездёть скользить, спотыкаться , глездйть скользить . — Сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., пек., енис, Филин 6. 194)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 15; Филин 6, 194: олон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., Опыт 37; Филин 6, 194; Картотека Новго­ родского ГПИ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глеждав</ref>, прилаг. =ггьецав</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глёздавица</ref>, глёздо- вица ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорожка на льду, на которой катаются, скользя на подошвах обуви</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., южн., Филин 6, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>глездунъ</ref> , Глездунов, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Куплено: . . .четыре замка глездуны. 1669 г. СлРЯ XI—XVII вв. 4, 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1620т., Новгород. Весе- ловский. Ономастикой 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глёздкий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>скольз­ кий , глёзкой, -ая, -ое скользкий , лёский бойкий, скользкий , глездь ж. р. гололедица , влезь ж. р. то же , глезъ вода, выступившая на лед (Картотека Новгородского ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., олон., пек., енис, Филин 6, 194)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., Опыт 37; Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 373)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(то¬ бол., енис, горноалт., южносиб., вост.-сиб., том., Филин 6, 194)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тобол., ЖСт. IX, 1899, 490; Иркутский облает- •gmyriti ной словарь I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глёздер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>часть старого деревянного замка, задвижки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глагольная основа<ref type="etymon" target="glbzd-">*glbzd-</ref> первоначально была распростра­
+нена шире, ср. приводимое нами выше интересное болг. диал. 
+глёздер 
+'задвижка', 
+очень 
+близкое 
+производному др.-русск. 
+глездунъ<ref type="etymon" target="vid">*вид</ref> замка' (выше), а также болг. диал. глъзна 'увяз­
+нуть, вымазаться в грязи' &lt;^ <ref type="etymon" target="glzdnzhti">*глъзднжти</ref>, кот. связывает с русск. 
+глезнутъся Бернар 
+(ниже).</gram>
+  </gramGrp>
+  <note>Родственно лит. gleiznoti 'марать, царапать, писать каракули' &lt; *gleizd-noti, gleizoti 'пачкать'. См. К. Буга РФВ LXV, 1911, 314. Сравнение с др.-в.-нем. glltan, др.-англ. glidan 'скользить' (Berneker I, 310; Фасмер I, 411) скорее сомнительно ввиду более очевидных связей с группой слов с корнем *glb- и *gli- (см. * # / ь / ь . *glista), обозначающих скользкое, клейкое, липкое. См. R. Bernard RES 40, 1964, 27.</note>
+</Entry>

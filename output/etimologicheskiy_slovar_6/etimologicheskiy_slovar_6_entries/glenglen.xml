@@ -1,0 +1,195 @@
+<Entry xml:id="glenglen">
+  <pb n="120" end_page="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glĕnъ/ *glĕnь</orth>
+    <lemma>glĕnъ/ *glĕnь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>злен</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>водяное растение, ряска , злен м . р. вид водорослей , злен м. р. водоросли в стоячей воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Н. Ковачев. Севлиевско. — БД V, 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV, 196; П. И. Петков. Еленски речник. — БД VII, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>glen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>слизь , глён то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 195, с допущением заимствования из чеш.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>слизь, осадок, по- цонки, сил, тина, глина, водяное растение, болезньскота (понос и истощение) , стар, glen экскременты, stercns , glen болезнь скота , glen м. p. ряска, водяное растение , также glln м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Megiser. Dictionarium 1744)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jar- nik 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 696)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>glaen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плесень, ряска на стоячей воде , glun м. р. ил, тина , dlen м. р. осадок, подонки , сюда же, далее, glena ж. р. мелкий песок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бодуэн де Куртенэ. Резьяне. Словарный материал. Архив АН СССР. Ф. 102, on. 1, № 8, л. 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valja- vec LjZv. XIII, 1893, 758)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Luzar 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Men</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>слизь, мокрота, осадок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>Man</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тина, грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Mien</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glan</ref>, glon м. р.</orth>
+      </form>
+      <sense>
+        <def>осадок, подонки, гуща, слизь, тина, помет (птичий) , glon, обычно glony мн. водяное растение Alga , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. 1,831)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>glan</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 832)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>РлЪнъ 'мокрота, влага, сок' (Изб. 1073 г. 222; Ио. екз. Бог. 181), &lt;желчь' (Изб. 1073 г. 232; Гр. Наз. с толк. Ник. Ир. XIV в.) (Срезневский I' 523), русск. зленъ ж. р. 'влага или сок' (Даль 3 I, 875). v . . ""• Родственно (с чередованием е : i, т. е. оь : ег) праслав.<xr type="compare">см <ref type="etymon" target="glina">*glina</ref>
+    </xr>&gt;
+ 
+п Р
+и
+ч
+е
+м ступень oi в этом корне восходит еще к и.-е., ср.
+греч. 7X0165, лат. gluten. См. A. Meillet MSL 8, 1893, 298; он же 
+MSL 14, 1907, 348; Berneker I, 303 (сюда же норв. диал. kleina 
+смазать' и родственные); G. S. Lane «Language» 9, 1933, 261 
+(сближает с др.-ирл. glenim 'прилипать' и рядом других образо­
+ваний на -и-); Фасмер I, 412; V. Machek LP V, 1955, 70 (сближе­
+ние с греч. х^.8ос
+ сгрязь, мусор'); N. Jokl «Die Sprache» 9, 1963, 
+117 (сравнивает с алб. nglome, njome 'влажный, свежий, зеленый, 
+нежный').&gt;
+ 
+п Р
+и
+ч
+е
+м ступень oi в этом корне восходит еще к и.-е., ср.
+греч. 7X0165, лат. gluten. См. A. Meillet MSL 8, 1893, 298; он же 
+MSL 14, 1907, 348; Berneker I, 303 (сюда же норв. диал. kleina 
+смазать' и родственные); G. S. Lane «Language» 9, 1933, 261 
+(сближает с др.-ирл. glenim 'прилипать' и рядом других образо­
+ваний на -и-); Фасмер I, 412; V. Machek LP V, 1955, 70 (сближе­
+ние с греч. х^.8ос
+ сгрязь, мусор'); N. Jokl «Die Sprache» 9, 1963, 
+117 (сравнивает с алб. nglome, njome 'влажный, свежий, зеленый, 
+нежный').&gt;
+ 
+п Р
+и
+ч
+е
+м ступень oi в этом корне восходит еще к и.-е., ср.
+греч. 7X0165, лат. gluten. См. A. Meillet MSL 8, 1893, 298; он же 
+MSL 14, 1907, 348; Berneker I, 303 (сюда же норв. диал. kleina 
+смазать' и родственные); G. S. Lane «Language» 9, 1933, 261 
+(сближает с др.-ирл. glenim 'прилипать' и рядом других образо­
+ваний на -и-); Фасмер I, 412; V. Machek LP V, 1955, 70 (сближе­
+ние с греч. х^.8ос
+ сгрязь, мусор'); N. Jokl «Die Sprache» 9, 1963, 
+117 (сравнивает с алб. nglome, njome 'влажный, свежий, зеленый, 
+нежный').&gt;
+ 
+п Р
+и
+ч
+е
+м ступень oi в этом корне восходит еще к и.-е., ср.
+греч. 7X0165, лат. gluten. См. A. Meillet MSL 8, 1893, 298; он же 
+MSL 14, 1907, 348; Berneker I, 303 (сюда же норв. диал. kleina 
+смазать' и родственные); G. S. Lane «Language» 9, 1933, 261 
+(сближает с др.-ирл. glenim 'прилипать' и рядом других образо­
+ваний на -и-); Фасмер I, 412; V. Machek LP V, 1955, 70 (сближе­
+ние с греч. х^.8ос
+ сгрязь, мусор'); N. Jokl «Die Sprache» 9, 1963, 
+117 (сравнивает с алб. nglome, njome 'влажный, свежий, зеленый, 
+нежный').</note>
+</Entry>

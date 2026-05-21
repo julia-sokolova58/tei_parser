@@ -1,0 +1,47 @@
+<Entry xml:id="aboInovbjb">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>aboInovb(jb)</orth>
+    <lemma>aboInovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ябланов</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>платановый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>абжнов</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тополиный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdblanov</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 353)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное, производное с суфф. -оиъ- от<ref type="etymon" target="ao1p">*аЬо1пъ</ref> (см.) или 
+<ref type="etymon" target="ao1p">*аЬо1пъ</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

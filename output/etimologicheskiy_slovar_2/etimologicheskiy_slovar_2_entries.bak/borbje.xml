@@ -1,0 +1,54 @@
+<Entry xml:id="borbje">
+  <pb n="219" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borbje</orth>
+    <lemma>borbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдр</ref>]е ср. р. (собир.)</orth>
+      </form>
+      <sense>
+        <def>сосновый лес, бор, pinetum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. также РСА II, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>borje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сосновый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ьоп</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>молодой сосновый лес</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bofi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бор, сосновый лес,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 21; Gregor. Slov. slavk.- bucov, 25)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (собир.) с суфф. -ь]е от<ref type="etymon" target="og-3">*Ъогъ</ref> I (см.).</gram>
+  </gramGrp>
+  <note>Ввиду того, что в этом производном не нашла отражения основа на -и- (ва­ риант *borov-, см. подробнее на *Ъотъ I), возможно позднее обра­ зование.</note>
+</Entry>

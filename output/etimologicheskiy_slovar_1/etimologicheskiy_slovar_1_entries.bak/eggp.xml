@@ -1,0 +1,66 @@
+<Entry xml:id="eggp">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьеггьпъ</orth>
+    <lemma>Ьеггьпъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьеггьпь</orth>
+    <lemma>Ьеггьпь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёзен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>месяц апрель; месяц март , сербо­ хорв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брёзан</ref> м. р . , название домашних животных белопест- рой масти</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezen</ref>, род. п. -zna м. р.</orth>
+      </form>
+      <sense>
+        <def>месяц март; апрель, течка (у кошек), (детские) шалости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brezen</ref>, род. п. -zna м. р.</orth>
+      </form>
+      <sense>
+        <def>март</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бёрезенъ</ref>, род. п. -зня м. р .</orth>
+      </form>
+      <sense>
+        <def>март</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- (первоначально адъективное? — Ср.<ref type="etymon" target="berzbno">*berzbno</ref>, а также значение сербохорв. примера, см. выше) 
+от <ref type="etymon" target="berza">*berza</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

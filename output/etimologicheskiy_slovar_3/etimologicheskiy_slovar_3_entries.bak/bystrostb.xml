@@ -1,0 +1,108 @@
+<Entry xml:id="bystrostb">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bystrostb</orth>
+    <lemma>bystrostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ьъмтростА</ref> ж. p. sollertia, sagacitas, agi- litas</orth>
+      </form>
+      <sense>
+        <def>сметливость, остроумие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Venc Nik., Meth., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bistrost</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>celeritas, claritas, быстрота, ясность, прозрачность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., R J A I, 3 3 4 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bistrost</ref> ж . р.</orth>
+      </form>
+      <sense>
+        <def>острота (зрения, ума), прозрачность (напр. воды)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 2 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bystrost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота, остроумие, проницательность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bystrosf</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 1 4 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bystros</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>c</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>быстростъ</ref> та^о?</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. X I в., Сл. Дан. Зат., Срезневский I, 2 0 4 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>быстростъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(онеж., Филин 3 , 3 5 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>быстростъ</ref>, бистростъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( J H T . Вел. IV, 2 3 5 , Тим­ ченко I, 9 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бйстргсть</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Желеховский)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="bystrb-4">*bystrb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

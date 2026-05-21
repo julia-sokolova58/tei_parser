@@ -1,0 +1,21 @@
+<Entry xml:id="ogeog">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоГеЬогъ</orth>
+    <lemma>ЬоГеЬогъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bolebor</ref>, Bolibor м. р., имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Антропонимическое сложение древнего типа, образованное из прилаг. сравнительной степени ср. р.<ref type="etymon" target="oge">*ЬоГе</ref> (см. <ref type="etymon" target="og-3">*ЬоГъ]ъ)</ref> 
+и именного варианта основы *6ог- (см. <ref type="etymon" target="borti">*borti</ref> и родственные).</gram>
+  </gramGrp>
+</Entry>

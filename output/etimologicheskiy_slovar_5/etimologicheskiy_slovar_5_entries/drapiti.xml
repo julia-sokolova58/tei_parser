@@ -1,0 +1,58 @@
+<Entry xml:id="drapiti">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drapiti</orth>
+    <lemma>drapiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драпити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить , наводить, шлифовать (лезвие), драпити се чесаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 660)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drapW</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задеть, подтолкнуть , drdpit царапнуть , схватить, вспыхнуть, загореться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(KaSik. Stfedobe6ev. 91)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 65; Malina. Mistf. 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>drapid</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Polowcy Polske, drapili, tym sie, zywili. Stryjk., Warsz. I, 551)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="drapati">*drapati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. еще др.-инд. drdpayati, нем. traben, trappen 'скакать, бежать'. См. V. Machek «Slavia» 21, 1953, 263.</note>
+</Entry>

@@ -1,0 +1,43 @@
+<Entry xml:id="bratbsestra">
+  <pb n="9" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratbsestra</orth>
+    <lemma>bratbsestra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Б</ref>^дтъгегт^д (встреч, только ьр&amp; ггъсбс ггром&amp; дат. дв. ч.) aoxdSsXcpoi, frater et soror, germani</orth>
+      </form>
+      <sense>
+        <def>брат и сестра &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>братъсестра</ref> frater et soror сбрат и сестра</orth>
+      </form>
+      <sense>
+        <def>, сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев. 228, Арх. ев. 192, Срезневский I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брат</ref>- сестра</orth>
+      </form>
+      <sense>
+        <def>растение иван-да-марья, имеющее на одном стебле два цвета, фиолетовый и желтый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Бессоюзное сложение древнего типа. См. *brafo, *sestra.</note>
+</Entry>

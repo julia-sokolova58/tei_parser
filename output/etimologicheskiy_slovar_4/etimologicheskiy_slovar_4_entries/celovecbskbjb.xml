@@ -1,0 +1,133 @@
+<Entry xml:id="celovecbskbjb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celovecbskb(jb)</orth>
+    <lemma>celovecbskb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ЧЛСБЪАСКЪ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук. ев. XIII в., 98, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>човёшки</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>человеческий, человечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 628; Ге- ров: чловЪшкый, чловЪческыи)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>човечки</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человеческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чоечкй</ref>, -ка, -ко</orth>
+      </form>
+      <sense>
+        <def>мужской (в Боке, Вук; в R J А нет)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cloveski</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>человеческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clovecky</ref>, прилаг, (стар., поэт.)</orth>
+      </form>
+      <sense>
+        <def>человеческий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>clowjeski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человеческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ctoweski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человеческий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>человЪчъскыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к человеку , понятный человеку , чловЪчъскыи чело­ веческий, людской</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Апост. поел, по сп. 1220 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1495)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский III, 1535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>человеческий</ref>, -ая, -ое, прилаг. к человек</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чоловщъкий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>человеческий, принадлежащий мужчине, состоящий из мужчин</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 469)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -bsk- от<ref type="etymon" target="shoiyok">* Шоиёкъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

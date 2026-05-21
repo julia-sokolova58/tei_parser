@@ -1,0 +1,48 @@
+<Entry xml:id="grusatise">
+  <pb n="156" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grusati (se)</orth>
+    <lemma>grusati (se)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грушати</ref> се</orth>
+      </form>
+      <sense>
+        <def>свертываться, густеть (о молоке)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grusati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крошить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gruszec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>укорять, порицать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. II, 135)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (дуратив-итератив), производный от <ref type="etymon" target="grusiti">*grusiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

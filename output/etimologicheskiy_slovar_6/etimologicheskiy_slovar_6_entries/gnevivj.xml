@@ -1,0 +1,63 @@
+<Entry xml:id="gnevivj">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnĕvivъjь</orth>
+    <lemma>gnĕvivъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gneviv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гневный, раздраженный, сер­ дитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnevivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>разгневанный, сердитый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnevivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гневный, раздражительный, вспыльчивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 490)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hnewiwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вспыльчивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гнЪвивыи</ref> бр^Хос, iracun- dus .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ефр. Крм. 1; Ефр. Крм. 237. Гр. Н и с , Срезневский I, 527)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(ъ)иъ от гл.<ref type="etymon" target="gneviti">*gneviti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

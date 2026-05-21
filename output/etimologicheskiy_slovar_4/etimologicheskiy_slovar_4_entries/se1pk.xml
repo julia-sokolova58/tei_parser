@@ -1,0 +1,122 @@
+<Entry xml:id="se1pk">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1пъкъ</orth>
+    <lemma>се1пъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чланак</ref>, род. п. - ш , м. р.</orth>
+      </form>
+      <sense>
+        <def>лодыжка, щико­ лотка , также clenak, род. п. -пка, м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>clenek</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>сустав, за­ пястье, лодыжка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Напек</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>talus, arti- culus (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Напек</ref>, род. п. -пки, м. р.</orth>
+      </form>
+      <sense>
+        <def>часть, звено (цепи), фаланга (пальца)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cldnok</ref>, род. п. -пки, м. р.</orth>
+      </form>
+      <sense>
+        <def>часть, член</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 215—216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>clonk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>член (тела), член (общества)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czlonek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член (об­ щества), член (тела)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>clounk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член, сустав</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>челенок</ref>, род. п. -нка, м. р., челенко ср. р.</orth>
+      </form>
+      <sense>
+        <def>в пальце: кость, сустав . —Ср. сюда же, возм., префиксальное сложение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чучалант</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>суставы пальцев руки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1Ч, Гродзен. 551)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., древнее производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="sey">* сеЫъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

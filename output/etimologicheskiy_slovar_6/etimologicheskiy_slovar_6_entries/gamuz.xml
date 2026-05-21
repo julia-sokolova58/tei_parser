@@ -1,0 +1,96 @@
+<Entry xml:id="gamuz">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gamuzь</orth>
+    <lemma>gamuzь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hamus</ref>, hamdz м. р.,</orth>
+      </form>
+      <sense>
+        <def>прозвище, ругательство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 403, ср. также Kott V—VI, 276: чеш. hamouz м. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гамуз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мякоть, мезга , гамузом, нареч. вместе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., Филин 6, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русск. донских говоров I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гймуз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мякоть, мязга, гамузом все вместе, сполна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гамуз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>листья, остающиеся на участке, где росла капуста или свекла , гамуз, гра- муз старье, мусор и т. п., беспорядок . — Ср., с другой огласовкой конца слова, сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Словник д1алектно1 лексики середнього i схщного ГЬшсся 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. С Ващенко. Словник полтавських говор1в I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hamiz</ref>, hamyzd* м. р.</orth>
+      </form>
+      <sense>
+        <def>мусор (песок, камни) в поле ; далее —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гамаз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>масса, множество , гймазом, нареч. все вместе; разом, толпой (перм., свердл., иркут., сев.-двинск.), оптом, зараз {тюмен., киров.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев.-двинск., Филин 6, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 127)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное образование, с одной стороны, обнаруживающее связи — как производное с суфф.<m type="suffix">
+        <ref>-игъ</ref>
+      </m> — с <ref type="etymon" target="gameti">*gameti</ref>, 
+<ref type="etymon" target="gamb">*gamb</ref> 
+(см.), 
+а с другой стороны — с <ref type="etymon" target="gbmbzeti">*gbmbzeti</ref>, 
+<ref type="etymon" target="gbmbzb">*gbmbzb</ref> 
+(см., ср. об этом 
+Фасмер I, 391), несмотря на серьезные отличия в огласовке.</gram>
+  </gramGrp>
+  <note>Чеш. слово признает неясным Махек (см. Machek 2 159).</note>
+</Entry>

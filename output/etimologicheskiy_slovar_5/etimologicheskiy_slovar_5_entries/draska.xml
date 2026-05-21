@@ -1,0 +1,56 @@
+<Entry xml:id="draska">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*draska</orth>
+    <lemma>draska</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драска</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>царапина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драска</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кляча, развалина, /дряхлый, больной человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 660)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdska</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>царапина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>драска</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>щепка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Из лексики полесского села Листвин. «Лексика Полесья» 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. производное от<ref type="etymon" target="draskati">*draskati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,30 @@
+<Entry xml:id="epkh">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьепхъ</orth>
+    <lemma>Ьепхъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>berth</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>собиратель, сборщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное имя деятеля с суфф.<m type="suffix">
+        <ref>-гхъ</ref>
+      </m> от презентной основы 
+Ъег- (см. <ref type="etymon" target="gan">*ЬъгаН)</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="etkh">*%етхъ</ref>
+    </xr> 
+(см.).</note>
+</Entry>

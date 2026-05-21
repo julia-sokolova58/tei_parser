@@ -1,0 +1,92 @@
+<Entry xml:id="s1r">
+  <pb n="115" end_page="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>с1ръ</orth>
+    <lemma>с1ръ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>eipa</orth>
+    <lemma>eipa</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cipo</orth>
+    <lemma>cipo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чип</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>курносый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: 'безрогий, комолый')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чип</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>короткоухий, корноухий, чйпъ ж. р. короткоухая овца , чип, прилаг. курносый, с коротким, маленьким носом , чип -а, прилаг. курносый, безносый , чип, прилаг. безрогий, комолый , чип, прилаг. курносый, без­ носый, корноухий , чип, прилаг. с маленькими ушами (о козе, овце), курносый (о человеке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.— БД IV, 232)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 239)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.—БД VI, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чип</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>курносый; тупой, сре­ занный, крутой, отвесный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чипо</ref> место</orth>
+      </form>
+      <sense>
+        <def>крутизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Зборови од Порече.—MJ И, 1951, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>clp</ref>&gt; -а, -о</orth>
+      </form>
+      <sense>
+        <def>слабый, ненадежный (об опоре), зыбкий , clpa ж. р. овца с маленькими молочными железами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Это ю.-слав. слово, оставленное без внимания Бернекером, Младенов этимологизировал как *qi-po-s из и.-е. *sq(h)ei- 'отре­ зать, раскалывать', 'делать более жидким' в соединении с фор­ мантом -po-j-pa. См. S. Mladenov. Die labiale Tenuis als wort- bildendes Element im Slavischen. — AfslPh XXXVI, 1916, 118—119; Младенов ЕПР 686; ср. еще H. Petersson. Arische und armeni- sche Studien (Lund / Leipzig, 1920) 41: болг. чип сближает с др.- инд. cipitd- 'тупой, плоский' &lt; праинд. *ct/?a-; но против этого см. Mayrhofer I, 388.</note>
+</Entry>

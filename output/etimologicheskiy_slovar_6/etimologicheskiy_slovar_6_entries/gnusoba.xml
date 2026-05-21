@@ -1,0 +1,66 @@
+<Entry xml:id="gnusoba">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnusoba</orth>
+    <lemma>gnusoba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. (<ref>Дубр</ref>.) гнусоба ж. р.</orth>
+      </form>
+      <sense>
+        <def>загрязненность, отврати- телыюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnusoba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отвращение, омерзительность, все отвратительное, гадость (нечистоты, пара­ зиты и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnusoba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнусный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V— VI, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnusoba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязь, нечистота , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hnusoba</ref> ж. p. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 224)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-oba</ref>
+      </m> от <ref type="etymon" target="gnus-2">*gnusъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

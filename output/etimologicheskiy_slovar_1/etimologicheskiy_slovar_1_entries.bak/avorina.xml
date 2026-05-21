@@ -1,0 +1,80 @@
+<Entry xml:id="avorina">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>avorina</orth>
+    <lemma>avorina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>javor</ref> ina ж. р., увелич. от javor, также как ороним</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(у Стулли в знач. сlignum plataninum'; R J A IV, 498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jduorina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>древесина клена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jauofina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яворовый лес, место в лесах, отведенное для пастьбы овец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>javorina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яворовая, кленовая поросль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яворина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево явор в подел­ ках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яворина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я в о р , яворовое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> 
+от <ref type="etymon" target="aiog">*аиогъ</ref> Г (см.).</gram>
+  </gramGrp>
+</Entry>

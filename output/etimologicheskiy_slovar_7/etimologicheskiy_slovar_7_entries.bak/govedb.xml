@@ -1,0 +1,72 @@
+<Entry xml:id="govedb">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>govedb</orth>
+    <lemma>govedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдвёд</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>крупный рогатый скот , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 404)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>говед</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Черног., Djor. 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gouid</ref> ж. р. собир.</orth>
+      </form>
+      <sense>
+        <def>крупный рогатый скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gowez</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gowiedz</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>домаш­ ние животные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 886)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>говядь</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. . . по 7 зоб- ниць ржи на полтыну, а говядь 3 яловичи на полтыну. Псков, л. II, 26.—Картотека ДРС)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Основа на -U, соотносительная с<xr type="compare">см. <ref type="etymon" target="govedo">*govedo</ref>
+    </xr>.</note>
+</Entry>

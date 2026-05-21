@@ -1,0 +1,40 @@
+<Entry xml:id="bldati">
+  <pb n="114" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl^dati</orth>
+    <lemma>bl^dati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bVgdd</ref> 3 л. ед. ч. наст. врем,</orth>
+      </form>
+      <sense>
+        <def>(он) видит во сне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 39; авторы реконструируют личную форму *bl$daje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>blandac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нести вздор, чушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. Lehr- Sptawinski, Polanski. Sl'ownikv etymologiczny j^zyka Drzewian potabskich 1, 39; H. Schuster-Sewc «Slavia» 34, 1965, 322)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Имперфективное новообразование с тематическим гласным -а- на базе более древнего *bl$sti,<xr type="compare">см. <ref type="etymon" target="bldg">*bl$dg</ref>
+    </xr>. Вряд ли верно харак­
+теризовать эту форму как вариант к *blgditi 
+(Lehr-Sptawinski, 
+Polanski. Там же), поскольку, как уже сказано, *bl$dati &lt;- *bl$sti, 
+тогда как <xr type="compare">см. <ref type="etymon" target="blgditi">*blgditi</ref>
+    </xr> — деноминатив от <xr type="compare">см. <ref type="etymon" target="blgdb">*blgdb</ref>
+    </xr>.</note>
+</Entry>

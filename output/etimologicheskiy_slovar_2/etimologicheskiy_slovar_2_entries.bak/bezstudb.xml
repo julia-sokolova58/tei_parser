@@ -1,0 +1,23 @@
+<Entry xml:id="bezstudb">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezstudb</orth>
+    <lemma>bezstudb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Bestud</ref> м. р., имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIV в., RJA I, 253)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Древнее сложение<ref type="etymon" target="bez-100">*bez</ref> (см.) и имени <ref type="etymon" target="v1y">*в1Ыъ</ref> (см.), первонач. 
+адъективного характера, но, судя по данному примеру ( — антро­
+поним XIV в.), очень рано субстантивировавшееся.</gram>
+  </gramGrp>
+  <note>О том же косвенно свидетельствует архаическая суффиксация *bezstudb -&gt; *bezstudjb (см. предыдущее), как бы восстанавливающая функцию прилагательного у данного давно субстантивированного образо­ вания.</note>
+</Entry>

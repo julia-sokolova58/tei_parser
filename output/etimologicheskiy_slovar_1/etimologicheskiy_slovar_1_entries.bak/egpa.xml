@@ -1,0 +1,44 @@
+<Entry xml:id="egpa">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегьпа</orth>
+    <lemma>Ьегьпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bernja</ref> ж. p. v</orth>
+      </form>
+      <sense>
+        <def>c6op (средств), собирание , также название меры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Strekelj. Slov. 5—6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Ъегпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сборы в пользу короля , Ъегпё ж. р. королевская подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1404 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 41; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпа</ref>
+      </m> от основы -Ъег- (см. <ref type="etymon" target="bbrati-4">*bbrati</ref>, <ref type="etymon" target="egd">*Ъегд)</ref>, 
+возм., первоначально адъективного происхождения.</gram>
+  </gramGrp>
+  <note>См. след.</note>
+</Entry>

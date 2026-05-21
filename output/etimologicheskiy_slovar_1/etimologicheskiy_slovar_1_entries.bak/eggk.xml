@@ -1,0 +1,109 @@
+<Entry xml:id="eggk">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьеггькъ</orth>
+    <lemma>Ьеггькъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezek</ref>, род. п. -zka м. р., ум. от breg</orth>
+      </form>
+      <sense>
+        <def>холмик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёжак</ref>, брщёжак, род. п. -шка м. р., ум. от брег, брщег</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с X V I в., также в словаре Стулли, см. R J A I, 649; РСА II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfiezek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>холм, склон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brlezok</ref>, род. -zka, -zka м. р., ум. к breh, а также</orth>
+      </form>
+      <sense>
+        <def>склон, холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brjozk</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brjozk</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzezek</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бережок</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бережок</ref>, род. п. -жка м. р.</orth>
+      </form>
+      <sense>
+        <def>край рюмки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(орл., Филин 2, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бережок</ref>, род. и. -жка м. р., ум. от берег</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>беражбк</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> 
+от <ref type="etymon" target="berg-4">*bergъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="eg1s">*Ъег1ъсъ</ref>
+    </xr>, 
+выше.</note>
+</Entry>

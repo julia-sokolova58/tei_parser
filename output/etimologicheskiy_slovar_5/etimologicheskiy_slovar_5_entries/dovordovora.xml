@@ -1,0 +1,58 @@
+<Entry xml:id="dovordovora">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dovorъ/*dovora</orth>
+    <lemma>dovorъ/*dovora</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dovora</orth>
+    <lemma>dovora</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Якубица</ref>) dowor м. р.</orth>
+      </form>
+      <sense>
+        <def>досуг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dowora</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доступ, подход, (благоприятный) случай, возможность, повод, причина . — Неясно, сюда ли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>Dovora</ref> м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 458)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-36">*do</ref> (см.) и именного производного с -о- вокализмом 
+<ref type="etymon" target="iog">*иогъ</ref> I <ref type="etymon" target="vora">*vora</ref> от гл. <ref type="etymon" target="verti">*verti</ref> / <ref type="etymon" target="virati">*virati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Семантич. развитие, явст­ вующее уже из сравнения луж. и польск. примеров ('протянуть', 'просунуть', 'найти доступ' -&gt; 'доступ, подход, благоприятный слу­ чай' -&gt; 'досуг'), находит хорошую аналогию в соответствующих отношениях глаг.-именной пары *dos$gati —<xr type="compare">см. <ref type="etymon" target="dosygb">*dosygb</ref>
+    </xr>. К сожа­
+лению, слово не получило отражения в польск. этимологич. сло­
+варях.. К сожа­
+лению, слово не получило отражения в польск. этимологич. сло­
+варях.. К сожа­
+лению, слово не получило отражения в польск. этимологич. сло­
+варях.. К сожа­
+лению, слово не получило отражения в польск. этимологич. сло­
+варях.</note>
+</Entry>

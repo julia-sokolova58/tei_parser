@@ -1,0 +1,50 @@
+<Entry xml:id="dozedozi">
+  <pb n="90" end_page="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do že/*do ži</orth>
+    <lemma>do že/*do ži</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>do zi</orth>
+    <lemma>do zi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дожб</ref>, дожи и до a^pi, usque,</orth>
+      </form>
+      <sense>
+        <def>до, вплоть до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дорй</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даже, вплоть до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; диал. примеры см. на *da ze, выше)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доже</ref>, дожь</orth>
+      </form>
+      <sense>
+        <def>до</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юр. ев. 1119 г.; Мф. XV. 38. Гал. ев. XIII в.; Пов. вр. л. под 912 г.—по Ип. сп.; Муч. Кир. Ул.; Никон. Панд. сл. 12. Лаод. 24, Срезневский I, 689—690)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-40">*do</ref> (см.) и энклитики <ref type="etymon" target="ze-2">*ze</ref> (см.).</gram>
+  </gramGrp>
+  <note>В ряде случаев про­ должения *do ze невозможно отделить от этимологически тожде­ ственного *da ze (см.). dqbina</note>
+</Entry>

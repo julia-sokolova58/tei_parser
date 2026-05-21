@@ -1,0 +1,44 @@
+<Entry xml:id="o1g">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо1гь</orth>
+    <lemma>Ьо1гь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блаж</ref>, блат</orth>
+      </form>
+      <sense>
+        <def>болезни плеврит, воспаление легких, ко­ лотье и пр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Ышш</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость . — Сюда же относится такой церковно­ славянизм как</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Pomor. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блажь</ref> ж. р. сдурь, дурость; упорство, упрямство, своенравие; юродство; притворная дурь; временное помешательство, сумасбродство; мечты, бред, грезы на яву; вздор, нелепость, чепуха; несбыточные мысли, желания</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 233)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на -i- от основы<ref type="etymon" target="bolgo">*bolgo</ref>, <ref type="etymon" target="o-3">*Ьо</ref>^ъ(]ь) 
+(см.).</gram>
+  </gramGrp>
+  <note>Употреб­ лено для обозначения дефектов физических и моральных, а также болезней в порядке эвфемизма.</note>
+</Entry>

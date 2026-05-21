@@ -1,0 +1,85 @@
+<Entry xml:id="gyzdavbjb">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzdavb(jb)</orth>
+    <lemma>gyzdavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гйздав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>красивый, нарядный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гйздоф</ref>, -ва , гйздеф</orth>
+      </form>
+      <sense>
+        <def>добрый, кроткий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевен- ско. — БД VI, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гиздав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разодетый, разряженный, красивый, строй­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>glzdau</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>нарядный, изящный, пышный, горделивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV—XV вв., RJA III, 137—139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gizddu</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>кичливый, любящий наряжаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gizdawy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тот, кто мочится в постели, не­ ряха, бесстыдник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 831; St. gw. p. II, 78)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -(а)иъ от гл.<ref type="etymon" target="gyzdati">*gyzdati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

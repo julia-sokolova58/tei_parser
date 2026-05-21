@@ -1,0 +1,72 @@
+<Entry xml:id="blunqti">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'unqti</orth>
+    <lemma>bl'unqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блъвна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>извергнуть (пищу, содержимое желудка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Георгиев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блунути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырвать, извергнуть, evomo, бл&gt;унути, б.ъунути то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 663—664)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bljuniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырвать, извергнуть (пищу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>блюнути</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(си слышавъ Володимеръ блюну на землю рекъ нечисто есть дЬло. Лавр. л. 1377 г. — Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блйнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырвать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный от основы<ref type="etymon" target="gi--2">*ЬГи-</ref> (см. <ref type="etymon" target="bVbvati-2">*bVbvati)</ref> с суфф. -пд -ti 
+для обозначения однократного или начинательного способа дей­
+ствия.</gram>
+  </gramGrp>
+</Entry>

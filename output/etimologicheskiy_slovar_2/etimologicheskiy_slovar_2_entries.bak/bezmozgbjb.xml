@@ -1,0 +1,114 @@
+<Entry xml:id="bezmozgbjb">
+  <pb n="32" end_page="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezmozgbjb</orth>
+    <lemma>bezmozgbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безмозгй</ref>, -а, -6</orth>
+      </form>
+      <sense>
+        <def>безмозглый, глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 410)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezmozky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безмозглый, тупой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezmozgi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безмозглый, глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 80; Warsz. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безмбзгый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имеющий мозга или мозгов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безмбзкый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий мозга, безмозглый, глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязмбзгЬ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безмозглый . — Ср. дальнейшие производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безмбзъчен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безмозглый, не «имеющий мозга, глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezmozdan</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>sine cerebro, stultus, imprudens, безмозглый, без мозга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безмозгатый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>несообразительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(петерб., Филин 2, 193)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. типа, образованное из<ref type="etymon" target="bez-58">*bez</ref> (см.) 
+и именной основы <ref type="etymon" target="mozg">*mozgъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Более вторичное образование — производное с суфф. -ъп- *bezmozdzb№ — представлено в болг. безмбзъчен, сербохорв. bezmozdan, приводимых выше. В целом о словообразовательных отношениях этих типов прилаг-ных см. на *bez.</note>
+</Entry>

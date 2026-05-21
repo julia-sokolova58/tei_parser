@@ -1,0 +1,78 @@
+<Entry xml:id="gliveti">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glivĕti</orth>
+    <lemma>glivĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hliveV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прозябать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlivieV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жить в праздности, бездельничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. диал, <ref>gliwiec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнить, портиться, также gliwiec , gliwiec портиться, протухать (о сыре, фруктах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 833, 836)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глгвёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мерзнуть, коченеть (в сырую погоду) . — Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяцко, Зэльв. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. гл&gt;<ref>и</ref>- вити</orth>
+      </form>
+      <sense>
+        <def>расти, произрастать, прозябать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 375)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="gliva">*gliva</ref> (см.).</gram>
+  </gramGrp>
+  <note>О воз­ можном возрасте отношений говорит параллелизм лит. gleivos 'слизь' — gleiveti 'покрываться слизью' (см. о них К. Буга РФВ L X X , 1913, 107-108).</note>
+</Entry>

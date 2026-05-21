@@ -1,0 +1,50 @@
+<Entry xml:id="elbedinjelbedinj">
+  <pb n="18" end_page="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elbedinъ(jь)/*elbędinъ(jь)?</orth>
+    <lemma>elbedinъ(jь)/*elbędinъ(jь)?</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>elb^dinb(jb)</orth>
+    <lemma>elb^dinb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>лебединый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>относя­ щийся к лебедю, лебедям, диал, лебедйн самец-лебедь (урал., Картотека Словаря русских народных говоров)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>лебедйний</ref>, •elenina -a, -e</orth>
+      </form>
+      <sense>
+        <def>лебяжий , лебедйн м. р. лебедь са­ мец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 349)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>лебядзгны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лебединый, лебяжий</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-1пъ</ref>
+      </m> от <ref type="etymon" target="elb">*elb</ref>?db / <ref type="etymon" target="elbedb">*elbedb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,47 @@
+<Entry xml:id="drzc">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьržьcь</orth>
+    <lemma>dьržьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>држац</ref>, род. п. дршца, м. р.</orth>
+      </form>
+      <sense>
+        <def>ручка, рукоять, владелец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 708, RJA И, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drzec</ref>, род. п. -zca, м. р.</orth>
+      </form>
+      <sense>
+        <def>держатель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drzec</ref>, род. п. -zee, м. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка, ручка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 317)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от гл. <ref type="etymon" target="dbrzati-2">*dbrzati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,47 @@
+<Entry xml:id="brustbCb">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br'ustbCb</orth>
+    <lemma>br'ustbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfistec</ref>, род. п. -tee, м. p.</orth>
+      </form>
+      <sense>
+        <def>подушечка, мякоть пальца , возм., вследствие ассимиляции из *bristec, далее, ср. brisec, род. п. -see, м. р. выпуклость , если последнее не от</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bficho</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>brzeec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подушечка пальца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 219: составители связывают с чеш. bfistec)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъсь</ref>
+      </m> от <ref type="etymon" target="br-10">*br</ref>'
+&gt;ustb 
+(см.).</gram>
+  </gramGrp>
+</Entry>

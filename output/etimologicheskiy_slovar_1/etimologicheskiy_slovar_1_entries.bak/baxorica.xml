@@ -1,0 +1,39 @@
+<Entry xml:id="baxorica">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxorica</orth>
+    <lemma>baxorica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бахорица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдунья, знахарка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. также М. Tentor «Razprave» I, 1950, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bachorlce</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид колбасы</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Формально представляет собой суффиксальное производное<ref type="etymon" target="ba-x-or-ica">*ba-x-or-ica</ref> от основы Ьа- (см. <ref type="etymon" target="baxora">*baxora</ref>, <ref type="etymon" target="bajati-2">*bajati)</ref>, 
+ср. 
+особенно 
+знач. 
+сербохорв. слова.</gram>
+  </gramGrp>
+  <note>Семантика чеш. слова, возм., отра­ жает влияние иного лексического гнезда, где выступают зна­ чения ' б и т ь ' , 'плотный', 'толстый' (<xr type="compare">см. <ref type="etymon" target="akhas">*Ъахасъ</ref>
+    </xr>, 
+*baxatbjb, 
+*baxati).</note>
+</Entry>

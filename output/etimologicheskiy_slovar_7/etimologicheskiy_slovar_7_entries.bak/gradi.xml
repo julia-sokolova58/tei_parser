@@ -1,0 +1,187 @@
+<Entry xml:id="gradi">
+  <pb n="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gradi</orth>
+    <lemma>gradi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^Лдъ м. p. х ^ а ^ а » grando</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Supr., Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>град</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>град , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грат</ref> м. р. , макед град м. р. сград</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 165; С. Ковачев. Троянският говор.—БД IV, 196; с. Средно- горец, Пирдопско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hrad</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrady</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>грозовая туча</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrad</ref> 9 ж. р.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrad</ref>, hrad</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hrat</ref> м. p. , hrat м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Matejuik. Vychodonovo- hrad. 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grad</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>grod</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski— Sehnert 68, с реконструкцией *gradb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grad</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grand</ref> м. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>градъ</ref> grando, ^dXa^a</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Исх. IX.23. по сп. XIV в.; Гр. Наз. XI в. 49; Новг. I л. под 1157 г.; Ип. л. под 1281 г., Срезневский I, 576)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>атмосферные осадки в виде округлых, величиной с горошину и больше кусочков льда, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>града</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>радуга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Филин 7, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>град</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>град</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. gradb, по-видимому, продолжает и.-е. *grodo-, ср. арм. karkut 'град' &lt; *ka-krut &lt; *ga-grodo-, с частичной редупликацией корня и метатезой согласных. Далее, сравнивают с лат. grando, род. п. grandinis, 'град', с носовым инфиксом, объясняя послед­ нее либо из и.-е. *grdd-, связанного чередованием гласных с и.-е. *grodo- либо из *grad-. Дальнейшие связи менее ясны или вовсе сомнительны, напр. сравнение с др.-инд. hraduni- 'град', поскольку последнее предполагает праформу *ghrdd-, что не соответствует ни слав., ни лат. консонантизму. Распространенное сближение с лит. gruodas 'смерзшаяся грязь', в свою очередь, вызывает возражения ввиду связей лит. слова с рядом форм, имеющих вокализм -и-, ср. лит. grudas 'зерно', слав. *gruda (см.</note>
+</Entry>

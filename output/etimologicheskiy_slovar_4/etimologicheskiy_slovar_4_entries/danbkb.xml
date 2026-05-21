@@ -1,0 +1,88 @@
+<Entry xml:id="danbkb">
+  <pb n="187" end_page="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>danbkb</orth>
+    <lemma>danbkb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>данък</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>подать, налог, дань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>данък</ref>, данок м. р. то же , данук м. р. , данък м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бояджиев, Гюмюрджинско. — БД VI, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>данок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>налог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>данак</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>налог, подать, дань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ; RJA И, 261: с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ddnek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>dativus* (Klaret, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dank</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дар, подарок, отдача, передача, пошлина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>данок</ref>, род. п. -нку, м. р.</orth>
+      </form>
+      <sense>
+        <def>даяние, дар, пожалованье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ъкъ. См. *йапъ.</note>
+</Entry>

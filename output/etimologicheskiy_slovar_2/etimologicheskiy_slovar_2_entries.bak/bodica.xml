@@ -1,0 +1,50 @@
+<Entry xml:id="bodica">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodica</orth>
+    <lemma>bodica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ббдица</ref>, бодица ж. р.</orth>
+      </form>
+      <sense>
+        <def>шип, острие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА 11,15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шип, колючка (напр. на кусте ежевики) , bodice мн. железные тройные вилы . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. II. Do- datki I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodic</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Murex tenuispina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от гл. <ref type="etymon" target="bosti-8">*bosti</ref>, <ref type="etymon" target="bodg-5">*bodg</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

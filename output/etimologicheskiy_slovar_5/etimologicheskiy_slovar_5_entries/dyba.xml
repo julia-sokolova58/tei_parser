@@ -1,0 +1,89 @@
+<Entry xml:id="dyba">
+  <pb n="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyba</orth>
+    <lemma>dyba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dyba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>палка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дыба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Смол. гр. 1229 г.; Смол. гр. 1230 г.; Псков, судн. гр., Срезнев­ ский I, 764)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дйба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>козлы; леса для подъема тяже­ стей, виселица, устройство для пытки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дйба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ствол, раздвоенный кверху, на котором укреплен колодезный журавль, хстолб из ствола дерева с корнями , столб с раздвоенным верхом, куда вкладывается длинная жердь, к которой прикрепляется ве­ ревка с бадьей для доставания воды из колодца , столб, с прикрепленным на нем шестом доставать воду из колодца , столб, на котором укреплен колодезный журавль (влад., смол.), длинный шест у колодца для подъема воды; колодезный журавль (твер., смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сло­ варь говоров Подмосковья 128)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской области 59)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дйби</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>тренога для подвешивания колыбели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Словник шшських говор1в 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дыба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ходуля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай­ коу-Некраш. 99)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. (судя по вокализму) производное от<ref type="etymon" target="dybati">*dybati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

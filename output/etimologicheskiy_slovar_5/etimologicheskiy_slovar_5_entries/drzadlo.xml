@@ -1,0 +1,146 @@
+<Entry xml:id="drzadlo">
+  <pb n="229" end_page="230" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьržadlo</orth>
+    <lemma>dьržadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>държало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка, ручка, топорище и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>държалу</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ручка (с. Стърница, Смолянско, дип. раб., Архив Софийск. ун-та), държала ж. р. топорище , дръжале ср. р. черенок лопаты, мотыги, топорище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(3. Божкова БД I, 247; Гълъбов БД II, 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. С. Младенов БД III, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>држало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоять, ручка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>држало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка, ручка, перила, спинка (стула, кресла)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I V , 703, RJA II, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>darzalo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ручка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drzdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ручка, рукоятка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drzadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоять, черенок, топорище</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zarzadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ручка, рукоятка, черен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>dzierzadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>петля, ручка (сосуда)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>держало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоять цепа (моек,), дуги над печами Мьгёакъ на соляных варницах для поддержания свода (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>держало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка, ручка .— Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяржалъна</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай- коу-Некраш. 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название орудия, производное с суфф. -(a)dlo от гл.<ref type="etymon" target="yg-">*йьг-</ref>
+zati (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,159 @@
+<Entry xml:id="bajbka">
+  <pb n="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajbka</orth>
+    <lemma>bajbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ба</ref>]ка ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bdjka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, сказка, fabula , сказка, выдумка, ворожба, заговоры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I I в., R J A I, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bajka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bajka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, сказка, выдумка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bajka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>басня, выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bajka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>неправда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bajka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка, басня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bajka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>басня, сказка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bajka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка, басня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>байка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>г о в о р , сказка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>байка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Зи- заний, Тимченко I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>байка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, безделица, шутка, пустяки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>байка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, не­ былица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б л р.-русск. 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Широко распространенное в слав, языках, но, возм., возник­ шее как параллельное и относительно новое образование с суфф.<m type="suffix">
+        <ref>-ька</ref>
+      </m> от основы гл. <ref type="etymon" target="bajati-12">*bajati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

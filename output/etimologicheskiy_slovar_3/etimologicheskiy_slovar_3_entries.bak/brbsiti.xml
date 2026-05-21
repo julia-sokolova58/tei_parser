@@ -1,0 +1,48 @@
+<Entry xml:id="brbsiti">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbsiti</orth>
+    <lemma>brbsiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бросить</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. . . твою грамотку бросил мне холопу твоему в глаза. Кромы 1681, Моск. стлб. 599, л. 557—558. Кот­ ков. Леке, ю.-в.-р. письменности X V I — X V I I I вв. 287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бросить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кинуть, послать, оставить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бросить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать, подбирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 6)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="bnsati">*bnsati</ref> 
+(см. там же о дальней­
+ших 
+связях).</gram>
+  </gramGrp>
+</Entry>

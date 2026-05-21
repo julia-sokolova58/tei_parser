@@ -1,0 +1,80 @@
+<Entry xml:id="dajati">
+  <pb n="183" end_page="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dajati</orth>
+    <lemma>dajati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддгати</ref> StSovat, dare; ^aXav, laxare</orth>
+      </form>
+      <sense>
+        <def>давать, позволять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Клоц., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>dajdt</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Црес, Бакар, М. Tentor. Leksicka slaganja. «Razprave» I, 1950, 72: нет у Вука)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dafdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dajati</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott V— VI, 3: слабо засвидетельствовано)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дащгш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать , позволять, давать возможность , давать, подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лук. XI. 13. Остр, ев.; Гр. Наз. XI в. 35; Нест. Бор. Гл. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог. 35; Поуч. Влад. Мон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Влад. Вас. Вол. 1288 г.; Жит, Андр, Юр. XXXV. 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 636)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Форма<ref type="etymon" target="dajati">*dajati</ref> 
+представляет собой вторичный инф. (ср. еще 
+<ref type="etymon" target="davati">*davati)</ref>, оформившийся, по-видимому, в ходе процесса имперфек-
+тивации слав, глагола и теснейшим образом связанный с основой 
+(тоже инновационной, возникшей на базе йотового расширения 
+аористич. основы типа др.-инд. dddt) наст. вр. <ref type="etymon" target="dajg">*dajg</ref>.</gram>
+  </gramGrp>
+  <note>Сравнение с др.-инд. ddayi 'был дан', d-ddya-mdnas позволяет видеть в -i- словообразовательно-морфологич. формант; можно иметь в виду также чисто фонетич. функцию его как устранителя зияния, особенно в новых инф-ах на -ati. Стремление некот. авторов видеть здесь прямой рефлекс и.-е. ларингального неубеди­ тельно. См. из литер.: A. Meillet. Sur les suffixes verbaux secondaires en indo-europeen. — MSL 11, 1900, 300, 308; Berneker I, 177; L. H. Gray. The Indo-European base-type *do-y *do-ie-y *do-ue-, *do-2e-. — AJPh LXII, 1941, 479; J. Kurytowicz BSL 58, 1963, 33; Shevelov. A prehistory of Slavic 246; Vaillant. Gramm. com­ p a r e III, 1, 264.</note>
+</Entry>

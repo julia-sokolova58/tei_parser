@@ -1,0 +1,89 @@
+<Entry xml:id="cerditis">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerditi (s§)</orth>
+    <lemma>cerditi (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crediti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приводить в порядок, располагать, ere- diti se сменяться, чередоваться , сюда же cediti чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>criddta</ref> se</orth>
+      </form>
+      <sense>
+        <def>меняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>triditi</ref>, striditi</orth>
+      </form>
+      <sense>
+        <def>группировать, распределять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>crjodzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать в кучу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>передать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вынимать из птицы или рыбы внутренности (арх.), очищать, делать что-нибудь лучше обыкновенного (перм.), уби­ рать комнату, наблюдать опрятность, чистоту (пек.), готовить ло­ шадей к скачке (иркут.), угощать усердно со знаками уважения (тамб.), проказничать, кутерьмить (курск.), бранить (новг., твер.) , передать учреждать, изготовлять, обиходить, усма­ тривать, послеживать, подсматривать , передать обрабатывать пашню , передать потрошить , ухаживать за конями, упражнять их, кормить, обрабатывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Список тобольских слов и выражений, за­ писанных в Тобольском, Тюменском, Курганском и Сургутском округах...—ЖСт. 1899, IV, 516)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кули­ ковский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части б. реки Оби. Доп. II, 264—265)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. производный с суфф.<m type="suffix">
+        <ref>-iti</ref>
+      </m> от <ref type="etymon" target="cerda">*cerda</ref> (см.).</gram>
+  </gramGrp>
+  <note>Не имеют под со­ бой основания попытки разграничить упомянутое *cerda и глаголы со знач. 'очищать', особенно словен. cediti, для кот. даже пред­ полагалась особая этимология от *c$diti к *6fdo 'ребенок, дитя' (Miklosich 32; Д. К. Зеленин ИОРЯС VIII, 1903, 256—258; Ber­ neker I, 154; F. Ramovs «Letopis Akademije znanosti in umetno- sti» I, 1938—1942, 355). См. еще Фасмер IV, 338.</note>
+</Entry>

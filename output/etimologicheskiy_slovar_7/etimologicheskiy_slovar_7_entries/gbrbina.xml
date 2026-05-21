@@ -1,0 +1,81 @@
+<Entry xml:id="gbrbina">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrbina</orth>
+    <lemma>gbrbina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърбйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Дювернуа, Геров: гръбйна)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>грбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спина, пригорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спина, выпуклость , grbina хребет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 587— 588; RJA III, 394)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(GTer. 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grbina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горбина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>возвышен­ ность (ленингр., хакас), вершина горы (урал., амур.), верхняя часть спины у рубашки, платья (урал.) , дранка (волог., Картотека СТЭ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбьнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горбинка</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от *#"ьгЬъ (см.) или от гл. <ref type="etymon" target="gbrbiti">*gbrbiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

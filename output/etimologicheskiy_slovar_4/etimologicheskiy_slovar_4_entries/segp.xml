@@ -1,0 +1,245 @@
+<Entry xml:id="segp">
+  <pb n="69" end_page="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпъ</orth>
+    <lemma>сегпъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпо</orth>
+    <lemma>сегпо</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпа</orth>
+    <lemma>сегпа</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегпь</orth>
+    <lemma>сегпь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>црен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черенок, ручка ножа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. Видоески. Поречкиот говор 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>степ</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>manubrium, рукоятка, ручка, черенок , словен степ м. р. рукоятка, ручка, черенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA I, 821)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, НО)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>stfen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сердцевина (дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>stfen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>младший отпрыск, tfeh м. р. ножка гриба, ствол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сгеп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сгеп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>коренной зуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>стопа</ref> мн. ч. ср. р.</orth>
+      </form>
+      <sense>
+        <def>черенок, рукоять, десны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>стоп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка соломорезки , cfono ср. p. челюсть, скула , sfono ср. p. ствол, дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 137)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 665)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzon</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>черенок, рукоятка, ножка гриба, ствол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>черенъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рукоять, черен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ор. Бор. Фед. Год., 1589 г., Срезневский III, 1501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёрен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рукоять, рукоятка, ручка, за что берут вещь, снаряд, орудие; колодочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чёренъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рукоять косы , чёренъ, черенок , чё­ ренъ, род. п. -рни черень, рукоять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лемех, черенок (ножа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 455—456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чаранб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *сетпъ (*ker-n-o-), объединяющее выше лексику со значениями 'рукоятка, черенок; ствол, ножка; коренной зуб, че­ люсть, десны', родственно *коте /<xr type="compare">см. <ref type="etymon" target="kotepe">*котепе</ref>
+    </xr>, что в общем при­
+знается исследователями для 
+значений 'рукоятка, черенок', но 
+обходится молчанием и, по-видимому, исключается ими в случае 
+со знач. 'коренной зуб' и близкими. Раздельная этимол. трактовка 
+(Berneker, ниже: *сетпъ 2. 'рукоятка, стебель' и *сетпъ 3. 'че­
+люсть, коренной зуб' [напомним, что за *сетпъ 1. 'очаг или его 
+часть' этот автор принимает то, что мы реконструируем как *се-
+тёпъ, выше, поскольку мы полагаем, что отдельные формы вроде 
+польск. trzon 'очаг', для кот. бы подошла реконструкция *сетпъ, 
+вторичны]) выражается в поисках особых этимол. соответствий 
+для каждого из названных случаев в литературе. Так, *сетпъ 
+рукоятка' сравнивают с кимр. earn то же, др.-инд. катпа- 'рукоятка', 
+а 
+сегпъ 'челюсть, коренной зуб'—с кимр. сетп 'челюсть' или — 
+уже чисто умозрительно—с 
+др.-инд. cdrvati 
+'жует'. 
+Больше
+того —из близости форм и значений слав. *сегпъ 'челюсть' и кимр. 
+сет то же некоторые учёные делают далеко идущий вывод о за­
+и м с т в о в а н и и 
+с л а в , 
+с л о в а 
+из 
+к е л ь т . 
+А между тем 
+все эти этимол. и сравнительно-исторические конструкции начи­
+нают рушиться, стоит лишь обратить внимание на русск. слово­
+употребление коренной зуб. Значения 'коренной 
+зуб, челюсть, 
+десны', конечно, вторично развились из 'кэрень, ножка, стебель' 
+и их необходимо рассматривать только в комплексе. Очевидно, что 
+при этом сохраняют свое значение только те этимологии, кот. 
+считаются с существованием такого лексико-семантического ком­
+плекса. 
+Литература: Е. Zupitza ВВ XXV, 1899, 101—102; он же KZ 
+XXXVII, 1904, 399; W. v. d. Osten-Sacken IF XXII, 1908, 315 
+и сл. (с излишними дальнейшими разграничениями); Berneker I, 
+146—147; К Буга РФВ LXVII, 1912, 234; Bruckner 582 (показа­
+тельно, что автор все случаи польск. trzon рассматривает в о д н о й 
+статье); Т. Lehr-Sptawinski. Kilka uwag о stosunkach j^zykowych 
+celtycko-prastowianskich. — RS XVIII, 1956, 6; V. Machek «Studia 
+linguistica in honorem T. Lehr-Sptawinskb 114 (возражает против 
+мысли о заимствовании из кельт, и связывает *сегпъ в знач. 
+'коренной зуб, нижняя челюсть' с праслав. 
+*skorn'
+,a 
+'нижняя 
+челюсть'); Machek
+2 657; Фасмер IV, 340—341.</note>
+</Entry>

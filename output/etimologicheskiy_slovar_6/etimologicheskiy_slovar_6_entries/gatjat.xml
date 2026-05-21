@@ -1,0 +1,77 @@
+<Entry xml:id="gatjat">
+  <pb n="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatjatъ</orth>
+    <lemma>gatjatъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гащат</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>одетый в штаны , мохноногий (о птице) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: гащатый)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гаштат</ref> , гашчат , гаштат, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мохноногий (о петухе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близ- нев БД III, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гакат</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мохноногий (о пе­ тухе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гаНат</ref>, -а, -о то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gaciaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мохноногий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 789)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-atb</ref>
+      </m> от <ref type="etymon" target="gatji">*gatji</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

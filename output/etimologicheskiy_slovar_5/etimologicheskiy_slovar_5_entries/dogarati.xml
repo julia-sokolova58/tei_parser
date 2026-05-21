@@ -1,0 +1,88 @@
+<Entry xml:id="dogarati">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dogarati</orth>
+    <lemma>dogarati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>догарям</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догорать, гаснуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дога</ref>- рати</orth>
+      </form>
+      <sense>
+        <def>догорать, допекать, досаждать, надоедать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dogdrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догорать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dohdrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ощу­ тимо касаться, затрагивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 282)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dohdrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гас­ нуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dohdraV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>догаряти</ref>, дого- ряти</orth>
+      </form>
+      <sense>
+        <def>интересовать, сильно занимать, затрагивать (Звяг. у.), допекать, донимать (НВолын. у.) , догорать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 406)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 408)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Несврш. вид к *dogoreti; обращает на себя внимание ранняя специализация знач-я.</note>
+</Entry>

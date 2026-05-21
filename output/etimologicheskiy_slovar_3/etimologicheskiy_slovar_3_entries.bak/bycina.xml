@@ -1,0 +1,56 @@
+<Entry xml:id="bycina">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bycina</orth>
+    <lemma>bycina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bycina</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бычья кожа, шкура</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>byczyna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бычье мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bicina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>воловье мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. W b . I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бичйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>воловья шкура (Желе- ховский). — Ср., возм., сюда же</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Bicina, мести, н. в Лике (XVI в., R J A I, 282).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="uk">*Ьукъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

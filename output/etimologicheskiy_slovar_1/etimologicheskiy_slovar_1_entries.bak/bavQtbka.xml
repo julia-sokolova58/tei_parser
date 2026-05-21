@@ -1,0 +1,27 @@
+<Entry xml:id="bavQtbka">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bavQtbka</orth>
+    <lemma>bavQtbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баутка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прибаутка, побасенка, при­ сказка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> 
+от основы старого, нейотированного 
+прич. <ref type="etymon" target="bavot-">*bavot-</ref> (см. <ref type="etymon" target="baviti-3">*baviti</ref>, <ref type="etymon" target="bava">*bava)</ref>.</gram>
+  </gramGrp>
+</Entry>

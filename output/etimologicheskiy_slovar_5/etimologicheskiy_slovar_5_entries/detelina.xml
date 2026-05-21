@@ -1,0 +1,184 @@
+<Entry xml:id="detelina">
+  <pb n="27" end_page="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dętelina</orth>
+    <lemma>dętelina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>детелйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клевер Trifolium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дётелина</ref> ж. р. тоже</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>детелйна</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ётелина1 дётелина ж. р.</orth>
+      </form>
+      <sense>
+        <def>клевер также, дётелина ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ, РСА IV, 248)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>detelina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колючая трава (для коз)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>detelina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клевер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>detelina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jatelina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клевер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 40; HoSek. Ceskomorav. II, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>atelina ж. p. клевер Trifo­ lium pratense , jatelina ж. p. то же , jafelHna , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 235)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>dzadelin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>клевер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>dzipcielina</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 602)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дятлйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение трилистник Trifolium pratense</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяцелта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кашка, клевер. — Сюда же, с отличием в суфф</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дятливина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>семена клевера , дятлёвина ж. р. название разных видов клевера (петерб., пек., твер.). семена клевера (яросл.) , дятлбвйна ж. р. название разных видов клевера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 308)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калин., костр.. нижегор., Филин 8, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>д</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>йтловина ж. p. Trifolium repens L., клевер ползу­ чий, Trifolium pratense L., клевер луговой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 420)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="d-4">*d</ref>$teH (см.).</gram>
+  </gramGrp>
+  <note>Ввиду семантич. своеобразия производного ('дятел' и 'клевер') некоторыми эта связь оспаривается. См. Berneker I, 190; Георгиев БЕР V, 349—350; Skok. Etim. rjecn. I, 413; Machek 2 224 (выдвигает оригинальную этимологию — от *dbmg&gt; *dgti сдуть', в связи с тем, что скотину от молодого, влажного клевера раздувает; однако -е- ступень при этом несколько необычна); Bruckner 112 (от пестроты дятла); Stawski I, 201—202; Фасмер I, 562 (там же, в дополнении, при­ водится мнение Пизани о родстве с и.-е. *dent- 'зуб', ср. фриульск. dint di dan 'клевер ползучий Trifolium repens', буквально — «собачий зуб»; эту этимологию слав, слова, восходящую еще к Погодину, см. также; Е. Pawtowski PF X X V , 1974, 323). d?telb: болг. диал. дётел м. р. 'дятел' (БТР), макед. детел м. р. то же (И-С), сербохорв. djemaot род. п. -тла, м. р. 'дятел', также дётао, дйтао, djeteo, род. п. djetela, м. р., также djete] (RJA И, 453), djemao, д)етел м. р. (РСА IV, 360), детел м. р. (РСА IV, 248), также фам. Дётел (РСА IV, 249), сюда же дётла ж. р. 'дятел' (РСА IV, 253). словен. detel, род. п. -tlay •м. Р. 'дятел' (Plet. I, 133), ст.-чеш. datel м. p. 'spi(n)x' (Ст.-чеш., Прага), чеш. datel, род. п. -На, м. р. 'дятел', сюда же jetel м. р. клевер Trifolium', также диал. jetel (Bartos, Slov. 132; Hruska. Mov. chod 38), jetel 'дятел' (Kott. Dod. k Bart. 37), zacel м. p. •дятел' (Kott V, 27), слвц. tfatel\ род. п. -tVay м. p. 'дятел Dryocopus martius. Dryobates major' (SSJ I, 235), в.-луж. dzecel м. p. 'клевер Trifolium pratense' (Pfuhl 181), dzecelc м. p. 'дятел' (там же), н.-луж. диал. dzacel м. р. 'трилистник, клевер Trifo­ lium L.' (Muka St. I, 228), zieelc м. p., стар., диал. zeuelc 'дятел, особенно пестрый дятел' (Muka St. II, 1194), польск. dzi?ciol м. р. 'дятел Picus' (Dorosz. II, 602), словин. ^acol м. р. 'дятел' (Lorentz Slovinz. Wb. I, 227), др.-русск., русск.-цслав. дАпгълъ, дАтлъ 'дятел' (Златостр. XII в.; Сл. плк. Игор., Срезнев­ ский I, 806), также в кач-ве личного имени собств. (1547 г., Тупиков 198), русск. дятел, род. п. -шла, м. р. 'лесная птица с длинным, сильным клювом, из отряда лазающих', диал. дЛтель, род. п. -тля, м. р. то же (Картотека Печорского областного сло­ варя; «Словарь говоров Соликамского района Пермской об­ ласти» 151), сюда же дятла ж. р. 'клевер' (пек., твер., Доп. к Опыту 45), 'дятел' (калуж.), 'клевер' (твер., пек.) (Филин 8, 308), укр. дятел, род. п. -тла, м. р. 'дятел' (Гринченко I, 462), блр. дзяцел м. р. 'дятел'. Имя деятеля, производное с суфф. -tel- (ср. сербохорв. djeteo, род. п. -tela, наряду с д)ётао, род. и. -тла, далее — польск. dziftiol, род. п. -ciola), до расширения последнего с помощью впрочем, уже представленного диалектно, ср. елвц. d'ateV, русск. диал. дятель (выше). Глаг. основа, от кот. произведено *d$teH, несколько проблематична: *de-tel-&lt;^*delb- или *dblb-, т. е. 'долбя­ щий' (ср. болг. кълвач 'дятел') или к неизвестной слав, основе, родственной лтш. dimt, demu 'дребезжать, шуметь'. См. Berneker I, 190—191; W. Porzezinski RS IV, 1911, 6; К. Ostir «Etnolog» I, 1925—1926, 21; он же «Etnolog» IV, 1930, 6; J. J. Mikkola «БелиЬев зборник» (Београд, 1937) 119 (цит. по: ЗФ XVII, 1938—1939, 289); F. Stawski SO 18, 1947, 250; Л. А. Булаховский. Общеславянские названия птиц. — ИАН ОЛЯ VII, 1948, 110; Фасмер I, 562; Stawski I, 202—203; К. Moszynski JP XXXIII, 1953, 365; R. Bernard «Езиковедско- етнографски изеледвания акад. Ст. Романски» 371—372.</note>
+</Entry>

@@ -1,0 +1,80 @@
+<Entry xml:id="yoegrk">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёегръкъ</orth>
+    <lemma>ёегръкъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегръка</orth>
+    <lemma>сегръка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>црепка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cfopk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черепок, обломок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черепок</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>обломок, осколок какого-нибудь битого глиняного, фаянсового и т. п. изделия, диат. чарбпка ж. р. небольшая глиняная лохань, а также сосуд, в котором трут табак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черепок</ref>, рэд. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>черепок, череп человека</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарапбк</ref>, род. п. -пка, м. р.</orth>
+      </form>
+      <sense>
+        <def>черепок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чарёпка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>миска, черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Ma­ rin. 488)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ък- от<ref type="etymon" target="segr">*сегръ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

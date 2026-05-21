@@ -1,0 +1,86 @@
+<Entry xml:id="glupavj">
+  <pb n="150" end_page="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupavъ(jь)</orth>
+    <lemma>glupavъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глупав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый , сюда же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: глу- павый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глупое</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов. Говорът на Ново село, Видинско 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глупав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глупав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>глупый , ср. сюда же glumpav, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 370)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в словаре Белостенца, RJA III, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glupawy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глуповатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глупавый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(свердл., Филин 6, 212)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> от <ref type="etymon" target="glupb-2">*glupb</ref> 
+(см.).
+•glupb(jb)</gram>
+  </gramGrp>
+</Entry>

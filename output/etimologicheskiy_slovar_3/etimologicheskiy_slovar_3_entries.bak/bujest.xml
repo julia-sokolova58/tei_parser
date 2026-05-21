@@ -1,0 +1,66 @@
+<entries>
+  <entry xml:id="bujest" xml:id="bujest">
+    <pb n="83" end_page="84" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bujestь</orth>
+      <lemma>bujestb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. <ref>воу-к</ref>&gt;стА ж. p. awpia, insania, stultitia</orth>
+        </form>
+        <sense>
+          <def>неразумность, безумие, глупость</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SJS)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>буйос</ref> ж. р. (. . . неговите поданици . . . от буйве заванали да хул</orth>
+        </form>
+        <sense>
+          <def>ат свойа господар . . .; с Гурмазово, Софийско, Архив Болг. диал. словаря, София), др.-</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>б</ref>$\естъ amentia, cbrovoia</orth>
+        </form>
+        <sense>
+          <def>безумие (Пат. печ. сл.), impietas, cbepeta нечестие (Златостр. X I I в.), xevo8o£ta, то&lt;ро&lt;;, dXaCoveta, contumacia тщеславие, заносчивость (Поуч. Влад. Моя.), minae угроза (Муч. Еразм., Мин. Чет.), ftocpoonqs, Odpaog, audacia запальчивость, смелость, храбрость</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Троицк, л. под 1 2 2 3 г. и др.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Срезневский I, 1 9 1 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>буестъ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>отвага, удаль , отвага, доблесть (южп.-сиб., сиб., енис), глу­ пость, невежество</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(сиб., Опыт 1 6 )</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Акад. 1 8 4 7 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3 , 2 5 2 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ostb</ref>
+        </m> от <ref type="etymon" target="bujb">*bujb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

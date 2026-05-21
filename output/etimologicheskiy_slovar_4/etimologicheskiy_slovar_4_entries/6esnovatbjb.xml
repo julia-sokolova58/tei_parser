@@ -1,0 +1,25 @@
+<Entry xml:id="6esnovatbjb">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>6esnovatbjb</orth>
+    <lemma>6esnovatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чесноватыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесночный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Диоптр. Филип., Срезневский III, 1503)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. а1ъ]ь от<ref type="etymon" target="cesnovb">*cesnovb</ref> (см.), ср. ниже <ref type="etymon" target="cesno-">*cesno-</ref>
+vitbjb; или с суфф. -оиаЬъ]ъ — от <ref type="etymon" target="cesnb">*cesnb</ref> (см.)?</gram>
+  </gramGrp>
+</Entry>

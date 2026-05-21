@@ -1,0 +1,63 @@
+<Entry xml:id="bukovica">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bukovica</orth>
+    <lemma>bukovica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буковйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подорожник Plantago</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>biikovica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес, растение Thymus ser- pillum L. , Bukovica ж. p., название села в Хорватии , Буковйца ж. p., область в сев. Далмации, название ряда гор, населенных пунктов, фамилия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 725—726; PGA II, 272)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 726)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bukovica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>местность, порос­ шая буком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bukovice</ref> мн. ч. ж. р . , местн. назва­ ние .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 202)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="ikoi">*Ьикоиъ</ref> 
+(см.), субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

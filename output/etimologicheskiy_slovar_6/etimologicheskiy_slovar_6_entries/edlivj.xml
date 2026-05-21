@@ -1,0 +1,93 @@
+<Entry xml:id="edlivj">
+  <pb n="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdьlivъ(jь)</orth>
+    <lemma>ĕdьlivъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jediv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>раздражительный, вспыльчивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 537; см. также РСА VIII, 644)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jedljiv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>съедобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedliuy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прожорливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 609)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>idlivd</ref> voda, также jidlivd roda</orth>
+      </form>
+      <sense>
+        <def>родниковая, минеральная вода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedliuy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вспыльчивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jadl</ref>&amp;vi, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вспыльчивый, гневливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 375)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едлйвый</ref>, -аяу -ое</orth>
+      </form>
+      <sense>
+        <def>прожорли­ вый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 8, 321)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъИиъ</ref>
+      </m> от гл. <ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="edmb-5">*edmb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

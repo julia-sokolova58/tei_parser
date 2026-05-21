@@ -1,0 +1,71 @@
+<Entry xml:id="bezgrivbjb">
+  <pb n="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgrivb(jb)</orth>
+    <lemma>bezgrivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзгрив</ref>, -а&gt; -о</orth>
+      </form>
+      <sense>
+        <def>без гривы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezhrwy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>без гривы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezgrzywy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безгрйвый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безгрйвый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имею­ щий вовсе гривы или весьма малую</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безгрй</ref>­ вый, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий гривы, безгрйвый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39; Укр.-рос. словн. I, 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-41">*bez</ref> (см.; там же — о дан­
+ном типе прилаг-ных, характеризуемых как архаичные) и имен­
+ной основы <ref type="etymon" target="griva">*griva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

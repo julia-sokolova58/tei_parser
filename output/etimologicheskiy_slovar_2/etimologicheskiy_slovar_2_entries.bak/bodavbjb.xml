@@ -1,0 +1,69 @@
+<Entry xml:id="bodavbjb">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodavb(jb)</orth>
+    <lemma>bodavb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodava</orth>
+    <lemma>bodava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бодав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bodavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колючий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bodavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колючий , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bodawa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>топор, штык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бодаешь</ref> xepaxionfjs, cornupeta</orth>
+      </form>
+      <sense>
+        <def>бодливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XXI, 29, Срезневский I, 240)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -av- от основы гл.<ref type="etymon" target="bodg-4">*bodg</ref>, <ref type="etymon" target="bosti-5">*bosti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Варбот. Древнерусское именное словообразование 159, 166, 169. Ни исконность вокализма корня, ни — в целом — древность образования не представляются бесспорными.</note>
+</Entry>

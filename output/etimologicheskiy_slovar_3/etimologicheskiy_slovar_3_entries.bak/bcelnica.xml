@@ -1,0 +1,65 @@
+<entries>
+  <entry xml:id="bcelnica" xml:id="bcelnica">
+    <pb n="106" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъčelьnica</orth>
+      <lemma>Ьъсе1ьшса</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>cebelnica</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пчелиный улей</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>vcelnice</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пасека, пчельник</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>vcelnica</ref> ж. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(SSJ V, 33)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>colnica</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пчельник</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb" type="dialect">диал. <ref>pcolnica</ref> ж. р. то же .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Muka Sj. II, 31)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ica</ref>
+        </m> от прилаг. <ref type="etymon" target="yoe1p">*Ьъёе1ъпъ</ref> 
+(см.), 
+субстан­
+тивация этого последнего.</gram>
+    </gramGrp>
+  </entry>
+</entries>

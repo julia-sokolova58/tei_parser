@@ -1,0 +1,38 @@
+<Entry xml:id="bagvinje">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagъvinьje</orth>
+    <lemma>bagъvinьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>баговйння</ref>, ср. р.</orth>
+      </form>
+      <sense>
+        <def>род водорослей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. - <ref>багавтьне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>водоросли, тина,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на<m type="suffix">
+        <ref>-in-bje</ref>
+      </m> от основы bagbu- (см. 
+<ref type="etymon" target="bagy">*bagy)</ref>.</gram>
+  </gramGrp>
+</Entry>

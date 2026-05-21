@@ -1,0 +1,68 @@
+<Entry xml:id="dzdzevica">
+  <pb n="193" end_page="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždževica</orth>
+    <lemma>dъždževica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>даждбвица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода, кот. со­ бирают для стирки и мытья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>даждевица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацип, РСА IV, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дошн</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>авыца ж. р. дождевая вода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского Полесья. — «Лексика По- лесья» 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>дажджэвща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождливая погода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяцко, Зэльв. 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="dbzdzevb">*dbzdzevb</ref> 
+(см.); субстан­
+тивация, 
+свертывание 
+первонач. 
+двучленного 
+словосочетания 
+<ref type="etymon" target="dbzdzevaja">*dbzdzeva(ja)</ref> 
+voda, откуда объясняется и форма ж. рода <ref type="etymon" target="dbzd-">*dbzd-</ref>
+ievica.</gram>
+  </gramGrp>
+</Entry>

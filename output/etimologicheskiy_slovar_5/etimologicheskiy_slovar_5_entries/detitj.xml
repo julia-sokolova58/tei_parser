@@ -1,0 +1,54 @@
+<Entry xml:id="detitj">
+  <pb n="15" end_page="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtitjь</orth>
+    <lemma>dĕtitjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^тифА м. p. infans</orth>
+      </form>
+      <sense>
+        <def>младенец, детище (Mild., Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djemuh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(женатый) мужчина, юноша, парень, молодец, ребенок, также детиК м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>detic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мальчик, парень, юноша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дЪтичъ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Аще ли будеть старъ, или дЪтичъ, да вдасть золотникъ е. Дог. Иг. 945 г. по Ип. л., Срезневский I, 796)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с патронимич. суфф. -Ц]ь от<ref type="etymon" target="sh">*Шъ</ref> (см. <ref type="etymon" target="dete-2">*dete)</ref>. 
+<ref type="etymon" target="deti">*deti</ref> (см.). 
+^
+Шъко / <ref type="etymon" target="detbka">*detbka</ref>
+    </gram>
+  </gramGrp>
+</Entry>

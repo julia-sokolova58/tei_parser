@@ -1,0 +1,94 @@
+<Entry xml:id="gutati">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gutati</orth>
+    <lemma>gutati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hdtati</ref> (si)</orth>
+      </form>
+      <sense>
+        <def>размышлять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hutatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ду­ мать, размышлять , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hdtatH</ref> si . — Недостаточно ясна связь с вост.-слав.:</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гутатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колыхать (ребенка), подбрасывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Растор­ гуев. Словарь нар. говоров Зап. Брянщины 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гу</ref>- mdrri &gt;</orth>
+      </form>
+      <sense>
+        <def>качать, колыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Из лексики полесского села Листвин. — Лексика Полесья 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гутацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>качать, колы­ хать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гутацъ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Расторгуев, Севорск.-блр. 142; Полевой, Новозыбк. 29)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Предполагается стар. гл. (интенсив) с суф.<m type="suffix">
+        <ref>-t-ati</ref>
+      </m>, 
+производный 
+от и.-е. <ref type="etymon" target="gou-">*gou-</ref>.</gram>
+  </gramGrp>
+  <note>См. Machek 2 192 (относит сюда же чеш. zkoumati). Неубедительна реконструкция и этимология *gqtati, якобы род­ ственного<xr type="compare">см. <ref type="etymon" target="gbnati">*gbnati</ref>
+    </xr> с семантич. развитием 'cogitare' &lt;- 'agere' 
+(S. Ondrus. Vyznam a povod slovies 
+hdtaf 
+— hdtorW.—Slov. 
+rec. 
+35, 1970, 334—335).</note>
+</Entry>

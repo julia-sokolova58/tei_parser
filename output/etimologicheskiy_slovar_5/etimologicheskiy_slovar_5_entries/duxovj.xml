@@ -1,0 +1,110 @@
+<Entry xml:id="duxovj">
+  <pb n="152" end_page="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxovъ(jь)</orth>
+    <lemma>duxovъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>духов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>духовный , сло­ вен. duhov, прилаг., напр. dahouo троица (день)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duchovy</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duchooy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>duchowy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>duchcwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душевный, духовный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХховъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1406 г., Срезневский I, 747)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>духовой</ref>, -ая, -бе</orth>
+      </form>
+      <sense>
+        <def>душистый (орл., урал., ворон., астрах., пенз., моек., курск., свердл., перм., хакас), капризный, своенравный (влад.), озор­ ной, бойкий, разбитной, развязный (пенз., сарат.), храбрый, боевой, смелый (пенз.) , сюда же субстанти­ вированное производное духовйца ж. р. болезнь, сопровождаемая сильной одышкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 279—280)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лит. ССР, Латв. ССР, Филин 8, 279)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>духовий</ref>, -a, -e</orth>
+      </form>
+      <sense>
+        <def>духовный, к духу относящийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>духовы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>духогой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 99)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="a-3">*а</ref>\схъ (см.).</gram>
+  </gramGrp>
+</Entry>

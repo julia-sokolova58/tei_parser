@@ -1,0 +1,157 @@
+<Entry xml:id="dvorisce">
+  <pb n="169" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvorišče</orth>
+    <lemma>dvorišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дворище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>разгороженный двор, большой двор , ЛОТОК для промывания руды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двориште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>большой двор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>двдрйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, где раньше был двор, также двдрйште ср. р. двор при доме (КарациЬ), двдрйште, двдрйште ср. р. двор, подворье, скотный двор, загон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvorlsce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>двор, пространство двора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>dvofiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, где был двор, (диал.) двор</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dworisdo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>двор; место под двором</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>dworzyszcze</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крестьян­ ское хозяйство определенной величины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1357 г., Si. stpol. II, 242—243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dworzyszcze</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>большой двор, участок, крестьянский хутор, усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvuoresce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, расположение двора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дворище</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Церковь каменная Школая чюдотворца, яже и донын-Ь словетъ Ярославле дворище. Новг. III л. под 1030 г., Срезневский I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дворище</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>место, отведенное для застройки (волог., твер., арх., ряз.), усадебный земельный участок (олон., волог., твер., ярое л.), расчищенное в лесу место (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дворище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дворище, место, где был двор, усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>двбрышча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>усадьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="dvorb">*dvorb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

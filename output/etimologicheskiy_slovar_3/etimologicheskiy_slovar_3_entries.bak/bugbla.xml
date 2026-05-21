@@ -1,0 +1,88 @@
+<Entry xml:id="bugbla">
+  <pb n="78" end_page="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bugbla</orth>
+    <lemma>bugbla</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bugT&gt;ta</orth>
+    <lemma>bugT&gt;ta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бугла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид женского свадебного украшения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бугла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>забота, повсе­ дневная суета, помеха в работе , ср. также Геров: бугла ж. р. свадебное веселье, забота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. стар, <ref>бугла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>забота, мука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>б</ref> у гол</orth>
+      </form>
+      <sense>
+        <def>большой камень в реке . —Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(закарп., Т. А. Марусенко. Материалы к словарю украинских географических апеллятивов (названия рельефов). — «Полесье» 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>буглав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>полный, круглолицый . Наконец, неясно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бугблъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пестрина, пежина, ласа, особенно в шерсти животных</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 333)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Несмотря на очевидное различие знач-й привлеченных выше слов ('вид женского украшения', 'большой камень', 'забота'), каждое из них может быть понято как продолжение одной и той же семантически емкой основы *bug- &lt; и.-е. *bheug(h)-l*bhoug(h)- ' гнуть', 'губить, удручать'.</note>
+  <gramGrp>
+    <gram>Представленное здесь производное с суфф. -ъ1-<ref type="etymon" target="bug-bl-">*bug-bl-</ref> 
+можно сравнить с др.-сакс, arm-bugil 
+'брас­
+лет', где тот же этимологический корень оформлен тождественным 
+суффиксом.</gram>
+  </gramGrp>
+  <note>Сравнение болг. бугла с др.-в.-нем. boug 'перстень', Ьоис 'ожерелье' см. Младенов Е П Р 48. В новом болг. этимол. словаре (Георгиев Б Е Р ) почему-то пропущено.</note>
+</Entry>

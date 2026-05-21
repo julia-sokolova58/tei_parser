@@ -1,0 +1,67 @@
+<Entry xml:id="cerpica">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerpica</orth>
+    <lemma>cerpica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crepica</ref> ж. y.=stresna орека</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черепица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глиняная жженая плита для крыш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1313)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>черепица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>битые черепени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черепйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>у горшечников слой бракованной посуды, накла­ дываемый на своды гончарной печи; на него ставят подлежащую обжиганию посуду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарапща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.; Сцяшков1ч. Грод. 546)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="segr">*сегръ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

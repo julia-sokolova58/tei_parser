@@ -1,0 +1,27 @@
+<Entry xml:id="glbeti">
+  <pb n="161" end_page="162" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glьbĕti</orth>
+    <lemma>glьbĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глъбЪти</ref>, глъбЪти</orth>
+      </form>
+      <sense>
+        <def>тонуть, вязнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр. XVI в., Срезневский I, 522)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="glibati">*glibati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Ber­ neker I, 310. 'glbbnqti</note>
+</Entry>

@@ -1,0 +1,36 @@
+<Entry xml:id="bugavb">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bugavb</orth>
+    <lemma>bugavb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бугае</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>умственно недоразвитый, слабоумный (Разложко, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>бугае</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бедный, убогий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., старое производное с суфф. -av- от остаточно представ­ ленного корня — слав.<ref type="etymon" target="bug-">*bug-</ref> 
+(ср. соседние 
+словарные 
+статьи) 
+&lt; и.-е. <ref type="etymon" target="bheugh-">*bheug(h)-</ref>, 
+с развитием знач. 'гнуть' -&gt; 'губить'.</gram>
+  </gramGrp>
+</Entry>

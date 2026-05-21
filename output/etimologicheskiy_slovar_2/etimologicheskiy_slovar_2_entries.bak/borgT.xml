@@ -1,0 +1,95 @@
+<Entry xml:id="borgT">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borgT</orth>
+    <lemma>borgT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brah</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стог, возм., также яма, ср. ум. brdzek, cava, fossa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 92; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. редк. <ref>brog</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скирда, стог, куча, громада</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>bargy</ref> bark</orth>
+      </form>
+      <sense>
+        <def>стог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1378 г., St. stpol. I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brog</ref>, род. п. brogu, м. р.</orth>
+      </form>
+      <sense>
+        <def>помещение для сена, хлеба, корма скоту, состоящее из четырех столбов и съемной крыши, стог сена или копна хлеба, прикрытые сверху</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 669—670)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>broag</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стог сена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 6opie, <ref>род</ref>. п. борога, м. р.</orth>
+      </form>
+      <sense>
+        <def>крыша на четырех столбах, под которой складывают сено или разный хлеб . — Возм., сюда же производ­ ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>braganja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вид сети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 426)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="borgb">*borgb</ref> 
+представляет собой типичное производное 
+отглагольное имя с -о-вокализмом, соотносительное с гл. <ref type="etymon" target="bergt">*bergt</ref>'i 
+(см.).</gram>
+  </gramGrp>
+  <note>О связи с последним гл. свидетельствует и семантика при­ веденных выше продолжений праслав. *borgb, обозначающих укрытие, крышу и смежные реалии. См. A. Meillet MSL 14, 1907, 384; см. далее Miklosich 19: Berneker I, 73; Bruckner 41; Slawski I, 44; Machek 40; Фасмер III, 106 (s. v. оборбг); J. Basara PJ 1958, 118. Мы предпочитаем говорить о соотносительности, а не о произ- водности *borgb &lt;С *bergt4 на слав, почве, поскольку имеются основания предполагать дослав., и.-е. древность образования имени *Ьо^ъ. В качестве близких и.-е. формальных и семантич. соответствий праслав. *borgb назовем субстратное (рето-иллир.) слово barga &lt;С *borga 'крытая соломенная хижина', сохранив­ шееся в ретороманской области в виде bargia, сюда же нем. диал. (алеманнск.) die Barge, ю.-швейц. bargon 'каменный хлев'. О роман, barga в знач-ях, близких слав, слову, см., без приве­ дения слав, форм, J. Briich WuS VII, 1921, 156; Pokorny I, 145 (относит к и.-е. *bhergh- 'беречь, прятать, сохранять'; слав, имя не упоминается). Наконец, с праслав. *borgъ допустимо на тех же основаниях сближать кушан, раруо 'сооружение, храм, святыня' (семантически ср. польск. brog в знач. 'лютеранская или кальви­ нистская молельня'! — Приводится Брюкнером, там же), также возводимое с аблаутом к и.-е. *bhergh- 'охранять, хранить' см. W. Brandenstein. Kusanisch (Зар-р. — «Indo-Iranian Journab V, 1962, 233 и след., без слав. *&amp;ог#ъ).</note>
+</Entry>

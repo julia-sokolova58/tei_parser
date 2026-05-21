@@ -1,0 +1,168 @@
+<Entry xml:id="yogpau">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёьгпауъ(|ъ)</orth>
+    <lemma>ёьгпауъ(|ъ)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Cbnave</ref> ж. р. мн. ч., название села в Сербии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIII в., RJA I, 840)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnav</ref>, -dva&gt; прилаг.</orth>
+      </form>
+      <sense>
+        <def>черноватый , также субстантивное ernjdva ж. р. чернота, тем­ ная сердцевина дерева , ernjdv ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ёегпаиу</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>черноватый, темноватый, также субстанти­ вированное ёегпаоа ж. р. черная туча, черная, вспаханная земля</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ёегпаиа</ref>, ёегпаиа</orth>
+      </form>
+      <sense>
+        <def>чёрная, грозная туча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubfn. Cech. klad. 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ёегпаиу</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>тёмный, черноватый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>carnawy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черноватый, смугловатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>earn</ref>&amp;v</orth>
+      </form>
+      <sense>
+        <def>i, прилаг. черноватый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрнАва</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>треволнение (Златостр. XII в.), покаяние (Ефр. Сир. XIV в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1566— 1567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чернЛвый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черноватый, о человеке, черноволосый и смуглый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. (субстантивированное) <ref>чернява</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чернь, толпа народа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем., Гринченко IV, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарнАвы</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>смуглый, чернявый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чырнА</ref>- вый то же . — Сюда же суффиксальные производные (субстантивация)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Мапл. 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црнавица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мрак, тьма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>chndvka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>синяк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 848)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at;- от<ref type="etymon" target="yogp">*ёъгпъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Miklo- sich. Vgl. Gr. II, 220 (в частности, о вторичности этого адъек­ тивно-субстантивного суфф.). Об употреблении в ономастике см. специально F. Cufin. Mistni jmeno Cernava. «Onomasticke prace. Sv. 2. Sbornlk . .. k 70-ym narozeninam W. Taszyckeho» (Praha, 1968) 37 и сл.</note>
+</Entry>

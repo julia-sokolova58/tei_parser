@@ -1,0 +1,91 @@
+<Entry xml:id="dozor">
+  <pb n="90" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dozorъ</orth>
+    <lemma>dozorъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dozor</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>надзор, контроль; присмотр</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dozor</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dozor</ref>, род. п. dozoru, м. р.</orth>
+      </form>
+      <sense>
+        <def>надзор, контроль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dugzor</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>надзор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дозор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обход для осмотра чего-либо, особенно в ночное время</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дозор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>надзор, присмотр , дазор присмотр за кем-нибудь: за слабым, старым, больным (П. А. Рас­ торгуев. Словарь народных говоров Зап. Брянщины)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., перм., калуж., Филин 8, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дозгр</ref>, род. п. -збру, м. р.</orth>
+      </form>
+      <sense>
+        <def>досмотр, присмотр, надзор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 411)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дазор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дозор, надзор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="dozbreti">*dozbreti</ref> / <ref type="etymon" target="dozirati">*dozirati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

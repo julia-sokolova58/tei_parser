@@ -1,0 +1,110 @@
+<Entry xml:id="gana">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gana</orth>
+    <lemma>gana</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hana</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(tu t' take pl(e)§ka svu miezhu, svu zlutu barvu, jenz na hanie vydana jest, proti nam nez[§6e. Tkadleuek. Ed. Hruby a Simek 192; 'обида': stran mezi nimi zbehle hanny, i odhany. Kfemen. Pfisp. z piseckych arch. LF XLIV. Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>порицание, хула, брань, посмеяние, изъян, недостаток, проступок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 408)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hana</ref>: neni hany</orth>
+      </form>
+      <sense>
+        <def>без изъяна, доброкачественное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 90; Gregor. Slov. slavk.-bucov. 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>порицание, хула</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 457)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gana</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>порицание, хула</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 800)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>порицание, бесчестие, поношение, стыд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ган</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>порок, изъян</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай- коу — Некраш. 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поношение, порицание . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народнае слова 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>ганка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>загадка, рассказ, анекдот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 185)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="ganati-2">*ganati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Образование сущ. со знач. 'порицание' от гл. речи естественно. Самостоятельная этимология, а именно — заимствование из ср.-в.-нем. honay нем. Hohn 'на­ смешка' — маловероятна фонетически (поздняя субституция нем. о как слав, а?), вопреки попыткам обосновать эту этимологию (см. V. Vazny NU 41, 1958, 279). См. еше Machek 2 159, где содер­ жится новое крайне проблематичное сближение с греч. 6vop,at 'по­ рицать' .</note>
+</Entry>

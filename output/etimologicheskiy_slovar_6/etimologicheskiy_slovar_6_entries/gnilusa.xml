@@ -1,0 +1,74 @@
+<Entry xml:id="gnilusa">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gniluša</orth>
+    <lemma>gniluša</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнилуша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнилая груша, гнилое яблоко и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнилуша</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>человек, бо­ леющий сифилисом (волог.), бранное слово (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнилуша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>третья четверть луны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. (<ref>производное</ref>) гныушт мн.</orth>
+      </form>
+      <sense>
+        <def>гнилые щепки . — Ср. сюда же, без йотового расшире­ ния</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнилуха</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>речка, поросшая болотистой растительностью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Jurkowski SOr XII, 1963, 462)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-иёа</ref>
+      </m> от <ref type="etymon" target="gnife">*gnife</ref> 
+(см.). или, скорее, <ref type="etymon" target="gnila">*gnila</ref> 
+ж. р.; субстантивация 
+последнего, с оттенком экспрессивной 
+оценки.</gram>
+  </gramGrp>
+</Entry>

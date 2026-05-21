@@ -1,0 +1,156 @@
+<Entry xml:id="dospeti">
+  <pb n="83" end_page="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dospĕti</orth>
+    <lemma>dospĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref> о ^ т и</orth>
+      </form>
+      <sense>
+        <def>дойти, достичь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>досщети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>созреть, успеть, прийти вовремя, иметь свободное время, (диал.) кончить, доспёт обеднеть, иметь свободное время, успеть (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dospĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достигнуть, прибыть, созреть, поспеть, хватить, быть достаточным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dospĕti</ref> достигнуть, прибыть</orth>
+      </form>
+      <sense>
+        <def>, созреть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dospief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прийти, прибыть; достигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dojspie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спешить куда, дости­ гать, достигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 726)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>doupiee</ref>, do§pia6</orth>
+      </form>
+      <sense>
+        <def>поспеть, созреть, развиться,успеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доспЪти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>предупредить, успеть , окончить, соорудить , приготовить , поспешить , устроить , собраться, изготовиться , доспЪ- тисА становиться , совершиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Нест. Бор. Гл. 44; Дан. иг. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кипр. м. поел. иг. Аф. 1390 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Соф. вр. под 1472 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. П47 г.; Лавр. л. под 1177 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 711)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Соф. вр. под 1491 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. 1514 г., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доспеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>созреть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>docnimu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дозреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 430)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дасъпёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дозреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-24">*do</ref> (см.) и <ref type="etymon" target="speti">*speti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

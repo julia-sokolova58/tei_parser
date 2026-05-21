@@ -1,0 +1,87 @@
+<Entry xml:id="dojti">
+  <pb n="57" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьti</orth>
+    <lemma>dojьti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дойти</ref> ecpuvela&amp;ai, cpfrdveiv, pervenire; xaxaXa^avetv, оссираге</orth>
+      </form>
+      <sense>
+        <def>ДОЙТИ, прийти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дбйда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дойти, прийти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дбйда</ref>, дбда , дбда, дба</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58, 59)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.—БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>dojde</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прийти; приехать, прибыть, дойти, доехать, настать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дбКи</ref>, дд1)ём</orth>
+      </form>
+      <sense>
+        <def>прийти, также дойсти</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>doh</ref> (Елез. I), до]</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>doiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дойти, прибыть, догнать, настигнуть, достигнуть , также dojti (Plet</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 148)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>I, 149), чеш. dojiti, dojdu 'дойти, прийти', 'догнать, настигнуть', 'достигнуть, завладеть, овладеть', слвц. dojsi* 'дойти, прийти', 'достигнуть, настигнуть, застать' (SSJ I, 320—321), в.-луж. done 'дойти' (Pfuhl 133), н.-луж. doje 'дойти', 'пойти', 'достиг­ нуть, получить' (Muka St. I, 182), польск. dojsc 'ДОЙТИ' (Dorosz. И, 208), диал. done то же (Warsz. I, 547), словин. dole 'дойти' (Lorentz Slovinz. Wb. I, 401), др.-русск. дойти, доидХ 'прийти' (Быт. X. 19 по сп. XIV в.; Нест. Жит. Феод. 5), 'достигнуть' (Изб. 1073 г., Сб. 1076 г.), 'достигнуть, получить' (Панд. Ант. XI в. л. 35; Уст. гр. Смол. 1150 г.) (Срезневский I, 691), русск. дойти, дойду, диал. дойти 'израсходоваться, прекратиться, выйти' (Богор. у., Е. Ф. Будде. О некоторых народных говорах в Туль­ ской и Калужской губерниях. — ИОРЯС III, 1898, 852), укр. дштй, дшду 'дойти, подойти', 'прийти, зайти к кому', 'достиг­ нуть чего-либо', 'добиться, узнать, вникнуть, выследить', 'кон­ читься', 'кончиться, умереть' (Гринченко I, 435), диал. до]ты 'получить по праву; получить обратно' (Ф. Д. Климчук. Специ­ фическая лексика Дрогичинского Полесья. «Лексика Полесья» 31), блр. дайщг 'дойти'.</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-13">*do</ref> (см.) и <ref type="etymon" target="jbti">*jbti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

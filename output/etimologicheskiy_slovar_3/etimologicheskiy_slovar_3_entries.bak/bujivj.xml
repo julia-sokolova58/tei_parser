@@ -1,0 +1,31 @@
+<entries>
+  <entry xml:id="bujivj" xml:id="bujivj">
+    <pb n="84" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bujivъjь</orth>
+      <lemma>bujivbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bujivy</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>буйный</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>бЪивыи</ref> stolidus, [хшрод .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(ГърддщесА и боуивыга. Ефр. Крм., Срез­ невский I, 1 9 2 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -iv- от <ref type="etymon" target="bujb">*bujb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

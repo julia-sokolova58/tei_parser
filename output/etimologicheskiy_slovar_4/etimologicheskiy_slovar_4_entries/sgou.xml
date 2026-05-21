@@ -1,0 +1,84 @@
+<Entry xml:id="sgou">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>СЬГ!;ОУЪ</orth>
+    <lemma>СЬГ!;ОУЪ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Crtova</ref>, Cftovo в местн. названиях</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA I, 850)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>certuv</ref>, -ova, -ovo</orth>
+      </form>
+      <sense>
+        <def>чертов, чертовский , certovy проклятый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>certova</ref> (zena)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cartowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёртов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>принадлежащий черту</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чбртьв</ref>, -ова, -ове</orth>
+      </form>
+      <sense>
+        <def>принадлежащий, свойственный черту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чбртау</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чёртов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф.<m type="suffix">
+        <ref>-ozr</ref>
+      </m>&amp; от <ref type="etymon" target="sn-4">*съНъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

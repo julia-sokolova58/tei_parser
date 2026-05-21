@@ -1,0 +1,41 @@
+<Entry xml:id="bobrava">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobrava</orth>
+    <lemma>bobrava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bobrava</ref> ж. р., название потока , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Regesta Bohemiae et Moraviae, 1311, 1338 гг. — Gebauer I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">слвц. стар. <ref>Bebrava</ref>, название реки</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Smilauer. Vodopis stareho Slovenska 498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Боброва</ref>, название реки .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(см. о последнем: Трубачев. Названия рек Правобережной Украины. М., 1968, 53, 54, 58; Б. и М. Боброва в Среднеднепровском Левобережье)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от<ref type="etymon" target="og-3">*ЬоЬгъ</ref> (см.) с характерным древним «речным» 
+формантом -аиа (общую характеристику ареала слав, гидро­
+нимов на -ava и примеров В obr aval Bebrava в их числе см. Труба­
+чев. Там же).</gram>
+  </gramGrp>
+  <note>Однако не исключается и возможность развития в данном случае исхода -ava из гласного конца основы на -ы *ЪоЪгы-, признаки существования которой сохранились, в част­ ности, и в ономастике, ср. ниже<xr type="compare">см. <ref type="etymon" target="bobmjbskb">*bobmjbskb</ref>
+    </xr>.</note>
+</Entry>

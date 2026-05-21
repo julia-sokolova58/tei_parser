@@ -1,0 +1,26 @@
+<Entry xml:id="eggogp">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьеггогьпъ]ь</orth>
+    <lemma>Ьеггогьпъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бизбрный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>постыдный, унизительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Отдавая себе отчет в очень ограниченном распространении, условно восстанавливаем здесь праслав. форму, ср. при этом оригинальное семант. развитие.</note>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с<ref type="etymon" target="bez-124">*bez</ref> (см.) и -ъп- от основы <ref type="etymon" target="zor-">*zor-</ref>, нередкой в именных 
+сложениях (см. <ref type="etymon" target="pozorb">*pozorb</ref>, <ref type="etymon" target="obzorb">*obzorb</ref> и др.)-</gram>
+  </gramGrp>
+</Entry>

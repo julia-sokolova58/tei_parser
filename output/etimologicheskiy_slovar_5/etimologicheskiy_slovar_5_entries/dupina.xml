@@ -1,0 +1,20 @@
+<Entry xml:id="dupina">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dupina</orth>
+    <lemma>dupina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>доупиил</ref> ж. p.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>OTTYJ, foramen, cavum 'отверстие' (SJS), словен. dupina ж. р. 'дупло' (Plet. I, 185), др.-русск., русск.- цслав. дХпина 'яма, рытвина, ров' (Муч. Дим. Сол. 6, Срезнев­ ский I, 744).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="dupa">*dupa</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

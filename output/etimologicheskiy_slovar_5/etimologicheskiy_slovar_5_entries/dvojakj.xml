@@ -1,0 +1,162 @@
+<Entry xml:id="dvojakj">
+  <pb n="190" end_page="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojakъ(jь)</orth>
+    <lemma>d(ъ)vojakъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двояк</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>двоякий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двощк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоякий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>deojak</ref>, -а, -о то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvojdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>название монеты, гермафродит, обоеполое существо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvojdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>близнец, название монеты в два крей­ цера, двойная посуда, дерево с развилкой, гермафродит , dvojaky, прилаг. двоякий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dvojdky</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близнецы, двойня , dvojaky двойной, двоякий , елвц. dvojaky двоякий*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubfn. Cech. klad. 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dwojaki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоякий, двойной, двух родов , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>diijoce</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоякий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Seh- nert 57, с реконструкцией *dbvojacbjb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>двошыи</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Отрокъ двоякъ Парисъ, л бо л'Ьтъ бывъ погубить цар­ ства Фру писка. Ио. Мал. Хрон., Срезневский I, 647)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двоякий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>являющийся в двух видах, формах; двойной</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>двояк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>один из близнецов (пек., твер.), один из двух человек, делающих что-либо вместе; товарищ в работе, в пути и т. п. (пек., твер.), лодка для двух человек , деревян­ ный брус шириной и толщиной в пятнадцать дюймов (якут.), монета достоинством в 2 коп. (пек., смол., свердл.) , двойка, числ. собир. двое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 304)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двоякий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоякий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дваят</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоякий</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от числ. <ref type="etymon" target="dbuojb">*d(b)uojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

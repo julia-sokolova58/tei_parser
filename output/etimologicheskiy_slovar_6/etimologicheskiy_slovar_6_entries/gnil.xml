@@ -1,0 +1,71 @@
+<Entry xml:id="gnil">
+  <pb n="176" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilь</orth>
+    <lemma>gnilь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gnilau</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гниль</ref> oarcpioc</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 292, Срез­ невский I, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гниль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо сгнившее, испор­ ченное гниением</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гниль</ref> ж. р., собир.</orth>
+      </form>
+      <sense>
+        <def>негодные вещи, домашний хлам, рухлядь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 6, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гниль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко Т, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гнгль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гниль</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Основа на -Х-, образованная от прилаг.<ref type="etymon" target="gnife-2">*gnife</ref> 
+(см.); субстан­
+тивация последнего.</gram>
+  </gramGrp>
+</Entry>

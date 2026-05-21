@@ -1,0 +1,39 @@
+<Entry xml:id="delogadetologa">
+  <pb n="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕloga?/*dĕtologa?</orth>
+    <lemma>dĕloga?/*dĕtologa?</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>detologa</orth>
+    <lemma>detologa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>deloha</ref> ж. p. cmatrix</orth>
+      </form>
+      <sense>
+        <def>(в словарях и лечебниках начиная с XIV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>de</ref>­ loha ж. р. сматка</orth>
+      </form>
+      <sense>
+        <def>, Послед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 225)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Это скорее сомнительное слово Махек объясняет как гаплологию сложения *deto- (<xr type="compare">см. <ref type="etymon" target="dete">*dete</ref>
+    </xr> и родственные) и *-loga ( и родственные) и *-loga ( и родственные) и *-loga ( и родственные) и *-loga (<xr type="compare">см. <ref type="etymon" target="logt">*logъt</ref>
+    </xr> 
+*legt4). 
+*legt4). 
+*legt4). 
+*legt4).</note>
+</Entry>

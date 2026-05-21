@@ -1,0 +1,234 @@
+<Entry xml:id="govbno">
+  <pb n="76" end_page="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>govbno</orth>
+    <lemma>govbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>говно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>человеческие испражнения , ма­ кед. гомно ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>говно</ref> ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>говно</ref> (Елез. I), gomno</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA III, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>govno</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hovno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>экскременты человека или животного, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hovno</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.- bucov. 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hovno</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 515)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>houno</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>howno</ref> cp. p.</orth>
+      </form>
+      <sense>
+        <def>экскременты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gowno</ref> ср. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>oVuna</ref> род. п. ед. ч. ср. р.</orth>
+      </form>
+      <sense>
+        <def>ис­ пражнения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 59, с реконструкцией *govbna)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gowno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>экскременты, нечистоты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gouvne</ref> ср. р. то же , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>говьно</ref> хотирос, stercus ,</orth>
+      </form>
+      <sense>
+        <def>кал, навоз, нечистоты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лев. IV. 11 по сп. XIV в.; Жит. Андр. Юр. 188, Срезневский I, 531)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. об Акире 229. XV в. ~ XI—XII вв. СлРЯ XI—XVII вв. 4, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>говно</ref> ср. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>zieno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кал, помет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 284)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Наиболее вероятна старая этимология, связывающая *govbno с названием крупного рогатого скота—слав.<xr type="compare">см. <ref type="etymon" target="govdo">*gov$do</ref>
+    </xr> 
+и 
+родственными, 
+откуда производное *gov-bno 
+получает объяснение 
+как первонач. 
+название 
+коровьего помета, навоза. См. Р. Брандт 
+РФВ 
+XXII, 
+1889, 
+124; 
+Н. 
+Hirt IF XXXVII, 1917, 227 и сл. 
+(цит. по: JФ III, 1922—1923, 226); Т. Lehr-SpJawinski RS XXIII, 
+1, 
+1964, 
+14; Е. 
+Р. 
+Н а т р 
+RS 
+XXXVIII, 1, 1977, 83. Между 
+прочим, 
+только эта этимология рационально мотивирует наличие 
+здесь производного 
+с 
+суф. 
+-ъпо, 
+собственно прилаг. 
+со знач. 
+бычье, 
+коровье'.</note>
+  <gramGrp>
+    <gram>Можно говорить в таком случае об и.-е. исто­ ках данного производного —<ref type="etymon" target="g-5">*g</ref>
+you-ino-, 
+ср. лат. bovinus, 
+больше 
+того в отношениях 
+слав, 
+и лат. слов целесообразно усматривать 
+старую 
+изоглоссную 
+связь 
+(о 
+параллелизме 
+мешает 
+говорить
+архаич., неинновационный характер слав, слова) двух однотипных 
+прилаг. от и.-е. <ref type="etymon" target="g-6">*g</ref>^ou- 'крупный рогатый скот.' Другая, не менее 
+старая 
+этимология 
+сближает 
+слав. 
+<ref type="etymon" target="govbno">*govbno</ref> 
+с целой серией наз­
+ваний 
+нечистот 
+и экскрементов — арм. ки, др.-инд. gutha, авест. 
+guba-, 
+как бы не интересуясь 
+конкретным производным 
+слав. 
+gov-ьпо 
+и его суффиксом, и возводит 
+все эти соответствия к осо­
+бому и.-е. 
+<ref type="etymon" target="g-7">*g</ref>
+J<ref type="etymon" target="ou-">*ou-</ref> 
+'нечистоты, экскременты', кстати, фонетически 
+совпадающему 
+с <ref type="etymon" target="g-8">*g</ref>^oa- 
+'крупный 
+рогатый 
+скот', 
+упомянутому 
+выше.</gram>
+  </gramGrp>
+  <note>См. Н. Hubschmann KZ XXIII, 1877, 21; A. Meillet. Etudes II, 452; Berneker I, 339; Bruckner 154; Pokorny I, 483— 484; Фасмер I, 424; Stawski I, 331; Machek 3 181.</note>
+</Entry>

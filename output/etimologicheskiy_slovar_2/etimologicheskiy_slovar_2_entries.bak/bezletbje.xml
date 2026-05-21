@@ -1,0 +1,28 @@
+<Entry xml:id="bezletbje">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezletbje</orth>
+    <lemma>bezletbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безлётье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>несчастье, невзгода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(моек., яросл., Филин 2, 192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью префикса<ref type="etymon" target="bez--6">*bez-</ref> (см.) и суфф. -bje от основы имени <ref type="etymon" target="sho">*Шо</ref> (см.), ср., впрочем, 
+еще прилаг. <ref type="etymon" target="bezletbnbjb">*bezletbnbjb</ref> 
+(след.).</gram>
+  </gramGrp>
+  <note>В семант. отношении можно сравнить *bezletbje с<xr type="compare">см. <ref type="etymon" target="bezgodbje">*bezgodbje</ref>
+    </xr> с аналогичным семант. раз­
+витием 'безвременье' -&gt; 'несчастье', 'неурожай'.</note>
+</Entry>

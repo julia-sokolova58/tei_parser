@@ -1,0 +1,52 @@
+<entries>
+  <entry xml:id="blbot" xml:id="blbot">
+    <pb n="116" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъlbotъ</orth>
+      <lemma>bblbotb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>blbot</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бульканье, клокотанье (воды)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 101)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>bMbet</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>лепет, бормотанье</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. Wb. I, 83)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>болбот</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>болтун</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 83)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-о1ъ</ref>
+        </m> от гл. <ref type="etymon" target="bblbati">*bblbati</ref> 
+(см.); соотносительно 
+с <ref type="etymon" target="bblbotati">*bblbotati</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

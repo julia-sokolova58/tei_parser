@@ -1,0 +1,137 @@
+<Entry xml:id="bolnbje">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolnbje</orth>
+    <lemma>bolnbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bldni</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>луг, газон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">стар. <ref>Ыапё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>луг, выгон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ыоте</ref>, род. п. -тепа, ср. р.</orth>
+      </form>
+      <sense>
+        <def>пажить, долина, общественный выгон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>Ыапё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>луг &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 38, с реконструкцией *bolnbje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blonie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>открытое, ровное пространство, покрытое травой; большой выгон, луг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 573)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>болонию</ref>, болоные</orth>
+      </form>
+      <sense>
+        <def>низменное поречье, покрытое травою</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1096 г., Лавр. л. под 1144 г., Срезневский I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балбнъе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>низкое место, залитое водою , балбнъя луг заливной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Халанский. О некоторых особенностях на­ родного говора в северной части Путивльского у. Курской губ. — РФВ XVI, 1886, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болонье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>просторная равнина, покрытая травой; большое пастбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ЮРГр. № 24 — 1391 г.; Ак. ЗР I, 145 — 1494 г. и др., Тимченко I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болбння</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>низменное луговое пространство , болонне то же (Картотека украинского академического словаря), бо­ лот равнина, пастбище , бо­ лонке болото , балуонне плесо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вслед за Желеховским см. Т. А. Ма- русенко. Материалы к словарю украинских географических апел- лятивов [названия рельефов]. — «Лексика Полесья», 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Г. Ф. Шило. Швденно-захщш говори УРСР на швшч вщ Дшстра 241)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Слов­ ник д1алектно*1 лексики середнього i схщного Пол1сся. Кшв, 1961, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>балансе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>молодые посадки деревьев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bje</ref>
+      </m> от основы <ref type="etymon" target="bolna-2">*bolna</ref> (см.) и <ref type="etymon" target="o1p-2">*Ьо1пъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

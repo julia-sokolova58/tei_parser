@@ -1,0 +1,29 @@
+<Entry xml:id="adusb">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>adusb</orth>
+    <lemma>adusb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jadus</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>одышка, удушье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 524)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение приставки а- « и . - е .<ref type="etymon" target="o--2">*о-/</ref>
+      <ref type="etymon" target="yo--2">*ё-)</ref> со значением 
+приближенности и основы dux-, dus- (см. <ref type="etymon" target="duxb">*duxb</ref>, 
+<ref type="etymon" target="dusa">*dusa</ref>, <ref type="etymon" target="dusiti">*dusiti)</ref>, 
+возможно, с одновременным участием суфф. -/ь. Близкие образо­
+вания и этимол. сведения см. под <ref type="etymon" target="aduxa">*aduxa</ref>, 
+<ref type="etymon" target="adusivbjb">*adusivbjb</ref>..</gram>
+  </gramGrp>
+</Entry>

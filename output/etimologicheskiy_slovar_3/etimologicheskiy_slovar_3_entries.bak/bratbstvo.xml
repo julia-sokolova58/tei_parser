@@ -1,0 +1,129 @@
+<Entry xml:id="bratbstvo">
+  <pb n="10" end_page="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratbstvo</orth>
+    <lemma>bratbstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>братство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>братство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>братство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>брат­ ство, землячество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братство</ref>, браство ср. р.</orth>
+      </form>
+      <sense>
+        <def>брат­ ство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdtstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>братство ,слвц. bratstvo ср. р. дружба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bractwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>братство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz, I, 627—628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>brdctue</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . ], 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>братъство</ref> dSeXcpoTijs, fraternitas</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский I, 173—174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>братство</ref> ср. р .</orth>
+      </form>
+      <sense>
+        <def>содружество, единение, союз, родственные отношения между братьями родными, двоюродными и т. д., общество людей, со­ ставляющих союз для какой-либо цели</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>братство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>братство , брацство, брацтво ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>братство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>братство</ref> ср. р,</orth>
+      </form>
+      <sense>
+        <def>общество, из прихожан составившееся на какой-либо богоугодный предмет, во имя какого-либо празд­ ника или святого угодника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собирательное производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от <ref type="etymon" target="ga">*ЪгаЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

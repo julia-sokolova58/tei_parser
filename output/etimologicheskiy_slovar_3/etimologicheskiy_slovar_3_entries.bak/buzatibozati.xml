@@ -1,0 +1,33 @@
+<entries>
+  <entry xml:id="buzatibozati" xml:id="buzatibozati">
+    <pb n="104" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bužati?/*bǫžati?</orth>
+      <lemma>buzati</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bqzati</orth>
+      <lemma>bqzati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бужать</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>умирать, издыхать, околе­ вать, испускать дыхание</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(арх., Д а л ь 3 I, 335, со знаком вопроса)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Недостаточно ясное слово (ср. и характерное 
+распространение 
+в части с.-в.-р. диалектов), сближаемое с лит. bengti 
+'оканчивать', 
+pabanga 
+'окончание'. См. Остен-Сакен у Фасмера 1, 232.</note>
+  </entry>
+</entries>

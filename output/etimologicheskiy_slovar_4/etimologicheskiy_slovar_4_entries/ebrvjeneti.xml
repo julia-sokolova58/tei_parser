@@ -1,0 +1,109 @@
+<Entry xml:id="ebrvjeneti">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ebrv(j)eneti</orth>
+    <lemma>ebrv(j)eneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>червенёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краснеть, делаться красным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 610)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црвенее</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crveneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 854)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>derveneti</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cervenief</ref> (sa)</orth>
+      </form>
+      <sense>
+        <def>краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>eerwjenjec</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cerwenee</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черветти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чырванёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>краснеть, краснеть, багро­ веть, вспыхивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="step">*сът(])епъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,36 @@
+<Entry xml:id="bulica">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bulica</orth>
+    <lemma>bulica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>булица</ref> ж. р., ум. от була, также в знач.</orth>
+      </form>
+      <sense>
+        <def>мак Papaver rhoeas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdlica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пузырек, прыщик, волдырь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pintar I, 4)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с ум. суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="bula">*bula</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,29 @@
+<Entry xml:id="bezkostenb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkostenb</orth>
+    <lemma>bezkostenb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezkosten</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бескостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-47">*bez</ref> (см.) и основы прилаг-
+ного <ref type="etymon" target="kostenb">*kostenb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание своим словообра­ зованием, отличным от двух обычных типов слав, прилаг-ных на bez- (<xr type="compare">см. <ref type="etymon" target="bezkosfojb">*bezkosfojb</ref>
+    </xr>, с основой именного типа, и 
+*bezkostbnbjb, 
+производное на -ъп-). Вторичное, местное образование словен. 
+языка?</note>
+</Entry>

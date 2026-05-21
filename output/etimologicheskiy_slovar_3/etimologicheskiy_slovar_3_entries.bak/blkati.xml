@@ -1,0 +1,133 @@
+<entries>
+  <entry xml:id="blkati" xml:id="blkati">
+    <pb n="117" end_page="118" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъlkati</orth>
+      <lemma>bblkati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. редк.</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>blkati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>полыхать (о пламени), btkat вспы­ хивать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartos. Slov. 19)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>blkat</ref>\ btkat</orth>
+        </form>
+        <sense>
+          <def>пылать, полыхать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 105)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. редк. <ref>betkad</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>болтать (жидкость); волновать (напр., море от ветра)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. 1, И З )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бблкатъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>болтать , баукатъ звонить, звонить в колокола в прямом и пере- носном смысле , балкатъ звонить , болкатъ говорить, болтать (нижегор., тамб.), сболтнуть, проговориться, сказать невпопад (оренб., тамб.) , болкатъ делать движения из стороны в сторону или взад и вперед , болокатъ качать в колыбели ребенка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(тамб., Даль 3 I, 269; Опыт словаря говоров Калининской обл. 33)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(П. А. Расторгуев. Словарь народных говоров Западной Бряшцины, 50)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(сев.-двинск., Филин 2, 82)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3, 75)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Деулинский словарь 62)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(курск., Филин 3, 77)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>ббвкати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>звонить отрывисто; ударять (в колокол), говорить необдуманно , бёвкати звонить раздельно в один колокол</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Грин­ ченко I, 78)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Грин­ ченко I, 36)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>ббвкацъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ныряя в воду, производить звук</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 28)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. звукоподражат. происхождения, ср. параллельное <ref type="etymon" target="iay">*ЬъИаЫ</ref> / <ref type="etymon" target="1-">*Ъъ1-</ref>
+tati (см.).</gram>
+    </gramGrp>
+    <note>Вместе с тем вариант 
+достаточно стар, 
+как 
+о том свидетельствуют 
+образованные 
+также с задненебным рас­
+ширителем близкие звукоподражания 
+ср.-н.-нем. bulken, 
+bulken, 
+нидерл. bulken 
+'реветь', др.-англ. baelcan 
+'кричать', 
+англ. belch 
+'отрыгивать'. См. Berneker I, 117—118 (колеблется между рекон­
+с т р у к ц и я м и 
+и *Ьъ1к-, но сравнения 
+говорят 
+как 
+будто 
+в пользу последней из них); Bruckner 
+20. Ср. также лат. 
+fulgo 
+'сверкать, сиять'</note>
+  </entry>
+</entries>

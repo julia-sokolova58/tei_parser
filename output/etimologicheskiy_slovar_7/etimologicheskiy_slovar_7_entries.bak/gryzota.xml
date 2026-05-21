@@ -1,0 +1,117 @@
+<Entry xml:id="gryzota">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gryzota</orth>
+    <lemma>gryzota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hryzota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>забота, огорчение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 504)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. поэт, <ref>hryzota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тоска, скорбь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 534)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hrizota</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gryzota</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боль, рези в жи­ воте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. p. II, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грызбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>резкая, щемящая боль в желудке (смол.), ссора, брань (смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гризбта</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>печаль, забота, беспокойство, ссора, брань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпатский диал. атлас, карта № 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грызбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выражение неудовольствия частыми выговорами , попреки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грызбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ссора .—Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Мапл. 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйзотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>огрызок, сукус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 628—629)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от гл. <ref type="etymon" target="gryzti">*gryzti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

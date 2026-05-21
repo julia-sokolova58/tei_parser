@@ -1,0 +1,29 @@
+<entries>
+  <entry xml:id="brtodej" xml:id="brtodej">
+    <pb n="132" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrtodĕjь</orth>
+      <lemma>Ьъг;о1ё]ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">ст.-польск. <ref>bartodziej</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пасечник, пчеловод, apiarius, cu­ rator apium</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(St. stpol. I, 68)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Сложение <ref type="etymon" target="n-2">*ЬъНъ/</ref>
+        <ref type="etymon" target="n-3">*ЬъНъ</ref> 
+(см.) и основы гл. <ref type="etymon" target="dejati">*de(ja)ti</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

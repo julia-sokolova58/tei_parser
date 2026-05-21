@@ -1,0 +1,216 @@
+<Entry xml:id="dati">
+  <pb n="194" end_page="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dati</orth>
+    <lemma>dati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>длти</ref>, Д Л М А 8t86vai, dare</orth>
+      </form>
+      <sense>
+        <def>дать, давать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Ассем., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дан</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дйти</ref>, дйц</orth>
+      </form>
+      <sense>
+        <def>дать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ddti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ddti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать, содей­ ствовать, сделать так, чтобы, позволить, доиустить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dot</ref> песеты</orth>
+      </form>
+      <sense>
+        <def>сделать что-либо плохо, кое-как</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>ddti</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Vazny. Stfedovek. list. 11: 1484 г., Vel'ka Bytca , 1458 г., Smolenice)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>daf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать, положить, поста­ вить, причинить беспокойство, уделять внимание, позволить, допустить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 233—235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать, разрешить, допустить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>da</ref>$</orth>
+      </form>
+      <sense>
+        <def>дать, допускать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dot</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>daci</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>due</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать, пустить, допустить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дата</ref>, дамъ</orth>
+      </form>
+      <sense>
+        <def>дать , позволить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Р. Прав. Яр.; Нест. Бор. Гл. 36; Пат. Син. XI в. 259 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Гр. Наз. XI в. 6; Пов. вр. л.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 632—633)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дать</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дати</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 353—354)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дать, Атематич. гл. (ст.-слав. флексия наст. вр. Д А М А , ДЛСИ, Д Л Г Г Ъ , Д Л М Ъ , ддетб, Д Л Д А Т Ъ ) , родственный равнозначным др.-инд. dddati, греч</def>
+      </sense>
+    </item>
+  </etym>
+  <note>StScDfu, арм. tarn, лат. do (инф. dare), лит. стар, duomi, соврем, duodu, duoti, алб. dhashe 'я дал', кот. все вместе про­ должают и.-е. *do- (интерпретируемое также с учётом наличия ларингального как *deh~), включая ступень редукции и нулевую ступень *d(a)-. Сюда же относят оригинальное хетт, da- 'брать'.</note>
+  <gramGrp>
+    <gram>Замечательно полное отсутствие соответствий в герм.: «От и.-е. глагольн. основы<ref type="etymon" target="dd-">*dd-</ref> 'давать' в др.-инд. da-, греч.</gram>
+  </gramGrp>
+  <note>SCSCOJAL, лат. do и т. д. в герм, языках не сохранилось и следа» (Kluge 2 0 237). Такое положение могло быть вызвано конкуренцией богато пред­ ставленных продолжений и.-е. *dhe-, *dfeo- 'класть, делать' (нем. tun и др.) и неизбежной контаминацией с ними. Тенденции к смешению и.-е. *dd- и *dhe-/*dho- существовали, как известно, и в лат. (СхМ. Walde—Hofm. I, 362). Важнейшую проблему и.-е. истоков презентной формы слав. *damb решают двумя различными способами. Индоевропеисты старшего поколения производят слав. *damb (как и лит. стар. ddomi) из *dodmi (ср. Бругман, Мейе, Бернекер, Траутман, Фасмер, Вайан, см. ниже), связывая эту форму, далее, с и.-е. 1 л. ед. ч. *deddmi, 1 л. мн. ч. *dedmes. Однако очевидно, что так называ­ емую «балто-слав.» реконструкцию *dodmi отделяет от и.-е. *dedomi откуда правильно и др.-инд. dadami, греч. 8c8(op.t) непре­ одолимая пропасть, а если углубить реконструкцию *dddmi&lt;C *doddmi (Мейе), то получим совершенно противоположный поря­ док компонентов. С другой стороны, нетрудно заметить, что сня­ тие элемента редупликации в и.-е. праформе *(de)domi дает форму, практически тождественную слав. *йатъ. Апеллировать к случаям вроде ст.-слав. ДДДАТЪ при реконструкции *dadmb излишне, так как здесь, по-видимому, тоже вторичная редуплика­ ция, только иного характера (не *de-do, a *dd-d-). О том, что это возможно, свидетельствует лит. новообразование duodu 'даю'. Отождествление др.-инд. dddati (*ded#ti\) и ст.-слав. ДДДАТЪ (Вайян, ниже) является поэтому одной из компаративистских фикций.. Целесообразно согласиться с теми из лингвистов (Семе- реньи, Махек, ниже), кто восстанавливает слав. *damb&lt;C*domi. Из литературы: G. Meyer ВВ VIII, 1883, 188; Miklosich 39; A. Meillet MSL 14, 1907, 388; Berneker I, 178—179; Brugmann KVGr 496; A. Meillet RES II, 1922, 207; Trautmann BSW 56—57; Мейе. Общеслав. язык ИЗ, 166; Фасмер I, 483; Fraen- kel I, 111—112; Machek 2 111—112; Mayrhofer II, 13; Vaillant. Gramm. сотрагёе III, 2, 452; Szemerenyi. Einftthrung in die verg- leichende Sprachwissenschaft (Darmstadt, 1970) 281—282; J. Kurytowicz. Slavic dami. — «То honor R. Jakobson» 2, 1967, 1127—1131 (цит. по Семереньи); E. H. Sturtevant «Langu­ age» 3, 1927, 216—217; J. Safarewicz «Studia linguistica in hono- rem Th. Lehr-Spiawinski» 136.</note>
+</Entry>

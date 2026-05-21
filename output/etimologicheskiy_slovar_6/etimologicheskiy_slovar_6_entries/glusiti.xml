@@ -1,0 +1,182 @@
+<Entry xml:id="glusiti">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glušiti</orth>
+    <lemma>glušiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глуша</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать, докучать сильным шумом , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глушём</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глуши</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глушити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать, сглушить, заглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glusiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlusiti</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlusW</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колотить, бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hlusic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглу­ шать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glusye</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать, заглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gluszyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глушить, оглушать, заглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 853; Dorosz. II, 1188—1189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glMec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глушить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать глухим или оглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 884)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глушить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать криком (курск.), поить кого-либо алкогольными напитками (волог.), глушить уду наживлять наживку так, чтобы острый конец крючка не колол и не был виден (арх.), портить что-либо , бродить где-либо; бродяжничать , глущйть бродить по зауголью, бродяжничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин, 6, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глушити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглушать, заглушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глушьщь</ref> сзаглушать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), производный от прилаг. <ref type="etymon" target="gluxb-7">*gluxb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

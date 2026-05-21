@@ -1,0 +1,174 @@
+<Entry xml:id="grebati">
+  <pb n="107" end_page="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebati</orth>
+    <lemma>grebati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebati</orth>
+    <lemma>grebati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грёбам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ив. Георгов. Велеш. 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гребати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хоронить , чесать, цара­ пать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 601)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grebati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыть, копать, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfebati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бранить, копаться (напр. руками в земле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 754; Kott I, 489; V—VI, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hfebat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести, сгребать, ругать, бранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrjebac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыться, копаться, хоронить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grebas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шар­ кать, рыть, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzebac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раска­ пывать, рыться, копаться, хоронить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gflebac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыть, копаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гребатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести (веслами) (том.), сгребать сено, солому и т. п. (моек.), гребатъ рой собирать улетевших пчел, рой в роевню, чтобы пересадить его в улей (смол.) , гребатъ •grebti брезговать , грёбйтъ то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тамб., курск., тул., брян., пенз., пек., калуж., орл., смол., донск., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(орл., Даль I, 967)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грёбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брезгать, пренебрегать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грэбацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести (граблями, пальцами), копать</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Дуратив-итератив с расширением на -a-ti от<xr type="compare">см. <ref type="etymon" target="grebti-2">*grebti</ref>
+    </xr>. 
+Зна­
+чение 'брезговать', 
+как 
+и 
+'бранить', 
+развилось 
+из 
+'копать, ко­
+паться', см. Фасмер I, 453—454 (с литер.).</note>
+</Entry>

@@ -1,0 +1,195 @@
+<Entry xml:id="sz">
+  <pb n="140" end_page="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьзь</orth>
+    <lemma>сьзь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чий</ref>, мест, xtvoc cuius</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чий</ref>, чия, чиёу мест,</orth>
+      </form>
+      <sense>
+        <def>чей, чья, чьё</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чи</ref>], мест,</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чй</ref>], чща, чй]ё</orth>
+      </form>
+      <sense>
+        <def>чей , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cegd</ref>, ciga мест,</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ci</ref>, мест,</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ci</ref>, cia, cle, мест, то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>се</ref>/7, ceje, ceja</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ceji</ref>, ceja, ceje/coji, -а, -с, мест,</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czyj</ref>, czyja, czyje, мест, то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ci</ref>, cdu, сё, мест,</orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. 1, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чип</ref>, притяж. воп­ росит, и относит, мест,</orth>
+      </form>
+      <sense>
+        <def>чей (Остр. ев. и др.), чей-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. гр. 1349 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чей</ref>, чья, чьё, мест.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чий</ref>, чиЛ, чиё, мест,</orth>
+      </form>
+      <sense>
+        <def>чей, чья, чье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чей</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *сь]'ь, иначе говоря — *ci-jb, представляет собой про­ изводное с суфф. -/'- (притяжат.) от *ci, формы косв. падежа, в данном случае—местн. пад. ед. ч. от местоименной основы<xr type="compare">см. <ref type="etymon" target="k">*къ]ь</ref>
+    </xr>, 
+*къЩ; восходит к и.-е. *k*ei-io-s, близко род­
+ственному лат. cuius 'чей', кот. продолжает *№oi-io-s, практи­
+чески того же состава. См. О. Hujer IF XXIV, 1909, 70 и сл. 
+Правда, 
+этот 
+ученый 
+говорит 
+о праформе *№eios для слав, 
+слова, специально не выделяя в нем форманта -i~, кот. он выде­
+ляет, например, в лат. праформе. Но полнота слав.-лат. парал­
+лелизма здесь заключается как раз в формантном тождестве про­
+изводного от той же падежной формы местоимения. В противном 
+случае (без специального форманта) производность и притяжа-
+тельность оказалась бы ничем не выраженной, что мало веро­
+ятно, поскольку именно местоимения с этой функцией обнару­
+живают формант -/-, ср. слав. *nasb, <xr type="compare">см. <ref type="etymon" target="ia">*иа§ъ</ref>
+    </xr> из формы косв. 
+п. п. мн. ч. *nasb, 
+*oasb 
+суфф. -/ь. Немаловажна в вопросе 
+точной реконструкции праслав. *сь/б и роль свидетельства упо-
+мянутого лат. cuius, др.-лат. quoius &lt; *k^oi-io-s 
+(бесформантное 
+*k*oi-os дало бы лат. *cuus с известным переходом др.-лат. oi &gt; 
+лат. й).</note>
+  <gramGrp>
+    <gram>Необходимость притяжат. форманта в местоим. со знач. 'чей', производном от упомянутой падежной формы и.-е.<ref type="etymon" target="k-3">*к</ref>^еЦ 
+<ref type="etymon" target="kshch">*кЩ</ref> подтверждается типологически также на примере более дале­
+кого лит. kiend 'чей', первая часть которого Ые- восходит к упо­
+мянутому чистому и.-е. *№ei или *№oi, а вторая часть — суф­
+фикс или детерминатив -п-.</gram>
+  </gramGrp>
+  <note>См. далее Berneker I, 675; Walde-Hofm. I, 301 (о лат. слове, с отклонениями в деталях); Fraenkel I,. 199 (s. v. ка- о форме Ыепб сказано слишком бегло и совершенно недостаточно); Фас­ мер IV, 324; Machek 2 101 («Возм., из первонач. кЧ-jo-s от пер­ вонач. корня вопрос, мест, 'кто' с иомощью притяжат. суфф. -]ъ, ср. vlci от vlk и т. п.»; так же см. Г. А. Ильинский у Фас- мера, там же).</note>
+</Entry>

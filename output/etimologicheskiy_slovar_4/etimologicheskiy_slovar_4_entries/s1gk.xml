@@ -1,0 +1,100 @@
+<Entry xml:id="s1gk">
+  <pb n="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>с1гъкъ</orth>
+    <lemma>с1гъкъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cirbka</orth>
+    <lemma>cirbka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cirbcb</orth>
+    <lemma>cirbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cirka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чирок Querquedula, cirek, род. п. -гка, м. р. чирок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>сугка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чирок Anas сгесса L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чирок</ref>, род. п. -рка, м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая водоплавающая птица из подсемейства речных уток</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чирок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>общее название морской и речной птицы крачки Sterna , сюда же чирак дикая утка, маленького рода, чирок , чирка ж. р. род небольшой дикой утки , чирёц утка-чирок (Картотека Псковского словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Под- высоцкий 189)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских областных слов.—ЖСт. VIII, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Опыт 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чирка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чирок (утка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чирка</ref>, чирщ м. р.</orth>
+      </form>
+      <sense>
+        <def>чирок-свистунок Anas сгесса L., чирок-трескунок Anas querquedula L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Полесские названия птиц. «Лек­ сика Полесья» 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чырбк</ref>, род. п. -рка, м. р.</orth>
+      </form>
+      <sense>
+        <def>чирок (Блр,- -русск.), чирка ж. р. чирок (утка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 346)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. название. См. Miklosich 36; Berneker I, 157; Фасмер IV, 366; Л. А. Булаховский. Общеславянские названия птиц.—ИАН ОЛЯ VII, 1948, 101 (обращает внимание на отсут­ ствие слова в ю.-слав. языках).</note>
+</Entry>

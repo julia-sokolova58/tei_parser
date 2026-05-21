@@ -1,0 +1,93 @@
+<Entry xml:id="cesminb">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesminb</orth>
+    <lemma>cesminb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesmina</orth>
+    <lemma>cesmina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чесмин</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вечнозеленый дуб; растет небольшим деревом, а больше кустарником (Бар, Ульцин); Quercus ilex , чёсвина ж. р. (черногорск., дубр.) Quercus ilex L., Quercus suber L., также cesmina ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 685)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 946)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesmtn</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>барбарис Berbers vulgaris , также cesmtn м. p. , cesmina ж. p. то же , cesmina ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. T, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cesmin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Quercus ilex, Tlex aquifolium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VT, 1194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чесмина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>особая порода дуба , сюда же чересмина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дан. XIII. 58, Срезневский ИТ, 1503)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(. . . п о д какимь древомь видЪлъ га жси глюща к соб'Ь се же ре" 14 псодъ чересминою . .. Мерил, праведн. XIV в., л. 41, Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чесчйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куст Ilex aquifolium, дикий терновник, желдь, вязожелдь, острокров, падуб, птичий, древесный клей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1325)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>О заимствовании чета, слова из сербохорв. см. Т. OrtoS «Збор- ник за филологиjy и лингвистику» XVI, 1973, 9.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -in- от основы бесспорно стар, имени<ref type="etymon" target="cesm">*cesm</ref>~, соотносительного с гл. <ref type="etymon" target="cesati">*cesati</ref> (см.) или предшествующей его 
+формой <ref type="etymon" target="cesti-3">*cesti</ref>.</gram>
+  </gramGrp>
+  <note>Левенталь реконструирует на базе слав, слов и.-е. *kesmo-s 'обрывание листьев'. См. J. Loewenthal WuS X, 1927, 157. См. еще Berneker I, 151; Фасмер IV, 350 (оба последних автора ограничиваются лаконичной отсылкой к *cesati, русск. чесать). Весьма вероятно, что в этом названии отразилась практикуемая в хозяйстве разных народов заготовка листьев кустарников на корм скоту. *cesnikbt словен. cesnik &gt;м. р. 'чеснок' (Plet. I, 99), укр. часнйк м. р. 'чеснок Allium sativum L.' (Гринченко VI, 446), чосник м. р. то же (Гринченко IV, 473).—Польск. диал. czosnyk м. р. 'чеснок' (Warsz. I, 398), возм., заимств. из укр. Производное с суфф. -гкъ от<xr type="compare">см. <ref type="etymon" target="cesnb">*cesnb</ref>
+    </xr>. Словен.-укр. изо­
+глосса.</note>
+</Entry>

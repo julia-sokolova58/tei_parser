@@ -1,0 +1,92 @@
+<Entry xml:id="globocina">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbočina</orth>
+    <lemma>glǫbočina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глъбочина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина (Дювернуа), глжбочина , длъбочина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>длабочина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globocina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ми</ref>- bocina ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 694; Kott I, 436)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlbocina</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hubocina</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gle</ref>- boczyna ж. p.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 841)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="glqbokb">*glqbokb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Можно допускать более позднее образование сравнительно с<xr type="compare">см. <ref type="etymon" target="glqbina">*glqbina</ref>
+    </xr> — от 
+*glgb(okb). — от 
+*glgb(okb). — от 
+*glgb(okb). — от 
+*glgb(okb).</note>
+</Entry>

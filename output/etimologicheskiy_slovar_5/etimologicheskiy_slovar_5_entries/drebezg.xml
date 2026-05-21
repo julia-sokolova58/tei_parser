@@ -1,0 +1,47 @@
+<Entry xml:id="drebezg">
+  <pb n="105" end_page="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drebĕzgъ</orth>
+    <lemma>drebĕzgъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дребезг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>звон, звяканье разбиваемого стекла, падающих полос металла и т. п., дребезги мн. мелкие частицы разбитых предметов, остатки чего-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дребезг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребезжа­ щий звук, издаваемый свистком (сарат.), свисток, издающий дре­ безжащий звук (сарат.) , дрёбеск м. р., дрёбежи мн. мелкие части, осколки чего-либо; дребезги , сюда же дребезга ж. р. о болтливом, непоседливом человеке , звон, звяканье, треск, стук , и, по-видимому, дребезйна ж. р. топкое место, трясина , суф­ фиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филип 8, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль, см. Филин 8, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 145; Филин 8, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Тесно связано с вар.<ref type="etymon" target="drobezgb">*drobezgb</ref> (см.) и вместе с ним является 
+суффиксальным производным на -ezgb от гл. <ref type="etymon" target="drebiti">*drebiti</ref> (см.) / <ref type="etymon" target="drobiti">*drobiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древность огласовки -е- вполне возможна. Ср. лит. drebezna 'развалина', 'осколок'. См. К. Буга РФВ LXV, 1911, 313; он же РФВ LXX, 1913, 105; A. Meillet MSL 14, 1907, 338; Fraenkel I, 'drebiti 103; Фасмер I, 536; см. еще Г. А. Ильинский. Суффикс ozfez/bz в славянских языках. — ИОРЯС XVI, 1912, 16.</note>
+</Entry>

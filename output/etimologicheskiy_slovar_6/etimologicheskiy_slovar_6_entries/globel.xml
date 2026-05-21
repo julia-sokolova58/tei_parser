@@ -1,0 +1,35 @@
+<Entry xml:id="globel">
+  <pb n="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbĕlь</orth>
+    <lemma>glǫbĕlь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globel</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>углубление, лощина, овраг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218; Slovar sloven, jezika I, 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glqbiel</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>рыба Coregonus Artedi , редк. glebiel, glqbiel ж. p. пресноводная рыба из сем. лососевых, живущая в глубоких озерах и в прибрежной полосе Балтийского моря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 840)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ё1ъ от гл. 'glqbati (см.). В кач-ве названия рыбы употреблено вторично.</note>
+</Entry>

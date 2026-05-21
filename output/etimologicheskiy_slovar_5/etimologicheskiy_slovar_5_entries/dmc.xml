@@ -1,0 +1,39 @@
+<Entry xml:id="dmc">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъmьcь</orth>
+    <lemma>dъmьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дмец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>раздувалыцик мехов в кузнице , человек, который дует крицы в домницах (Причи­ танья Северного края I, стр. VI). —Сюда же йотовое производ­ ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уездного череповецкого говора 36; Филин 8, 71: новг.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъмьчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 312, Срезневский I, 760)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от основы 
+см. 
+<ref type="etymon" target="dgti">*dgti</ref>.</gram>
+  </gramGrp>
+</Entry>

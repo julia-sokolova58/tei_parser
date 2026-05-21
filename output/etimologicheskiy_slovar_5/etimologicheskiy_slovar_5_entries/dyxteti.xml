@@ -1,0 +1,137 @@
+<Entry xml:id="dyxteti">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyxъtĕti</orth>
+    <lemma>dyxъtĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дихтя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать, пыхтеть, отдуваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров — Пан- чев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дихте</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело дышать, пыхтеть , дъхтйм хорошо пахнуть (о цветах) , дихтъ часто дышать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева, К. Димчев. Речник на хасковския градски говор. — БД V, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dihteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пых­ теть, дышать с силой, жаждать, пахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dychteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пыхтеть, жаждать, стремиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dychtiV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дихтьти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скоро и тяжело ды­ шать (в жаркое время)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дыхтыти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пых­ теть , дихтгти тяжело дышать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Про говор галицких лемшв 410)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дыхцёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>из­ давать запах. — Ср. еще, с отличием в вокализме корня, сербо­ хорв. ddxmjemu</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dehteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело дышать, сильно жаждать, благоухать ; с отличием глагольной основы —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 127; Slovar sloven jezika I, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дихтати</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(КарациЬ, РСА IV, 357; RJA И, 383)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. с экспрессивной суффиксацией<m type="suffix">
+        <ref>-bteti</ref>
+      </m>, родственный <ref type="etymon" target="dyxati">*dyxati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

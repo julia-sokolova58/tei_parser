@@ -1,0 +1,27 @@
+<Entry xml:id="bezlcdvbjb">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezlčdvbjb</orth>
+    <lemma>bezlčdvbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безлядвый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>ленивый, непроворный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., яросл., Филин 2, 192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 403.</note>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-52">*bez</ref> (см.; 
+там же о словообразовании таких прилаг-ных) и именной основы 
+<ref type="etymon" target="ledv-">*ledv-</ref> (см. расширенное <ref type="etymon" target="ledvbja">*ledvbja</ref> 'бедро, ляжка').</gram>
+  </gramGrp>
+  <note>Древность дан­ ной диал. формы подтверждается также семант. эволюцией 'без ляжки' -&gt; 'ленивый, непроворный'.</note>
+</Entry>

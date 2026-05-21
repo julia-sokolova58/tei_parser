@@ -1,0 +1,111 @@
+<Entry xml:id="dlgota">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlgota</orth>
+    <lemma>dьlgota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДЛАГОТЛ</ref>, ДЛЪГОТЛ [ATJXOC, longitudo</orth>
+      </form>
+      <sense>
+        <def>долгота, длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. редк. <ref>дългота</ref> (Георгиев)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dugota</ref> ж. p. , дугдта</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 867)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 796)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolgota</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolhota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина, долгота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dldgueta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дългота</ref>, дълъготау длъгота, долгота</orth>
+      </form>
+      <sense>
+        <def>долгота, продолжительность , длина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз XI в. 152; Панд. Ант. XI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 232; Мин. 1096 г. сент. 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 756)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долгота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>протяжение чего-либо в длину, вдоль, продолжительность чего-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>довгота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долгота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 402)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="dlg">*dъlgъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Давно обра­ щено внимание на параллельное образование в др.-инд. dlrghata то же. См. Н. Pedersen KZ XXXVI, 1900, 89; Berneker I, 252; Trautmann BSW 55; A. Meillet BSL 24, 1924, 136; T. Burrow. The Sanskrit language (London, 1955) 171—172 (отмечает тожде­ ство корня и суфф. в др.-инд. и слав.). *dblgov§z rb(jb): сербохорв. диал. dugovez м. р. 'сорт чёрного вино­ града с длинной лозой' (RJA II, 869), русск. простор. долговЛзый, -ая, -ое 'чрезмерно высокий, тощий и неуклюжий', укр. довгов*Л- зий, -а, -е 'длинношеий' (Гринченко I, 402). — Сюда же производ­ ное словен. dolgouezen, -zna, прилаг. 'длинноногий' (Plet. I, 153). Сложение<xr type="compare">см. <ref type="etymon" target="dlg">*dъlgъ</ref>
+    </xr> и  и  и  и <xr type="compare">см. <ref type="etymon" target="irg">*иргъ</ref>
+    </xr>....</note>
+</Entry>

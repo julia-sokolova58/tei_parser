@@ -1,0 +1,80 @@
+<Entry xml:id="bitbnbjb">
+  <pb n="102" end_page="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bitbnb(jb)</orth>
+    <lemma>bitbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blten</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боевой, связанный с битвой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bitny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боевой, доблестный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott, I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bitny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bitny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боевой, доблестный, бравый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>приставочное</ref> разбитной (просторечн.), с близкой семантикой. — Сюда же субстантивированные</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bitna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битье (Naucenie brnenske, XV в. — Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бйтенъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кнут, бич (волог.), каравай (влад., ворон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 297)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное прилаг., производное с суффиксальной группой -tbn- от основы гл.<ref type="etymon" target="sh-2">*ЬШ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Формант имеет наиболее близкое соответствие в лит. -Unas, ср. лит. imtinas 'тот, который нужно взять', но лит. прилагательные на -Unas грамматикализовались как особый разряд со знач. долженствования. Ср. Brugmann. Grundri|3 2 II, 1, 269, где реконструируется и.-е. *-tnnos как праформа этого суффикса, ср. сближение греч. $ептчос;= лит. degtinas (там же). Можно, впрочем, поставить вопрос о близости греч. суфф. -сяцод (*-timos) и названных слав, и балт. суффиксов.</note>
+</Entry>

@@ -1,0 +1,81 @@
+<Entry xml:id="dzdzevnik">
+  <pb n="194" end_page="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždževьnikъ</orth>
+    <lemma>dъždževьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъждбвник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>саламандра Salamandra ma­ culosa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дъждбунип</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дождевой червь , дъждбвник м. р. саламандра , угрюмый, мрачный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. И. Ко­ лев. — БД III, 298)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 200)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева и К. Димчев. Речник на хасковския градски го­ вор. — БД V, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>dezevnik</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пеликан , dezevnik м. p. зуёк Charadrius pluvialis, стриж Cyp- selus apus, дождевой червь Lumbricus terrestris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(disheunik ali d b Z b Z b gugauiz je ena tyza labudu podobna, kadar urat u uodo utakne, inu ima urat kakor en shakil, po nemsku leffelgons — onocrotalus. Kastelec)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>desdownik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>птица ауек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>даж</ref>- джбушк м. р.</orth>
+      </form>
+      <sense>
+        <def>аистник Erodium cicutarium L. Herit</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпя- ров1ч 90)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> от <ref type="etymon" target="dbzdzevi">*dbzdzevi</ref>&gt;nb (см. под <ref type="etymon" target="dbzdzevb-3">*dbzdzevb)</ref> 
+или — с суфф. -ъткъ от <ref type="etymon" target="dbzdzevb-4">*dbzdzevb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

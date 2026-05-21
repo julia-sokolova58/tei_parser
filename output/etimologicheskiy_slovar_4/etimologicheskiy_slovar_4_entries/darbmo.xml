@@ -1,0 +1,128 @@
+<Entry xml:id="darbmo">
+  <pb n="192" end_page="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darbmo</orth>
+    <lemma>darbmo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>darmo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>darmo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даром, напрасно (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>darmo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даром, бесплатно, напрасно, редк. darmy, прилаг. на­ прасный, бесполезный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>darmo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>напрасно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>darmo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>даром, бесплатно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dermo</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даром, напрасно, тщетно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>darmo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>даром, напрасно, зря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 25—26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дармб</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>даром , дарма, дармя, нареч. и с. бесплатно, даром (пек., твер., моек., калуж., брянск., смол., орл., тул., сарат., ряз., пенз., костр., яросл., влад., волог., арх.), напрасно, попусту, зря (пек., твер., смол., калуж., тул., ряз., курск,, орл., ворон., тамб., пенз., олон., том.), хотя, несмотря на то, что (пек., твер., смол., орл., курск., нижегор.), безразлично, всё равно (арх.) , дарма, нареч. даром , дарма, нареч. даром, бесплатно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 7, 274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 273—274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский сло­ варь 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дарма</ref>, редк. дарма, дармо, нареч.</orth>
+      </form>
+      <sense>
+        <def>на­ прасно, бесполезно, даром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дарма</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>понапрасну</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adverb</pos>
+    <gram>Нареч., производное с суфф.<m type="suffix">
+        <ref>-ыпо</ref>
+      </m> от гл. <ref type="etymon" target="dariti">*dariti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

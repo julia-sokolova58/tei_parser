@@ -1,0 +1,29 @@
+<Entry xml:id="kdrai">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*кдраИ</orth>
+    <lemma>кдраИ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gybefo</orth>
+    <lemma>gybefo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>сЛгл</ref>^Ы/^ти infigi обратил внимание еще Брюкнер, см. A. Bruckner AfslPh X I , 1888, 128. Однако и он не обратил внимания на существование гл. *glibati (см.) и на регулярную производность имени *glibefa как раз от последнего. Неточно поэтому непосредственное произведение</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>glibiel</ref> от имени *glibъ у Славского, см. F.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Stawski JP X X X V I , 1956, 281; Slawski I, 283—284.</note>
+  <gramGrp>
+    <gram>Дело в том, что само<ref type="etymon" target="glibb">*glibb</ref> (см.) — вто­
+ричное производное от гл. <ref type="etymon" target="glibati">*glibati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Предположение о проис­ хождении польск. слова от вторичной контаминации иных слов (см. Otrqbski. Zycie wyrazow w jqzyku polskim. 1948, 278) не обоснованно, т. к. продолжения праслав. *glibelb распространены шире, чем было принято думать, ср. сербохорв. глибел&gt;ав (выше).</note>
+</Entry>

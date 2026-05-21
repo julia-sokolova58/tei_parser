@@ -1,0 +1,143 @@
+<Entry xml:id="bezumbnbjb">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezumbnb(jb)</orth>
+    <lemma>bezumbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БбзоумАыъ</ref>, -zm, прилаг. dcppcov, insipiensr stultus</orth>
+      </form>
+      <sense>
+        <def>безумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr. и пр., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безумен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>безумен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezu</ref>- тап, прилаг.</orth>
+      </form>
+      <sense>
+        <def>demens, stultus, безумный, глупый , brezuman то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., RJA I, 277—278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdmen</ref>, -шла, прилаг.</orth>
+      </form>
+      <sense>
+        <def>неразумный; безумный, нелепый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezumny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>неразумный, безумный*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bezumny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безумный, глупый*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Stown. polszcz. XVI w.; Warsz. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безбмъныи</ref> dcppcov</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Остром, ев., Срезневский I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безумный</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. (<ref>сиб</ref>.) безумлённый</orth>
+      </form>
+      <sense>
+        <def>малоумный, помешанный; глупый, шальной, безрассудный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>безумный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулин- ский словарь 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безумний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>неразумный, глупый, безумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное от<ref type="etymon" target="bezum-2">*bezumъ</ref> (см.) с помощью суфф. -ъп-
+(функционально тождественно <ref type="etymon" target="bezumjb">*bezumjb</ref>, см.), или, скорее, пре­
+фиксально-суффиксальное 
+образование с помощью <ref type="etymon" target="bez-114">*bez</ref> (см.) 
+и суфф. -ъп- от <ref type="etymon" target="it-2">*итъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,70 @@
+<Entry xml:id="gyzdb">
+  <pb n="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyzdb</orth>
+    <lemma>gyzdb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>gizd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>украшение, наряд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hyzd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гадость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I. 528)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>gyzd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гадость, нечистота , gyzd м. p. грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hyzd</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gizd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>негодяй, мерзость; грязь, бес­ порядок , gisd, род. п, gizdu, м. р. грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. р. И, 78)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 60)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gyzdati">*gyzdati</ref>
+    </xr>.</note>
+</Entry>

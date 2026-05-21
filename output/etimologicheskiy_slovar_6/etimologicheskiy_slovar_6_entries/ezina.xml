@@ -1,0 +1,125 @@
+<Entry xml:id="ezina">
+  <pb n="36" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ežina</orth>
+    <lemma>ežina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. )<ref>ёжина</ref> ж. р. (Далмация)</orth>
+      </form>
+      <sense>
+        <def>съедобный морской моллюск, также ежевика Rubus fruticosus , сюда же производные jezinica ж. р. растение Agrimonia eupatoria L. , jezinac, род. п. jezlnca, м. p. название растений, морской еж Echinoidea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA III, 690)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 649)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezinja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежиха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeziny</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ежик, торчащие волосы, волоски</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ozina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежевика Rubus caesius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ II, 641)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jezyna</ref>, ozyna</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>ježina</ref>, jazyna ж. p.</orth>
+      </form>
+      <sense>
+        <def>ежевика Rubus fruticosus, малина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ожйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кустик и ягода Rubus, двух видов, ежевика , сюда же ожйн м. ежевика, ягода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(юж., Даль 3 II, 1693)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>ожина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ежевика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., Картотека Словаря Тимченко)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ожйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежевика Rubus fruticosus, ожйни мн. растение Rubus caesius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ажйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода ежевика Rubus fruticosus . — Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 3)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обращает на себя вни­ мание определенный параллелизм в образовании греч. e^tvos 'еж' — тоже с и.-е. суфф. -то-. См. еще V. Vinja RES XXXIII, 1956, 110—111; J. Majowa «Studia z filologii polskiej i stowiaiiskiej» 8, 121. чеш. jezinik м. p. Rubus caesius.</note>
+  <gramGrp>
+    <gram>Производное с суфф. - т а от<ref type="etymon" target="e2">*е2ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

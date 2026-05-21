@@ -1,0 +1,96 @@
+<Entry xml:id="drasknoti">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drasknǫti</orth>
+    <lemma>drasknǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драена</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>драсне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оца­ рапать, черкнуть , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>drasnit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda—Vevcani dialect of Macedonian 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драснути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>убежать, удрать, смыться , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdhniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яростно наброситься (о собаке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drasnoati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drasnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поца­ рапать, задеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 552; Dorosz. II, 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от <ref type="etymon" target="draskati">*draskati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

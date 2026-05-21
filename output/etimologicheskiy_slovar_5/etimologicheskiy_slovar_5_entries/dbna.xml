@@ -1,0 +1,184 @@
+<Entry xml:id="dbna">
+  <pb n="173" end_page="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъbna</orth>
+    <lemma>dъbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъыд</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подагра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъна</ref> , сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дънава</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>(об овце) вздутая и тяжело дышащая</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Кесарево, Г. Оряховско, . Р. Реч. XIV, 90. Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>dna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь суставов, артрит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV—XV вв., RJA II, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дна</ref> ж. р. , дана ж. р.</orth>
+      </form>
+      <sense>
+        <def>камень в поч­ ках, желчи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 365)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>dna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кишечные колики</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Megiser Dictionarium 1744; Megiser VII, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dna</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>болезнь суставов, кишечные колики, подагра (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь суставов , производное прилаг. dnauy</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь суставов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъна</ref>, дна</orth>
+      </form>
+      <sense>
+        <def>матка (Лечебн. XVII в., Жит. Козм. Дам.), лом в костях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1152 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 767—768)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плоская глиста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(каз., Опыт 47; Филин 8,' 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лом в пояснице и бед­ рах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. Бшецький-Носенко. Словник украшсько! мови 119)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически тождественно<xr type="compare">см. <ref type="etymon" target="dbbno">*dbbno</ref>
+    </xr>, с предположитель­
+ным первонач. знач. 
+'внутренняя 
+(болезнь)'. 
+См. Berneker I 
+245-246; Фасмер I, 517-518; Machek
+2 121. Родство с- *dbgn$
+dbbniSee 
+(см.) маловероятно, вопреки А. А. Потебне (РФВ 
+VII, 1882, 
+62—64)., с предположитель­
+ным первонач. знач. 
+'внутренняя 
+(болезнь)'. 
+См. Berneker I 
+245-246; Фасмер I, 517-518; Machek
+2 121. Родство с- *dbgn$
+dbbniSee 
+(см.) маловероятно, вопреки А. А. Потебне (РФВ 
+VII, 1882, 
+62—64)., с предположитель­
+ным первонач. знач. 
+'внутренняя 
+(болезнь)'. 
+См. Berneker I 
+245-246; Фасмер I, 517-518; Machek
+2 121. Родство с- *dbgn$
+dbbniSee 
+(см.) маловероятно, вопреки А. А. Потебне (РФВ 
+VII, 1882, 
+62—64)., с предположитель­
+ным первонач. знач. 
+'внутренняя 
+(болезнь)'. 
+См. Berneker I 
+245-246; Фасмер I, 517-518; Machek
+2 121. Родство с- *dbgn$
+dbbniSee 
+(см.) маловероятно, вопреки А. А. Потебне (РФВ 
+VII, 1882, 
+62—64).</note>
+</Entry>

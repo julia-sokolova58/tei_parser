@@ -1,0 +1,165 @@
+<Entry xml:id="edenje">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdenьje</orth>
+    <lemma>ĕdenьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ядене</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поедание, еда, пища, кушанье , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>едён</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>е ср. р. , ёдъне ср. р. , йёг^ни, йёдини ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник.—БД VII, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jadewe</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда (действие), кушанье, блюдо, зуд, мученье, страданье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jadene</ref>, jedene ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье , jedewe ср. р. еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 399, 525)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 632)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedeni</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 608)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedenie</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jezene</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>едение, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jedzenie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хлдЪнию</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища , употребление в пищу , $дени\е еда , пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Нов. вр. л. под 996 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Уст. крм. Ио. Схол. л. 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1639)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г. л. 15; Гр. Наз. XI в. 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. л. 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>еденье</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гдёння</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко И, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ядзёнъне</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядение, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название действия, производное с суфф. -ь/е от<ref type="etymon" target="edenb">*edenb</ref>, прич. 
+прош. страд, от гл. <ref type="etymon" target="esti">*esti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

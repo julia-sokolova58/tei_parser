@@ -1,0 +1,114 @@
+<Entry xml:id="droldrola">
+  <pb n="124" end_page="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drolь/*drol’a</orth>
+    <lemma>drolь/*drol’a</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>droFa</orth>
+    <lemma>droFa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрбла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растрепа , дрбло м. р. растрепанный человек , если</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>форма</ref> не продолжает предшествующее *дрохл-, ср. варианты Дрблев, фам., и Дрбхлев, фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Илчев. Речник на личните и фамилии имена у българите 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dpojba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>не­ ряха (о женщине), потаскуха, шлюха, проститутка , dpojba ж. р. тряпичный коврик, вид пирога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 732)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дрол</ref>&gt;а</orth>
+      </form>
+      <sense>
+        <def>подстилка , сюда же производное дрб^ька ж. р. неприятное ощущение, недомогание , далее — дрдл&gt;е ср. р., собир. сброд, отбросы , возм., сюда и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vis.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА, IV, 732)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drol</ref> м. p., drola ж. р.</orth>
+      </form>
+      <sense>
+        <def>горная порода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дроль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>возлюбленная, любимая женщина , дрбля милый, любимый , дрбля м. и ж. р. возлюбленный, возлюбленная, милый, милая ; дрбля ухажер (Волог., обл., Картотека Словаря белозерских говоров), дрёля м. р. ми­ лый, возлюбленный .—Ср. сюда же гл</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(иван., Филин 8, 199)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 61; Сл. Среднего Урала 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(чаще в частушках, волог., пек., новг., ленингр., арх., сев.-двинск., киров., перм., костр., новг., КАССР, свердл., ряз., Филин 8, 199)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., Филин 8, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>droliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крошить, ломать</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Все эти формы как правило пропущены в соответствующих этимол. словарях, хотя речь идет о довольно широком распро­ странении видимо ранних образований. Внимания этимологов они почти не привлекали. См. А. Кошелев. Етимологически бележки. Руско диал. дроля. «Език и литература» XIX, 1964, 78 (там же о болг. диал. дролик м. р. = русск. дроля).</note>
+  <gramGrp>
+    <gram>По-видимому, соотносительно с гл.<ref type="etymon" target="dhrliti">*dhrliti</ref> j<ref type="etymon" target="dbrVati">*dbrVati</ref> 
+(см.), ср. 
+аналогичное расширение в конечном счете того же корня + именной 
+. вокализм -о-: <ref type="etymon" target="dr-o-l-">*dr-o-l-</ref>.</gram>
+  </gramGrp>
+  <note>Ср., впрочем, Ж. Ж. Варбот «Этимология. 1970» (М., 1972), 78 и сл.: сближает с лит. dralas 'драчун', dralyti 'драть, рвать'.</note>
+</Entry>

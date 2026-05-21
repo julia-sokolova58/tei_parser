@@ -1,0 +1,38 @@
+<Entry xml:id="gblma">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblma</orth>
+    <lemma>gblma</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblmb</orth>
+    <lemma>gblmb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гума</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>вздутие (волдырь) на коже, костях, мышцах в результате заболевания сифилисом , ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 751)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гумавац</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пряжа, выпряден­ ная неровно, с утолщениями, гумаст, прилаг. с густой кроной (о дереве), гумар кусты (побеги), выросшие вокруг пня (или корней срубленного дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. диал. *gblm- сближается с др.-инд. gdlma- 'куст'. См. И. П. Петлева «Этимология. 1973» (М., 1975), 51—52. Ср., впрочем, о др.-инд. слове Mayrhofer I, 341. Ср. с другим суф. от того же корня —<xr type="compare">см. <ref type="etymon" target="gblka">*gblka</ref>
+    </xr>.</note>
+</Entry>

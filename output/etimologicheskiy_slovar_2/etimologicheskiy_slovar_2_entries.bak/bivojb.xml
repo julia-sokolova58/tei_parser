@@ -1,0 +1,22 @@
+<Entry xml:id="bivojb">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bivojb</orth>
+    <lemma>bivojb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bivoj</ref> м. р., имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Biwoy — V. Hajek. Kro- nika ceska, 1541, Gebauer I, 58)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение древнего типа, образованное из основы гл.<ref type="etymon" target="biti">*biti</ref> (императив <ref type="etymon" target="biji">*biji</ref>?) и имени <ref type="etymon" target="vojb">*vojb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Известен целый ряд глагольно-именных сложений с компонентом *vojb : *mbsti- vojb, *borivojb,<xr type="compare">см. <ref type="etymon" target="ioyyokh">*ио]Ыёхъ</ref>
+    </xr>.</note>
+</Entry>

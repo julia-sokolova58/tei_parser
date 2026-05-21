@@ -1,0 +1,141 @@
+<Entry xml:id="gqdeti">
+  <pb n="79" end_page="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqdeti</orth>
+    <lemma>gqdeti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqditi</orth>
+    <lemma>gqditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гудя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гуди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, завывать (о ветре), играть на смычковом инструменте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гудети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на смычковом инструменте, гудеть , также гундети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 737—738)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>kadi</ref>?</orth>
+      </form>
+      <sense>
+        <def>делать противным, хулить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hudzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть (в т. ч. на скрипке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gfdzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть (на арфе, на дудке), напевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 817; Dorosz. И, 1112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гХдити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хулить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Фед. Ст. 103; Златостр.; Уст. Крм. XIII в., Срезневский I, 608)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гудеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать ровный, густой, протяжный звук; произ­ водить гул, диал, гудеть плакагь навзрыд, рыдать (ворон., орл., курск., брян., тул., калуж, каз.), выть, завывать (перм., калуж.), бурчать, ворчать (терск.), злословить (брян.), дудеть, играть (урал.) , гундётъ говорить в нос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сло­ варь русских донских говоров I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гудзщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ху­ лить, порицать , судить, огова­ ривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Расторгуев. Северск.-блр. 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Народнае слова 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ёИ</ref>
+      </m>, трудно отделимый 
+от гл. на <m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотно­
+сительный с <ref type="etymon" target="gqsti">*gqsti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Знач. 'хулить' (и смежные) производно от знач. 'издавать звук' (-&gt; 'злословить'). См. Фасмер I, 470— 471 (с литер.). Иначе — и неубедительно — о последнем (к *gyd-) см. Machek 2 194. •gqgnati</note>
+</Entry>

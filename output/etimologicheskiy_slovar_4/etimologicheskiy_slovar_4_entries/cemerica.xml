@@ -1,0 +1,140 @@
+<Entry xml:id="cemerica">
+  <pb n="51" end_page="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cemerica</orth>
+    <lemma>cemerica</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cemerika</orth>
+    <lemma>cemerika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чемерйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ядовитое растение Verat- rum album</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: чеиерйка, чемерйга)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чемерйка</ref> ж. р. , макед, чемерйка ж. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица Veratrum album</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 299)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С, Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чеиерйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чеме­ рица Helleborus, Veratrum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бук.; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сете</ref>- г1ка ж. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица, морозник Veratrum album, ворчун , cmerika ж. р. то же , стар, cumerica чемерица Helleborus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Megiser Dictionarium 1744; в 1 изд. нет)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cemefice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица Helleborus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cemerlca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ядовитое растение чемерица Helleborus foetidus, чемеричный порошок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cemjerica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чемерица Helle­ borus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Piuhl 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czemierzyca</ref>, ciemierzyca ж. p. , руеск. чемерица ж. p.</orth>
+      </form>
+      <sense>
+        <def>многолетняя трава сем. лилейных, с большим толстым корневищем и метел- c e m e r i t i ками цветов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чемерйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Veratrum , cd. также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чэмэрйцы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>дикие пчелы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Анохина, Н. В. Никончук. Полесская терминология пче­ ловодства. «Лексика Полесья» 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чамярыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чеме­ рица</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ica/-ika от<ref type="etymon" target="seteg">* сетег</ref> ъ1<ref type="etymon" target="setega">*сетега</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,49 @@
+<Entry xml:id="au">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ауь</orth>
+    <lemma>ауь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jav</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>явь, бдение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A IV, 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jaw</ref>, род. jawi ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(в фразеол. оборотах, Warsz. II, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>явь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>реальная действительность в противоположность сну, бреду, мечте</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>явь</ref>: на яви=наяву (волог., калуж., Картотека Словаря русских народных говоров).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ. ж. p.<ref type="etymon" target="avb">*avb</ref> образовано вторично от гл. <ref type="etymon" target="aviti-5">*aviti</ref> (см.).</gram>
+  </gramGrp>
+  <note>В морфол. иерархии 'наречие' 'глагол' 'имя' в случае с семейством слов *ave, *aviti, *avb, *avъкa, *avb убеждает нас и сравнение с и.-е. соответствиями, о кот. см. подробно под *ave, *aviti. О вто- ричности образования<xr type="compare">см. <ref type="etymon" target="avb">*avb</ref>
+    </xr> еще Sadnik—Aitzetmuller. 
+V g l . 
+W b . 1, 40 (там речь гл. обр. о семантич. мотивах).</note>
+</Entry>

@@ -1,0 +1,38 @@
+<Entry xml:id="b">
+  <pb n="116" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>b</orth>
+    <lemma>b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>babika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Plantago , челн. ЪаЪука ж. р. вид явора Acer campestre 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(редк., RJA, I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бабйка</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>заика 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 2, 31)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Наблюдается определенная связь с продолжениями<xr type="compare">см. <ref type="etymon" target="aka">*ЪаЪъка</ref>
+    </xr>, обозначающими в некоторых слав, языках растения, в част­
+ности — Plantago (русск., у к р . ) .</note>
+  <gramGrp>
+    <gram>Сравнение говорит о том, что<ref type="etymon" target="auka">*ЪаЪука</ref> — производное от <ref type="etymon" target="aa-2">*ЪаЪа</ref> (см.) с суфф. -ука.</gram>
+  </gramGrp>
+  <note>Соотнесение</note>
+</Entry>

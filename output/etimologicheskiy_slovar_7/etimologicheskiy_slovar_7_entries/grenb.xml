@@ -1,0 +1,73 @@
+<Entry xml:id="grenb">
+  <pb n="117" end_page="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grenb</orth>
+    <lemma>grenb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>granb</orth>
+    <lemma>granb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gren</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь, чернота в виноградном сусле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грянь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Lychnis chalcedo- nica , далее — грань ж. р. крупные горящие уголья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 334)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грань</ref>, гран</orth>
+      </form>
+      <sense>
+        <def>огонь, жар , hraii то же , ср. еще грана ж. р. раскаленные тлеющие угли, жар . — Ср. сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ко­ лесник. Матерзали до словника дiaлeктизмiв укр. говор1в Буко­ вини 35; Онишкевич. Словник бойшвського д'тлекту; Чучка 314)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grenek</ref>, -nka, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горький</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 250; Slovar sloven, jezika I, 758)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Субстантивация прич.<ref type="etymon" target="grenb">*grenb</ref> 
+от гл. <ref type="etymon" target="greti-3">*greti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. предыду­ щее. Не вполне ясно отношение вариантов (стар, апофония или местное фонетич. преобразование ?). См. К. Moszynski JP XXXVI, 1956, 111 (сближает с др.-инд. ghramsa- 'солнечный свет'); Sheve- lov. A prehistory of Slavic 93 (предпочитает членить укр. слово как гр-анъ). ^gresiti: ст.-слав. г^кшити a^apxdvsLv, рессаге 'грешить' (SJS), болг. греша 'ошибаться', 'грешить' (БТР), диал. греша то же (М. Мла- денов БД III, 53), макед. греши 'грешить', 'ошибаться' (И-С), сербохорв. грёшити, грщёшити 'грешить', диал. grijesiti 'предать, изменить' (Lex. 37), словен. gresiti 'ошибаться', 'грешить' (Plet. I, 250; Slovar sloven, jezika I, 759), чеш. hfesiti 'грешить, прегре­ шать', 'бранить, ругать', слвц. hresiV то же (SSJ I, 524), в.-луж. hresic 'грешить' (Pfuhl 219), н.-луж. gresys то же (Muka St. I, 321), полаб. gresi-sa 3 л. ед. ч. наст. вр. 'грешит' (Polanski — Sehnert 67, с реконструкцией *gresi-se), польск. grzeszyc 'гре­ шить' (Dorosz. И, 1352), словин. grlesec то же (Lorentz Slovinz. Wb. I, 310), др.-русск., русск.-цслав. грЪшити 'не попасть, оши­ биться, пропустить' (Златостр. сл. 4; Сл. Фил.; Поуч. Влад. Мон.), 'грешить' (Сб. 1076 г.) (Срезневский I, 604), 'лишиться, лишаться rgrcza чего-либо' (1019, Арханг. лет., 40, СлРЯ XI—XVII вв. 4, 133), русск. грешить, диал. грешить 'браниться, ссориться' (тобол., свердл., моек., тамб., Филин 7, 138), грешить, -шит 'минует, идет мимо' (волог., там же), укр. грШйти 'грешить', грЫйти на кого 'подозревать, взводить напраслину, грешить' (Гринченко I, 328), блр. грашъщъ 'грешить'. Гл. на -Ш, производный от<xr type="compare">см. <ref type="etymon" target="grexb">*grexb</ref>
+    </xr>.</note>
+</Entry>

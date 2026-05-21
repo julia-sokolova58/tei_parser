@@ -1,0 +1,242 @@
+<entries>
+  <entry xml:id="byk" xml:id="byk">
+    <pb n="147" end_page="148" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bykъ</orth>
+      <lemma>Ьукъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>(некастрированный) бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>цветоносный и плодоносный стебель репчатого лука , бик м. р. бык, цветущая свекла, лук, который цветет и дает семена</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ил- чев Б Д I, 186; Гълъбов Б Д II, 70)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(М. Младенов Б Д rbylica III, 39)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бик</ref>, род. п. бйка, бйка, м. р.</orth>
+        </form>
+        <sense>
+          <def>бык, (диал., Срем) росток лука, также бйка м. р. и</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>bika</ref> то же , bik м. р. также</orth>
+        </form>
+        <sense>
+          <def>выпь Ardea stellaris</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Nk. 270)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 299—300)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bik</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 25)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>byk</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>byk</ref> м. p. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(SSJ I, 148)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>byk</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>(племенной) бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 59)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>byk</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 99)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>byk</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>бык-производитель, самец крупных парнокопытных</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 760)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>bik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бык, вол</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lo- rentz Slovinz. W b . I, 34)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>быкъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>bos, taurus, таород</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Изб. 1073 г., Пов. вр. л. под 993 г., Срезнев­ ский I, 202)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бык</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>домашнее рогатое животное из рода крупных парнокопытных млекопитающих, самец коровы, водяной бык выпь</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>быкъ</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бык, вол , бакъ м. р. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Арх. Ю З Р . I, 1, 20 — 1570 и др., Тимченко I, 161)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 89)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>бык (молодой, кастрированный), олень, насекомое Lucanus cervus, жук-олень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 55)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>быки</ref>. р .</orth>
+        </form>
+        <sense>
+          <def>бык</def>
+        </sense>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Слово звукоподражат. происхождения, родственное <ref type="etymon" target="bncati">*bncati</ref>, 
+lati, 
+(см.).</gram>
+    </gramGrp>
+    <note>См. A. Meillet MSL 
+14, 1907, 
+362; 
+Berne­
+ker I, 112; Преобр. I, 57; Фасмер I, 258; Bruckner 53—54; 
+Sfa-
+wski I, 52; Младенов Е П Р 28; Георгиев Б Е Р I, 47; Machek
+2 78. 
+Ср. еще лит. bukas 
+'выпь Botaurus stellaris' см. И. Эндзелин 
+L P 
+I, 1949, 3. Близкие формы в других языковых 
+семьях 
+скорее 
+всего связаны со слав. *Ьукъ отношениями элементарного родства 
+(аналогичные звукоподражания), а не какой-либо другой 
+связью 
+(генетическое родство, заимствование), несмотря на наличие соот­
+ветствующих попыток, см. A. Schachmatov AfslPh XXXIII, 1911, 
+87—88 (о заимствовании слав. *Ьукъ из кельт. *Ьоиккд 
+'корова', 
+ср. 
+др.-кимр. 
+buch 
+'телка', 
+корн, 
+buch 
+'корова', 
+брет. 
+buch, 
+buoc'h 'корова'; против см. М. Vasmer RS 6, 1913, 191); см., да­
+лее, Я. Пайскер у Нидерле (ниже) и Корш у Преобр. 
+(выше) — 
+о заимствовании из тюрк. Ъика 'бык': L. Niederle RES II, 
+1922, 
+23 и след.; St. Mladenov RES IV, 1924, 196. Прочие 
+этимологии: 
+J. Otrqbski. Studia indoeuropeistyczne 143, 177 (о родстве 
+и *ko-by-la); 
+Ch. Gribble. Slav. *Ьукъ 
+'bull'. — «Linguistics» 
+113, 
+1973, 53 и сл. « u . - e . *bheu- 'надуваться').</note>
+  </entry>
+</entries>

@@ -1,0 +1,63 @@
+<Entry xml:id="segra">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сегра</orth>
+    <lemma>сегра</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>череп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж. р. крышка для выпечки хлеба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояд- жиев. Говор на с. Съчанли, Гюмюрджинско. — БД VI, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>црепа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сгёра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черепок, глинянаяпосуда , cerfa ж. р. посуда для молока , также сёгЪа ж. р. , сера ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Strekelj 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цирёпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большая соловарная сковорода, в которой вываривают соль на заводах (Картотека словаря русских народ­ ных говоров)</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Форма ж. р., соотносительная с<xr type="compare">см. <ref type="etymon" target="segr">*сегръ</ref>
+    </xr>, м. р.</note>
+</Entry>

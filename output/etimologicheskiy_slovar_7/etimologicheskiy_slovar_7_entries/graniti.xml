@@ -1,0 +1,100 @@
+<Entry xml:id="graniti">
+  <pb n="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>graniti</orth>
+    <lemma>graniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гранити</ref> се</orth>
+      </form>
+      <sense>
+        <def>ветвиться, разветвляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, о67; RJA III, 385, 388: graniti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hraniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>затесывать уг­ лами, граничить, определять границы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 747)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hranit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>граничить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. И, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гранить</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гранить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>равнять лес , гранить гра­ ничить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русск. донских говоров I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гранити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гранщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гранить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гранщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать борозды . 1 л. на -Ш, производный от<xr type="compare">см. <ref type="etymon" target="granagragranb">*grana\*gra№\*granb</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 43)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

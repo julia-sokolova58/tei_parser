@@ -1,0 +1,142 @@
+<Entry xml:id="bolgo">
+  <pb n="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolgo</orth>
+    <lemma>bolgo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>благо</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добро, иму­ щество, варенье, скоромное , благо, богатство, бла­ женство, скоромная пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>благо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>благо, добро, богатство, имущество , сербоюрв. благо ср. р. богатство, деньги, pecunia, домашний скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>благо</ref>, восклицание: благо тебе jy сред горе</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blago</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>добро, благо, скот, товар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blaho</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бла­ женство, счастье, преуспевание</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blaho</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>счастье, блаженство, процветание, преуспевание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>blogo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>благо, счастье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>болого</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добро, bonum , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Прав. Яр. 1019 г., Срезневский I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болого</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>хорошо, хорошо что , белого благо, хорошо . — Сюда также, по-видимому (ср. выше знач. скоромная пища), сербо­ хорв. blagva ж. р. гриб Boletus regius , благва ж. р. съедобный гриб Amanita caesarea, гриб Boletus regius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в словарях Белостенаца, Ямбрешича, Вольтиджи и Стулли, RJA I, 423)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 600)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blagva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>название грибов Agaricus piperatus, Boletus , ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="old">ст.-словен. <ref>blava</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлеб вообще « *blagwa)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(M. Kos. S kmeckih domacij v Hrastovljah iz dobe okoli 1300. — «Slovenski etnograf», XVI—XVII, 1963-1964, 104)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *bolgo имеет вид архаич. слова, однако его проис­ хождение и этимологические связи с точностью не установлены. Обычно сравнивают с авест. Ъэгэ]ауеШ 'приветствует, воздает почести', bdrdg- 'ритуал, обычай', ср. далее др.-инд. bfhas-pd- tih, 'господин молитвы', но недоказанное для этих ивдо-ир. слов историческое тождество г и.-е. I остается принимать на веру. См. Berneker I, 69 (с более стар, литер.); Фасмер I, 188 (описан­ ные выше сомнения относительно индо-ир. слов опускает); Мас- hek 33. Формально правдоподобно также сближение *bol-g-o с<xr type="compare">см. <ref type="etymon" target="o1">*Ьо1ъ]ъ</ref>
+    </xr>, см. Berneker, там же; позднее см. также J. Ot-
+r^bski LP III, 1951, 295-296.</note>
+</Entry>

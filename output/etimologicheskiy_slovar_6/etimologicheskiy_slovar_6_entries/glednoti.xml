@@ -1,0 +1,120 @@
+<Entry xml:id="glednoti">
+  <pb n="123" end_page="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ględnǫti</orth>
+    <lemma>ględnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глёдна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глянуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гледне</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глёднути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взглянуть, посмотреть, также гленути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gledniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взглянуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 2 1 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hlednouti</ref>, hlidnouti</orth>
+      </form>
+      <sense>
+        <def>взглянуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glqd</ref>- щб</orth>
+      </form>
+      <sense>
+        <def>взглянуть, посмотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 832)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глянуть</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глянуться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нравиться, быть по вкусу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., перм., ниже- гор., сиб., Даль 3 I, 887; Филин 6, 232; Словарь говоров Соли­ камского района Пермской обл. 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глянути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глянуть, взглянуть, посмотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глАнуцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>по­ смотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от <ref type="etymon" target="gtydeti">* gtydeti</ref> j <ref type="etymon" target="gtydati">* gtydati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

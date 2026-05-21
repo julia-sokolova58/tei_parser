@@ -1,0 +1,102 @@
+<Entry xml:id="ablonevTjb">
+  <pb n="40" end_page="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ablonevT&gt;jb</orth>
+    <lemma>ablonevT&gt;jb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ablonovbjb</orth>
+    <lemma>ablonovbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jablonovy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jablonowij</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 519)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jabloniowy</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jablonowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоневый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jablenuovi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. [<ref>Яблоновый</ref> "сделанный из Яблонового дерева</orth>
+      </form>
+      <sense>
+        <def>, ыблоневъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский III, 1632)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1583 г., ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Лблоневый</ref>, Яблоновый</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яблунёвий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свойственный, принадлежащий яблоне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко, IV, 534)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилагательное регулярного вида, образованное с формантом -ov- от названия яблони. Суфф. -ev- представляет собой позицион­ ный вариант форманта -ov- после основы на -i-<xr type="compare">см. <ref type="etymon" target="ayop-2">*аЫопъ</ref>
+    </xr>. 
+Сюда же, по сути, примыкают образования от праслав. 
+*abol-
+поиъ]ъ 
+(см.), 
+уверенно 
+реконструируемые 
+лишь 
+для 
+ю.-слав. 
+языков.</note>
+</Entry>

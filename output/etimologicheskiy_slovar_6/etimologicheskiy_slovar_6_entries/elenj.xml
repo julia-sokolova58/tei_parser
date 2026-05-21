@@ -1,0 +1,97 @@
+<Entry xml:id="elenj">
+  <pb n="20" end_page="21" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elenь(jь)</orth>
+    <lemma>elenь(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>юленл</ref>, прилаг. притяж. eXd&lt;pou, cervi</orth>
+      </form>
+      <sense>
+        <def>олений</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. /<ref>ёде</ref>/ьй, -н&gt;й, -гьё</orth>
+      </form>
+      <sense>
+        <def>олений, jeleni</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 578)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelenji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>олений</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeleni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>олений</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeleni</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jeleni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>олений</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>оле</ref>- •elito нии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Песн. песн. VIII. 14.— Библ. г., Срезневский II, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>елень</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>олений</ref>, -ъя, -ъе</orth>
+      </form>
+      <sense>
+        <def>относящийся к оленю, оленям</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф. -ъ/ь от<ref type="etymon" target="e1ep">*е1епъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

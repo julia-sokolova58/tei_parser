@@ -1,0 +1,73 @@
+<entries>
+  <entry xml:id="brazdatise" xml:id="brazdatise">
+    <pb n="11" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brazdati (sę)</orth>
+      <lemma>brazdati (s$)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brazddti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>возиться (в воде, какой-либо жидкости), пачкать, марать , brzddti то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 52)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 68)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. (<ref>волог</ref>.) браздатъся</orth>
+        </form>
+        <sense>
+          <def>пачкаться, возиться в мокром, брыз­ гать . — Ср. еще</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль 3, I, 300)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бразгатъся</ref>, бряз- гатъся</orth>
+        </form>
+        <sense>
+          <def>играть с водой, возиться в воде, брызгаться, плескаться . Гл. звукоподражат. происхождения, ср. лит. brozdu, brozdeti шелестеть, шуршать, производить не­ сильный шум. Налицо чередование -zd-\ -zg-, ср</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сл. Среднего Урала I, 55)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(см. о последнем К. Буга Р Ф В L X X , 1913, 101 — 102)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бразгатъся</ref>, бряз- гатъся (последнее — с экспрессивным смягчением -р-). Сюда же</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brazg</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>звон, с кот. связывает лит. слова К. Буга</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>О лит. слове как экспрессивном см. Fraenkel I, 35 (без слав, 
+соответствий). Звукоподражательное *brazd-/* brazg- может быть, 
+далее, соотнесено с *bryzg- (см. слова с этим корнем); неустойчи­
+вость корневого вокализма находит объяснение в экспрессив­
+ности.</note>
+  </entry>
+</entries>

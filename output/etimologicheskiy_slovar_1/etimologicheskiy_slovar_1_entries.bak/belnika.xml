@@ -1,0 +1,26 @@
+<Entry xml:id="belnika">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belnika</orth>
+    <lemma>belnika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блёнйка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; Геров: блЪнйка ж. р. 'растение Hyoscyamus niger, белена черная')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от основы <ref type="etymon" target="beln-">*beln-</ref> (см. <ref type="etymon" target="e1p-2">*Ье1пъ)</ref>.</gram>
+  </gramGrp>
+</Entry>

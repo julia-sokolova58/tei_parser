@@ -1,0 +1,102 @@
+<Entry xml:id="ceritiII">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceriti II</orth>
+    <lemma>ceriti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>цёрим</ref> се</orth>
+      </form>
+      <sense>
+        <def>ухмыляться , цёрим се скалить зубы (с. Долна Мелна, Трънско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>цери</ref> се</orth>
+      </form>
+      <sense>
+        <def>ухмыляться, ска­ лить зубы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cjeriti</ref>, напр. cjeriti zube</orth>
+      </form>
+      <sense>
+        <def>скалить зубы (с XVI в.), cjeriti se ухмыляться , сюда же ceriti hiare, liquorem Iransmittere, протекать, пропускать (жид­ кость), ceriti se светиться насквозь (о редкой ткани)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 813)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA J, 769)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceriti</ref>, напр. ceriti zuby</orth>
+      </form>
+      <sense>
+        <def>скалить зубы, ceriti se ухмы­ ляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cerit</ref>\ только в словосочетании cerif zuby</orth>
+      </form>
+      <sense>
+        <def>скалить зубы, cerif sa ухмыляться, скалить зубы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 163)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от основы <ref type="etymon" target="syog-">*сёг-</ref> 
+собственно — первоначальное <ref type="etymon" target="syo-">*сё-</ref> &lt;^ 
+<ref type="etymon" target="skoi">*skoi</ref>~, расширенное суффиксальным элементом -г-, ср. с другими 
+расширениями 
+сюда 
+же 
+<ref type="etymon" target="ceniti-2">*ceniti</ref> 
+II 
+(см.), 
+далее — <ref type="etymon" target="cediti">*cediti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>В семантич. отношении к знач-ям *cediti особенно близки знач-я сербохорв. ceriti 'пропускать жидкость' (см. выше). Родственно, далее,<xr type="compare">см. <ref type="etymon" target="sceriti">*sceriti</ref>
+    </xr>, фонетич. отношения которого 
+к \*ceriti 
+неоднократно 
+анализировались. 
+См. 
+Berneker 
+I, 
+(с верной мыслью, что в основе отношения *сёг-: *scer- / *scir-
+лежит 
+чередование 
+серий корневого вокализма); N. Durnovo. Le 
+traitement de *sk dans les langues slaves. — RES VI, 1926, 218 — 
+219; Machek
+2 83, 627 (почехму-то не упоминает чеш. ceriti, 
+слвц. 
+cerif); 
+Skok. 
+Etim. rjecn. I, 270.</note>
+</Entry>

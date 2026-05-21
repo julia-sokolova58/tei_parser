@@ -1,0 +1,82 @@
+<Entry xml:id="cervikb">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervikb</orth>
+    <lemma>cervikb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervica</orth>
+    <lemma>cervica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>црёвик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обувь , сер­ бохорв. creviea, creuffca ж. р. башмак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Трънско: Брез- нишки говор, Архив Болг. диал. словаря: Геров: ипЪвикъ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 822)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cere</ref>- vica</orth>
+      </form>
+      <sense>
+        <def>туфля, башмак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzewik</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. VTI, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>черевикъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>башмак, сапог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. иод 993 г., Срезневский ITI, 1500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черевйцыж</ref>. р. мн. ч.</orth>
+      </form>
+      <sense>
+        <def>черевики, женская обувь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., Опыт 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чере</ref>­ вик м. р.</orth>
+      </form>
+      <sense>
+        <def>башмак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 454)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Впрочем, пожа­ луй, более вероятно с точки зрения словообразования и особенно семантики считать *сегшкъ/ *cervica суффиксальной субстантива­ цией первоначально адъективного *сегиь]ь (см.; там же дополни­ тельная литература). блр. чаравгк м. р. бо­ тинок . гПроизводное с суфф. -гкъ\-1са от<xr type="compare">см. <ref type="etymon" target="segio">*сегио</ref>
+    </xr>.</note>
+</Entry>

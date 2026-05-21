@@ -1,0 +1,280 @@
+<Entry xml:id="borna">
+  <pb n="204" end_page="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borna</orth>
+    <lemma>borna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брака</ref> ж. р. то же , брака ж. р.</orth>
+      </form>
+      <sense>
+        <def>след</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 71; М. Младенов БД III, 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борона, плотина, запруда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плотина, зап­ руда, moles, вид бороны, оссае genus, закол в реке для рыболов­ ства, запруженное пространство воды, преграда, защитник, стражник; охрана, защита , мера длины ок. 1V 2 м. ?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вларшац II, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брака</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I; Mic. 5, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>защита, охрана, оборона, борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 49—50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brdna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оборонительное укрепление, ворота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 93; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brdna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вход, въезд, ворота, оборонительное сооружение, brdny мн. борона</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brdna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>широкий вход, въезд в постройку, запор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brdna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворота, большие двери во двор, дом или какое-либо другое огороженное пространство, охраняемый вход, проход на какую-либо терри­ торию , brdny мн., реже brdna ж. р. борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>Ъгапа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворота, brani мн. борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ъгбпаж</ref>. р., такжеЪгбпу мн.</orth>
+      </form>
+      <sense>
+        <def>борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ъгопа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>borna</ref> ж. р. б о ­ рона</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>Ъгопа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Niewiasty zawarly bronq. Rej. — Warsz. I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Ъгопа</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>борона (стар.) укрепленные ворота; подвижная часть ворот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 663)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Ъагпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>борона</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оборона, защита , сборона (\ете далъ ему г^нъ плугъ и борону. . . Р. Пр. по сп. X I V в. — Картотека ДРС)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков, л. под 1474 г., Срезневский I I I . Доп. 25')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>борона</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>земледельческое орудие, служащее для раз­ рыхления вспаханной земли, прикрытия семян, уничтожения сорных трав</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>борона</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борона , борона ж. р. оборона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. ЮЗР. I, 79 — 1531 г. и др., Тимченко I, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(JILT. Сам. 99, Тимченко I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>борона</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>защита , борона ж. р. борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>барана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борона.—Сюда же производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>борбнка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сто­ рожка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. «Брян­ ские говоры». Л., 1968, 198)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В настоящей статье умышленно объединены группы значений, которые можно представить как *borna I 'борона, сельскохозяй­ ственное орудие' и *borna I I 'преграда, защищенный вход'. Объединение, предпринятое нами, основано на убеждении, что здесь можно говорить об этимологически едином слове. Это ви­ дел уже Миклошич, правда, он полагал, что «мирное орудие могло первоначально служить для военных целей» (см. Miklosich 18). Мы не считаем единственно возможным семантич. развитие 'бо­ рона' &lt;г- 'военное орудие, оружие', более того — нетрудно за­ метить, что вокруг *borna I I , выделяемого выше в рабочем по­ рядке, группируются не названия оружия, а преимущественно знач-я 'защищенный вход, подвижная часть ворот' (знач. 'за­ щита, охрана' мы рассматриваем здесь как вторичные). Близость столь специфических значений как 'борона' и 'укрепленные во­ рота', по-видимому, далека от случайности, их объединяет род­ ство, как и сами формы *borna I и *borna П. В слав, не отрази­ лось древнее и.-е. название бороны, представленное в лит. екё- cios мн., др.-прусск. aketes, лат. осса, др.-кимр. ocet, др.-в.-нем. egida, соврем, нем. Egge. Слав. *borna 'борона' явилось бесспорно слав, новообразованием, почему для него и не удается отыскать сколько-нибудь достоверные терминологические соответствия в других и.-е. языках. Типологически простейшей и наиболее архаической бороной был ствол дерева (как правило — ели) с отходящими в стороны сучьями; дальнейший этап — борона в виде четырехугольной решетки с зубьями. Это новшество, впро­ чем, также имеет значительную древность, хотя в разных местах оно могло появиться в разное время и — что естественно предпо­ ложить — могло повлечь перемены в лексике. Во всяком случае именно между четырехугольной бороной, оснащенной острыми зубьями, и также четырехугольной подвижной частью, створкой ворот (тоже укрепленных) реально-семантич. связь вполне уста­ новила. Ср. одно из знач-й словен. brana Plet. I, там же: Пред­ меты, подобные бороне, напр. решетчатая дверь'. Изложенные наблюдения следует принимать как критическое введение в использование существующих этимологии данного слова. Как правило, это — раздельные этимологии для *boma I и *borna П. См. Berneker I, 74: *Ъогпа 'борона' &lt;С *bher- 'быть острым', ср. др.-исл. barmr 'край', греч. срарос 'борозда', срароа&gt; 'пахать', лат. forare 'сверлить', др.-в.-нем. boron то же, или &lt; *bher- 'рубить, резать'; автор склонен принимать для *borna I даже особую реконструкцию *borchna, *bhars-na, а непосредствен­ ную связь со слав. *borti отвергает (см. там же, с литер.); *borna II (напр. русск. о-борбна, чеш. Ъгапа 'ворота') Бернекер прямо связывает с *bor'g, *borti. Близко см. Преображенский I, 38: борона &lt; *borna (ср. борозда) или &lt;С *борхна; ср. так же Фас- мер I, 196—197; Moszyiiski. Pierwotny zasi^g 74; Т. Lehr-Spja- wiriski RS XXIII, 1964, 14; Machek 41; Bruckner 41—42; Откуп­ щиков. Из истории индоевропейского словообразования 230 и след. (*borna &lt;С *bhorg'-s-na 'раздробляющая, дробило'). В боль­ шинстве этимол. словарей родство и даже тождество *borna I и *borna II, кот. нам представляется элементарно очевидным, или не показано или отрицается вовсе. Любопытно отметить, что практически все авторы возводят оба вида *borna к и.-е. *bher-y но в первом случае речь ведется о *bher- 'быть острым, резать', а во втором — о *Ыгег- 'бить', тогда как ясно, что это одно и то же и.-е. *bher~. Правильное (хотя и слишком лаконичное) соотнесе­ ние *borna I и *borna II см., напр., SJawski I, 43 (s. vv. brona, bron). Знач-я 'защищать', 'защита', 'бранить' в лексич. гнезде *borna, *Ьотъ,<xr type="compare">см. <ref type="etymon" target="borniti">*borniti</ref>
+    </xr> вторичны, хотя тоже оформились 
+достаточно рано в слав., о чем говорит древность акцентологич. 
+различия 
+*Ьбта 
+'защита, 
+оборона' 
+(укр. 
+борона) — *bornd 
+'борона' (укр. борона, русск. борона, болг. 
+брана).</note>
+</Entry>

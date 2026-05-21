@@ -1,0 +1,29 @@
+<entries>
+  <entry xml:id="bzovina" xml:id="bzovina">
+    <pb n="143" end_page="144" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъzovina</orth>
+      <lemma>bbzovi§ce</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bzoviste</ref> ср. p.</orth>
+        </form>
+        <sense>
+          <def>место, где растет бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jung- mann I, 214)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное (собир.) с суфф. <m type="suffix">
+          <ref>-isce</ref>
+        </m> 
+от прилаг. <ref type="etymon" target="bbzovb-2">*bbzovb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

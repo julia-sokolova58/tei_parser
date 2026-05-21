@@ -1,0 +1,82 @@
+<Entry xml:id="sii">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сииъ</orth>
+    <lemma>сииъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuna</orth>
+    <lemma>cuna</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cun'a</orth>
+    <lemma>cun'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сипа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>большая свинья , cunja ж. р. свинья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>сипа</ref> ж. р. как ругательство, также в знач.</orth>
+      </form>
+      <sense>
+        <def>поросенок , морда (животного), рыло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kopecny. Urc. 137; сравнивает с венг. csunya 'отвратительный')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 30; Malina. Mistf. 18; Kott. Dod. k Bart. 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чуня</ref> общ. р.</orth>
+      </form>
+      <sense>
+        <def>мокрый, обмокший человек; пьяный .—Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Даль 3 IV, 1377)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>дип</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>клюв , сйпка ж. р. морда живот­ ного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA И, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чунок</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>землеройка Sorex</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем., см. Гринченко IV, 478)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное слово неясного происхождения. Махек толкует как преобразование первонач. *cuba. См. Machek 2 108.</note>
+</Entry>

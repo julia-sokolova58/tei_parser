@@ -1,0 +1,54 @@
+<Entry xml:id="bodezb">
+  <pb n="152" end_page="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodezb</orth>
+    <lemma>bodezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бодёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>острая боль, колотье , колотье, резь, колика, ломота, растение Viburnum, калина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>Срем</ref>) бодеж ж. р.</orth>
+      </form>
+      <sense>
+        <def>колотье в боку, pleuritis, бодеж, ббдеж м. р. узкий, шилообразный нож для проколов, сштык,=боцкалица колотье, боли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кинжал, меч, стержень, Ononis spinosa , иголка ежа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф,<m type="suffix">
+        <ref>-ezb</ref>
+      </m> от основы гл. <ref type="etymon" target="bosti-6">*bosti</ref>, 
+<ref type="etymon" target="bodq">*bodq</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

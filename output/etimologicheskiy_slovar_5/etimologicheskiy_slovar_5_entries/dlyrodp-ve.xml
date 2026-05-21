@@ -1,0 +1,64 @@
+<Entry xml:id="dlyrodp-ve">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьly, род. п. -ъve</orth>
+    <lemma>dьly, род. п. -ъve</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -ъуе</orth>
+    <lemma>род. п. -ъуе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДА</ref>/УЫ, род. п. ДАЛЪК6, ж. р. тис</orth>
+      </form>
+      <sense>
+        <def>Оод, do- Hum бочка, длъки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дёлва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>большой горшок с двумя ручками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дёвла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>большой глиняный сосуд , сюда же производное ум. дилвё ср. р. горшочек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 10, 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дълы</ref>, дълы</orth>
+      </form>
+      <sense>
+        <def>бочка , делва, дельвь род бочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. Сир. XIII в.; Гр. Наз. с толк. Ник. Ир. XIV в., Срезневский I, 767)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Быт. X L . 10 сп. XIV в., Срезневский I, 651)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лат. dolium 'бочка', ирл. delb (*delva-) 'форма'. См. L. Diefenbach KZ XVI, 1867, 222; Berneker I, 252; Walde-Hofm. I, 364; Фасмер I, 496; J. Trier. Topf. — «Zeitschrift fiir deutsche Philologie» 70 (Stuttgart, 1947—1949), 340; J. Hubschmid. Schlau- che und Fasser (Bern, 1955) 156; Младенов ЕПР 124; Георгиев БЕР V, 336; Трубачёв. Ремесленная терминология 241 и след. (с попыткой дальнейшей семантич. реконструкции).</note>
+</Entry>

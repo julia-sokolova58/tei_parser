@@ -1,0 +1,54 @@
+<Entry xml:id="gabiti">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gabiti</orth>
+    <lemma>gabiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>g</ref>&amp;hiti</orth>
+      </form>
+      <sense>
+        <def>вызывать крайнее отвращение, омерзение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 663)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>habiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вымачивать, морить, травить, beizen</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>забить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать (сено)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Филин 6, 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="gabati">*gabati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. отношения<xr type="compare">см. <ref type="etymon" target="capiti">*capiti</ref>
+    </xr> к  к  к  к <xr type="compare">см. <ref type="etymon" target="capati-2">*capati</ref>
+    </xr>....</note>
+</Entry>

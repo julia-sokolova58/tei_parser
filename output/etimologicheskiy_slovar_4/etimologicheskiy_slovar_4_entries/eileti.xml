@@ -1,0 +1,42 @@
+<Entry xml:id="eileti">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>eileti</orth>
+    <lemma>eileti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ciliti II</orth>
+    <lemma>ciliti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чили</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рассветает, начинается заря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 685)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сШ6</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выздоравливать, крепнуть (о частях тела)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, производное от прилаг.<ref type="etymon" target="si">*сИъ</ref> (см.; там же эти­
+мология).</gram>
+  </gramGrp>
+  <note>Омонимичность, а не генетич. тождество с *cileti/*ci- liti I (см.) заставляют признать, кроме этимол. соображений, также семантич. свойства и.-е. *k*eld-, лежащего в основе *cileti / j*ciliti I, а именно характерность для него знач-й 'лежать, покой', а не 'сила, крепнуть'.</note>
+</Entry>

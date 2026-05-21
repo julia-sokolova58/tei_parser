@@ -1,0 +1,51 @@
+<Entry xml:id="yo1onk">
+  <pb n="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1оНкъ</orth>
+    <lemma>Ьё1оНкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белолйк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белолицый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Георгиев; Геров: бЪло- ликый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>белолйк</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белолицый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белолйк</ref>, б]елолик, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белолицый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 451—452)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 397 и след.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образовано из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и адъективно 
+употребленной основы сущ-ного <ref type="etymon" target="ik-2">*Икъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Древность словообра­ зовательной модели очевидна,<xr type="compare">ср. еще <ref type="etymon" target="belogo">*belogo^</ref>
+    </xr> 
+(выше).</note>
+</Entry>

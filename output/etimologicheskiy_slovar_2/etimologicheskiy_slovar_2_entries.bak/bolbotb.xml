@@ -1,0 +1,58 @@
+<Entry xml:id="bolbotb">
+  <pb n="171" end_page="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolbotb</orth>
+    <lemma>bolbotb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolbota</orth>
+    <lemma>bolbota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>blabot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болтовня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bratrska bibli, Jungmann I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blabota</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>болтун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bluobot</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кипение, клокотанье, невнятная, неразборчивая Ьо1епъ речь , ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болббт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болтун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное образование. Ср. лит. balbatd 'болтун, пустобай' (см. К. Буга РФВ LXX, 1913, 101). См. еще *bolbotati.</note>
+</Entry>

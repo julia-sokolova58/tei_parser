@@ -1,0 +1,37 @@
+<Entry xml:id="bodika">
+  <pb n="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodika</orth>
+    <lemma>bodika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бддика</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чертополох Carduus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bodika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спаржа остролистая Asparagus acutifolius, остролистник Ilex aquifolium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. II, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ika</ref>
+      </m> от основы гл. <ref type="etymon" target="bosti-10">*bosti</ref>, <ref type="etymon" target="bodq-2">*bodq</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. также * bodica, выше.</note>
+</Entry>

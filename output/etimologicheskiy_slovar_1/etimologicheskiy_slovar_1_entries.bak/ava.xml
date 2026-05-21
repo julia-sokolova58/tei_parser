@@ -1,0 +1,76 @@
+<Entry xml:id="ava">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ava</orth>
+    <lemma>ava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaea</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>явь, действительность , кашуб.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>lava</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бдение (в противоположность сну): по lave наяву</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Pomor. I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ява</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>показ, выставка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., осташк., Даль 3 IV, 1557; Картотека Сло­ варя русских народных говоров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ява</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явь, действительность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Укр.-рос. словн.» VI, 563)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ява</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>явь; явление, див­ ное происшествие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 174; Носов. 725)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ. с основой на<m type="suffix">
+        <ref>-а</ref>
+      </m>, 
+соотносительное 
+с гл. 
+<ref type="etymon" target="aviti">*aviti</ref> 
+(см.), 
+а также с нареч. <ref type="etymon" target="ave">*ave</ref> (см.; там же подробно об этимологии).</gram>
+  </gramGrp>
+</Entry>

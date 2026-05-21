@@ -1,0 +1,41 @@
+<entries>
+  <entry xml:id="brstatise" xml:id="brstatise">
+    <pb n="57" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brъstati (sę)</orth>
+      <lemma>brbstati (s£)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брстати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пускать почки, листья</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 214)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брбстатися</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пускать отпрыски, распускаться, выбрасы­ вать почки</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Шейк., Гринченко I, 101)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ati</ref>
+        </m>, производный от <ref type="etymon" target="brbstb">*brbstb</ref> / *<ref type="etymon" target="brbstb-2">*brbstb</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

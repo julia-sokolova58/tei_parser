@@ -1,0 +1,196 @@
+<Entry xml:id="dvojitise">
+  <pb n="191" end_page="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojiti (sę)</orth>
+    <lemma>d(ъ)vojiti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДЪБОИТИ</ref> ingeminare</orth>
+      </form>
+      <sense>
+        <def>удваивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двоЛ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делить надвое, раздваивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа: двож 'разлу­ чаю')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двоим</ref> , двои се</orth>
+      </form>
+      <sense>
+        <def>де­ лится</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев-Близнев БД III, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>двои</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздваивать, раз­ делять, разъединять, различаться, отличаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dedjumu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разделять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duojiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удваивать, сомневаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>duojiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>быть в распре</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duojiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удваивать, делить надвое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duo</ref>- jitf</orth>
+      </form>
+      <sense>
+        <def>делить надвое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dwojic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удваивать, де­ лить надвое, разделять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 444—445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двоить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уд- воять, делать или брать что-либо вдвое, двоить пашню пахать ее дважды, вдоль и поперек , двоить вспахивать второй раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1034)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>двоити</ref> ся</orth>
+      </form>
+      <sense>
+        <def>сомне­ ваться, бояться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деже Л. Материалы к словарю закарпатской ли­ тературы XVI—XVII вв. Будапешт, 1965 (микрофильм): Словарь Няговской Постиллы XVI в., 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>deotmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>двоить, раздваи­ вать, вздваивать , дво1тися раздваи- ваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 384)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>двойты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тростить в две нити</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Г. Владимирская. Полесская терминология ткачества. «Лек" сика Полесья» 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дващь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разделять надвое; удвоять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай" коу-Некраш. 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="d-8">*d</ref> ъJvojb (см.).</gram>
+  </gramGrp>
+</Entry>

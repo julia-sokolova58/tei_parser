@@ -1,0 +1,170 @@
+<Entry xml:id="biti">
+  <pb n="99" end_page="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>biti</orth>
+    <lemma>biti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бия</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бие</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ударять, убивать, биться (о сердце)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бйтпи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, убивать, бйгпцсе биться, драться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ЪШ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ЪШ se биться, бороться , чеш&lt;. ЪШ бить, ударять, ЪШ se биться, бороться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bW</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ударять, разрушать, уничтожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 96— 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ыс</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ы</ref>§</orth>
+      </form>
+      <sense>
+        <def>бить, ударять, колотить, bis se ударяться, вламываться, вторгаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>bait</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молотить; бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Ыс</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, наносить удары, ударять, звонить,, бить (струей), убивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 488—492)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjlc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наносить удары, коло­ тить, умерщвлять, убивать, поражать, на охоте животных, птиц, наносить кому-н. поражение, побеждать кого-л. на войне% раздроблять, дробить, с силой вырываться (о струе)&gt; ст.-yKpj бити бить, ударять, колотить, бить, побеждать, поражать, убивать, ковать, бити собою биться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 92—93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, наносить удары, лягать, вколачивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бйцца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о рыбе) нерестовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кривицкий. Из словаря полесских рыболовов. — «Полесье» 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить. л Очень старые отношения глагольного и именного вокализма</def>
+      </sense>
+    </item>
+  </etym>
+</Entry>

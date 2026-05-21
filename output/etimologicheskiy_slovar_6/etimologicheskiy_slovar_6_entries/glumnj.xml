@@ -1,0 +1,83 @@
+<Entry xml:id="glumnj">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glumьnъ(jь)</orth>
+    <lemma>glumьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gluman</ref>, glumna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шутливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V в., RJA III, 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glumen</ref>, -тпа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>шутовской</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глумнбй</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>смешной , глумнбй глупый , глумный, -ая, -ое глупый , глумный поло­ умный , глумнбй, глумный, -ая, -ое умствен­ но неполноценный, придурковатый; глупый, бестолковый (орл., курск., костр., влад., пек., ленингр., смол., калуж., новосиб.), смешливый; насмешливый (новг., костр.), смешной, забавный (костр., новг., олон.) , голумнбй, голум- ный, -ая, -бе шутливый, забавный; насмешливый (твер., пек.), несообразительный; невнимательный и шаловливый (курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Опыт 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 128)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(орл., Доп. к Опыту 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глумный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый, достойный по­ смеяния , глумны глупый (Байкоу—Некраш.). — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глУмъникъ</ref> pezkopoc, distractus .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ефр. Сир. X I V в., Срезневский I, 522)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="gluma">*gluma</ref> I <ref type="etymon" target="glum-4">*glumъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

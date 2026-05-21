@@ -1,0 +1,210 @@
+<Entry xml:id="bedrenbcb">
+  <pb n="176" end_page="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedrenbcb</orth>
+    <lemma>bedrenbcb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bedrbnbcb</orth>
+    <lemma>bedrbnbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bedrinac</ref>, род. п. bedrlnca м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Pimpinella , бёдренац, бедрёнац, род. п. -нца, м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1, 223)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA I, 347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bedrenec</ref>, род. и. -пса, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Pimpinella , bedrinec, род. п. -пса, м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>biedrzeniec</ref>, wiedrzeniec</orth>
+      </form>
+      <sense>
+        <def>бедренец Pimpinella</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бедренец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Pimpinella saxifraga</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бедрянец</ref>, род. п. -нца, м. р.</orth>
+      </form>
+      <sense>
+        <def>лекарственное стенное растение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(донск., Филин 2, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бедренецъ</ref>, бедринецъ м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бедринецъ</ref>, род. п. -н</orth>
+      </form>
+      <sense>
+        <def>{я, м. р. растения Pimpinella saxifraga, Peucedanum cervaria . — С ю д а же производное от той же исходной формы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 3 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bederencek</ref> с тем же знач. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Мы этимологизируем название лекарственного растения Pimpi­ nella saxifraga, обладающего резким запахом и жгучим вкусом, как суффиксальное производное на -еп-ъсъ/-ъп-ъсъ от более древ­ него<m type="suffix">
+        <ref>-г-производного</ref>
+      </m>
+      <ref type="etymon" target="bedn">*bedn</ref>, 
+функционально 
+и структурно по­
+нимаемого нами как прилаг. от глагольной основы <ref type="etymon" target="bed">*bed</ref>~l<ref type="etymon" target="bod-">*bod-</ref>, 
+ср. праслав. <ref type="etymon" target="body">*body</ref>, <ref type="etymon" target="bosti">*bosti</ref> ' к о л о т ь ' и родственные (см. еще близ­
+кое 
+<ref type="etymon" target="bedrenikb">*bedrenikb/</ref>
+      <ref type="etymon" target="bedrbnifo">*bedrbnifo)</ref>.</gram>
+  </gramGrp>
+  <note>Этими броскими качествами бедре­ нец давно обратил на себя внимание (в качестве некоторой се- мантич. аналогии здесь можно указать на лат. эпитет saxifraga 'ломающая камни', придаваемый обычно лат. названию бедренца и калькированный в русск. научной терминологии, ср. бедренец к а м н е л о м к о в ы й ) . Родство названий бедренца, приве­ денных выше, а также в предыдущей ст., с названием бедра — *bedra,<xr type="compare">см. <ref type="etymon" target="bedro">*bedro</ref>
+    </xr> предполагалось уже давно и 
+неоднократно 
+(см. 
+еще 
+Miklosich 
+8; 
+H o l u b — K o p e c n y 
+67: 
+bedrnik &lt;C bedro. 
+«Ввиду того, что корень его пах козлом, бедренец был древним 
+колдовским зельем для возбуждения детородной силы (бедро — 
+вместилище плодородия)»; см. совершенно аналогично 
+Machek. 
+Jmena rostlin 158; Machek 28; Bezlaj Etim. slovar, рукоп., Л ю б ­
+ляна). 
+Однако существенное отличие нашего понимания 
+связи 
+с *bedro ' б е д р о ' состоит в том, что общим исходным словом всей 
+семьи мы считаем не сложившееся уже *bedro со знач. ' б е д р о ' , 
+а прилаг. на -r-*bedn 
+с семантикой 'острый, колкий' и под., кот. 
+положено в основу как названия бедра, так и названий растения 
+и некоторых прочих апеллативов, 
+испытав при этом субстан­
+тивацию в условиях различного 
+суффиксального 
+оформления. 
+Описанное прилаг. *bedn, 
+в реальности и четких связях кото­
+рого с глагольной 
+основой *bed-/*bod- 
+' к о л о т ь ' трудно сомне­
+ваться, мы не выделяем в виде самостоятельной словарной статьи 
+единственно по той причине, что оно устанавливается нами путем
+реконструкции второй ступени, не будучи нам дано в виде пря­
+мых продолжений в слав, языках. 
+Недостатком предшествую­
+щих этимологизации как 
+*Ъед,гъпъсъ, *Ьес1гъткъ, 
+так и *bedro 
+(см. ниже) был постулат изначальности знач. *bedro ' б е д р о ' . 
+Ввиду тонизирующих свойств растения 
+высказывалось 
+мне­
+ние о родстве его названия с праслав. <xr type="compare">см. <ref type="etymon" target="yg">*Ьъйгъ</ref>
+    </xr> (Bruckner 25; 
+Фасмер I, 142; Меркулова. Очерки по русск. народн. номенкла­
+туре растений 66, с приведением названий другого близкого расте­
+ния — русск. диал. бадрянка, бадрбнка, 
+бадровъ; 
+эти названия 
+могли испытать влияние вокализма русск. бодрый или вообще 
+могли быть произведены от последнего слова, см. Sadnik—Ait­
+zetmuller. V g l . W b . 4, 261). Однако первоначальная, этимологи­
+ческая связь *bedrbribcb с *Ъъйгъ ' б о д р ы й ' очень мало вероятна 
+по соображениям лингвистич. географии и историч. диалектоло­
+гии, поскольку праслав. 
+*bbdn 
+отсутствует и, по-видимому, 
+отсутствовало всегда в зап.-слав, 
+языках, 
+будучи распростра­
+нено на востоке и юге славянства. У нас нет также никаких осно­
+ваний принимать вокализм *Ъъа^г- для нашего названия растения 
+Pimpinella saxifraga, как раз хорошо известного как в зап.-слав., 
+так 
+и 
+вост.-слав, языках. 
+Предпринималась 
+также 
+попытка 
+выявить в названии бедренца продолжение особого и.-е. *bhedr-
+'процветание, богатство' (Н. G. Lunt. Old Church Slavonic bed-
+гъпо. — «Language» 29, 1953, 129 и след., Меркулова, там же; 
+Sadnik—Aitzetmuller. 
+V g l . W b . 4, 262), но допускаемая иногда 
+при этом связь *bhedr- и *Ьъйгъ 
+едва ли приемлема, 
+наконец, 
+само 
+отражение 
+и.-е. *bhedr- в слав, 
+весьма 
+проблематично 
+(<xr type="compare">см. <ref type="etymon" target="eagp">*Ьеа*гъпъ</ref>
+    </xr> II), а привлечение сюда др.-инд. bhadrd 'счастливый, 
+отрадный' ( Н . G. Lunt, там же; Sadnik — Aitzetmuller, там же) 
+также не бесспорно (см. Mayrhofer II, 467—468). 
+Прочие этимологии см. Фасмер, там же; 
+Sadnik—Aitzetmuller. 
+там же. Рудницкий допускает даже заимствование из 
+ср.-лат. 
+*piperinella 
+(Rudnyckyj 1, 96).</note>
+</Entry>

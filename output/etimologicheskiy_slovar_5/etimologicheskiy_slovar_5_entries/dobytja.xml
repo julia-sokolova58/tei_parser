@@ -1,0 +1,91 @@
+<Entry xml:id="dobytja">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobytja</orth>
+    <lemma>dobytja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddbica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прибыль, выгода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 501)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>добыча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Добыча</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1551 г., Тупиков 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добыча</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>добыча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>заработок, доход от чего- либо , добыча ж. р. заработок, выручка (моек., ряз., яросл., новг., костр., влад., калуж., пек., ленингр.), отхожий промысел, уход на заработки (влад., смол., ленингр., терск.) , сюда же дббычь ж. р. добытое торговлей или трудами имущество (южн.), лов, ловля, пора лова рыбы (черном., азов., донск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дббич</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>добыча, скот (Желех.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>добйча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>количество меда, собранное пчелой за один полет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 329)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-tja</ref>
+      </m> от гл. <ref type="etymon" target="dobyti">*dobyti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

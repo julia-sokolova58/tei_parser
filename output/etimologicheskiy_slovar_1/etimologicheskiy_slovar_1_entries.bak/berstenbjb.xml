@@ -1,0 +1,57 @@
+<Entry xml:id="berstenbjb">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstenb(jb)</orth>
+    <lemma>berstenb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bresten</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>ulmeus, вязовый , также brijestan, brijesan прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X I в., в ит. и лат. текстах, RJA I, 629)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(только в словарях Беллы и Стулли, там же, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>brze</ref>§ciany</orth>
+      </form>
+      <sense>
+        <def>берестовый, вязовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёстяный</ref>, берестяной</orth>
+      </form>
+      <sense>
+        <def>берестовый, у к р . берестянйй берестовый, берестяной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>берасцяны</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ёп- от основы<ref type="etymon" target="berst-">*berst-</ref> и соотноси­
+мое в одних случаях ('вязовый') с <ref type="etymon" target="bersto">*bersto</ref> (см.), в других ('берестя­
+ной, 
+из бересты') — с <ref type="etymon" target="bersta">*bersta</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

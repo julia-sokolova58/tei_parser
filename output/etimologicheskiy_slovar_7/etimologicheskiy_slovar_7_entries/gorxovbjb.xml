@@ -1,0 +1,139 @@
+<Entry xml:id="gorxovbjb">
+  <pb n="43" end_page="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorxovb(jb)</orth>
+    <lemma>gorxovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грахов</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гороховый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грахов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>фасолевый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdhov</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гороховый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrachovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гороховый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrachovy</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grochowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гороховый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grochowy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гороховый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1032)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grexugvi</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гороховый</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI, XVII вв., Сл РЯ XI—XVII вв. 4, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гороховый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к гороху относящийся; из гороха при- готовленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 942)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>Горохов</ref> м. р., название по­ местья в Волынской земле</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1487 г., Словник ст.-укр. мови X I V — X V ст. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гороховый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>гороховый (Грин­ ченко)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбхавы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гороховый, также</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="gorxb">*gorxb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,102 @@
+<Entry xml:id="drzost">
+  <pb n="228" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrzostь</orth>
+    <lemma>dьrzostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Д</ref>^АЗОГТА, Д^ЪЗОГТА ж. р. т6Хрл]|ш, ausum; тсарргг аса, fiducia; г^раоо^, audacia</orth>
+      </form>
+      <sense>
+        <def>дерзость, смелость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Клоц., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дерзости</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерзость, смелость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрзоспг</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерзость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 710; RJA II, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dfzost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерзость, смелость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drzost</ref> ж. р. то же, елвц. drzost</orth>
+      </form>
+      <sense>
+        <def>ж. р. дерзость, наглость, бесстыдство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>girzosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерзость, смелость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дързостпъ</ref>, дрьзость, дръзостпь</orth>
+      </form>
+      <sense>
+        <def>смелость (Поуч. Влад. Мон.), дерзость (Панд. Ант. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 778—779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дерзость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свой­ ство дерзкого; дерзкие речи, поступки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1071)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="dhrzb">*dhrzb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

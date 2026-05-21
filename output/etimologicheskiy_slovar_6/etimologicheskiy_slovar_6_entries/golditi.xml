@@ -1,0 +1,109 @@
+<Entry xml:id="golditi">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golditi</orth>
+    <lemma>golditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гладя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вызывать, причинять голод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров— Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gldditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морить голодом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gladiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glodzid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морить голодом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1159; Warsz. I, 843)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glhegec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морить голодом, glhegec sq голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голодйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лишать продовольствия, питания; заставлять голодать , голодйтъ морить голодом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 6, 315)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь гово­ ров Подмосковья 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голодйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морить голодом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галадзщъ</ref> то же . — Ср. сюда же отглагольное прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>ГЛЛДИБЪ apuaxTixoc, атсХтрсос, Хе- X7]&amp;apY7]|xevo&lt;;, rapax, insatiabilis, veternosus, esuriens 'ненасытный, жадный, голодный' (Супр., Вост., Mikl., Sad., SJS).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на iti (каузатив, но ср. отличный способ глагольного действия в словен. и — косвенно — в ст.-слав.), производный от<ref type="etymon" target="goldb-2">*goldb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

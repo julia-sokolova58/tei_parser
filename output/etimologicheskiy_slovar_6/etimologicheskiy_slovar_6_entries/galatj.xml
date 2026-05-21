@@ -1,0 +1,28 @@
+<Entry xml:id="galatj">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galatъ(jь)</orth>
+    <lemma>galatъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>halaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полуголый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Novomestsko, Bartos. Slov. 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от к.<ref type="etymon" target="gal-y">*gal-y</ref> с продленным 
+вокализмом, родственного <ref type="etymon" target="golb">*golb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. сюда же *gaVa I, *galo I, *galqzb, *galb I (см. ниже).</note>
+</Entry>

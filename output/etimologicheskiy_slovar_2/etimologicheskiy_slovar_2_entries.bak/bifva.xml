@@ -1,0 +1,206 @@
+<Entry xml:id="bifva">
+  <pb n="100" end_page="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bifva</orth>
+    <lemma>bifva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>битва</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>битва, сражение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; БТР, Мла\енов ЕПР: возм., из русск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>битва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва , •</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bltva</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>pugna, бой, битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 372; РСА I, " 578: из русск;)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bltva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, бой , bltev, • род. -пад; -tvef ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bitba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>борьба, бой, драка (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bltva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, схватка, драка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bitva</ref> ж. р. (книжн., стар.)</orth>
+      </form>
+      <sense>
+        <def>битва , bitbka</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ, I 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bitwa</ref> ж. р. сбитва, бой</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bitwa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сраже­ ние, битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bitwa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, сражение, драка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 534)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjltua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, драка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. I, 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>битва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бой, сражение, брань в больших размерах, где дерутся целые армии, полчища, ополчения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>битва</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>возня, суета , беспокойство, хлопоты (Картотека Печорского словаря), битей ж. р. возня, хлопоты, мученье (якут., перм., свердл., костр., нижегор., арх,), бойкий ребенок (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Богораз 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 2 9 6 — 2 9 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>битва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва , битва ж. р. , битва побои</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1595 г., Тимченко I, 92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 162)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Няговская Постилла XVI в., л. 2 0 3 б, Л. Деже. Материалы к словарю закарпатской литературы XVI—XVII вв. Будапешт, 1965 [микрофильм], 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>битва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, бой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бгтва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>бгтва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка 5</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Бесспорно древнее образование с суфф.<m type="suffix">
+        <ref>-tva</ref>
+      </m> от основы гл. 
+<ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Иначе ср. Sadnik—Aitzetmuller. Vgl. Wb. 5, 3 1 5 . Есть известные основания, позволяющие говорить о дославян- ской древности слова *bitva. Так, указывалось на его род­ ство с иллир. (мессап.) ЗЬртр • Speraxvov а[АтсеХот6лоу (Гесихий), т. е. 'виноградарский серп'. См. об этом, вслед за Педерсеном (Н. Pedersen «Deutsche Literaturzeitung» 50, 1929, 1812), — Н. Krahe. Die Sprache der Illyrier. I. Teil : Die Quellen (Wiesba­ den, 1955) 39 автор читает (3tap7]v как первонач. *Ы /д ,оа&lt;^*Ыриа); Pokorny I, 118.</note>
+</Entry>

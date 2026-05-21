@@ -1,0 +1,34 @@
+<Entry xml:id="brbnejb">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbnejb</orth>
+    <lemma>brbnejb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. (<ref>слвц</ref>.? — ср. ИСТОЧНИК, ниже) brnej м. р.</orth>
+      </form>
+      <sense>
+        <def>горячее (кушанье, питье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 99, со ссылкой на: Bernolakuv Slovar slovensky, 1825 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfnel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шмель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz SJovinz. Wb. I, 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(e)jb от гл.<ref type="etymon" target="gpyoi-2">*ЬгьпёИ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

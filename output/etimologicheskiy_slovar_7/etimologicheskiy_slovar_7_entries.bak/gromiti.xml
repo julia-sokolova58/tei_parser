@@ -1,0 +1,129 @@
+<Entry xml:id="gromiti">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gromiti</orth>
+    <lemma>gromiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>громити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, громыхать, проклинать, бранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 673)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hromiti</ref>, елвц.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hromif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, бить (как гром)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Турч. Ж., Kalal 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gromid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>порицать, бранить, (стар.) громить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>громити</ref> ,</orth>
+      </form>
+      <sense>
+        <def>громить, грабить, разбивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Козаки громятъ улусы. Дел. г. Казаки . . . овогда суды государевы громяху. Никон, л. т. VIII. 1, Срезнев­ ский I, 597)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Сп. Флетчера 96, 1589 г., СлРЯ XI—XVII вв. 4, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>громить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раз­ бивать неприятеля, поражать в бою сильно, поголовно; разрушать, разорять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль :з 1, 981)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>громить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднимать крупную рыбу стуком п шумом (астрах., урал., каз.), Филин 7, 149—150), ругать в глаза кого-, i ибо , громиться смеяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(орл., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>громити</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1690 г., Rudnyckyj I, 734)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>громити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грамщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Г л. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gromb">*gromb</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,198 @@
+<Entry xml:id="gqslb">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqslb</orth>
+    <lemma>gqslb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>мн. *gqsli</orth>
+    <lemma>мн. *gqsli</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>глчсли</ref> мн. xiftdpa, cithara</orth>
+      </form>
+      <sense>
+        <def>гусли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъела</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>струнный смычковый музыкаль­ ный инструмент , гусла ж. р. то же , гусли мн. гусли (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гусла</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гусли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>gusla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид народной скрипки , также гусле, гусли мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV по XVIII в., RJA III, 508)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 772)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosli</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>скрипка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>housle</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>скрипка, также husle мн</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hucVe</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>husle</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>скрипка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 542)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>husla</ref> ж. р., обычно husle мн.</orth>
+      </form>
+      <sense>
+        <def>скрипка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gusle</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>скрипка, арфа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>g</ref>$sl ж. р., обычно g$čle, g$$li мн.</orth>
+      </form>
+      <sense>
+        <def>вид народной скрипки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гХслъ</ref> xi&amp;dpa, cithara, гъели мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Быт. IV. 21 по сп. XIV в.; Гр. Наз. XI в. 302; Мин. Пут. XI в. 3; Ефр. Крм. 2. Ник. 22; Панд. Ант. XI в. Пс. XLVI. 8, Срезневский I, 610)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гусли</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>старинный русский многострунный инструмент вроде цитры</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гусла</ref>, гуслг мн.</orth>
+      </form>
+      <sense>
+        <def>гусли, скрипка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гуслг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скрипка, губная гармоника, гусли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпат­ ский диалектологический атлас 125; В. В. Бабинець. Гов1рка с. Лавки Мукач. р-ну. Дип. роб. Ужгород, 1954, 147: гуслЧ 'скрипка')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гуслг</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>гусли</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-sib</ref>
+      </m> от основы гл. <ref type="etymon" target="gqsti">*gqsti</ref> (см.), т. е. 
+<ref type="etymon" target="ggd-slb">*ggd-slb</ref>. 
+""См.</gram>
+  </gramGrp>
+  <note>A. Meillet. Etudes II, 416; Berneker I, 340—341; Stawski I, 274; Фасмер I, 477. Впрочем, праформа *ggslb допускает двоякую дальнейшую ре­ конструкцию, в частности<xr type="compare">см. <ref type="etymon" target="ggd-tl-">*ggd-tl-</ref>
+    </xr> Machek
+2 180. Можно про­
+вести определенную параллель между праслав. *ggslb и лит. han­
+kies мн. 'гусли' (&lt;^*kan-tl-, 
+см. Fraenkel 
+I, 215), указав вместе 
+с тем на совершенное различие исходных баз слав, и балт. слов.</note>
+</Entry>

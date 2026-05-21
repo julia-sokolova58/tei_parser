@@ -1,0 +1,84 @@
+<Entry xml:id="brzdzati">
+  <pb n="24" end_page="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br§zdzati</orth>
+    <lemma>br§zdzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brezdeti</ref>: bfezdi</orth>
+      </form>
+      <sense>
+        <def>слякотно, грязно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брязжать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить пустяки, болтать, попрошай­ ничать, сплетничать , брезжить врать , брезжить, брязжать бренчать, звенеть дрожью, как бы от тряски; болтать, говорить вздор , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 6)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брязчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бренчать, дребезжать , бряжчати то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 10, Тимченко I, 146)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 50, Тимченко I, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брязчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бряцать, звенеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бражджацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бренчать, бряцать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="brezgati-4">*brezgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

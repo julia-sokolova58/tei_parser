@@ -1,0 +1,132 @@
+<Entry xml:id="besbinjb">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besbin&gt;(jb)</orth>
+    <lemma>besbin&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ьксАиъ</ref>, -ъш, прилаг. jxavKoSirjc, jj.aivop.evog, furore plenus, furiosus</orth>
+      </form>
+      <sense>
+        <def>неистовый, бешеный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бёсен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бешеный, разъяренный, буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бЪсныи)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бесен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бешеный, взбесившийся, злой, взбешенный, распущен­ ный, разнузданный, распоясавшийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бщёсан</ref>, -сна, -сно,</orth>
+      </form>
+      <sense>
+        <def>бешеный, надменный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>besen</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>беше­ ный, сумасшедший, горячий, пугливый (напр. о коне), буйный, шальной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>besny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бешеный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>besny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бешеный, буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>бЪсънии</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесноватый, daemoniacus, vesanus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёсный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>бешеный, буйный, неспокойный , сюда же весна падучая болезнь, родимец и др. конвульсивные болезни, припи­ сываемые суеверами бесовскому наваждению</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 2, 269)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪсный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесноватый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 6icHuu, -<ref>а</ref>, -е</orth>
+      </form>
+      <sense>
+        <def>сумасшедший, бесноватый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -ъп- от<xr type="compare">см. <ref type="etymon" target="6">*6&amp;ъ</ref>
+    </xr>.</note>
+</Entry>

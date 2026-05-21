@@ -1,0 +1,158 @@
+<Entry xml:id="golvica">
+  <pb n="7" end_page="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golvica</orth>
+    <lemma>golvica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>главйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>головка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глъвйца</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>головка луку, чесноку , главйчка ж. р. нижняя, расширенная часть мутовки для сбивания масла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново Село, Видинско 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>главйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>головка (лука, чеснока и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>главйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>головка, кочан (капусты и т. п.), холм, кочка, бугор</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glauica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пуговица , gldvica ж. р., glavica кочан, головка, шишка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gutsmann 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlauice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голова, головка , елвц. hlavica ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 684; Kott I, 428)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>giowica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>giowica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>головка, рукоять (холодного оружия)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 848)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>giowice</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>отходы волокна с верхней части конопли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. Falinska. Pol. si. tkackie I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голбвйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>семя льна, конопли (ср.-урал., свердл., волог., яросл., калуж., ряз., влад., пек., калин.), шелуха от льняных головок; льняная мякина (север., волог., новг., яросл., влад., калин., твер., моек.), передняя часть саней, дровней, передок (киров., новг.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 305—306, там же нек. вторичные знач-я; см. еще Мельниченко 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>головйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голова, девичник, родник, рыба Salmo hucho</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>головйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оставшееся после веянья зерно , го- ловёца часть уздечки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Выгонная. Полес­ ская земледельческая терминология. — Лексика Полесья 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический атлас 208)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="golva-2">*golva</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,38 @@
+<Entry xml:id="estel">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstelь</orth>
+    <lemma>ĕstelь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>метель</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>питающийся . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр, XVII, Срезневский III, 1666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>астеливу</ref> щетелит, прилаг.</orth>
+      </form>
+      <sense>
+        <def>прожорливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-1е1ь</ref>
+      </m> от гл. <ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="yoyt">*ёйть</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. лат. com-estor 'пожиратель'.</note>
+</Entry>

@@ -1,0 +1,36 @@
+<entries>
+  <entry xml:id="brmiti" xml:id="brmiti">
+    <pb n="129" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrmiti</orth>
+      <lemma>Ь ъ г т Ш</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бармйть</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать, говорить невнятно , бармйть неясно говорить , бурмйть говорить тихо, невнятно; бормотать , бормйть говорить невнятно, бормотать (ряз.), красть, воровать (пермск.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(моск.-руз., Даль 3 I, 126)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Словарь русских старожильческих говоров средней части бассейна р. Оби 1, 27)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(курск., том., Филин 3, 294)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3, 119)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. звукоподражат. происхождения, ср. <ref type="etymon" target="gtyoi">*ЬгътёИ</ref>&gt; <ref type="etymon" target="gpyoi-2">*ЬгъпёИ</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

@@ -1,0 +1,31 @@
+<Entry xml:id="yo1ogik">
+  <pb n="73" end_page="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1огИъкъ</orth>
+    <lemma>Ьё1огИъкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>beloritk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 27)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ък</ref>
+      </m> от <ref type="etymon" target="yo1ogi">*Ъё1огИъ</ref>\ъ (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="yo1ogika">*Ьё1огИъка</ref>
+    </xr> 
+(выше).
+•beloritb/ъ</note>
+</Entry>

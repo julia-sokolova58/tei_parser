@@ -1,0 +1,100 @@
+<Entry xml:id="delnj">
+  <pb n="11" end_page="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlьnъjь</orth>
+    <lemma>dĕlьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>d</ref>]e\an, dje</orth>
+      </form>
+      <sense>
+        <def>трудолюбивый, работящий , delni den будний день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(na, прилаг. (только в словаре Стулли, со знач. 'lavorativo, орегае vel culturae aptus', RJA II, 450), чеш. delny, прилаг. 'трудовой, рабочий, деловой', также dilny (Jungmann I, 367), delni (Jungmann I, 352), диал. delny)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>delny</ref>, delni</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Blanar. Hist, lexikol. 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zelny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прилежный, трудолю­ бивый, усердный, деятельный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzielny</ref> бывалый, умелый</orth>
+      </form>
+      <sense>
+        <def>, энергичный, храбрый »</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 573— 574)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дельный</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И пар8сницы нши, и ловцы наши, и соколницы наши да не вступаютца в нихъ, и да не взимаютъ X нихъ ихъ дЪлныхъ орудш, да не отнимаютъ ни­ чего же. Ярл. Узб. 1315 г.; Семоу млъчдщю пр^бывашитю 5&amp;че.. в &gt; а ономоу дЪльнЪииюу и потр-ЬбыгЬишю. Гр. Наз. XI в. Срезневский 1, 791)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дельный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>способный к работе, деловой, серьезный, основательный, (устар.) предназ- •denica наченный для работы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дельный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>самотканный вытканный своими руками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брян­ ских говоров. — «Брянские говоры». Л., 1968, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дыьний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>рабочий, занятый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 3.91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. ~ыгъ от<ref type="etymon" target="delo">*delo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

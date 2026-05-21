@@ -1,0 +1,98 @@
+<Entry xml:id="azsp">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>азьсьпъ]ь</orth>
+    <lemma>азьсьпъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яйчен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaJ4UH</ref> (Коп.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jajcan</ref>, jajcen</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA IV, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdjcen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>vajecny</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>uajecny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный, из яиц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ V, 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jajeczny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яичный</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яёшний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный , яёчний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грииченко IV, 536)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 536)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное, производное с суфф. -ъпъ(]ъ) от<ref type="etymon" target="ajbce">*ajbce</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

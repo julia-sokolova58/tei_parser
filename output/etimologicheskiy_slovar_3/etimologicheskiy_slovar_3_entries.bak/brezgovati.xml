@@ -1,0 +1,39 @@
+<Entry xml:id="brezgovati">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezgovati</orth>
+    <lemma>brezgovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>брЪзговати</ref>, бр-ЬзгХю</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БрЪзго- ующи и ненавидящи смрада грЪховнаго. Жит. Андр. Юр. X X X I V , 138, Срезневский I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брезговать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пренебрегать, гну­ шаться; быть взыскательным, разборчивым; привередничать, особ, о пище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 3 1 0 - 3 1 1 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ov-ati</ref>
+      </m>, 
+связанный с <ref type="etymon" target="brezgati-2">*brezgati</ref> 
+I (см.).</gram>
+  </gramGrp>
+  <note>Ср. еще неясное<xr type="compare">см. <ref type="etymon" target="bregovati">*bregovati</ref>
+    </xr>.</note>
+</Entry>

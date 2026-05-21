@@ -1,0 +1,152 @@
+<Entry xml:id="divina">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divina</orth>
+    <lemma>divina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дивина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>животное, зверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дивина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь, дичь, глушь (дикий край) (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>дивина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дикий зверь (волк, медведь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот говор 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дивина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикость, волк, тухлый запах от мяса, дикое мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>дивина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дикий зверь, волк, дикое место , divyna вареные овощи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. 1)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sus. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>divjina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь, дикое, глухое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>divina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикое мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 242)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>divina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикий зверь, мясо дичи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ziwina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь, дичина, пустошь, пустыня, одичалое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дивена</ref>, дивина ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Verbascum nigrum L., коровяк черный (смол., костр.), растение Verbascum thapsus L., коровяк — медвежье ухо (смол., калуж., перм., тамб., курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дивина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>удивление, диковина (Лохв. у.), растение царский жезл, Verbascum Lychnitis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко 1, 382)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дивина</ref>, дывина ж. p.</orth>
+      </form>
+      <sense>
+        <def>Verbascum thapsiforme Schrad., коровяк тапсовидный, Primula veris L., первоцвет настоящий , довина название растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Лексика Полесья» 420)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ващенко. Лшгвктична географ1я Наддншрянщини 53)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="divbu">*divb(/ь)у</ref>
+      <ref type="etymon" target="divo-2">*divo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

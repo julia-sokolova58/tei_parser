@@ -1,0 +1,28 @@
+<Entry xml:id="ga">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъга</orth>
+    <lemma>Ьъга</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>baza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>террасный виноградник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 15)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Близко родственно приставочным<ref type="etymon" target="obbga">*obbga</ref>, 
+<ref type="etymon" target="o2a">*оЬъ2а</ref> 
+(см.) и, как 
+и последние, произведено от гл. <ref type="etymon" target="bbgati">*bbgati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. специально о словен. слове Bezlaj. Eseji о sloven, jez. 140; Б е з л а й — В Я , 1967, № 4, 51.</note>
+</Entry>

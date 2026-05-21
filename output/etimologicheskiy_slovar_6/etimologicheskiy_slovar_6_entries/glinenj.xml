@@ -1,0 +1,138 @@
+<Entry xml:id="glinenj">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinĕnъ(jь)</orth>
+    <lemma>glinĕnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глиняный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глйнен</ref>, глйгьан, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III 348—349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glinqn</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlineny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный , елвц. hlineny, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 433)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glinany</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>glainena</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polariski—Sehnert 63, с реконструкцией *glinen[-oje?])</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gliniany</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 835; Dorosz. II, 1141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gldnani</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глинхтыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>из глины сделанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лев. X I . 33. по сп. X I V в.; Георг. Ам. 251 л., Срезневский I, 519—520)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глиняный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>сделанный из глины</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глйняний</ref>, -а, -е то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 289)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глшяны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ёпъ</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

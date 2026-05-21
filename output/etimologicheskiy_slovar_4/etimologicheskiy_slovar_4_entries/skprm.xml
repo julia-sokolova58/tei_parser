@@ -1,0 +1,43 @@
+<Entry xml:id="skprm">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ськпрМ</orth>
+    <lemma>ськпрМ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>caknuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издать звук, стукнуть, звякнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 883)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. обл. <ref>чкнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкнуть, ударить кого-что- нибудь, чкнуть щелкнуть, ударить (Картотека Печорского словаря), чёкнуть ударить, колонуть, ударить палкой-локтой в мяч , чихнуть ударить, ушибить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 341)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вят., Опыт 258)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nQti</ref>
+      </m>, соотносительный с <ref type="etymon" target="cikati">*cikati</ref> (см.).</gram>
+  </gramGrp>
+  <note>В конечном счете экспрессивное.</note>
+</Entry>

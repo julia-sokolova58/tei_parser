@@ -1,0 +1,52 @@
+<Entry xml:id="derba">
+  <pb n="206" end_page="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>der§ba</orth>
+    <lemma>der§ba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дерЛба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко ревущий, громко ругающийся , вьюрок (птица) , дерЛба м. и ж. p. плаксивый ребенок, плакса (влад., симб., каз., нижегор., твер., вят., волог., свердл.), вздорный, сварливый человек(новг., вят.), драчун, драчунья, забияка (ряз.), тот, кто громко и фаль­ шиво поет , заносчивый, чванливый, высокомерный чело­ век (перм.), рябая, крупная и неуклюжая женщина (новг., влад.), тот, кто много чешется (симб.), скребок, чесалка (перм.) , дерЛба ж. р. труднопроходимое место в лесу , ткань из конопля­ ного волокна, половик из грубого холста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иркутский областной словарь I, 132—133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дерЛба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица соя Corvus glandarius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 372)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ф- от гл.<ref type="etymon" target="derti">*derti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Фаем ер I, 505.<xr type="compare">Ср. <ref type="etymon" target="derga">*der$ga</ref>
+    </xr> (см.).</note>
+</Entry>

@@ -1,0 +1,99 @@
+<Entry xml:id="gadjati">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadjati</orth>
+    <lemma>gadjati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гаждам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целить , гаджам то же , гагям</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гага</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, целиться, метить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>га</ref>%ати то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>га</ref>%ат также</orth>
+      </form>
+      <sense>
+        <def>стрелять (Елез. I), gadjati бить, поражать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Term, rib. 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdjati</ref> se</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(kako se ti gaja? 'как поживаешь?'. — Plet. I, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdzeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, метать, швырять, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hdzet</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hddzaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, метать, трясти, сотрясать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 451—452)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративно-дуративный гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> с продленным гласным корня, 
+производный от <ref type="etymon" target="goditi">*goditi</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,108 @@
+<Entry xml:id="dlznj">
+  <pb n="181" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъlžьnъ(jь)</orth>
+    <lemma>dъlžьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длъжен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>должный, обязанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>должен</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дужан</ref>, -жна, -жно</orth>
+      </form>
+      <sense>
+        <def>должный, тот, кто должен, виновный, причитающийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dolzen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дол­ жен; должный, причитающийся, должный, обязательный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slo- var sloven, jezika I, 456—457)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dolzdn</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>должный, обязан­ ный (кому, в чём) (Strekelj Slov. И)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dluzny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>должный, должен</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dlzny</ref>, dlzen</orth>
+      </form>
+      <sense>
+        <def>должный, должен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dluzny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>должный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dluzny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>должный, должен, обязанный, долговой (Dorosz</def>
+      </sense>
+    </item>
+  </etym>
+  <note>II, 149), словин. dleznt, прилаг. 'должный, должен' (Lorentz Slovinz. Wb. I, 183), др.-русск., русск.-цслав. дължъныи, длъжъныи, долъжь- ныи, дрлжъныи 'должный, должник' (Лук. XVI. 6, 7. Гал. ев. XIII в.), 'платящий подать (?)' (Никон, л. под 1228 г.), 'обязан­ ный' (Лук. XVII. 10. Остр, ев.), 'должный, следуемый' (Ефр. Крм. Конст. поел.), 'грешный' (Лук. XIII. 4. Остр, ев.) (Срез­ невский I, 759), русск. должный, -ая, -ое 'подобающий, полагаю­ щийся по правилам, по праву, по заслугам и т. п.; нужный, необходимый', (устар.) 'имеющий на себе какой-либо долг'.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="y">*йъ/</ref>^ъ (см.).</gram>
+  </gramGrp>
+</Entry>

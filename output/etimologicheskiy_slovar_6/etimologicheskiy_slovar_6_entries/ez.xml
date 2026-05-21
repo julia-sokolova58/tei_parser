@@ -1,0 +1,175 @@
+<Entry xml:id="ez">
+  <pb n="37" end_page="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ežь</orth>
+    <lemma>ežь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еою</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>еж , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, Дювернуа, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>еш</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 64; Стойчев БД II, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>еж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>еж Erinaceus europaeus L</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. ]<ref>ёжа</ref> м. р. то же (Елез. I)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>еж Erinaceus europaeus L., растение Datura stramonium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jez</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>еж, елвц. jez м. p. еж Erinaceus europaeus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 651)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jez</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>еж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jaz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>еж Erinaceus europaeus L., червяк или личинка у скота, зуд кожи, плевел пьяный, головолом Lolium temulentum L. , jez м. p. еж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 538)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 552—553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jiz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>еж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jez</ref> м, p.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>wiez</ref>, wjiz м. p.</orth>
+      </form>
+      <sense>
+        <def>еж Erinaceus europaeus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jeiz</ref> M. p.</orth>
+      </form>
+      <sense>
+        <def>еж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ожь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ди­ кобраз, еж , также ежь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Втз. XIV. 7 по сп. XIV в.; Псалт. толк. Феодорит., Срезневский II, 633)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Соф. II. 13.—Библ. 1499 г.; Сл. Дан. Зат., Срезневский I, 820)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшой зверек класса млекопитающих, спина и бока которого покрыты острыми иглами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>ож</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>еж , 1жл шж то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомирщины. — Славян­ ская лексикография и лексикология 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. Верх- ратський. Знадоби 222)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Подобно тому как греч. e/lvo^ арм. ozni, др.-в.-нем. igil (соврем, нем. Igel) представляют собой названия ежа, производные с раз­ личными суффиксами от и.-е. *egh(i)~ 'змея', праслав. *е%ъ вос­ ходит, как и лит. ezys, лтш. ezis 'еж', к и.-е. йотовому произ­ водному *egh-io- (праслав. *ezio~) от той же основы, &lt; ср. прежде всего греч. S^t? 'змея', арм. iz 'гадюка'. Т. о., *еčь — первонач. 'змеиный', табуистич. обозначение животного, враждебного змее, пожирателя змей. Из литер.: A. Pictet KZ VI, 1857, 185—186; Н. Hiibschmann KZ XXIII, 1877, 25; J. Scheftelowitz ВВ XXVIII, 1904, 300; A. Fick ВВ X X I X , 1905, 237 (ср. фриг. еЬс, точнее efo 'еж'); Berneker I, 266—267; Trautmann BSW 73; Фасмер И, 10; Ро­ к о т у I, 292. E</note>
+</Entry>

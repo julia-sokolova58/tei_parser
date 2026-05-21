@@ -1,0 +1,77 @@
+<Entry xml:id="bezdibno">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdi»bno</orth>
+    <lemma>bezdi»bno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezdno</ref>, bezno, bezadno, brezdno ср. p.</orth>
+      </form>
+      <sense>
+        <def>про­ пасть, топоним Bezdano , безно ср. p. бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 267, 271, 262, 633)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PCA I, 413)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdno</ref>, brezno cp .p.</orth>
+      </form>
+      <sense>
+        <def>бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezedno</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>бездна, елвц. bezdno ср. p. бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjezedno</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>бездна, пропасть , bjezdno ср. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jakubas 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdno</ref>, bezedno cp, p.</orth>
+      </form>
+      <sense>
+        <def>пропасть, бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач. адъективная форма ср. р., сложение<ref type="etymon" target="bez-30">*bez</ref> (см.) и 
+<ref type="etymon" target="d">*d</ref>^no 
+(см.).</gram>
+  </gramGrp>
+  <note>Подробнее<xr type="compare">см. <ref type="etymon" target="bezdbbna">*bezdbbna</ref>
+    </xr>.</note>
+</Entry>

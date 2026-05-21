@@ -1,0 +1,283 @@
+<Entry xml:id="yo1z">
+  <pb n="79" end_page="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ъ(зь)</orth>
+    <lemma>Ьё1ъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ък</ref>\ъ, -ъ\н, прилаг. Хеохо?, albus, candidus</orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бял</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бел</ref>, бел</orth>
+      </form>
+      <sense>
+        <def>белый; прозрачный, чистый , сюда же сущ, бело ср. р. белки глаз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Георгиев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бел</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый, седой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёо</ref>, бйо</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бщел</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бёо</ref> , сюда же сущ. бел, бил, б]ёл м. р.</orth>
+      </form>
+      <sense>
+        <def>вид дуба Quercus sessiliflora Saesb</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>черног</ref>.) бела, бщела ж. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bel</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bela</ref> ж. р. — об овце</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bily</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белый, светлый, bile v ocich бельмо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>biely</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый, светлый, седой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bely</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 13—14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bely</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый, светлый, ясный, чистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>Vole</ref>, прилаг. м. р.</orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjauli</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>б</ref>$ла</orth>
+      </form>
+      <sense>
+        <def>белка, sciurus , мелкая мо­ нета, Хетгхоу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 859 г. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ев. толк. XVI в., Срезневский I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>имеющий цвет снега, молока, мела</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>белой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый (волог., акм.), прозвище (ворон., волог.) , белое ср. р. молочные продукты (якут.), алебастр, известь, мел, растертые в порошок для беления комнат, печей (перм.), соль (перм.) , бело ср. р. рассвет, раннее утро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(костр., Филин 2, 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>б-Ьлый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый, чистый, седой , билый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Арх. ЮЗР. I, 1, 183—1583 г., Тимченко I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый, чистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>белы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белый</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *Ьё1ъ довольно близко к реконструируемому кельт. *belos 'светлый, блестящий', ср. галльск. Belenus, эпитет Апол­ лона (см. W. Prellwitz ВВ XXII, 1897, 80; Pokorny I, 119), однако существенно отличается от него количеством гласного. Видимо, этим объясняется особая популярность сближения слав. *Ьё1ъ с др.-инд. bhalam 'блеск', с долготой в корне (Вег- neker I, 56; Pokorny I, 118; Фасмер I, 149; Vaillant. Gramm. comparee II, 2, 609 и др.). Но др.-инд. bhala- ср. р. 'лоб, бровь', в эпиграфике также 'блеск', засвидетельствовано поздно, пред­ ставляет собой слишком отчетливое индийское производное bha-la- от др.-инд. bhtiti 'светит, блестит' (т. е. к и.-е. *bha-, с кот. слав, слово связано лишь опосредствованно), чтобы быть прямо соотносимым с *Ьё1ъ как историческое тождество (см. Monier-VVilliams М. A Sanskrit-Engl. dictionary. Oxford, 1964, 754; Mayrhofer II, 496—497). В свою очередь, слав. *Ьё1ъ, кот., •belb(jb) при условии достаточно древней праформы *belo-, должно было бы иметь акутовую интонацию, постоянное ударение на старой дол­ готе корня, в действительности ведет себя как слово с древним наконечным ударением, ср. русск. бело (см. V. Kiparsky. Der Wort- akzent der russischen Schriftsprache. Heidelberg, 1962, 270). И хотя Вайян считает возможным восстанавливать балто-слав. *bela-, «conserve par le slave» (Vaillant. Там же), мы, скорее, ожидали бы результат *bela-, ср. напр. лит. Unas 'спокойный, кроткий', ст.-слав. \Ь\ъ 'ленивый', сербохорв. lijen — при лат. lenis 'мягкий, слабый', и.-е. *1ёпо- (Arumaa. Urslav. Gramm. I, 71). Т. о., если последний пример действительно содержит и.-е.ё, то этого нельзя утверждать о слав. *Ьё1ъ. Этим, очевидно, мотивируется другая довольно старая этимология слав, слова, допускающая дифтонгическую природу ё\ Ъе1ъ &lt;С *bhalios (ср. греч. cpaXtoc), с эпентезой i. См. I. Kozlovskij AfslPh XI, 1888, 395; Преображенский I, 60; особенно см. Machek 32 (: «метатеза сонантов *balios&gt; *bailos»); Machek ZfslPh XXIX, 1961, 347— 348 : Ы1ъ &lt; *bailos, ср. греч. (BaXio;, cpaXios, со специальным указанием на то, что слав, ударение — русск. бел, бела, бело — совпадает в таком случае с местом ударения греч. форм). У нас, однако, недостаточно оснований, чтобы допускать в слав, слове фонетический процесс, аналогичный романскому (ср. ст.-франц. bailie 'бледность' &lt;С галльск. *balio-, см. Pokorny I, 119). В охарактеризованной ситуации целесообразнее говорить о вто­ ричном возникновении долготы в слав. *Ъё1ъ &lt;С *Ье1ъ уже на слав, почве, при наличии сложившихся особенностей древней окситонной парадигмы (см. выше; природа продления могла быть та же, что и в ряде других случаев, отмеченных для слав, языков, см. V. Machek. Expressive Vokaldehnung in einigen slavischen Nomina. — ZfS I, 1956, 33 и след.; среди примеров автора есть, правда, и сомнительные). Поэтому надо согласиться с теми уче­ ными, кот. говорят (к сожалению, очень кратко и бегло, вне связи с совокупностью отмеченных данных) о п р о д л е н н о м во­ к а л и з м е слав, слова. См. Pokorny I, 119 (там же указывается на другие случаи продления в родственных словах: др.-исл. bal 'пламя', англос. bael 'костер', лтш. bdls'бледный'); Sadnik—Aitzet- miiller. Vgl. Wb. 2, 128. Установив, что слав. *Ьё1ъ &lt;C*belo-, мы с полным основанием возвращаемся к отождествлению слав, формы с кельт, belos (выше). Этот древний вокализм в большинстве других языков оказался перестроенным, ср. греч. &lt;раХ6; • Хеихб; (Гесихий), cpaXovei • Xaji/rcpovsi, cpaXioc 'светлый' (Boisacq 4 1013—1014; Hofmann 391; E. Fraen- kel LP 3, 1951, 117; он же «Glotta» 35, 1956, 88). Ср. сюда же — из кельт, языков — кимр. bal 'с белой мордой (о животных)', брет. bal 'белое пятно на лбу (у лошади, коровы, собаки и т. д.)', догреческое paXioc 'cpaXiog, Хеихбд' (F. Solmsen. Thrakisch-Phrygi- sches. - KZ XXXIV, 1897, 75; V. Georgiev. Die Trager. . . 96; Он же. Vorgriechische Sprachwissenschaft I. Sofia, 1941, 80; Van Windekens. Le pelasgique. Louvain, 1952, 75), макед. B a X X a &lt; *BaX-ja, BaXag, имя собств. (V. Georgiev. La toponymie ancienne, 25), алб. balle 'лоб', калабр. bdlaku 'левкой' (т. е. 'бе­ лый цветок'), иллир. происхождения, ср. мессап. Balakrahiaihi, макед. имя -собствен. BaXaxpos (Е. Q a D e 3 «Glotta» 25, 1937, 53). Сюда же относит Дечев первый компонент фрак. BeXe-8tva, Bele-sarius, Beli-sarius (D. Detschew. Die thrakischen Sprachreste. Wien, 1957, 49). Как родственное слав. *Ьё1ъ анализирует Дури- данов местн. н. Балша (Македония), Balsa (Румыния), фрак, происхождения, из *Bal-issa (И. Дуриданов «В чест на акад. Д.</note>
+  <gramGrp>
+    <gram>Де­ чев» 162). См. еще относительно догреч. paXio^ — Frisk I, 214. К числу и.-е. форм, родственных слав.<ref type="etymon" target="yo1">*Ьё1ъ</ref>, принадлежит 
+также, по-видимому, арм. bal 'туман', о кот. см. G. R. Solta. 
+Die Stellung 
+des 
+Armenischen. . . (Wien, 
+1960) 
+и 
+след.; 
+Г. Б. Джаукян. Очерки по истории дописьменного периода армян­
+ского языка 71. 
+Особого замечания требуют балт. формы. Лит. balas 'белый'; 
+лтш. bdls9 bals 'бледный, блеклый' могут продолжать только и.-е. 
+<ref type="etymon" target="bholo-">*bholo-</ref>, ср. лат. fulica &lt; <ref type="etymon" target="bholika">*bholika</ref>, о кот. см. на <ref type="etymon" target="belica">*belica</ref> (выше). 
+Можно говорить лишь об апофонии <ref type="etymon" target="bhel-">*bhel-</ref>, <ref type="etymon" target="bhol-">*bhol-</ref> на и.-е. уровне, 
+это рано нарушенное чередование сохраняется в остаточных сле­
+дах, причем славянский обобщил <ref type="etymon" target="belo-">*belo-</ref> (см. выше), неизвестное 
+балтийскому, а балтийский — <ref type="etymon" target="bolo-">*bolo-</ref>. Лит. bdltas 'белый' &lt;С <ref type="etymon" target="o1e-">*Ьо1э-</ref>
+tos, ср. и акут лит. слова (первонач. причастие, ср. гл. bdlti 
+'белеть, бледнеть'). Сюда же др.-прусск. ballo 'лоб' (чтение уста­
+новлено вместо ошибочной записи batto в так наз.</gram>
+  </gramGrp>
+  <note>Эльбингском словаре № 77, ср. фотографическое издание в кн.: «Prusij kalbos paminklab parenge V. Maziulis. Vilnius, 1966,60). См. Trautmann BSW 29—30; Fraenkel I, 32 (с литер.); Pokorny I, 119.^ Из прочей литер, о слав. *Ьё1ъ: Miklosich 12; Meillet. Etudes I, 178; J. Otrebski. Studia indoeuropeistyczne 156; F. Scholz. Sla- vische Etymologie (Wiesbaden, 1966) 60—61.</note>
+</Entry>

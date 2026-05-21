@@ -1,0 +1,94 @@
+<Entry xml:id="duxa">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxa</orth>
+    <lemma>duxa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>духа</ref> ж. p. = дух; в выражении: Нема жива дуа</orth>
+      </form>
+      <sense>
+        <def>нет живой души</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Героз—Ианчез 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>dilha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>запах , духа, дува ж. р. запах, астма, душа, сознание , сюда же dyja ж. р. за­ пах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 874—875)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 777; V, 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dilva</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duha</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>запах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ducha</ref> ж. р.: па той milou duchul</orth>
+      </form>
+      <sense>
+        <def>кля­ нусь собственной душой!</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ducha</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(па mil duchul, Kott. Dod. k Bart. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>духа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прорубь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Ли­ сенко. Словник шшських roBopiB 71)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с -о- основой<ref type="etymon" target="duxb">*duxb</ref> (см.) и гл. <ref type="etymon" target="duxati">*duxati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

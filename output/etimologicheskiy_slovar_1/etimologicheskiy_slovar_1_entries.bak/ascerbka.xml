@@ -1,0 +1,102 @@
+<Entry xml:id="ascerbka">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ascerbka</orth>
+    <lemma>ascerbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jesterka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jascirka</ref> , iscerka, hiscerka, scurka , isterka</orth>
+      </form>
+      <sense>
+        <def>яще­ рица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska Slov. chod. 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jaszczurka</ref>, стар, jaszc- zorka, jeszczorka ж. p.</orth>
+      </form>
+      <sense>
+        <def>ящерица Lacerta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 144, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ящерка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1589)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ящгрпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ящгрпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Salamandra macu­ losa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яшчарка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ящерица</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> 
+от 
+<ref type="etymon" target="a">*а</ref>!$сегъ (см.), 
+функционально 
+близкое 
+к производному на -lea 
+<ref type="etymon" target="ascerica">*ascerica</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Распространено в зап. и вост. слав, языках.</note>
+</Entry>

@@ -1,0 +1,50 @@
+<entries>
+  <entry xml:id="brid-2" xml:id="brid-2">
+    <pb n="29" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bridь</orth>
+      <lemma>bridb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brld</ref>, род. п. -ly ж. р.</orth>
+        </form>
+        <sense>
+          <def>острый край</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 61)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brid</ref>* ж. р.</orth>
+        </form>
+        <sense>
+          <def>г р я з ь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 130)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бридъ</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>мерзость, гадость</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 98)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>noun</pos>
+      <gram>Сущ. с основой на -i-, 
+родственное *6/чс?ъ, <ref type="etymon" target="lemma-2">*Ь</ref>^ъкъ 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

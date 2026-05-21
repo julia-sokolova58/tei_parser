@@ -1,0 +1,48 @@
+<Entry xml:id="berido">
+  <pb n="192" end_page="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berid!o</orth>
+    <lemma>berid!o</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>верило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кошолка или корзинка с закры­ вающимся верхом, для сбора крупных фруктов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>berth</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>зеленый корм, собранный для скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -{i)dlo от презентной основы Ъег- (см.<ref type="etymon" target="gay">*Ьъгай)</ref>. Словообразовательно-этимологическая параллель может 
+быть указана в лат. fericulum, prae-fericulum 'поднос, б л ю д о ' 
+&lt; 
+и.-е. <ref type="etymon" target="bher-tlo-m">*bher-tlo-m</ref> (Ernout—Meillet
+I, 402), тогда как слав. 
+<ref type="etymon" target="be-">*be-</ref>
+ridlo &lt;С <ref type="etymon" target="bher-i-tlo-m">*bher-i-tlo-m</ref> 
+(не исключена вторичная 
+тематизация 
+от­
+глагольного производного в слав., подобно тому как лат. feri-
+culum &lt; ferculum). 
+Подробно об отношениях слав, производных
+на -dlo и их и.-е. соответствий см. Трубачев «Этимология» (М., 
+1963) 37 и след.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,120 @@
+<Entry xml:id="baranina">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baranina</orth>
+    <lemma>baranina</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boranina</orth>
+    <lemma>boranina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beranlna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баранина, запах барана</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>haranina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баранина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>Ъата</ref>- п/па ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>baranina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>баранина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>barqntna</ref> *ж. p.</orth>
+      </form>
+      <sense>
+        <def>баранина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz. Slovinz. W b . I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>боранина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мясо барана</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Афан. Никит,, Срезневский III, Доп. 24')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>баранина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мясо ба­ рана или овцы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>баранина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баранье мясо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>баранина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баранина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бара</ref>- тина</orth>
+      </form>
+      <sense>
+        <def>баранина</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1па</ref>
+      </m> от <ref type="etymon" target="agap">*Ъагапъ</ref> / <ref type="etymon" target="ogap">*Ъогапъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

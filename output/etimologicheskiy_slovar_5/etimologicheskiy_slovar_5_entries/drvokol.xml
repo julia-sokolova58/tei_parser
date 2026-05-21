@@ -1,0 +1,45 @@
+<Entry xml:id="drvokol">
+  <pb n="142" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъvokolъ</orth>
+    <lemma>drъvokolъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дровокол</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кто рубит лес с корня, рабочий для рубки леса, дров в лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дровокол</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек, лесоруб (новосиб.), топор-колун (перм., ново- сиб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрывакбл</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровокол</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="drwo">*drwo</ref> (см.) и <ref type="etymon" target="ko1">*ко1ъ</ref>, имени деятеля от <ref type="etymon" target="kolti">*kolti</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="agko1">*а^гъко1ъ</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="drz">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъžь</orth>
+    <lemma>drъžь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dreszcz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрож, трепет , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрожь</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Преже яко рогатиною ударить и явится железа, или начнетъ крови ю хракати, и потомь дрожь иметъ и огнь ражь- жеть. Новг. I л. под 1417 г., Срезневский I, 725)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрожь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трясение, частое непроизвольное сокращение мышц (от холода, нервного состояния, страха и т. п.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрощ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>озноб, дрожь, возм., сюда же дрыч м. р. топь, тря­ сина, болото; грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пск., Филин 8, 206)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрож</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дрожь</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Родственно лит. drugys 'лихорадка'. См. специально А. Собо­ левский РФВ LXIV, 1910, 112—113. См. еще *drbzatif *drbgati.</note>
+</Entry>

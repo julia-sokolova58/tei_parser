@@ -1,0 +1,165 @@
+<Entry xml:id="gryza">
+  <pb n="160" end_page="161" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gryza</orth>
+    <lemma>gryza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>беспокойство, забота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: грыжи 'забота, хлопоты, попечение; горе, печаль')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грижа</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боли, рези (в жи­ воте), понос, забота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 625—626; RJA III, 439)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>griza</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скала, подтачиваемая водой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grlza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>понос, расстройство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грыжъ</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сеи миръ им-Ьеть печаль, грыжъю болЪзнь. Жит. Андр. Юр. LXIV, Срезневский I, 602)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грыжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>опухоль от прорвавшейся и выдавшейся под кожею внутренней части тела, кила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 992)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грыжа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рана, нарыв, веред, женские болезни , судороги в поясничной области; ка- тарр желудка , грыжа ссора, несогласие, бо­ лезнь в желудке , заболевание различных внутренних органов , грыжа брань, ссора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 148)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(енис, КАССР, яросл., волог., смол., олон., арх., сиб., перм., Филин 7, 173—175, там же ряд близких зна­ чений)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., курск., орл., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>печаль, огорчение, терзание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грйжа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>забота, печаль (гуцул.), ссора, брань, грыжа, hernia , грйжа печаль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический атлас, карта № 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колесник. Матер1али до словника д1алектизм1в укр. говор1в Буковини 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грыжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грыжа, грыжа ж. р. ссора, брань, ворчание за всякую безделицу, частые вы­ говоры , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грыжа</ref> ж. р. ,</orth>
+      </form>
+      <sense>
+        <def>забота, огорчение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шатэрнш 72; Мшска-маладзеч. 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяцко, Зэльв. 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ja</ref>
+      </m> 
+от гл. <ref type="etymon" target="gryzti">*gryzti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Семантич.-разви­ тие 'физическое страдание' 'страдание нравственное' (нюансы см. выше) элементарно очевидно. См. В. Ljapunov «Melanges de philologie offerts a Mikkola» 124—125; J. Schiitz WdS VII, 1962, 444 (о сербохорв. диал. grlza 'скала'); С Б. Бернштейн «Lingua viget. Comm. slav. in honor. V. Kiparsky» (Helsinki, 1965) 21 — 24 (очень подробно).</note>
+</Entry>

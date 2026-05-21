@@ -1,0 +1,85 @@
+<Entry xml:id="cervbje">
+  <pb n="83" end_page="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervbje</orth>
+    <lemma>cervbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цреве</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>обувь, в т. ч. домашняя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цревщ</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>открытая обувь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crevje</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>кишки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>tfevi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>обувь, также stfevi</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>череви</ref>\в</orth>
+      </form>
+      <sense>
+        <def>мех с брюха животного , кожа (?) , башмак, сапог (Пат. Син. XI в. и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оп. им. ц. Ив. Вас. 1582—1583 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Единою бо ми сва- рдщю, одному же мнущю оуснье, и разгн-ЬвасА на МА, преторже черевии руками. Пов. вр. л. под 993 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1499—1500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черёвъя</ref> мн. ч. от черево .—Ср). сюда же, в конечном счете</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1309)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>прилаг. на -ь/ь, можно считать и образование<ref type="etymon" target="cervbje">*cervbje</ref> генетически субстантивированным прилаг. ср. р. на -ъ]'е.
+сербохорв. диал. црёвл&gt;а ж. р. башмак.</gram>
+  </gramGrp>
+  <note>Производное (собир.) с суфф. -ь]е от* cervo (см.). Впрочем, в частности ввиду очевидного тождества некоторых примеров выше с названием обуви<xr type="compare">см. <ref type="etymon" target="eervbjb">*eervbjb</ref>
+    </xr>, кот. обнаруживает себя как первонач.</note>
+</Entry>

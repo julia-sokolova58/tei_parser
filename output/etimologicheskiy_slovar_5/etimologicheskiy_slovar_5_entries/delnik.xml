@@ -1,0 +1,112 @@
+<Entry xml:id="delnik">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlьnikъ</orth>
+    <lemma>dĕlьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дёлник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рабочий, присутственный день</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>делениям</ref>, р.</orth>
+      </form>
+      <sense>
+        <def>рабочий день , дёлник м. р. то же , дёлник м. р. рабочий день (с. Попица, Врачанско, дип. раб. Архив Софийск. ун-та), дёанйк м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюр- джинско. — БД VI, 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. П. Ковачев. Сев- лиевско. — БД V, 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>делник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>будний день (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>dlonlk</ref> м. р. работник</orth>
+      </form>
+      <sense>
+        <def>, также дёоник м. p. , дёлник м. р., д]ёлнйк м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA II, 411)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>delnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рабочий, работник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪльникъ</ref> ёр^атт]*;, operarius</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 340; Жит. Влас. 2. Мин. чет. февр. 217; Срезневский 1, 790—791)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дёльнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деловой, работящий человек (арх.), удалой, бедовый человек (смол.), хитрый, изворотливый, плутоватый человек (смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзёлънт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>делец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.-<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> 
+(субстантивация) 
+от 
+при лаг. 
+<ref type="etymon" target="delbrib">*delbrib</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

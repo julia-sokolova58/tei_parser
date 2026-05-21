@@ -1,0 +1,61 @@
+<Entry xml:id="baranica">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baranica</orth>
+    <lemma>baranica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beranice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>баранья шапка, овца, матка, овечья шкура, овчина, штаны из овчины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>baranica</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 160, без указания знач.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бараигща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>выделанная баранья шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>баранйця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баранья полость, полость из овчины , баранйця ж. р. овчина для укутывания ног зимою в дороге</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. с лови. I, 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 28)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-lea</ref>
+      </m> от 
+<ref type="etymon" target="agap">*Ъагапъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

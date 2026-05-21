@@ -1,0 +1,135 @@
+<Entry xml:id="ci">
+  <pb n="109" end_page="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ci</orth>
+    <lemma>ci</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>чи</ref>, союз quia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>ci</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ли, если</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gori doli gledam, ci moje rozice nikdir ne ugledam. RJA I, 918; II, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ci</ref>, вопрос, союз</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ci</ref>, союз (вопрос, разделит.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ci</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 205—206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>сё</ref>, союз сили</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 46, с реконструкцией *ci)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czy</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>разве, ли, союз или, либо, то есть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1178—1179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>арзве , разве не (Сл. плк. Игор.), или , если , хотя , хотя бы (Жит. Сим. Столп. XIII в.), что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ил. Новг. поуч. 23 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. поуч. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. Ост. ок. 1396 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1141 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1516—1517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чи</ref>, союз</orth>
+      </form>
+      <sense>
+        <def>ли, или, разве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(юж., зап., донск., курск., калуж., Даль 3 IV, 1336; Миртов. Донской сло­ варь 355—356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чи</ref>, союз</orth>
+      </form>
+      <sense>
+        <def>ли, или, разве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чи</ref> = ци .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Носов. 699)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав, *6i восходит к и.-е.<ref type="etymon" target="k">*к</ref>*1, первонач. твор. п. ед. ч. 
+от местоим. <ref type="etymon" target="y-2">*й</ref>^о- / <ref type="etymon" target="k-2">*к</ref>
+      <ref type="etymon" target="e-">*е-</ref>, ср. лат. qui, нареч. 'отчего, почему', авест.
+• c i c e r b 
+НО 
+6i, нареч. 'как', др.-англ., др.-сакс. hwi 'как, зачем, почему'.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 155; J. Zubaty RS IT, 1909, 17; К. Буга РФВ LXX, 1913, 103 (сближает с лит. kei *quasV); Bruckner 82; Stawski I, 129—130; Machek 2 101; Pokorny I, 646; Фасмер IV, 357.</note>
+</Entry>

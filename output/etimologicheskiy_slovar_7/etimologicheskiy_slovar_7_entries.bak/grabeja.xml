@@ -1,0 +1,32 @@
+<Entry xml:id="grabeja">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabeja</orth>
+    <lemma>grabeja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грабея</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>женщина, нанятая для сгреба­ ния сена . — Неясно отношение сюда ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Филин 7, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. (<ref>ст.-хорв</ref>.) Grabija м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XI в., Mon. croat. 316, RJA III, 353)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суф. -ё]а от гл.<ref type="etymon" target="grabiti">*grabiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,105 @@
+<Entry xml:id="grqznqti">
+  <pb n="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqznqti</orth>
+    <lemma>grqznqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>gruznuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть с шумом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA III, 482, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hrdznuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>про­ валиваться, погружаться (напр. в грязь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>grqznqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погружаться , greznqc то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1298)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грузнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тонуть, садиться, опу­ скаться на глубину или глубже, оседать, наливаться молоком (о грудях и вымени)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 990)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грузнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мокнуть, становиться тяжелым от избытка влаги (курск.), наливаться мо­ локом, полнеть (влад.) , грузнуть вязнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сло­ варь русск. донских говоров I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грузнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вязнуть г увязать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грузнуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вязнуть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, 
+родственный <ref type="etymon" target="grqziti">*grqziti</ref>, 
+<ref type="etymon" target="gr-11">*gr</ref>$znqti 
+(см.).</gram>
+  </gramGrp>
+</Entry>

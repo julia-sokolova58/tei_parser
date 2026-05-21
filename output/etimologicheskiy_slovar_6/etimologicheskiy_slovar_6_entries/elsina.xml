@@ -1,0 +1,97 @@
+<Entry xml:id="elsina">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elьšina</orth>
+    <lemma>elьšina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>josina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молодая ольха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 664)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>olsina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольшаник , сюда же произ­ водное jelsinje ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 821)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jelsina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольшаник, ольха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>wolsyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольховое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 920)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>олыийна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольха , елшина Alnus incana , евшйна ж. р. ольха, ольховый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., пек., Даль 3 II, 1738)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Г. Потанин. Этнографические заметки на пути от г. Никольска до г. Тотьмы. ЖСт IX, 1899, 232)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Даль 3 I, 1279; Филин 8, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>выыийна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольховое дерево, ольховая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>алёшына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ольха</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="e1kha-3">*е1ъха</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

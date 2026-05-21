@@ -1,0 +1,57 @@
+<Entry xml:id="bezaninb">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezan(in)b</orth>
+    <lemma>bezan(in)b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бежани.р</ref>.</orth>
+      </form>
+      <sense>
+        <def>беглец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бежан</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бйжан</ref>, б]ежан м. р.</orth>
+      </form>
+      <sense>
+        <def>беглец, bfezan м. р. бегун; беглец, Bjezan, мужское имя , бежан, б]ёжан м. р. беглец, трус</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(имя собств. — с XIII в., апеллатив — только у Бука, RJA I, 391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA I, 379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бЪжанинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беглец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. IV л. под 1382 г., Срезневский I, 216)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, производное от основы<ref type="etymon" target="beg--2">*beg-</ref> (см. <ref type="etymon" target="begt-3">*begt</ref>'i, <ref type="etymon" target="e-2">*Ье</ref>#ъ) с помощью 
+суфф. -ёп- и с участием сингулятивного -тъ.</gram>
+  </gramGrp>
+  <note>Указание на возмож­ ность отыменного образования др.-русск. бЪжанинъ см. Ж. Ж. Варбот. Древнерусское именное словообразование (М., 1969) 90. Тип образования достаточно старый. Надо полагать, что именно от этой основы *bezan- в относительно недавнее время образовалось русск. беженец и соответствующие формы в других слав, языках. О пути распространения этих образований см. в последнее время L. Kiss «Studia slavica», X, 1964, 468; Sadnik— Aitzetmtiller. Vgl. Wb. 5, 306.</note>
+</Entry>

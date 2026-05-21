@@ -1,0 +1,29 @@
+<Entry xml:id="drosciti">
+  <pb n="126" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*droščiti</orth>
+    <lemma>droščiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drosdie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сыпать, рассыпать, засыпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 208)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от основы drosk-y видимо, вариантной 
+с drozg- (см. <ref type="etymon" target="drozgati">*drozgati</ref>, 
+<ref type="etymon" target="drozga">*drozga)</ref>.</gram>
+  </gramGrp>
+</Entry>

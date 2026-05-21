@@ -1,0 +1,52 @@
+<Entry xml:id="drek">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕkъ</orth>
+    <lemma>drĕkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрёк</ref>, дрек м. р.</orth>
+      </form>
+      <sense>
+        <def>подстилка на повозке (для пере­ возки зерна, фруктов и т. и.), воз с решетчатыми бортами , дрщек воз (полный) , драк м. р. решетчатый борт воза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 682)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Славония, Владонац II, 278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 711)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тучность, полнота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>туловище, корпус , елвц. drlek м. p. туловище, середина, часть одежды в поясе, капитал, наличные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 330)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сближается с лит. dralkas 'долговязый, стройный'. См. J. Zubaty ВВ XVII, 1891, 324; Berneker I, 223; Machek 2 131; Skok. Etim. rjecn. I, 432; Bezlaj. Etim. slovar sloven, jez I, 111.</note>
+</Entry>

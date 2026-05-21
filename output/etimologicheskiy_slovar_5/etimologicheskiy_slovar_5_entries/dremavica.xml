@@ -1,0 +1,48 @@
+<Entry xml:id="dremavica">
+  <pb n="108" end_page="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕmavica</orth>
+    <lemma>drĕmavica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрёмавица</ref>, дри]ёмавица, дрёмавица ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, сонливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 684)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dremauica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дремота, состояние полусна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dremdica</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 208)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Мгётъ/*1гёта Производное на<m type="suffix">
+        <ref>-ica</ref>
+      </m> or 
+слабо засвидетельствованного прилаг. 
+<ref type="etymon" target="dremavi">*dremavi</ref>&gt; (ср. болг. диал. дрёмаф 'сонный', см. М. 
+Младенов 
+БД III, 60).</gram>
+  </gramGrp>
+</Entry>

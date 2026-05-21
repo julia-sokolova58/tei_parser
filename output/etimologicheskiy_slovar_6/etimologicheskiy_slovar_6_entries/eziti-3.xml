@@ -1,0 +1,73 @@
+<Entry xml:id="eziti-3">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęziti</orth>
+    <lemma>ęziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jezlti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердить , /ёзити то же , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PCА VIII, 709)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёзив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>опас­ ный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezlti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердить, раздражать, злить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jeziV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сердить . — Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>яжйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вздорить, кричать, шуметь , яжжйть вздорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(яросл., Опыт 273)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -Ш, производный от<xr type="compare">см. <ref type="etymon" target="galza">*$gal*$za</ref>
+    </xr>....</note>
+</Entry>

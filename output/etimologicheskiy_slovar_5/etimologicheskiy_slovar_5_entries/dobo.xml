@@ -1,0 +1,41 @@
+<Entry xml:id="dobo">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobo</orth>
+    <lemma>dobo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>ддбо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пора, время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 386; Цл. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dobo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>время, отрезок времени, момент; раз, обычно только в выраж. jene dobo сразу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 117)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Соотносительно с<xr type="compare">см. <ref type="etymon" target="doba">*doba</ref>
+    </xr> и отражает 
+ср. р. общего и.-е. 
+прототипа. и отражает 
+ср. р. общего и.-е. 
+прототипа. и отражает 
+ср. р. общего и.-е. 
+прототипа. и отражает 
+ср. р. общего и.-е. 
+прототипа.</note>
+</Entry>

@@ -1,0 +1,104 @@
+<Entry xml:id="gam">
+  <pb n="98" end_page="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gamъ</orth>
+    <lemma>gamъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гам</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, суматоха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Речник РОДД 79: диал.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Гамъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI в., Веселовский. Ономастикой 77; Тупиков 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гам</ref> м. р., также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, крик , сюда же гамь ж. р. гул многих голосов, громкий, шумный говор, крики; гам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., 'ganati Филин 6, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гам</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гам</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, гам . — С от­ личием в вокализме ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Магш. 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гом</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум, смех, говор, громкая ссора , шум, крик множества голосов (тамб., южн., ворон., курск.), смех (южн.) , гомь ж. р. крик, шум, смех, говор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., Даль 3 I, 921)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 352)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 921; Филин 6, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гам</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, крик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>По происхождению, по-видимому, звукоподражание.</note>
+  <gramGrp>
+    <gram>Соотноси­ тельно с гл.<ref type="etymon" target="gameti">*gameti</ref> / <ref type="etymon" target="gamiti">*gamiti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Относительно болг. гам см. еще Георгиев ВЕР III, 228.</note>
+</Entry>

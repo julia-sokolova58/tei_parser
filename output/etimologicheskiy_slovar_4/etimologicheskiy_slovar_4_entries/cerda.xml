@@ -1,0 +1,306 @@
+<Entry xml:id="cerda">
+  <pb n="60" end_page="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerda</orth>
+    <lemma>cerda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо (крупного рогатого скота)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ 14, 611; Геров: череда, чрЪда, чрьда)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чърдъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо (буйволов, коров) , черд&gt;6 ж. р. то же cerda , сербо­ хорв. чреда ж. р. очередь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 49; С Ковачев. Троянският говор. — БД IV, 233)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. Тръстеник, Плевенско. — БД VI, 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: crijeda, с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>creda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо коров, которое пасет один пастух, который ест и ночует по очереди (ро crede) у хозяина каждой коровы , также credo, crijedo с\&gt;. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 389; «creda значит и 'очередь'»)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA 11,77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>creda</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>стадо, очередь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>ceda</ref> ж. p. , также</orth>
+      </form>
+      <sense>
+        <def>чистота, опрятность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>tfida</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ряд, разряд, смена, очередь, улица , strida ж. р. смена, стар, tfeda ж. р. смена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott IV, 177)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott IV, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cida</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(рабо­ чая) смена</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crieda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222; в то же время слвц. trieda ж. р. 'класс, разряд', 'широкая улица', SSJ IV, 577, есть не что иное как литер, словакизация чеш. tfida)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>се</ref>- rieda то же , ciridam. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>crjoda</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>отряд, группа, очередь, вереница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzoda</ref>, стар, czrzoda</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>strzoda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо скота (особ, овец, коз, свиней)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. VII, 151; I, 398)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>stfouda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. II, 1113)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>череда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очередь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковск. I л. под. 1372 г. и др., Срезневский III, 1500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>череда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черед, устар. обл. пора, время, череда ж. р. стадо крупного скота, в отличие от ватаги, стада мелкого скота , череда ж. р. растение Bidens tri­ partita и cernua, собачки, репешки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(донск., курск., новг., пек., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>череда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо крупного рогатого скота, растение Bidens tripar­ tita L., просо разных сортов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>череда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стадо коров , череда ж. р. косяк рыб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. К. Гайдар. Сшьськогосподарська лексика села Нижш Ремети Берепвського району. Дип. роб. Ужгород, 1959, 79)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лисенко, Словник пол^ьких гово- pie 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарада</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стадо, вереница, орава</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чи</ref>- pidd ж. р.</orth>
+      </form>
+      <sense>
+        <def>очередь, черед</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 493)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="cerda">*cerda</ref> продолжает древнюю форму <ref type="etymon" target="kerda">*kerda</ref>, родствен­
+ную праслав. диал. <ref type="etymon" target="kye1">*къЫе1ъ</ref> (см.; слвц. и ю.-слав.)—из более 
+Древнего <ref type="etymon" target="kfd-el-io-">*kfd-el-io-</ref>, 
+где ступени редукции корня соответствует 
+развитая суффиксация, см. Махек (ниже). Ср. еще <ref type="etymon" target="kmpo">*къМьпо</ref> (см.), 
+с тем же корнем. Наличие в слав, названии таких апофонич. от­
+ношений между формами, в родстве которых нет оснований со­
+мневаться, заставляет отвергнуть мысль о заимствовании 
+«из ка­
+кого-то языка—кентум», до сих пор встречающуюся в той или 
+иной форме у ряда авторов (Бернекер, Мошинский, Фасмер). Ос­
+нованием для предположений о заимствовании слав. <ref type="etymon" target="cerda">* cerda</ref> слу­
+жило наличие классических сатэмных рефлексов в родственных 
+др.-инд. Mrdha- м. и ср. р. 'стадо, толпа', авест. saroda- 'вид, 
+род', которым в данном случае придается контрольное знач. Но 
+отражение и.-е. задненебного палатального h в слав,—явление 
+сложное и далеко не последовательное; причиной нарушения могло 
+послужить не одно лишь заимствованное происхождение (к тому же, 
+еще никто 
+не 
+назвал 
+вероятный источник такого заимствова-
+ния, герм, формы вроде гот. hairda 'стадо' дали бы только слав. 
+<ref type="etymon" target="serda">*serda</ref>, на что уже указывал Обнорский, ниже, заимствование же 
+до общегерм. 
+передвижения 
+согласных неправдоподобно). 
+Об­
+ращает на себя внимание тот факт, что балт. соответствия — про­
+изводное лит. kerdzius 'пастух' (из <ref type="etymon" target="kerd-ju-s">*kerd-ju-s)</ref>, др.-прусск. kzrdan 
+вин. п. ед. ч. 'время'—такие же нарушения нормального сатэм-
+ного рефлекса, хотя причины могли быть, наверное, местными и 
+конкретными (ср. и несовпадение состава и словообразования 
+слав, 
+и 
+балт. 
+соответствий). 
+В 
+слав, 
+отражение <ref type="etymon" target="kerda-2">*kerda</ref>, вм. 
+*&amp;erdha ^&gt; <ref type="etymon" target="serda-2">*serda</ref>, могло произойти ввиду опасности омонимизации 
+с <ref type="etymon" target="serda-3">*serda</ref> (см.) 'середина' &lt; и.-е. <ref type="etymon" target="Icerd-">*Icerd-</ref>, на что отчасти уже об­
+ращал внимание Зеленин (см. ниже). 
+Мысль о заимствовании слав. <ref type="etymon" target="cerda">*cerda</ref> неубедительна и по семан-
+тич. соображениям. В то время как и.-е. соответствия семанти­
+чески весьма единообразны (почти везде представлены гл. образом 
+значения 'стадо, толпа', ср. еще ирл. crod 'скот', кимр. cordd 
+'группа, толпа', остальные — выше; отличные значения отмечены 
+в др.-прусск. — 'время', отчасти — в др.-в.-нем. herta: 'перемена'), 
+слав, обнаруживает значения 'стадо', 'отряд, разряд', 'смена, оче­
+редь', 'вереница', 'пора, время', не говоря о второстепенных зна­
+чениях 'растение череда', 'просо'. Можно высказать предположе­
+ние, что слав, семантич. комплекс 'стадо, вереница; смена, оче­
+редь; время, пора' отражает в слове <ref type="etymon" target="cerda">*cerda</ref> древний обычай об­
+щинного выпаса скота и связанных с этим повинностей. Даль­
+нейший этимол.- словообразоват. анализ слав. <ref type="etymon" target="cerda">*cerda</ref> представляет 
+трудность; типологически вероятно наличие в нем суффиксального 
+элемента -й-, что же касается корня <ref type="etymon" target="keg">*кег</ref>~, то равным образом 
+типологическое вероятие говорит в пользу того, что это было и.-е. 
+<ref type="etymon" target="keg-">*кег-</ref> 'резать'. Однако из этого, пожалуй, не следует делать вместе 
+с некоторыми исследователями откровенно умозрительный вывод, 
+что это — и.-е. *(s)ker- 'резать, убивать', поскольку имеется в виду 
+обозначение скота. Наличие весьма старых значений 'время, пора' 
+(для др.-прусск., напр., это знач. единственное) наводит на мысль, 
+что перед нами — один из технических (сельскохозяйственных, 
+скотоводческих) терминов отсчета времени и хозяйственных рас-
+счетов между пастухами и родовой общиной, основанный на при­
+менении надрезов и зарубок. Культурные аналогии в развитой 
+форме можно найти в быту карпатского отгонного скотоводства. 
+Яркую реально-семантическую параллель мы видим также в от­
+ношениях ит. taglia, ст.-франц. taille 'дощечка с зарубками', 'по­
+дать' и логудорск. (Сардиния) tazu 
+'стадо мелкого скота', кот. 
+восходят к общему роман, taliare 'разрезать' (см. о нем.</gram>
+  </gramGrp>
+  <note>W. Ме- уег-Liibke. Roman, etym. W b . 4 704). Литература: A. Fick KZ XX, 1872, 167—168; Miklosich 32—33; A. Meillet MSL 8, 1893, 297; Meillet. Etudes II, 256—257; Ber­ neker I, 144; Д. К. Зеленин ИОРЯС VIII, 1903, 258; A. Meillet MSL 14, 1907, 386; С. П. ьОбнорский. Общеславянское смягчение cerdbilbjb к и готские заимствования. — ИОРЯС XIX, 1915, 100; Trautmann BSW 127—128; Vondrak. Vgl. slav. Gramm. I, 263; Mikkola. Ur- slav. Gramm. I, 93; Bruckner 582; Kiparsky. Die gemeinslav. Lehnworter aus d. Germ. 102—103; Младенов ЕПР 687; Moszynski. Pierwobny zasisjg 19; Sadnik — Aitzetmiiller. Handworterbuch 223; Fraenkel I, 242; Иллич-Свитыч. Именная акцентуация в балт. и слав. 106—107; Shevelov. A prehistory of Slavic 143; Machek 588, 291; Г. А. Ильинский у О. Н. Трубачева ВЯ 1957, № 6, 95; Трубачев. Дом. жив. 105; Ю. В. Откупщиков. Из истории индоевропейского словообразования. Л., 1967, 142; В. В. Марты­ нов. Славянская и индоевропейская аккомодация. Минск, 1968, 148; Фасмер IV, 337—338; Skok. Etim. rjecn. I, 337—338.</note>
+</Entry>

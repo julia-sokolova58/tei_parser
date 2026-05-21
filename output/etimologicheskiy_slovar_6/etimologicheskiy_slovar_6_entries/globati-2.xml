@@ -1,0 +1,69 @@
+<Entry xml:id="globati-2">
+  <pb n="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbati</orth>
+    <lemma>glǫbati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глъбам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>углублять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: гл&amp;бамъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глабам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить (дерево или камень), прогрызать (де­ рево) , глабам неприлично есть, выхва­ тывая лучшие куски , глъмбам пробиваться (сквозь снежную толщу, густой лес), долбить, копать , гломбам копать, долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевен- ско. — БД VI, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. Н. Иванов БЕ 1968, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. Н. Иванов. Гоцеделчевският мещругански говор. — БД VII, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>globati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выкапывать, выдалбливать, углублять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hloubati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>копать, выкапывать, раздумывать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, соотносительный с <ref type="etymon" target="glybokb">*glybokb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,83 @@
+<Entry xml:id="drmoliti">
+  <pb n="224" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrmoliti</orth>
+    <lemma>dьrmoliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрмоли</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пошатывать, теребить, потряхивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрмул</ref>&gt;ати</orth>
+      </form>
+      <sense>
+        <def>трясти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 719)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drmoliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раз­ мельчать, разбалтывать, семенить, идти мелкими шажками , drmoliti говорить быстро, неразборчиво</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drmolit</ref> то же, также</orth>
+      </form>
+      <sense>
+        <def>семенить , говорить быстро , drmolW семенить, то­ ропливо говорить , drmoVit то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Boskov. 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Barto§. Slov. 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Kar- lov. 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drmoliV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бормотать, бубнить , идти маленькими шажками, размельчать, торопливо говорить, буб­ нить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 331)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Расширение (экспрессивное) с помощью форманта -Z- основы гл.<ref type="etymon" target="dbrmati">*dbrmati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. параллельное образование в дат. trimle 'ка­ титься, кувыркаться'. См. F. A. Wood KZ XLV, 1913, 62.</note>
+</Entry>

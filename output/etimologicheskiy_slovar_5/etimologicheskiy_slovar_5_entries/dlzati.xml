@@ -1,0 +1,59 @@
+<Entry xml:id="dlzati">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlžati</orth>
+    <lemma>dьlžati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дужати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться длиннее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dolzec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удлиняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dldzayc</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>должать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать долгим</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от <ref type="etymon" target="dlg-2">*dъlgъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

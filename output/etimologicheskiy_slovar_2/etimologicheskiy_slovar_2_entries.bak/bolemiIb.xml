@@ -1,0 +1,26 @@
+<Entry xml:id="bolemiIb">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'emiIb</orth>
+    <lemma>bol'emiIb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'emila</orth>
+    <lemma>bol'emila</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bolemil</ref> м. р., личное имя собств., сюда же Bolemila ж. p. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 83)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг-ного сравнительной степени ср. p.<ref type="etymon" target="bol">*bol</ref>'e 
+(см. <ref type="etymon" target="og-3">*ЪоГъ]ъ)</ref> и прилаг-ного <ref type="etymon" target="ti-2">*тИъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Тип образования архаи­ чен и свойствен для двуосновных слав, антропонимов.</note>
+</Entry>

@@ -1,0 +1,199 @@
+<Entry xml:id="kh">
+  <pb n="144" end_page="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ъъхъ</orth>
+    <lemma>Ъъхъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бъз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus nigra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бъе</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Sambucus ebulus , бас м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Горов. Страндж. — Б Д I, 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 38; Шапкарев — Блп- знев Б Д III, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>baz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>sambucus, бузина , баз м. р. бузина Sambucus nigra , боз м. р. то же , сюда же bazag, bazd м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., R J A I, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 239—240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА И, 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bez</ref>, род. п. beza м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина , bezeg, род. п. -zga, м. р . то же , также bezg, род. п. -а, м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bez</ref>, род. п. bza, м. p.</orth>
+      </form>
+      <sense>
+        <def>sambucus, coliandrum (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bez</ref>, род. п. bza, м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus, сирень Syringa</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bez</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 909)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>boz</ref>, род. п. -ozaj-ozu, м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus nigra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>bez</ref>, baz</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>baz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>бузина; сирень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bez</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>сирень Syringa vulga­ ris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 412)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>beis</ref>, род. п. besu, м. p.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бозъ</ref> dxiTj, sambucus , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Леке треяз., л. г, г.; Боз дрЗшо а росте? в лЪсу кустами а серце его яко у калины .. . Роспись травам. . . , рукоп. XVII в. СлРЯ XI—XVII вв. 1, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>буз</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кустарник Sambucus racemosa L., бузина красная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сарат., курск., Филин 3, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боз</ref>, род. п. бзу, м. р.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 82: ГПд бзом сидить нечистий)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>боз</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бузина, сирень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кар­ патский диалектологический атлас 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Достоверная этимология отсутствует. Признано сомнительным старое отождествление с и.-е. названием бука и реконструиро­ ванный ad hoc апофонический ряд</note>
+</Entry>

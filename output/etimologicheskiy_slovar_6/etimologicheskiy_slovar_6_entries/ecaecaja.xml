@@ -1,0 +1,111 @@
+<Entry xml:id="ecaecaja">
+  <pb n="61" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęča/*ęčaja</orth>
+    <lemma>ęča/*ęčaja</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>§eaja</orth>
+    <lemma>§eaja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>шахл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>связь, скрепление , ум. шаица, шЪица чашечка, ячейка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Апост. XV в., Срезневский III, 1675)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Зах. IV. 12. Упыр., Срезневский III, 1676)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ячея</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>углубление, дырочка и т. п. (преимущ. в целой системе подоб­ ных)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ячеЛ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пространство клеток у мережи , Лча ячея, отверстие (Картотека Псковского област­ ного словаря), вицёя дыра в средине жернова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(том., Опыт 275)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>нечая</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>круглое отверстие в центре мельничного жер­ нова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 562)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. ]<ref>ача</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отверстие в жерновах, в которое засыпают зерно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Выгонная. Полесская земледель­ ческая терминология. — Лексика Полесья 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ячэя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ячея</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>ячыя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ячейка в сети , лячай м. р. дырка в верхнем жернове, в которую сыплется зерно , также вёчай м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ёja</ref>
+      </m> 
+от 
+незасвидетельствованного 
+гл. 
+<ref type="etymon" target="ekt4">*ekt4</ref> 'гнуть, сгибать, складывать петлей, кольцом', откуда, да­
+лее, такие производные как <ref type="etymon" target="esypep-">*есыпеп-</ref> (см. <ref type="etymon" target="estu">*есъту)</ref> и <ref type="etymon" target="qkotb">*qkotb</ref> (см.), 
+<ref type="etymon" target="radk">*радкъ</ref>.</gram>
+  </gramGrp>
+  <note>Обычно авторы возводят прямо к и.-е. *апк- 'гнуть', см. Berneker I, 267; Фасмер IV, 571 (s. v. ячмень), но модели суф­ фиксальных производных (*ec-aja, *есъ-теп-, *gk-otb) и корневая апофония -е/о-, как, впрочем, и то немаловажное обстоятельство, что полных соответствий слав, производных форм, как правило (исключение — *gkotb), нет вне слав., позволяет уверенно предпо­ лагать раннепраслав. гл. *ekt4. Семантически к *ecaja близко однокоренное лит. апка 'петля', 'сеть'. Сомнения Вайяна лишены оснований, как и его попытка объяс­ нить исходное jacaja из *aft- &lt; *aciti 'смотреть' A. Vaillant. Vieux- slave jacaja ou ecaj'a. — Studia palaeoslovenica Josepho Kurz septu- agenario dedicatum (Praha, 1971) 381—382.</note>
+</Entry>

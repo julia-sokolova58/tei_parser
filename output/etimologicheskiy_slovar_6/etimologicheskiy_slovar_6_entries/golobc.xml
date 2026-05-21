@@ -1,0 +1,101 @@
+<Entry xml:id="golobc">
+  <pb n="218" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golǫbьcь</orth>
+    <lemma>golǫbьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>golubac</ref>, род. п. golupca, м. р.</orth>
+      </form>
+      <sense>
+        <def>голубок , в кач-ве местного названия Goldbac м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 260)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с X V в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golobec</ref>, род. п. -Ъса, м. р.</orth>
+      </form>
+      <sense>
+        <def>голубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>holubec</ref>, род. п. -Ъсё, м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>голубь, голубок, также личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1355 г., Gebauer I, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голубец</ref>, род. п. -бца, м. р.</orth>
+      </form>
+      <sense>
+        <def>голубь, прилетевший с чужой стороны (смол.), ястреб-перепелятник , голубец, род. п. -бца, м. р. ласк, голубчик (орл., сиб.), хороший человек (свердл.) , голубец, род. п. -бца, м. р. растение василек горькуша Centaurea jacea L. (тул.), растение Delphinium consolida L., живокость полевая (курск.), растение Peucedanum palustre Mnch. (вят.), растение Seli- num carvifolia L. (вят.) , песец в октябре (арх.), конь голубоватой масти , гриб сыроежка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль — без указания м.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 336)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 336—337)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(яросл., ср.-урал., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль без указ. мест., Филин 6, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голу</ref>- бёцъ, род. п. -бця, м. р.</orth>
+      </form>
+      <sense>
+        <def>могильный крест с крышкой сверху</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. <ref>голубцы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скула</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., Хрэст. I, 464, Словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Уменьшительное производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="golybb-2">*golybb</ref> I <ref type="etymon" target="golqbb">*golqbb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Относительно диал. знач-я могильный ; памятник' см. F. J. Oinas. Russian golubec 'grave marker, etc.' and some notions of the soul. — IJSLP VIII, 1964, 77 и сл.; А. С. Львов «Этимол. иссл-ия по русск. яз.» V, 1966, 60 и сл.; А. И. Попов «Этимоло­ гия. 1967» (М., 1969), 121—122 (о калькировании лат. columba­ rium, буквально 'голубятня', затем 'ниша в склепе для урны с прахом').</note>
+</Entry>

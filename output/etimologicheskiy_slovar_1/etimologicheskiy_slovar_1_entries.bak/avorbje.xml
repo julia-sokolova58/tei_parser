@@ -1,0 +1,45 @@
+<Entry xml:id="avorbje">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>avorbje</orth>
+    <lemma>avorbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdvorje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кленовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>javofi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яворовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 604)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>javorie</ref> ср. р. собир. редк.</orth>
+      </form>
+      <sense>
+        <def>яворы, яворовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 637)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с собир. суфф. -ь]е от<ref type="etymon" target="aiog-3">*аиогъ</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

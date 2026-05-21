@@ -1,0 +1,41 @@
+<Entry xml:id="bagnbnbjb">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagnbnbjb</orth>
+    <lemma>bagnbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bahenni</ref>, bahenny прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bahenny</ref> прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bagienny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп-, от основы bagn- (см.<ref type="etymon" target="bagno-7">*bagno)</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,98 @@
+<Entry xml:id="cepuritis">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepuriti s$</orth>
+    <lemma>cepuriti s$</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чапури</ref> 3 л. ед. ч.</orth>
+      </form>
+      <sense>
+        <def>говорится о человеке, который начинает ссориться без причины (с. Долна Милна, Трънско, дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czupurzyc</ref> si?</orth>
+      </form>
+      <sense>
+        <def>важничать, наряжаться, расфуфыриваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. диал, <ref>чапурйться</ref>, чепорйтъся, чепуриться</orth>
+      </form>
+      <sense>
+        <def>надыматься, важничать, чваниться и расхаживать, как чапура , чепуриться важничать, щеголевато оде­ ваться , сюда же цапуриться, цыпы- риться капризничать, сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1285: курск., ворон., тул.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(орл., сарат., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Даль 3 IV, 1248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чепурйтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прихорашиваться , сюда же чепарити распяливать, корячить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 452)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко IV, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чапуръщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прихорашивать, наряжать, принаряжать , чапурьщца надмеваться; чопорно одеваться, при­ хорашиваться . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 343; Гарэцш 167; Блр.-русск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чепулиться</ref>, чепелйться</orth>
+      </form>
+      <sense>
+        <def>выказываться, как бы важничать; делатьо; чопорным, чепуриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 342)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение экспрессивной приставки се- и глагольной основы<m type="suffix">
+        <ref>-puriti</ref>
+      </m>; в составе аналогичных сложений эта основа обнаружи­
+вает большое разнообразие огласовок, по крайней мере двух 
+рядов 
+чередования: <ref type="etymon" target="ceperiti">*ceperiti</ref>, 
+<ref type="etymon" target="cepiriti">*cepiriti</ref>, 
+<ref type="etymon" target="sergp1">*серъгьпъ]ь1</ref>
+      <ref type="etymon" target="sergp">*серъгъпъ]ь</ref>, 
+<ref type="etymon" target="cepuriti">*cepuriti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

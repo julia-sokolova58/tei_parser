@@ -1,0 +1,77 @@
+<Entry xml:id="dzdzivj">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždživъ(jь)</orth>
+    <lemma>dъždživъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>даждив</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>дождливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ, РСА IV, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>destivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дождливый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dazdivy</ref> . — Сюда же примыкают, с отличием в суфф.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дожделив</ref>, дождлив</orth>
+      </form>
+      <sense>
+        <def>дождливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>daz</ref>\iv, прилаг. , даждлив</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA II, 323)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дождливый</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дажджлгвы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дождливый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(1)иъ от гл.<ref type="etymon" target="dbzdziti">*dbzdziti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

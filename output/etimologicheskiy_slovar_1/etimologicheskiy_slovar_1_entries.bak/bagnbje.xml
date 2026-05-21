@@ -1,0 +1,23 @@
+<Entry xml:id="bagnbje">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagnbje</orth>
+    <lemma>bagnbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bagne</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь)е (собир.) от основы bagn- (см.<ref type="etymon" target="bagno-6">*bagno)</ref>.</gram>
+  </gramGrp>
+</Entry>

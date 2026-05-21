@@ -1,0 +1,61 @@
+<Entry xml:id="sesega">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сесега</orth>
+    <lemma>сесега</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>джеджбра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>соя, сойка Corvus glandarius , с экспрессивным озвончением ч^&gt;дж.—Сюда же, с экспрессивными изменениями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>сапсага</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трясогузка , ум. cancorik то же , далее — производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сесегка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трясогузка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сесег</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица вьюрок Fringilla montifringilla</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1061)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное, звукоподражат. образование; близкую основу (удвоение се-се) можно указать в<ref type="etymon" target="sese1">*сесе1ъ</ref> (см.), также название 
+птицы.</gram>
+  </gramGrp>
+  <note>Оформлено с помощью -г- суффиксального.</note>
+</Entry>

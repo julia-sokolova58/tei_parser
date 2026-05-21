@@ -1,0 +1,36 @@
+<Entry xml:id="bloscica">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bloscica</orth>
+    <lemma>bloscica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>блощиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Acanthia lecturia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 310 и др., Тимченко I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блощиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клоп</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="bloska">*bloska</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

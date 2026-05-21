@@ -1,0 +1,90 @@
+<Entry xml:id="ggta">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъггта</orth>
+    <lemma>Ьъггта</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бързина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорость, быстрота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бързина 'поспешность, торопливость, быстрота, скорость')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брзина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брзйна</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук, РСА II, 157—158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>быстрота, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brzina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поспешность, скорость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 194, с пометой: illyr.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бързина</ref>, бръзина, борзина peop-a, fluentum</orth>
+      </form>
+      <sense>
+        <def>поток, течение, быстрина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Паз. XI в., Срез­ невский I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>борзина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстрота течения; место с быстрым течением; порог, перекат в реке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="brz">*bъrzъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,113 @@
+<Entry xml:id="dobrodej">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrodĕjь</orth>
+    <lemma>dobrodĕjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дсБ</ref>{ЭО/уки м. р. ауаОошпбд, bonus</orth>
+      </form>
+      <sense>
+        <def>хорошо посту­ пающий человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Dobrodij</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(IX в., в лат. памятнике: Dobrodei, RJA II, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>dobrod</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ej м. р. благотворитель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.- bucov. 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">слвц. стар. , книжн. <ref>dobrodej</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 278)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dobrodziej</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>благодетель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 473)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dobrue</ref>^ei м. р.</orth>
+      </form>
+      <sense>
+        <def>благодетель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добрбдш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>благодетель, сударь .—Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 399)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dobrodejce</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>благоде­ тель , также dobrodejec, род. п. -jce, м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 270; Ст.-чеш., Прага)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobrodejec</ref>, род. п. -уса, м. р.</orth>
+      </form>
+      <sense>
+        <def>благодетель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dobrb-7">*dobrb</ref> 
+(см.) и именного производного от гл. 
+<ref type="etymon" target="de-">*de-</ref>
+jati 
+(см.).</gram>
+  </gramGrp>
+</Entry>

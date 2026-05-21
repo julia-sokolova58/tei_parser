@@ -1,0 +1,38 @@
+<Entry xml:id="darezbinjb">
+  <pb n="189" end_page="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>darezbin&gt;(jb)</orth>
+    <lemma>darezbin&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дарежан</ref>, -жна, -жно</orth>
+      </form>
+      <sense>
+        <def>щедрый, богатый, обильный (о подарке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 58, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>даргжний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>подаренный, даровой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Полт. г., Гринченко I, 358)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>M a r i n a Производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от незасвидетельствованного сущ. 
+<ref type="etymon" target="darezb">*darezb</ref>.</gram>
+  </gramGrp>
+  <note>Замечательна сербохорв.-укр. изоглоссная связь.</note>
+</Entry>

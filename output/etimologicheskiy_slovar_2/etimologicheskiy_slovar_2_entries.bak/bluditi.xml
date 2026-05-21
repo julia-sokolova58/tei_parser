@@ -1,0 +1,38 @@
+<Entry xml:id="bluditi">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'uditi</orth>
+    <lemma>bl'uditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>b</ref>\uditi</orth>
+      </form>
+      <sense>
+        <def>блюсти, хранить, соблюдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., RJA I, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>блюдйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наблюдать, соблюдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Ли­ сенко. Словник д1алектно*1 лексики середнього i схщного Полкхя. Ки1в, 1961, 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Шу</ref>
+      </m> производный от атематического <ref type="etymon" target="bVusti">*bVusti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

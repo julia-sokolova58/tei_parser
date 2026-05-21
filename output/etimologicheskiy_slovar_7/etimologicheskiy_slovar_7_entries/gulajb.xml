@@ -1,0 +1,97 @@
+<Entry xml:id="gulajb">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gul'ajb</orth>
+    <lemma>gul'ajb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гул</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ай м. р. угощение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД И, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hultaj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>негодяй , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 780)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hultaj</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hultaj</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>негодяй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ka­ lal 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>простор</ref>, гультЛй м. р.</orth>
+      </form>
+      <sense>
+        <def>гуляка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гулей</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гуляка, гулена , сюда же гулеЛ ж. р. любительница гулять, гулена , гулътай пчелиный самец, трутень , еулыпай м. р. бездельник, лентяй, гуляка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., Филин 7, 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 129)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., юго-вост., Лит. ССР, Латв. ССР, Филин 7, 220)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>производное с суф. -/ь от гл.<ref type="etymon" target="guVati">*guVati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Формы на -t- вторичны (-t- эпентетическое), ср. более старое русск. диал. гулей (выше) без эпентезы. Объяснение непосредст­ венно из<xr type="compare">см. <ref type="etymon" target="goH-2">*goH</ref>
+    </xr>, 
+принимаемое 
+обычно 
+в 
+литературе (см. 
+ниже), менее вероятно. См. Фасмер I, 473 (вслед за Соболевским, 
+из 
+*голъ?пай); 
+Y. Serech-Shevelov 
+«Word» 8, 1952, 351; Rudny-
+ckyj I, 763.
+укр. гулътяй м. р. гуляка , блр, гулыпац м. р. лентяй , Имя деятеля</note>
+</Entry>

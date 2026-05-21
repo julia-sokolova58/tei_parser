@@ -1,0 +1,36 @@
+<Entry xml:id="glodyrodp-ve">
+  <pb n="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glody, род. п. -ъve</orth>
+    <lemma>glody, род. п. -ъve</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -ъуе</orth>
+    <lemma>род. п. -ъуе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глбдва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нора на обрыве бе­ рега, в которой находится гнездо стрижа . — Ср., возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 I, 878; Филин 6, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>Срем</ref>) гло%ва ж. р.</orth>
+      </form>
+      <sense>
+        <def>не разламывающийся, не отделяющийся от косточки персик</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Основа на -й-, соотносительная с гл.<ref type="etymon" target="glodati">*glodati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,231 @@
+<Entry xml:id="ogu">
+  <pb n="214" end_page="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ь О Г У Ъ</orth>
+    <lemma>Ь О Г У Ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Б</ref>^ДБЪ M. p. pecus, pecudes</orth>
+      </form>
+      <sense>
+        <def>мелкий скот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>баран, брава голова (единица счета мелкого скота) (Георгиев), напр. сто брави овци сто голов овец, браф м. р., одна скотина, голова из стада , браф м. р. одна скотина, голова крупного рогатого скота , браф м. р. баран , браф м. р. голова скота, обыкновенно овца , браф м. р., брави мн. голова скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Попгеоргиев БД I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 319)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брав</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>баран , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. диал&lt; <ref>prdvda</ref>, правда</orth>
+      </form>
+      <sense>
+        <def>скот, скотина (собир.), также единица, голова скота (особ, лошадей, мулов), преобразованное по народной этимологии из членной формы ж. p. brav-ta &gt; prdv-da</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. спе­ циально A. Mazon. Documents, contes et chansons slaves de ГА1- banie du Sud. Paris, 1936, 433; О. H. Трубачев. Дом. жив., 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брав</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>овцы (без различия пола и возраста), pe­ cus, oves</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>Воеводина</ref>)</orth>
+      </form>
+      <sense>
+        <def>кастрированный, кладеный кабан, porcus castratus, также брав м. р. единица, голова мелкого скота — овца, коза, кладеный кабан , в перенос­ ном смысле также как название меры земли и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла^нац II, 165—166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>овца, баран , брави-овчи мн. овцы, брави-коз]и козы , брави мн. овцы и козы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ки. 7)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mic. 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdv</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>овцы (без различия пола и возраста), баран, свинья, мелкий скот , овцы, кладеный баран</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jarnik 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brav</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>скот, в частности мелкий скот\ •ЬОГУЪ</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brav</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>мелкий домашний скот (овцы, козы, свиньи)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brav</ref>, brdvek</orth>
+      </form>
+      <sense>
+        <def>боров, кастрированный кабан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS Slov. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brav</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>боров, кастрированный кабан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>browek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>откармливаемый кабан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. g. p., I, 121; ни Брюкнер, ни Славский не упоминают этого слова в своих словарях)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>боровъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скотина породы овец и коз, pecus, oves, саргае, кабан и баран хо­ лощеный, vervex</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Быт. XLIII. 16 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Рукоп. Клим, до 1270 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боров</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>самец свиньи, кастрированный для откармли­ вания на убой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>боров</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>самец свиньи, хряк (перм., волог., нов., арх., твер., пенз.), холощеный и нехолощеный кабан (симб., ленингр.), кастрированный бык</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *borvb членится как *Ъог-и-, восходящее к дослав. *bhor-u-. К этой же и.-е. форме восходят производные с суфф. -ко- др.-в.-нем. barug, barh, нем. Borg, Borch, др.-исл. borgr 'бо­ ров, кастрированный кабан'. Корень *bhor- с именным -о-вока- лизмом возводят к и.-е. *bher- 'резать'. См. Г. А. Ильинский РФВ LXV, 1911, 225. См. еще Miklosich 19 (сравнивает с др.-в.-нем. per, paruc); Berneker I, 75; Преображенский I, 37; Trautmann BSW 27 (под «балто-слав.» праформой *Ъагиа- м. р. 'мелкий скот'; автор, естественно, не может привести никаких собственно балт. соответствий; представляет интерес мнение Траутмана об отражении здесь древнего собир. производного на -и-, при сингулятивном производном на -к-: др.-в.-нем.</note>
+  <gramGrp>
+    <gram>Ъагис, ср. отноше­ ние авест. pasu- собир. 'скот' — pasuka- 'одна скотина'); Грубор 1Ф VIII, 1928-1929, 22; Kiparsky. Die gemeinslavischen Lehn- worter aus dem Germanischen 61 (допускает, вслед за Хиртом, заимствование из герм.<ref type="etymon" target="barw-">*barw-</ref>, принимая во внимание близость 
+значений, а также легкость заимствования названий кастриро­
+ванных животных); Младенов ЕПР 42 (о родстве герм, и слав, 
+слов); ср. так же Георгиев БЕР I, 71—72; Фасмер I, 195; Тру­
+бачев. Указ. соч. 64—65; Откупщиков. Из истории индоевропей­
+ского словообразования 121, 128; Мартынов. Славяно-германское 
+лексическое взаимодействие 80 и след. (взвешивает аргументы 
+в пользу возможности заимствования из герм, в слав., с рядом 
+критических замечаний); V. Machek KZ 64, 261 и след. (считает 
+праслав. <ref type="etymon" target="borvb">*borvb</ref> 
+родственным др.-инд. bhdrvati 'жует', ср. риф­
+мованное образование праслав. <ref type="etymon" target="korvb">*korvb</ref> 'бык' и др.-инд. carvati 
+'жует'; маловероятно прежде всего в семантич. отношении, т. к, 
+<ref type="etymon" target="borvb-2">*borvb</ref> меньше всего оснований дает для реконструкции знач-я 
+'жвачное животное'); см. еще Machek 41. 
+Знач. 'кастрированный самец (кабан, баран, бык)', видимо, — 
+древнейшее, хотя оно и уступает в ряде случаев место другим 
+знач-ям (см. обзор выше) и другим терминам (см. 
+<ref type="etymon" target="kgpog">*къгпогъъ</ref>
+      <ref type="etymon" target="nerezbcb">*nerezbcb</ref> и др. названия кастрированного кабана, борова). Сказан­
+ное, т. о., оправдывает принимаемую здесь известную этимологию,</gram>
+  </gramGrp>
+</Entry>

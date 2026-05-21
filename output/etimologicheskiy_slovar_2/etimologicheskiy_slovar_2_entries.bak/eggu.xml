@@ -1,0 +1,65 @@
+<Entry xml:id="eggu">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬегЬгъуъ]ь</orth>
+    <lemma>ЬегЬгъуъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezbrvy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безбровый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezbrewy</ref> , bezebrwi</orth>
+      </form>
+      <sense>
+        <def>безбровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Linde I, 77; Warsz. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безбровый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого нет бровей или они очень жидки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безбрбвий</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязбрбвы</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., производное от<ref type="etymon" target="bez-6">* bez</ref> (см. подробно) и основы 
+прилаг-ного архаич. типа <ref type="etymon" target="gi">* Ьгъиъ</ref> (см. <ref type="etymon" target="gu-ie">* Ьгу/-ъие)</ref>.</gram>
+  </gramGrp>
+  <note>См. специально Taszycki. Archaiczny typ przymiotnikow stowianskich. — T-cki. Roz- prawy i studia polonistyczne. IV, 287—288; Miklosich. Vgl. Gr. II, 403.</note>
+</Entry>

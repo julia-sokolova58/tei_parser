@@ -1,0 +1,156 @@
+<Entry xml:id="druznj">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družьnъ(jь)</orth>
+    <lemma>družьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. ^<ref>popKANA</ref>, -АЫИИ, прилаг. cpi</orth>
+      </form>
+      <sense>
+        <def>Xoo, amici дру­ жеский, TOO етероо, alterius другого</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дружный, совместный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дру</ref>­ жен то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>дружан</ref>, -жна, -жно</orth>
+      </form>
+      <sense>
+        <def>совмест­ ный, коллективный, общественный, совместный, дружеский, товарищеский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 752)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drazen</ref>, -zna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>об­ щественный, совместный, дружный, общительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druzny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>общественный, товарищеский, druzni при­ надлежащий другу, общительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druzny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дружеский, товарищеский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>druzny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мужественный, бравый , дружелюб­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 200)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрХжънии</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прина­ длежащий другу, относящийся к другу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. л. 153, Срезневский I, 732)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дружный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приятельский, мирный, со­ гласный; совместный, соединенно действующий , дружный чужой, принадлежащий другому; принадлежащий другу , сюда же субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1235)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дружёнъ</ref> м. р. .</orth>
+      </form>
+      <sense>
+        <def>возлюбленный, любовник , дружна мн. пара, чета свыкшихся животных; ярмо волов, смычок гончих и пр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., новг., Филин 8, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дружнш</ref>, -я, -е</orth>
+      </form>
+      <sense>
+        <def>дружественный, дружный, принадлежащий другу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 448—449)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="drugb-6">*drugb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

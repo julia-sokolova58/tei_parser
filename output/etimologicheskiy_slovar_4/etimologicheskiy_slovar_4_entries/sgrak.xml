@@ -1,0 +1,78 @@
+<Entry xml:id="sgrak">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгракъ</orth>
+    <lemma>сьгракъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черпак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>половник, поварешка , черпак (для воды)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 614)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerpdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вид деревянной посуды</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crpdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный сосуд с ушком (для сы­ воротки) , также cerpdk</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovenske Pravno v Turc z., Kalal 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черпак</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ведро... для наливки бочки водою, лейка, ковш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черпак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черпак на длин­ ной палке или ведро с короткой ручкой, вверх стоящей, для на­ бирания воды (Шух.), род ковша для поливания «ризей» (Шух.), подобный же, но несколько отлично устроенный рыболовный снаряд (Вх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 458—459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарпакм</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>черпак</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(а)къ от гл.<ref type="etymon" target="sgran">*съграН</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

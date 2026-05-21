@@ -1,0 +1,57 @@
+<entries>
+  <entry xml:id="bcelj" xml:id="bcelj">
+    <pb n="106" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъčelьjь</orth>
+      <lemma>Ьъсе1ь]ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. редк. <ref>pcelija</ref> \ubica ж. р.</orth>
+        </form>
+        <sense>
+          <def>трава медуница Melissa</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA IX, 729)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>cebelji</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>vceli</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>vceli</ref>
+          </orth>
+        </form>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>прилаг. то же 
+(SSJ V, 33), полаб. cele, 
+прилаг. 'пчелиный' Polanski — Sehnert 
+46, с реконструкцией 
+Притяж. 
+прилаг., 
+производное с суфф. -ь/ь от <ref type="etymon" target="se1a">*Ьъсе1а</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

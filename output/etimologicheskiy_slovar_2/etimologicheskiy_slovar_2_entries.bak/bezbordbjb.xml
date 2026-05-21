@@ -1,0 +1,107 @@
+<Entry xml:id="bezbordbjb">
+  <pb n="14" end_page="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezbordb(jb)</orth>
+    <lemma>bezbordb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безбрад</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -ый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>безбрад</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безбрад</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>без­ бородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 266: с пометой о русск. происхождении слова; РСА I, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezbrady</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezbrody</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 74; Warsz. I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безбородый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имеющий бороды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безбородый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>безбарбды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-4">*bez</ref> (см.; там же о древнем 
+типе основы, с литер.) и <ref type="etymon" target="borda-2">*borda</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. еще Miklosich. Vgl. Gr. II, 403-404. *bezbordbivb(jb). словен. fcrez&amp;radera, прилаг. 'безбородый' (Plet. I, 56), в.-луж. bjezbrodny то же, польск. bezbrodny 'безбородый, голо- бородый' (Warsz. I, 119). Производное с суфф. -ъп- от гораздо более распространенной и более древней формы прилаг.<xr type="compare">см. <ref type="etymon" target="eog1">*ЪеъЪог1ъ</ref>
+    </xr>. Об отношениях 
+*bezbordb— <xr type="compare">см. <ref type="etymon" target="eogs1p">*ЪеъЪогс1ъпъ</ref>
+    </xr> специально на *bez. См. еще Miklo­
+sich. Vgl. Gr. II, 404.</note>
+</Entry>

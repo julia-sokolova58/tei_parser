@@ -1,0 +1,89 @@
+<Entry xml:id="dervina">
+  <pb n="210" end_page="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervina</orth>
+    <lemma>dervina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Drevina</ref>, местн. название в Сербии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 771)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drevina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>древесина; древесное растение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dfewina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лес, лесок, роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>деревина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>срубленное дерево, бревно, колода (новг., перм.), дерево, в значении единицы (пек., твер.) , отдельное дерево (пек., твер., самар., новг., печорск., волог., свердл., курган., новосиб., кемер., том., краснояр., иркут., хабар.), большое дерево (арх.), бревно (новг,, перм., свердл., пек., влад., новосиб., том., олон., арх.), большое бревно (тобол., пек., смол.), опорная доска и столбики в мялке (арх.), деревянная часть какого-либо приспособления, орудия и т. п. (тюмэн., свердл., нозосиб.), о рослом и крепком человеке (тобол.), о неповоротливом, молчаливом человеке (арх.) , деревина ж. р. дерево , дерявйна ж. р. бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1067)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(осташк., Опыт словаря говоров Ка­ лининской области 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. К, Дмит­ риева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>деревина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отдельное дерево, собир. де­ ревья , деревина древесина .—Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 368)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>дрёвйнка</ref> ж. р. собир.</orth>
+      </form>
+      <sense>
+        <def>деревья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 680)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="dervo">*dervo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

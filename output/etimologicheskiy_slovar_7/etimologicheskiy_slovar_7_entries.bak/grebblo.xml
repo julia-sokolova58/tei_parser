@@ -1,0 +1,230 @@
+<Entry xml:id="grebblo">
+  <pb n="109" end_page="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>greb(b)lo</orth>
+    <lemma>greb(b)lo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гребло</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>грабли, весло-гребок, лопата для очистки от снега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гребло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>особая деревянная лопата для подгребания зерна на гумне , гребло ср. р. то же , гребло гребло (для уборки зерна) , гриблб ср. р. деревянная лопата* , гриблб кочерга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Стоиков. Днешно съето- яние на еркечкия говор 358)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. В. Швецова. Словарь говора села Твардицы 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник.—БД V, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гребло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>грабли, нож для вырезания деревян­ ных ложек, лопата</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гребло</ref>, гребло ср. р.</orth>
+      </form>
+      <sense>
+        <def>лопата для выгребания жара и золы из печи, приспособление для разгреба­ ния или скидывания снега</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 605, там же ряд других аналогичных значений)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greblo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>грабли, гребень для чистки льна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfeblo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кочерга, ме­ шалка, скребница</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hreblo</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrjeblo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>клюка, кочерга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>greblo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кочерга, гребло для хлебной печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>greblix</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кочерга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 67, с ре- ill *grebbteti/*grebbtiti (s§) конструкцией *greblo)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzeblo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>гребло, кочерга* , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 931)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gzebuo</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zariba. Atl. sJas. V, 851)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grleble</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гребло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>весло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Диоптр. Филип., Срезнев­ ский I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гребло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пластинка, которой равняют сыпучие вещества с краями измеряющего сосуда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гребло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полная мера , гребло дощечка, которою сгребают верх при мерянии зерна; зерно дают взаймы «под гребло», а получают «с верхом» , гребло ср. р. весло (том., кемер., арх.), род граблей на жатвенной машине, которая собирает сжа­ тый хлеб (терск.), приспособление в виде доски, насаженной пер­ пендикулярно на длинную рукоять, для сгребания обмолоченного хлеба в вороха (волог., олон., перм.), небольшой, прямолинейный, деревянный брусок, или пластинка, которою при мерянии сравни­ вают с краями меры сыпучие вещества (орл., южн., курск., симб., арх., яросл., донск.), полная мера чего-либо(волог., влад., моек., ряз., ворон., самар.), широкая длинная доска с двумя палками, с помощью которой на лошади свозят снег со двора, возят зерно, обмолоченное на току (пенз.), кочерга (волог., новг., пек.) , гребло ручка граблей (Картотека Печорского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Диттель. Сборник рязанских областных слов. — ЖСт. VIII, 1898, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 124—125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гребло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница, орудие напо­ добие грабель (вместо зубцов дощечка шириною в вершок), упо­ требляемое для сгребания соли в лиманах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 323—324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гребло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Москаленко. Словник д1алектизм1в украш- ських гов1рок Одеськог области 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>граблб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скребница (чистить лошадей)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Б я л ь к е в 1 Ч , Магш. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -(ъ)1о от гл.<ref type="etymon" target="grebti-6">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. лтш. greblis 'скребок, резец, грабли, вилы'.</note>
+</Entry>

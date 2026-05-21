@@ -1,0 +1,301 @@
+<Entry xml:id="edroedra">
+  <pb n="65" end_page="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędro/*ędra</orth>
+    <lemma>ędro/*ędra</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>§dra</orth>
+    <lemma>§dra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. (<ref>Дювернуа</ref>) \езгро ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jadpo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedpo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро, сердцевина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 685—686)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jadrka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ядро плода , jedpna ж. р. , далее — jegra ж. р. орешник Coryl- lus avellana , преобразованное ]ёзгро ср. р., )ёзгра ж. р. ядро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 685, 686)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в Далмации, RJA IV, 568; РСА VIII, 623: jezpa)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jedro</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро (ореха), косточка (плода) , также jadrka ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XV, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jddro</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>idre</ref>, род. п. -ete , елвц. jadro ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 627—628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jadro</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро, яичко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jedro</ref> ср. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>jedro</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зерно, ядро (ореха и т. п.) , также jadro ср. p. , полаб? §drb(jb) jgdre ср. p. ядро ореха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 541)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 524)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Jqdro</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>зерно, ядро, сердцевина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jdydre</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ядрб</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>внутренняя часть плода в твердой оболочке</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>Лдры</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>очищенные от шелухи конопляные или другие какие-либо зерна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ядрб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>зерно (хлебное), семячко (мя­ систого плода, зерно ореха), ядро, testiculus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ядрб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ядро</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>ядрб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>семячко (подсолнечника и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Народная лексша 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возможно объяснение праслав. *$dro из *erc-dr-, где *ел- озна­ чало 'в, внутри', a -dr- представляло собой вар. форманта -tr-,<xr type="compare">ср. <ref type="etymon" target="tro">*$tro</ref>
+    </xr> и *$tfr&amp;. Так в принципе см. уже Ph. Fortunatov ВВ III, 
+1879, 54; Р. Брандт РФВ XXII, 1889, 133; Shevelov. A prehi­
+story of Slavic 230. Форму *$dro можно было бы считать только 
+слав., ср., впрочем, также привлекаемое 
+некоторыми 
+авторами 
+сравнение с лтш. idrs 
+'сердцевина', если последнее из *in-dras. 
+Стар, сближение слав. *?dro с др.-инд. ariddm 'яйцо, яичко' 
+(Фортунатов, там же; М. Bloomfield AJPh VII, 1886, 103; Miklo-
+sich 104) рано вызвало сомнения с фонетич. точки зрения, см. 
+Брандт, 
+там же (ввиду наличия церебральных реконструирует 
+др.-инд. форму как *enzdo-); Berneker I, 456; Mayrhofer I, 26. 
+Впрочем, слав.-инд. пару принимает целый 
+ряд 
+ученых, 
+см. 
+G. Ujinskij 
+AfslPh XXVIII, 
+1906, 451—455 (здесь же критика 
+сближения Фика с греч. аЬро&lt;; 'толстый', 'плотный' по фонетич. 
+соображениям и с др.-инд. ddri- 'камень, 
+гора', 
+др.-ирл. ond 
+'камень' — по семантическим); Фасмер IV, 547. и *$tfr&amp;. Так в принципе см. уже Ph. Fortunatov ВВ III, 
+1879, 54; Р. Брандт РФВ XXII, 1889, 133; Shevelov. A prehi­
+story of Slavic 230. Форму *$dro можно было бы считать только 
+слав., ср., впрочем, также привлекаемое 
+некоторыми 
+авторами 
+сравнение с лтш. idrs 
+'сердцевина', если последнее из *in-dras. 
+Стар, сближение слав. *?dro с др.-инд. ariddm 'яйцо, яичко' 
+(Фортунатов, там же; М. Bloomfield AJPh VII, 1886, 103; Miklo-
+sich 104) рано вызвало сомнения с фонетич. точки зрения, см. 
+Брандт, 
+там же (ввиду наличия церебральных реконструирует 
+др.-инд. форму как *enzdo-); Berneker I, 456; Mayrhofer I, 26. 
+Впрочем, слав.-инд. пару принимает целый 
+ряд 
+ученых, 
+см. 
+G. Ujinskij 
+AfslPh XXVIII, 
+1906, 451—455 (здесь же критика 
+сближения Фика с греч. аЬро&lt;; 'толстый', 'плотный' по фонетич. 
+соображениям и с др.-инд. ddri- 'камень, 
+гора', 
+др.-ирл. ond 
+'камень' — по семантическим); Фасмер IV, 547. и *$tfr&amp;. Так в принципе см. уже Ph. Fortunatov ВВ III, 
+1879, 54; Р. Брандт РФВ XXII, 1889, 133; Shevelov. A prehi­
+story of Slavic 230. Форму *$dro можно было бы считать только 
+слав., ср., впрочем, также привлекаемое 
+некоторыми 
+авторами 
+сравнение с лтш. idrs 
+'сердцевина', если последнее из *in-dras. 
+Стар, сближение слав. *?dro с др.-инд. ariddm 'яйцо, яичко' 
+(Фортунатов, там же; М. Bloomfield AJPh VII, 1886, 103; Miklo-
+sich 104) рано вызвало сомнения с фонетич. точки зрения, см. 
+Брандт, 
+там же (ввиду наличия церебральных реконструирует 
+др.-инд. форму как *enzdo-); Berneker I, 456; Mayrhofer I, 26. 
+Впрочем, слав.-инд. пару принимает целый 
+ряд 
+ученых, 
+см. 
+G. Ujinskij 
+AfslPh XXVIII, 
+1906, 451—455 (здесь же критика 
+сближения Фика с греч. аЬро&lt;; 'толстый', 'плотный' по фонетич. 
+соображениям и с др.-инд. ddri- 'камень, 
+гора', 
+др.-ирл. ond 
+'камень' — по семантическим); Фасмер IV, 547. и *$tfr&amp;. Так в принципе см. уже Ph. Fortunatov ВВ III, 
+1879, 54; Р. Брандт РФВ XXII, 1889, 133; Shevelov. A prehi­
+story of Slavic 230. Форму *$dro можно было бы считать только 
+слав., ср., впрочем, также привлекаемое 
+некоторыми 
+авторами 
+сравнение с лтш. idrs 
+'сердцевина', если последнее из *in-dras. 
+Стар, сближение слав. *?dro с др.-инд. ariddm 'яйцо, яичко' 
+(Фортунатов, там же; М. Bloomfield AJPh VII, 1886, 103; Miklo-
+sich 104) рано вызвало сомнения с фонетич. точки зрения, см. 
+Брандт, 
+там же (ввиду наличия церебральных реконструирует 
+др.-инд. форму как *enzdo-); Berneker I, 456; Mayrhofer I, 26. 
+Впрочем, слав.-инд. пару принимает целый 
+ряд 
+ученых, 
+см. 
+G. Ujinskij 
+AfslPh XXVIII, 
+1906, 451—455 (здесь же критика 
+сближения Фика с греч. аЬро&lt;; 'толстый', 'плотный' по фонетич. 
+соображениям и с др.-инд. ddri- 'камень, 
+гора', 
+др.-ирл. ond 
+'камень' — по семантическим); Фасмер IV, 547.</note>
+</Entry>

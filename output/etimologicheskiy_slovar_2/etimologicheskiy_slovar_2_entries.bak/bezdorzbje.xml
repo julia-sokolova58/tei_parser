@@ -1,0 +1,68 @@
+<Entry xml:id="bezdorzbje">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdorzbje</orth>
+    <lemma>bezdorzbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdroze</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 76; Warsz. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бездорожье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>плохая, едва проезжая дорога, особ, от распутицы, грязи; время распутицы, дождей, грязи, по весне и по осени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бездорожье</ref> с бездорожье, распутица</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1275 г., Тимченко I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездорхжжя</ref>, бездорбжжя ср. р.</orth>
+      </form>
+      <sense>
+        <def>отсутствие дороги, бездорожье, распутица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бездарбжжа</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью пред­ лога-приставки<ref type="etymon" target="bez-24">*bez</ref> (см.) и суфф. -bje от <ref type="etymon" target="dorga-3">*dorga</ref> (см.), видимо, на 
+базе словосочетания <ref type="etymon" target="bez-25">*bez</ref> dorgy.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="bezdorzb">*bezdorzb</ref>
+    </xr> (выше).</note>
+</Entry>

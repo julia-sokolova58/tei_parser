@@ -1,0 +1,47 @@
+<Entry xml:id="dnnica">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnьnica</orth>
+    <lemma>dьnьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ДАЫАНИЦД</ref> Ж. р. еоххрород, срсоасророс, lucifer, stella ve­ neris</orth>
+      </form>
+      <sense>
+        <def>утренняя звезда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>денница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>утренняя звезда , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>денница</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 166)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Деница ж. р. 'утренняя звезда, денница' (И-С), сербохорв. даница ж. р. то же, danica ж. р. (с XVI в., RJA И, 266—267: dbnbn + ica), словен. danica ж. р. 'утренняя звезда' (Plet. I, 122), ст.-чеш. derinice ж. р. 'утренняя звезда', 'заря' (Ст.-чеш., Прага; Gebauer I, 227), чеш. dennice ж. р. то же (Kott I, 228), слвц. dennica ж. р. 'утренняя звезда' (SSJ I, 249), др.-русск., русск.-цслав. дьньница, денъница, деница 'утренняя звезда' (Упыр. 107; Пов. вр. л. под 969 г.), 'падучая звезда' (Сбор. Кир. Белоз. XV в.) (Срезнев­ ский I, 771—772), русск. диал. денница ж. р. 'хлев, сарай для скота' (свердл., ср.-урал., перм.), 'отдельное закрытое стойло в ко­ нюшне, где лошадь стоит без привязи' (ср.-урал.), 'загон для скота в поле' (ср.-урал.) (Филин 7, 352), укр. дённиця ж. р. 'рас­ тение Tormentilla erecta' (Шух. I, 22), мн. 'род детской болезни' (Гринченко I, 367).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="dnn">*dъnъnъ</ref> 
+(см.); субстанти­
+вация.</gram>
+  </gramGrp>
+</Entry>

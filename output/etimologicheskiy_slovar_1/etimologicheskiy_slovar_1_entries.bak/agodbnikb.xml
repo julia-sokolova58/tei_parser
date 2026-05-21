@@ -1,0 +1,104 @@
+<Entry xml:id="agodbnikb">
+  <pb n="59" end_page="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agodbnikb</orth>
+    <lemma>agodbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jagodnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ягода, земляника fragaria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Stulli, R J A IV, 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jahodnik</ref> м. р. с к у с т земляники</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jahodnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>к у с т земляники, тутовое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>шодьникъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ягодный огород</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. купч. X I V — X V в., Срезневский III, 1639)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. (<ref>сев</ref>.) ягодник м. р.</orth>
+      </form>
+      <sense>
+        <def>ягодное место, (ряз.) ягодное варенье; пастила; пирог 5, (влад.) кустарник, на котором родятся ягоды , у к р . яггдник земляника лесная Fragaria vesca , яггдник стебли, кусты клубники или земляники . Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1561)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 535)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdgodnjak</ref> м. р. сземляника Fra­ garia vesca</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 355)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное от<xr type="compare">см. <ref type="etymon" target="agoda">*agoda</ref>
+    </xr> с суфф. -ъткъ, 
+в данном образо­
+вании — с функцией собирательности (обозначение растения в це­
+лом, куста с ягодами и т. п.).</note>
+  <gramGrp>
+    <gram>Н е исключена, впрочем, соотнесен­ ность непосредственно с прилаг.<ref type="etymon" target="agodbnbjb">*agodbnbjb</ref> 
+(см.).
+: 
+сербохорв. jagodan 'ягодный' (RJA IV, 414), ср. топо­
+ним /агодтъа 
+(КарациЬ), словен. jagoden 'ягодный' (Plet. 
+I, 355), 
+чеш. jahodnij, jahodni 
+'ягодный' 
+(Kott I, 
+59В), н.-луж. 
+jagodny 
+'ягодный, земляничный' (Muka St. I, 526), словин. jaguodiii 'ягод­
+ный, черничный' 
+(Loreulz Slovinz. W b . I, 378), русск. 
+ягодный, 
+укр.</gram>
+  </gramGrp>
+  <note>ЛгЬдпий (Укр.-рос. слови., VI). Адъективное производное регулярного типа от<xr type="compare">см. <ref type="etymon" target="agoda">*agoda</ref>
+    </xr> 
+с суфф. 
+-ыг(ъ]ъ).</note>
+</Entry>

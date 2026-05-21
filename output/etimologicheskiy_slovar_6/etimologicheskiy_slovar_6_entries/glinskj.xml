@@ -1,0 +1,47 @@
+<Entry xml:id="glinskj">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinьskъjь</orth>
+    <lemma>glinьskъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глйнскй</ref>, -а, -о, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глиняный , сюда же субстантивное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Hlinsko</ref> ср. р., местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(город, село в Моравии, Profous I, 564: 1500 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. <ref>glinski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глинистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 273)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Глинский, фам., ст.-укр. Глиньский, Глинский, Глинскш (1433 г., Словник ст.-укр. мови X I V — X V ст. I, 243).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъзкъ</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

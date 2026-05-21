@@ -1,0 +1,32 @@
+<Entry xml:id="derbati">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derbati</orth>
+    <lemma>derbati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>derbiti</orth>
+    <lemma>derbiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>деребатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесать, трепать, царапать (Картотека Псковского областного словаря), дерёбитъ драть, де- рябить, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., волог., Даль 3 I, 1065)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано отношением чередования с именем<xr type="compare">см. <ref type="etymon" target="dorbb">*dorbb</ref>
+    </xr> и с гла­
+гольной основой *dbrb-; прочие и.-е. соответствия обнаруживают 
+вокализм в ступени редукции. Древнее лабиальное расширение 
+|и.-е. основы, представленной в <xr type="compare">см. <ref type="etymon" target="derti">*derti</ref>
+    </xr>. Ср. Berneker I, 254; 
+Фасмер I, 501.</note>
+</Entry>

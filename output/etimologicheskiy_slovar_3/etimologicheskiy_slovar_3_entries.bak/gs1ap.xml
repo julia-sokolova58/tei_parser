@@ -1,0 +1,314 @@
+<Entry xml:id="gs1ap">
+  <pb n="59" end_page="61" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгъ§сь1'апъ</orth>
+    <lemma>Ьгъ§сь1'апъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгъ§сь1епъ</orth>
+    <lemma>Ьгъ§сь1епъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръшляни</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>вечнозеленое вьющееся растение плющ Hedera helix</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бръшл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ан м. р. то же , бърчлен то же (Георгиев), брёшнел м. р. то же ; бръшнелъ м. р. то же , бръшелъ плющ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Б Д III, 42; Ковачев. Трояя. Б Д IV, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов Страндж. Б Д I, 69; Стойчев. Б Д И, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бршлан</ref>, бршлен м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera helix</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ЬЩап</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera helix L. , бршлен м. р. то же , стар, brstran м. р. то же , brstran м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 682—683)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PCA II, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(только в XVI — XVII вв.. RJA I, 683—684)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV, XVII вв., R J A Т. 682)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>bastram</ref> то же , брштан м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sus. 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brsljan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera helix , brscel м. p. то же , brslej м. p. то же , bfselj, род. п. -slja, м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bresec</ref>, род. п. -sea, м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfectan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera (Ст.-чеш., Прага), сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brslen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>fusale ^ brsniel м. р. бересклет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfecfan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ, brslen м. р. бересклет Evonymus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bfestran</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плющ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brectan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ Hedera helix</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1^ 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>brestrdn</ref> то же , bestran то же , brllen</orth>
+      </form>
+      <sense>
+        <def>барвинок , brslen м. p. бере­ склет Evonymus vulgaris , brsVica</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Turcianska Z., Kalal 911)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Habovstiak Orav. 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brostwon</ref>, brostwonc м. p.</orth>
+      </form>
+      <sense>
+        <def>аир Acorus calamus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 51; иную этимологию в.-луж. brostwon — из сложения нем. Brust 'грудь' и серболуж. won 'запах' дает Шустер-Шевц: Schus- ter-Sewc I (машиноп.))</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>barstran</ref>, barstron м. р.</orth>
+      </form>
+      <sense>
+        <def>плющ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Chojn., Muka St. I, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бересклет</ref>, бересклёд, бересдренъ м. р.</orth>
+      </form>
+      <sense>
+        <def>кустарник из семейства крушиновых Evonymus verrucosus et europaeus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бересклет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жигалок; колючий кустарник , бруслён м. р. расте­ ние бересклет Evonymus europaeus L. , брусклён, брусклет бересклет , бурусклён бере­ склет , брухмёля, брухмёль ж. р. куст Evonymus europaeus, бересклет , бружмёлъ растение Evony­ mus, бересклет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 377)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Филин 3, 205—206)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 I, 321)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 353)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 I, 323)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бруслйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Evonymus europaeus, Evonymus verrucosus , бруселина ж. р. растение Evonymus europaeus , брус­ ника ж. р. растение Evonymus verrucosus , бриз- лелйна ж. p. Evonymus verrucosus Scop. , бересклен, бересклет м. р. растение Evonymus verrucosus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 98)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брызглта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бересклет , бружмель м. жимолость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 133)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Мнение авторов многих этимол. словарей, что единую праформу для перечисленных выше названий плюща (и некоторых других растений) вывести трудно или даже невозможно, следует назвать неоправданно пессимистическим. Принимаемая нами выше общая реконструкция ^ЬгъвсьГапъ или *Ьгъ8съ1епъ может считаться исходной базой, подвергавшейся многочисленным перестройкам. Опираясь на излагаемую ниже этимологию, мы считаем корневым гласным -ъ-у тогда как появление гласных переднего ряда (чеш. bfecfan, русск. бересклет и др., см. выше) вызвано ранней рег­ рессивной ассимиляцией *brbscbl-"&gt;*brbscbl-. Стечение согласных внутри слова -§съ1-^&gt; -scl- разрешалось в разных слав, языках различным способом: -scl-^&gt; -si- (частично -si-) в ю.-слав. и зап.- слав.; -scl-^&gt;-sc-^&gt;-st-/-ct- (и дальнейшие варианты) в диалектах сербохорв. и чеш. языков. В вост.-слав, возобладал рефлекс -сл- (с последующей вставкой -к- и под.). Неисконность исхода части вост.-слав, форм вроде бересклет ясна из самого вост.- слав. материала, ср. русск. диал. бруслён (выше). Дополнитель­ ную сложность внесли случаи метатезы, но и здесь можно отметить явные параллели, напр. болг. диал. брёшнел' и русск. диал. бружмель (см. выше). Таким образом, хотя участие контамина- тивных и экспрессивных моментов в образовании отдельных вариантов (в частности — в вост.-слав.) и следует признать, в целом в обширном перечне форм нет практически несводимых к описанной выше единой праслав. реконструкции, кот. мы пред­ почитаем, напр. реконструкции *Ьгъ§Гапъ у Бернекера (см. Berneker I, 95) по изложенным выше мотивам. То обстоятельство, что наша реконструкция охватывает названия разных растений — Hedera helix, Vinca, Evonymus, Acorus calamus и др., — н е яв­ ляется в наших глазах непреодолимым семант. препятствием, вопреки мнению тех авторов, кот. полагают, что названия бере­ склета не имеют сюда отношения (так см. Sadnik—Aitzetmul- ler. Vgl. W b . 3, 150). Напротив, мы полагаем, что *Ьгъ§съ1'апъ/ *Ьгъзсъ1епъ никак не связано с<xr type="compare">см. <ref type="etymon" target="gis">*ЬГи§съ</ref>
+    </xr>, вопреки неодно­
+кратно 
+высказывавшимся 
+предположениям на 
+этот 
+счет 
+(см. 
+Ostir. Drei vorslavisch-etruskische Vogelnamen. Ljubljana, 
+1930, 
+31; Sadnik— Aitzetmuller. Vgl. Wb. 3, 149).</note>
+  <gramGrp>
+    <gram>Этимологически<ref type="etymon" target="brbscbVap">*brbscbVапъ</ref> 
+\ <ref type="etymon" target="brbscblenb">*brbscblenb</ref> 
+представляет 
+собой 
+суффиксальное 
+производное 
+на 
+-ьГ-апъ 
+/ -ъ1-епъ 
+от 
+основы 
+гл. 
+<ref type="etymon" target="brbsati">*brbsati</ref> I <ref type="etymon" target="brbskati">*brbskati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Первомач. значение при этом: 'сорванное (на корм)'. Объясненное таким образом, данное название плюща (и некоторых других растений) занимает место в одном ряду с названиями плюща, сложившимися по тому же принципу и отражающими ту же экономику заготовки кормов для скота за счет дополнительных ресурсов леса. Ср. J. Trier. Venus. Etymologien um das Futterlaub (Koln — Graz, 1963), где под­ робно анализируется богатый лексический материал, в част­ ности — нем. Epheu 'плющ': Ней 'сено', но, к сожалению, ни­ чего не говорится об интересных слав, названиях плюща. Из литер.: Miklosich 21; Младенов Е П Р 47 («может быть, род­ ственно бръст . . .»); Георгиев Б Е Р II, 84; Machek 2 72 (исходит из *Ьгъ§съ, якобы родственного лат.(b)ruscus 'растение иглица', в конечном счете — и з «праевропейского субстрата»); Фасмер I, 156 (бересклет. . ., чеш. brslen то же. «Темное слово. Разные формы могли возникнуть только в результате контаминации этимологически различных названий, напр. берёза, берест или брусника; все остальное неясно, даже реконструкция древней формы сопряжена с трудностями. . .»); Skok. Etim. rjecn. I, 218—219 (допускает мысль об отражении здесь иллир. реликта); К. Menges «Festschrift Cyzevskyj» 191—194 (маловероятная гипо­ теза о заимствовании из тюрк, buruslan 'съеживающийся, спутан­ ный'). Основная ошибка существующих этимологии — отрыв вост.-слав, слов от ю.- и зап.-слав.</note>
+</Entry>

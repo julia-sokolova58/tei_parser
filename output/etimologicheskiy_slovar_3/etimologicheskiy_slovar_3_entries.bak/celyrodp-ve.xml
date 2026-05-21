@@ -1,0 +1,46 @@
+<entries>
+  <entry xml:id="celyrodp-ve" xml:id="celyrodp-ve">
+    <pb n="181" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕly, род. п. -ъve</orth>
+      <lemma>сё1у</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>род. п. ъуе</orth>
+      <lemma>род. п. ъуе</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu" type="old">ст.-слав. <ref>ц</ref>/клъ! ж. р. &amp;ератсеса, аагстдеьа, salus</orth>
+        </form>
+        <sense>
+          <def>ис­ целение, выздоровление</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Mikl., Sad.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪлы</ref>, цЪлъвъ, род. п. цЪлъве</orth>
+        </form>
+        <sense>
+          <def>излечение, исцеление</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гр. Наз. XI в. и др., Срезневский III, 1 4 5 6 ; Гр. Бог. XIV в., Картотека СДР)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Именная основа на -й-, сопоставимая прежде всего с др.-прусск. 
+kailustiskan 
+вин. п. ед. ч. 
+'здоровье'. 
+Далее 
+родственно 
+(см.). См. P . Arumaa 
+«Scando-Slavica» 
+IX, 1 9 6 3 , 7 3 .</note>
+  </entry>
+</entries>

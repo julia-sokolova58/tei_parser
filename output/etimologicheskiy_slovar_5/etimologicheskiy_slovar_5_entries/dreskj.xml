@@ -1,0 +1,40 @@
+<Entry xml:id="dreskj">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dręsъkъjь?</orth>
+    <lemma>dręsъkъjь?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрАскыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>печальный (?) , Сл. РЯ XI — XVII вв. 4, 367: тусклый, сумеречный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дрдхла бо бдше тогда тварь, и дрдска, и мъглдтта, и еще не воставш^ слнц^ на ню. Пал. XV в., Срезневский I, 737)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрязкой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щуплый, тощий (о человеке), старый, ветхий, испорченный, сварливый, ворчливый, вздорный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 146)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Основа, от кот. произведено это прилаг. с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m>, этимоло­
+гически тождественна <ref type="etymon" target="drex1">*drex(ъ)1ъ</ref> 
+(см. там же этимология).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,118 @@
+<Entry xml:id="bbdrbjb">
+  <pb n="111" end_page="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdrb(jb)</orth>
+    <lemma>bbdrb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>R</ref>^pz,-čiN, прилаг. тгр6{Ь[лос, promptus</orth>
+      </form>
+      <sense>
+        <def>бодрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бодар</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бадар</ref>, -дра, -дро</orth>
+      </form>
+      <sense>
+        <def>бодрый, живой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(бодар и бодар займете, из русск., см. PCA II, 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бодрый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>полный сил, здоровый, энергичный, (устар.) храбрый, смелый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бодрый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нарядный , бодрой нарядный, красивый, здоровый , бодрое хорошее, полное, свежее (о семени) , ббдер, -дра, -о весел, резов; также крепок телОхм (пек.), опро­ метчив, бросок (твер.) , бодро красиво, нарядно , бодрый, -ая, -ое мужественный, крепкий; здоровый (калуж., пек., твер., арх.), нарядно, щеголевато, по- праздничному одетый; расфранченный (перм., волог., иван., свердл., тюмен., ряз., арх., смол.), церемонный (арх., волог.), крепок (об одежде) (арх., олон.), смелый (астрах.), горд, само­ надеян (твер.), опрометчив (твер.), хороший (олон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Е. Будде. К диалектологии великорусских наречий. Исследование особен­ ностей рязанского говора. — Р Ф В XXVIII, 1892, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 260; Филин 3, 57—58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бодрий</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодрый, живой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 9, Тимченко I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ббдрий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>бодрый , бадьбрий бодрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Котл., Гринченко I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(впрочем, последнее считается заимств. из блр., см. Л. А. Булаховський. Питания походження укр. мови. Ки1в, 1956, 164—165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадзёры</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодрый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="s1g">*Ьъс1гъ</ref> по своим структурным признакам — отглагольное 
+прилаг., производное с суфф. -г- от <ref type="etymon" target="bbdeti">*bbdeti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Этимологически тождественно лит. budrus 'бдительный'. См. A. Fick KZ XXII, 1874, 3 8 0 (автор видит в слав, и балт. слове основу на -и-); Miklosich 25; Berneker I, 105—106; Meillet. Etudes I, 114 (сюда же авест. zaeni-budra- 'ревностно бдительный'); A. Meillet MSL 14, 1907, 362; Trautmann BSW 33; Фасмер I, 184; Fraenkel I, 62; O. Haas L P 3, 1951, 74 (относит к слав. *bъdrъ греч. (догреч.) фоорос 'лживый', якобы тоже из первонач. *bhudh-ro~).</note>
+</Entry>

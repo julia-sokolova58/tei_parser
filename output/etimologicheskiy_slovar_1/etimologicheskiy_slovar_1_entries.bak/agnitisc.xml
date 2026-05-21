@@ -1,0 +1,128 @@
+<Entry xml:id="agnitisc">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>agniti(sč)</orth>
+    <lemma>agniti(sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>агня</ref> се</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йагни</ref> се</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. /<ref>агни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давать приплод (об овце)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>аггьиггш</ref>, /агьити</orth>
+      </form>
+      <sense>
+        <def>ягниться, jaewumu се то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdgnjiti</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 355)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeh</ref>- niti se</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 616)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jahnif</ref> sa</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jagnie</ref> sa</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 526)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ягниться</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. (<ref>псковск</ref>.) янйть</orth>
+      </form>
+      <sense>
+        <def>ягниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 274; Карто­ тека Псковского областного словаря)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ягнйтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рожать ягнят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отыменный глагол с основой на -i(ti), производный от основы<ref type="etymon" target="agn--3">*agn-</ref> (см. <ref type="etymon" target="agn-14">*agn</ref>$).</gram>
+  </gramGrp>
+  <note>В ряде слав, языков уступил место префик­ сальному глагольному сложению *obagniti s$ (см.) с тем же зна­ чением. Следует обратить внимание на близкий словообразова­ тельно-морфологический параллелизм между слав. *agniti и англос. Banian с тем же значением: оба глагола образованы от одной и той же основы с помощью одинаковой глагольной темы</note>
+</Entry>

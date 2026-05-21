@@ -1,0 +1,69 @@
+<Entry xml:id="iki">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьикъ И</orth>
+    <lemma>Ьикъ И</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>место в водопаде, где вода кипит при падении</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ьйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>течка у свиней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bonk</ref>, Ьйк м. р.</orth>
+      </form>
+      <sense>
+        <def>вынь , если последнее не из праслав.<xr type="compare">см. <ref type="etymon" target="dk">*Ьдкъ</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бУкъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, tumuitus, sonitus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бук</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>место под колесом мелышцы, где водою выбита земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 17)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. происхождения, см.<ref type="etymon" target="bnka">*bnka</ref>, 
+<ref type="etymon" target="bukati-8">*bukati</ref>.</gram>
+  </gramGrp>
+</Entry>

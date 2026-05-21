@@ -1,0 +1,124 @@
+<Entry xml:id="dlbna">
+  <pb n="207" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlbьna</orth>
+    <lemma>dьlbьna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дл</ref>*6бня ж. р.</orth>
+      </form>
+      <sense>
+        <def>выдолбленное углубление, долбление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>длъбн</ref>^ ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный молот для рас­ калывания дров с помощью клиньев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският го­ вор. — БД IV, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ddlbnja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долбление, выдалбли­ вание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dlubna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долото, топорище, палка, дубина , также dlubne ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 257; Simek 39; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dlubna</ref>, dlubne ж. р.</orth>
+      </form>
+      <sense>
+        <def>тесло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Долбня</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1630 г., Тупиков 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долбня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колотушка, род большого деревянного мо­ лота или чурбан с вытесанною рукоятью, трамбовка, самое ши­ рокое плотничье долото, (волог.), долблёнка, обычно идущая на квашню или дежу , долбни ж. р. дубина, палка (смол., новг.), долбленая посудина, обычно используемая как квашня (волог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дбвбня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>большой де­ ревянный молот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дбубня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молот, балда, орудие для убоя скота, бойница . — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск., 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>долбёнъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>колун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иркутский областной словарь I, 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпа</ref>
+      </m> от гл. <ref type="etymon" target="dblbti">*dblbti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

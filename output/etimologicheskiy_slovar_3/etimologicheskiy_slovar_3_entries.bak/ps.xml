@@ -1,0 +1,90 @@
+<Entry xml:id="ps">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьпсь</orth>
+    <lemma>Ьпсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>бричъ</ref> м. p. čopov, novacula</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бритва (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бритва (опасная) (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1, 640; PGA II, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бричъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бритва, \opov, novacula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Чис. VI. 5 no сп. XIV в., Срезневский I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бръхч</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бритва , брич бритва, нож</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Г. Немченко. Особливост1 roBipKii с. Широкий Луг Тяч1вського району. У ж ­ город, 1954, 130. Дип. роб.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектологический атлас 212)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-съ</ref>
+      </m> (&lt;^-kjo-) 
+от основы гл. <ref type="etymon" target="briti">*briti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Младенов 45; Георгиев Б Е Р I, 79 (болг. брич, отмеченное также в народных говорах, возводится к праслав. *Ьпсъ, ср. аналогичное суффиксальное производное *Ысъ); Skok. Etim. rjecn. I, 209 (brie, также в Косове и Метохии, характеризуется как стар, производное). Поэтому мнение о болг. брич как о заимств. из вост.-слав., а равным образом реконструкция *britjb (Дзен- дзел1вський. Украшсько-захщнослов'янсьш лексичш паралел1 26) основаны на недоразумении. Связь ю.-слав. и укр. диал. слов следует лишь выделить как локальный (карпатский) парал­ лелизм, изоглоссу.</note>
+</Entry>

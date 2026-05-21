@@ -1,0 +1,151 @@
+<Entry xml:id="syopa">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёпа</orth>
+    <lemma>сёпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>и</ref>/кил ж. p. гф/rj, pretium</orth>
+      </form>
+      <sense>
+        <def>цена, стоимость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цена</ref> ж . р.</orth>
+      </form>
+      <sense>
+        <def>цена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Б Т Р ; Геров: цена, цана)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цена</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена, стоимость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цена</ref>, цщена ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена (Вук; R J A : с X I V в.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сёпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена, стои­ мость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>села</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сепа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена, стоимость, ценность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>сепа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена, стоимость, достоинство, значение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 804—806)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>цЪна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плата (Остр. ев. и др.), цена, стоимость , платеж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 912 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пек. судн. гр. 203)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1459)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>цена</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стоимость чего-н., выраженная в де­ нежных единицах</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>щна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I V , 433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цена</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Родственно авест. каёпа- 'возмездие, месть, наказание', греч.</note>
+  <gramGrp>
+    <gram>Ttoivfj 'штраф; месть, наказание', лит. kdina, kaina 'цена', вместе с которыми слав, слово продолжает и.-е.<ref type="etymon" target="k">*k</ref>
+uoina, 
+производное 
+с суфф. -п- 
+от глагольной основы и.-е. <ref type="etymon" target="k">*k</ref>
+uei-y 
+кот. продолжается 
+в др.-инд. cdyatB 
+'мстит, наказывает', греч. xtvco 'расплачиваюсь', 
+а также в др.-инд. cdyati, 
+cinoti 
+'складывает', греч.</gram>
+  </gramGrp>
+  <note>TCOISCD 'делаю' и слав.<xr type="compare">см. <ref type="etymon" target="st">*стъ</ref>
+    </xr>. Отношения *стъ: 
+*сёпа, или, скорее, и.-е.</note>
+</Entry>

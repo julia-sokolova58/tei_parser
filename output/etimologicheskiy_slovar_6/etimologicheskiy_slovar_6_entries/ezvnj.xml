@@ -1,0 +1,53 @@
+<Entry xml:id="ezvnj">
+  <pb n="58" end_page="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕzvьnъ(jь)</orth>
+    <lemma>ĕzvьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>язвен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>язвенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jizevnij</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чувствительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>швьныи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раненый (Гр. Наз. XI в.). убитый (Сбор. Во- лог. XV в.), изнуренный (Гр. Наз. XI в.) , Ъзвъныи раненый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1645)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1164 г., Срезневский III, 1620)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="ezva">*ezva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

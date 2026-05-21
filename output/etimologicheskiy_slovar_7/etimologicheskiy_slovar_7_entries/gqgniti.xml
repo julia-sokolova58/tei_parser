@@ -1,0 +1,153 @@
+<Entry xml:id="gqgniti">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqgniti</orth>
+    <lemma>gqgniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гагне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнусавить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>huhliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стонать, во­ пить, выть , с упрощением —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VII, 1268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гу</ref>- нйть</orth>
+      </form>
+      <sense>
+        <def>сказывать, говорить , с эпен­ тетическим д — гундйтъ плакать (моек.), юлить (курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 44; Даль 3 I, 1010)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гугнйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнусить, говорить в нос, неясно звучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гунщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поносить, хулить .—Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гжгънжъ</ref> "fOfp^Dv, murmurans</orth>
+      </form>
+      <sense>
+        <def>ропщущий , косно­ язычный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъгнйв</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнусавый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гугнивый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>косноязычный, ропщущий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. X X X V . 6.—Упыр.; Пов. вр. л. под 988 г., Срезневский I, 608)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гугнивый</ref>, -ал, -ое</orth>
+      </form>
+      <sense>
+        <def>гнусавый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гугнивый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>гнусавый, говорящий неразборчиво, гнусаво</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тамб., Филин 7, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гугнйвий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>гнусливый, говорящий в нос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гугнгвы</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Мшска-маладзеч. III, 37)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="gggnati">*gggnati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

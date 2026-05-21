@@ -1,0 +1,178 @@
+<Entry xml:id="ecati">
+  <pb n="61" end_page="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčati</orth>
+    <lemma>ęčati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звучать, раздаваться, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ; Геров: ячж 'стонать, охать')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ичй</ref> 3 л. ед. ч.</orth>
+      </form>
+      <sense>
+        <def>гудит, шумит , макед, jam, ечи звучать, раз­ даваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояд- жиев. Дедеагачко. — БД V, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>je4amu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздаваться, стонать, также jdcati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 390, 505)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jecati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стонать, заикаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jeceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, стенать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 609)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пронзительно кричать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jacet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отдаваться (эхом) , jacet кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HoSek. Ceskomorav. II, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jacaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко плакать, стенать, издавать пронзительный звук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jeczed</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стенать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jafiec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>шати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вопить, стонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прол. XV в., Срезневский III, 1675)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>яцётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь . ячйть стонать, жалобно кликать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 1021)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1587)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ячати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать по-лебединому, кричать, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 546)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, 
+соотносительный с <ref type="etymon" target="fkati">*fkati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Буга специально сравнивал слав. *&lt;?cati с лит. inh-ste-ti 'заикаться' (см. РФП LXX, 1913, 106).</note>
+</Entry>

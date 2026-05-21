@@ -1,0 +1,201 @@
+<Entry xml:id="etijmo">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęti, *jьmo</orth>
+    <lemma>ęti, *jьmo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jbmq</orth>
+    <lemma>jbmq</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>юти</ref>, И М * Xap-fiaveiv, prehendere</orth>
+      </form>
+      <sense>
+        <def>брать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. /<ref>ей</ref>, Imera (jumem)</orth>
+      </form>
+      <sense>
+        <def>брать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeti</ref>, jdmem</orth>
+      </form>
+      <sense>
+        <def>начать , сюда же — с обобщением форм наст, времени —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(jel se je tresti 'начал трястись', Plet. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jmouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взять, jmouti se взяться, приняться, начать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>начать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jala ти zpivati, BartoS. Slov. 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jat</ref>\ jme, jmu</orth>
+      </form>
+      <sense>
+        <def>взять, схватить, jatf sa взяться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взять, схватить, захватить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jeme</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>хватает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 74, с реконструкцией */ьте)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jqe</ref>, imie</orth>
+      </form>
+      <sense>
+        <def>схватить, взять, поймать, начать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шги</ref>, имХ</orth>
+      </form>
+      <sense>
+        <def>взять , брать , схватить (Церк. уст. Влад.), прикоснуться, припасть (Остр, ев.), схватить, захватить, лишить свободы (Остр. ев. и др.), привести (Р. Прав. Влад. Мон.), поймать, наловить (Остр. ев. и др.), достигнуть, дойти , овладеть , стать (вспом. глаг., Церк. уст. Влад. и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юр. ев. п. 1119 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Поуч. Влад. Мон. 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лавр, л. под 1169 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1417 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1671)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стать , брать , Ллся хотел , пять взять (новг., смол.), до­ садить, задеть за живое (новг., пек.) , пять захва­ тить, овладеть чем-нибудь , Лться браться, обещаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., Опыт 275)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 495)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яти</ref>, йму</orth>
+      </form>
+      <sense>
+        <def>начинать, браться , пяти, йму брать, пяти eipu верить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 545)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко И, 573)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>яти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. Матер1али до словника д1алектизм1в украшських говор1в Буковини 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>няць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взять, охватить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 200)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *)ът&lt;} восходит к и.-е. *ет-, ср. лат. ётд, етеге 'покупать', (стар.) 'принимать', лит. imu% ifhti 'брать'. См. Н. Ebel KZ XIII, 1864, 240; Berneker I, 430; W. Porzezinski RS IV, 1911, 7; К. Буга РФВ L X X , 1913, 252; P. Kretschmer «Glotta» 19, 1931, 209 (специально обращает внимание на отношения слав. *fti к греч. VSJJLO), гот. niman, а также лтш. jemt, nemt); J. Safa- rewicz «Eos» LIV, 1964, 395; он же «Studia linguistica in hono- rem Th. Lehr-Sptawinski» 134; Pokorny I, 310—311; Фасмер IV, 569—570; Fraenkel I, 184—185; Benveniste. Le vocabulaire des institutions indo-europeennes I, 81 и сл.</note>
+</Entry>

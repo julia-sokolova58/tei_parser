@@ -1,0 +1,97 @@
+<Entry xml:id="grebbcb">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebbcb</orth>
+    <lemma>grebbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гребец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гребец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребло, которым сгребают зерно на току</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гребъцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гребец , naviculator</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 912 г.; Переясл. л. 1146 г.; Жит. Ниф. XIII в. 109 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Фед. Сик. 107. Мин. Чет. апр. 477)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 586)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гребец</ref>, род. п. -бца, м. р.</orth>
+      </form>
+      <sense>
+        <def>кто гребет; работник с граб­ лями для уборки сена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 971)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гребец</ref>, род. п. -бца, м. р.</orth>
+      </form>
+      <sense>
+        <def>человек, сгребающий что-либо граблями, лопатой и т. п</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., пек., Филин 7, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гребёцъ</ref>, род. п. -бця, м. р.</orth>
+      </form>
+      <sense>
+        <def>работник, сгребающий сено, гребец, лодочник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грабёц</ref>, род. п. -бца, м. р.</orth>
+      </form>
+      <sense>
+        <def>гребец, также фам</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Грабец (Б1рыла 115), диал. грабцй мн. 'грабельки на косе' (Шаталава 43).</note>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от гл. <ref type="etymon" target="grebti-8">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

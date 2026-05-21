@@ -1,0 +1,22 @@
+<Entry xml:id="se1ps">
+  <pb n="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1пьсь</orth>
+    <lemma>се1пьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cldnec</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>articulum (XV в., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ум.) с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="sey-2">* сеЫъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

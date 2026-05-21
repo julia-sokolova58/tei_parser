@@ -1,0 +1,108 @@
+<Entry xml:id="bolzitis">
+  <pb n="184" end_page="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolziti (s§)</orth>
+    <lemma>bolziti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>БЛДЖИТИ</ref> p.axapi</orth>
+      </form>
+      <sense>
+        <def>Ceiv, beatum dicere, beatificare восхвалять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блажа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть скоромную, жирную пищу, творить благо, благославлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: блаж\к 'есть скоромное, скоромничать', 'иметь сладкий вкус')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>блажа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть скоромное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блажи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сластить, иметь сладковатый вкус, (диал.) скоромиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блажити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть скоромное, укрощать, убла­ жать, bldziti beare, beatum praedicare, mitigare, carnes edere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., RJA I, 433—434)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bldziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>облагораживать, укро­ щать, осчастливить, освежить (физически)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blaziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приносить радость, благо кому-либо, стар, blaziti se радоваться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blazif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приносить кому-либо радость, делать кого-либо счастливым, блаженным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 101)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Каузативный гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от именной основы 
+<ref type="etymon" target="bolgo">*bolgo</ref> или <ref type="etymon" target="o-3">*Ьо</ref>^ъ(]ъ) 
+(см.).</gram>
+  </gramGrp>
+</Entry>

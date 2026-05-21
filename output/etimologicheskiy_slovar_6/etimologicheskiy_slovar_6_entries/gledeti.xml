@@ -1,0 +1,144 @@
+<Entry xml:id="gledeti">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ględĕti</orth>
+    <lemma>ględĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hledeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть, глядеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hledet</ref> (si) со</orth>
+      </form>
+      <sense>
+        <def>за­ ботиться о чем-либо , hledit то же , hle$ec* смотреть, глядеть, hlegec 7 seceho ста­ раться, заботиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 2 9 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 4 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">стар. <ref>hledeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заботиться, стараться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vazny. Stfedovek. list. 1 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hVadieV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть, глядеть, заботиться, стараться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 4 7 5 — 4 7 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>glfdziec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть, глядеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SI. stpol. И, 4 1 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глАд-Ъти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Златостр. XII в., Срезневский I, 5 2 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глядеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смотреть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>глАдети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>осматривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., Словник ст.-укр. мови XIV— XV ст. I, 2 4 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глядгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глядеть, смотреть, искать, щупать ища, пробовать, узнавать, следить, обращать внимание, бе­ речь, присматривать, соблюдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 2 9 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. гл</orth>
+      </form>
+      <sense>
+        <def>адёт пчблы осматривать пчел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(В. В. Анохина, Н. В. Ни- кончук. Полесская терминология пчеловодства. — Лексика По­ лесья 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глядзёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глядеть, смотреть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, родственный и производящий по отно­
+шению к <ref type="etymon" target="gl-2">*gl</ref>?dati (см.; там же литер.).</gram>
+  </gramGrp>
+  <note>Ср. специально лтш. (ку- ронизм) glendet 'смотреть, искать'.</note>
+</Entry>

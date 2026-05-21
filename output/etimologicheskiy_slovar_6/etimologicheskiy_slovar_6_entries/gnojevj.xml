@@ -1,0 +1,103 @@
+<Entry xml:id="gnojevj">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnojevъjь</orth>
+    <lemma>gnojevъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnojovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>навозный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gnojowe</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>налог с проезжающих возов за уборку навоза в городе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 860)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гнбевый</ref>, -ая, -ое</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(гнбевый насморк 'гоноррея', перм. Филин 6 : 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнойовйй</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>навозный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 295)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гноевый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>навозный , гнаявы навозный. — Ср. сюда же суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ГМСЮБАМ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Л прилаг. гнилостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnojevka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>почва из перепрелого навоза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 707)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гногвпя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>место для складывания навоза, навозная куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прил. у., Гринченко I, 295)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="gnojb">*gnojb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возможно вторичное, параллельное образование.</note>
+</Entry>

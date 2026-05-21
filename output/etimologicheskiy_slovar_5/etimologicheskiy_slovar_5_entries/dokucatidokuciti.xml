@@ -1,0 +1,100 @@
+<Entry xml:id="dokucatidokuciti">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dokučati/*dokučiti</orth>
+    <lemma>dokučati/*dokučiti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dokuciti</orth>
+    <lemma>dokuciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>докучити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>схватить, понять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dokdcaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>докучать, досаждать, приставать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dokuczac</ref>, dokuczyc</orth>
+      </form>
+      <sense>
+        <def>докучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz., 1, 496)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>докХчати</ref> ЬюХХбть , отсюда Докучай, личное имя собств. , далее ср. докХчивати* усиленно просить</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Георг. Ам. 129, Срезневский I, 694)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVII в., Тупиков 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1142 г.,, Срез­ невский I, 694)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>докучать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоедать, досаждать кому чем- либо, наводить скуку</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>докучати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоедать, докучать, до­ саждать , докучити надоесть, докучить, доса­ дить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 415)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дакучаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоедать, приедаться, надоедать, досаждать, докучать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение (см.) и глаг. основы *<m type="suffix">
+        <ref>-kucati</ref>
+      </m> 
+(см. 
+<ref type="etymon" target="dokuka">*dokuka</ref>, 
+<ref type="etymon" target="sbkucati">*sbkucati)</ref>.</gram>
+  </gramGrp>
+</Entry>

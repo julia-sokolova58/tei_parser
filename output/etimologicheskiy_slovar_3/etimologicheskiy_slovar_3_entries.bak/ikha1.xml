@@ -1,0 +1,75 @@
+<Entry xml:id="ikha1">
+  <pb n="79" end_page="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьиха1ъ</orth>
+    <lemma>Ьиха1ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бухал</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица филин Strix bubo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бухълъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бухало</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выпь, бык водяной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доброволь­ ский 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бухало</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выпь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(приводят Булаховский, см. ниже, и вслед за ним —Фасмер, не приводя дальнейших источников; у Гринченко нет)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бухал</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>аист белый Ciconia ciconia L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Полесские названия птиц. —«Лексика По- buxati лесья» 443)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>бухаука</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотная птица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б1рыла. Бела- руская антрапашм1я 2, 73, собственные записи автора)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от<ref type="etymon" target="buxati">*buxati</ref> 
+(см.), звукоподражат. 
+по 
+природе.</gram>
+  </gramGrp>
+  <note>См. о болг. слове Георгиев Б Е Р II, 93; высказывалось, далее, мнение, что русск. диал. слово заимств. из укр., см. Л . А. Б у - лаховский. Общеславянские названия птиц. — И А Н О Л Я V I I , 1948, 99; Фасмер I, 254.</note>
+</Entry>

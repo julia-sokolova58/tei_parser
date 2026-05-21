@@ -1,0 +1,22 @@
+<Entry xml:id="glaznj">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glazьnъ(jь)</orth>
+    <lemma>glazьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Глазке</ref>, название реки (Банско, Георгиев)</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Глазна река, местн. название (В. von Arnim ZfslPh XIV, 1937, 104), польск. редк. glazny, прилаг. 'булыжный, каменный' (Do- rosz. II, 1151), (стар.) 'гладкий' (там же), русск. глазной 'при­ надлежащий или относящийся к глазу' (Даль 3 I, 873).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="glazb">*glazb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Подробно о ю.-слав. свидетельствах см. I. Duridanov. Die Hydronymie des Vardarsystems als Geschichtsquelle (Koln—Wien, 1975) 137, 301, 319.</note>
+</Entry>

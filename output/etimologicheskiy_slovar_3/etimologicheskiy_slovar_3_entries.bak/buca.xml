@@ -1,0 +1,69 @@
+<Entry xml:id="buca">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buca</orth>
+    <lemma>buca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>буча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шум, суматоха, переполох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ушаков I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>буча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шумная ссора или драка , буча или быча ж. р. коренная вода в яроводье, быстрина и глубь, от вскрытия до межени , буча ж. р. глубокое место в реке, водоворот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Доп. к Опыту 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Д а л ь 3 I, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., смол., ленингр., Филин 3 , 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>буча</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>буча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шум, крик, тревога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. фам.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Буча (Б1рыла. -Беларуская антрапашм1я 2, 73). — Возм., сюда же сербохорв. буча ж. р. 'молоко', 'прокислое мо­ локо' (РСА И, 328), Ьйса 'род сосуда', словен. Ъйса 'тыква, тыквенная бутылка, овальный сосуд, череп, опухоль' (два по­ следних слова Г. А. Ильинский (ИОРЯС XXIII, 1921, 210) эти­ мологизирует от и.-е. *bheu- 'надуваться' с расширителем -/с-).</note>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="bucati">*bucati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

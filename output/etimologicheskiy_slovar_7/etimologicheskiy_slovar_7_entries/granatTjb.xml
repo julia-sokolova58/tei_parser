@@ -1,0 +1,80 @@
+<Entry xml:id="granatTjb">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>granatT&gt;(jb)</orth>
+    <lemma>granatT&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гранат</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ветвистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гранат</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>ветвистый, плечистый, крупный (о человеке); развитый, сильный (о частях тела)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 563—564; RJA III, 385: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hranaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>угловатый, ломаных очер­ таний, крепкий, кряжистый (о человеке)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hranaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неоте­ санный (о человеке) , елвц. hranaty, прилаг. угловатый, с острыми краями, нескладный, неотесан­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гранатый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>граненый, имеющий грани , гранатый налитый, с крупным зерном (о хлебном колосе), с гранями , гранатый, -ая, -ое граненый , гранатой граненый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров сред­ ней части бассейна р. Оби I, 108; Словарь русск. донских гово­ ров I, 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Красноярского края 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., перм., тюмен., урал., том., Филин 7, 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 125)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -аčъ от<ref type="etymon" target="granaj">*granaj</ref>
+      <ref type="etymon" target="granb">*granb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

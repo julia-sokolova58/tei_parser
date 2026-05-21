@@ -1,0 +1,103 @@
+<Entry xml:id="devicj">
+  <pb n="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvičь(jь)</orth>
+    <lemma>dĕvičь(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дiБИЧ</ref>^, прилаг. irap&amp;evou, virginis</orth>
+      </form>
+      <sense>
+        <def>девичий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>девйчи</ref>, прилаг. (Георгиев), сюда же местн. назв-я Девйча могила, Девйче поле и т. п. , произ­ водное Девйчев, фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Илчев. Речник на личните и фамилии имена 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>djevic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девичий, также djeviciji , девичий, девичий, д]евич]й, д)евич]й, -а, -ё девичий, девственный , сюда же Дёвич, название монастыря в Сербии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 463, 464)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>devicji</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>devici</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>девичий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewiczy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Do- rosz. II, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. , <ref>русск-цслав</ref>. дЪвичии, прилаг. от девица</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Переясл. л. под 1086 г.; Гр. Наз. XI в. 76, Срезневский I, 781)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девичий</ref>, -ъя, -ье</orth>
+      </form>
+      <sense>
+        <def>принадлежащий, свойственный девице. — Ср. сюда же словосочетание</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dieu4-ee4ip</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>девичник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 386)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяжат. прилаг., производное с суфф. -ъ/ь от<ref type="etymon" target="devica-2">*devica</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

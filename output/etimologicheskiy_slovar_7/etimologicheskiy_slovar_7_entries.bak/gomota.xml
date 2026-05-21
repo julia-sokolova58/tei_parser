@@ -1,0 +1,89 @@
+<Entry xml:id="gomota">
+  <pb n="19" end_page="20" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomota</orth>
+    <lemma>gomota</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomotb</orth>
+    <lemma>gomotb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gomdta</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>масса , gomot м. p. кишение, возня, неразбериха , ср. еще homot м. p. чаща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 230)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 231)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>homotni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сильный, крупный* , hamatny, прилаг. гру­ бый, тяжелый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гбмот</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, гул . — Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Верхратський. Знадоби 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gomotdti</ref>, homotdti</orth>
+      </form>
+      <sense>
+        <def>спуты­ вать, перемешивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 231, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гомотйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 16; Филин 6, 355: олон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Расширение экспрессивного к. *gom- (<xr type="compare">ср. <ref type="etymon" target="gomola">*gomola</ref>
+    </xr>, 
+*gomoniti, 
+см.). 
+См. 
+Berneker 
+I, 
+327; Г. А. Ильинский РФВ LXIII, 1910,. 
+340; 
+Фасмер I, 436; Bezlaj. Etim. slovar sloven, jez. I, 161. Сбли­
+жение с греч. 
+fS[AO) 'быть полным' (Machek
+ 2 170) менее удачно.</note>
+</Entry>

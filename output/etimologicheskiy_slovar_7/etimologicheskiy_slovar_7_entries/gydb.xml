@@ -1,0 +1,144 @@
+<Entry xml:id="gydb">
+  <pb n="219" end_page="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gydb</orth>
+    <lemma>gydb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hyd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>страшилище, отвращение, насекомые, до­ машняя птица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 515; Jungmann I, 789)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>насе­ комые, паразиты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hyd</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>до­ машняя птица, сброд, насекомые, паразиты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJI, 546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hid</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домашняя птица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Palkovic. Z vecn. Slovn. Slovakov v Mad'ar. 335; Gregor. Slowak. von Pilisszanto 223; Matejcik. Vychodonovohrad. 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hida</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ненависть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 413)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гид</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., зап., Филин 6, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гид</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гадость, мерзость, гадкий, мерзкий человек . — Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>eidd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гадость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Туров, см. Народнае слова 304)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gadb-2">*gadb</ref>
+    </xr> &lt; и.-е. 
+*g-dd(h)-, 
+причем 
+в *gydb 
+из 
+*gud- лабиальная артикуляция и.-е. задненебного 
+вокализовалась 
+и была продлена. Ср. Berneker I, 374 
+(там же 
+прочие 
+сближе­
+ния); Фасмер I, 405; Machek
+2 155.
+: русск. диал. гйдкий, 
+-ая, -ое 'гадкий, скверный, против­
+ный' (смол., брян., зап., южн., юго-вост., 
+Филин 
+6, 
+170), укр. 
+гибкий, 
+-а, -ё то же (Гринченко I, 282), блр. гьдкЬ то же (Байкоу — 
+Некраш. 80), также диал. гъдкЬ (Туров, см. Народнае слова 304).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> 
+от <ref type="etymon" target="gydb">*gydb</ref> 
+(см.) 
+и соотноси­
+тельное с <ref type="etymon" target="gyditi">*gyditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

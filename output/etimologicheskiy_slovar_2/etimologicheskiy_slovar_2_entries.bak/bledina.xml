@@ -1,0 +1,40 @@
+<Entry xml:id="bledina">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledina</orth>
+    <lemma>bledina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>b</ref>\ed\na ж. p.</orth>
+      </form>
+      <sense>
+        <def>pallor, бледность , бледйна, б седина ж. р. бледность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 456)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А што месец ме!}' звездама плива,/Те га бле^ан бледином целива.—РСА I, 638)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность, заболонь в дереве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="bledb-2">*bledb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

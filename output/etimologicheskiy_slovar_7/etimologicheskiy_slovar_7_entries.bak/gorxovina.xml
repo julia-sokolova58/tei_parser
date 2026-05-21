@@ -1,0 +1,157 @@
+<Entry xml:id="gorxovina">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorxovina</orth>
+    <lemma>gorxovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>граховина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебли и листья гороха на корм скоту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>граховина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вика Vicia L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 381: диал. 'гороховая солома')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>граовина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трава, идущая на корм скоту , граовина стебли куку­ рузы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Saul.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(LM. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grahovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гороховая солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrachovina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrachovina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grochowina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гороховина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 327)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grochowina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель гороха , grochowiny мн. ч</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 908)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Gornowicz. Dialekt malborski И, 1, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гороховина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель, плеть гороха, ку­ шанье из гороха наподобие каши</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., Сл. РЯ XI—XVII вв. 4, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гороховина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горошина (пек., твер., перм., сиб., арх.), стебли гороха (твер., костр., арх., волог., ленингр., брян., пек., яросл., свердл., ср.-урал., смол.), стебли бобовых растений (моек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горбхвйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гороховая солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарбхвты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гороховая солома</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гарбхавты</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>стебли и листья гороха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшко- В1Ч. Грод. 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. - т а от прилаг,<ref type="etymon" target="gorxovb-2">*gorxovb</ref> 
+(см.); субстанти­
+вация.</gram>
+  </gramGrp>
+</Entry>

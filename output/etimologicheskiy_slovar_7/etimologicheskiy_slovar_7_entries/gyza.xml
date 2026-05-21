@@ -1,0 +1,144 @@
+<Entry xml:id="gyza">
+  <pb n="223" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyza</orth>
+    <lemma>gyza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>виноградная лоза, пенек срезанной лозы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гьйжа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>срезанный прут виноград­ ной лозы, которым рассаживается виноград , гйжа ж. р. виноградная лоза (с. Хърсово, Мелнишко, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Зап. България.—СбНУ XI, 1894, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>гижва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>срезанный пенек виноградной лозы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гйжа</ref>, гйца ж. р.</orth>
+      </form>
+      <sense>
+        <def>пе­ нек виноградной лозы , возм., сюда же гиза ж. р. железа (грудная, поджелудочная)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 258, 271; LM. 231; Елез. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hyze</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>головка кости голени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>giza</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нога свиньи или крупного рогатого скота, окорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 414)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гыжа</ref> o^cpalj, uva imma- tura</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Шест. 1263 г.; Сильв, и Ант. вопр. XVI в. 7, Срезневский I, 618)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гижой</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>вереницей, один за другим, гуськом , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., Филин 6, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гйжкй</ref> ж. р. мн.</orth>
+      </form>
+      <sense>
+        <def>студень из свиных ножек; ножки в студне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн. 16, Гринченко I, 282; Р. Смаль-Стоцький «Slavia» V, 1926, 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-j-a</ref>
+      </m> 
+от <ref type="etymon" target="gyza">*gyza</ref>, 
+ср. остаточное отражение 
+в сербохорв. гиза (выше).</gram>
+  </gramGrp>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="guzb">*guzb</ref>
+    </xr>. Ср., с отли­
+чиями в колич-ве 
+корневого гласного, 
+лит. 
+guzas 
+'узел', 
+guze 
+'голова, кочан', guzys 
+'зоб', лтш. 
+guza 
+'бедро, 
+ляжка, окорок'. 
+См. St. Novakovic. 
+Tuua — giga. — AfslPh 
+XX, 
+1898, 61—63; 
+V. Jagic, там же, 
+63—64; 
+J. 
+Zubaty 
+AfslPh 
+XVI, 
+1894, 394; 
+Berneker I, 374—375; Miilenb. — Endz. I, 687; Skok. Etim. rjecn. 
+I, 561; Георгиев IV, 241; Machek
+2 194; Stawski I, 281.</note>
+</Entry>

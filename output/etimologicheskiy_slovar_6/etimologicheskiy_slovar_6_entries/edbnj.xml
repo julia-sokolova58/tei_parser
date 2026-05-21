@@ -1,0 +1,36 @@
+<Entry xml:id="edbnj">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdьbьnъjь</orth>
+    <lemma>ĕdьbьnъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Ъдебной</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Да сыгуменомъ же и с старцы Ъм- лютъ рыбы Ъдебной 1800 численого, 1300 лещевого... Кн. Ке- ларск. Кир. Белоз. мон. 1588—1624, Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едёбной</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>съедобный , едобный съедобный (Картотека Печор­ ского областного словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской области 153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="edbba">*edbba</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,44 @@
+<Entry xml:id="gvarati">
+  <pb n="179" end_page="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvarati</orth>
+    <lemma>gvarati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гварам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ходить, шлепать по грязи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; СбНУ XIV, 193; Илчев Б Д I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гварати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>барахтаться, сучить ручками и ножками (о распеленутом мла­ денце в колыбели)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 218; RJA III, 520)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> (дуратив-итератив) от 
+основы, связанной чередова­
+нием с <ref type="etymon" target="gurati">*gurati</ref>, <ref type="etymon" target="guriti-4">*guriti</ref>, <ref type="etymon" target="gyrat">*gyrat</ref>
+      <ref type="etymon" target="gyrati">*gyrati</ref>, 
+<ref type="etymon" target="gyriti">*gyriti</ref> (см. s. v.).</gram>
+  </gramGrp>
+  <note>He связано с *gvarb&gt; *govorb (как см. Георгиев (БЕР III, 234). Ошибочно мнение Скока: «Начальное gv- указывает на ит. слово франк, происхождения» (Skok. Etim. rjecn. I, 641), •gvezda</note>
+</Entry>

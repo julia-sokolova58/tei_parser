@@ -1,0 +1,77 @@
+<Entry xml:id="bezlesbnbjb">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezlesbnbjb</orth>
+    <lemma>bezlesbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezlesny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezlesny</ref>, прилаг., то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezlesny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безлесный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оголенный, не поросший лесом, голый, голопочвенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безлгсний</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.- рос. словн. I, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязлёсны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безлесный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 139)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- от прилаг.<ref type="etymon" target="bezles">*bezles</ref>^b (см.) или, скорее, 
+префиксально-суффиксальное образование от имени <ref type="etymon" target="sh-2">*Шъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

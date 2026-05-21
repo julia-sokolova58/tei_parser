@@ -1,0 +1,73 @@
+<Entry xml:id="cervatbfjb">
+  <pb n="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cervatbfjb)</orth>
+    <lemma>cervatbfjb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чреват</ref>, причаг., например чревата жена</orth>
+      </form>
+      <sense>
+        <def>бере­ менная женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crevat</ref>, -dta, прилаг.</orth>
+      </form>
+      <sense>
+        <def>толстопу­ зый, crevata беременная , в .-луж. crjewaty с боль­ шими кишками: наполненный кишками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cfowaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с большими внутренностями, потрохами, больной кишкою, заболевший мошоночной грыжею</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чере</ref>- ватий, -а, -е</orth>
+      </form>
+      <sense>
+        <def>с большим животом, брюхатый, ж. р. беремен­ ная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко TV, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чараваты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брюхатый, толстобрю­ хий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at- от<ref type="etymon" target="cervo">*cervo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

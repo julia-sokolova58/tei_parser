@@ -1,0 +1,181 @@
+<Entry xml:id="grabati">
+  <pb n="94" end_page="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabati</orth>
+    <lemma>grabati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грабамъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выхватывать, похищать, схваты­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грабам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать коня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско.—БД IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>граба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, забирать, грабить, похищать, торопиться, спешить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>grabati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыть, ко­ пать (ров, канаву)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словарях Белостенца и Ямбрешича, RJA III, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrabati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести, сгребать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrabat</ref> , grabac?</orth>
+      </form>
+      <sense>
+        <def>неловко трогать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamp- recht. Slovn. stfedoopav. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrabaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рыть, копаться, сгре­ бать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 516)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hrabat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать граблями, скрести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrabac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать, скрести, хватать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grabas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грести, сгребать, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grabac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать, грести, рыться, хватать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 892)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грабатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хватать, искать что-либо руками в темноте, нащупывать , грабатъ гресть, сгребать , грабатъ грести, сгребать (сено) (волог., арх., новг., костр., пек., смол.), грести grabezb (веслами) (новг.), трогать, ощупывать руками (олон., Лит. ССР, Латв. ССР, Эст. ССР), хватать, брать (новг., КАССР), собирать, подбирать (влад.), забирать, захватывать (хакас.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 143)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грабати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гресть, разгребать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 320)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Дуратив-итератив к<xr type="compare">см. <ref type="etymon" target="grebti">*grebti</ref>
+    </xr>.</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, видимо, восходит 
+здесь к первонач. <ref type="etymon" target="grabti">*grabti</ref>, 
+ср. лит. grobti 
+'хватать'.</gram>
+  </gramGrp>
+</Entry>

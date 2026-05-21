@@ -1,0 +1,129 @@
+<entries>
+  <entry xml:id="cvikcvika" xml:id="cvikcvika">
+    <pb n="197" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cvikъ/*cvika</orth>
+      <lemma>cvikb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>cvika</orth>
+      <lemma>cvika</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>цвик</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>сыворотка , также</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>( Б Т Р ; Геров)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>цвик</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>сыворотка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Г. Горов. Странджанският говор.— Б Д I, 154; 3 . Божкова. Принос към речника на софийския го­ вор.— Б Д I, 271; М. Младенов. Ихтиманския говор.— Б Д III, 187)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>цвик</ref> м. р. то же , цвика ж. р.</orth>
+        </form>
+        <sense>
+          <def>сыворотка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">диал. <ref>цвика</ref> то же , сюда же, возм., цвик</orth>
+        </form>
+        <sense>
+          <def>холодная погода</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Т. Попова. Зборови од Малешево.— MJ II, 1951, 117)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Б. Ви- доески. Зборови од Порече.— MJ II, 1951, 47)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>cvik</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>сыворотка, cvika ж. р. визг, крик</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 868)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>culk</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>свисток (из коры) , cvlka ж . р. визг, крик , сюда же, возм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 90)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cebik</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>плач , cabiki, caviki ссора, перебранка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott. Dod. k Bart. 9)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Vydra. Horno- blan. 97)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Звукоподражание, связанное прежде всего с гл. <ref type="etymon" target="cuikati">*cuikati</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>См. Skok. 
+Etim. rjecn. 
+I, 
+260; I. Popovic RES 
+X X X I , 
+1954, 
+101—103 (о связи знач-ий 'звучать, кричать' 
+и. 'скисать, 
+бро­
+дить', 
+а также 
+о невозможности 
+заимствования 
+этой 
+лексики 
+из нем. zwicken, 
+Zwick, 
+откуда, напр., польск. cwiczyc 
+'упраж­
+нять, учить, муштровать').</note>
+  </entry>
+</entries>

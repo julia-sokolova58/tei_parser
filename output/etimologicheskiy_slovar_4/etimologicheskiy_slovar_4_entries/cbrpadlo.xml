@@ -1,0 +1,125 @@
+<Entry xml:id="cbrpadlo">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrpadlo</orth>
+    <lemma>cbrpadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>черпало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черпак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, там же: црьпалка ж. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>черпало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>источник воды (родник, колодец, река)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>цр</ref>- пало ср. р., црпалка ж. р.</orth>
+      </form>
+      <sense>
+        <def>черпак, уполовник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfpalo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черпак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 849)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crpdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черпак, приспособление для черпания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerpadlo</ref> ср. р. ^черпак, насос</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cerpadlo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cerpadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>черпак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чър</ref>- пало</orth>
+      </form>
+      <sense>
+        <def>ковш, чаша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. до 1300 г., Срезневский III, 1567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>черпало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ковш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., Опыт 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>черпалка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черпалка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название орудия, производное с суфф. -(a)dlo от гл.<ref type="etymon" target="yograi">*ёъграИ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

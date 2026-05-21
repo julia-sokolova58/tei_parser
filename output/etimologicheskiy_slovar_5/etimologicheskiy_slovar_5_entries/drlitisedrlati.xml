@@ -1,0 +1,123 @@
+<Entry xml:id="drlitisedrlati">
+  <pb n="222" end_page="223" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrliti (sę),*dьrl’ati</orth>
+    <lemma>dьrliti (sę),*dьrl’ati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dbrPati</orth>
+    <lemma>dbrPati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>д</ref>^рля се</orth>
+      </form>
+      <sense>
+        <def>ругаться, задираться, приди­ раться , сюда же дурлшя дуться, сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. •<ref>dbrmati</ref> дряблым се</orth>
+      </form>
+      <sense>
+        <def>сердиться, хмуриться (с. Церовица, Каменишко, дип. раб., Архив Софийск. ун-та), дурла са то же , дурлъ съ , д^рлъ съ говорить громко, вызывающе , дурла са дуться, сердиться , дрл*ам кусать, бросаться на кого-либо (о собаке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Ро- допски речник. — БД V, 167)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кювлиева и К. Дим- чев. Речник на хасковския градски говор. — БД V, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Денчев. Поповско. — БД V, 248)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско.— БД IV, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дурлам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, вытекать струей , сербо­ хорв. dpjbumu обнажать (обычно грудь), ср. еще др^ьати боро­ нить, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л&gt;. Рабаииски. Зборови од Беровско. — MJ IV, 1953, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крошить, дробить . — Сюда же, по-видимому, ряд именных производных:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дрлау</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрл</ref>&gt;а ж. р.</orth>
+      </form>
+      <sense>
+        <def>нагноение в глазах , дрл&gt;ача ж. р. борона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; РСА IV, 714)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drly</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>быстрый, проворный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 43; Kott I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drly</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодрый, живой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drly</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Р. Смаль-Стоцкий («Slavia» 5, 1926, 31) относит сюда еще укр. дрйлити, друлити, друлЛти 'пихать, толкать'. Расширение корня *йъг- с помощью суфф. -Z-, ср. лит. nu-dir- lioti 'сдирать, отдирать (кожу)'. См. Berneker I, 255; R. Bernard «Езиков.-етногр. изследвания в памет на акад. Ст. Романски» 355—356; Skok. Etim. rjecn. I, 440—441; Георгиев БЕР VI, 463. — Авторы обычно упускают из виду чеш. и слвц. слова.</note>
+</Entry>

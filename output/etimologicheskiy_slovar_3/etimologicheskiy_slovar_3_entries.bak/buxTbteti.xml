@@ -1,0 +1,79 @@
+<Entry xml:id="buxTbteti">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buxTbteti</orth>
+    <lemma>buxTbteti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бухтя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кашлять непрестанно, шуметь , издавать громкий, глухой звук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бериштейн; Геров: бухтА)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>buhteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бушевать, пылать (об огне) , разбухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; Valjavcc LjZv. X I I I , 1893, 308)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бухтётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать (калуж.), ворчать, брюзжать (калуж., оренб., урал.), говорить пустяки, глупости; болтать (донск., иван., перм.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бухтгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать , пылать, вспыхивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 118)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(харьк., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бухтЧти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстро расти, разрастаться, набухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойков- ского диалекта 100)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл., тождественный во всем, кроме темы {-ё-ti), предыдущему.</note>
+</Entry>

@@ -1,0 +1,71 @@
+<Entry xml:id="denica">
+  <pb n="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕnica</orth>
+    <lemma>dĕnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дёница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колбаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>de</ref>(j)nice, dienice ж. р. Покрывало, коврик</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Simek 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>denice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ткань, покрывало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 355)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дянйцы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>варежки , сюда же, с иным суфф., дянки мн. варежки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Лит. ССР, Латв. ССР, Эст. ССР, Филин 8, 307)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., пек., твер., ленингр.., волог., КАССР, Лит. ССР, Латв. ССР, Эст. ССР, Филин 8, 308)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дшниця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>огорожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 392)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прич. страд, прош. <ref type="etymon" target="dejanb">*de(ja)nb</ref> от 
+гл. <ref type="etymon" target="deati">*de(]a)ti</ref> (см.); субстантивация.</gram>
+  </gramGrp>
+  <note>Ср., впрочем., след. Русск. материал см. подробно В. Я. Дерягин. Названия рукавиц в рус­ ском языке. «Диалектная лексика. 1973» (Л., 1974), 44.</note>
+</Entry>

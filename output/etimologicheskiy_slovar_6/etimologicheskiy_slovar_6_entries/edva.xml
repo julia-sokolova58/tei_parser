@@ -1,0 +1,190 @@
+<Entry xml:id="edva">
+  <pb n="16" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ed(ъ)va</orth>
+    <lemma>ed(ъ)va</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>едва</ref>, едвам, нареч.</orth>
+      </form>
+      <sense>
+        <def>едва, еле , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>едва</ref>, едвам</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 63; М. Младенов. Говорът на Ново село, Видинско 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>едва</ref>], нареч.</orth>
+      </form>
+      <sense>
+        <def>едва, еле, с трудом (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedea</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>едва, также стар, jeduaj</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Белостенец, Ямбрешич, Стулли, RJA IV, 565)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jedva</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>едва , также odvaj, oduo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 792, 794)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedva</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>едва</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>ledma</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>едва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 332)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ledba</ref>, ledem, ledym, нареч.</orth>
+      </form>
+      <sense>
+        <def>едва, с трудом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 814)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>jedwa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>едва , также jedwo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>одъва</ref>, одва</orth>
+      </form>
+      <sense>
+        <def>едва, слегка , едва, насилу, с трудом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г. 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 107; Пат. Син. XI в. 100; Пов. вр. л. введ. по Ип. сп.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский И, 623)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>едъва</ref>, щдъва</orth>
+      </form>
+      <sense>
+        <def>только что , едва, насилу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лук. IX. 39. Остр, ев.; Пат. син. XI в. 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Златостр. 53; Жит. Феод. Ст. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 818—819)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>литерат</ref>. едва, нареч.</orth>
+      </form>
+      <sense>
+        <def>лишь только, только что</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>одва</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>едва , с тру­ дом, насилу; еле; едва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 138; Даль 3 II, 1670; Куликовский 69; Печорские былины 409)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского р-на Перм­ ской обл. 385)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Своеобразное соединение двух местоименных частиц — и.-е. (<xr type="compare">см. <ref type="etymon" target="edinb">*edinb</ref>
+    </xr>) 
+и *-иа (кот. обычно сравнивают с лит. vos 
+'едва'), т. е. в сущности двух различных видов дейксиса — *е-
+и *и-. См. Berneker I, 452 (с неправомерным разделением *edinb 
+и *jedbva); Фасмер II, 9 (с указанием на контаминативную при­
+роду отклоняющегося начала слова в польск. ledwo, наряду с эти­
+мологическим jedwa); Fraenkel II, 1274.) 
+и *-иа (кот. обычно сравнивают с лит. vos 
+'едва'), т. е. в сущности двух различных видов дейксиса — *е-
+и *и-. См. Berneker I, 452 (с неправомерным разделением *edinb 
+и *jedbva); Фасмер II, 9 (с указанием на контаминативную при­
+роду отклоняющегося начала слова в польск. ledwo, наряду с эти­
+мологическим jedwa); Fraenkel II, 1274.) 
+и *-иа (кот. обычно сравнивают с лит. vos 
+'едва'), т. е. в сущности двух различных видов дейксиса — *е-
+и *и-. См. Berneker I, 452 (с неправомерным разделением *edinb 
+и *jedbva); Фасмер II, 9 (с указанием на контаминативную при­
+роду отклоняющегося начала слова в польск. ledwo, наряду с эти­
+мологическим jedwa); Fraenkel II, 1274.) 
+и *-иа (кот. обычно сравнивают с лит. vos 
+'едва'), т. е. в сущности двух различных видов дейксиса — *е-
+и *и-. См. Berneker I, 452 (с неправомерным разделением *edinb 
+и *jedbva); Фасмер II, 9 (с указанием на контаминативную при­
+роду отклоняющегося начала слова в польск. ledwo, наряду с эти­
+мологическим jedwa); Fraenkel II, 1274.</note>
+</Entry>

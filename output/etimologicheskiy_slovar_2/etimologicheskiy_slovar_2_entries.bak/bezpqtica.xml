@@ -1,0 +1,36 @@
+<Entry xml:id="bezpqtica">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpqtica</orth>
+    <lemma>bezpqtica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>беспутица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бездорожье, непроходимая местность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 251; PGA I, 511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беспутица</ref> ж.^р. сбездорожица, распутица или иная порча дороги</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 178)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-75">*bez</ref> 
+(см.) и суфф. -ica от основы <ref type="etymon" target="pgtb-2">*pgtb</ref> (см.) или субстантивация с по­
+мощью суфф. -ica древней сложной адъективной основы <ref type="etymon" target="bezpgt-">*bezpgt-</ref>
+(см. далее <ref type="etymon" target="bezpgta">*bezpgta</ref>, 
+<ref type="etymon" target="bezpgfo">*bezpgfo)</ref>.</gram>
+  </gramGrp>
+  <note>Ср., между прочим, Miklosich. Vgl. Gr. II, 403.</note>
+</Entry>

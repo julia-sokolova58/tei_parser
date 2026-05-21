@@ -1,0 +1,76 @@
+<Entry xml:id="grexota">
+  <pb n="113" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grexota</orth>
+    <lemma>grexota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грехота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грех , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: грЪхота 'грешно, грех'; Дювернуа: грЪхотица 'грех')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>греота</ref> ж. р. , греотъ ж. р. , гривута ж. р.</orth>
+      </form>
+      <sense>
+        <def>грех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръсте- ник, Плевенско. — БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гревота</ref> ж. р. "грех, предосудительный поступок</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грехота</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гри</ref>- хдта, греота ж. р.</orth>
+      </form>
+      <sense>
+        <def>грех, также градта (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grehota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грех, порок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 249)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="grexb">*grexb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

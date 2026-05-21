@@ -1,0 +1,355 @@
+<Entry xml:id="delo">
+  <pb n="7" end_page="8" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕlo</orth>
+    <lemma>dĕlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д4</ref>\о spfov, ёруаспа, тграура, opus</orth>
+      </form>
+      <sense>
+        <def>дело</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gynp., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дело</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>дело, действие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Георгиев также: дяло)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дело</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дело, труд, работа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>д</ref>]ёло, дело ср. р. сдело</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dĕlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работа , также в кач-ве антропонима</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оиатия, Полица, м. Tentor. Leksicka slaganja. — «Razprave» I, 1950, 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dĕlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>работа, дело, действие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dllo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>деятельность, действие, сдело, сюда же delo ср. р. (артиллерийское) орудие</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dela</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>жатва, сбор урожая , delo медовые соты , d4lo вещь, оконченная работа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 221)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(злинск., Bartos. Slov. 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Vydra. НогпоЫап. 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dielo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>работа, деятельность, творчество, законченная работа, дело, произведение, вещь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dielo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>работа, дело; труд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zelo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дело, создание, работа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 1182— 1183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>olii ср. р. работа, дело</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski-Sehnert 58, с реконструкцией *delo)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dzielo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дело, работа , dzialo ср. р. пушка, орудие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do- rosz. II, 574)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 548)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. -<ref>цслав</ref>, дЪло</orth>
+      </form>
+      <sense>
+        <def>деятельность , поступок, деяние (Остр. ев.;.Церк. Уст. Влад. и мн. др.), дело (Клим. Болг. поуч. в Сбор. ТроиЦ. XII в. и ДР-)&gt; Способ, образ , работа, труд , подвиг (Сл. плк. Игор.), сражение , спор, тяжба , состязание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Серап. сл.. 1; Гр. Алекс, митр. 1356 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Грам. Влад. 1з87 г.; Дог. гр. Вас. Дм. 1389 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 117; Нест. Бор. Гл. 48 и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. II л. под 1572 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ярл. Узб. 1315 г.; Дог. гр. Дм. Ив. 1375 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр. XIX. 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 789)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дело</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>занятие, работа, труд, деятель­ ность, поступок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дгло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дело, работа, поступок, на- добдость, нужда .—Ср. семантически близкое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>делъ</ref> ж. р. (нижегор.)</orth>
+      </form>
+      <sense>
+        <def>борть, самая, скважина в борти или улье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1274)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="delo">*dĕlo</ref>&gt; согласно мнению большинства исследователей, 
+послужило производящей 
+базой для гл. <ref type="etymon" target="delati">*delati</ref> (см.)<ref type="etymon" target="pozhaluy">* Пожалуй</ref>, 
+один только Махек придерживается прямо противоположного мне­
+ния об отглагольном 
+образовании 
+..47). Праслав. <ref type="etymon" target="delo">*dĕlo</ref> — основа на -о- (
+в а р . на -es- возник анало­
+гическим путем, см.</gram>
+  </gramGrp>
+  <note>С. Б. Бернштейн ВЯ 1970, №3, 82), соотно­ сительная с праслав. гл. *deti (<xr type="compare">см. <ref type="etymon" target="de">*de</ref>
+    </xr>()a)ti), а не производная 
+от него на слав, почве, как нередко полагают, поскольку эти от­
+ношения, вероятно, имеют еще и.-е. предысторию. Мнение о том, 
+что слово delo не встречается вне слав. (см. напр. A. Meillet RES
+•deloga ?/ *detologa? 
+VI, 1926, 169), не следует принимать без существенных оговорок. 
+При этом существенно отметить достоверное наличие в нек. и.-е. 
+языках расширения на 
+от основы ()a)ti), а не производная 
+от него на слав, почве, как нередко полагают, поскольку эти от­
+ношения, вероятно, имеют еще и.-е. предысторию. Мнение о том, 
+что слово delo не встречается вне слав. (см. напр. A. Meillet RES
+•deloga ?/ *detologa? 
+VI, 1926, 169), не следует принимать без существенных оговорок. 
+При этом существенно отметить достоверное наличие в нек. и.-е. 
+языках расширения на 
+от основы ()a)ti), а не производная 
+от него на слав, почве, как нередко полагают, поскольку эти от­
+ношения, вероятно, имеют еще и.-е. предысторию. Мнение о том, 
+что слово delo не встречается вне слав. (см. напр. A. Meillet RES
+•deloga ?/ *detologa? 
+VI, 1926, 169), не следует принимать без существенных оговорок. 
+При этом существенно отметить достоверное наличие в нек. и.-е. 
+языках расширения на 
+от основы ()a)ti), а не производная 
+от него на слав, почве, как нередко полагают, поскольку эти от­
+ношения, вероятно, имеют еще и.-е. предысторию. Мнение о том, 
+что слово delo не встречается вне слав. (см. напр. A. Meillet RES
+•deloga ?/ *detologa? 
+VI, 1926, 169), не следует принимать без существенных оговорок. 
+При этом существенно отметить достоверное наличие в нек. и.-е. 
+языках расширения на 
+от основы <xr type="compare">ср. <ref type="etymon" target="dhe-9">*dhe-9</ref>
+    </xr> др.-сканд. (эпи-
+графич.) dalidun, 
+3 л. мн. ч., др.-исл. ddsll «*ddliz) 
+'facilis'. 
+См. специально об этом G. Neckel. Zur Etymologie von slav. 
+delo, 
+delati. — ZfslPh VI, 1929, 67—69. Gp. еще лит. 
+padelys 
+Положенное, подложенное', priedele 
+Приложение'. 
+См. Berneker 
+I, 194; Фасмер I, 496; Stawski 1, 190. 
+С этимологией праслав. *сШо&lt;и.-е. *dhe-l- по-прежнему в из­
+вестной степени конкурирует сближение *delo с лит. dalle 'дело, 
+произведение, ремесло, искусство', ср. особенно функцию вторых 
+компонентов сложений ст.-слав. ^ieo-AiMa 
+Плотник' и лит. rata-
+ddila 
+Полесник', 
+rata-daile 
+то же (см. К. 
+Буга 
+РФВ L X X , 
+1913, 104). др.-сканд. (эпи-
+графич.) dalidun, 
+3 л. мн. ч., др.-исл. ddsll «*ddliz) 
+'facilis'. 
+См. специально об этом G. Neckel. Zur Etymologie von slav. 
+delo, 
+delati. — ZfslPh VI, 1929, 67—69. Gp. еще лит. 
+padelys 
+Положенное, подложенное', priedele 
+Приложение'. 
+См. Berneker 
+I, 194; Фасмер I, 496; Stawski 1, 190. 
+С этимологией праслав. *сШо&lt;и.-е. *dhe-l- по-прежнему в из­
+вестной степени конкурирует сближение *delo с лит. dalle 'дело, 
+произведение, ремесло, искусство', ср. особенно функцию вторых 
+компонентов сложений ст.-слав. ^ieo-AiMa 
+Плотник' и лит. rata-
+ddila 
+Полесник', 
+rata-daile 
+то же (см. К. 
+Буга 
+РФВ L X X , 
+1913, 104). др.-сканд. (эпи-
+графич.) dalidun, 
+3 л. мн. ч., др.-исл. ddsll «*ddliz) 
+'facilis'. 
+См. специально об этом G. Neckel. Zur Etymologie von slav. 
+delo, 
+delati. — ZfslPh VI, 1929, 67—69. Gp. еще лит. 
+padelys 
+Положенное, подложенное', priedele 
+Приложение'. 
+См. Berneker 
+I, 194; Фасмер I, 496; Stawski 1, 190. 
+С этимологией праслав. *сШо&lt;и.-е. *dhe-l- по-прежнему в из­
+вестной степени конкурирует сближение *delo с лит. dalle 'дело, 
+произведение, ремесло, искусство', ср. особенно функцию вторых 
+компонентов сложений ст.-слав. ^ieo-AiMa 
+Плотник' и лит. rata-
+ddila 
+Полесник', 
+rata-daile 
+то же (см. К. 
+Буга 
+РФВ L X X , 
+1913, 104). др.-сканд. (эпи-
+графич.) dalidun, 
+3 л. мн. ч., др.-исл. ddsll «*ddliz) 
+'facilis'. 
+См. специально об этом G. Neckel. Zur Etymologie von slav. 
+delo, 
+delati. — ZfslPh VI, 1929, 67—69. Gp. еще лит. 
+padelys 
+Положенное, подложенное', priedele 
+Приложение'. 
+См. Berneker 
+I, 194; Фасмер I, 496; Stawski 1, 190. 
+С этимологией праслав. *сШо&lt;и.-е. *dhe-l- по-прежнему в из­
+вестной степени конкурирует сближение *delo с лит. dalle 'дело, 
+произведение, ремесло, искусство', ср. особенно функцию вторых 
+компонентов сложений ст.-слав. ^ieo-AiMa 
+Плотник' и лит. rata-
+ddila 
+Полесник', 
+rata-daile 
+то же (см. К. 
+Буга 
+РФВ L X X , 
+1913, 104).</note>
+</Entry>

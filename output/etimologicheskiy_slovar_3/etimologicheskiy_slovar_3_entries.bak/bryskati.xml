@@ -1,0 +1,36 @@
+<Entry xml:id="bryskati">
+  <pb n="65" end_page="66" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryskati</orth>
+    <lemma>bryskati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bryskas</ref>"</orth>
+      </form>
+      <sense>
+        <def>хрюкать, прыгать, бегать , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Chojn., Muka SI. I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бришкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заноситься, чва­ ниться, важничать, фуфыриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 100)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. образование, связанное с<ref type="etymon" target="bryzgati">*bryzgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

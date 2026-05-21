@@ -1,0 +1,121 @@
+<Entry xml:id="ekot">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ękotъ</orth>
+    <lemma>ękotъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гул , ср. также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>exomd</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>екот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>эхо, отзвук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jeket</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 572)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гул, грохот (при падении)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, гул, отзвук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 597)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jakot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jqkot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>заика, заикание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Лкгт</ref>, род. п. Лкоту, м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, гам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 538)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ёкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пронзительный вой, вопль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 52)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-otb</ref>
+      </m> от <ref type="etymon" target="ekati-4">*ekati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

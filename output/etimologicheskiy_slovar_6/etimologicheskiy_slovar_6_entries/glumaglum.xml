@@ -1,0 +1,315 @@
+<Entry xml:id="glumaglum">
+  <pb n="147" end_page="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gluma/*glumъ</orth>
+    <lemma>gluma/*glumъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glumb</orth>
+    <lemma>glumb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>глоу</ref>*&lt;\\ ГА м. p. vaniloquentia, magniloquentia</orth>
+      </form>
+      <sense>
+        <def>болтовня, хвастовство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cynp., SJS; Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шутка, насмешка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глума</ref> ж. р. , глума ж. р.</orth>
+      </form>
+      <sense>
+        <def>шутка , глумъ ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов. Говорът на Ново село, Видинско 218; Речник РОДД 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Младенов. Към речника на Ново Село. — СбНУ X V I I I , 1, 1901, 502)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД V I I , 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>игра (ак­ тера)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gluma/*glumъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шутка, веселье, игра , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( C X V B . , R J A I I I , 209; см. еще РСА I I I , 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. , редк. <ref>glum</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( X V I I в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gluma/*glumъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шутка, глу­ пость, дурачество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Мита</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>mimus, актер, лицедей, комедиант , Шита м. p., личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Rozkochaneho nomenclator, Jungmann I, 696)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott V — V I , 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glum</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>издевательство, мучение, напасти, порча, помыкание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852; Si. gw. p. I I , 90: отмечает еще знач. 'глупость')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. гл^<ref>мъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, забава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(По- каян. Кипр. Уст. Крм. X I I I в., Срезневский I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глума</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дураковатый, бестолковый , глума насмешник, глумливый , глум насмехательство, издевательство , глум м. р. дурь , глум м. р. издевательство, злая насмешка; шутка (пек., курск., орл., ср.-урал., олон., арх., свердл.), сумасбродство, блажь, дурь (Латв. ССР), шум, гром­ кий разговор (пек., свердл., ср.-урал.), пойтив глум погибнуть, испортиться (смол., пек.) , сюда же прилаг., глумбй, -ая, -бе глупый, несообразительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 128)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; см. еще Филин 6, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 209—210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Латв. ССР, Фи­ лин 6, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глум</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насмешка, издевка, посмеяние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I , 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>глум</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беспорядок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Леке, атлас Право­ бережного Пол1сся)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глум</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дурь, небрежное упо­ требление, шутка , глум м. р. дурь, глумле- ние, издевательство, злая шутка, спорча . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. ИЗ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глумак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ограни­ ченный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 66)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слав. *gluma, *č1итъ бесспорно родственно *glupb (см.; ср. по этому поводу русск. диал. глумбй, -ая, -бе, выше, его форму и знач.) и<xr type="compare">см. <ref type="etymon" target="gluxb">*gluxb</ref>
+    </xr>, но было бы неверно реконструировать 
+для него и.-е. праформу *ghleu-m- или *ghloumo-, как см. Staw-
+ski I, 296 (сближает праслав. *glumb с *gluxb и *glupb и воз­
+водит к и.-е. *ghleu-, а несколько выше, там же, реконструирует 
+*gluxъ 
+как и.-е. *glou-so-); Георгиев БЕР 
+IV, 252 (из и.-е. 
+*gloumo-s); Rydnyckyj I, 653 (из и.-е. *ghloumos); Skok. Etim. 
+rjecn. I, 573 (из и.-е. *ghlou-mo-s). Все авторы, вслед за Берне-
+кером (см. Berneker I, 308), считают слав, слово родственным 
+др.-исл. glaumr 
+'шумное веселье', др.-англ. 
+gleam 
+'веселье, 
+шутка, игра', др.-исл. gleyma 'веселиться', 'забывать', далее — 
+греч. 
+'шутка, насмешка', у\еш1&amp; 'шутить'. Ранее выска­
+зывавшаяся идея о заимствовании в слав, из герм. (см. С. С. Uh-
+lenbeck AfslPh X V , 1893, 486) впоследствии была совершенно 
+справедливо оставлена, см. Kiparsky. 
+Die gemeinslav. 
+Lehn-
+worter aus dem Germ. (=AASF В. X X X I I , 2., но было бы неверно реконструировать 
+для него и.-е. праформу *ghleu-m- или *ghloumo-, как см. Staw-
+ski I, 296 (сближает праслав. *glumb с *gluxb и *glupb и воз­
+водит к и.-е. *ghleu-, а несколько выше, там же, реконструирует 
+*gluxъ 
+как и.-е. *glou-so-); Георгиев БЕР 
+IV, 252 (из и.-е. 
+*gloumo-s); Rydnyckyj I, 653 (из и.-е. *ghloumos); Skok. Etim. 
+rjecn. I, 573 (из и.-е. *ghlou-mo-s). Все авторы, вслед за Берне-
+кером (см. Berneker I, 308), считают слав, слово родственным 
+др.-исл. glaumr 
+'шумное веселье', др.-англ. 
+gleam 
+'веселье, 
+шутка, игра', др.-исл. gleyma 'веселиться', 'забывать', далее — 
+греч. 
+'шутка, насмешка', у\еш1&amp; 'шутить'. Ранее выска­
+зывавшаяся идея о заимствовании в слав, из герм. (см. С. С. Uh-
+lenbeck AfslPh X V , 1893, 486) впоследствии была совершенно 
+справедливо оставлена, см. Kiparsky. 
+Die gemeinslav. 
+Lehn-
+worter aus dem Germ. (=AASF В. X X X I I , 2., но было бы неверно реконструировать 
+для него и.-е. праформу *ghleu-m- или *ghloumo-, как см. Staw-
+ski I, 296 (сближает праслав. *glumb с *gluxb и *glupb и воз­
+водит к и.-е. *ghleu-, а несколько выше, там же, реконструирует 
+*gluxъ 
+как и.-е. *glou-so-); Георгиев БЕР 
+IV, 252 (из и.-е. 
+*gloumo-s); Rydnyckyj I, 653 (из и.-е. *ghloumos); Skok. Etim. 
+rjecn. I, 573 (из и.-е. *ghlou-mo-s). Все авторы, вслед за Берне-
+кером (см. Berneker I, 308), считают слав, слово родственным 
+др.-исл. glaumr 
+'шумное веселье', др.-англ. 
+gleam 
+'веселье, 
+шутка, игра', др.-исл. gleyma 'веселиться', 'забывать', далее — 
+греч. 
+'шутка, насмешка', у\еш1&amp; 'шутить'. Ранее выска­
+зывавшаяся идея о заимствовании в слав, из герм. (см. С. С. Uh-
+lenbeck AfslPh X V , 1893, 486) впоследствии была совершенно 
+справедливо оставлена, см. Kiparsky. 
+Die gemeinslav. 
+Lehn-
+worter aus dem Germ. (=AASF В. X X X I I , 2., но было бы неверно реконструировать 
+для него и.-е. праформу *ghleu-m- или *ghloumo-, как см. Staw-
+ski I, 296 (сближает праслав. *glumb с *gluxb и *glupb и воз­
+водит к и.-е. *ghleu-, а несколько выше, там же, реконструирует 
+*gluxъ 
+как и.-е. *glou-so-); Георгиев БЕР 
+IV, 252 (из и.-е. 
+*gloumo-s); Rydnyckyj I, 653 (из и.-е. *ghloumos); Skok. Etim. 
+rjecn. I, 573 (из и.-е. *ghlou-mo-s). Все авторы, вслед за Берне-
+кером (см. Berneker I, 308), считают слав, слово родственным 
+др.-исл. glaumr 
+'шумное веселье', др.-англ. 
+gleam 
+'веселье, 
+шутка, игра', др.-исл. gleyma 'веселиться', 'забывать', далее — 
+греч. 
+'шутка, насмешка', у\еш1&amp; 'шутить'. Ранее выска­
+зывавшаяся идея о заимствовании в слав, из герм. (см. С. С. Uh-
+lenbeck AfslPh X V , 1893, 486) впоследствии была совершенно 
+справедливо оставлена, см. Kiparsky. 
+Die gemeinslav. 
+Lehn-
+worter aus dem Germ. (=AASF В. X X X I I , 2.</note>
+  <gramGrp>
+    <gram>Helsinki, 1934) 66 (очень кратко, гл. обр. со ссылкой на широкое распространение слав, слова). См. также Фасмер I, 416; Frisk II, 1103, s. v. у^ещ. Совершенно не удовлетворился герм, и греч. сравнениями Брюкнер, кот. их опускает и говорит о родстве слав.<ref type="etymon" target="gluxb-3">*gluxb</ref>, 
+<ref type="etymon" target="glupb">*glupb</ref>, 
+<ref type="etymon" target="glumb">*glumb</ref>, 
+а также <ref type="etymon" target="gluda">*gluda</ref>, <ref type="etymon" target="gluta">*gluta</ref>, считая исходным знач. 
+'пень', см. Bruckner 145. Это расширение родственных связей 
+едва ли правомерно. Слав. <ref type="etymon" target="glumb-2">*glumb</ref>, как и <ref type="etymon" target="glup">*glupъ</ref> (см.). — вторич­
+ные расширения с вариантным экспрессивным лабиальным суфф. 
+-т-1-р- на базе усеченного <ref type="etymon" target="gluxb-4">*gluxb</ref> (см.) &lt; и.-е. klous-, что совер­
+шенно исключает как 
+реконструкцию <ref type="etymon" target="ghloum-">*g(h)loum-</ref> 
+для 
+слав. 
+<ref type="etymon" target="glum">*glumъ</ref>, так и родство с герм, и греч. лексикой (выше). Глум — 
+это прежде всего устная шутка, насмешка, рассчитанная на слу­
+ховое восприятие, в чем сохраняется след давней этимол. связи 
+с <ref type="etymon" target="klous-">*klous-</ref>. Любопытно в этой связи и сербохорв. диал. 
+глум, 
+глума, глумо, прилаг. 'глухонемой' (РСА III, 366—367).</gram>
+  </gramGrp>
+</Entry>

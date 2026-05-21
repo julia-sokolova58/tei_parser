@@ -1,0 +1,82 @@
+<Entry xml:id="ayo">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>аЫо</orth>
+    <lemma>аЫо</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ябло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яблоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jablo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>яб­ локо, яблоня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jablo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jablo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яблоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. (<ref>кашуб</ref>.) jablo, iabto ср. р.</orth>
+      </form>
+      <sense>
+        <def>яблоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Sloviaz. W b . I, 374; он же. Pomor. I, 293)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название яблока<ref type="etymon" target="ablo">*ablo</ref>, представляющее собой -о- основу сред­
+него рода, т. е. образование, заметно отличающееся от праслав. 
+<ref type="etymon" target="ayko">*аЫъко</ref> (см.); должно, вопреки установившейся практике, 
+трак­
+товаться отдельно от этого последнего.</gram>
+  </gramGrp>
+  <note>Будучи не новообразова­ нием, а скорее независимым архаизмом (ср. при этом реликтовый характер распространения *ablo, не имеющего четкого ареала и охватывающего часть западных и часть южных слав, языков), праслав. *abZo, как и близкая к нему основа на -о- м. р.<xr type="compare">см. <ref type="etymon" target="ay">*аЫъ</ref>
+    </xr>, может быть, по-видимому, прямо увязано с и.-е. 
+*ablo-, 
+ср. герм. *apla- (крым.-гот. apel, др.-исл. epll ср. р. ' я б л о к о ' 
+apaldr 'яблоня'), см. Pokorny I, 1—2 (где слав, -о- основы остав­
+лены без упоминания). Подробнее об этимологических 
+связях 
+всей группы слов см. на 
+*аЫъко.</note>
+</Entry>

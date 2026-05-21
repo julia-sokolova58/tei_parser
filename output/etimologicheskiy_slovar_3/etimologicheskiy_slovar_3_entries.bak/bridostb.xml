@@ -1,0 +1,41 @@
+<Entry xml:id="bridostb">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridostb</orth>
+    <lemma>bridostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бридость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терпкость, кислота, горечь, Spip.6T7]q, acrimonia, axpucpvoxTjc, acerbitas , лю­ тость, Spipnrjc (Ио. Леств. XII в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брй</ref>- досцъ</orth>
+      </form>
+      <sense>
+        <def>предмет, возбуждающий отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от основы прилаг. <ref type="etymon" target="brid--5">*brid-</ref> (см. 
+<ref type="etymon" target="lemma-2">*Ь</ref>^ъкъ).</gram>
+  </gramGrp>
+</Entry>

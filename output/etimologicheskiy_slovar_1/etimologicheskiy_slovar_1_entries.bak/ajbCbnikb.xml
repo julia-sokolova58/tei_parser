@@ -1,0 +1,86 @@
+<Entry xml:id="ajbCbnikb">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajbCbnikb</orth>
+    <lemma>ajbCbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>яичник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье с яйцами, яичница , яйченик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaJ4Hun</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jajcenik</ref> м. p. , ]аЫаник</orth>
+      </form>
+      <sense>
+        <def>кушанье из яиц , железа на горле скотины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 420)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(LM 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Su 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdjcnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье с яйцами; яичница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>uajecnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>яичница</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яёшник</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вид гриба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грипченко IV, 536)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-Ькъ</ref>
+      </m> от основы прилагательного <ref type="etymon" target="ajbcbn-">*ajbcbn-</ref> (см. 
+<ref type="etymon" target="asyg">*а]ъсыгъ]ъ)</ref>.</gram>
+  </gramGrp>
+  <note>Аналогичное выражение субстантивации ср. в отно­ шениях *ajbebnica—*а]ъсъпа (см. s. vv.).</note>
+</Entry>

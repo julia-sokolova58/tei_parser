@@ -1,0 +1,157 @@
+<Entry xml:id="gnetgnetagnetja">
+  <pb n="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnetъ/*gneta/*gnetja</orth>
+    <lemma>gnetъ/*gneta/*gnetja</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gneta</orth>
+    <lemma>gneta</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gnetja</orth>
+    <lemma>gnetja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гнет</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гнет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>ггьёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гнет, угнетение , gneta ж. р. давка, теснота , ггьёта ж. р. толпа, давка, теснота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 392)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnet</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>давка, давление, гнет, боязнь , gneca ж. р. давка , также gnjeca ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 221)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnet</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>давление, нажим</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 700)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnet</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мучение, притеснение, давление, гнет, угнетение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 490)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>gniot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>угнетение, гнет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 859; Dorosz. II, 1203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gniota</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>никчемный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 859)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гнёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насильственное воздействие сильного на более слабого; угнетение, притеснение, груз, накладываемый на что-либо для отжима, прессования и т. п.; жом, пресс</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гнёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>жердь, сдерживающая уложенные на возу снопы, сено и т . п. (костр., яросл., волог., твер., ленингр., пек., смол., нижегор., куйб., пенз., сарат., терск., перм., том.) жердь, употребляемая для укрепления зарода (север.), толстое бревно, которым придавливают стебли конопли, когда вымачивают ее в воде (смол., урал., свердл.), толстые жерди, бревна, доски, употребляемые для укрепления боковых плоскостей крыши кре­ стьянского дома, крытые тесом, дранкой, досками или соломой (чтобы покрытие не сносило ветром) (вят., волог., яросл., ни­ жегор., южн.-сиб.) , гнёт м. р. жердь, которой скрепляют воз сена, снопов, соломы , гнёта ж. р. тяжесть, которой прижимают стебли конопли, когда вымачивают ее в воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 239—240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской области 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 6, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнгт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пресс, тяжесть, наваленная с целью сдавить, гнет, притеснение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гнёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тяжелый кусок дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя,<ref type="etymon" target="proizvodnoe">* производное</ref> от гл. <ref type="etymon" target="gnetq-2">*gnetq</ref>, <ref type="etymon" target="gne">*gne</ref>$ti (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,74 @@
+<Entry xml:id="dngubdnguba">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьnьgubъ/*dьnьguba</orth>
+    <lemma>dьnьgubъ/*dьnьguba</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dbnbguba</orth>
+    <lemma>dbnbguba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>денгуба</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>теряние времени на­ прасно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>денгуба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>человек, тратящий время попусту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>денгуба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>на­ прасная трата времени, возмещение убытка за потерю времени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>danguba</ref> ж. p., dangub м. р.</orth>
+      </form>
+      <sense>
+        <def>напрасная трата времени</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>дзянъгуб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лентяй, ло­ дырь , Деньг у бы, местн. назв., бывш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ета Hi работнш, а дзяньгуб: ё'н работыщь абы дзень да вечыра. Бялькев1ч. Мапл. 154)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Лепельск. у. Витебск, губ. (Russisches geographisches Namenbuch И, 711).—Сюда же гл. сербохорв. диал. дангубит (Елез. I).</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dbnb">*dbnb</ref> (см.) и основы <ref type="etymon" target="gubiti-3">*gubiti</ref> (см.) и родственных; 
+основано на видимо старом фразеологизме <ref type="etymon" target="dbnb">*dbnb</ref> gubiti.</gram>
+  </gramGrp>
+  <note>Любопытна ю.-слав.-блр. изоглоссная связь.</note>
+</Entry>

@@ -1,0 +1,81 @@
+<Entry xml:id="sevak">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>севакъ</orth>
+    <lemma>севакъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cesdk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесальщик шерсти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cesdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>приспособление для сбора фруктов</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cesdk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>hrbilko</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cesdk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скребница, чесалка (для волокна) , cesak скребница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Slovenske Pravno v Turc. Z., Kalal 73; Matejcik. Vychodonovohrad. 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cesak</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гребень, кобылка у скрипки, решетина в прудах и водяных мельницах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>часак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто отесывает, очищает от коры бревна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшшшч. Грод. 548)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.-(а)Аъ от гл.<ref type="etymon" target="cesati">*cesati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,26 @@
+<Entry xml:id="syousa">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёуьса</orth>
+    <lemma>сёуьса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>цывца</ref>, чйвца, чевца</orth>
+      </form>
+      <sense>
+        <def>вставляемый в челнок ткацкого станка цилиндрик с навитым утком , чивца ж. р. трубочка, сделанная из бересты, на которую нави­ вают нитки для тканья холста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 185)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 257)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ум.) с суфф. -(ъ)са от<ref type="etymon" target="syoi">*сёиь</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

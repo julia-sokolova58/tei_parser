@@ -1,0 +1,61 @@
+<Entry xml:id="dojde">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*do jьde</orth>
+    <lemma>do jьde</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дондЪ</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>туда, до того места</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>donde</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>до того места, до тех пор, пока , книжн. стар, dojdeze, с. до тех пор , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 633)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 582)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>доньде</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пока не , донъдеже, донъдеже пока, пока не , отчего, по какой при­ чине, из-за чего , когда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1300 г. по Син. сп.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мф. XXIV. 34. Остр, ев.; Ио. IX. 4. Остр. ев. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Серап. сл. 2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1471 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 704—705)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="do-12">*do</ref> (см.) и нареч. *]ъс1е (см.).</gram>
+  </gramGrp>
+</Entry>

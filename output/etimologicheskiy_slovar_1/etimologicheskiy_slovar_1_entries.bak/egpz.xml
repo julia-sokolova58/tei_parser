@@ -1,0 +1,25 @@
+<Entry xml:id="egpz">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегьпъз'ь</orth>
+    <lemma>Ьегьпъз'ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Ъегпу</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>принятый, имеющий хождение (о деньгах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ъегпу прилаг. то же, слвц. Ъегпу прилаг. то же (SSJ I, 81), польск. Ыегпу 'жадный', 'за­ манчивый', 'емкий', 'пассивный' (Warsz. I, 152).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от глагольной основы Ъег- (см.<ref type="etymon" target="gai-5">*ЬъгаИ</ref>, презенс <ref type="etymon" target="egd-2">*Ъегд)</ref>.</gram>
+  </gramGrp>
+</Entry>

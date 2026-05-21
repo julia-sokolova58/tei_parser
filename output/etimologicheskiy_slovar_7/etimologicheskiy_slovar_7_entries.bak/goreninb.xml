@@ -1,0 +1,145 @@
+<Entry xml:id="goreninb">
+  <pb n="40" end_page="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goren(in)b</orth>
+    <lemma>goren(in)b</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gor'an(in)b</orth>
+    <lemma>gor'an(in)b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горячий</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горец , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ, БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горщчич</ref> м. р. , сероохорв.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гдран</ref>(ин) м. р.</orth>
+      </form>
+      <sense>
+        <def>горец, житель гор; также гдр- iauun м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 486; RJA III, 276—277: в топонимии с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goran</ref> = gorjdn м. р.</orth>
+      </form>
+      <sense>
+        <def>горец , V7Q 1 С Т а р h° ran м* Р* ? Г 0 Р е Ц \</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 232, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horian</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 1'8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horjan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gofan</ref> м. р. горный житель</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gorzanin</ref> м. р. горец</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 879)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Горяичъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 172—173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горячий</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>житель материка , сюда же • g o r e t i фам. Горяинов, сюда же, далее, производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 I, 929; Филин 7, 86: гбрячич)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горенок</ref>, род. п. -нка, м. р.</orth>
+      </form>
+      <sense>
+        <def>стриж , горонок, род. п. -нка, м. р. стриж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 136; Фи­ лин 7, 34: смол., брян.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части басе, р. Оби. Доп. I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горянин</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горец, житель возвы­ шенных мест</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Галиц., Гринченко I, 317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Гарант</ref>, фам. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла 102)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -en-j-an- (название лица) от<ref type="etymon" target="gora">*gora</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

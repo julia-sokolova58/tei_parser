@@ -1,0 +1,84 @@
+<Entry xml:id="dobryni">
+  <pb n="46" end_page="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobryni</orth>
+    <lemma>dobryni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добрйтъа</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>доброе качество, удача, хоро­ ший человек , также местн. название Добршьа ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 391)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(неоднократно, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>добрйгьа</ref>, эвфемистич.</orth>
+      </form>
+      <sense>
+        <def>напасть, болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>добрыни</ref>, добрынхл</orth>
+      </form>
+      <sense>
+        <def>добродетель , блаженство , имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в.; Мин. май XII в. 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог. 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1070 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 683; Картотека СДР XI—XIV вв.; Тупиков 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добрыня</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>добрый человек; прямой и простоватый, нехитростный, нескрытный и доброжелательный . — Ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 1102)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Dobrynice, местн. название (Kott VI, 76). Очень трудно провести четкое размежевание форм, восходящих к *dobryni и к<xr type="compare">см. <ref type="etymon" target="dobrina">*dobrina</ref>
+    </xr>, особенно в языках, 
+утративших 
+противопоставление 
+у—i., особенно в языках, 
+утративших 
+противопоставление 
+у—i., особенно в языках, 
+утративших 
+противопоставление 
+у—i., особенно в языках, 
+утративших 
+противопоставление 
+у—i.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от прилаг. <ref type="etymon" target="dobrb-17">*dobrb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

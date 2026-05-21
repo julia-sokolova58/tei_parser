@@ -1,0 +1,118 @@
+<entries>
+  <entry xml:id="bunkabunka" xml:id="bunkabunka">
+    <pb n="96" end_page="97" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bunъka/*bunьka</orth>
+      <lemma>Ьипъка</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>Ьипька</orth>
+      <lemma>Ьипька</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бунка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>КОМОК земли , кротовая нора</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Стоиков. Банат. 46)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Стойчев Б Д И, 134)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бунка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>роза, цветущая зимой, сорт крупных груш</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА И, 288)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bunka</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>удар, толчок, опухоль, шишка вследствие ушиба, утолщение, узел, сук на дереве, сорт груши</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 71)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bunka</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>ячейка (в сотах), капля, крошка, крупинка</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>bunka</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пуговичка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ма- lina Mistf. 14)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>bunka</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>клетка, ячейка (в сотах)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 144)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>бунка</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>всякое насекомое, которое гудит, жужжит, издает звук в полете</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сл. Среднего Урала I, 60)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бунъка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>глиняный сосуд, род кувшина с узким горлышком</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Прил. у., Гринченко I, 111)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Ум. производное 
+от <ref type="etymon" target="buna">*buna</ref> j <ref type="etymon" target="bun">*bun</ref>'a 
+(см.; там же 
+подробно об 
+этимологии).</gram>
+    </gramGrp>
+    <note>Этимология, предполагающая синкопу более сложной
+формы (Machek
+2: 
+чеш. buhka&lt;^bu[ble]nka, 
+bu[bla]nka), 
+кажется 
+излишней.</note>
+  </entry>
+</entries>

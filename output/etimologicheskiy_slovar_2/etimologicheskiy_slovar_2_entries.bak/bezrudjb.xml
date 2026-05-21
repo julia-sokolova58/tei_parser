@@ -1,0 +1,27 @@
+<Entry xml:id="bezrudjb">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezrudjb</orth>
+    <lemma>bezrudjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безружъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледность лица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение<ref type="etymon" target="bez-89">*bez</ref> (см.) и <ref type="etymon" target="giy-2">*гий]ъ</ref> (см.; там же обоснование 
+именно такой реконструкции, а не <ref type="etymon" target="gi-2">*ги</ref>%ъ, предполагаемой рядом 
+известных этимологии, о которых см., напр., Фасмер III, 514).</gram>
+  </gramGrp>
+  <note>Относительная ограниченность распространения русск. диал. слова не может служить решающим доводом против гипотезы о праслав. древности данной формы, в пользу которой говорят как будто ее производность от реликтового имени и оригинальная семантическая эволюция.</note>
+</Entry>

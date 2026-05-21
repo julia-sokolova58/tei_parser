@@ -1,0 +1,116 @@
+<Entry xml:id="os">
+  <pb n="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьо]ьсь</orth>
+    <lemma>Ьо]ьсь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojbca</orth>
+    <lemma>bojbca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>боец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, воин, борец, поборник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бщац</ref>, род. п. ббща м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, pugnator, также драка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bojec</ref>, род. п. -уса, м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, убийца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bojce</ref>, bojce</orth>
+      </form>
+      <sense>
+        <def>боец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV в., Gebauer I, 81; Ст.-чеш., Прага; Kott I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bojec</ref>, род. п. -jce, м. р. то же (Ст.-чеш., Прага: нет)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боец</ref>, род. п. бойца, м. р.</orth>
+      </form>
+      <sense>
+        <def>рядовой воин, солдат, участник кулачных боев, человек, занимающийся убоем и свежеванием скота, птицы и т. п., (в просторечии:) бойкий, смелый человек</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>боец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скала в русле реки, представляющая большую опасность для сплава , чело­ век в возрасте от 18 до 50 лет (волог.), работоспособный, силь­ ный член семьи мужского пола, выполняющий все повинности, «тяглый мужик» (том., енис), о бойкой женщине, бойкий, задиристый ребенок (яросл., костр., влад.), человек, занимаю­ щийся сбиванием кедровых шишек бойком (том., кемер.) , острый конец чего-либо, кончик чего-либо (твер.), рог у коровы (тобол.), бойцы мн. кости для игры в бабки, в козны; бабки (пек., смол.) , пороги, острые скалы, опасные места по течению реки (том., перм., урал.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин, там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бжцъ</ref>, род. п. бшця, м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, борец , соврем, боецъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Котл., Грин­ ченко I, 63)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъсь/-ьса от имени<ref type="etymon" target="bojb-4">*bojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

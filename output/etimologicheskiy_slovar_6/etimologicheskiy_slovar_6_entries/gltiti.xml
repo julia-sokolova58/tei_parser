@@ -1,0 +1,72 @@
+<Entry xml:id="gltiti">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtiti</orth>
+    <lemma>glъtiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гутити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>душить, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 781)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goltiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поглощать, душить, давить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. книжн. <ref>hltiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поглощать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. , <ref>русск-цслав</ref>. глътати</orth>
+      </form>
+      <sense>
+        <def>глотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 523)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глотйть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>много пить (обычно |вина)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх.. Филин 6, 202)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="gHtati-2">*gHtati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание тождество глагольных тем слав. *gHtiti и лат. glutlre, glut То.</note>
+</Entry>

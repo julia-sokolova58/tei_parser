@@ -1,0 +1,91 @@
+<Entry xml:id="dliti">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьliti</orth>
+    <lemma>dьliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>dflti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удлинять; продлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA II, 472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>продлевать, откладывать , мешкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dlid</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dlie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>продлить, медлить, отсрочить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 172—173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>длить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тянуть время, мешкать, медлить, откладывать, оттягивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1093)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>длить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заставлять долго ждать . — Ср., с иной глаг. основой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(каз., Филин 8, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>длЛтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мешкать, возиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 393)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -Ш, производный от<xr type="compare">см. <ref type="etymon" target="y-2">*&lt;Ыь</ref>
+    </xr>....</note>
+</Entry>

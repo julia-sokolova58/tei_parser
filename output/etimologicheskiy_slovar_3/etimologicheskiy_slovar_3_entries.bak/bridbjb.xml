@@ -1,0 +1,40 @@
+<Entry xml:id="bridbjb">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridbjb</orth>
+    <lemma>bridbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bridy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гадкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>бридыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жестокий, аиахт]р6;, austertis, severus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз- XI в., Срезневский I, 179)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., соотносительное с<ref type="etymon" target="lemma-3">*Ь</ref>^ъкъ 
+(см.), кот. 
+отличается 
+несравненно более широким распространением.</gram>
+  </gramGrp>
+</Entry>

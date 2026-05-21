@@ -1,0 +1,33 @@
+<Entry xml:id="duleti">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dulĕti</orth>
+    <lemma>dulĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dul</ref>(i)ef</orth>
+      </form>
+      <sense>
+        <def>толстеть, пухнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дулёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гореть, тлеть (орл.), гнить (смол.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 254)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ср. лит. duleti 'гнить, разлагаться, делаться трухлявым; исся­ кать'. См. Fraenkel 1, 109 (без слав. слов). Фасмер (I, 551) по­ мещает русск. дулёть под дуло, что может быть верно лишь в более отдаленной временной перспективе; видеть в дулеть не­ посредственное производное от русск. дуло не позволяет наличие слвц. соответствия, а также родстгенной лит. формы.</note>
+</Entry>

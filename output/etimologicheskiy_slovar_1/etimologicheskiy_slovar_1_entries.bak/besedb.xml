@@ -1,0 +1,35 @@
+<Entry xml:id="besedb">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besedb</orth>
+    <lemma>besedb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besedb</orth>
+    <lemma>besedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. 6ecjed, <ref>род</ref>. и. -а м. р., бёс]ёд, род. п. -и, ж. р.</orth>
+      </form>
+      <sense>
+        <def>беседа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 485)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Морфол. вариант (-о-основа м. р. и основа на -i- ж. р.) к общеслав. типу<xr type="compare">см. <ref type="etymon" target="beseda">*beseda</ref>
+    </xr>.</note>
+  <gramGrp>
+    <gram>Древность проблематична, хотя, с другой стороны, принимая во внимание возможную архаич­ ность основы праслав.<ref type="etymon" target="beseda">*beseda</ref>, а также, напр., отчетливо кон­
+сонантный характер 
+основы соответствующего др.-инд. 
+bhasdtl 
+bhasdd- (см. подробнее <ref type="etymon" target="beseda">*beseda)</ref>, можно думать и здесь об отражении 
+древней именной основы на согласный.</gram>
+  </gramGrp>
+  <note>Фасмер сравнивал с апел- лативом русск. беседа название реки Беседь, в Верхнем Подне- провье (см. М. Vasmer «Oxford Slavonic papers» V I , 1955/1956, 53), но, как нетрудно заметить, морфологически более точным будет сравнение гидронима Беседь с малоизвестным апеллативом sedb (см. выше).</note>
+</Entry>

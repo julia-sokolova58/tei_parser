@@ -1,0 +1,89 @@
+<Entry xml:id="snz">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сНъ(зь)</orth>
+    <lemma>сНъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чйл</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>крепкий, сильный, также чйо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cily</ref> Sila</orth>
+      </form>
+      <sense>
+        <def>отдохнувший, бодрый, здоро­ вый, крепкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cily</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свежий, живой, бодрый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>city</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>невредимый; бодрый, крепкий .—Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cilav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодрый, здоровый, крепкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 568)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Согласно Траутману, ст.-чеш. cily произведено от утраченного гл.<ref type="etymon" target="citi">*citi</ref>, 
+родственного греч. хио 'идти', лат. cieo, clvi 'двигать, 
+возбуждать', citus 'быстрый, скорый'.</gram>
+  </gramGrp>
+  <note>См. R. Trautmann. Altce- chisch cily 'frisch, lebhaft, munter'. — KZ XLVI, 1914, 239— 240; Pokorny I, 539. Толкование это можно распространить и на приведенную выше лексику других слав, языков. Отсюда произ­ ведено *cileti j *ciliti И (см.). Если верна изложенная выше эти­ мология, то *сИъ не связано с<xr type="compare">см. <ref type="etymon" target="po-citi">*po-citi</ref>
+    </xr>, вопреки Махеку 
+(см. Machek
+2 102), Скоку (см. Skok. Etim. rjecn. I, 323), и отно­
+шения *cila, *cileti / *6iliti 
+I и <xr type="compare">см. <ref type="etymon" target="po-citi-2">*po-citi</ref>
+    </xr>, с одной стороны, 
+и *сИъ(]ъ)у 
+*cileti I *ciliti 
+II (см.) — с другой стороны, удобнее 
+представить на уровне и.-е. форм с разными задненёбными в на­
+чале слов: *k
+uei- и *kei-. Полезно поставить вопрос о связи 
+*сИъ(/ь) 
+и *сИъ()ь) 
+(см.). Вообще толкование 'отдохнувший' кажется при­
+думанным ad hoc сторонниками этимологической связи с *po-citi, 
+и необходимо еще проверить, является ли таким обязательным 
+этапом в плане семантич. типологии и эволюции знач-я 'бодрый, 
+свежий, крепкий' ключевое для рассуждений упомянутых авторов 
+знач-е 'отдохнувший'.</note>
+</Entry>

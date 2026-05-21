@@ -1,0 +1,136 @@
+<Entry xml:id="gnilc">
+  <pb n="176" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnilьcь</orth>
+    <lemma>gnilьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гнилец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь пчел , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гнилец</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 51; с. Г. Камарци, Бо- тевградско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гнилец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь пчел, древоточец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>гтъй</ref>- лац, род. п. ггьйлца, м. р.</orth>
+      </form>
+      <sense>
+        <def>лентяй, вялый, слабый человек, незаживающая рана (при раковой болезни), цынга, сорт груш, которые едят гнилыми</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnilec</ref>, род. п. -lea, м. р.</orth>
+      </form>
+      <sense>
+        <def>ноябрь, вид дуба Quercus pedunculata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222; Slovar sloven, jezika I, 706: также стар, 'вино подгнившего вино­ града')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnilec</ref>, род. п. -Ice, м. р.</orth>
+      </form>
+      <sense>
+        <def>лентяй, также в кач-ве названия реки и городка в Словакии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 703)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gnilec</ref>, род. п. -lea, м. р.</orth>
+      </form>
+      <sense>
+        <def>гниль, болезнь пчел, цынга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 859)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Гнилец</ref>, название рек в басе Дона</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewassernamen I, 456)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнилёцъ</ref>, род. п. -льця, м. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь личинок пчел: поражение их грибком Bacillus Preussi</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гнилецъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>июнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(гуцул., М. К. Кочерган. 3 icTopii украшських назв м1сящв. — Мово- знавство 1, 1967, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гнХлёц</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гнилое стоячее дерево , болезнь пчел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Там же, 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от <ref type="etymon" target="gnilb">* gnilb</ref> 
+(см.), субстантивация 
+последнего.</gram>
+  </gramGrp>
+  <note>Возможно весьма раннее образование, ср. широкое распространение знач. 'болезнь пчел', а также функционирование в роли топонимов и гидронимов. В знач. 'лентяй', однако, отра­ жена семантич. калька с нем. faul 'гнилой', 'ленивый', Faulen- zer 'лентяй'.</note>
+</Entry>

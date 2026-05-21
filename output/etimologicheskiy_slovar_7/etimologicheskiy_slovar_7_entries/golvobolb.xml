@@ -1,0 +1,95 @@
+<Entry xml:id="golvobolb">
+  <pb n="10" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golvobolb</orth>
+    <lemma>golvobolb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golvobora</orth>
+    <lemma>golvobora</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>главоббл</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>головная боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>главдбол</ref>, м. и ж. р., главдбо/ьа ж. р.</orth>
+      </form>
+      <sense>
+        <def>голов­ ная боль, растение цикута Gonium macula turn L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 296; RJA III, 182: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glavobol</ref> м. p., glauobolja ж. p.</orth>
+      </form>
+      <sense>
+        <def>головная боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlavobol</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>головная боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 685: «slc.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hlavibuoV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название растения . — Ср. сюда же, с иным суф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>главобблие</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>головная боль, хлопоты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, также главобблихл ж. р.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>главоболие</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>головная боль, хло­ поты, заботы, беспокойство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="golva-6">*golva</ref> 
+(см.) и <ref type="etymon" target="og">*ЬоГъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

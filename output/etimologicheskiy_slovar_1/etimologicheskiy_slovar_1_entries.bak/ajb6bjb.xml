@@ -1,0 +1,29 @@
+<Entry xml:id="ajb6bjb">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajb6bjb</orth>
+    <lemma>ajb6bjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdjcji</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (редк.) <ref>vajeci</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -Ъ]ъ от<ref type="etymon" target="a">*а]</ref>'ьсе (см.), <ref type="etymon" target="ajbko">*ajbko</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

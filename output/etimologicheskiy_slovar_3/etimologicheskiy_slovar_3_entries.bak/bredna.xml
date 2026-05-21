@@ -1,0 +1,91 @@
+<entries>
+  <entry xml:id="bredna" xml:id="bredna">
+    <pb n="13" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bredьna</orth>
+      <lemma>bredbna</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brednja</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>переход вброд</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 54)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brednia</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>вздор</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 204)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бредня</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>вздор, нелепость , брЪдня то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 139)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 146)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бредня</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>ловля рыбы ручною сетью , бредня ж. р. бредни, враки, вздор</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Бшецький-Носенко 61)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бредня</ref> ж. р. гложь, враки, бредни</orth>
+        </form>
+        <sense>
+          <def>. —Сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 33)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бредни</ref> pi. tant.</orth>
+        </form>
+        <sense>
+          <def>вздор, бессмысленные речи. Отглагольное производное с суфф. -ыга от *bredg, <xr type="compare">см. <ref type="etymon" target="bresti">*bresti</ref>
+            </xr>, на что четко указывает, в частности, знач, на что четко указывает, в частности, знач, на что четко указывает, в частности, знач, на что четко указывает, в частности, знач</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>слова</ref>; в то же время для</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>слов</ref> следует говорить о соот­ носительности с гл. *brediti (см.) (или об образовании от послед­ него?).</orth>
+        </form>
+      </item>
+    </etym>
+  </entry>
+</entries>

@@ -1,0 +1,107 @@
+<Entry xml:id="gostinica">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gostinica</orth>
+    <lemma>gostinica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гостиница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гости, завсегдатаи, также гостиница, гостиная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 5 1 9 , 5 2 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosti</ref>- nica ж. р. гостиница, трактир</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 2 3 8 , с пометой «stsl.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hostinice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостиная, гостиница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 7 3 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гостиница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гостиница , боль­ ница , дорога , также гостинъница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лук. X. 3 4 . Остр, ев.; Пат. Син. XI в. 3 6 ; Ефр. Крм. LXXXVII. 1 4 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 5 3 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иов. VI. 1 9 по сп. 1 4 9 9 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 5 6 7 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 5 6 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гостиница</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гостиницы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>в свадебном обряде—девушки, привозившие к невесте подарки жениха на­ кануне свадьбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 7, 9 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гостйниця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостиница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гасцШца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостиница</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> 
+от первонач. прилаг. 
+<ref type="etymon" target="gostinb">*gostinb</ref> 
+(см.); 
+субстантивация последнего.</gram>
+  </gramGrp>
+</Entry>

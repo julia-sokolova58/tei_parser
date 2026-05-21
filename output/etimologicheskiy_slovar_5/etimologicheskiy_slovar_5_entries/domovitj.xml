@@ -1,0 +1,123 @@
+<Entry xml:id="domovitj">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domovitъ(jь)</orth>
+    <lemma>domovitъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дсмсжитъ</ref>, прилаг. снхоЗеатсбтт]*;, pater familias</orth>
+      </form>
+      <sense>
+        <def>домовитый, члсжЬкъ домсжйтъ хозяин дома, отец семейства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS; Вук. ев., нач. XIII в., 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>домо</ref>­ витый</orth>
+      </form>
+      <sense>
+        <def>достаточный в домашнем хозяйстве, домовитый, домовит, прилаг. домовитый (РВЕ: народн.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>домовит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>до­ мовитый, хозяйственный , домовит, прилаг. богатый, зажиточный (хозяин)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Малко-Търновско, Р. Реч XII, 186. Архив Болг. диал. словаря)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>domovity</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>до­ машний, семейный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 294—295; Brandl 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>domovity</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>домашний, семейный, хозяйский, хозяйственный, владеющий домом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 273—274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>domowit</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домочадец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 506)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>домовитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>владетель дома , также до­ мовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. Сир. XIII в., Срезневский I, 698)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мф. XXI. 33. Остр, ев.; Ефр. Крм. Крф. 60 и мн. др., Срезневский I, 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>домовитый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человек зажиточный и хороший хозяин, (твер.) домовитые, почетное прозванье женихо­ вых родителей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>домовйтий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 439)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-Иъ</ref>
+      </m> от <ref type="etymon" target="domov">*domovъ</ref>, <ref type="etymon" target="domb-2">*domb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

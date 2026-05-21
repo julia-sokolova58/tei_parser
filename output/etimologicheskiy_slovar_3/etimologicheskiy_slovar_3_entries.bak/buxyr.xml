@@ -1,0 +1,27 @@
+<entries>
+  <entry xml:id="buxyr" xml:id="buxyr">
+    <pb n="82" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*buxyrъ?</orth>
+      <lemma>Ьихугъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>buchyr</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пузырь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kalal 46)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -уг- от основы гл. <ref type="etymon" target="buxati">*buxati</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

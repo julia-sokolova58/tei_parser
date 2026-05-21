@@ -1,0 +1,38 @@
+<Entry xml:id="bolina">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolina</orth>
+    <lemma>bolina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>бол</ref>&gt;йна ж. р.</orth>
+      </form>
+      <sense>
+        <def>улучшение, поправка, до­ блесть, достоинство, порядочность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 56; RJA I, 546)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>значительная величина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(без указ. мест., Филин 3, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы прилаг-ного ср. степ. 
+<ref type="etymon" target="boVbjb">*boVbjb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возраст образования проблематичен.</note>
+</Entry>

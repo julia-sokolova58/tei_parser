@@ -1,0 +1,78 @@
+<Entry xml:id="gorni">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorni</orth>
+    <lemma>gorni</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorno</orth>
+    <lemma>gorno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrany</ref>, мн.</orth>
+      </form>
+      <sense>
+        <def>колокольный звон по умершем</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>кгапа</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrono</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>фраза, изречение, пауза, пере­ рыв, биение пульса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grono</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>речь, разговор, рассказ, сказка, повесть, слух, пословица .—Ср. сюда же с другим исходом основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka. St. I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>грлыл</ref> ж. p., versus</orth>
+      </form>
+      <sense>
+        <def>стих</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Const., SJS)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Явно производная форма (<ref type="etymon" target="gor-n-">*gor-n-)</ref>, 
+не анализируемая далее на 
+слав, почве.</gram>
+  </gramGrp>
+  <note>Сближается с др.-инд. gntati 'взывать, хвалить', авест. gar- 'похвала'. См. Berneker I, 332; Mayrhofer I, 343. Сближение слав, слова с лит. gerbti 'чтить, уважать' и произ­ водными (так см. Machek 2 183, со знаком вопроса) следует откло­ нить, потому что балт. слово претерпело метатезу и первонач. родственно слав.<xr type="compare">см. <ref type="etymon" target="bergt4">*bergt4</ref>
+    </xr>. 
+См. еще A. Meillet MSL 15, 1908, 260; A. Bruckner KZ XLV, 
+1913, 37; С. D. Buck AJPh 
+X X X V I , 1915, 11 — 12; R. Jakobson 
+«Word» 
+8, 1952, 387 (считает, как и Брюкнер, выше, что ст.-
+слав. грдыо 'стих' нельзя отделять от <xr type="compare">см. <ref type="etymon" target="grarib">*grarib&gt;</ref>
+    </xr>); С. Б. Берн-
+штейн ВЯ 1970, № 3, 85 (об основе на 
+-es-).</note>
+</Entry>

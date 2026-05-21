@@ -1,0 +1,54 @@
+<Entry xml:id="devovati">
+  <pb n="21" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvovati</orth>
+    <lemma>dĕvovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>djeeoeamu</ref>, djeeyjeM</orth>
+      </form>
+      <sense>
+        <def>быть девушкой, девдвати, дивовати</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪвовати</ref>, дЪвХю Д. ста двць дЪвоушци*</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Суд. XXI. 12 по сп. XIV в., Срезневский I, 781)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дево</ref>- ватъ</orth>
+      </form>
+      <sense>
+        <def>пребывать в девичестве, в девках, не замужем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dieyedmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть девушкой, быть незамужем; сидеть в девушках, остаться в девушках, блюсти себя, собираться замуж, невеститься, быть взрослой, быть невестой; быть молодой, быть девушкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 408)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от <ref type="etymon" target="deva-5">*deva</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

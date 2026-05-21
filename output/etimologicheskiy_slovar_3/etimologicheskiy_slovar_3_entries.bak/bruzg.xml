@@ -1,0 +1,33 @@
+<entries>
+  <entry xml:id="bruzg" xml:id="bruzg">
+    <pb n="53" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bruzgъ</orth>
+      <lemma>bruzgb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bruzag</ref>, род. п. bruzga, м. p.</orth>
+        </form>
+        <sense>
+          <def>effusio, сильное течение , брузаг, род. п. -зга, также брузак, м. р</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., диал. также в Далмации, R J A I, 687)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 215)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Экспрессивное 
+образование, 
+соотносительное 
+с <ref type="etymon" target="bruzga">*bruzga</ref> 
+(см.) 
+и родственными.</gram>
+    </gramGrp>
+  </entry>
+</entries>

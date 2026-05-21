@@ -1,0 +1,129 @@
+<Entry xml:id="psa">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъпса</orth>
+    <lemma>Ьъпса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брйца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вид белой пшеницы , возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>брица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бор , ср. еще бранйца вид проса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Попова. Зборови од Малешево. — МJ И, 1951, 95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Темков. Зборови од Тиквешко.—MJ II, 1951, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>barlca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение сераделла Ornithopus , ст,-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1055)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzyca</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт проса Panicum glaucum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1472 г., St. stpol. I, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение метлика?, растение Setaria glauca, чижик, мышей , Setaria glauca, чижик, мышей, Panicum crus galli просянка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 314)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. II Отд. I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>брйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Alopecurus pratensis L., лисо­ хвост луговой (терск.), растение Alopecurus geniculatus L., лисохвост коленчатый (терск.), Setaria viridis, щетинник зеленый (терск.), Setaria glauca, щетинник сизый (орл., курск., донск.), Panicum crus galli L., куриное просо (самар., астрах.), расте­ ние метлика , брйца, брйца черный нарост на колосьях ржи (смолен.) , брйцы черные наросты на колосьях ржи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 182)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бриця</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>рас­ тение Setaria glauca</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ак. Полт. Гор. Ур. I, 116—1667 г., Тим­ ченко I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Setaria glauca Beauv</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брыца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куриное просо Echinoch- loa Crus galli</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 49; Шатэршк 36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (ум.) от <ref type="etymon" target="g-3">*Ьъгъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ошибочно сближе­ ние с фрак. j3piča 'рожь' (там см. Младенов Е И Р 45; Detschew. Die thrakischen Sprachreste 87), кот. восходит не к и.-е. *bhrei- 'резать' (Томашек), a K*urlghia, ср. др.-инд. vrlhi- 'рис', ель Георгиев. Въпроси на бълг. етимология 27; Георгиев Б Е Р I, 79; Фасмер I, 215.</note>
+</Entry>

@@ -1,0 +1,43 @@
+<Entry xml:id="bujevati">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujevati</orth>
+    <lemma>bujevati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>воуюБДти</ref> veavieoeo&amp;ai, iuveniliter agere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Greg.-Naz., Men. Mich., Miklosich LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bujowae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поступать заносчиво, неразумно, но-детски, гордо, глупо чему-нибудь противиться, упрямиться, хвастливо надуваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 9 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>б</ref>$\еватиveavteoea&amp;ai .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Чуд. Псалт., Срезневский!, 1 9 0 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный с суфф.<m type="suffix">
+        <ref>-ova-ti</ref>
+      </m> от <ref type="etymon" target="i-2">*Ьи]ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

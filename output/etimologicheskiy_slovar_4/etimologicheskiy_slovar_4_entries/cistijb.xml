@@ -1,0 +1,250 @@
+<Entry xml:id="cistijb">
+  <pb n="121" end_page="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cisti»(jb)</orth>
+    <lemma>cisti»(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>w</ref> r z , прилаг. xa&amp;apos, xa&amp;apeoa&gt;v, purus</orth>
+      </form>
+      <sense>
+        <def>чистый, целомудренный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чист</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чи­ стый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чис</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чист</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чист</ref>, -а, -о, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cist</ref>, cista, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый , cist бритый, безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 568)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>cist</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жидкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Temljine, Strekelj 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cisty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, незагрязнённый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cistyj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пустой, по­ рожний, uejce с. пустое яйцо, без зародыша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cisty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, незагрязненный, несме­ шанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>cisty</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zvolenska Z., Banska Bystrica, Kalal 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cisty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистый; ясный, светлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cysty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистый, ясный; светлый, про­ стой, непорочный, чистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>caiste</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 45, с реконструкцией *cisfojb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czysty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистый, незагрязнённый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>clsti</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, опрятный, несмешанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чистый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>незагрязнен­ ный, чистый (Остр. ев. и др.), чистый, без примеси (Сб. Троиц. XII в. и др.), чистый, белый (о хлебе) (Нест. Жит. Феод, и др.), редкий, без зарослей (о лесе) , открытый , сплошной (?) , свободный, беспрепятственный , ясный , прямой, откровенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков. I летоп. под 1265 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1151 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Отвод. Ковал, мон. ок. 1400 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Смол. гр. п. 1230 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Нифонт, д. 1250 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Иппол. Антихр. 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1532—1533 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чистый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>не загрязненный, не за­ маранный, свободный от грязи</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чйстий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>чистый, не­ загрязненный, прозрачный, незаросший сорными травами, чи­ стый, гладкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чисты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистый</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Праслав. *Sistb родственно лит. skystas 'жидкий' (ср. ударение сербохорв. чист, русск. чистый и знач. словен. диал. Sist 'жид­ кий', выше), лтш. sfyists то же (наряду с sfyists 'чистый, цело­ мудренный, незапятнанный'), др.-прусск. skijstan 'чистый', да­ лее— лит. skiedziu, skiesti 'разжижать, разделять', skdistas* свет­ лый, ясный'. В слав, языках *Sistb родственно *cestiti и<xr type="compare">см. <ref type="etymon" target="cediti">*cediti</ref>
+    </xr>, и однако при исследовании связей праслав. *Sistb мы стал­
+киваемся с большими утратами именно на слав, почве.</note>
+  <gramGrp>
+    <gram>Паралле­ лизм балтийского свидетельствует, что<ref type="etymon" target="Sistb">*Sistb</ref>— первонач. прич. 
+страд, прош., остаток парадигмы гл. <ref type="etymon" target="cidjg">*cidjg</ref>, 
+<ref type="etymon" target="Sisti">*Sisti</ref>, не сохранив­
+шегося в слав, языках, ср. аналогичную историю <ref type="etymon" target="Sqstb">*Sqstb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Далее родственно др.-инд. chindtti, греч. a^t'Cu), лат. scindo в знач. 'разделять'. См. Miklosich 36; А. А. Потебня РФВ IV, 1880, 210; J. Zu- baty KZ XXXI, 1892, 13; Berneker I, 157—158; Trautmann BSW 263—264; A. Vaillant RES XXXVII, 1960, 157; Fraenkel II, 805—806; Фасмер IV, 366—367.</note>
+</Entry>

@@ -1,0 +1,92 @@
+<Entry xml:id="dobreti">
+  <pb n="40" end_page="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrĕti</orth>
+    <lemma>dobrĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobrĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть приятным, быть к добру, на пользу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobrĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добреть, делаться добрым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dobrjec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. редк. <ref>dob</ref>- rzec</orth>
+      </form>
+      <sense>
+        <def>набираться сил, добреть, делаться добрым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>debfayc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добреть, делаться добрым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo- 'dobriti vinz. Wb. I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добреть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плотнеть, толстеть, тучнеть, жиреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добргти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться добрым, доб­ реть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 398)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на производный от прилаг.<ref type="etymon" target="dobrb-3">*dobrb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

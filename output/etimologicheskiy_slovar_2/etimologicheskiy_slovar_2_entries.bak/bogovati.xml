@@ -1,0 +1,25 @@
+<Entry xml:id="bogovati">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogovati</orth>
+    <lemma>bogovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>bogovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Errathen</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Conjectura ajjequi' (Megiser Dictionarium 1744, со ссылкой на хорв. bogovati 'Di- vinare'; РСА I, 687 дает только боговати 'царить (о боге)', 'само­ державно править', 'привольно жить', 'богохульствовать', ср. bogovati 'deum esse' (RJA I, 501: «из русск.»), чеш. редк. boho- vati 'быть богом'), слвц. bohovaV 'проклинать, бранить' (SSJ I, 113), русск. диал. боговать 'думать, размышлять' (Материалы «Смоленского словаря» 134).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ovati</ref>
+      </m> от <ref type="etymon" target="bog-2">*bogъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любопытно выделить семантич. общность словен. и русск. примеров ('гадать', 'думать'), кот. может быть относительно старой чертой (культовый термин, связанный с гаданием?).</note>
+</Entry>

@@ -1,0 +1,117 @@
+<Entry xml:id="gadka">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadъka</orth>
+    <lemma>gadъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hddka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спор, пререкание, ссора</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>hddka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>разговор, упоминание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(nepomnl, aby kdy jaka hadka byla о ty lesy, 1486 г., Hodonin, см. Vazny. Stfedo- vek. list. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hddka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>перебранка, спор, ссора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hdtke</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>загадки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Palkovic. Z vecn. slovn. Slovakov v Mad'ar. 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gadka</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>godka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>беседа, раз­ говор, наговоры, сплетни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 791)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гадка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>забота, дума; мысль, предположение (курск., орл.), за­ гадка? (самар.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гадка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мысль, помы­ шление, думка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гадка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дума, размышление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дроги- чинского Полесья. — Лексика Полесья 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гадка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мысль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="gadati">*gadati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

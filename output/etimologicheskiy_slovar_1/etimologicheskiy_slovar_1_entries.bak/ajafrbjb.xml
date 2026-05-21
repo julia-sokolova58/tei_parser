@@ -1,0 +1,25 @@
+<Entry xml:id="ajafrbjb">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajafrb(jb)</orth>
+    <lemma>ajafrb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jajat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>cum testiculis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( X V I I I в., RJA IV, 420)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Адъективное производное с суфф. -atb(jb) от<ref type="etymon" target="aje">*aje</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. параллельное образование с родственным формантом -atus в лат. ovatus 'яйцеобразный'.</note>
+</Entry>

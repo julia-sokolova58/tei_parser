@@ -1,0 +1,44 @@
+<entries>
+  <entry xml:id="bukovje" xml:id="bukovje">
+    <pb n="90" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bukovьje</orth>
+      <lemma>bukovbje</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>Ьйкдие</ref> ср. р. собир.</orth>
+        </form>
+        <sense>
+          <def>буковые деревья, также в роли местн. названий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XIII в., в словарях Белостенна и Стулли, R J A I, 726)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bukovjc</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>буковый лес</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 70)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bukovi</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>буковый лес или роща</def>
+        </sense>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное (собир.) с суфф. -ь/е от прилаг. <ref type="etymon" target="ikoi-2">*Ьикоиъ</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

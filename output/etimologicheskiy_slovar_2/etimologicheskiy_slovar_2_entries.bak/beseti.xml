@@ -1,0 +1,29 @@
+<Entry xml:id="beseti">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beseti</orth>
+    <lemma>beseti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бесёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заболевать бешенством (пек.), сходить с ума, сердиться, сходить с ума, неистовствовать, шалить, резвиться без меры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 266)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол состояния на *<m type="suffix">
+        <ref>-eti</ref>
+      </m>, непосредственно производный от 
+имени <ref type="etymon" target="besb">*besb</ref> (см.).</gram>
+  </gramGrp>
+  <note>В ряду глаголов с этой семантикой и этим корнем (*besovati, *besbneti, *besbnovati, см. ниже) — наиболее архаичный.</note>
+</Entry>

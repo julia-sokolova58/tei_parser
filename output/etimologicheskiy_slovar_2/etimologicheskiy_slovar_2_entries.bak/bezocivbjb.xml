@@ -1,0 +1,58 @@
+<Entry xml:id="bezocivbjb">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezocivb(jb)</orth>
+    <lemma>bezocivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>вбзочиБЪ</ref>, прилаг. &amp;раа6д, audax</orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bezocivy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беззастенчивый, бесстыдный 7</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мор., Kott I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezocivy</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>дерзкий, наглый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безочивый</ref> oculorum expers,</orth>
+      </form>
+      <sense>
+        <def>безглазый, dvato^ovxog, inpudens, бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., Срезневский I, 62)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью предл. - приставки<ref type="etymon" target="bez-64">*bez</ref> (см.) и суффикса -iv- от корня <ref type="etymon" target="rk-">*рк-</ref> (см. <ref type="etymon" target="oko-2">*око)</ref>.</gram>
+  </gramGrp>
+  <note>Относительно генезиса и знач. см. подробно *ЬегоШъ. О семан­ тике см. еще Sadnik-Aitzetmuller. Vgl. Wb. 4, 2 9 2 .</note>
+</Entry>

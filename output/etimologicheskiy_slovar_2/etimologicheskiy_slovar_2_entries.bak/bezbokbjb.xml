@@ -1,0 +1,59 @@
+<Entry xml:id="bezbokbjb">
+  <pb n="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezbokbjb</orth>
+    <lemma>bezbokbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezboky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>не имеющий боков, выпуклостей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezboki</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Linde I, 74; Warsz. I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безбокий</ref> су кого или у чего бока впалые, или нет одного бока, однобокий, кривобокий</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. без­ <ref>бокий</ref> сне имеющий бока</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязббт</ref> без­ бокий</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с архаич. типом основы, получено от сложения<ref type="etymon" target="bez-3">*bez</ref> 
+(см.; там же подробности по словообразованию и морфологии) 
+и <ref type="etymon" target="ok-2">*Ъокъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. еще Miklosich. Vgl. Gr. II, 404. В ряде слав, языков отмечается редкость образования слова.</note>
+</Entry>

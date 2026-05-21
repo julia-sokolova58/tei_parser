@@ -1,0 +1,66 @@
+<Entry xml:id="grusevbjb">
+  <pb n="156" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grusevb(jb)</orth>
+    <lemma>grusevb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gruseu</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грушевый , также hriisev</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 285)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruszowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грушевый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грушевый</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грушёвий</ref>, -а, -е то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грушавы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грушевый</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> 
+(притяж.) от <ref type="etymon" target="grusa">*grusa</ref> 
+(см.)</gram>
+  </gramGrp>
+</Entry>

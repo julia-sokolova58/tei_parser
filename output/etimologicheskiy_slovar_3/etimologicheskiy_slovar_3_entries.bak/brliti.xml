@@ -1,0 +1,128 @@
+<entries>
+  <entry xml:id="brliti" xml:id="brliti">
+    <pb n="168" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrliti</orth>
+      <lemma>Ььг1Ш</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брлитл</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурлить, булькать , возм., сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(вода брл&gt;и. РСА II, 189)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brhlif</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сильно тереть, растирать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 130)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>borlic</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сматывать, насыпать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 41)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">диал. <ref>bardlic</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>гадить, з а г р я з н я т ь  ^ *barlic так см. Berneker s. v</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="old">др.-русск. <ref>бурлить</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>буянить (чаще во хмелю) (Зап. Болот., XVIII в., Картотека ДРС)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бурлить</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>шумно ки­ петь, клокотать (о жидкости)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>бурлить</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бранить , бур­ лить быстро мешать (воду, жидкость); заставлять клокотать (вят., пек., новг.), шуметь, урчать (о звуках в кишечнике) (ка- луж.), говорить, бормотать что-либо невнятно, неотчетливо (обы­ чно о пьяном) (новг., пек., вят., перм., орл.), ворчать (пек., тамб., новг.), громко кричать (нижегор., перм.), бранить (ряз., тамб.), квакать (арх.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Диттель. Сборник рязанских областных слов. — Ж С т . V I I I , 1898, 207)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Филин 3, 293)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бурлйти</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурлить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, И З )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>бурлщь</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бурлить, (о полноте жизнен­ ных сил) играть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.-русск. 136)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m>, производный от ономатопоэтич. основы; соотносите­
+лен с <ref type="etymon" target="ggay-2">*ЬъгГай</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Формы с корневым -у- в русск., укр., блр. 
+вторичны. В свете прочих слав, данных родство их с <xr type="compare">см. <ref type="etymon" target="yiga">*йиг'а</ref>
+      </xr> 
+маловероятно, вопреки Фасмеру (I, 246). 
+маловероятно, вопреки Фасмеру (I, 246). 
+маловероятно, вопреки Фасмеру (I, 246). 
+маловероятно, вопреки Фасмеру (I, 246).</note>
+  </entry>
+</entries>

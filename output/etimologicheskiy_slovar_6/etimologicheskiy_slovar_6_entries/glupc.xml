@@ -1,0 +1,97 @@
+<Entry xml:id="glupc">
+  <pb n="152" end_page="153" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupьcь</orth>
+    <lemma>glupьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глупец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глупец, дурак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глупец</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глупац</ref>, род. п. -пца, м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glupec</ref>, род. п. -рса, м. р.</orth>
+      </form>
+      <sense>
+        <def>глупец, дурак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220; Slovar sloven, jezika I, 703)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlupec</ref>, род. п. -pee, м. p.</orth>
+      </form>
+      <sense>
+        <def>глупец, дурак</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. книжн., стар, <ref>hlupec</ref>, род. п. -рса, м. р.</orth>
+      </form>
+      <sense>
+        <def>глупец, дурак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glupiec</ref>, род. п. -рса, м. р. сглупец, дурак</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852; Dorosz. II, 1185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупец</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глупец</ref>, род. п. -пца, м. р.</orth>
+      </form>
+      <sense>
+        <def>ребенок или подросток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулин- ский словарь 112)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от прилаг. <ref type="etymon" target="glupb-8">*glupb</ref> (см.), субстанти­
+вация этого последнего.</gram>
+  </gramGrp>
+</Entry>

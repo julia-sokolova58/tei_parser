@@ -1,0 +1,121 @@
+<Entry xml:id="glob-3">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbь</orth>
+    <lemma>glǫbь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. книжн., редк. <ref>глъб</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубь, глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 86: «от рус. глубь»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glob</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина, уг­ лубление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 218; Slovar sloven, jezika I, 698: стар, glob ж. p.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hlube</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 49; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. книжн. <ref>hloub</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dlyrh</ref>, dlurh ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубь, глубина, пропасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 170: «вместо glum из *glqbb»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glqb</ref>, род. п. gl$bi,wi. р.</orth>
+      </form>
+      <sense>
+        <def>глубина , также gl$bia ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 840; Dorosz. II, 1152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gloyb</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>мягкий стебель, ствол , также gloifbja ж. p. , gloybjau ж. p. глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 276)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глУбъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. екз. Бог. 311, Срезневский I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глубь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глубь</ref> ж. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 112; арх., свердл., см. Филин 6, 207)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Относительно словин. см. еше Z. Sobierajski SO 31, 1974, 169. Основа на -i- (или ее преобразования), соотносительная с *glgbb, *glqb(okb) (см.).</note>
+</Entry>

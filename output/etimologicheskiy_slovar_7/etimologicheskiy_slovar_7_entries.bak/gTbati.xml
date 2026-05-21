@@ -1,0 +1,88 @@
+<Entry xml:id="gTbati">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gT»bati</orth>
+    <lemma>gT»bati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>gbae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать, исполнять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гбати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгибать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ч. Николы, IV, 10. XIV в. ~ XI в., СлРЯ XI—XVII вв. 4, 13; И просто да рек*, гако ВСЕМИ составы не можаше СА гбати. ВМЧ. Дек., Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнуть, наклонять, нагибать, складывать, свер­ тывать, мять .—Ср. сюда же производные сербо­ хорв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>gaba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подагра, ломота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(о. Брач, RJA III, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гъбанищ</ref>, гбанищ</orth>
+      </form>
+      <sense>
+        <def>изгибание ; возм., сюда же Гбач, наз­ вание притока Пинеги, бывш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Афан. апр. И ; Измар. 1509 г., Срезневский I, 611)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Арханг. губ. (Worterbucb der russischen Gewassernamen I, 426).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+близко родственный <ref type="etymon" target="g-18">*g</ref>^ngti 
+(см.), от которого он 
+имеет краткостный вокализм.</gram>
+  </gramGrp>
+  <note>О сербохорв. диал. ?a5a&lt;^<xr type="compare">см. <ref type="etymon" target="gbba">*gbba</ref>
+    </xr>
+специально И. П. Петлёва «Этимология. 1972» (М., 1974), 90 и 
+сл. Излишне 
+предположение 
+Безлая 
+(см. F. Bezlaj JiS XVIII, 
+1972/1973, 4, 141) о наличии в gaba (он приводит форму 
+gaba) 
+ступени 
+*gob-.</note>
+</Entry>

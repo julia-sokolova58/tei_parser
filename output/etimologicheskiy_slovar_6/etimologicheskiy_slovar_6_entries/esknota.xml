@@ -1,0 +1,99 @@
+<Entry xml:id="esknota">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsknota</orth>
+    <lemma>ĕsknota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яснота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacnoma</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jacnoma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jasnota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jasnota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">стар. , книжн. <ref>jasnota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 635)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jasnuetd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яснота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>светлость, светлые цвета, краски</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яснота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="esknb-6">*esknb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

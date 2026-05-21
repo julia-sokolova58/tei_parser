@@ -1,0 +1,109 @@
+<Entry xml:id="golobica">
+  <pb n="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golǫbica</orth>
+    <lemma>golǫbica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гълъбйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гулабица</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голубица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубка, самка голубя</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golobica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holubice</ref> ж. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holubica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gole</ref>- Ыса ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>голХ</ref>- бица</orth>
+      </form>
+      <sense>
+        <def>голубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 133, Срезневский I, 545; Мин. 1097 г. 122, Срезневский III, 75')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голубица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., ленингр., олон., арх., сев.-двинск., волог., яросл., перм., вят., свердл., том,, кемер., иркут., Филин 6, 338)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голубйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голубица, голубка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1,306)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="gotybb-3">*gotybb</ref> I <ref type="etymon" target="golybb">*golybb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

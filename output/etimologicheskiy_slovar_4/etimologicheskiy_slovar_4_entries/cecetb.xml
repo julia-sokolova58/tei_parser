@@ -1,0 +1,42 @@
+<Entry xml:id="cecetb">
+  <pb n="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cecetb</orth>
+    <lemma>cecetb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cecet</ref>, род. п. -eta, м. р.</orth>
+      </form>
+      <sense>
+        <def>название птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1&gt; 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чечет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>птица чечетка Fringilla linaria, самец , чечет самец чечетки . •— Ср. прилаг. чачбты пестрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 188)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 215)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(II. А. Расторгуев. Словарь народ­ ных говоров Западной Брянщины 284)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. образование, ср.<ref type="etymon" target="sesega">*сесега</ref>, выше.</gram>
+  </gramGrp>
+  <note>Близкую форму указывают, далее, в лит. kekutis 'коноплянка', лтш. kikuts 'дупель', 'болотный кулик', 'бекас большой'. См. Berneker I, 138—139; Л. А. Булаховский. Общеславянские названия птиц. — ИАН ОЛЯ VII, 1948, 109, 112; Фасмер IV, 355—356; Bezlaj. Etim. slovar.</note>
+</Entry>

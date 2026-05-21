@@ -1,0 +1,43 @@
+<entries>
+  <entry xml:id="brosc" xml:id="brosc">
+    <pb n="43" end_page="43" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*broščь</orth>
+      <lemma>brosci</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">польск. стар, <ref>broszcz</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>обшитый подол женского платья . сюда же, возм</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 209)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брощи</ref>, род. п. -ей, мн.</orth>
+        </form>
+        <sense>
+          <def>крылья</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(В саду ли ластуша шевелить брощами. Орл., Фи­ лин 3, 200)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Темное слово, ускользнувшее от внимания этимологов (отсут­
+ствует в польск. и русск. этимол. словарях). Может быть древ­
+ним образованием, ср. изолированный характер двух 
+ареалов 
+употребления и архаический способ словообразования 
+у'-овый 
+суффикс. Дальнейший словообразовательно-этимол. анализ (*brot-
+sk-? *brok-sk-?) 
+пока 
+затруднителен.</note>
+  </entry>
+</entries>

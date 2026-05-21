@@ -1,0 +1,114 @@
+<Entry xml:id="dobica">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbica</orth>
+    <lemma>dǫbica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъбйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дуб (одно дерево)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дабйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дуб средней величины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дубица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 771)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dubice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовая роща, дубняк, дубок, дубильная кора , елвц. dubica ж. р. вода, в которой вымачивали дубовую кору</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 495)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 339)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dubica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубочек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dgbaica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сад, дубовая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 54, с реконструкцией *dgbica)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дубйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая лодка, выдолбленная из цельного бревна, колоды . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., ленингр., Филин 8, 236)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХбичищ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>деревце из породы дуба . Ср. еще, с велярным вариантом суфф. Аса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Алекс. Мак., Срезнев­ ский I, 739)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дъбйкъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовый лес (с. Корница, Благоевградско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="dgbb">*dgbb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,68 @@
+<Entry xml:id="cirbjb-2">
+  <pb n="117" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cirbjb</orth>
+    <lemma>cirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чйрШ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чирей, также щир$й , цйрей м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. редк. <ref>ciraj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чирей, нарыв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA II, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ciraj</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Црес, М. Ten- tor. — 1Ф V, 1925—1926, 204; он же. Leksicka slaganja. «Raz- prave» I, 1950, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ciraj</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чирей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 104; Megiser Dictionarium 1744)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чирей</ref>, род. п. -ъя, м. р.</orth>
+      </form>
+      <sense>
+        <def>гнойный нарыв, фурункул</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь/ь от<ref type="etymon" target="s1g-2">*с1гъ</ref> (см.; там же этимология).</gram>
+  </gramGrp>
+</Entry>

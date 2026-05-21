@@ -1,0 +1,128 @@
+<entries>
+  <entry xml:id="briditise" xml:id="briditise">
+    <pb n="26" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*briditi (sę)</orth>
+      <lemma>briditi (sg)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>briditi</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>точить, острить , brditi то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 61)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 53)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>briditi</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бушевать, пугать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>bfidif</ref> se</orth>
+        </form>
+        <sense>
+          <def>брезговать, испытывать отвращение, пугаться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartos Slov. 26)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">польск. стар, <ref>brzydzid</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вызывать отвращение</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. «I, 698)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брйдйть</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>чувствовать зуд от мел­ кого сора или от насекомых на теле , бредит, безл. щекочет, свербит</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Доп. к Опыту 13)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек., твер., Доп. к Опыту 12)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>брыдити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вызывать отвращение , бридитися чувствовать отвращение</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 145)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Тимченко 1, 140)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брйдити</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вну­ шать отвращение, отвращать, брезгать, чувствовать отвращение, гнушаться , бридитися брезгать, чувствовать отвращение, гнушаться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 97)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брйдзицъца</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>иметь от­ вращение</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 34)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-Ш</ref>
+        </m>, производный от основы прилаг. <ref type="etymon" target="brid-">*brid-</ref> (см. *&amp;тчйъ/гь).</gram>
+    </gramGrp>
+    <note>Относительно своеобразного 
+семаитич. 
+развития в польск. слове 
+см. Otrqbski. Zycie wyrazow w jqzyku polskim 263.</note>
+  </entry>
+</entries>

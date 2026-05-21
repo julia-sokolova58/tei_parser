@@ -1,0 +1,39 @@
+<Entry xml:id="gqdati">
+  <pb n="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqdati</orth>
+    <lemma>gqdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гудати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, играть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 736—737; RJA III, 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Jmdati то же, диал. hudat 'говорить глупости' (Hodura. Litomysl. 46), слвц. hudaf 'гудеть, играть' (Kalal 189), диал. hudac то же (Buffa. Dlha Luka 156), польск. стар, gqdad то же (Warsz. I, 812), русск. диал. гудатъ 'гудеть' (смол.), 'играть на каком-либо музыкальном инструменте' (смол.), 'скверно петь; горланить' (сев.-двинск.), 'кричать, спорить' (смол.) (Филин 7, 200), гудатъ 'шуметь, жужжать, течь' (Диттель. Сбор­ ник рязанских областных слов. — ЖСт. VIII, 1898, 210).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> 
+(первонач. 
+итератив-дуратив), 
+соотносительный 
+с <ref type="etymon" target="ggdeti">*ggdeti</ref> 
+(см.) и <ref type="etymon" target="gqsti">*gqsti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

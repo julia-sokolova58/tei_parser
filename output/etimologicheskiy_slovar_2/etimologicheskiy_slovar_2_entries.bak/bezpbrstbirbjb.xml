@@ -1,0 +1,26 @@
+<Entry xml:id="bezpbrstbirbjb">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezpbrstbirbjb</orth>
+    <lemma>bezpbrstbirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjezporstny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беспалый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 24)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возможно префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-83">*bez</ref> (см.) и суфф. -ъп- от основы имени */?ъг^ъ (см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, непроизводную основу<xr type="compare">см. <ref type="etymon" target="bezpbrsfojb">*bezpbrsfojb</ref>
+    </xr>.</note>
+</Entry>

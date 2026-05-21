@@ -1,0 +1,224 @@
+<Entry xml:id="desnodeslodesna">
+  <pb n="26" end_page="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dęsno/*dęslo, *dęsna</orth>
+    <lemma>dęsno/*dęslo, *dęsna</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>d§slo</orth>
+    <lemma>d§slo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dgsna</orth>
+    <lemma>dgsna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>десна</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>десна (BTJP)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>desna</ref> ж. p., мн. desni</orth>
+      </form>
+      <sense>
+        <def>десна, десны , также дёсно ср. р. , сюда же desli мн. десны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 355—356; РСА IV, 238)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вслед за Буком, RJA II, 360: черногорск.; РСА IV, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>desne</ref> мн. ж. р.</orth>
+      </form>
+      <sense>
+        <def>десны , сюда же dlesna ж. р. десна , также dldsna ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="old">стар. <ref>da</ref>\ne</orth>
+      </form>
+      <sense>
+        <def>десны , lesna ср. р. мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gutsmann 495)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ddsno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>десна (Ст.-чеш., Прага), также ddsn, ddsen ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 208; Ст.-чеш., Прага: ddsn, род. п. -i, ж. p. 'pallatum, gingiva, faux'.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ddsen</ref>, род. п. -sue, ж. р., мн. ddsne</orth>
+      </form>
+      <sense>
+        <def>десна, десны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ddsno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>десна , ddsna, ddsno то же , dzlsno , jasno</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 171)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 75: опав.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>asno ср. р.,мн. dasnd десна, десны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzasna</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>полотно пилы (между зубьями) , dzasno ср. р. нёбо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zesno</ref> ср. р., обычно мн. zesna</orth>
+      </form>
+      <sense>
+        <def>десна, нёбо, челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. П, 1188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>gsnd ср. р. мн. дёсны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 59, с реконструкцией *d$sna)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziqsto</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>десна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>десна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мышечная ткань, покрывающая корни зубов</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>десно</ref> ср. р., мн. десна</orth>
+      </form>
+      <sense>
+        <def>десна , дяслы дёсны , десла десна (Картотека Псковского областного словаря), сюда же преобразованное десъма ж. р. десна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской области 134)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(До­ бровольский 207)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулин- ский словарь 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзясна</ref> ж. р., мн. дзясны</orth>
+      </form>
+      <sense>
+        <def>десна.— Ср„ сюда же, далее</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>диаи</ref>. ясна мн.</orth>
+      </form>
+      <sense>
+        <def>десны , также ясла мн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Камен. у., Черк. у., Гринченко IV, 544)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>О словен. dlesna см. специально Bezlaj. Etim. slovar sloven, jez. I, 104 (допускает контаминацию *d$slo и *d$sna). Производное с суфф. -5/г-, -si- (если последний — не из -sn- в результате диссимиляции с предшествующим носовым, см. ниже) от и.-е. названия зуба *(e)dent~, ср. лат. dens, род. п. dentis, лит. dantls. См. Berneker I, 190; Фасмер I, [506; Machek 3 111 (с остроумной, но недоказуемой гипотезой о -sna &lt; * [ток]sna 'сумка' по аналогии др.-прусск. dantimax 'десна').</note>
+</Entry>

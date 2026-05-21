@@ -1,0 +1,94 @@
+<Entry xml:id="golobordj">
+  <pb n="210" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golobordъ(jь)</orth>
+    <lemma>golobordъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голобрад</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>голобородый, безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голобрад</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голобрад</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безбородый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golobrad</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holobrady</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>голобородый , безбородый , елвц. holobrady, прилаг. голоборо­ дый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 718)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 455)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>golobrody</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>голобородый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бреющий бороду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. каб. кн., 346. 1596 г., СлРЯ X I - X V I I вв. 4, 62)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прил-ных<ref type="etymon" target="gofo-2">*gofo</ref> 
+(см.) и <ref type="etymon" target="oy">*ЬоЫъ</ref> (об архаичности 
+последнего см. выше, на <ref type="etymon" target="bez">*bez</ref> и 
+<ref type="etymon" target="bezbordb">*bezbordb)</ref>.</gram>
+  </gramGrp>
+</Entry>

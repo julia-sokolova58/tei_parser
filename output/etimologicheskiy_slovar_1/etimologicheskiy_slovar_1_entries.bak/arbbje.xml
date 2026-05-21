@@ -1,0 +1,22 @@
+<Entry xml:id="arbbje">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ar§bbje</orth>
+    <lemma>ar§bbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (редк.) <ref>jefabi</ref>, fefdbi ср. р.</orth>
+      </form>
+      <sense>
+        <def>заросли, кусты рябины</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф.<m type="suffix">
+        <ref>-bje</ref>
+      </m> от <ref type="etymon" target="age-2">*агеЪъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

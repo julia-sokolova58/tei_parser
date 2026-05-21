@@ -1,0 +1,80 @@
+<Entry xml:id="bdriti">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bъdriti</orth>
+    <lemma>bъdriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бодри</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ободрять, подбадривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>badriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодрствовать, vigilare , ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в соврем, диалектах Истрии: Ne znam ako badris ill spavas ' . . . бодрствуешь или спишь'; R J A I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>славонск</ref>.) батрити</orth>
+      </form>
+      <sense>
+        <def>ободрять, animare</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бъдрити</ref>, бодрити</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бодрити помошьнгщи. Иос. Флав. В. I, Срезневский I, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бодрить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ободрять, придавать бойкости, духа, молодечества, осанки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бодрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выпрямляться, бодриться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), производный от прилаг. <ref type="etymon" target="bbdn">*bbdn</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

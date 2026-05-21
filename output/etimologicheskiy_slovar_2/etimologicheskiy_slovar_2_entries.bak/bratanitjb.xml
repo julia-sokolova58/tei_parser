@@ -1,0 +1,55 @@
+<Entry xml:id="bratanitjb">
+  <pb n="236" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratanitjb</orth>
+    <lemma>bratanitjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>Бока</ref>) братаниК м. p.</orth>
+      </form>
+      <sense>
+        <def>fratris filius sorori, племянник, сын брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 112 также с вар. брата­ ниК, братаниК м. р. то же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>братаничъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>filius fratris, сын брата , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Переясл. л. под 986 г., Срезневский I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братаничъ</ref> м. р. то же Ак. ЗР. I, 77 — 1459 г. и мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(др., Тим­ ченко I, 133; Бшецький-Носенко. Словник украшсько!' мови 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>братанич</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с патронимич. суфф.<m type="suffix">
+        <ref>-itjb</ref>
+      </m> 
+от <ref type="etymon" target="gaap">* ЪгаЬапъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

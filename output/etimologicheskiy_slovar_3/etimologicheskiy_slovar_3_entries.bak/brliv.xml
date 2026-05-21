@@ -1,0 +1,69 @@
+<entries>
+  <entry xml:id="brliv" xml:id="brliv">
+    <pb n="168" end_page="169" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrlivъ</orth>
+      <lemma>Ь Ь Г Н У Ъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бърлйв</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>зловредный, больной вертячкой (об овце) (Георгиев)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>барлйв</ref> то же (Георгиев), бърлйв</orth>
+        </form>
+        <sense>
+          <def>боль­ ной вертячкой (об овце) (Архив Болг. диал. словаря, София), бърлйф, прилаг. нетерпеливый, вспыльчивый, сердитый, неспо­ койный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И. Кънчев. Пирдопско. — Б Д IV, 92)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брлив</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бо­ леющий вертячкой, глуповатый, придурковатый , сербо­ хорв. brfiv, прилаг. больной вертячкой , брл&gt;ив больной вертячкой, смущенный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 663)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PGA II, 189)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brljiv</ref>, -lua, прилаг.</orth>
+        </form>
+        <sense>
+          <def>косой, косоглазый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 64)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>I 
+Прилаг., производное с суфф. ниъ 
+от <ref type="etymon" target="g1sh">*Ьъг1Ш</ref> (см.), соотноси­
+тельное с <ref type="etymon" target="ggai">*ЬъгГаиъ</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Сюда же, возм., относятся и такие вто­
+рично видоизмененные формы, как русск. 
+бурливый.</note>
+  </entry>
+</entries>

@@ -1,0 +1,88 @@
+<Entry xml:id="se1ka">
+  <pb n="50" end_page="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1ъка</orth>
+    <lemma>се1ъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёлка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(сорванная) кисть винограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>че</ref>\ъкА ж. p.</orth>
+      </form>
+      <sense>
+        <def>tonsio quae fit in fronte</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(кормчая Михановича 1262 г., Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>челка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чолка, кисть на знамени, бунчук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1169 г., Срезневский III, 1487)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чблка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прядь гривы, чуб у лошади между ушами, на лбу, прическа (у женщин, детей)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чёлка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>украшение спереди девичьего праздничного головного убора бисером, бусами или жемчугом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чгвка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хохол, во­ лосы спереди головы ^, диал, ч1вца, цЧупа разделенные пряди волос, плотно прилизанные по обе стороны лба в праздничной девичьей прическе , ч\ука верх снопа, свекольная ботва, волосы , чилка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 465)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Б. В. Кобилянський. Де- яш схщнокарпатсыа арха!зми та юторизми украшсько! мови.— «Мовознавство» 1967, № 6, 54)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 472)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби 12)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="celo">*celo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

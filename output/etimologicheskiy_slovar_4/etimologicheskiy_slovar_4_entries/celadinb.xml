@@ -1,0 +1,163 @@
+<Entry xml:id="celadinb">
+  <pb n="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cel'adinb</orth>
+    <lemma>cel'adinb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>челгадинъ</ref> м. p. avSpdiroSov mancipium</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP 1112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ce</ref>\adin м. p.</orth>
+      </form>
+      <sense>
+        <def>челядин, один из челяди, рода, домочадцев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII по XV11I в., RJA I, 932)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celedin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>слуга (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celedin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домашний работник, слуга, ср. и притяж. прилаг. celedin, -а, -о при­ надлежащий челяди, семье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>celedin</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вольный работник, слуга, холостой сын</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ceVadin</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>работник, слуга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>celedzin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>слуга, посыльный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>celazin</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>челядин, работ­ ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>czeladzin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домашний работник , также (стар.) czaladzin м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 381; Dorosz. 1, 1120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 368)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>челАдинъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раб , сюда же прилаг. челАдиныи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 911 г. и др., Срезневский III, 1496—1497)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>челядин</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взрослый сын, взрослая дочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>челядин</ref>, челядш</orth>
+      </form>
+      <sense>
+        <def>взрослый сын, серь­ езный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диалектной лексики север­ ной Житомирщины. — «Славянская лексикография и лексикология» 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>челядзйн</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челядинец, домашний человек , чалядзш м. р. челядинец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов, 696)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. чпъ от<ref type="etymon" target="ceVadb">*ceVadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

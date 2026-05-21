@@ -1,0 +1,121 @@
+<Entry xml:id="ezevina">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*eževina</orth>
+    <lemma>eževina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ежовйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежовые иглы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёжовина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежовая шкура , сер­ бохорв. jezevina ж. р., название растения =kostrika , ср. еще ezevina ж. р. ежевика Rubus fruticosus L. , je- жевина, )ёжевина ж. р. ежовая шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 156)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 649)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стулли, Шулек; RJA HI, 38: указывает на недостоверность формы)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 689)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ježevina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шкурка ежа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezovina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 629)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ежевика</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ежовое гнездо, ежо­ вйна ежовое мясо, сало, употр. как снадобье, ежовая шкура с иглами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>жавты</ref> ж. р. мн.</orth>
+      </form>
+      <sense>
+        <def>ежевика (ягоды) , жевйны , .диал. ажавгна ж. р. ежевика , жавгна ж. р. «</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 100; Гарэцш 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Носов. 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Юрчанка, Мсщсл. 82; Матэрыялы для дыялектнага слоунша Го- :мелыпчыны 137)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="ezevb-2">*ezevb</ref> (см.); субстантива-
+ЩИ5Я последнего. 
+"<ref type="etymon" target="ezevbjb">*ezevb(jb)</ref>: болг. (Геров) ежевый, прилаг. 'ежовый', макед, 
+ежов, 
+прилаг. 'ежовый' (Кон.), сербохорв. }ёжевл 
+-а, -о то же, ]ёжев 
+(РСА VIII, 689), словен. jezev, 
+прилаг. 'ежовый' (Plet. I, 372), 
+чеш. jezovy 
+'ежовый' (Kott I, 629), н.-луж. jeiowy 
+'ежовый' 
+((Muka St. I, 553), польск. jezowy 'ежовый' (Warsz. II, 175), сло-
+вин. 
+jezigvl, 
+прилаг. 'ежовый' 
+(Lorentz 
+Slovinz. Wb. I, 393), 
+1287^'
+ 
+е ж °
+в ы й
+ 
+? к 
+е
+ж У относящийся, из него сделанный' (Даль
+31, 
+Притяж. прилаг., производное с суфф. -ovb от <ref type="etymon" target="e1-2">*е1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

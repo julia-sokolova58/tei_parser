@@ -1,0 +1,78 @@
+<Entry xml:id="cbrtiti">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrtiti</orth>
+    <lemma>cbrtiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cftiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>obtestari, заклинать, божиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 850)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cftiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>корчевать, царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. 6rtW</orth>
+      </form>
+      <sense>
+        <def>грызть, сверлить (напр. как древесный жук) , crtif (sa) перечить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zoch 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чертить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проводить черты на чем-н., по чему-н</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарцщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чертить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="bna-2">*бьНа</ref> (см.).</gram>
+  </gramGrp>
+  <note>При этом семантически явно выпадают сербохорв. ('заклинать') и слвц. ('перечить'), кот. как будто требукУг соотнесения с именем<xr type="compare">см. <ref type="etymon" target="sn">*сьНъ</ref>
+    </xr>, но в ко­
+нечном счете здесь решает этимология слова *съНъ, кот. может 
+быть этимологически тождественно слову <xr type="compare">см. <ref type="etymon" target="sna">*съНа</ref>
+    </xr>. Нельзя 
+также абсолютно исключать возможность прямого развития знач. 
+'заклинать, божиться' &lt; 'проводить черты'.</note>
+</Entry>

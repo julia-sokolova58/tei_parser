@@ -1,0 +1,31 @@
+<Entry xml:id="brusina">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusina</orth>
+    <lemma>brusina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brusina</ref> ж. р., увелич. от bras , брусына ж. р., увелич. от брус, также в знач.</orth>
+      </form>
+      <sense>
+        <def>камень, идущий на точильные бруски Argilla coticula , фам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бук, R J A I, 686)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА 11,219)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Брусина (там же), словен. brusina ж. р. 'корытце, в котором вращается круглый точильный камень', 'опилки' (Plet. I, 67), чеш. brusina ж. р. 'ягода, плод брусники', укр. брусйни ж. р. мн. 'вода из-под точильного камня' (Гринченко I, 102).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от основы brus-(см. 
+<ref type="etymon" target="brusb-2">*brusb</ref>, 
+<ref type="etymon" target="brusiti-3">*brusiti)</ref>.</gram>
+  </gramGrp>
+</Entry>

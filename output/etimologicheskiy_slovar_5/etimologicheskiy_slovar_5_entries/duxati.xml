@@ -1,0 +1,166 @@
+<Entry xml:id="duxati">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxati</orth>
+    <lemma>duxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>доух</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Дги dvarcveTv, respirare, cpuaav, spirare дышать,, дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>духам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, также Геров, Дювернуа)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дуа</ref>, дува</orth>
+      </form>
+      <sense>
+        <def>дует , дуъм дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюр­ джинско.— БД VI, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дува</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>духати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, дышать злобой на кого-либо, дувати то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 782)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нюхать, вдыхать, обонять, дышать,, дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>doachati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duchati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать , duchac разду­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubfn. Cech. klad. 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duchaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>duchac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздувать, дуть ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 577)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>dtfxamu</ref>, dtfuitf</orth>
+      </form>
+      <sense>
+        <def>дышать , духати, дХхаю дышать; жить, быть в живых</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в.,. Срезневский I, 746)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., 255, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>духати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть, веять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шепет1в., Курило 70)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="dux">*duxъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,118 @@
+<Entry xml:id="esknina">
+  <pb n="50" end_page="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsknina</orth>
+    <lemma>ĕsknina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Ленина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясное небо , яснина ж. р. ясная погода, ясное небо, просвет в облаках</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа; Геров: мснина)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йаснина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясная погода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacnuna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясная погода, яркость (света)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>jasnlna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII, XVIII вв., RJA IV, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jasnina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Piet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>jasnina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>шьнина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ясная погода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Фом. Дерф. Мин. чет. июн. 231, Срезневский III, 1667)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яснина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>качество ясного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1584)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>яснина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свет от огня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем. 488, см. Гринченко IV, 544)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="esknb-3">*esknb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,113 @@
+<Entry xml:id="bocitis">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bociti (s^)</orth>
+    <lemma>bociti (s^)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бочити</ref> се</orth>
+      </form>
+      <sense>
+        <def>браниться, пререкаться, rixo, бочити делать выпуклым, выгибать дугой, толкать в бок, бочити се выделяться своей величиной, прислоняться боком, упираться локтями в бока, подходить боком, готовясь к бою, пыжиться, драться, бороться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA II, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bociti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать выпуклым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bociti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сторониться, обхо­ дить стороной, избегать встречи с кем-либо, сталкиваться, при­ ходить в столкновение, упираться, противодействовать, bociti se сопротивляться, действовать назло, опираться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>boeifsa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хмуриться, смотреть косо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kasik. Stfedobecev. 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bocic</ref> se</orth>
+      </form>
+      <sense>
+        <def>смотреть косо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bocic</ref> so</orth>
+      </form>
+      <sense>
+        <def>хмуриться, смотреть сердито</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>boczyc</ref> si^ то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бочйтъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клониться, склоняться на бок, ставить руки в боки, принимать важный вид, осанку, чваниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 296—297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бочити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сбочивать, ехать в сторону, смотреть в сторону , бочйтъся косо, неприяз­ ненно смотреть, сердиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 90)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Каузативный гл. на ~Ш, производный от<ref type="etymon" target="ok-2">*Ьокъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

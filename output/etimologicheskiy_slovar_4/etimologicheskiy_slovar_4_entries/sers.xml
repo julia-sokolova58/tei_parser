@@ -1,0 +1,159 @@
+<Entry xml:id="sers">
+  <pb n="58" end_page="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серьсь</orth>
+    <lemma>серьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёпац</ref>, род. п. -пца, м. р.</orth>
+      </form>
+      <sense>
+        <def>(женский) чепец</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>серее</ref>, род. п. -pcat м. р.</orth>
+      </form>
+      <sense>
+        <def>чепец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>серее</ref>, род. п. -рее, м. р.</orth>
+      </form>
+      <sense>
+        <def>чепец, чепчик, часть желудка жвачных</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>серее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обух (топора), чепец (замужней женщины)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(rlruska. Slov. chod, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cepiec</ref>, род. н. -pea, м. р.</orth>
+      </form>
+      <sense>
+        <def>чепец, часть желудка жвачных , также cepiec , capiec</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сере</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>женский чепец, часть желудка жвачных</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pl'uhl 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>соре</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>сере</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дамский чэнец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чепьць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>головной убор, головное покрывало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дуб. сб. XVI в., Срезневский Ш, 14d9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чепец</ref>, род. п. -пца, м. р.</orth>
+      </form>
+      <sense>
+        <def>головной женский убор в виде закры­ вающего волосы шитого или вязаного чехла, иногда с завязками под подбородком</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чепец</ref>, род. п. -пца, м. р.</orth>
+      </form>
+      <sense>
+        <def>повойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Опыт 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чепёцъ</ref>, род. п. -пця, м. р.</orth>
+      </form>
+      <sense>
+        <def>чепец, сетка, связанная из снуркоз на голозе у замужних мещанок, второй желудок жвачных (Вх.), сальник (Харьк. у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чапёц</ref>, род. п. чапца, м, р.</orth>
+      </form>
+      <sense>
+        <def>чепец, Не связано с лат. сарра головной убор, плащ . См. о лат., роман, слове Walde-Hofm. I, 162; Meyer-Liibke</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вопреки Mikl. 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Roman, etym. Wb. 154—155. Точно так же маловероятны сближения с несомненно заимствованным польск. czapka 'шапка, шляпа' (Bruckner 75—76).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m>, 
+соотносительное с <ref type="etymon" target="serak">*серакъ</ref> 
+(см.; 
+ср. там укр. чепак 'чепец'!), от звукоподражат. основы, пред­
+ставленной в <ref type="etymon" target="ser">*серъ</ref> 
+(см.) и далее — в <ref type="etymon" target="capati-4">*capati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Знач. 'го­ ловной убор', по-видимому, непервоначально, исходным было более широкое, экспрессивное знач., ср. из терминологии мо­ лотильного цепа — русск. тяпец, цепёц 'короткая палка цепа, било' (Даль 2 IV, 579). Поскольку слав. *серъсъ и лит. керйгё представляют со­ бой продукт совершенно особых, не связанных словообразова­ тельных процессов, не представляет большого интереса их этимол. сближение, принимаемое многими авторами (Berneker I, 144; Г. Ильинский РФВ LXXIV, 1915, 123—125; S'awski I, 117, с оговорками; К. Moszyriski JP XXXIII, 1953, 350—351; Фасмер IV, 333; Fraenkel I, 241).</note>
+</Entry>

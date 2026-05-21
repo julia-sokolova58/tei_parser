@@ -1,0 +1,69 @@
+<Entry xml:id="n">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬНъ</orth>
+    <lemma>ЬНъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bit</ref> м. p.=bat, bet</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bit</ref> и. p.</orth>
+      </form>
+      <sense>
+        <def>жердь, перекладина, рея</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bit</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>удар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 126; Kott I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>биты</ref>. p.</orth>
+      </form>
+      <sense>
+        <def>драка . — Сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(черном., Гринченко I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bltek</ref>, род. под. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>удар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>биток</ref>, род. пад. -тка.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное производное от<ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

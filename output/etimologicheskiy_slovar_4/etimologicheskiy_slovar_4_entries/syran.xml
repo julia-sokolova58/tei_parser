@@ -1,0 +1,207 @@
+<Entry xml:id="syran">
+  <pb n="158" end_page="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сыраН</orth>
+    <lemma>сыраН</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Ч</ref> ^ А П Л Т И haurire</orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёрпя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>угощать, потчевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: цръпамь 'черпать')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёрпа9</ref> черпавам</orth>
+      </form>
+      <sense>
+        <def>угощать (напитками, сладостями) , чёрпъ угощать , чёрпя черпать, наливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 190; И. Кънчев Пирдопско БД IV. 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 614)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црпи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать, угощать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>црпати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать , также цр- псти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бук; RJA: с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crpdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать, качать (насосом), выгребать, вы­ черпывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>crpati</ref> haurire</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(2altaf Podeb- radsky, 1396, Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cerpati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сег</ref>- pat</orth>
+      </form>
+      <sense>
+        <def>то же , crpaf</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 200)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>сеграб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чер­ пать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>съеграс</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать, набирать (воды и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чърпати</ref>, чрьпатщ черпати</orth>
+      </form>
+      <sense>
+        <def>черпать , наливать, уго­ щать (с дат. пад., Кир. Тур. Поел. Вас.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. II. 16 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черпать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доставая из глубины, снизу, набирать, захваты­ вать, добывать какую-н. часть какой-н. массы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>черпать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наливать , чарэпатъ черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тобол., Опыт 257)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Растор­ гуев. Словарь народных говоров Зап. Брянщины, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чер</ref>­ пати</orth>
+      </form>
+      <sense>
+        <def>черпать , также чарпати</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 459)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чэрпаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Этимологически тождественно -<xr type="compare">см. <ref type="etymon" target="eerpti">*eerpti</ref>
+    </xr>, в отношении кото­
+рого *съграИ представляет собой имперфективирующую тематиза-
+цию на -a-ti, но, в отличие от <xr type="compare">см. <ref type="etymon" target="eerpati">*eerpati</ref>
+    </xr>, оно обобщило сту­
+пень вокализма, представленную первоначально в наст. вр.</note>
+</Entry>

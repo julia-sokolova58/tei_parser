@@ -1,0 +1,39 @@
+<Entry xml:id="abrdb-2">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abr§db</orth>
+    <lemma>abr§db</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jdbraf</ref> ж. р. собир.</orth>
+      </form>
+      <sense>
+        <def>сережки, цвет (на дереве)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 924)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>jabrzqdz</ref>, род. -fdzia м. р.</orth>
+      </form>
+      <sense>
+        <def>вид*тополя , jabrzfdz, род. -а м. р. то же , jawrz$c ж. р. тополь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 121)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 148)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Основа на -i- ж. р., в остальном этимологически и словообра­ зовательно тождественная<xr type="compare">см. <ref type="etymon" target="abrdb-2">*abr$db</ref>
+    </xr>.</note>
+</Entry>

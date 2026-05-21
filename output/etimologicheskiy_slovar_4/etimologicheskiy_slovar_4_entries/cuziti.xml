@@ -1,0 +1,53 @@
+<Entry xml:id="cuziti">
+  <pb n="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuziti</orth>
+    <lemma>cuziti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuzati</orth>
+    <lemma>cuzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cMiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти по земле (только о птицах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Suziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обдирать (напр. кукурузу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 118; Erjavec LMS 1879, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czuzgad</ref> siq</orth>
+      </form>
+      <sense>
+        <def>сколь­ зить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 406)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вероятно звукоподражат. происхождение.</note>
+  <gramGrp>
+    <gram>Сравнение с близким звукоподражанием — лит. ciauzti 'скользить<ref type="etymon" target="sm">* см</ref>.</gram>
+  </gramGrp>
+  <note>Л, В. Куркина «Этимология. 1971» (М., 1973) 92.</note>
+</Entry>

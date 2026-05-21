@@ -1,0 +1,249 @@
+<Entry xml:id="gupo-2">
+  <pb n="72" end_page="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬГЬУЬПО</orth>
+    <lemma>ЬГЬУЬПО</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬГЬУЬПЪ</orth>
+    <lemma>ЬГЬУЬПЪ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬгьуьпаИ</orth>
+    <lemma>ЬгьуьпаИ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>B</ref>^KANO, ср. p. 8ox6s, trabs</orth>
+      </form>
+      <sense>
+        <def>бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS, Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръвнб</ref>, бървен</orth>
+      </form>
+      <sense>
+        <def>бревно (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бървен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, утолщение нити (Банско, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брвно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, мостик, брус, тес, межа, край</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 133—134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брвно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поросшая травой межа, граница , брно ср. р. брус, ограда , брна ж. р. ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 32, 225)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 191)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brvno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно , bruno ср. р. то же , brven, род. п. -vna м. р. то же , brun бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 67)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jarnik 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfevno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfevno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, большой деревянный засов у дверей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brveno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кусок дерева, полено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brvno</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, брус (отесанный)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bierwiono</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно , также bierzwiono, bierzmo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>birzwno</ref>, bierzwno</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бръвъно</ref>, бръвъно, бревъно 8ох6с, trabs</orth>
+      </form>
+      <sense>
+        <def>бревно , бервъно, беревъно то же , бъръвъно , ср. еще бръвъно pXecpapov, palpebra вежда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев., Срезневский I, 184)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев., Срезневский I, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ман. хр., Срезневский I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бревно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>круглый, очищенный от ветвей и сучьев ствол дерева, бервно бревно , бервенб ср. р. бревно , бернб бревно в срубе , бернб ср. р. бревно , беревенб ср. р. бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Труды М Д К . Тамб., Р Ф В L X V I , 1911, 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Е. Будде. Ряз. Р Ф В X X V I I I , 1892, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материалы «Смо­ ленского словаря» 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>брёвня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>островной мыс, раздвояющий тече- ние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бервено</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бревно, балка , бервно то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кн. Гродск. Луцк. 1547 г. и др., Тимченко I, 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бервено</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, колода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бервянб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, также бернб ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 25)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ыг- (судя по наличию форм всех трех родов — первоначальное прилаг.) от<ref type="etymon" target="gr">*ЬГЪРЪ</ref> 
+(см.). Между иссле­
+дователями возникали споры относительно древней реконструк­
+ции — праслав. <ref type="etymon" target="gipo">*Ьгъиъпо</ref> или <ref type="etymon" target="gipo-2">*Ьъгиъпо</ref> (см.</gram>
+  </gramGrp>
+  <note>Berneker I, 92; J. Roz- wadowski RS I, 1908, 251; Г. А. Ильинский Р Ф В LXV, 1911, 221—225; Фасмер I, 209), однако вполне приемлемой, а в свете внешнего и.-е. родства даже предпочтительной представляется реконструкция *Ьгъиъпо. Множество вариантов в слав, языках и диалектах появилось вследствие падения редуцированных и вторичной вокализации новых сочетаний с плавным.</note>
+</Entry>

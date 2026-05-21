@@ -1,0 +1,81 @@
+<Entry xml:id="dola-2">
+  <pb n="62" end_page="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dol’a</orth>
+    <lemma>dol’a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dole</ref> ж. p.: s doli</orth>
+      </form>
+      <sense>
+        <def>счастливо, успешно, s doVu то же (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Alexandreida, 1419 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dola</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>судьба, доля, удел, доля, часть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>долы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть , , участь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грам. Влад. 1387 г.; Псков, суд. грам.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Зл. Цеп. д. 1400 г. Сл. христ.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 697)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>часть чего-либо, участь, судьба</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>участь, удел, жребий, судьба, счастливая судьба, рас­ тение Sempervivum globiferum L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 418)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>доля</ref> ж, р.</orth>
+      </form>
+      <sense>
+        <def>судьба, часть, доля</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Родственно лит. dalia 'часть, участь, судьба, счастье', лтш. da\a 'часть, доля', далее — др.-инд. dalam 'кусок, часть, половина', ddlati 'трескаться, лопаться', лат. dolare 'обрабатывать, отесывать'.</note>
+  <gramGrp>
+    <gram>Вероятная отглагольность имени со знач. 'доля, часть' контрасти­ рует с действительным положением в слав., где исходный гл. отсутствует (о генезисе слав.<ref type="etymon" target="doliti">*doliti</ref> см. выше).</gram>
+  </gramGrp>
+  <note>Глаг.-именная пара в балт. — лит. dalia, dalls— dalyti 'делить' — может быть в свете изложенного понята как инновационная. См. Berneker 1, 209; К. Буга РФВ LXX, 1913, 104; Fraen- kel I, 81; Фасмер I, 526.</note>
+</Entry>

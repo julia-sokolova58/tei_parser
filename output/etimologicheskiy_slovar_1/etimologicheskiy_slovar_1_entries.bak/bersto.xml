@@ -1,0 +1,51 @@
+<Entry xml:id="bersto">
+  <pb n="197" end_page="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bersto</orth>
+    <lemma>bersto</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бересто</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>березовая кора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кир. Тур., Срезнев­ ский I, 70; гр. берест. № 27, X I V в., Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>берёсто</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береста , бересто ср. р. береста , бёрёстб ср. р. береста, письмо, бу­ мага</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 257)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Словообразовательно-морфологический вариант ср. р. к форме ж. p .<xr type="compare">см. <ref type="etymon" target="bersta">*bersta</ref>
+    </xr>. Наличие этимологически тождественных форм 
+всех трех родов *bersta — *bersto — <xr type="compare">см. <ref type="etymon" target="ey">*ЬеЫъ</ref>
+    </xr> представляется 
+ясным 
+отражением 
+первонач. 
+адъективного 
+характера 
+данного 
+образования.
+bersti*</note>
+</Entry>

@@ -1,0 +1,38 @@
+<Entry xml:id="syor-2">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сёрь</orth>
+    <lemma>сёрь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ц</ref>%пъ , ж. р.</orth>
+      </form>
+      <sense>
+        <def>цепь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чепъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цепь : Гр. берест, (новг.) № 138, вт. пол. XIII в., дух грам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1419 г. и др., Срезневский III, 1499; Картотека СДР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ив. Калиты, 1327—1328 гг.), русск. цепь ж. р. 'ряд соединен­ ных между собой металлических звеньев, употр. как канат или веревка для связи, подъема и т. п.', диал. чепъ гцепь' ( Д а л ь IV, 1306), цёпля ж. р . 'цепь' (ворон., Опыт 253), блр. цэп ж. р . 'цепь' (Носов. 693).</note>
+  <gramGrp>
+    <gram>Обратное производное от гл.<ref type="etymon" target="syorsh">*сёрШ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Возможно относи­ тельно позднее новообразование.</note>
+</Entry>

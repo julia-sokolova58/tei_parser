@@ -1,0 +1,72 @@
+<Entry xml:id="godez">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*godežь</orth>
+    <lemma>godežь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>годёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обручение, помолвка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>годёш</ref>, -жа, м. р. , гбдеш м. р.</orth>
+      </form>
+      <sense>
+        <def>угощение при помолвке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 76; Стой­ чев БД II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>годеж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обручение, помолвка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>годеж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сговор, сделка; помолвка . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III. 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>годёжник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сват, годёжница ж. р. сваха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-егъ</ref>
+      </m> (имя действия) от гл. <ref type="etymon" target="goditi-2">*goditi</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,93 @@
+<Entry xml:id="bezdbbnica">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbbnica</orth>
+    <lemma>bezdbbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Безданща</ref>, Безденица, топонимы</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Й. Зашчюв. Заселване на българските славяни на Балканския полуостров. София, 1967, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezadnica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>abyssus, бездон­ ная яма, bezdanica ж. р. бездна, также в топонимии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 262, 267)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болото , beznica ж. р. яма для картофеля, репы и т. д., жалкая лачуга, тем­ ница , bednica ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bezed</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>nica ж. р. колодец, о котором рассказывали, что он не имеет дна . Ср., далее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бездбнница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>непроходимое болото, покрытое болот­ ной растительностью (арх.), сбездна, пропасть (пек.), растение Cacalia hastata L.; растение сем. зонтичных (арх.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяздбпнща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бездна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от основы <ref type="etymon" target="bezd-2">*bezd</ref>^n- 
+(см. 
+<ref type="etymon" target="bezd-3">*bezd</ref>^na 
+и др.)» в сущности — субстантивация 
+некогда 
+адъективного 
+<ref type="etymon" target="bezd-4">*bezd</ref>^nb, 
+<ref type="etymon" target="bezdbbna">*bezdbbna</ref>, 
+<ref type="etymon" target="bezdbbno">*bezdbbno</ref>.</gram>
+  </gramGrp>
+  <note>О словен. формах аналогично (без упоминания прочих слав, соответствий) — Bezlaj. Etim. slovar (рукопись, Любляна).</note>
+</Entry>

@@ -1,0 +1,39 @@
+<Entry xml:id="cbvanitis">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbvaniti s§</orth>
+    <lemma>cbvaniti s§</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чваниться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спесивиться, зазнаваться, гордиться, надмеваться чем-либо, тщеславиться, требуя признания за собою каких-либо особых достоинств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чванитися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чваниться, важничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 448)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="biap">*бьиапъ</ref> I (см.).</gram>
+  </gramGrp>
+</Entry>

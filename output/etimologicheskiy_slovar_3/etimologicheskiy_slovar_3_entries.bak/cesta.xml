@@ -1,0 +1,96 @@
+<Entry xml:id="cesta">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesta</orth>
+    <lemma>cesta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>цЪста</ref> ж. p. тгХатеТа, platea</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>зап</ref>.) цёста ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="old">стар. <ref>ze</ref>\t м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jarnik 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cesta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cesta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 163—164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>cesta</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дорога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. gw. polsk. I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪста</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дорога, улица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Апок. XIV в., Срез­ невский III, 1466)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Старый регионализм со знач. 'дорога', охватывающий лишь часть слав, языков (сербохорв., словен., чеш., слвц., польск. диал., см. выше). См. I. Popovic W d S VII, 1962, 80 (с непол­ ными сведениями относительно ареала). Обычно этимологизируют, ставя в связь с лит. kdisti 'скрести', откуда первонач. знач. *cesta—'раскорчеванная, выравненная дорога', ср. лат. via trita. См. J. Zubaty AfslPh XVI, 1894, 385; Berneker I, 127 (относит сюда же др.-прусск. coysnis 'гребень', coestue 'щетка'); Skok. Etim. rjecn. I, 259. Иначе см. А. А. Потебня Р Ф В I, 1879, 259; он же Р Ф В IV, 1880, 211 (к лат. scindo 'ломать, колоть'); Р. Брандт. Дополнительные замечания к разбору этимологи­ ческого словаря Миклошича. Варшава, 1891 (отд. отт. из РФВ): убедительно связывает, вслед за Гейтлером, *cesta и *cisfo, от¬ куда *cesta &lt;^*kaid-ta / *skaid-ta, т. е. ' р о с ч и с т ь ' , ср. еще лит. skdistas 'блестящий, лучезарный'.</note>
+  <gramGrp>
+    <gram>В согласии с Махеком (Machek 2 84), считаем, что<ref type="etymon" target="cesta">*cesta</ref> — от­
+глагольное производное от <ref type="etymon" target="cestiti">*cestiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

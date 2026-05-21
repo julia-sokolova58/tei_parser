@@ -1,0 +1,59 @@
+<Entry xml:id="gogsh">
+  <pb n="122" end_page="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬъгЬогШ</orth>
+    <lemma>ЬъгЬогШ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бърббря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ивайлов- градско, Севлиевско, Б Е 1969, № 2, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брбори</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жур­ чать, бормотать, лопотать, шуметь (о людях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон., И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>brborlti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>balbutire, praecipitanter loqui ,русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., bbrbotb R J A I, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бараббрить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приводить в беспорядок, комкать, сдвигать (ногами) (перм.), звонить (о металлическом колокольчике прямоугольной формы, который подвешивают на шею лошадям или коровам, пасущимся в лесу) (свердл.), болтать, говорить вздор (свердл.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 101)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения, кот. некоторые возводят к древнему удвоению типа греч. Заррарод (см. А. Погодин Р Ф В X X X I X , 1898, 1); впрочем, здесь можно видеть и вторичное раз­ витие формы<xr type="compare">см. <ref type="etymon" target="gan">*ЬъгЬаН</ref>
+    </xr>.</note>
+</Entry>

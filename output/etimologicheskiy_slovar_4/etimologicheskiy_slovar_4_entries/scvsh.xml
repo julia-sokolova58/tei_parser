@@ -1,0 +1,69 @@
+<Entry xml:id="scvsh">
+  <pb n="105" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сčвШъ</orth>
+    <lemma>сčвШъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>честит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>счастливый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 616)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>честит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>счастливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Горов. Страндж. говор. — БД I, 156; 3. Божкова. Софийский говор. — БД I, 272; И. Кън- чев. Говорът на с. Смолско, Пирдопско. — БД IV, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>честит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уважаемый, благородный, приносящий счастье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>честит</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>счастливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XIV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cestit</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>счастливый, блаженный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. от<ref type="etymon" target="epstb">*epstb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

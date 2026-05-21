@@ -1,0 +1,104 @@
+<Entry xml:id="ednookj">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnookъ(jь)</orth>
+    <lemma>edьnookъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еднобк</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ, Ге- ров: еднобкый)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>едноок</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>одноглазый , сер- бохорв. jednook, прилаг. одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV\ 552: «Moze biti rijec praslavenska...»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>enook</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jednooky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 589)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jednooky</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 646)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>однобкий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль II, 1081)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>однобкий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>одногла­ зый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>аднавбт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одноглазый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 22)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="edbnb-4">*edbnb</ref> 
+(см.) и старой адъективной формы от <ref type="etymon" target="oko">*око</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

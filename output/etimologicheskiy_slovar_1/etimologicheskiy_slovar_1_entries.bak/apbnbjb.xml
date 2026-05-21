@@ -1,0 +1,25 @@
+<Entry xml:id="apbnbjb">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>apbnbjb</orth>
+    <lemma>apbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>japny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>остроумный, находчивый</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Только чеш. слово, по-видимому, праслав. происхождения.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное от основы, выступающей еще в<ref type="etymon" target="ara">*ара</ref> (см.), 
+особенно — <ref type="etymon" target="apati">*apati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Праслав. *аръп- находит своеобразное соответствие в лат. -opinus (лат. in-opinus 'неожиданный' = с т . - ч е ш . ne-japny то же, см. Machek 170), причем долгота корня и крат­ кость суффикса слав, слова соответствуют краткости корня и долготе суффикса лат. слова.</note>
+</Entry>

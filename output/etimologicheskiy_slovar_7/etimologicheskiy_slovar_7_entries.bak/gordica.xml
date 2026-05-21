@@ -1,0 +1,36 @@
+<Entry xml:id="gordica">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordica</orth>
+    <lemma>gordica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Gradica</ref> ж. р., водное название в Хорва­ тии</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIII в., RJA III, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gradica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая оградка, загородка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Нга- dice, местн. название около Будеевиц (Kott V—VI, 354), дву­ смысленна (-ica? -itji?).</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от основы <ref type="etymon" target="gord">*gordъ</ref> / <ref type="etymon" target="gorda">*gorda</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сюда же, возм., примыкает словен. диал. штирийск. gorica 'загон для свиней', 'огражденное пространство' (Trbovlje, «Narodopisje Slo- vencev» I, 153), если последнее из *gordjica (Bezlaj. Eseji о slo­ ven, jez. 145); F. Bezlaj «Koro§ki kulturni dnevi» I, 79; Он же J&lt;b X X X , 248). русск. диал. городйца ж. р. старинное городище . — Форма</note>
+</Entry>

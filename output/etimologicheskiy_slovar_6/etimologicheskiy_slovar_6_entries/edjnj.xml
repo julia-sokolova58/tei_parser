@@ -1,0 +1,47 @@
+<Entry xml:id="edjnj">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdjьnъ(jь)</orth>
+    <lemma>ĕdjьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>jegna</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ёжный</ref>, ежнбй</orth>
+      </form>
+      <sense>
+        <def>съедобный .— Ср. сюда же субстантивированное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., Филин 8, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Лжникъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>обжора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="edja">*edja</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,44 @@
+<Entry xml:id="cbrtja">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrtja</orth>
+    <lemma>cbrtja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. 6f6a ж. р.</orth>
+      </form>
+      <sense>
+        <def>сенокос на раскорчеванном месте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 109; Erjavec LMS 1879, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрща</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шатер , если последнее не графич. ва­ риант к</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Реч. Жид. яз., Срезневский III, 1570)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>череща</ref>, о кот. см. под *certja&gt; выше.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ja</ref>
+      </m> от глагольной основы *čersti, <ref type="etymon" target="snd-2">*сьНд</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. F. Bezlaj. Krcevine. —SR VIII, 1955; он же JO XXIII, 1958, 86; Bezlaj. Eseji о sloven, jez. 133.</note>
+</Entry>

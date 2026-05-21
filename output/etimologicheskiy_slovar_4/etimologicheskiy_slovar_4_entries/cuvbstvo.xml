@@ -1,0 +1,62 @@
+<Entry xml:id="cuvbstvo">
+  <pb n="137" end_page="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuvbstvo</orth>
+    <lemma>cuvbstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чоукАство</ref> ср. р. сааЬтрк; sensus</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP, Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>cuvstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чувство, sensus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X I I I в., RJA II, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чувство</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чувствование, способность чувст­ вовать , сознание, понимание (Панд. Ант. X I в. и др.), внешнее чувство (Ио. екз. Бог. ), орган чувства (Ио. екз. Бог.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чувство</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>состояние того, кто чувствует что-либо, способность, возмож­ ность воспринимать сознательно деятельность внешнего мира-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I V , 1368)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstvo</ref>
+      </m> от основы гл. <ref type="etymon" target="cuti">*cuti</ref>, причем эле­
+мент -у- устраняет зияние в <ref type="etymon" target="Su-bstvo">*Su-bstvo</ref> (произведение от <ref type="etymon" target="bii">*бииъ</ref> 
+(см.) менее вероятно ввиду ограниченного характера распростра­
+нения этой последней формы).</gram>
+  </gramGrp>
+</Entry>

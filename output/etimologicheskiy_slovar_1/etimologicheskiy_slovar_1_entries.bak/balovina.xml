@@ -1,0 +1,36 @@
+<Entry xml:id="balovina">
+  <pb n="147" end_page="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>balovina</orth>
+    <lemma>balovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdloj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ma ж. р. ковыль Stipa Pennata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баловина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тенистое карасевое озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Яросл. По­ волжье, Филин 2, 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возм., родственно<xr type="compare">см. <ref type="etymon" target="a1ka">*Ьа1ъка</ref>
+    </xr> в близких 
+значениях.</note>
+</Entry>

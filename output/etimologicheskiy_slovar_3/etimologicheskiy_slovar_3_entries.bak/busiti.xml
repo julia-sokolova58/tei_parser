@@ -1,0 +1,51 @@
+<Entry xml:id="busiti">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>busiti</orth>
+    <lemma>busiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>busiti</ref> se</orth>
+      </form>
+      <sense>
+        <def>fruticare , бусити надувать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., R J A I, 745)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 313, с пометой «индив».)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бусить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодать лбом , бусйть норовиться (о лошади) , бусить бодать лбом , бусйть бить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 3, 305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(урал., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на - Ш , этимологически родственный<ref type="etymon" target="busati-2">*busati</ref> 
+(см.) из 
+<ref type="etymon" target="but-s-">*but-s-</ref>.</gram>
+  </gramGrp>
+  <note>Пропущено у Фасхмера и Бернекера.</note>
+</Entry>

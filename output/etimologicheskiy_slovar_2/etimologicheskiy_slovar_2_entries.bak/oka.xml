@@ -1,0 +1,45 @@
+<Entry xml:id="oka">
+  <pb n="149" end_page="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬъка</orth>
+    <lemma>ЬоЬъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бдпке</ref> ж. мн.</orth>
+      </form>
+      <sense>
+        <def>оспа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бубка</ref> ж. р. = бобка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Интерм. 82; Тимченко I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бобка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>детская игрушка (новг., пек., твер., олон., онеж.), рубашка (иссык-кульск.), мн. бобки сцветы (новг., олон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 35—36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от основы <ref type="etymon" target="bob-">*bob-</ref> (см. <ref type="etymon" target="boba">*boba</ref>, <ref type="etymon" target="o-3">*ЪоЬъ)</ref>.</gram>
+  </gramGrp>
+  <note>Ср. след.</note>
+</Entry>

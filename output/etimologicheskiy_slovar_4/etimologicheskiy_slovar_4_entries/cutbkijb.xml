@@ -1,0 +1,73 @@
+<Entry xml:id="cutbkijb">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cutbki&gt;(jb)</orth>
+    <lemma>cutbki&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чуткий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>внимательный, с острыми чувствами, строгий, сторожкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1380)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чуткий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обладаю­ щий хорошим нюхом, чутьем , чутко, нареч. громко, слышно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 601)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вят., новг., Опыт 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чуткий</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>чуткий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чуткЬ</ref>, прилаг. то же, также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. .—<ref>Возм</ref>., сюда же сущ.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">ст.-сербохорв. <ref>Cutak</ref>, род. п. Cutka, м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIII в., RJA II, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ък- от прич. страд, прош.<ref type="etymon" target="ssh">*сШъ</ref> 
+(см. <ref type="etymon" target="cuti">*cuti)</ref>.</gram>
+  </gramGrp>
+</Entry>

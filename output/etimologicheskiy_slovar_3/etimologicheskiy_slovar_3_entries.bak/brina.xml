@@ -1,0 +1,52 @@
+<Entry xml:id="brina">
+  <pb n="30" end_page="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brina</orth>
+    <lemma>brina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>брйпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>козья волна, шерсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брйнаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>круча, стремнина, (крутой) берег, вал, ущелье, бесплодная земля , brina с в з м о р ь е \ берег . — С р . , возм., сюда же (если с -д- эпентетическим, экспрессивным)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 650; РСА II, 374)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(GTer. 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>брйнда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>инструмент для битья шерсти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Г. Владимирская. Полесская терминология ткачества. — «Лексика Полесья» 197)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Особенно близкие семантически болг. и укр. слова могут пред­ ставлять собой производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от корня Ъг- (см. 
+<ref type="etymon" target="briti-3">*briti)</ref>.</gram>
+  </gramGrp>
+  <note>Та же этимология в принципе подошла бы и для сербохорв. слова, поскольку знач. 'край, берег' и т. п. (см. выше) могли развиться из предшествующего 'резать, острый'. Однако упо- • b r i t i (s§) требление преимущественно в роли географического термина и близость с алб. brine 'ребро', 'крутизна', 'возвышенность', 'бе­ рег' заставляют предполагать здесь возможное заимствование из алб. или из предшествующего ему иллир. См. V. Djerid «Pri- lozi za knjizevnost, jezik, istoriju i folklor» 7, 1927, 23 и след.; Skok. Etim. rjecn. I, 211.</note>
+</Entry>

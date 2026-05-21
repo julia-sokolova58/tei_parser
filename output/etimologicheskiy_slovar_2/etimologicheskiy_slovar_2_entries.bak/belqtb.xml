@@ -1,0 +1,52 @@
+<Entry xml:id="belqtb">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belqtb</orth>
+    <lemma>belqtb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belqta</orth>
+    <lemma>belqta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёлут</ref>, б]ёлут м. р.</orth>
+      </form>
+      <sense>
+        <def>вид крупнозерни­ стого кварца белого цвета, глазной белок , белута ж. р. доска из чистого, здорового дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 456)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beluta</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение из семейства Mesua</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белути</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>белила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 166)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -qt- от глагола (см. выше<ref type="etymon" target="beliti">*beliti)</ref>, принад­
+лежит к категории старых причастий, до расширения йотовым 
+суффиксом, представленного, напр., в ст.-чеш. beluci, прилаг. 
+'ослепительный, сияющий белым цветом' (Simek 28).</gram>
+  </gramGrp>
+</Entry>

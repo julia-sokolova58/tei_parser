@@ -1,0 +1,34 @@
+<Entry xml:id="dgnoti">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьgnǫti</orth>
+    <lemma>dьgnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>dzignut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дьбгнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толкнуть, кольнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 461)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ср. лит. diegti 'колоть'.</note>
+</Entry>

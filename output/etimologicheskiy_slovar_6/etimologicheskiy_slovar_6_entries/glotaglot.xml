@@ -1,0 +1,215 @@
+<Entry xml:id="glotaglot">
+  <pb n="138" end_page="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glota/*glotъ</orth>
+    <lemma>glota/*glotъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glotb</orth>
+    <lemma>glotb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мусор, сор в зерне, горохе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глбтм</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стая, толпа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глбто</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, стая, стадо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Мла­ денов БТР; Зап. Болгария, СбНУ X I , 191, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ум</ref>. глотка ж. р.</orth>
+      </form>
+      <sense>
+        <def>соринка, не¬ ровность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>глота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неряха (о женщине) , глото ср. р. стая, стадо , глот м. р. сор, мусор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Кумановскиот говор 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бед¬ нота, семья, домочадцы, толпа, сорняк (в хлебе), сор, мусор, грязнуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>глота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сор, мусор, сорняк (в хлебе) (Елез. I), глот м. р. сор, мусор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glota/*glotъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорняк, сброд, чернь , стар, glota ж. р. толпа, растение Brachypodium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar slo­ ven, jezika I, 702)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>hvota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>сорняк (в хлебе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(§a§el, Ramovs 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>глота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толпа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сборн. X V в. Син. Север. Шестоди., Срезневский I, 520)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>местн</ref>. название Глоты, бывга. Пскозск. у.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Namenbuch II, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>теснота, давка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>глота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давка, теснота, семья , глота теснота, давка , толпа, теснота , глота rglotbnb давка . hlota толпа , глип, род. п. глоту, м. р. теснота, давка . — Ср. сюда же производ­ ный гл</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(гуцул., буков.,^ Карпатский диалектологический атлас, карта № 47)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Чучка 314)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. Матер1али до словника д1алектизм1в украшських roBopiB Буковини 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвського д1алекту 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глотйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>теснить, толпиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Объяснить происхождение этого любопытного слова с учетом его весьма разнородных знач-й ('сор, сорняк', 'теснота, давка, толпа', прочие — 'неряха', или 'беднота, сброд, чернь' — произ­ водные от одного или от другого) кажется возможным лишь через допущение связи (*gZ o-t-) с и.-е. *g(e)l~, от которого на слав, почве произведены, с разными расширениями, *glogъ, *glodati (см. s. v.), отправные знач-я которых могут быть обнаружены также в наиболее первичных знач-ях *glota I *glotb, если при этом 'сорняк' &lt; 'острая, остистая трава', а 'теснота, давка, толпа' &lt; 'давить, колоть'? При существующем состоянии све­ дений о слове это объяснение имеет смысл воспринимать, разу­ меется, как гипотезу. Известные ранее этимологии неудовлетво­ рительны или проблематичны. Ср. сближение с др.-инд. gand- 'толпа, ряд, множество' (см. Berneker I, 306, вслед за Фортуна­ товым; Георгиев ВЕР IV, 251; Rudnyckyj I, G49—650), но если даже принять для др.-инд. слова праформу *galna-, подразуме­ ваемую при этом, в чем сомневаются специалисты (ср. Мауг- hofer I, 316), формальное и — отчасти — семантич. расхожде­ ние между слав, и др.-инд. словами останется слишком боль­ шим. Не прибавляет ясности вариантная праформа *g^ota, принимаемая иногда для слав, слова (Бернекер, там же). Укр. голбта 'беднота' ввиду его явной связи с укр. гблий (<xr type="compare">см. <ref type="etymon" target="golb-4">*golb</ref>
+    </xr>) 
+вовсе не имеет отношения к *glota, либо сблизилось с ним вто­
+рично. Допущение родства *glota с *gofo 
+(так см. Shevelov, 
+A prehistory of Slavic 112; ср. также Р. Смаль-Стоцький «Slavia» 5, 
+1926, 38) нас не убеждает.) 
+вовсе не имеет отношения к *glota, либо сблизилось с ним вто­
+рично. Допущение родства *glota с *gofo 
+(так см. Shevelov, 
+A prehistory of Slavic 112; ср. также Р. Смаль-Стоцький «Slavia» 5, 
+1926, 38) нас не убеждает.) 
+вовсе не имеет отношения к *glota, либо сблизилось с ним вто­
+рично. Допущение родства *glota с *gofo 
+(так см. Shevelov, 
+A prehistory of Slavic 112; ср. также Р. Смаль-Стоцький «Slavia» 5, 
+1926, 38) нас не убеждает.) 
+вовсе не имеет отношения к *glota, либо сблизилось с ним вто­
+рично. Допущение родства *glota с *gofo 
+(так см. Shevelov, 
+A prehistory of Slavic 112; ср. также Р. Смаль-Стоцький «Slavia» 5, 
+1926, 38) нас не убеждает.</note>
+</Entry>

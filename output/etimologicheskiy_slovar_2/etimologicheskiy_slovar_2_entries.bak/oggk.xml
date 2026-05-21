@@ -1,0 +1,31 @@
+<Entry xml:id="oggk">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьоггькъ</orth>
+    <lemma>Ьоггькъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brdzek</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>cava, ямка (Klaret, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brozek</ref>, род. п. -zka, м. р.</orth>
+      </form>
+      <sense>
+        <def>стог сена, корзина для цыплят, вид повозки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 210)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ум.) от<ref type="etymon" target="borgb-2">*borgb</ref> (см.) с суфф. -ькъ.</gram>
+  </gramGrp>
+</Entry>

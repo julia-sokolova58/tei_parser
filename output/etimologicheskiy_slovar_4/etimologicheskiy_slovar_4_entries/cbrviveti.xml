@@ -1,0 +1,79 @@
+<Entry xml:id="cbrviveti">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrviveti</orth>
+    <lemma>cbrviveti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crvivjeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>vermiculari</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 855)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cer</ref>- viveti</orth>
+      </form>
+      <sense>
+        <def>точиться червями</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>eervivief</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>червиветь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться червивым, поедаться червями, гу­ сеницами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>червйвгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>червиветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарвгвець</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>червиветь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="sgim">*съгимъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

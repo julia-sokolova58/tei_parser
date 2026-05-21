@@ -1,0 +1,20 @@
+<Entry xml:id="glyzasm">
+  <pb n="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glyza (см.)</orth>
+    <lemma>glyza (см.)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hluza</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gluza</ref> (выше) — не более как фонетич. развитие первонач-ного *gliza, либо *gluza все-таки реально и связано чередованием ои : и с *glyza.</orth>
+      </form>
+    </item>
+  </etym>
+</Entry>

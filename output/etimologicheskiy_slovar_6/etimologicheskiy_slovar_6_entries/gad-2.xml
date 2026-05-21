@@ -1,0 +1,90 @@
+<Entry xml:id="gad-2">
+  <pb n="82" end_page="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadь</orth>
+    <lemma>gadь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гадь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>змея, гадина, насекомое, птица , гат (членная форма гатта) ж. р. дикие звери , гат ж. животное , гат ж. р. мелкое животное , гак м. р. гады, паразиты на скотине, волки, сорные растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мла­ денов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 296)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 195)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 74—75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gad</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>had</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>•gagati ж. p. осадное орудие, таран</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., Jungmann I, 645; Kott I, 402)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гадь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>все, что гадко, мерзко или противно; гадкая вещь или дело</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 834)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гадь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>змея</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гадь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пресмыкающееся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 264)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Основа на соотносительная с -о- основой м. p.<xr type="compare">см. <ref type="etymon" target="gadb-2">*gadь</ref>
+    </xr>....</note>
+</Entry>

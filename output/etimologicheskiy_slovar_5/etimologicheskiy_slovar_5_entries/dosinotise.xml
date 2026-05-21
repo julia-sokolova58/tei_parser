@@ -1,0 +1,30 @@
+<Entry xml:id="dosinotise">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dosinǫti sę</orth>
+    <lemma>dosinǫti sę</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>доейнути</ref> се</orth>
+      </form>
+      <sense>
+        <def>захватить, овладеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 670)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-23">*do</ref> (см.) и плохо засвидетельствованного гл. <ref type="etymon" target="singtiy">*singtiy</ref> 
+кот.</gram>
+  </gramGrp>
+  <note>Миккола производил из *seiu-n~, родственного<xr type="compare">см. <ref type="etymon" target="sila">*sila</ref>
+    </xr>. 
+См. J. J. Mikkola ВВ X X I , 1896, 221.. 
+См. J. J. Mikkola ВВ X X I , 1896, 221.. 
+См. J. J. Mikkola ВВ X X I , 1896, 221.. 
+См. J. J. Mikkola ВВ X X I , 1896, 221.</note>
+</Entry>

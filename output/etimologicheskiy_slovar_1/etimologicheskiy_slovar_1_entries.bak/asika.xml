@@ -1,0 +1,66 @@
+<Entry xml:id="asika">
+  <pb n="79" end_page="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>asika</orth>
+    <lemma>asika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. обл. <ref>ясйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осина; береза; вид тополя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>есйка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осина (с. Долна Мелна, Трънско. Дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacuna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осина , сербо­ хорв. jacuna ж. р . осина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>jacuna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Populus nigra осокорь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Djor. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jasika</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>осина Populus tremula, ясень Fraxinus ornus , jesika ж. p. осина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Принимая во внимание наличие тождественных или близких по значению праслав. *osika, *osica, *osina (см. svv.), ср. напр. укр. осйка, русск. осина, которые, в свою очередь происходят из *opsa/*apsa (ср. лтш. apsa, лит. apuse 'осина', нем. Espe то же), мы можем объяснять форму *asika только как результат вторичного продления первоначального о- уже на слав, почве в форме *osika. Природа этого продления, охватившего ю.-слав. языки (ср., впрочем, *asokon/b, ниже) недостаточно ясна. См. Miklosich 101 (где говорится о влиянии слова ясный); Berneker I, 32; Sadnik— Aitzetmuller, V g l . W b . 1, 32. В свете сказанного выше отпадает сближение с лит. uosls 'ясень', лат. ornus гвид ясеня', греч. а^еронс вид тополя (A. Fick ВВ X V I , 1890, 171; F. de Saussure MSL 8, 1894, 431).</note>
+</Entry>

@@ -1,0 +1,80 @@
+<Entry xml:id="aloveti">
+  <pb n="64" end_page="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>aloveti</orth>
+    <lemma>aloveti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jaloveti</orth>
+    <lemma>jaloveti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jaloveti</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaloulef</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться бесплод­ ным (о животном)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jalowiec</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jale</ref>- vjauc</orth>
+      </form>
+      <sense>
+        <def>быть, оставаться бесплодным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 380)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яловеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>о корове: быть яловой, становиться яловой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яловгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оставаться бесплодной (о самке скота), оставаться невспаханной (о земле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 540)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ялавецъ</ref> (Блр.- русск.).</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Глагол, производный от основы прилагательного<ref type="etymon" target="alov-">*alov-</ref> (см. 
+Этимологический словарь
+alov$</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,44 @@
+<Entry xml:id="butbca">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>butbca</orth>
+    <lemma>butbca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком, глыба, опухоль, нарост , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Б Т Р ; Бернштейн)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. . — <ref>Ср</ref>.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д I I I , 43; Стоиков. Банат. 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>butec</ref>, род. п. -tea, м. р.</orth>
+      </form>
+      <sense>
+        <def>гиря стенных часов, сорт яблок, большеголовый, головастый человек, головастик (лягушки), болван</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ье- от<ref type="etymon" target="buta">*buta</ref>, 
+<ref type="etymon" target="sh">*ЬШъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Излишне сложно, с и.-е. реконструкцией данного производного, см. V. Geor­ giev «Балканско езикознание» I, 1959, 80; Георгиев Б Е Р II, 94.</note>
+</Entry>

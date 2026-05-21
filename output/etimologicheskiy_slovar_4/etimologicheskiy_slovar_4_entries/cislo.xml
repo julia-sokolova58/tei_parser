@@ -1,0 +1,171 @@
+<Entry xml:id="cislo">
+  <pb n="117" end_page="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cislo</orth>
+    <lemma>cislo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чигло</ref> ср. p. dpt&amp;[x6c, numerus</orth>
+      </form>
+      <sense>
+        <def>число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>число</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, дата календаря</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>число</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. редк. <ref>cislo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>numerus, rosarium, число</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XII в., RJA II, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cislo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, счет, соблюдение, четки, кайма платка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 104—105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cislo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, номер, счет, стар, также cisl м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Salicetti, XV в., Kott I, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cislo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, номер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 212—213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cislo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, счёт, номер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cyslo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>номер</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 149, с пометой: «из в.-луж.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>число</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>число, количество , большое ко­ личество, обилие (Жит. Андр. Юр.), счисление (Козм. Инд.), счет (Остр. ев. и др.), вычисление (Кирик. уч.), определение года, дата , подсчёт голосов, голосова­ ние (Жит. Феод. Студ.), денежный счёт , перепись , поголовная дань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XXXIV. 2. — Упыр. и мн. др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 852 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Прав. гр. Гр. Кологр. 1532 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1240 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. 1259 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1522—1524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>числб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>понятие, служащее выражением количества, то же, что цифра</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>число</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число, количество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 463—464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чыслб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>число (дата) (Блр.-русск,)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Древнее производное с суфф.<m type="suffix">
+        <ref>-slo</ref>
+      </m> от гл. <ref type="etymon" target="eisti">*eisti</ref>, 
+<ref type="etymon" target="citati">*citati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. уже С. Микуцкий Изв. ОРЯС IV, 1855, 409; Berneker I, 157; Фасмер IV, 366. Мнение о наличии здесь суфф. -tlo (J. Mik- kola. Zum slavischen Suffix -dlo. «Melanges linguistiques offerts a H. Pedersen» 412; P. Эккерт «Этимология. 1970» (M., 1972) 47) не очень убедительно ввиду известной эволюции и.-е. -tlo-^&gt; слав. -dlo. Соответствия в других и.-е. языках (в частности — в балт.) не­ известны.<xr type="compare">Ср. <ref type="etymon" target="cismq">*cismq</ref>
+    </xr> (см.).</note>
+</Entry>

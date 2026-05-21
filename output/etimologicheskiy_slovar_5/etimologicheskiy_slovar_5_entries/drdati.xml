@@ -1,0 +1,83 @@
+<Entry xml:id="drdati">
+  <pb n="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrdati</orth>
+    <lemma>dьrdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дрда</ref>, -аш</orth>
+      </form>
+      <sense>
+        <def>кромсать, резать тупым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот говор 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрндати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить шерсть , дрдати то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кара- пиЬ; РСА IV, 721; RJA II, 785)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 679)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть, дёргать, торопиться , drndati шевелить, махать, тащиться (за кем-либо)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 305)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 480)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dyrdad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щипать, драть, дергать .—Возм., сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1066)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>дырдзщца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вытягивать ноги при смерти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1Ч 101)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Частичная редупликация (<ref type="etymon" target="dbr-d">*dbr-d</ref>~) корня 
+<ref type="etymon" target="der-">*der-/</ref>
+      <ref type="etymon" target="dbr-">*dbr-</ref>, 
+см. 
+<ref type="etymon" target="dbrati-12">*dbrati</ref>; 
+экспрессивное образование.</gram>
+  </gramGrp>
+  <note>Ср. Berneker I, 254; Machek 127; F. A. Wood KZ XLV, 1913, 62 (видит здесь расширение -d- от корня der-, а не «неполную редупликацию», ср. др.-англ. teart 'суровый, строгий', англ. tart 'резкий, острый').</note>
+</Entry>

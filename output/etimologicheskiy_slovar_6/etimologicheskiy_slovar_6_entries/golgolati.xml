@@ -1,0 +1,38 @@
+<Entry xml:id="golgolati">
+  <pb n="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golgolati</orth>
+    <lemma>golgolati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>глдголдти</ref> XocXeTv, Xsyeiv, ofuXelv, loqui, dicere, vocare</orth>
+      </form>
+      <sense>
+        <def>говорить, называть , сербо­ хорв. глагдлати, глагол&gt;ати говорить, рассказывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 301, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlaholati</ref>=hlaholiti .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 297)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="golgoH">*golgoH</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

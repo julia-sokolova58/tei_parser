@@ -1,0 +1,52 @@
+<Entry xml:id="cerpti">
+  <pb n="71" end_page="72" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerpti</orth>
+    <lemma>cerpti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cfiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crieV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>crjec</ref>, сгёс</orth>
+      </form>
+      <sense>
+        <def>черпать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cres</ref> то же . ^Родственно лит. kerpu, kirpti</orth>
+      </form>
+      <sense>
+        <def>стричь, резать, правда, в слав</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 135: Chojn)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>CbrP9&gt; cerpti представлено прямэ противоположное соотношение вокализма: нулевая стуиень—в наст, вр., иолная ступень — в ин­ финитиве. Далее ср. лат. carpo, -ere 'дергать, щипать, рвать', хетт, кагр- сбрать, поднимать, собирать'. Знач. слав, слова пред­ ставляет собой слав, семантич. инновацию, а не изначальную данность, поэтому сближение Махека (ниже) с нем. schopfen, опирающееся единственно на тождество знач. 'черпать', не может быть принято. См. Berneker I, 170—171; W. Porzezinski RS IV, 1911, 6; Walde—Hofm. I, 172; Fraenkel I, 257—258; Pokorny I, 944—945; Фасмер IV, 346; V. Machek «Slavia» 28, 1959, 278; Machek 2 98.</note>
+</Entry>

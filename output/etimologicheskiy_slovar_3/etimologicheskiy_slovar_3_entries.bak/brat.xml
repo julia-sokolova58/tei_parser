@@ -1,0 +1,223 @@
+<entries>
+  <entry xml:id="brat" xml:id="brat">
+    <pb n="8" end_page="9" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bratъ</orth>
+      <lemma>b r a t b</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>BJSATZ</ref> M. p. doeXcpoc, frater</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Miklosich L P 43)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>брат</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брат</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брат</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат, словея. brat, род. п. brdta, м. р. брат ,ст.-чеш. bralM. р. брат,[чеш. поэт</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 51)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Gebauer I, 95; Ст.-чеш., Прага)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>brat</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Bartos. Slov. 24)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. <ref>brat</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ I, 126)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. стар, <ref>и</ref>
+          </orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb" type="dialect">диал. <ref>brat</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 74)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pox">полаб. <ref>brot</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Polanski — Sehnert 41)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brat</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 647)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>brut</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . I, 64)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>братм</ref>. p.</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брат</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 92)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брат</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>брат</def>
+        </sense>
+      </item>
+    </etym>
+    <note>Широко 
+распространенная по слав, 
+языкам 
+форма, 
+обычно 
+объясняемая из упрощения (диссимиляции) <xr type="compare">см. <ref type="etymon" target="bratn">*bratn</ref>
+      </xr>. Начало
+этого упрощения может быть отнесено еще к дослав, древности, 
+о чем говорит наличие сходных форм без конечного -г- в некото­
+рых и.-е. языках. Ср. кимр. brawd (см. Berneker I, 82, где, однако, 
+обоим случаям дано другое объяснение, вслед за Розвадовским), 
+осет. servad 'член того же рода, родич'. Лит. диал. brotas 'побра­
+тим, любимец', этимологически отождествляемое К. Бугой (РФВ 
+L X X , 1913, 101) со слав. *6га£ъ, скорее всего заимств. из сосед­
+них слав, языков, см. Фасмер I, 208. См. еще из литературы 
+J. Otrqbski L P 2, 1950, 283 (здесь высказана мысль о появлении 
+основы на -о- *brato- 
+первоначально в сложениях типа 
+gubbcb); 
+он же L P 8, 1960, 186 со спорным толкованием на этот 
+раз *bratrb 
+&lt;^ *brafo 
+по аналогии исхода слова. Начало
+этого упрощения может быть отнесено еще к дослав, древности, 
+о чем говорит наличие сходных форм без конечного -г- в некото­
+рых и.-е. языках. Ср. кимр. brawd (см. Berneker I, 82, где, однако, 
+обоим случаям дано другое объяснение, вслед за Розвадовским), 
+осет. servad 'член того же рода, родич'. Лит. диал. brotas 'побра­
+тим, любимец', этимологически отождествляемое К. Бугой (РФВ 
+L X X , 1913, 101) со слав. *6га£ъ, скорее всего заимств. из сосед­
+них слав, языков, см. Фасмер I, 208. См. еще из литературы 
+J. Otrqbski L P 2, 1950, 283 (здесь высказана мысль о появлении 
+основы на -о- *brato- 
+первоначально в сложениях типа 
+gubbcb); 
+он же L P 8, 1960, 186 со спорным толкованием на этот 
+раз *bratrb 
+&lt;^ *brafo 
+по аналогии исхода слова. Начало
+этого упрощения может быть отнесено еще к дослав, древности, 
+о чем говорит наличие сходных форм без конечного -г- в некото­
+рых и.-е. языках. Ср. кимр. brawd (см. Berneker I, 82, где, однако, 
+обоим случаям дано другое объяснение, вслед за Розвадовским), 
+осет. servad 'член того же рода, родич'. Лит. диал. brotas 'побра­
+тим, любимец', этимологически отождествляемое К. Бугой (РФВ 
+L X X , 1913, 101) со слав. *6га£ъ, скорее всего заимств. из сосед­
+них слав, языков, см. Фасмер I, 208. См. еще из литературы 
+J. Otrqbski L P 2, 1950, 283 (здесь высказана мысль о появлении 
+основы на -о- *brato- 
+первоначально в сложениях типа 
+gubbcb); 
+он же L P 8, 1960, 186 со спорным толкованием на этот 
+раз *bratrb 
+&lt;^ *brafo 
+по аналогии исхода слова. Начало
+этого упрощения может быть отнесено еще к дослав, древности, 
+о чем говорит наличие сходных форм без конечного -г- в некото­
+рых и.-е. языках. Ср. кимр. brawd (см. Berneker I, 82, где, однако, 
+обоим случаям дано другое объяснение, вслед за Розвадовским), 
+осет. servad 'член того же рода, родич'. Лит. диал. brotas 'побра­
+тим, любимец', этимологически отождествляемое К. Бугой (РФВ 
+L X X , 1913, 101) со слав. *6га£ъ, скорее всего заимств. из сосед­
+них слав, языков, см. Фасмер I, 208. См. еще из литературы 
+J. Otrqbski L P 2, 1950, 283 (здесь высказана мысль о появлении 
+основы на -о- *brato- 
+первоначально в сложениях типа 
+gubbcb); 
+он же L P 8, 1960, 186 со спорным толкованием на этот 
+раз *bratrb 
+&lt;^ *brafo 
+по аналогии исхода слова</note>
+  </entry>
+</entries>

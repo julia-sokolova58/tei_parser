@@ -1,0 +1,29 @@
+<Entry xml:id="dvigo">
+  <pb n="189" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vigo</orth>
+    <lemma>d(ъ)vigo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvjige</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>ярмо для двух волов (Lorentz Slo­ vinz. Wb. I, 222;, dvig"o ср. p. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Pomor. 1, 168)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="d-7">*d</ref>{b)v-igo (см. <ref type="etymon" target="dbva-2">*d(b)va</ref>, 
+*/ь#о), по-видимому, архаич. 
+праслав. диалектизм, ср. параллельное 
+лат. bigae ж. p. pi. t. 
+'двойная упряжка'&lt;^<ref type="etymon" target="bi-iugae">*bi-iugae</ref>&lt;l<ref type="etymon" target="dui-iugai">*dui-iugai</ref> (см. о лат. слове Walde-
+Hofm. 1, 105). См. О. Н. Трубачев «Исследования по польскому 
+языку» (М., 1969) 304 и сл.</gram>
+  </gramGrp>
+</Entry>

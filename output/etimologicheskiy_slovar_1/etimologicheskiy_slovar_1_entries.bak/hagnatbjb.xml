@@ -1,0 +1,24 @@
+<Entry xml:id="hagnatbjb">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>hagnatbjb</orth>
+    <lemma>hagnatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bahnaty</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 61)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -at-, от основы bagn- (см.<ref type="etymon" target="bagno-2">*bagno)</ref>.</gram>
+  </gramGrp>
+</Entry>

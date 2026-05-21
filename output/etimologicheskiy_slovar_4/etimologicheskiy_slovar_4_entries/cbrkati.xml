@@ -1,0 +1,106 @@
+<Entry xml:id="cbrkati">
+  <pb n="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrkati</orth>
+    <lemma>cbrkati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чбркаи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ковырять, дразнить, раздражать, мед­ ленно раротать, копаться , чаркач высекать искру , ц^бркъм издавать неприятный звук , цръкам доить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 302)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Денчев. Поповско. — БД V, 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 826)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cfkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скрипеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cerkaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать, хлопать, дребезжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 72; Kott V—VI, 1182: «слвц.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>tsirkas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 807)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёркать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спешно, бойко, торопливо писать; писать размашисто; проводить черты, царапать, (курск.) пить хмельные напитки, (костр.) заборанивать посев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>черкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребезжать, журчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх., см. Гринченко IV, 457)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Первоначально вариантно к *cbrtati,<xr type="compare">см. <ref type="etymon" target="sykhan">*сыхаН</ref>
+    </xr>, ср. и соответ­
+ствующие знач-я этих слов. Осложнено ономатопоэтич. ассоциа­
+циями. Ср. Berneker I, 169: «Звукоподражательное».</note>
+</Entry>

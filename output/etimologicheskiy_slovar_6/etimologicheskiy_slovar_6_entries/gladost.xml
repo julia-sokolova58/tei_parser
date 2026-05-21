@@ -1,0 +1,52 @@
+<Entry xml:id="gladost">
+  <pb n="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gladostь</orth>
+    <lemma>gladostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>глддоста</ref> Ж. p. lenitas</orth>
+      </form>
+      <sense>
+        <def>гладкость, мягкость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гладость</ref> luxus, pXaxetoc , то Xelov, illecebra</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Никон. Панд, сл. 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в. л. 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 517)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гладость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>полнота, хорошая упитан­ ность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 6, 180; Деулинский словарь 109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="gladk">*gladъkъ</ref> 
+(см.) или, 
+скорее, соотносительное с последним.</gram>
+  </gramGrp>
+</Entry>

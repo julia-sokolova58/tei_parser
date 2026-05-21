@@ -1,0 +1,22 @@
+<Entry xml:id="ag-2">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>аг$Ьь</orth>
+    <lemma>аг$Ьь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. -<ref>ц.-слав</ref>, гардбь</orth>
+      </form>
+      <sense>
+        <def>куропатка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. Леств., Срезневский III, 1665)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Именная форма, тождественная практически во всем, кроме конца основы, праслав.<xr type="compare">см. <ref type="etymon" target="age-2">*агеЬъ</ref>
+    </xr>.</note>
+</Entry>

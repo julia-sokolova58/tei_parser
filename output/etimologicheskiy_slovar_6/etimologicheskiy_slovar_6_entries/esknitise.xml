@@ -1,0 +1,141 @@
+<Entry xml:id="esknitise">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕskniti (sę)</orth>
+    <lemma>ĕskniti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. &amp;<ref>сн</ref>\жся</orth>
+      </form>
+      <sense>
+        <def>яснеть, светить, блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacnu</ref> се</orth>
+      </form>
+      <sense>
+        <def>проясниваться, разведриваться, блестеть, свер­ кать, сиять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jasniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать ясным, прояснять, jasniti se быть, становиться ясным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA IV, 482)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jasniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать ясным, прояснять; объяснять, jasniti se проясниваться (о погоде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jasniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прояснять, делать ясным, светлым, jasniti se яснеть, становиться ясным</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasnif</ref> sa то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SS J I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jasnid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать ясным, светлым, прояснять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jasnie</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>прояснять(ся) , сюда же jesnU торопить, ускорять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 534)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 547)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jaunid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать ясным, прояснять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яснить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать ясным, светлым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1584)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яснйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать блестящим, полировать, объяснять, изъяснять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 544)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="esknb-4">*esknb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,87 @@
+<Entry xml:id="dira">
+  <pb n="30" end_page="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dira</orth>
+    <lemma>dira</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ди</ref>^эд ж. p. s^opa, scissura</orth>
+      </form>
+      <sense>
+        <def>дыра, трещина , дйра то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>дйра</ref>, diipa ж. р. (герцег.), дйра (дубр.) сдыра (напр. на платье)</orth>
+      </form>
+      <sense>
+        <def>, дйра тряпка, ветошь, тряпьё , дйра, дйра ж. р. дыра, трещина, прореха, тряпка, рванина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дйра</ref> scissura, o^tojia</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г., Срезневский I, 666)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. обл. <ref>дйра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>окважина, отверстие сквозное, либо яма, ямка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дйра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыра , дирЛ ж. р. дыра , дйря ж. р. сдыра (смол., брян., донск., калуж., перм., тамб.), ноздря (смол.) , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., вят., волог., костр., сев.-двинск., арх., яросл., моек., тул., орл., брян., тамб., донск., Филин 8, 66)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзьрка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыр*а</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ-ное<ref type="etymon" target="dira-2">*dira</ref> имеет 
+вокализм 
+глаг. 
+итератива -dirati (см. 
+<ref type="etymon" target="dbrati-2">*dbrati)</ref>.</gram>
+  </gramGrp>
+  <note>См. A. Meillet MSL 14, 1907, 378; Варбот. Др.-русск. именное словообразование 39.</note>
+</Entry>

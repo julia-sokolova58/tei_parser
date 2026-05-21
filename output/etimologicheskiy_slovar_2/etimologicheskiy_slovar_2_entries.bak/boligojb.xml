@@ -1,0 +1,34 @@
+<Entry xml:id="boligojb">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boligojb</orth>
+    <lemma>boligojb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bolhoj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Anthyllis vulneraria L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>boVhoj</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение язвенник Anthyllis vulneraria , также boVhoj</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 123; Kalal 33)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение имени<ref type="etymon" target="og-3">*ЬоГъ</ref> (см.) и <ref type="etymon" target="gojb">*gojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

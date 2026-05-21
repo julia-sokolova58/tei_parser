@@ -1,0 +1,58 @@
+<Entry xml:id="blecati">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blecati</orth>
+    <lemma>blecati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блёчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять , сюда же, возм., блёчати швырять, бросать на землю</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 645)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 661)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bleceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bVacaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, мычать (об овце, козе, теленке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bVecaf</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(о скоте; Habovstiak. Orav. 48, 380)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Палатализованный вариант звукоподражательной основы, представленной в *Ыекъ, *blekofo, *blekotati и др. (см. ниже); однако ср. функционально близкий или тождественный ряд без -I- : *becati, *ЬекоЬъ,<xr type="compare">см. <ref type="etymon" target="bekati">*bekati</ref>
+    </xr>.</note>
+</Entry>

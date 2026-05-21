@@ -1,0 +1,20 @@
+<Entry xml:id="egg1">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегг§1ъ</orth>
+    <lemma>Ьегг§1ъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>B</ref>(i)ezrzqd, имя собств.: Beszrz^d Johannem et Vasylkonem. 1451 г. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«SIown. stpol. nazw osobowych» I, 2, 163)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-84">*bez</ref> (см.) и <ref type="etymon" target="t">*т</ref>*čЙъ (см.).</gram>
+  </gramGrp>
+</Entry>

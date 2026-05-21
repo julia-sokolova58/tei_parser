@@ -1,0 +1,81 @@
+<Entry xml:id="bbza">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbza</orth>
+    <lemma>bbza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>baza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 213, со ссылкой на Бука)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ббза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus nigra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Босния, Хор­ ватия, PGA И, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beza</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Sambucus niger , елвц. baza ж. p. бузина Sambucus nigra, (диал.) сирень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 975)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>beza</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бузина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>база</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма ж. р. к<xr type="compare">см. <ref type="etymon" target="g-3">*Ьъгъ</ref>
+    </xr>.</note>
+</Entry>

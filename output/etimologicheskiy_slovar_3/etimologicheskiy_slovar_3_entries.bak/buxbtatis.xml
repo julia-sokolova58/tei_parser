@@ -1,0 +1,48 @@
+<Entry xml:id="buxbtatis">
+  <pb n="81" end_page="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>buxbtati (s§)</orth>
+    <lemma>buxbtati (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бувта</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, ударять, слоняться, шататься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>buhtdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вырываться, бушевать (о пламени) , buhtdti se набухать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>ЪисЫаб</ref> so</orth>
+      </form>
+      <sense>
+        <def>пыжиться, важничать , Гл., производный с суфф. -ъЬ- (интенсив) от звукоподражат. основы Ьих- (<xr type="compare">см. <ref type="etymon" target="buxati">*buxati</ref>
+          </xr>)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1059)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

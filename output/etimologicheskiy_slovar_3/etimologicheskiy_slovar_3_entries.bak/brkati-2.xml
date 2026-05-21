@@ -1,0 +1,48 @@
+<Entry xml:id="brkati-2">
+  <pb n="43" end_page="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br(^kati</orth>
+    <lemma>br(^kati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brokati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec Lj. Zv. XIII, 1893, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>brokat</ref> si</orth>
+      </form>
+      <sense>
+        <def>ворчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Ътикай</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брюзжать, ворчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I 83, с рекон­ струкцией: «др.-слав. *brqkati»)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на ~ati, производный от основы brgk- (см.<ref type="etymon" target="gdk-3">*Ьгдкъ)</ref>.</gram>
+  </gramGrp>
+</Entry>

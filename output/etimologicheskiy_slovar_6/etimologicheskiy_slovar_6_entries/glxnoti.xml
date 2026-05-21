@@ -1,0 +1,134 @@
+<Entry xml:id="glxnoti">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъxnǫti</orth>
+    <lemma>glъxnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глъхна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>затихать, (о растении) заглушаться сорня­ ками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. гл</orth>
+      </form>
+      <sense>
+        <def>кна затихать, переставать плакать от истощения и потери голоса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тетевен, СбНУ X X X I , 252, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глухнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть , также глунути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 373)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hlech</ref>- ndti</orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 426)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlechnouti</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 688)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>глъхнЧти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 523)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глохнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться глухим, терять чувство слуха , затихать (о звуках)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 883—884)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глохнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скучать, быть в одиночестве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глух</ref>- нуць</orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nyti</ref>
+      </m>, 
+связанный чередованием коренного гласного 
+(ъ : и) с <ref type="etymon" target="glux">*gluxъ</ref> (см.). 
+<ref type="etymon" target="gl-4">*gl</ref>
+,btajb: макед. диал. голта] м. р. 'глоток' (Кон.), сербохорв. диал. 
+гута] м. р. то же (РСА III, 779), с преобразованными вар. стар. 
+гутла] м. р. (РСА III, 782), а также сербохорв. литер, гуггиьа] м. р. 
+'глоток' (РСА III, 782), ср. еще гутал&gt; м. р. то же (РСА III, 779), 
+диал. gutalj 
+'глоток' (Mas. 433), словен. goltaj м. р. 'глоток' 
+(Plet. I, 229), укр. глитай м. р. 'мироед, кулак' (Гринченко I, 
+289).</gram>
+  </gramGrp>
+  <note>Производное с суфф. -(а)]ъ от гл.<xr type="compare">см. <ref type="etymon" target="glbtati">*glbtati</ref>
+    </xr>. Ср. несколько 
+иначе о словообразовании: Skok. Etim. rjecn. I, 639.. Ср. несколько 
+иначе о словообразовании: Skok. Etim. rjecn. I, 639.. Ср. несколько 
+иначе о словообразовании: Skok. Etim. rjecn. I, 639.. Ср. несколько 
+иначе о словообразовании: Skok. Etim. rjecn. I, 639.</note>
+</Entry>

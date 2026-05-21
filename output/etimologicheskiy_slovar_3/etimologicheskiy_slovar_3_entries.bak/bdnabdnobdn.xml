@@ -1,0 +1,264 @@
+<entries>
+  <entry xml:id="bdnabdnobdn" xml:id="bdnabdnobdn">
+    <pb n="113" end_page="114" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъdьna/*bъdьno/*bъdьnъ</orth>
+      <lemma>bbdbna</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbdbno</orth>
+      <lemma>bbdbno</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>ЬъДьпъ</orth>
+      <lemma>ЬъДьпъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бъд</ref>*6н, бъднё</orth>
+        </form>
+        <sense>
+          <def>кадка, бочка (Георгиев), также</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бъдънм</ref>. р.</orth>
+        </form>
+        <sense>
+          <def>бочка, бъднё ср. р. боченок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ст. Ковачев. Троянският говор. — Б Д IV, 192)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бадагь</ref>, род. п. -дььа, м. р.</orth>
+        </form>
+        <sense>
+          <def>чан, кадка, также в кач-ве названия меры жидкости</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Вларшац И, 139)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bedenj</ref>, род. п. -dnja, м. р.</orth>
+        </form>
+        <sense>
+          <def>чан, кадка, полый, дуплистый ствол дерева , bedenj, род. п. -dnja м. p. большая деревянная посуда, кадка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 15—16; см. еще описание: V. Koren. Oskrba z vodo in oblike vodnjakov v Prekmurju. — «Slovenski etnograb XV, 1962, 88)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Erjavec LMS 1879, 133)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv" type="dialect">диал. <ref>bedenj</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>дупло R. Bozidar. Crtice о prekmurcih in о njihovem govoru. — «Narodni koledar in letopis Matice Slo- venske za leto 1867—1869» , bedjen колодец , badenj, род. п. -dnja, м. р. кадка , bednb ср. p. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ljubljana, 1868, 61)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 9)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Plet. I, 16)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bedna</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>ящик , елвц. bedna ящик, кадка , bodna баклага, ящик , bodna мелкая посуда, применяемая в сыродельном производстве , сюда же — с метатезой—елвц. debna ж. р. ящик из досок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 53)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kalal 20)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kalal 31)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Kalal 910)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(SSJ I, 238)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>bednia</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>кадка</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 110)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>ббдня</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>кадушка с крышкой и замком, вместо сундука</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(ворон., донск., Даль 3 I, 260)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бодня</ref> ж. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Кн. Гродск. Луцк. 15—1564 и мн. др., Тимченко I, 114)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>ббдня</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>кадка или род улья с крышкой и замком</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Шух., Чуб., Гринченко I, 81)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>ббдня</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>выдолб­ ленная из дерева кадка для домашних вещей (Овручск. р-н), бочка с крышкой для муки (Корост, р-н)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(А. С. Лысенко. Словарь диалектной лексики северной Житомирщпны. — «Славянская лекси­ кография и лексикология» 1 0 — И )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Заимств. из нем., см. Miklosich 25; С. С. Uhlenbeck AfslPh XV, 
+1893, 
+484 (производит из н.-нем. <ref type="etymon" target="budinna">*budinna</ref> 
+при др.-в.-нем. 
+butinna); 
+Berneker 
+I, 106 (из герм, и далее — лат. форм, кот. некоторыми 
+кладутся также в основу слав. <ref type="etymon" target="bbci">*bbci/</ref>
+        <ref type="etymon" target="sie-2">*Ьъсьие</ref>, 
+см.); Г. А. Ильин­
+ский ИОРЯС Х Х Ш , 1921, 205—206 (в отличие от большинства 
+авторов 
+толкует 
+праслав. 
+как 
+псконнославянское 
+от
+и.-е. <ref type="etymon" target="bhudh-">*bhudh-</ref>, а не заимств. 
+из 
+герм.); 
+Kiparsky. Die gemein-
+slav. 
+Lehnworter 
+aus 
+dem 
+Germ. 
+233 («Древнейшее 
+свидетель­
+ство (ст.-чеш. bedndf) 
+указывает 
+на то, что раньше всего было 
+заимствовано 
+не 
+название 
+бочки, 
+а название 
+бочара, 
+бондаря 
+« с р . - в . - н е м . 
+butenaere &lt;^<ref type="etymon" target="butinari">*butinari)</ref>, 
+представленное 
+также в со­
+вершенно 
+регулярной 
+форме 
+(русск. 
+бондарь, 
+укр. 
+боднарь, 
+польск. bednarz, 
+чеш. bedndf, 
+словен. bedndr), 
+тогда как <ref type="etymon" target="bbdbii-">*bbdbii-</ref>
+обнаруживает 
+наличие -тг-, необъяснимого из герм., и, вероятно, 
+представляет 
+собой новообразование 
+на 
+слав, 
+почве. Это досто­
+верно во всяком 
+случае для чеш.»); Hubschmid. Schlauche und 
+Fasser 64 ср. др.-сакс. budin, 
+Фасмер I, 184. 
+Общее 
+замечание, 
+которое 
+можно 
+высказать 
+по 
+этимологии 
+и собранным выше вариантам форм, касается того, что вряд ли 
+слав. <ref type="etymon" target="bbdbnb">*bbdbnb</ref> 
+(или <ref type="etymon" target="bbdbn">*bbdbn</ref>'b) 
+первоначально, 
+поскольку это 
+по­
+следнее, в свою очередь, может продолжать <ref type="etymon" target="bbdbnb-2">*bbdbnb</ref>, 
+уже вполне 
+беспрепятственно 
+соотносимое 
+с герм, 
+формами; 
+как, 
+видимо, и <ref type="etymon" target="bbdbno">*bbdbno</ref> 
+(см. выше), содержат исходы 
+инновационного 
+слав, происхождения. То же можно было бы утверждать и о ва­
+рианте 
+пъпа 
+(откуда вторично 
+в 
+отдельных 
+слав, 
+языках, ср. отсутствие 
+мягкости -п- в <ref type="etymon" target="a">*Ъъа</ref>
+1ъпагь, 
+см.), если эта 
+форма 
+так же, как и <ref type="etymon" target="bdn">*bъdъnъ</ref> 
+(м. р.), не восходит к герм, мор-
+фол, варианту.</gram>
+    </gramGrp>
+  </entry>
+</entries>

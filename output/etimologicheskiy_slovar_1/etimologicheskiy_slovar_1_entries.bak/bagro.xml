@@ -1,0 +1,51 @@
+<Entry xml:id="bagro">
+  <pb n="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bagro</orth>
+    <lemma>bagro</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bahro</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть колеса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>багрб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>б а г о р , багрб ср. р. метал­ лический наконечник багра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>багрб</ref> ср. р .</orth>
+      </form>
+      <sense>
+        <def>к о с я к , часть составного обода колеса . Сюда же bahra ж. р. о б о д колеса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 62: с пометой s i c )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Во всем, кроме грамм, рода, тождественно *bag(b)n II (см.; там же относительно этимологии).</note>
+</Entry>

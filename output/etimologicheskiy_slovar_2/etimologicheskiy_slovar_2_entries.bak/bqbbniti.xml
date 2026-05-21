@@ -1,0 +1,91 @@
+<Entry xml:id="bqbbniti">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqbbniti</orth>
+    <lemma>bqbbniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bubeniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>барабанить, бить в барабан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bubnic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо звучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>tybnic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить в барабан, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бубнить</ref> (курск.)</orth>
+      </form>
+      <sense>
+        <def>болтать без умолку и толку, барабанить, (тул.) разглашать вести, (костр.) говорить, беседовать, (пек.) брюзжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бубнити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить в барабан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бубнити</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бубнщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>барабанить, бубнить, вор­ чать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="dp-2">*ЬдЪъпъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="dygyoi">*ЬдЬыгёИ</ref>
+    </xr>.</note>
+</Entry>

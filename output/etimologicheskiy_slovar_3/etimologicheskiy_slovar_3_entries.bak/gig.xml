@@ -1,0 +1,26 @@
+<Entry xml:id="gig">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъгигъ</orth>
+    <lemma>Ьъгигъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бж</ref>&amp;ръ (tu были глем</orth>
+      </form>
+      <sense>
+        <def>Ьмь бжоуръ Ег да комоу боу д газы* свдза н. да кадитсд с ни м и р-ЬшитсА ш съоузъ, НОСАИ корень его не заблоудитъ и) поути. ни* боитсА штравы. ни ж зв-вреи. но и СЬМА его съ в1но м шемъ исцЬлете болъзнеи своихъ. въноутрыпи* и вънЬшнихъ покажагаи до м свои с листвТе м с коренемь era 1, не вниде в синь д ^ х ъ нечистъ) (Сбор</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Троиц. 278, Срезневский I, 86), укр. бжур 'бузина Sambucus ebulus'.</note>
+  <gramGrp>
+    <gram>Возм., производное с суфф.<m type="suffix">
+        <ref>-игъ</ref>
+      </m> 
+от <ref type="etymon" target="gg">*Ьггъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Так в мате­ риалах Укр. этимол. словаря под ред. А. С. Мельничука. Ср., впрочем,<xr type="compare">см. <ref type="etymon" target="oshg">*Ьошгъ</ref>
+    </xr>.</note>
+</Entry>

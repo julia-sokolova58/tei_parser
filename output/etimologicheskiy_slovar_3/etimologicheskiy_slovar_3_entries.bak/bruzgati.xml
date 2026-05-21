@@ -1,0 +1,22 @@
+<Entry xml:id="bruzgati">
+  <pb n="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br'uzgati</orth>
+    <lemma>br'uzgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брюзгать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>учить урок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., Дои. к Опыту 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения. Ср. лит. bria'izgiu, briaugzti 'говорить вздор', см. К. Буга Р Ф В LXX, 1913, 102; Фасмер I, 224 (с литер.).</note>
+</Entry>

@@ -1,0 +1,30 @@
+<Entry xml:id="dymej">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymĕjь</orth>
+    <lemma>dymĕjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dymej</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>золотуха (XV—XVI вв., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dymej</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>воспаление лимфатических или паховых желез</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ё]ъ от гл.<ref type="etymon" target="dymati">* dymati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Махек отожде­ ствляет с *dym$ (см. след.). См. Machek 2 137.</note>
+</Entry>

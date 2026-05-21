@@ -1,0 +1,32 @@
+<entries>
+  <entry xml:id="brociti" xml:id="brociti">
+    <pb n="43" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brǫčiti</orth>
+      <lemma>brqciti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>brucys</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>жужжать (о жуках и т. иод. насекомых)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. 1, 82)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. 
+на <m type="suffix">
+          <ref>-Ш</ref>
+        </m> от звукоподражат. 
+основы, представленной в <ref type="etymon" target="gd-">*Ьгд-</ref>
+catl,</gram>
+    </gramGrp>
+  </entry>
+</entries>

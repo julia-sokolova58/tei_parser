@@ -1,0 +1,119 @@
+<Entry xml:id="grcZb">
+  <pb n="124" end_page="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grčZb</orth>
+    <lemma>grčZb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>грёз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 610; RJA III, 422)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grez</ref>, род. п. -I, ж. р.</orth>
+      </form>
+      <sense>
+        <def>жидкая, глубокая грязь, топь, бездна , grez м. р. тина, болото, топь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfez</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязь, нечистота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 757)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грАзъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>топкое место , грязь размокшая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1151 г.; Обв. меж. g r ? z b n b ( j b ) 12G зап. 1391 г., Срезневский I, 606)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Афан. Никит. 333, Срезневский III, 81')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грязь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>размякшая от воды, от дождя земля, почва; слякоть, сор, мусор</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грязь</ref> ж. р., мн. грязи</orth>
+      </form>
+      <sense>
+        <def>топи, болота (печор., сев.-двинск.), сор­ ная трава в полевых и огородных культурах (новг., ленингр., калин.) , также в кач-ве местн. названия Грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(бывш. Можайск, у. Моск. губ. и др., Russisches geographisches NamenbuchH ,593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грязь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко!, 334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. <ref>грАзъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Скорина, Владимиров 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гразь</ref>, род. п. гразг, ж. р.</orth>
+      </form>
+      <sense>
+        <def>грязь</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя с основой на соотносительное с гл.<ref type="etymon" target="gr-5">*gr</ref>$zngti 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. также<xr type="compare">см. <ref type="etymon" target="grziti">*gr$ziti</ref>
+    </xr>.</note>
+</Entry>

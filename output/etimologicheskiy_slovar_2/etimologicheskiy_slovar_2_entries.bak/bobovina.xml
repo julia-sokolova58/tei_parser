@@ -1,0 +1,82 @@
+<Entry xml:id="bobovina">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobovina</orth>
+    <lemma>bobovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бобовина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>бобовая солома, culmi fabae, стебли, листья и мякина бобов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 669)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bobovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бобовая солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bobovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бобо­ вая солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., Gebauer I, 73; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bobo</ref>­ vina ж. р.</orth>
+      </form>
+      <sense>
+        <def>бобовая солома</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бобовина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение бобы, дающее плод бобы, бобовая китина, ботва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бобовина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бобовая солома, бобовые стебли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> (собир.) от прилаг. <ref type="etymon" target="ooi">*ЬоЬоиъ</ref> (см.) 
+или со сложным суфф. -ovina — от имени <ref type="etymon" target="o-3">*ЬоЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

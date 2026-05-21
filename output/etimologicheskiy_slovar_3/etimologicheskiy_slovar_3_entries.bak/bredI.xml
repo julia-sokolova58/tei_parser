@@ -1,0 +1,51 @@
+<entries>
+  <entry xml:id="bredI" xml:id="bredI">
+    <pb n="12" end_page="13" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bredъ I</orth>
+      <lemma>b r e d b I</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bred</ref> Падучая болезнь, судороги</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Gregor. Slov. slavkov.-bucov. 29; Kasfk. Stfedobecev. 90)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>бред</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>бессвязные, не всегда понятные речи больного во сне или в бес- сознательном состоянии</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">диал. <ref>бред</ref>, род. п. -а, м. р.</orth>
+        </form>
+        <sense>
+          <def>брод в озере</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(калин., Филин 3, 170)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Как показывает, в частности,* значение русск. диал. примера, 
+(см.). 
+Вокализм русск. слова пытался объяснить Якобсон (см. R. Jakob-
+son «Word» 7, 1951, 190), но его толкование -е- (вм. -ё-) нельзя 
+признать 
+удачным, 
+поскольку 
+книжный 
+характер 
+невероятен 
+ввиду наличия упомянутого явно оригинального слова в русск. 
+народных говорах, а позднему образованию противоречит нали­
+чие близкой формы также в чеш. диалектах.</note>
+  </entry>
+</entries>

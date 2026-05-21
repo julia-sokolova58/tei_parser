@@ -1,0 +1,191 @@
+<Entry xml:id="da">
+  <pb n="180" end_page="181" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>da</orth>
+    <lemma>da</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>да</ref>, с iva, ei&amp;s, бк, ut, utinam</orth>
+      </form>
+      <sense>
+        <def>чтобы, да</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Суир., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>да</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>да, с. и, Рчтобы (в описательной инфи­ нитивной конструкции) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>да</ref>, с.</orth>
+      </form>
+      <sense>
+        <def>и вот, чтобы, если (бы), хоть, пускай, част, да, пусть, да</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>да</ref>, да, част.</orth>
+      </form>
+      <sense>
+        <def>да, с. что, так, что, чтобы, если бы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>da</ref>, с</orth>
+      </form>
+      <sense>
+        <def>чтобы, что, так, что, хотя, потому что, част, да</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 119—120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>da</ref> с.</orth>
+      </form>
+      <sense>
+        <def>что</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>da</ref>, усилит, част., нареч.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>da</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>так, так и, итак, разве, тоже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>da</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пусть, да, utinam</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1437 г., St. stpol. II, 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>da</ref>, межд.</orth>
+      </form>
+      <sense>
+        <def>ой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>да</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пусть , чтобы , дабы , гчто (Стихир. XIII в.), и , а, же , разве (Суд. IX. И), ведь , то, тогда, в таком случае</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр, ев., Пов. вр. л. под 882 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев., Дог. Иг. 945 г., Пов. вр. л. под 945 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Жит. Феод. 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Остр, ев.; Жит. Андр. Юр. VI. 29 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Юр. ев. п. 1119 г.; Пат. Син. XI в. 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1095 г.; Иак. Бор. Гл. 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Фил. Влад.; Новг. I л. под 1016 г.; Вопр. Ил.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 619—622)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>да</ref>, с , част.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>да</ref>, част.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Филин 7, 254—255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. редк. <ref>да</ref>, част,</orth>
+      </form>
+      <sense>
+        <def>пусть , с. и; да, но, да , да, с.=та пусть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 377)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>да, но</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Служебное слово, широко распространенное в функции союза, вводящего разные глаг. формы. Крайний результат эволюции — функции частицы, напр. утверд. 'да'.</note>
+  <gramGrp>
+    <gram>Восходит к и.-е. указ. местоим.<ref type="etymon" target="do">*do</ref>~, вар. <ref type="etymon" target="to-2">*to</ref>~.</gram>
+  </gramGrp>
+  <note>Такая этимология, принятая большин­ ством исследователей, подтверждается однотипностью контекстов слав. da + Tii. и слав, ta + тл. и сходством, напр., слав. *da ПиеЬъ и лит. пермиссива tegyuuoja 'да здравствует'. Соответственно этому отпадает объяснение слав, da в знач. 'чтобы, пусть' из и.-е. *do 'дать' и причину долготы гласного в слав, слове надо искать в особенностях употребления местоим. основы. Сравнивают с авест., др.-uepc. местоим. вин. ед. dim 'его, ее', др.-прусск. din, dien то же, сюда же частицы (энклитики и проклитики) греч. or\, eneibr\ 'когда', лат. denique 'тогда', donee 'пока', quando. Литература: Miklosich 39; Berneker I, 175—176; A. Meillet MSL 19, 1915, 243; Brugmann KVGr. 619; Мейе. Общеслав. язык 391—392; Фасмер I, 480; Младенов ЕПР 119; Георгиев БЕР IV, 309—310; Skok. Etim. rjecn. I, 369—370; S. E. Mann «Language» 26, 1950, da da 381 (сближает с алб. dot 'совсем'); A. Bajec SR V—VII, 1954, 196 (обращает внимание на случаи окончательной формализации и потери самостоятельного знач. da в словен. toda, jeda, ada, anda, seveda, menda). Поиски дальнего родства слав.<xr type="compare">см. <ref type="etymon" target="da">*da</ref>
+    </xr> Иллич-Свитыч. Опыт 
+сравнения ностратич. языков (М., 1971) 215.</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="gbmota">
+  <pb n="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmota</orth>
+    <lemma>gbmota</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmbta</orth>
+    <lemma>gbmbta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hmota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>материя, масса</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hmota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>материя, сырье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gmec</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча .—Ср., возм., сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 854)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гамтацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>комкать, мять , гбмтаць оставлять кое-как, не складывая (об одежде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяцко, Зэльв. 46)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано чередованием гласных с<xr type="compare">см. <ref type="etymon" target="gomota">*gomota</ref>
+    </xr> и родственными.</note>
+</Entry>

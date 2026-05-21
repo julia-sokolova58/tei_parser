@@ -1,0 +1,28 @@
+<Entry xml:id="bryzdzati">
+  <pb n="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryzdzati</orth>
+    <lemma>bryzdzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брйждати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свербеть, зу/хеть, бить струей, брызгать (о жидкости), лопаться от упругости , словзи. brlzdzati брызгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(напр. mleko iz vimena brizdzi, Plet. J, 62)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Потовое расширение основы гл.<ref type="etymon" target="bryzgati-5">*bryzgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

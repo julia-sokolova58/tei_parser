@@ -1,0 +1,44 @@
+<Entry xml:id="goleja">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golĕja</orth>
+    <lemma>golĕja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голая, безлесная местность, без­ остая пшеница , лысые, безлесные горы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 434)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(GTer. 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тропинка в поле , голеЛ ж. р. пустое, безлесное болотистое место , голея ж. р. тропинка в поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части бассейна р. Оби I, 101; Филин 6, 292)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(яросл., Филин 6, 292)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ё]а от<ref type="etymon" target="gofe">*gofe</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

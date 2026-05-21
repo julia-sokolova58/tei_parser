@@ -1,0 +1,109 @@
+<entries>
+  <entry xml:id="brusk" xml:id="brusk">
+    <pb n="50" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brusъkъ</orth>
+      <lemma>Ьгивъкъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар, <ref>brusak</ref>, род. п. -ska, м. р.</orth>
+        </form>
+        <sense>
+          <def>небольшой точильный камень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 686)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>брусак</ref>, род. гг. -ска, м. р.</orth>
+        </form>
+        <sense>
+          <def>точильный брусок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА II, 219)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brusek</ref>, род. п. -ska, м. р.</orth>
+        </form>
+        <sense>
+          <def>небольшой точильный брусок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 67)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brousek</ref>, род. п. -sku, м. р.</orth>
+        </form>
+        <sense>
+          <def>брусок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 101)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>brusk</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>маленький точильный камень</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 85)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>brusek</ref>, ум. от brus</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 677)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>брусок</ref>, род. п. -ска, м. р.</orth>
+        </form>
+        <sense>
+          <def>брус, продолговатый шестигранник, в форме которого прессуются некоторые продукты потребления, точильный ка­ мень из мелкозернистого песчаника; оселок</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брусок</ref>, род. п. -ска, м. р., ум. от брус</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 102)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>брусок</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>точильный камень, четырехгранный продолговатый кусок чего-либо</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Блр.- русск. 132)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Ум. производное с суфф. <m type="suffix">
+          <ref>-ъкъ</ref>
+        </m> от <ref type="etymon" target="brusb">*brusb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

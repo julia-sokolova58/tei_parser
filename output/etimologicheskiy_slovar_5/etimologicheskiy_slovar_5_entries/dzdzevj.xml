@@ -1,0 +1,165 @@
+<Entry xml:id="dzdzevj">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždževъ(jь)</orth>
+    <lemma>dъždževъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъждявъ</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>дождевой (Дювернуа)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>dazdev</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дождевой , даждев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI—XVII вв., RJA II, 320)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dezeu</ref>, прилаг.: dezeva mavra</orth>
+      </form>
+      <sense>
+        <def>радуга после дождя , dezjeu, dezjev, прилаг. дождевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dsiouy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дождливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 494)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dazd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ovy</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>desdowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дождевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>deszczowy</ref>, прилаг. от deszcz</orth>
+      </form>
+      <sense>
+        <def>дождь , стар, dzdiewy , редк. dzdzowy</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 668)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дъждевыи</ref>, дождевыи</orth>
+      </form>
+      <sense>
+        <def>дождливый , дъж- гевыи , дъждовыи, дождовыи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1143 г.; Псков. I л. под 1404 г., Срезневский I, 754)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1201 г., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сказ. Ант. Новг. 8, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дождевой</ref>, -ая, -бе</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. до- <ref>щовйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>дождевой, дождливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 438)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дажджаей</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дождевой. — Сюда же суффиксальное производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъждбвен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дождливый, дождевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дождевен</ref>, дождовен, прилаг.</orth>
+      </form>
+      <sense>
+        <def>дождевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ov- от<ref type="etymon" target="dbzdzb">*dbzdzb</ref> (см.)</gram>
+  </gramGrp>
+</Entry>

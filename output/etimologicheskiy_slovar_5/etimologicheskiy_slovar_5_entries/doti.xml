@@ -1,0 +1,217 @@
+<Entry xml:id="doti">
+  <pb n="99" end_page="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫti</orth>
+    <lemma>dǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>.*ти, д^мл^ cpootoov, flare, inflare</orth>
+      </form>
+      <sense>
+        <def>дуть, надувать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>души</ref>, дмём и ду]Ш</orth>
+      </form>
+      <sense>
+        <def>дуть, ^надувать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 39; RJA II, 906—907)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>douti</ref>, dmu</orth>
+      </form>
+      <sense>
+        <def>дуть, веять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dmuf</ref> sa</orth>
+      </form>
+      <sense>
+        <def>надуваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 274)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dud</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 169)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>due</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>dame</ref> 3 л. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>дует</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 50, с рекон­ струкцией праслав. *dbme)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dq6</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>die</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъмХ</ref>, дХти</orth>
+      </form>
+      <sense>
+        <def>дуть (Служ. Новг. XIII в.; Книг, откр. Авр.), надувать , вздыматься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тамож. Орешк. гр. 1563 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Меф. Пат. XVI в. л. 396)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 746)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дуть</ref> веять, производить движение воздуха</orth>
+      </form>
+      <sense>
+        <def>, выпускать изо рта силь­ ную струю воздуха, направленную во что или на кого-, что- либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сдувать куда-либо (олон., костр.), зажигать « 9 7 / лшаУУ ( т а м б . , самар., ворон., яросл., тул., костр.) дути дуть, надувать, пучить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин ^» дуться 'напрягаться, тужиться', 'пухнуть', 'собираться (о дожде)' (Деулинский словарь 157), 'пухнуть, опухать, распу­ хать (тул., курск., орл.), 'от дуновения ветра откидываться dqziti в стороны, колебаться' (енис), 'терпеть, переносить какие-либо неприятности' (ворон.), 'бить кого-либо; драться' (ленингр.), 'литься, течь (о жидкости)' (симб.) (Филин 8, 274), укр. дму, )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дму</ref>, дуцъ, сюда же контаминированное</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзъмуцъ</ref> *дуть</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Обычно принимаемое четкое этимологич. разграничение между праслав. *dgti и<xr type="compare">см. <ref type="etymon" target="duti">*duti</ref>
+    </xr> затруднительно. Контрольного знач-я 
+форм наст, времени в таких случаях тоже недостаточно: русск. 
+дую, 
+дуть, 
+в отличие от укр. дму, души, могло быть вызвано 
+вторичным преобразованием. Прав Фасмер, говоря: «Семьи слов 
+dbmg, dgti и dung, dunqti сблизились между собой» (см. Фасмер 
+I, 555). Праслав. *db?ng, *dqti сближают прежде всего с др.-инд. 
+dhdmati 'дуть', лит. dumiu, dumti то же. См. Berneker I, 244; 
+F. Stawski SO 18, 1947, 250. 
+См. еще A. Meillet MSL 10, 1897, 140—141; Н. 
+Pedersen 
+MPKJ 
+1, 1903, 167; A. Meillet MSL 14, 1907, 366; W, Porze-
+zinski 
+RS IV, 1911, 7; A. Meillet RES VI, 1926, 171—172; 
+Я. Отрембский ВЯ 1954, № 5, 30. затруднительно. Контрольного знач-я 
+форм наст, времени в таких случаях тоже недостаточно: русск. 
+дую, 
+дуть, 
+в отличие от укр. дму, души, могло быть вызвано 
+вторичным преобразованием. Прав Фасмер, говоря: «Семьи слов 
+dbmg, dgti и dung, dunqti сблизились между собой» (см. Фасмер 
+I, 555). Праслав. *db?ng, *dqti сближают прежде всего с др.-инд. 
+dhdmati 'дуть', лит. dumiu, dumti то же. См. Berneker I, 244; 
+F. Stawski SO 18, 1947, 250. 
+См. еще A. Meillet MSL 10, 1897, 140—141; Н. 
+Pedersen 
+MPKJ 
+1, 1903, 167; A. Meillet MSL 14, 1907, 366; W, Porze-
+zinski 
+RS IV, 1911, 7; A. Meillet RES VI, 1926, 171—172; 
+Я. Отрембский ВЯ 1954, № 5, 30. затруднительно. Контрольного знач-я 
+форм наст, времени в таких случаях тоже недостаточно: русск. 
+дую, 
+дуть, 
+в отличие от укр. дму, души, могло быть вызвано 
+вторичным преобразованием. Прав Фасмер, говоря: «Семьи слов 
+dbmg, dgti и dung, dunqti сблизились между собой» (см. Фасмер 
+I, 555). Праслав. *db?ng, *dqti сближают прежде всего с др.-инд. 
+dhdmati 'дуть', лит. dumiu, dumti то же. См. Berneker I, 244; 
+F. Stawski SO 18, 1947, 250. 
+См. еще A. Meillet MSL 10, 1897, 140—141; Н. 
+Pedersen 
+MPKJ 
+1, 1903, 167; A. Meillet MSL 14, 1907, 366; W, Porze-
+zinski 
+RS IV, 1911, 7; A. Meillet RES VI, 1926, 171—172; 
+Я. Отрембский ВЯ 1954, № 5, 30. затруднительно. Контрольного знач-я 
+форм наст, времени в таких случаях тоже недостаточно: русск. 
+дую, 
+дуть, 
+в отличие от укр. дму, души, могло быть вызвано 
+вторичным преобразованием. Прав Фасмер, говоря: «Семьи слов 
+dbmg, dgti и dung, dunqti сблизились между собой» (см. Фасмер 
+I, 555). Праслав. *db?ng, *dqti сближают прежде всего с др.-инд. 
+dhdmati 'дуть', лит. dumiu, dumti то же. См. Berneker I, 244; 
+F. Stawski SO 18, 1947, 250. 
+См. еще A. Meillet MSL 10, 1897, 140—141; Н. 
+Pedersen 
+MPKJ 
+1, 1903, 167; A. Meillet MSL 14, 1907, 366; W, Porze-
+zinski 
+RS IV, 1911, 7; A. Meillet RES VI, 1926, 171—172; 
+Я. Отрембский ВЯ 1954, № 5, 30.</note>
+</Entry>

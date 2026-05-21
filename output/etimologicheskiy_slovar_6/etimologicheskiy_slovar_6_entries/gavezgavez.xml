@@ -1,0 +1,59 @@
+<Entry xml:id="gavezgavez">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gavezъ/ *gavežь</orth>
+    <lemma>gavezъ/ *gavežь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gavezb</orth>
+    <lemma>gavezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйвез</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>множество , гавеза ж. р., собир. множество одинаковых существ, предметов: детей в семье, птиц на дворе и т. д. , ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Опыт 34; Диттель ЖСт. VIII, 1898, 209; Филин 6, 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gavel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гады, паразиты , гавеж м. р., собир</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdbez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-еъъ</ref>
+      </m> (<m type="suffix">
+        <ref>-ezb</ref>
+      </m>) от гл. <ref type="etymon" target="gaviti">*gaviti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

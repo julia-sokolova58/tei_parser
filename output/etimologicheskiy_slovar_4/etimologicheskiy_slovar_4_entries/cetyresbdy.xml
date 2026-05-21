@@ -1,0 +1,33 @@
+<Entry xml:id="cetyresbdy">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetyre sbdy</orth>
+    <lemma>cetyre sbdy</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>четырежды</ref>, четыръжды, четырешди, че- тыришьды</orth>
+      </form>
+      <sense>
+        <def>четыре раза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. и др., Срезневский III, ^1514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четырежды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>взяв четыре da3a. [Сочетание числ.<xr type="compare">см. <ref type="etymon" target="cetyre">*cetyre</ref>
+          </xr> и именной формы ограниченного употребления *sbdy мн. ч., родственной <xr type="compare">см. <ref type="etymon" target="xoditi">*xoditi</ref>
+          </xr>
+        </def>
+      </sense>
+    </item>
+  </etym>
+  <note>Ср. анало­ гичные *dwa sbdy, *tri sbdy (см.).</note>
+</Entry>

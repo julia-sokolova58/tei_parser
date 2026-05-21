@@ -1,0 +1,73 @@
+<Entry xml:id="bajiti">
+  <pb n="139" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajiti</orth>
+    <lemma>bajiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. 6djumu</orth>
+      </form>
+      <sense>
+        <def>зевать, произносить с зевотой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bdjiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сочинять ( X V в. Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdjiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>фантазировать, вымышлять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdjif</ref> (si)</orth>
+      </form>
+      <sense>
+        <def>грезить, мечтать, фантазировать; тосковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>г о ­ ворить, разговаривать, рассказывать , манить, прима­ нивать , говорить, рассказывать сказки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д обр ов о л ьский 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный на - Ш от той же основы, что и<ref type="etymon" target="bajati-8">*bajati</ref> I (см.).</gram>
+  </gramGrp>
+  <note>Основа также косвенным образом засвидетельствована в произ­ водном<xr type="compare">см. <ref type="etymon" target="bajidlo">*bajidlo</ref>
+    </xr>.</note>
+</Entry>

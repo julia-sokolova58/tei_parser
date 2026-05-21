@@ -1,0 +1,36 @@
+<Entry xml:id="bolgotbnbjb">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolgotbnbjb</orth>
+    <lemma>bolgotbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blahotny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>счастливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>blaoViitne</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>радостный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 38, с реконструкцией *bolgotbnbjb)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ьпъ]ъ от основы имени<ref type="etymon" target="bol-">*bol-</ref>
+gota (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,62 @@
+<Entry xml:id="gukb">
+  <pb n="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gukb</orth>
+    <lemma>gukb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мыс, выдающийся узкой полосой в море, озеро, реку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(север., Филин 7, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. (<ref>полесск</ref>.) гук</orth>
+      </form>
+      <sense>
+        <def>стрелка лука , свиное рыло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. С. Лысенко. Словарь диал. лексики сев. Житомирщины.—Слав, лексикография и лексикология (М., 1966) 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Верхратський. Знадоби 211; Г. Г. Немченко. Особливост1 гов1рки с. Широкий Луг Тяч1вського р-ну. Дип. роб. Ужгород, 1954, 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(большой) отросток, побег, росток</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая ветка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шатэрнш 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gycb">*gycb</ref>
+    </xr>, причем *gukb представляет более пер-
+вонач. огласовку 
+корня 
+и исхода основы.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -к- от и.-е.<ref type="etymon" target="geu-">*geu-</ref> 'гнуть'.</gram>
+  </gramGrp>
+  <note>См. Л. В. Куркина «Этимология. 1971» (М., 1973), 67; Р. М. Козлова. Белорусские регионализмы пра­ слав. происхождения (на материале лексики вост. Полесья), АКД. Минск, 1977, 7.</note>
+</Entry>

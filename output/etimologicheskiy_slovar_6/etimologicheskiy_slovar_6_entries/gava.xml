@@ -1,0 +1,57 @@
+<Entry xml:id="gava">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gava</orth>
+    <lemma>gava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворона , сюда же производное гавка ж. р. водяная птица Somateria mollissima L. , гага , гавка ж. р. собака (олон., тул.), капризный ребенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новоросс, курск., Филин 6, 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Данилевский. Доп. к Опыту 5)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., сиб., Филин 6, 84)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворона, разиня, во­ рона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собака, волк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвського д1алекту)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражание, ср.<ref type="etymon" target="kaika">*каиъка</ref> (см.), а также лит. kovas 'грач, 
+галка'.</gram>
+  </gramGrp>
+  <note>См. К. Буга РФВ L X X , 1913, 107; J. Otrqbski LP 9, 1963, 16; Л. А. Булаховский ИАН ОЛЯ VII, 1948, 103; Фас­ мер I, 379.</note>
+</Entry>

@@ -1,0 +1,155 @@
+<Entry xml:id="ceznqti">
+  <pb n="100" end_page="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceznqti</orth>
+    <lemma>ceznqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>чбзылчти</ref> deficere, languescere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёзна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пропадать, исчезать, чахнуть, изнывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чёзнем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тосковать по чем или по ком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 272)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чезне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пропадать , чезнее тосковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёз</ref>- нути</orth>
+      </form>
+      <sense>
+        <def>жаждать, испытывать зависть, тосковать, стремиться , caznuti то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 918)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>czez</ref>- щс</orth>
+      </form>
+      <sense>
+        <def>чахнуть, сникать, пропадать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чёзнутъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исчезать, пропадать , исчезнуть, про­ пасть , исчезать (Картотека Псковского об­ ластного словаря), погибать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Резанов. К диалектологии велико­ русских наречий. Особенности живого народного говора Обоянского уезда Курской губ.— РФВ XXXVIII, 1897, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёзнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>исчезать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., см. Гринченко IV, 449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>чёзнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>по­ гибать, помирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Словник специф1чно1 лексики правобережно! Черкащини. — «Леке, бюл.» VI, 1958, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чёзнуцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>изнуряться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 696)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чэзнуцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чахнуть, сох­ нуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусш И, 195)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Предельно-однократный гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, 
+послуживший базой для 
+<ref type="etymon" target="cezati">*cezati</ref> и <ref type="etymon" target="kaziti">*kaziti</ref> (см.).</gram>
+  </gramGrp>
+  <note>В основе лежит, по-видимому, экспрессив­ ное и.-е. *keg- или Однако дальнейшие этимол. связи не­ достаточно ясны. Сближают с лат. conquinisco, др.-исл. huika 'пригибаться, чтобы уклониться от удара, вздрагивать, колебаться', см. Е. Zupitza ВВ XXV, 1899, 105; так же см. Berneker I, 154; Фасмер II, 145 (отводит лишь сравнение с лат. словом, см. осо' бенно Walde-Hofm. I, 262—263); Н. Petersson IF XXIV, 1909, 51—52 (критика некоторых сближений Цупицы); W. v. d. Osten- Sacken IF XXIV, 1909, 246 (к сближениям Цупицы ['добавляет лит. is-si-keztu, is-si-kezti 'растворяться, расплываться'; последняя форма обойдена молчанием в словлрэ Френкеля, кот., нслед за Махеком, сближает *cezngti с лит. kaseti 'сохнуть, вянуть', см. Fraenkel I, 227; ср. еще сближение *ceznqti с др.-инд. ksindti 'уничтожает', см. Otr^bski. Studia indoeuropeistyczne 65; но о др.- инд. слове очень неопределенно см. Mayrhofer I, 289), Уленбеку принадлежит этимология *cezngti из *се(z)dngti, якобы родствен­ ного лат. сЫо «*cezdo) 'идти; уступать, отступать', см. С. С. Uhlenbeck KZ XXXIX, 1906, 258—259; однако это сбли­ жение, сомнительное по ряду соображений (ср. Фасмер IV, 323), не может также объяснить знач. 'чахнуть, сохнуть, тосковать' у слав, слова.</note>
+</Entry>

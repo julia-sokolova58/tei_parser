@@ -1,0 +1,24 @@
+<Entry xml:id="bbdigostb">
+  <pb n="110" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdigostb</orth>
+    <lemma>bbdigostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>Bdihost</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gasopis ceskeho Musea VI, 60, см. Jungmann I, 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Bdzigost, 1246 г.: Test(is). . . Bedigostius также Bedgost, 1265 г. (Taszycki. Stownik st.-polsk. nazw osobowych I, 1, 115). Сюда же польск. Bydgoszcz, местн. название, притяжат. производное (первонач. прилаг-ное) с суфф. -]ъ от имени собств. *Byd(i)gostb, где гла­ гольный компонент содержит продленную ступень вокализма и/и &gt; й(у), ср. русск.-цслав. въз-быдати 'пробуждаться, просы­ паться'.</note>
+  <gramGrp>
+    <gram>Двуосновное глагольно-именное сложение с первым компонен­ том<ref type="etymon" target="y-2">*ЪъйЬ</ref> — пов. накл. от <ref type="etymon" target="bdyoti">*bъdёti</ref> 
+(см.) — и вторым компонентом 
+<ref type="etymon" target="gostb">*gostb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. С. Роспонд ВЯ 1965, № 3, 8.</note>
+</Entry>

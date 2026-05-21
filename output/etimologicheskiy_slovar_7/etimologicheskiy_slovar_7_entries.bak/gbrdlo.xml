@@ -1,0 +1,322 @@
+<Entry xml:id="gbrdlo">
+  <pb n="203" end_page="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrdlo</orth>
+    <lemma>gbrdlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гърло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло , ангина, жаба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров: гръло)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гърло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло кувшина, сосуда , грло ср. р. горло , гбрлд ср. р. мельничный желоб , гбред ср. р. горло , гр&amp;ло ср. р. мельничный желоб, устье болота , гръло ср. р. горло , гарлу ср. р. горло , далее, сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Пле- венско. — БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стой­ чев БД II, 146)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Зап. Бълга- рия. — СбНУ XI, 1894, 193)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 54)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. К. Бунина. Словарь говора ольшанских болгар. — Статьи и материалы по болг. диалектоло­ гин СССР 5, 1954, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръклян</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гортань, глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>также</ref> грътл</orth>
+      </form>
+      <sense>
+        <def>ан м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло; глотка, шея, *уще- лье; теснина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>gerlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горло , производное ярклан м. p. гортань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Ra- dozda-Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло, шея, gr\a ж. р. горлица Columba turtur L. , производное zpKJbau м. p. гортань, горло, глотка , также гртл&gt;ан м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 447)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 638; RJA III, 442—443: с XV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 693)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gflo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло; глотка; зев , сюда же gfla ж. р. горлица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло, сюда же hrdla ж. р. горлица, елвц. hrdlo ср. р. горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrllo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hordlo</ref>, horlo ср. p.</orth>
+      </form>
+      <sense>
+        <def>горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjardlo</ref>, gjarlo, ср. p.</orth>
+      </form>
+      <sense>
+        <def>горло, шея, зоб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gardlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>горло , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1045)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>garuo</ref> , сюда же gardziel ж. p.</orth>
+      </form>
+      <sense>
+        <def>горло, глотка (особ, у животных)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomasz. top. 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Do­ rosz. II, 1047)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>garle</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горло, глотка , др.-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гърло</ref>, горло, гръло</orth>
+      </form>
+      <sense>
+        <def>горло, гортань , шея</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 137; Жит. Влас. 4. Мин. Чет. февр.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Крымск. дел. 1508 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 616; III, 82')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>хрящевой канал, являющийся начальной частью пищевода и дыхательных путей, находящийся в передней части шеи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(обзор различных частных значений диал. горло ср. р. см. Филин 7, 40—41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гырло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(орл., Филин 7, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло, глотка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 313)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>горла</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горло</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Наиболее близкое соответствие представлено в лит. gurklys 'зоб, кадык', др.-прусск. gurcle 'горло', вместе с кот. праслав.<ref type="etymon" target="gwdlo-2">*gwdlo</ref> 
+продолжает 
+и.-е. 
+<ref type="etymon" target="g-21">*g</ref>
+uf-tlo-, 
+суффиксальное 
+производное 
+от ступени 
+редукции 
+<ref type="etymon" target="g-22">*g</ref>
+      <ref type="etymon" target="r-l">*r-l</ref>
+      <ref type="etymon" target="g-23">*g</ref>
+      <ref type="etymon" target="er-">*er-</ref> 
+'пожирать, 
+поглощать'.</gram>
+  </gramGrp>
+  <note>Ср., с отличием в суф., греч. |3dpa6pov 'жерло, пасть' &lt; *g ur-dhro-m и слав.<xr type="compare">см. <ref type="etymon" target="zerdlo">*zerdlo</ref>
+    </xr> с отличием в вокализме корня. 
+См. 
+S. 
+Bugge 
+KZ 
+XX, 
+1872, 
+139; Р. 
+Брандт РФВ 
+XXII, 
+1889, 
+118; A. 
+Meillet 
+MSL 
+14, 
+1907, 
+380; 
+Berneker 
+I, 369; 
+W. 
+Porzezinsk-i 
+RS 
+IV, 
+1911, 
+7; Фасмер I, 441—442; Fraenkel 
+I, 
+148; 
+O. 
+Haas «Die Sprache» I, 1949, 50 и сл. (относит сюда 
+же галльск. grilau, 
+Marcellus 
+Empiricus, 
+De medicamentis liber, 
+V в.).</note>
+</Entry>

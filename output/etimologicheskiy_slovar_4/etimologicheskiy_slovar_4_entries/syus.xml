@@ -1,0 +1,169 @@
+<Entry xml:id="syus">
+  <pb n="172" end_page="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>СЫУЬСЬ</orth>
+    <lemma>СЫУЬСЬ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цръвецъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дождевой червь Lumbricus terrest- ris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црвец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>червь, червяк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чфрвец</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Иетрушевски. Неколку црти на говорот од Жировница.— MJ II, 3—4, 1951, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cfvac</ref>, род. п. cfvca, м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>червяк, червячок, кошениль, красный краситель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XV в., RJA I, 851)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crvec</ref>, род. п. -vca, м. р.</orth>
+      </form>
+      <sense>
+        <def>кошениль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>crvec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растения Vermiculus, Persiccaria, Pen- tafilon, Coccinum (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceruec</ref>, род. п. -vce, м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Coccidae, червей,, кошениль, красный краси­ тель</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cervec</ref>, род. п. -иса, м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое Tarchadie lacca , красный краситель, кошениль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 202)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czerwiec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>июнь, растение Scleranthus, насекомое червец Coccidae</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьрвьцъ</ref>, ум. от чървъ</orth>
+      </form>
+      <sense>
+        <def>червяк , чървъцъ, чрьвьцъ, червъцъ, черевъцъ красный цвет, красное поле в ткани , драгоценная ткань пур­ пурового цвета (Игн. Пут. XV в.), название драгоценного камня (рубин?) , чървъцъ, червъцъ название июля месяца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стихир. XII в., Срезневский III, 1558)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. Мих. Андр. Верейск. ок. 1486 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Афан. Никит. 338 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1558)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Зап. при Апост. 1307 г., Срезневский III, 1558)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>червец</ref>, род. п. -вца, м. р.</orth>
+      </form>
+      <sense>
+        <def>насе­ комое Coccus, кошениль, дающее краску</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёрвёць</ref>, род. п. -вця, м. р.</orth>
+      </form>
+      <sense>
+        <def>месяц июнь, кошениль Coccus cacti, растение Potentilla argentea L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чар</ref>- вёц, род. п. чарвяца, м. р.</orth>
+      </form>
+      <sense>
+        <def>червец (зоол.), чарбвец м. р. пара­ зитное растение на льняных стеблях , чарцы мн. белые черви, служащие наживкой для рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сержп., Байкоу—Нек- раш. 343)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="sgi-3">*сьгиъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Функции куль­ турного термина (напр., название месяца) объясняют возмож­ ность заимствования между слав, языками. Ср. ст.-блр. червецъ, XVI—XVII вв. 'июнь' из польск. См. Пстарычная лексщалопя беларускай мовы. Рэд. А. Я. Баханькоу (Мшск, 1970) 96. О мо­ тивах называния месяца см. Bruckner 76—77; К. Moszynski JP ^ ХХШИ, 1953, 352.</note>
+</Entry>

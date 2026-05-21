@@ -1,0 +1,36 @@
+<Entry xml:id="belotja">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belotja</orth>
+    <lemma>belotja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjeloca</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>albor, белизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>beloca</ref> ж. р. (кайк.)</orth>
+      </form>
+      <sense>
+        <def>белизна, белый цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -/- от<ref type="etymon" target="belota">* belota</ref> (см. выше) или, скорее, — 
+с суфф. -otja (вариант, характерный для части ю.-слав. языков) 
+от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

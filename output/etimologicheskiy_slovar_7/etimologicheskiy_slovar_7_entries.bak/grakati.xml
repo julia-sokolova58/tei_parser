@@ -1,0 +1,113 @@
+<Entry xml:id="grakati">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grakati</orth>
+    <lemma>grakati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гракам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гракам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бож- кова БД I, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грака</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гракати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать, кричать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdkati</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grakas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать (о вороне), бранить, спорить, быть сварливым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 313)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grakac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 898)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гракати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>каркать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 129; Георг. Ам. 223, Срезневский I, 578)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гракать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, шу­ меть, громко разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Расширение с помощью форманта -к- того же звукоподражат. корня, что и в<ref type="etymon" target="grajati">*grajati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Древний характер расширения яв­ ствует из сравнения с лат. gracillo 'кудахтать', graculus 'галка', др.-ирл. grac 'карканье'. См. Berneker I, 344.</note>
+</Entry>

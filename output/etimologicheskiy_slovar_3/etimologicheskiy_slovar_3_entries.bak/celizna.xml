@@ -1,0 +1,100 @@
+<Entry xml:id="celizna">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celizna</orth>
+    <lemma>celizna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ц</ref>/клизмл ж. p. х^Р 00^ solum desertum</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 1107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. (<ref>мор</ref>.) celizna ж. р.</orth>
+      </form>
+      <sense>
+        <def>снежный покров, льдина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cylizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>целое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>calizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>материк, толща, целина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 775)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>цЪлизна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целина, земля непаханная или заброшенная, пустырь (Ис. V — Упыр.), суша (Мин. чет. апр.), дно морское (Мин. чет. апр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>целйзна</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>нравственная целость и непорочность; целина, новь, залежь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>челизна</ref> ж . р.</orth>
+      </form>
+      <sense>
+        <def>целйзна , челыжня ж. р. в пашне невспаханное место , возм., сюда же телйзмы мн. огрехи , где этимологическое ц-^&gt;т-, гипе­ ризм в условиях цокающего диалекта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., Опыт 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., Опыт 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производимое (собир.) с суфф.<m type="suffix">
+        <ref>-izna</ref>
+      </m> 
+от 
+прилаг. 
+<ref type="etymon" target="syo1-7">*сё1ъ</ref> (см.), 
+близкое по образованию к <ref type="etymon" target="celina">*celina</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

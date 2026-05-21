@@ -1,0 +1,51 @@
+<Entry xml:id="gaz">
+  <pb n="113" end_page="114" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gazъ</orth>
+    <lemma>gazъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>газ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мелкое место на реке, брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кичево, см. Э. А. Григорян. Словарь местных географических терминов болг. и макед. языков. Ереван, 1975, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гйз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. "<ref>gaz</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тропа в снегу , g&amp;z м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>газ</ref> сброд</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(лепельск., Ластоуст 42; Яшшн. Блр. геагр. назвы 43)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Расширение и.-е. *g*a- 'идти'. Свидетельство блр. диал. газ (выше) имеет решающее знач., поскольку делает излишней гипо­ тезу В. Георгиева о заимствовании ю.-слав. форм из фрак, (дако- мизийск.) субстрата. См. специально О. Н. Трубачев «Этимоло­ гия. 1972» (М., 1974), 22 и сл. (с литерат.).</note>
+</Entry>

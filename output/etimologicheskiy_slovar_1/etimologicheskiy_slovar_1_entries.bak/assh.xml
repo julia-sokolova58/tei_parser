@@ -1,0 +1,33 @@
+<Entry xml:id="assh">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬасШ</orth>
+    <lemma>ЬасШ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бачитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать , сказывать, рассказывать , понимать, слышать , бацйшъ шуметь, шумно разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 159)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Расширение с помощью -к- суффиксального основы, пред­ ставленной в праслав.<xr type="compare">см. <ref type="etymon" target="bajati">*bajati</ref>
+    </xr> и в др. образованиях. См. Фас­
+мер I, 138 (: бачитъ II). Древность проблематична.</note>
+</Entry>

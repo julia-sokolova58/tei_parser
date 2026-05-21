@@ -1,0 +1,36 @@
+<Entry xml:id="brizdzati">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brizdzati</orth>
+    <lemma>brizdzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brizati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть" . — Возм., сюда же и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 6 2 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfdzgic</ref>, br</orth>
+      </form>
+      <sense>
+        <def>izgq поджаривать, тушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 7 7 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. образование, вар. к<ref type="etymon" target="bryzdzati">*bryzdzati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

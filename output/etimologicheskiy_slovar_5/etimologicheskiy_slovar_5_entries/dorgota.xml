@@ -1,0 +1,102 @@
+<Entry xml:id="dorgota">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorgota</orth>
+    <lemma>dorgota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Драгоша</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Илчев. Речник на личните и фамилии имена у българите 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dragota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна , также dragota м. р., личное имя собств. , сюда же йотовое производное драгоНа ж. р. дорого­ визна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA II, 755)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с древнейших времен до XIV в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dragota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драгоценность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drahota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drahoty</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>нерешительность, колебания , елвц. drahota ж. р. дороговизна; дорогая стоимость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 323)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drogota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна . — Сюда же, далее, производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дорогбшня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз.^-нижегор., яросл., костр., урал., Филин 8, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>дорогуши</ref> 1 а то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(В. В. Бабинець. Гов1рка села Лавки Мука- ч1вського району, дип. роб. Ужгород, 1954, 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="dorgb-6">*dorgb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

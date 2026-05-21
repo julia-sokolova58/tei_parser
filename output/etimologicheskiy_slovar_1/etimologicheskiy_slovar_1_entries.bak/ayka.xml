@@ -1,0 +1,57 @@
+<Entry xml:id="ayka">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>аЫъка</orth>
+    <lemma>аЫъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ябълка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яблоня, яблоко , абълка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бълка</ref> ж. р. , йабока, йаболка ж. р. , йабука ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стой­ чев БД II, 175)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 81; Шапка­ рев—Близнев БД III, 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>idbolka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яблоко, яблоня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 353)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Только ю.-слав. Генетически соотносимо с формой мн. ч. от<xr type="compare">см. <ref type="etymon" target="a1ko">*аЬ1ъко</ref>
+    </xr>, 
+употребляемой 
+на 
+остальной 
+слав, 
+территории 
+исключительно в своей морфологической 
+функции.</note>
+</Entry>

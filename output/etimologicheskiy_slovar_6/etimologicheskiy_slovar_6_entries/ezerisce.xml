@@ -1,0 +1,72 @@
+<Entry xml:id="ezerisce">
+  <pb n="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ezerišče</orth>
+    <lemma>ezerišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jezeriste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>озеро , jlsepuuirne ср. р. заливная, затопляемая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 638)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 699)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jezerisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>болото, топь, место, где находится озеро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jezeriste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>топкое, болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>озерйще</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>высохшее озеро, место, где оно было</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1697)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>вазярышча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бывшее дно озера</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 102)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isбе</ref>
+      </m> от <ref type="etymon" target="ezero">*ezero</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

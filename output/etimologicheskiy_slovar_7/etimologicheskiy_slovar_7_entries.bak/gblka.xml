@@ -1,0 +1,43 @@
+<Entry xml:id="gblka">
+  <pb n="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gblka</orth>
+    <lemma>gblka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гълка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>опухоль желез , глъка ж. р. железа под челюстью (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев БЕР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>опухоль, отек, нарост на теле человека или животного, нарост на заболевшем растении, ком, груда, глыба, комочек, запутан­ ный клубок, узел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 745; RJA III, 496—497; сюда же Глъка, местн. название, 1318 г.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. диалектизм.</note>
+  <gramGrp>
+    <gram>Суффиксальное производное на<m type="suffix">
+        <ref>-ка</ref>
+      </m> 
+от 
+того же 
+корня 
+<ref type="etymon" target="g-19">*g</ref>"fcZ-, что и <ref type="etymon" target="gblma">*gblma</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. И. П. Петлева «Этимология. 1973» (М., 1975), 53—54.</note>
+</Entry>

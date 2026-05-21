@@ -1,0 +1,126 @@
+<Entry xml:id="cesnqti">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesnqti</orth>
+    <lemma>cesnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чёсна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломать, разбивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чешне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>почесать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cesnuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>avellere</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesnitl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, стукнуть , сюда же ceknitl дернуть, ударить, пикнуть , также cehniti, cehn.ti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika 1, 284)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cesnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сломать (ветку) , cesnut шлеп­ нуть , cisnut ударить , cisnout шлепнуть , cisnot</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kopecny. Urc. 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cesnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, стукнуть, треснуть (ломаясь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чеснуть</ref>, однократное к чесать</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чеснути</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 460)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-noti</ref>
+      </m>, 
+соотносительный 
+с 
+<ref type="etymon" target="cesati">*cesati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. еще А. А. Шахматов ИОРЯС VII, 1902, 345; Фасмер IV, 350.</note>
+</Entry>

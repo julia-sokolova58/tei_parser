@@ -1,0 +1,141 @@
+<Entry xml:id="dysati">
+  <pb n="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dyšati</orth>
+    <lemma>dyšati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъиидти</ref> ep,irvslv, spirare, anhelare</orth>
+      </form>
+      <sense>
+        <def>дышать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дйшам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дйшам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дише</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dlsati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бла­ гоухать, пахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>disati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пахнуть, быть по вкусу, нюхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dyszec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело, с тру­ дом дышать, (стар.) дышать (вообще)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дышать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вбирать и выпускать воздух (о человеке и животных)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дышать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>здравствовать, быть здоровым; благополучно суще­ ствовать (вят.), говорить; жалобно говорить, стонать (моек., твер.) . — Ср., с отличной глаг. основой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дишити</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dysic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело дышать, пыхтеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 179)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="dyxati">*dyxati</ref> 
+(см.), ср. и лит. 
+duseti 
+'пыхтеть'.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 249; Фасмер I, 559.</note>
+</Entry>

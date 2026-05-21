@@ -1,0 +1,162 @@
+<entries>
+  <entry xml:id="bdlabdlobdlicabdllabdlk" xml:id="bdlabdlobdlicabdllabdlk">
+    <pb n="110" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъdla/*bъdlo/*bъdlica/*bъdlълa/*bъdlъkъ</orth>
+      <lemma>bbdla</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbdlo</orth>
+      <lemma>bbdlo</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbdlica</orth>
+      <lemma>bbdlica</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbdlbka</orth>
+      <lemma>bbdlbka</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbdlbkb</orth>
+      <lemma>bbdlbkb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bedla</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>гриб Agaricus</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">диал. <ref>bedla</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>вид грибов</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lamprecht. Slov. stfe- doopav. 22)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>bjedlo</ref>, bodlo</orth>
+        </form>
+        <sense>
+          <def>гриб, (древесная) губка , bjadlo ср. p. губка, spongia , bodlo ср. p. губка гриб , сюда же Ыу мн. болезнь молочница</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 18)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Jakubas 64)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Pfuhl 1057)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb" type="dialect">диал. <ref>bla</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>гриб, ржавчина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 40, с реконструкцией *bъdla)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="dsb">н.-луж. <ref>bedlo</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>губка (на деревьях), плохой гриб</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 22)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="old">ст.-польск. <ref>bdla</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>гриб, fungus , гриб Phallus irnpudicus L</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(1437 г.)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(St. stpol. I, 72)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>bdla</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>гриб Agaricus campestris и Aga­ ricus deliciosus, bedlka ж. p. то же , также bedly pi. tant. вид грибов</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 109, 110; Dorosz. I, 392)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 109)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>bdltk</ref> м. p.</orth>
+        </form>
+        <sense>
+          <def>сорт грибов</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Lorentz Pomor. I, 22, с реконструкцией праслав. *Ьъо!1ъкъ)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>блицы</ref> мн. ч. ж. р.</orth>
+        </form>
+        <sense>
+          <def>грибы , блица ж. р. гриб , блицы мн. ч. ж. р. грибы, губы</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(петерб., гдов., пек., великол., новоржев., опоч., Опыт 11)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек. Доп. к Опыту 9)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(новг., пек., зап., Д а л ь 3 I, 240)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Родственно лит. bude 'трут, губка (на дереве)', причем -I 
+суффиксальное, а корень восходит к и.-е. *bud- 'пухнуть, разду­
+ваться' (или *ЪъаЧа &lt; и.-е. *bheu- 
+' р а с т и ' + с у ф ф . -dla? — Так 
+Р. Якобсон, см. V. Machek ZfslPh X X V I I I , 1959, 216). См. Ber­
+neker I, 106; К. Буга Р Ф В L X V I I , 1912, 2 3 3 - 2 3 4 ; Фасмер I, 
+176. Русск. слово Бернекер (I, 61) ошибочно считал заимствова­
+нием и преобразованием нем. Pilz, 
+см. против Фасмер, там же. 
+Маловероятно сближение слав. *Ьъа^1а и греч. 
+PCDXITTJC, лат. bo­
+letus 'гриб' как слов общего субстратного происхождения V. Ma­
+chek L P 2, 1950, 148; он же ZfslPh X X V I I I , 1959, 216; Machek
+ 
+50. См. еще В. Bartnicka 
+«Z polskich studiow slawistycznych», 
+1963, 1 8 8 - 1 8 9 .</note>
+  </entry>
+</entries>

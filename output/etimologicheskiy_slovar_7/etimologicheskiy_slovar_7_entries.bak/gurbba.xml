@@ -1,0 +1,92 @@
+<Entry xml:id="gurbba">
+  <pb n="176" end_page="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gurbba</orth>
+    <lemma>gurbba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гурба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>то, что нанизано, низка, нитка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ДаЬу теби три гурбе бисера. РСА III, 761)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гурьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, ватага, куча народа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1012)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гурба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толпа , гурбочка ж. р. толпа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Два старинных областных словаря XVIII столетия. Со­ общение IL К. Симони. Вятский областной словарь.—ЖСт VIII. 1898, 449)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тул., Филин 7, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гурба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, гурьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 341: Вх. Зн. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гурба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, сугроб , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гурба</ref> ж. р. , горба ж. р.</orth>
+      </form>
+      <sense>
+        <def>гурт, гурьба, куча (зерна)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шаталава 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Недостаточно ясно отношение к укр., блр. формам гурма, юрма, юрба (см. о них подробно О. С. Мельничук «Слово i труд». Киш. 1976, 163—167), однако для формы<ref type="etymon" target="gurbba">*gurbba</ref> в ее разных значениях 
+(выше) наиболее 
+вероятна 
+производность 
+(имя действия) с суф. 
+-ъЪа от гл. на -iti <ref type="etymon" target="guriti-2">*guriti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. Фасмер I, 476—477 (без срав­ нения с сербохорв. гурба). Связь *gurbba с к. *gur- 'говорить' (так см. Г. А. Ильинский РФВ LXIII, 1910, 341) менее вероятна.</note>
+</Entry>

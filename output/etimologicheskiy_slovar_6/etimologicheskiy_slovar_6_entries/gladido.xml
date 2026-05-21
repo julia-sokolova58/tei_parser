@@ -1,0 +1,115 @@
+<Entry xml:id="gladido">
+  <pb n="114" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gladido</orth>
+    <lemma>gladido</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гладило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>точило, точильный брусок, оселок , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров; Дювернуа: гладило ср. р. 'глажение', 'притира­ ние')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гладило</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кънчев. Пирдопско. — БД IV, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гладило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>точильный камень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гладило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>оселок, точильный камень, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гладило</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(FG 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gladilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>точило, утюг, глаженье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hladidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>то, чем гладят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 674)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hladidlo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 475)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gladzidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вид рубанка для отделочных работ, утюг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 839)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гладило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рубанок для гладкого и ровного выстру­ гивания; фуганок (орл., калуж.), деревянное орудие, которым выравнивают молотильный ток (курск.), сапожный инструмент: гвоздь с очень гладкой шляпкой, служит для выглаживания каблука (самар.), особый молот с продолговатой четырехуголь­ ной головкой, употребляемый при ковке сахарных щипцов (тул.) , гладило м. р. волокита (орл., ряз.), лю­ бовник, сожитель (ряз.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="gladiti">*gladiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

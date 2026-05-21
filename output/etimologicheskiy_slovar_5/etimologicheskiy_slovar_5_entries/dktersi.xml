@@ -1,0 +1,32 @@
+<Entry xml:id="dktersi">
+  <pb n="178" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъkt’erьši</orth>
+    <lemma>dъkt’erьši</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cersa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>племянница^ дочь брата или сестры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XIV и XVIII вв., RJA II, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъщеръши</ref>, дъщерыиа dve^ia, consobrina .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в. 167; Крм. XIII, Срезневский I, 763)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. ~bsi (первонач. компаративный суфф. 4s-) от основы<ref type="etymon" target="dbkfer-">*dbkfer-</ref> 
+(см. <ref type="etymon" target="dbkt4">*dbkt4)</ref>.</gram>
+  </gramGrp>
+</Entry>

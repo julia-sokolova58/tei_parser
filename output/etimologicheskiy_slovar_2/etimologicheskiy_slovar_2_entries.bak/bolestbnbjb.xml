@@ -1,0 +1,117 @@
+<Entry xml:id="bolestbnbjb">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'estbnb(jb)</orth>
+    <lemma>bol'estbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>болестей</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдлестан</ref>, -сна, -сно</orth>
+      </form>
+      <sense>
+        <def>больной, aegrotus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bolesten</ref>, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bolestny</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный; скорбный, печальный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bolestny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bolostny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bolosny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный, больной, печальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bolesny</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>bolesny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный, скорбный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 604—605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болесный</ref>, болестный, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Копист. Пал. 956, Тимченко I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боло</ref>­ ний.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="boVestb-2">*boVestb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

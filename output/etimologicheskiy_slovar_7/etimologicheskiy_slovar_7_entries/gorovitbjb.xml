@@ -1,0 +1,79 @@
+<Entry xml:id="gorovitbjb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorovitb(jb)</orth>
+    <lemma>gorovitb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горовит</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>лесистый, гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горовит</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>лесистый, гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 492— 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goroult</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horovity</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горовйтый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>неровный, гористый (о местности)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., калуж., Филин 7, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>горовйтий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>гористый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн., 12, Гринченко I, 314)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиИъ</ref>
+      </m> от <ref type="etymon" target="gora">*gora</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

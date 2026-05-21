@@ -1,0 +1,69 @@
+<Entry xml:id="glinik">
+  <pb n="126" end_page="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glinikъ</orth>
+    <lemma>glinikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>glinik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>место, где копают глину , глйнйк м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 348)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glinik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глинистая почва, глиняная яма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hlinik</ref> м. р. 12? giipati</orth>
+      </form>
+      <sense>
+        <def>место, где берут глину</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bufcov. 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hlinik</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gliniki</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>глинистая земля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 835)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-гкъ</ref>
+      </m> от <ref type="etymon" target="glina">*glina</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

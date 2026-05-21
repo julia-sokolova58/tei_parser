@@ -1,0 +1,27 @@
+<Entry xml:id="bridlica">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridlica</orth>
+    <lemma>bridlica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfidlice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сланец, шифер, шиферная пластинка, čслвц. bridlica ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 130)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="bridi-">*bridi-</ref> 
+(см. <ref type="etymon" target="bridla">*bridla</ref>, 
+<ref type="etymon" target="bridlo">*bridlo)</ref>.</gram>
+  </gramGrp>
+</Entry>

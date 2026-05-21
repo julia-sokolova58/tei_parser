@@ -1,0 +1,136 @@
+<Entry xml:id="CePadbmbjb">
+  <pb n="42" end_page="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>CePadbmb(jb)</orth>
+    <lemma>CePadbmb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чёляден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>семейный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>чел</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>аден шатко многодетный^ отец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(К. Пеев. -За македонската диалектна лексика. MJ ХХТ,«1970, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>rce</ref>!adan,~-dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>personarum, hominum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 931)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celedni</ref>, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>относящийся к челяди, сюда же субстантивированное се- Ыпа ж. р. комната для прислуги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann Т, 271; ср. Včz* n^. Stfedovek. list. 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ceVadny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>семейный, отно­ сящийся к челяди</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>celadny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к челяди, прислуге Piuhl 73J</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czeladny</ref>, прилаг. от cze- ladz</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. 1, 1120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>челАдъна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>помещение для слуг , также личное имя зобств. Челядня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Рост. л. под 1332 г. Срезневский Ш, 1498)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чёлядный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>к челяди относящийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>челядня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль­ шая семья , челядна прислуга (пек., Карто­ тека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Опыт 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чел</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>адно большая ^емья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Областной словарь буковинских говоров 471)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="ceUadb">* ceUadb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

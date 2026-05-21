@@ -1,0 +1,61 @@
+<Entry xml:id="yo1ognka">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1огНъка</orth>
+    <lemma>Ьё1огНъка</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belorltka</ref> ж. p. =belorepec</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19; из чеш.?)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belofitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица Saxicola</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>beloritka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>beloritka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>птица с белым оперением на хвосте Delichon urbica</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>belo</ref>­ ritka</orth>
+      </form>
+      <sense>
+        <def>белый песочник; скакун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 27)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вместе с *Ьё1огМъкъ (см. след.) произведено с помощью суфф. ~ък- от именного сложения<xr type="compare">см. <ref type="etymon" target="yo1ogn">*Ьё1огНъ/ъ</ref>
+    </xr>.</note>
+</Entry>

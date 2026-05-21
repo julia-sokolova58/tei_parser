@@ -1,0 +1,150 @@
+<Entry xml:id="globiti">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*globiti</orth>
+    <lemma>globiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глобя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>налагать штраф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Дювернуа: глобж, глуб\-ж 'мучу')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глоби</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оштрафовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдбити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>налагать денежный штраф, штрафовать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlobiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>укреп­ лять, заклинивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 692; Kott I, 434)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hlobiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>колотить, бить, есть, просить , hlobiV бить, толочь , елвц. MobW бить, заби­ вать (молотом), сбивать, сколачивать (из дерева)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartog. Slov. 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hlobic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вбивать клин, заклинивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>globtt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подавааь, предлагать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>globic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клянчить, назойливо просить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(около 1455 г., St. stpol. II, 420)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>gtobid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сжимать, сдавливать, fдавить, угнетать, (диал.) загонять клин, набивать обручи на бочку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 842)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глобитъея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадничать (нижегор.), забожиться (нижегор.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глб</ref>- бйти</orth>
+      </form>
+      <sense>
+        <def>укреплять клиньями вал в мельнице, конопатить, обижать кого</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290; Р. Смаль-Стоцький «Slavia» 5, 1926, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. па<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="globa">*globa</ref> (см.).</gram>
+  </gramGrp>
+  <note>Приводимые обычно сравнения из балт. языков (см. напр. Stawski I, 291) прямого отношения к образованию форм слав. * globiti не имеют.</note>
+</Entry>

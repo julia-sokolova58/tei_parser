@@ -1,0 +1,131 @@
+<Entry xml:id="grobja">
+  <pb n="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobja</orth>
+    <lemma>grobja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>groblja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, груда камней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hrobe</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча, бугор, могильный холм, могила , hrobVa ж. p. насыпь, куча (камней, земли)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ge- bauer I, 500)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Zilinsk. kn. 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrobVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча камней или земли, могила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hrobVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>картофельная яма, ком мерз­ лой земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(MatejciK. Vychodonovohrad. 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grobla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ров, канава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мика St. I, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grobla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гребля, на­ сыпь из земли и хвороста, дамба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гроблка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гроб (Ио. екз. Бог. XII в.), ров, окру­ жающий город</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 977 г.; Лавр. л. под 1149 г.; Ип. л. 1172 г. и др., Срезневский I, 593—594; СлРЯ XI— XVII вв. 4, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>грббля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ров, канава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 979)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>гроблА</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гребля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1470 г., Словник ст.-укр. мови XIV—XV ст. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гробля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горный хребет, пло­ тина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. А. Марусенко. Материалы к словарю укр. географичес­ ких апеллятивов (названия рельефов). — Полесье 224)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -/а, соотносительное с<ref type="etymon" target="grebja">*grebja</ref> 
+(см.) и 
+<ref type="etymon" target="grobb">*grobb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>О деталях словообразования (суф. -ja или -Га?) и словопроизводства см. Г. А. Ильинский ИОРЯС XXXI, 1926, 351; Ф. Славски «Езиковедски изследвания в чест на акад. С. хМладенов» 270.</note>
+</Entry>

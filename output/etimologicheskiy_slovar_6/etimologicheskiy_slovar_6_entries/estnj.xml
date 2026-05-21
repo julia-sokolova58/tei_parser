@@ -1,0 +1,149 @@
+<Entry xml:id="estnj">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstьnъ(jь)</orth>
+    <lemma>ĕstьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>летен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>съедобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. С. Бобчев. Пъту- ване около света (превод), 1873 г. Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesten</ref>, -stna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>съедобный , сюда же субстантивированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>jesne</ref>, jestne</orth>
+      </form>
+      <sense>
+        <def>какое-то кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (с <ref>переходом</ref> -stn-^&gt; -сп-) jicny, прилаг.</orth>
+      </form>
+      <sense>
+        <def>прожорливый, съедобный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I f 612)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jicny</ref> , субстантивированное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jicen</ref>, род. п. -спи, м. р.</orth>
+      </form>
+      <sense>
+        <def>пищевод</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jisni</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jestny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>съедобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1453 г., St. stpol. Ill, 188; Warsz. И, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jesny</ref>, isny, istny</orth>
+      </form>
+      <sense>
+        <def>про­ жорливый, неразборчивый в еде , jeeny нена­ сытный, прожорливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 171)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ёстный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сытный, вытный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вост., Даль 3 IV, 1522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ёстный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>съест­ ной, к пище относящийся . — Сюда же примыкает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 723)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ЛшеНу</ref> -шна, -шно&gt; прилаг.</orth>
+      </form>
+      <sense>
+        <def>охочий до еды, прожорливый , восходящее, по-видимому, через *ягиен к преоб­ разованному *estbnb, см. выше</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ: народное)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ястен</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="estb">*estb</ref>, <ref type="etymon" target="esti">*esti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

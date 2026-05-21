@@ -1,0 +1,45 @@
+<Entry xml:id="cistica">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistica</orth>
+    <lemma>cistica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>eistica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Chenopodium</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>ciscica</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>czyucica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>растение Linaria vulgaris Mill</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1460 г., St. stpol. I, 433)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="cistb">*cistb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

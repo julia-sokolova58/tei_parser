@@ -1,0 +1,31 @@
+<Entry xml:id="asutbnbjb">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>asutbnbjb</orth>
+    <lemma>asutbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jesitny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тщеславный, пустой, тщетный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jesutny</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 222)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(ъ)пъ]Ь от основы<ref type="etymon" target="asutb">*asutb</ref> (см.; 
+там же подробно об этимологии).</gram>
+  </gramGrp>
+</Entry>

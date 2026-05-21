@@ -1,0 +1,168 @@
+<Entry xml:id="ngyg">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬНгыгь(]ь)</orth>
+    <lemma>ЬНгыгь(]ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блажен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ближний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: ближний)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>ближен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий, ближний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>близен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bllznl</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>propinquus , bllzan, род. п. bllzna, м. р. близнец , блйзан, род. п. -зна, блйзан, род. п. -ана, м. р. близнец, близкий человек, родственник , также прилаг. блйзан, блйзна, -зно близнец, двойной, спорыш (о нек. плодах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в., RJA I, 447)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA I, 440)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 648)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>блйжгьи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bllznji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий, ближний , blizen, -zna, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet I, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blizni</ref>, род. п. -iho, м. р.</orth>
+      </form>
+      <sense>
+        <def>ближний (т. е. человек по отношению к другим людям)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blizny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 104; Kalal 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blizny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ближний, близкий, родст­ венный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>blizny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий, соседний, бли­ жайший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blizni</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий, похожий, ближний, родственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>ближьнии</ref> irXTjatoc, propinquus (Остром, ев.), cognatus</orth>
+      </form>
+      <sense>
+        <def>родственник , близлежащий, родственный, находящийся в родстве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, Доп. 19')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>ближний</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ЮРГр. № 81—1445 г., Тимченко I, 99)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от формы сравнительной степени<ref type="etymon" target="blize-2">* blize</ref>.</gram>
+  </gramGrp>
+  <note>См. об этом и аналогичных образованиях В. М. Иллич-Свитыч «Этимология» (М., 1963) 84. Формы на -z-, следовательно, вторичны. Знач. 'ближний, близкий человек', 'человек в отношении к другим людям' (ст.-слав., русск.-цслав. русск.) — бесспорная семант. калька с греч. 7tX*rjoto&lt;;, почему некоторые слав, соответствия (в частности опущенное здесь русск.) можно считать книжными элементами лексики. Неоправ­ дан поэтому пропуск ст.-слав, слова в монографии: К. Schumann. Die griech. Lehnbildungen und Lehnbedeutungen im Altbulgari- schen.</note>
+</Entry>

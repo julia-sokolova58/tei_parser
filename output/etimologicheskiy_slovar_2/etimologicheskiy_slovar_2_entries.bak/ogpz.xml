@@ -1,0 +1,25 @@
+<Entry xml:id="ogpz">
+  <pb n="219" end_page="220" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьогьпъ(зь)</orth>
+    <lemma>Ьогьпъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдрни</ref>, -а, -б</orth>
+      </form>
+      <sense>
+        <def>боевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ъбгеп, -та, прилаг. 'боевой, воинственный' (Plet. I, 45), чеш. редк. Ъогпу, прилаг. 'разрушительный' (если последнее действи­ тельно относится сюда). — Субстантивацией данного прилаг- ного являются, далее, болг. диал. бори а ж. р. 'борьба' (с. Бъл га ри, Архив Болг. диал. словаря, София), бурщж. р. 'борьба' (Горов, Страндж. — БД I, 70), укр. борня ж. р. 'борьба' (Гринченко I, 87).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъгг- от корня гл.<ref type="etymon" target="borti-11">*borti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,56 @@
+<Entry xml:id="bitbCb">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bitbCb</orth>
+    <lemma>bitbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bitec</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>борец, боец, peritus (Klaret), mulcator (Ст.-чеш., Прага), bitec, род. над. -tee, м. p. gladiator</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1501 г., Gebauer I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bitec</ref>, род. над. -tee, м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, борец, драчун, забияка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>битёц</ref>, род. пад. -тца, м. р.</orth>
+      </form>
+      <sense>
+        <def>било у цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тверск., пенз., Филин 2, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>битёць</ref>, род. пад. -тця, м. р.</orth>
+      </form>
+      <sense>
+        <def>каменоломщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Миус. окр., Гринченко I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное (<m type="suffix">
+        <ref>-t-ъсъ</ref>
+      </m>) в функции имени деятеля, 
+названия орудия от основы гл. <ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

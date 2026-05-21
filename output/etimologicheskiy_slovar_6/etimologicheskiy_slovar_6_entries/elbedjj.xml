@@ -1,0 +1,32 @@
+<Entry xml:id="elbedjj">
+  <pb n="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elbęd(j)ьjь</orth>
+    <lemma>elbęd(j)ьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>лебЛжий</ref>, -ья, -ье</orth>
+      </form>
+      <sense>
+        <def>лебединый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>лебёдш</ref>, -дя, -де</orth>
+      </form>
+      <sense>
+        <def>лебяжий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко II, 349)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное от<ref type="etymon" target="elb-2">*elb</ref>?db (см.).</gram>
+  </gramGrp>
+</Entry>

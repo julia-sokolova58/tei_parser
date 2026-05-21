@@ -1,0 +1,49 @@
+<Entry xml:id="edba">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdьba</orth>
+    <lemma>ĕdьba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>йдба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jedba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища, кушанье , сюда же, с от­ личием в рефлексе гласного суффикса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едбба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еда, пища, принятие пищи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 141)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название действия, производное с суфф.<m type="suffix">
+        <ref>-ъЪа</ref>
+      </m> от основы гл. 
+<ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="edmb-3">*edmb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

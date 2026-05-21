@@ -1,0 +1,75 @@
+<Entry xml:id="dudati">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dudati</orth>
+    <lemma>dudati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дудати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дудеть, играть на дудке, волынке, дуть, много пить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dudati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на волынке, дудеть, делать кое-как, медленно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dudati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на волынке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dudat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сосать (грудь)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dudat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на волынке, напе­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 339)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от имени <ref type="etymon" target="duda">*duda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

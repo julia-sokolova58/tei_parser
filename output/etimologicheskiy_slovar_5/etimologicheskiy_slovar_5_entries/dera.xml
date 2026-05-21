@@ -1,0 +1,82 @@
+<Entry xml:id="dera">
+  <pb n="12" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕra</orth>
+    <lemma>dĕra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dira</ref> ж. р., тв. п. deroujdirou,, род. п. мн. der,</orth>
+      </form>
+      <sense>
+        <def>дыра елвц. diera ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 260)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dzera</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыра, нора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>zera</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыра, пустота, отверстие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. II, 1185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jera</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дЪра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, отверстие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Назиратель, 203. XVI в. —СлРЯ XI—XVII вв. 4, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dipd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дыра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 392)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с инновационным вокализмом -ё- от гл.<ref type="etymon" target="derg">*derg</ref>, 
+<ref type="etymon" target="dbrati">*dbrati</ref> (см.) или от основы <ref type="etymon" target="dera-">*dĕra-</ref>, см. <ref type="etymon" target="dyorav">*dёravъ</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="dira-2">*dira</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

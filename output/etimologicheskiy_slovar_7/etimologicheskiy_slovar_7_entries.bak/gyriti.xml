@@ -1,0 +1,57 @@
+<Entry xml:id="gyriti">
+  <pb n="221" end_page="222" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyriti</orth>
+    <lemma>gyriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hyfiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тратить, кутить, распутничать, hejfiti, hyfiti бегать, носиться, блуждать, заблуждаться , елвц. hyrW вести беспутный образ жизни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 672)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 550)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гйрить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смеяться (Картотека Новгородского ГПИ)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гйрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нести, тащить с трудом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ги</ref>- рйти</orth>
+      </form>
+      <sense>
+        <def>тратить, растрачивать, уничтожать, продаватьJ за бес­ ценок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойювського д1алекту)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -itiу родственный предыд. •gyzdbkbjb</note>
+</Entry>

@@ -1,0 +1,149 @@
+<Entry xml:id="badylb">
+  <pb n="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>badylb</orth>
+    <lemma>badylb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>badil</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железная лопата , badil м. р. растение Cirsium arvenso L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I в., R J A I, 146)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>badllj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>железная лопата, заступ для рытья земли , сюда же преобразованное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>bacllj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>перо лука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>badiV</ref> м. р. стебель кукурузы , badyV</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вост.-слвц., S. Ondrus Slsl 2, 1967, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>badyl</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>стебель без листьев, сухой ствол , badyl, badel</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 293)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бадылъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сухой стебель , сюда же бадылёк растение Galeopsis Tetrahit</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 2, 41)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 31, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бадилйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель, трость, былинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 19; Укр.-рос. слови. I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадылъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бодливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-у1ъ</ref>
+      </m> от гл. 
+основы несврш. 
+вида 
+bad-
+(см. <ref type="etymon" target="badati-5">*badati)</ref>.</gram>
+  </gramGrp>
+  <note>Тесно связано с<xr type="compare">см. <ref type="etymon" target="bodyh">*bodyh</ref>
+    </xr>; сравнение с послед­
+ним, а также вокализм 
+корня 
+близких 
+суффиксальных 
+произ­
+водных *kovylb, 
+*metylb, 
+<xr type="compare">см. <ref type="etymon" target="motylb">*motylb</ref>
+    </xr> показывают 
+возможную 
+вторичность вокализма *badylb (под влиянием *badati). См. еще 
+Фасмер I, 104 (: бадылек); Siawski 
+I, 25; Sjawski 
+JP 
+X X X I V , 
+1954, 135. Принимая во внимание географию *badylb и его много­
+значность ('лопата', 'растения Cirsium arvense, Galeopsis', 'перо 
+лука, стебель'), а также наличие специфических 
+форм 
+вроде 
+сербохорв. bacllj (относительно объяснения -с- <xr type="compare">см. <ref type="etymon" target="bacati">*bacati</ref>
+    </xr>), нельзя 
+не 
+признать 
+ошибочным 
+мнение 
+о заимствовании 
+сербохорв. 
+badil] 'лопата' из ит. (ср.-лат.) badile то же (Skok. Etim. rjecn. 
+J, 87).</note>
+</Entry>

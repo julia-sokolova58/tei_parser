@@ -1,0 +1,42 @@
+<Entry xml:id="yo1se">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ьсе</orth>
+    <lemma>Ьё1ьсе</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ыосе</ref> cp. p.</orth>
+      </form>
+      <sense>
+        <def>dbumen, белок (в яйце)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>беоце</ref>, бидце ср. р.</orth>
+      </form>
+      <sense>
+        <def>белок (яйца) , Вёосе ср. р., село в Сербии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 469)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 234)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсе</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.), по сути дела — 
+вариант к <ref type="etymon" target="yo1s">*Ъё1ьсъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возм., под влиянием формы<xr type="compare">см. <ref type="etymon" target="ajbce">*ajbce</ref>
+    </xr>?</note>
+</Entry>

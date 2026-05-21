@@ -1,0 +1,72 @@
+<Entry xml:id="bezqsbjb">
+  <pb n="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezqsbjb</orth>
+    <lemma>bezqsbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezvousy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безусый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezwqsy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безусый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безусый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого нет усов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвусий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безусый, не имеющий усов</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязвусы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безусый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-67">*bez</ref> (см.; 
+там же — о данном словообразовательном типе) и основы имени 
+<ref type="etymon" target="gsb">*gsb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Наличие протезы v- внутри сложения (ср. чеш., польск., укр. примеры выше) не говорит само по себе о новизне сложения и может быть отнесено за счет фонетического подновле­ ния в условиях прозрачности сложения, постоянно соотносимого с соответствующим апеллативом в свободном виде, с закономер­ ным развитием протезы (ср. польск. wqs).</note>
+</Entry>

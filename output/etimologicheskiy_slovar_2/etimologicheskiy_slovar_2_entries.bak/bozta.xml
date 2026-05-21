@@ -1,0 +1,22 @@
+<Entry xml:id="bozta">
+  <pb n="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boz$ta</orth>
+    <lemma>boz$ta</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bozata</ref>, Bozeta м. р., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ge­ bauer 1, 88)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -$ta, употребительным в соответствующем классе слав, мужских антропонимов, от основы имени<ref type="etymon" target="bogb">*bogb</ref> (см.) 
+(или от «свернутого» двуосновного антропонима типа <ref type="etymon" target="bozetexb">*bozetexb</ref> 
+[см.]?).</gram>
+  </gramGrp>
+</Entry>

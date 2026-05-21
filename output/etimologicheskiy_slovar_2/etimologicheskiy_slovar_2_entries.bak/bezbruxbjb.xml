@@ -1,0 +1,50 @@
+<Entry xml:id="bezbruxbjb">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezbr'uxbjb</orth>
+    <lemma>bezbr'uxbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezbficlr</ref>^, прилаг.</orth>
+      </form>
+      <sense>
+        <def>не имеющий живота, без- брюхий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezbrzuchy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безбрюхий, тощий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безбрюхий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого живот мал, плоский или впалый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 146)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-5">* bez</ref> (см.) и <ref type="etymon" target="bfuxol">*bfuxol</ref>
+      <ref type="etymon" target="g">*Ьг</ref>'ихъ 
+(см.).</gram>
+  </gramGrp>
+  <note>Только сев.-слав,, как и соответствующий апеллатив. См. еще Miklosich. Vgl. Gr. II, 403—404.</note>
+</Entry>

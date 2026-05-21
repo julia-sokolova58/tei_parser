@@ -1,0 +1,91 @@
+<Entry xml:id="bogovbjb">
+  <pb n="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bogovb(jb)</orth>
+    <lemma>bogovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>богов</ref>, богов, -а, -о</orth>
+      </form>
+      <sense>
+        <def>божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Поел. Вук.— PGA 1, 687; ср. еще богдв/ьй, -а, -е, см. РСА I, 688)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bohovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Троянская хроника, XV в., Kott I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bohov</ref>, прилаг. экспр., в ругательствах, напр. do bohovej matere</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bohowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bogowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. редк. <ref>богов</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божий, свойственный, принад­ лежащий богу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 258)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 6o2ie,-<ref>ова</ref>,-ове</orth>
+      </form>
+      <sense>
+        <def>божеский, богу принадлежащий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 79)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Притяж. прилаг., производное с суфф. -ov- от<ref type="etymon" target="bogb">*bogb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Местоименное -уъ вторично.</note>
+</Entry>

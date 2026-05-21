@@ -1,0 +1,124 @@
+<Entry xml:id="dobrina">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrina</orth>
+    <lemma>dobrina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добрана</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доброта, добро, благо, польза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>добрин</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 58; Шапкарев— Близнев БД III, 212; Д. Евстатиева. С. Тръстеник, Плевенско. БД VI, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>добрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доброе дело, доброта , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>dobrina</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda- Vevcani dialect of Macedonian 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добрина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>доброта, хорошая особенность, преимущество, удача</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobrina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хорошая особенность, добродетель, добро</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobrina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>добро, добротная вещь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 70: «slov.» (?))</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dobrina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хорошая пашня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прочность, достоинство вещи, (арх.) добро, имущество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добрина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хорошее качество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 398)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="dobrb-6">*dobrb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

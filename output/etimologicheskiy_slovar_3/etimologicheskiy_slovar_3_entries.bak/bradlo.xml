@@ -1,0 +1,63 @@
+<entries>
+  <entry xml:id="bradlo" xml:id="bradlo">
+    <pb n="160" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьradlo</orth>
+      <lemma>bbradlo</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>брало</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>забойка, закол на воде для удержива­ ния несомых течением твердых тел</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>брало</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>ров с проточной водой</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Стойчев Б Д II, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bradlo</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>рукоять палки</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>bradla</ref> мн.</orth>
+        </form>
+        <sense>
+          <def>перила; барьер</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc" type="old">стар. <ref>bradlo</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>приданое</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Sychta I, 65)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф.-а^1о от гл. <ref type="etymon" target="bbrati">*bbrati</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

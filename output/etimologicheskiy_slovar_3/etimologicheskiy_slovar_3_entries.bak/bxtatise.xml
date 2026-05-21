@@ -1,0 +1,94 @@
+<entries>
+  <entry xml:id="bxtatise" xml:id="bxtatise">
+    <pb n="115" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъxъtati(sę)</orth>
+      <lemma>bbxbtati(s£)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бъхтя</ref>, бъфтя, бъфтам, бъйтя</orth>
+        </form>
+        <sense>
+          <def>бить, ударять, толкать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Георгиев; Геров: бъхтж 'бить')</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>бъхта</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бить , бъхтам бить, ударять, ходить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Горов. Страндж. — Б Д I, 71)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Гълъбов Б Д II, 72)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бавта</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>брести (по грязи, снегу и т. п.), болтать, нести вздор</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бахтати</ref>, бак- тати</orth>
+        </form>
+        <sense>
+          <def>топать, бахтати се, бактати се спорить, препираться, bahtati стучать, топать ногами</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., RJA I, 154)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>behtati</ref> se</orth>
+        </form>
+        <sense>
+          <def>мучиться, ср. и чак. behtat</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(F. Stawski «Sprawozdania z prac naukowych wydziatu nauk spotecznych» V, 5(27), 1963, 47)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>baxtac</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>натравливать, подстрекать Lorentz Pomor. I, 21. с реконструкцией праслав. — Ср</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac" type="dialect">макед. диал. <ref>б</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>фкам напрасно стараться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(J. Тасевски. Зборови од тетовскиот говор (с. 1едоарце). — MJ III, 1952, 169)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Звукоподражат. гл. на -bt-ati 
+(интенсив). Ср. слова с основой</note>
+  </entry>
+</entries>

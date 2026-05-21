@@ -1,0 +1,50 @@
+<Entry xml:id="ogpz-2">
+  <pb n="229" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьогьпъ(з"ь)</orth>
+    <lemma>Ьогьпъ(з"ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bozan</ref>, bozna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>divinus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 565)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bozny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божественный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Fr. Palacky. Nar. 1798, Kott I, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>bozny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>божеский, божий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 67)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ьи- от<ref type="etymon" target="bogb">*bogb</ref> (см.), ср. еще <ref type="etymon" target="pa-">*па-</ref>
+bozbnbjb, <ref type="etymon" target="roo1p">*роЪо1ъпъ]ъ</ref> (см.), с той же основой.</gram>
+  </gramGrp>
+  <note>О возможной древ­ ности сочетания морфем *foog- и -ъп- ср. на *bozbnica, где и внеш­ нее сближение.</note>
+</Entry>

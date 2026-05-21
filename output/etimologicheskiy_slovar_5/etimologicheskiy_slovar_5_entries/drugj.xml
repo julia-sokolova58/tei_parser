@@ -1,0 +1,235 @@
+<Entry xml:id="drugj">
+  <pb n="131" end_page="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drugъ(jь)</orth>
+    <lemma>drugъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дроутъ</ref> м. p. cptXog, amicus, етаТро&lt;;, socius</orth>
+      </form>
+      <sense>
+        <def>друг, также местоим. аХлос, етерос, alius, alter, прилаг. другой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>друг</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>другой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: другъ 'друг', другый 'другой', 'иной')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>друк</ref>, -га, прилаг.</orth>
+      </form>
+      <sense>
+        <def>третье лицо: ни я, ни ты , друк дру­ гой, второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">стар. <ref>друга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа 567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>друг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>другой, иной , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>drug</ref>, drugi</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda- Vevcani dialect of Macedonian 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>друг</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>това­ рищ, друг, приятель, супруг , также друга ж. р. подруга, приятельница, другй, -а, -б другой, второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ, РСА IV, 741—742)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drug</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>товарищ, спутник, свадебный дружка , druga ж. р. дружка невесты , drug, при­ лаг. другой, второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>druh</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>незнатный дворя­ нин из свиты вельможи, низший чиновник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Brandl 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>род, вид, druh м. р. друг, товарищ, приятель, druha ж. р. подруга, товарка , druhy, числ. порядк. второй, другой, прочий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungnrann I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>druhy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прошлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(dostal si druhy tyden pet korun 'на прошлой неделе получил пять крон', Kasik. Stfedobecev. 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>товарищ, приятель, друг , druhy, числ. порядк. второй, другой, иной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 334)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>druhi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>второй, другой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. <ref>drug</ref> (Якубица)</orth>
+      </form>
+      <sense>
+        <def>друг, товарищ , drugi другой, второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>draug</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>другой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski-Seh- nert 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>druh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>приятель, друг, свадебный дружка QQ7\° S Z* ^ —390), drugi, числ. порядк. второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, do7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>drafit</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>другой, второй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. •druPati Wb. I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрХгъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>друг (Лук. XI. 5</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Остр, ев.; Панд. Ант. XI в.; Церк. Уст. Влад. по Син. сп.; Пов. вр. л. под 968 г. и мн. др.), 'товарищ' (Новг. I л. под 1338 г.), 'слуга' (Исх. XIV. 5 по сп. XIV в.), 'близкий' (Новг. судн. гр. 1471 г.) (Срезневский I, 726), Другъ, личное имя собств. (XV в., Тупиков 191), дрХга 'подруга' (Златостр. XVI в., Срез­ невский I, 725), дрХгыи 'другой' (Остр, ев.; Лавр. л. под 1125 г.; Вопр. Кир.), 'второй' (Уст. гр. Смол. 1150 г.), 'следующий' (Нест. Бор. Гл. 44), 'некоторый' (Юр. ев. под 1119 г.; Ил. Новг. поуч.), 'товарищ' (Ефр. Крм. Крф. 65), 'дружественный' (Дог. Ол. 911 г.; Обяз. гр. Свят. 972 г.) (Срезневский I, 727—728), Другой, лич­ ное имя собств. (1611 г., Тупиков 191), русск. друг м. р. 'лицо, тесно связанное с кем-либо взаимным доверием, преданностью, лю­ бовью', 'сторонник, приверженец', другой, -ая, -бе 'отличный от данного или прежнего, иной, не этот', 'следующий, второй, еще один', диал. другой 'второй', 'иной, некоторый' (Деулинский сло­ варь 154), укр. друг м. р. 'друг', 'муж' (Гринченко I, 447), дру- гий, -а, -е 'другой, иной', 'второй' (там же), блр. друг м. р. 'друг'.</note>
+  <gramGrp>
+    <gram>Единое этимологически праслав.<ref type="etymon" target="drugb-2">*drugb</ref> 'приятель, товарищ' и 
+'иной, другой; второй, следующий', лишенное родственных форм 
+в пределах слав-ого, вместе с родственным лит. draugas 'товарищ', 
+лтга. draugs продолжает именное и.-е. <ref type="etymon" target="dhrougho-">*dhrougho-</ref>, производное от 
+глаг. основы <ref type="etymon" target="dhreugh-">*dhreugh-</ref>, исходное знач. которого определить по ряду 
+причин трудно: балт. и слав, языки глагола не сохранили, а в герм, 
+сохраненный глагол подвергся семантич. эволюции, ср. гот. driu-
+gan 
+axpaxeoeiv, хотя некоторые лингвисты склонны считать пер­
+вичным именно это «военное» знач.</gram>
+  </gramGrp>
+  <note>Можно высказать предполо­ жение, что в основе всего гнезда был гл. со знач. 'следовать', что хорошо согласовалось бы со всеми реально засвидетельство­ ванными знач-ми ('спутник', 'второй, следующий'; 'идти походом', 'отряд', 'свита' и др. в герм., балт., слав.). При всем умозри­ тельном вероятии членения *drugb на к. *dru- (и.-е. *dhreu,-) и древний суфф. -g-, прямых подтверждающих оснований в извест­ ных фактах у нас нет. См. C.Lottner KZ XI, 1862, 179; Н. Grapmann KZ XII, 1863, 127; J. Schmidt KZ XIX, 1870, 273; Miklosich 51; F. de Saussure MSL 8, 1894, 443; Meillet. Etudes II, 226; Berneker I, 230; Trautmann BSW 59; Bruckner 98; G. Bonfante «Studi baltici» I, 1931, 86; G. S. Lane «Language» 9, 1933, 247; Fraenkel I, 102; Трубачев. Слав. терм, родства 172—173; Фасмер I, 543; Т. Mi- lewski RS XXVI, 1966, 131; Benveniste. Le vocabulaire des in­ stitutions indoeuropeennes I, 108 и сл. (о большей древности слав, и балт. знач., при вторичной специализации в герм. — 'une ami- tie guerriere'; прямо противоположное мнение см. Брюкнер, выше).</note>
+</Entry>

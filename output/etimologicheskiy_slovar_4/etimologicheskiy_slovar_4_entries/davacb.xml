@@ -1,0 +1,59 @@
+<Entry xml:id="davacb">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>davacb</orth>
+    <lemma>davacb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>давачь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто дает</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>давач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дающий, давший (о человеке), податель , сербо­ хорв. давач, род. п. давача, м. р. тот, кто дает , давач, род. п. -ача, м. р. тот, кто дает, техн. дат­ чик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA: только у Вука)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA IV, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dauac</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто даёт</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dawacz</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 32)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. ~(а)съ от гл.<ref type="etymon" target="davati">*davati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,70 @@
+<Entry xml:id="gvozdeivbjb">
+  <pb n="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvozdeivb(jb)</orth>
+    <lemma>gvozdeivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гвоздей</ref>, гвоздей, гвдзденй, -а, -о</orth>
+      </form>
+      <sense>
+        <def>железный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gozden</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 523)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гвоздяной</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Филин 6, 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. редк. <ref>гвоздянйй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гвоздяной . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>гвоздяниця</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наковаленка для ковки гвоздей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оп. ст. Млр. II, 314, 1738, Тимченко I, 515)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ёпъ</ref>
+      </m> от <ref type="etymon" target="gvozdbj">* gvozdbj</ref>
+      <ref type="etymon" target="gvozdb">* gvozdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

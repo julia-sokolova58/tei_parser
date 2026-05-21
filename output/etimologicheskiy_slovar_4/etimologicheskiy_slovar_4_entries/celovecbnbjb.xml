@@ -1,0 +1,134 @@
+<Entry xml:id="celovecbnbjb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celovecbnb(jb)</orth>
+    <lemma>celovecbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чмж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кчАыъ, прилаг., humanus у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl. LP. Sad. 17: «описка вм. з\ъч&amp;иъ»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>човёчен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чело­ вечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 628)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>човёчен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>добрый, благо­ родный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>човечен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>covjecan</ref>, cdujecna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>humanus , covfecnl, прилаг. humanus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA II, 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI—XVIII вв., RJA II, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>clovecen</ref>, -спа, прилаг.</orth>
+      </form>
+      <sense>
+        <def>человеческий, человечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clovecny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человеческий, человечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>человЪчъныи</ref>: не члвчъно етеро по­ гано и злонравьно</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ж. Ф. Студ. XII—XIII в. л. 137, Картотека СДР XI—XIV вв.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>человечный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>могучий, здоровен­ ный , рослый и плотный, видный собою, мужественный, молодец, ражий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мотовилов. Симбирская молвь 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1302: новг., нижегор., каз.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чалавёчны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ыгъ</ref>
+      </m> от <ref type="etymon" target="se1oiyok-2">* се1оиёкъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Сужде­ ния о возрасте образования затрудняет возможный книжный ха­ рактер соответствий в некоторых слав, литер, языках, где эти образования могут быть семантич. кальками зап.-европейских культурных терминов, т. е. поздними словами.</note>
+</Entry>

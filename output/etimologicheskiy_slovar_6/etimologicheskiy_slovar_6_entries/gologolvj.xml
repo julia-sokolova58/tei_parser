@@ -1,0 +1,104 @@
+<Entry xml:id="gologolvj">
+  <pb n="210" end_page="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gologolvъ(jь)</orth>
+    <lemma>gologolvъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голбглавый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>с непокрытой го­ ловой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>голбглаф</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>плешивый, с непокрытой головой , голбглаф, прилаг. с непокрытой головой , также глбглъф , гбглаф</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 245)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко. — БД V, ИЗ; П. И. Петков. Еленски речник. — БД VII, 26)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — 'golomorzica БД V, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гологлаз</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gologlav</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA III, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gologlav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>с непокры­ той головой, лысый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holohlavy</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holohlavy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 500)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>holohlavi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>плешивый, лысый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гологоловый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого непокрытая или бритая голова</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг-ных<ref type="etymon" target="gofo-3">*gofo</ref> (см.) и *-#oZirb (об архаич. типе 
+последнего см. на <ref type="etymon" target="bez-2">*bez</ref> и <ref type="etymon" target="bezgolvb">*bezgolvb</ref>, выше).</gram>
+  </gramGrp>
+</Entry>

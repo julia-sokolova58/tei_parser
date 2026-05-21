@@ -1,0 +1,473 @@
+<Entry xml:id="grcda">
+  <pb n="119" end_page="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grčda</orth>
+    <lemma>grčda</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grčdb</orth>
+    <lemma>grčdb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gr§db</orth>
+    <lemma>gr§db</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>греда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брус, бревно, балка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: гряда, гренда; Дювернуа: греда)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>греда</ref> ж. р. , гридъ ж. р. , грёнда ж. р. , гр</orth>
+      </form>
+      <sense>
+        <def>ъдъ ж. р. , сюда же гред м. р. межа, куча земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Зап. България. — СбНУ XI, 1894, 192; Швецова. Словарь говора села Твардицы 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — Б Д VII, 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Й. Н. Иванов. Гоцеделчевският мещругански говор. — БД VII, 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — Б Д V, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>греда</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>балка, перекладина , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>greda</ref> , грёнди мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 260)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(А. Мишев. Македонският говор в Брацигово. — СбНУ XI, 1894, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грёда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>балка, брус, отмель, каменная стена, гряда, грядка, насыпь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 607—608)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>greda</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брус, балка, отмель, утес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(GTer. 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>балка, брус, стропило, насест, ступенька, грядка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 249; Slovar sloven, jezika I, 756)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>greda</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>поленница дров , сюда же gred ж. p. насест для кур, сту­ пенька</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hfada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брус, балка , насест для кур</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 482)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Simek 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hfada</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кровель­ ная балка, стропило, насест для кур , hfada- ж. р. насест, жердь, на кот. ночует домашняя птица , сюда же hfad, hfdd м. p., hfdd ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брус, балка, грядка , ум. hriadka ж. р. грядка, брус, балка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 517)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 525)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrjada</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>брус, балка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>greda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бревно, насест, гряда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 319—320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gfqda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>балка , грядка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzeda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гряда, грядка (на поле, в огороде), насест</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gfynda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насест</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(G6rnowicz. Dialekt malborski И, 1, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gfqda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насест для кур</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I,. 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грАда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>балки, верх здания , грАда полоса земли, взрытая для посадки овощей , сюда же грАдъ балка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Цар. 3.VI.15 по сп. XVI в., Срезневский I, 605)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Купч. Ее. и Фед. Онуфр. XV в., Срезневский III, 81')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Песн. Песн. I. 15 по сп. XVI в., Срезневский I, 605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гряда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>продолго­ ватая возвышенность, невысокая длинная насыпь разрыхленной земли для посадки овощей, ягод, цветов</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гряда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>крупный лес около мха , гряда ж. р. две перекладины, утвержденные в верху черной избы, для сушения дров и проч. , гряда сухая среди болота мест­ ность , гряда лес гонкий , гряда ж. р. холмистая низменность (смол.), неглубокое место* в реке или озере; мель (пек.), уступ на дне озера (пек.), уз­ кая сухая длинная полоса земли между двумя ручьями или озе­ рами (арх.), сухое место, островок на болоте (арх.), узкая возвы­ шенная песчаная полоса, вдающаяся в озеро, за которой следует сразу обрыв и глубокое твердое дно (пек., вят.), место, выкошен­ ное одним взмахом косы (куйб.) , гряда ж. р. перекладина в виде жерди, бруса, слеги и т. д. (сарат., ворон., пенз., тамб., калуж., костр., волог., енис), полка (арх., ряз.) , также в качестве местного названия Гряда , ум. грядка ж. р. грядка, припухшие перед родами молочные железы животных (гл. образом свиные)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тамб., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 183)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 182)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(бывш. Жиздр. у. Калуж. губ., Russisches geographisches Namenbuch И, 589)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гряда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гряда, грядка, остров, лежащий в плавнях, хребет острова, не затопляемый водой, место, где река проходит узкое русло и волны ее подпрыгивают и плещут, бревно, жердь в сельской хате, амбаре, ниже потолка, тяну­ щаяся от одной стены к другой , также ум. грядка ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 333—334)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>града</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гряда</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>града</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>песчаная отмель в реке , шта­ бель дров</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(3 народнага слоунша 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шаталава 43)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. grinda 'половая, мостовая доска', ср. и соот­ ветствующий гл. лит. grindziu, gr\sti 'устилать досками, мостить', далее — лат. grunda 'кровля, кровельные стропила', др.-исл, grind 'рама, станина, решетка, ограда'. Ср. сюда же — с чередованием гласных — праслав.<xr type="compare">см. <ref type="etymon" target="grqdh">*grqdh</ref>
+    </xr>. См. Н. Pedersen KZ 
+XXXVIII, 
+1905, 394; A. Walde LF XIX, 1906, 99; Berneker I, 349; К. Буга 
+РФВ LXX, 
+1913, 
+250; 
+Trautmaim 
+BSW 
+98; 
+Otrqbski. 
+Studia 
+indoeuropeistyczne 185—186 (*greda: 
+*drggъ, 
+метатеза); 
+Walde — 
+Hofm. I, 623—624; Фасмер I, 4 6 6 - 4 6 7 ; SJawski I, 371; K. Mo-
+szynski JP XXXVI, 1956, 116; Machek
+2 186; Fraenkel I, 170—171. 
+'*gr§delb: болг. (Геров) грядЪл м. р. 'дышло плуга', диал. гредёл м. р. 
+'брус' (Д. Маринов. Думи 
+и фрази 
+из Зап. България. — СбНУ 
+XI, 1894, 193), макед. 
+грдел 
+м. р. 
+'дышло, 
+соединяющее 
+плуг 
+с ярмом' (Кон.), также диал. gredel (P. 
+Hendriks. 
+The 
+Radozda-
+Vev6ani dialect of Macedonian 260), грёндело 
+(К. 
+Пеев. За маке-
+донската диалектна лексика. — MJ XXI, 
+1970, 
+129), 
+сербохорв. 
+грёдел&gt; м. р. 'часть плуга, к кот. прикреплено 
+ярмо' 
+(РСА 
+III, 
+608), сюда же Грёдел*, название горы в Герцеговине 
+(там же), 
+диал. грёдёл&gt; (Елез. 
+I), 
+greda] 
+(Skok), 
+словен. 
+gredel), 
+род. п. 
+-dlja, 
+м. р. 'грядиль, дышло плуга', 'колесный вал', 'киль судна' 
+(Plet. I, 249), чеш. hfidel 
+м. р. 'вал, ось', 
+'основа 
+плуга', 
+диал. 
+zfidel 
+м. p. (Kott V, 658), слвц. hriadeV 
+м. 
+р. 
+'ось, 
+вал', 
+'гря­
+диль плуга' (SSJ I, 525), польск. grzqdziel, 
+grzedziel 
+ж. 
+и м. р. 
+'дышло плуга или сохи' (Dorosz. II, 1343, 1353), русск. 
+грядиль 
+ж. р. 'плужное дышло, вал, дрога, укрепляемая в комле 
+рукоя­
+тей и связываемая с полозом 
+или подошвой 
+стояком' 
+(Даль
+3 I, 
+997), укр. градгль 
+м. р. 'грядиль, часть плуга, в которую укреп­
+ляется чересло' (Гринченко I, 321; ср. также Бшецький-Носенко. 
+Словник украшсько! мови 105), грядъль м. р. то же 
+(Гринченко 
+I, 334).</note>
+  <gramGrp>
+    <gram>Допустимо объяснять как производное с суф.<m type="suffix">
+        <ref>-е1ь</ref>
+      </m> (Махек, ниже, 
+а также Славский реконструируют здесь праслав. -е/ь, но послед­
+ний суф. образует производные ж. р.) от <ref type="etymon" target="greda">*greda</ref> (см.).</gram>
+  </gramGrp>
+  <note>Распростра­ нено мнение о заимствовании слав. *gredelb из герм., где имеются близкие по форме и знач. слова (др.-сакс, grindil, grendil 'robur aratri', нем. Grindel то же и др., см. подробно Kiparsky, ниже). Однако словообразовательно-семантич. мотивирующей связи, подоб­ ной слав. *greda 'балка, брус' *gred-elb 'дышло плуга' (т. е, тоже разновидность бруса), на герм, почве мы все-таки не имеем, и ссылки на др.-исл. grind 'решетка', 'перегородка' как на произ- •gr^stf водящую основу по меньшей мере малоубедительны. Т. о., мы склоняемся к мысли об исконнослав. происхождении слова *grp- delby которое вместе с тем представляет собой относительное ново­ образование на слав, почве по сравнению, например, с таким и.-е. названием дышла повозки, как праслав.<xr type="compare">см. <ref type="etymon" target="oe">*о/е</ref>
+    </xr>, 
+что отражает, 
+в свою очередь, 
+видимо, 
+техническое 
+усовершенствование. 
+Что 
+касается герм. *grindila-, 
+реконструируемого для герм, форм (выше), 
+то, принимая во внимание сказанное ранее, логичнее видеть в нем 
+заимствование из слав., чем исконнородственное соответствие. Нали­
+чие формы grindel 
+даже в англос. 
+еще 
+не означает «невозмож­
+ности» 
+заимствования 
+(так 
+Кипарский), 
+которое 
+могло 
+прои­
+зойти и раньше 
+V в. н. э. 
+(переселение 
+англов и саксов 
+на 
+острова), 
+проделав 
+тот же путь, 
+что и праслав. 
+<xr type="compare">см. <ref type="etymon" target="stbpica">*stbpica</ref>
+    </xr>, 
+как убедительно показал Махек. 
+См. Berneker 
+I, 349; 
+Kiparsky. 
+Die 
+gemeinslav. 
+Lehnworter 
+aus dem Germ. 236—237; Фасмер 
+I, 
+467; 
+Stawski 
+I, 365—366; 
+K. Moszynski JP 
+XXXVI, 
+1956, 115; V. 
+Machek 
+«Slavia» 20, 
+1951, 213—214; Machek
+2 188.</note>
+</Entry>

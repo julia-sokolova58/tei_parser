@@ -1,0 +1,95 @@
+<Entry xml:id="galas">
+  <pb n="90" end_page="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galasъ</orth>
+    <lemma>galasъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>halah</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>haVas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шум, грохот , ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., BartoS. Slov. 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>halasiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. книжн. <ref>halas</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галйс</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум голосов; шумный говор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., Даль, Филин 6, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>галас</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум, вопль , откуда производное галасати драть горло, кричать, вопить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 267)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гйлас</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крик, шум, неспокойствие, драка .— Ср., возм., сюда же сербо­ хорв. фам. Galas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 108; Байкоу—Некраш. 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA HI, 92)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Кажется допустимым предположение о связи, во-первых, с<ref type="etymon" target="golsb">*golsb</ref> 
+(см.), а, во-вторых — с гл. <ref type="etymon" target="galati">*galati</ref> 
+(см.), по которому 
+перестроен прежде всего вокализм формы <ref type="etymon" target="galasb">*galasb</ref>.</gram>
+  </gramGrp>
+  <note>Связи эти мо­ гут носить достаточно древний, хотя и внутрислав. характер. Не­ сомненно экспрессивная природа всех этих образований, включая более нейтральное *golsb, а также проникновение некоторых форм из одного сдав, языка в другой (ср. напр. польск. halas, см. о нем подробно Stawski I, 397—398) создает для данной формы репутацию трудного слова, см. Berneker I, 323.</note>
+</Entry>

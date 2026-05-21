@@ -1,0 +1,55 @@
+<Entry xml:id="grczti">
+  <pb n="124" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grčzti</orth>
+    <lemma>grčzti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грязти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погружаться, утопать, увязать в чем-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(СлРЯ XI—XVII вв. 4, 150)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Типологически более древняя форма сравнительно с<xr type="compare">см. <ref type="etymon" target="grznqti-2">*gr$znqti</ref>
+    </xr>. Слабо засвидетельствовано. 
+*gr$zbk
+,bjb: польск. grzqski 
+'вязкий, топкий (о земной поверхности)' 
+(Dorosz. 
+II, 
+1343), 
+также grzqski 
+(Dorosz. 
+II, 
+1353), др.-русск. 
+грАзъкыи 
+'топкий' (Лавр, л., Ип. л. под 1151 г., Срезневский I, 
+605—606), русск. диал. грязкий, 
+-ая, -ое, грязной, 
+-ая, 
+-бе 'гряз­
+ный, топкий, болотистый' (Слов. Акад. 1847; пенз., Филин 
+7, 
+189), укр. грязькйй 
+'грязный (о дороге, вообще о растворенной 
+дождем земле)' (Гринченко I, 334), блр. гразт 
+'топкий, болоти­
+стый', диал. гразка 
+'мокро, грязно (в доме, на дороге)' (Могил, 
+обл., Гомельск. обл., Мат. 85).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от основы гл. <ref type="etymon" target="gr-4">*gr</ref>?znoti 
+(см.).</gram>
+  </gramGrp>
+</Entry>

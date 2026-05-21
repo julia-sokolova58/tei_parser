@@ -1,0 +1,85 @@
+<Entry xml:id="bezdbbnbnbjb">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbbnbnb(jb)</orth>
+    <lemma>bezdbbnbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бездънен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бездонный, очень глу­ бокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: бездънный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdanji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>без­ донный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdenny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 76; Warsz. I, 121; Dorosz. I, 421)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бездонный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у чего нет дна; весьма глубокий; ничем не наполнимый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бездённий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>о посуде: не имеющий дна, бездонный , также бездонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин- ченко I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяздбнны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездонный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от имени<ref type="etymon" target="bezd-5">*bezd</ref>^na 
+(см.) 
+или близких имен.</gram>
+  </gramGrp>
+  <note>В отличие от архаич. прилаг-ного *bezd^nb(jb) (см.), в настоящем случае наблюдаем вторичную производность с активным формантом от уже субстантивированного *bezdbbna/ *bezdbbno/*bezdbbnb. Будучи относительно новым прилагатель­ ным, *bezd^nbn^jb) представлено в слав, языках довольно широко.</note>
+</Entry>

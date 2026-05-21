@@ -1,0 +1,134 @@
+<Entry xml:id="drzati">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъžati</orth>
+    <lemma>drъžati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drzeti</ref>, drezeti</orth>
+      </form>
+      <sense>
+        <def>дрожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., Gebauer I, 347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>г</ref> zee</orth>
+      </form>
+      <sense>
+        <def>дрожать, трястись, трепетать, звучать , f</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 620)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drzas</ref>, dzas</orth>
+      </form>
+      <sense>
+        <def>дрожать, трепетать, звучать, греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>drdze</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>дрожит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ро- lanski—Sehnert 55, с реконструкцией *drbzi)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drzec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дро­ жать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 411—412)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>draziec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дрожати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. Злат. XIV в.; Сбор. Кир. Белоз. XV в., Срезневский I, 724)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрожать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трястись от чего-либо, отсюда произведено</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрожаба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Проект Архангельского областного словаря 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дръжати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрыжацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, соотносительный с <ref type="etymon" target="drbgati-5">*drbgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,97 @@
+<Entry xml:id="grobovisce">
+  <pb n="131" end_page="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobovisce</orth>
+    <lemma>grobovisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гробдвйште</ref>, грдбовйште ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 658; RJA III, 455: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hroboviste</ref> •grobb ср. p.</orth>
+      </form>
+      <sense>
+        <def>место погребения</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>grobowisko</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grobo</ref>- wiszcze ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 908)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grebe-isce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>могила, кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гробовйще</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гроб (волог., пек., новг.), кладбище, погост (ворон., ряз., южн.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гробовйще</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329; Бшецький—Носенко. Словник укр. мови 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гробовйще</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крутая возвышенность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. А. Марусенко. Ма­ териалы к словарю укр. географических апеллятивов (названия рельефов). — Полесье 224)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от прилаг. <ref type="etymon" target="grobovb">*grobovb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

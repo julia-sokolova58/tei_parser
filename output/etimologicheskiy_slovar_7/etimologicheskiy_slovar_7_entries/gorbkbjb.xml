@@ -1,0 +1,55 @@
+<Entry xml:id="gorbkbjb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbkbjb</orth>
+    <lemma>gorbkbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>gorak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горячий, теплый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ка. 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorek</ref>, -гка, прилаг.</orth>
+      </form>
+      <sense>
+        <def>теплый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>horky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горячий, пылкий (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horky</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. то же, диал. horke, прилаг. 'горячий' (Gregor. Slov. slavk.-bucov. 62), польск. диал. gorki 'горячий' (Kucala 35; F. Pluta. Stowni- ctwo DzierzysJawic w powiecie Prudnickim. Wroclaw, 1973, 47), русск. диал. гбркий, горкой 'легко, быстро загорающийся, хорошо горящий' (арх., новг., Филин 7, 37), 'горючий' (арх., Картотека СТЭ).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m>, соотносительное с гл. 
+<ref type="etymon" target="goreti">*goreti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

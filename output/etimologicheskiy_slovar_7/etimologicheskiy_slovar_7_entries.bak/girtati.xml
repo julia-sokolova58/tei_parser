@@ -1,0 +1,60 @@
+<Entry xml:id="girtati">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gi&gt;rtati</orth>
+    <lemma>gi&gt;rtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гртати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гортать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгре­ бать, загребать что-либо (южн., зап., курск.), складывать (ма­ терию, платье, холст) (иркут.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гортати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>листать , гортатися прижиматься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 353)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бшецький — Носенко. Словник укр. мови 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гортаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>переворачивать , гартаць листать, перелистывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вместе с *gbrstb и<xr type="compare">см. <ref type="etymon" target="gbrtngti">*gbrtngti</ref>
+    </xr> представляет собой только 
+слав, расширение на -t- и.-е. *g(е )г-. См. Berneker I, 372.</note>
+</Entry>

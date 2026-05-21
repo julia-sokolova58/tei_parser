@@ -1,0 +1,124 @@
+<Entry xml:id="gordina">
+  <pb n="32" end_page="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gordina</orth>
+    <lemma>gordina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>градина</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>сад , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>градина</ref> ж. р. , градина (гръдйнъ)</orth>
+      </form>
+      <sense>
+        <def>сад, огород , градина нива, поле , сад , грънна ж. р. нива, сад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. П. Ковачев. Топонимията на Троянско 119)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Христов. Местн. имена в Маданско 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. С. Державин. Болгарские колонии в России. — СбНУ XXIX, 1914, 74: Бессар. губ.; Т. В. Швецова. Словарь говора села Твардицы 87)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>градина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>огород, сад , сербо­ хорв. градина ж. р. ограда, забор, сад</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 366—367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gradlna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ограда, двор, укрепление, крепость, развалины крепости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Hradina</ref> ж. р., назва­ ние горы у Рокицан</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 354)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>городйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>место в хлеву, огороженное кольями , городйна ж. р. старинное городище , поветь, навес на крестьянском дворе , городйна дверь (Картотека Новгородского ГПИ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., твер., Доп. к Опыту 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., Филин 7, 58)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(новг., пек., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>городйна</ref> • g o r d i s l a v b ж. p.</orth>
+      </form>
+      <sense>
+        <def>плетень, забор, огорожа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>городйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поле, засеянное коноплей, картофельное поле , городйна ж. р. плетень, ограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Выгонная. Полесская земледельческая терминология. — Лексика Полесья 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. I. Фе- денець. Особливост1 гов1рки села Малий Раковець 1ршавського округу. Дип. роб. Ужгород, 1952, 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="gordb">*gordb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

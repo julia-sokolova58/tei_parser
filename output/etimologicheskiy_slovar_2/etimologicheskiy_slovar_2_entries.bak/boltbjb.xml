@@ -1,0 +1,26 @@
+<Entry xml:id="boltbjb">
+  <pb n="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boltbjb</orth>
+    <lemma>boltbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болотйй</ref>, -a, -e</orth>
+      </form>
+      <sense>
+        <def>болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Несмотря на единичность примера, следует считаться с воз­ можностью сохранения здесь архаичного состояния до суб­ стантивации первоначального прилаг.<ref type="etymon" target="oi">*ЪоИъ</ref>, давно завершив­
+шейся в имени <ref type="etymon" target="bolto">*bolto</ref> (см.).</gram>
+  </gramGrp>
+  <note>Не исключена, однако, и другая воз­ можность — адъективное употребление именной основы *bolt- (<xr type="compare">см. <ref type="etymon" target="bolto">*bolto</ref>
+    </xr>).</note>
+</Entry>

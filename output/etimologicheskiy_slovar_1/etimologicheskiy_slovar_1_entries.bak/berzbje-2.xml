@@ -1,0 +1,44 @@
+<Entry xml:id="berzbje-2">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berzbje</orth>
+    <lemma>berzbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёжъе</ref>, брежйе ср. собир., употр. как мн. ч. от бряг</orth>
+      </form>
+      <sense>
+        <def>берег</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёж</ref>]е ср. р. собир. от брег</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бережиье</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нобережие, ога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пикон, летоп. под 1365 г., Срезневский 1, 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф. -ъ]е от<ref type="etymon" target="e-3">*Ье</ref>^ъ 
+(см.).</gram>
+  </gramGrp>
+</Entry>

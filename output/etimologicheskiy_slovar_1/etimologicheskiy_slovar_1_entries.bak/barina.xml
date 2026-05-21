@@ -1,0 +1,64 @@
+<Entry xml:id="barina">
+  <pb n="158" end_page="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>barina</orth>
+    <lemma>barina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>barina</ref> ж. р., увелич. от Ъага</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с X V I I в., RJA, I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>barina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>lacuna ( X V в., Ст.-чеш., Прага), ср., возм., сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>barena</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трещина, щель , bafina топь, болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. к Bart. 3)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 12; Kellner. Vychodolas. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>barina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>сырое, болотистое место , а также, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>baharina</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 13)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="bara">*bara</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

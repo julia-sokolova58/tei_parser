@@ -1,0 +1,43 @@
+<Entry xml:id="globj">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbъjь</orth>
+    <lemma>glǫbъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. , редк. <ref>hlouby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глубокий , также Muby</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 435)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 694)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глубий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глубокий (оренб.), глубое ср. р. дно на глубоком месте реки , также Глубое, озеро на левом берегу Сев. Донца, бывш. Старобельск. у. Харьк. губ. , Глубое, деревня у ручья Глубинка, бывш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(оренб., Филин 6, 206)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russischen Gewassernamen I, 440)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Дмитровск. у. Курск, губ. (Russisches geographisches Namen- buch II, 372).</note>
+  <gramGrp>
+    <gram>Простая форма, соотносительная со сложением<ref type="etymon" target="glqbofa-2">*glqbofa</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

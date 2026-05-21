@@ -1,0 +1,51 @@
+<Entry xml:id="dobrilodobriladobril">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobrilo/*dobrila/*dobrilъ</orth>
+    <lemma>dobrilo/*dobrila/*dobrilъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dobrila</orth>
+    <lemma>dobrila</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dobri!b</orth>
+    <lemma>dobri!b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Добрил</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров; Ст. Илчев. Речник на личните и фамилии имена у бъл­ гарите 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Добрил</ref> м. р., личное имя собств. , Добрила, Добрила ж. р., личное имя собств., также фам. , Добрило м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 390)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Добрило</ref>, личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Константинъ, мирьскы Добрило, писец евангелия 1164 г., Тупиков 184; Картотека СДР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -И- от основы<ref type="etymon" target="dobr-">*dobr-</ref> (см. <ref type="etymon" target="dobrb-5">*dobrb)</ref>.</gram>
+  </gramGrp>
+  <note>Имена личные собств. »аналогичной структуры в Болгарии и Моравии обычно представляют собой отглаг. прич-я на -Z-.</note>
+</Entry>

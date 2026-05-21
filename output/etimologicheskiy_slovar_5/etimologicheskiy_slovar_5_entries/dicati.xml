@@ -1,0 +1,69 @@
+<Entry xml:id="dicati">
+  <pb n="28" end_page="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dičati</orth>
+    <lemma>dičati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziczec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать, становиться диким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 552)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дичать</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дичать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сходить с ума, безумствовать (юж.-сиб., арх., перм., камч., том., якут.), быть злыми и раз­ драженными (о пчелах) (сиб.), глупить, дурачиться (тобол.), шалить, резвиться, проказничать, шумно играть (перм., свердл., том., кемер.), драться (арх.), распутничать (перм.), пустосло­ вить (арх., перм.), ругаться (арх.), твердеть (влад.), не под­ вергаться вспахиванию (о земле) (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дичьти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать, глохнуть, звереть, свирепеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзьчэць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="sik">*сИкъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

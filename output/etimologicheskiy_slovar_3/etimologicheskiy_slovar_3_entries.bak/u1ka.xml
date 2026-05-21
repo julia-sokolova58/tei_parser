@@ -1,0 +1,108 @@
+<Entry xml:id="u1ka">
+  <pb n="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьу1ъка</orth>
+    <lemma>Ьу1ъка</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьу1ька</orth>
+    <lemma>Ьу1ька</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бйлка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трава, лекарственное растение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>билка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>целебная трава, лекарство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бйлка</ref> ж. р .</orth>
+      </form>
+      <sense>
+        <def>стебель, ветка, веточка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, РСА II, 555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bilka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стебель , елвц. byVka ж. р. травинка, былинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jarnik 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 148—149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>былка</ref> ттравка</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI, XVII вв., СлРЯ XI—XVII вв. 1, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>былочка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель, стебелек травы , былка ж. р. былинка, травинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., тул., брян., ворон., Фи­ лин 3, 346)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Деулинек, словарь 71; Словарь говоров Подмосковья 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>билька</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стебель картофеля .— Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bylko</ref> ср. р., ум.</orth>
+      </form>
+      <sense>
+        <def>травка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 209)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ъка\-ъка от<ref type="etymon" target="bylo">*bylo</ref> j <ref type="etymon" target="u1-2">*Ьу1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

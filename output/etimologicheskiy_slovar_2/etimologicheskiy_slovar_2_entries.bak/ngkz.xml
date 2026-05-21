@@ -1,0 +1,176 @@
+<Entry xml:id="ngkz">
+  <pb n="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬНгъкъ(зь)</orth>
+    <lemma>ЬНгъкъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блйзък</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>блйзак</ref>, -ска, прилаг,</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>близок</ref>, -ска</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bllzak</ref>, bliska, прилаг.</orth>
+      </form>
+      <sense>
+        <def>propin- quus, близкий , также сущ. блйзак, род. п. -ска, близость (ib.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 440)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blizek</ref>, -zka, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий , также в роли нареч. и предл. близко; близ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blizky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blizky</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blizki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blizki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий, ближайший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bliski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 550—551)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blishi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>близкий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>недалекий (о пространстве), недалекий (во вре­ мени), связанный кровным родством, похожий, подобный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>близкий</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Арх. ЮЗР. I, VI, 12 — 1507 г. и мн. др., Тимченко I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блйзъкйй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блгзкг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ък- от основы<ref type="etymon" target="bliz--3">*bliz-</ref> (см. 
+<ref type="etymon" target="sh-2">*ЬШъ]ъ)</ref>.</gram>
+  </gramGrp>
+</Entry>

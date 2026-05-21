@@ -1,0 +1,112 @@
+<Entry xml:id="golobe">
+  <pb n="215" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golǫbę</orth>
+    <lemma>golǫbę</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -gte</orth>
+    <lemma>род. п. -gte</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гължбя</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>хлеб, выпекаемый в форме голубя (напр. на свадьбу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>галабё</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>голубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golobe</ref>, род. п. -eta, ср. р.</orth>
+      </form>
+      <sense>
+        <def>голубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holoube</ref>, род. п. -ete, ср. р.</orth>
+      </form>
+      <sense>
+        <def>голубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 715)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holuba</ref>, род. п. -aVa, ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>golebie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>птенец голубя, голубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голуб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я, род. п. -яти, ср. р. голубенок . —- Ср. сюда же грамматикализованное про­ должение этой основы в форме</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голубята</ref>, мн. к голубёнок</orth>
+      </form>
+      <sense>
+        <def>голубиный птенец ; гибридным — в свете сравни­ ваемых форм — представляется</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 915)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галубяня</ref>, галубянё ср. р.</orth>
+      </form>
+      <sense>
+        <def>голубенок</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суффиксом -et- (ум.) от<ref type="etymon" target="golgbb">*golgbb</ref> I <ref type="etymon" target="gotybb-2">*gotybb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Праслав. основа на согласный.</note>
+</Entry>

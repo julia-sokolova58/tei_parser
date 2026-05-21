@@ -1,0 +1,149 @@
+<Entry xml:id="eknoti">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęknǫti</orth>
+    <lemma>ęknǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ёкна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздаться, зазвучать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Дювернуа: гёкыж; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёкна</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Речник РОДД 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>екне</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ёкнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>застонать, прозвучать, раздаться , jeknuti упасть с грохотом, ударить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 716)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 572)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ёкнут</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, стукнуть, швырнуть (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jekniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издать звук (при падении, ударе), екнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeknouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пронзительно крикнуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jaknilf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вскрикнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jqknqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заикнуться, сказать заикаясь , jeknqc</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jiknqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издать стон, простонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jqknoyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вздохнуть, простонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. I, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>Лкнутъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стонать, жа­ лобно кликать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(юж., зап., Даль 3 IV, 1587)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, соотносительный с <ref type="etymon" target="ekati-2">*ekati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

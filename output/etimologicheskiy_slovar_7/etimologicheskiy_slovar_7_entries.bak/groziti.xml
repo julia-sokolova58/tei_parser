@@ -1,0 +1,196 @@
+<Entry xml:id="groziti">
+  <pb n="142" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groziti</orth>
+    <lemma>groziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грозя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уродовать, делать безобразным, грозить, угро­ жать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров — также 'ненавидеть')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гроз</ref>§</orth>
+      </form>
+      <sense>
+        <def>угрожать , грузъ донимать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. — БД I, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грози</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить, угрожать, обезображивать, уродо­ вать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грозити</ref>, грбзити</orth>
+      </form>
+      <sense>
+        <def>грозить, угрожать, грдзити се испытывать страх, ужас</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 663)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>groziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать страшным, грозить, пугать, groziti se содро­ гаться от ужаса</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hroziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить, угрожать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrozif</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 531)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrozyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grozyu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить, угрожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grozic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gruezec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. I, 305)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грозити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить, пугать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 968 г., Срезневский I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грозить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать угрожающий жест, угрожать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грозить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часто бывать, случаться грозам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грозити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 364)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гразщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грозить, грозиться, угрожать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="groza">*groza</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,133 @@
+<Entry xml:id="blekotT">
+  <pb n="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blekotT</orth>
+    <lemma>blekotT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блекёт</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>блеянье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 641)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blekot</ref> м, р.</orth>
+      </form>
+      <sense>
+        <def>болтовня, ворчание, ворчун, болтун, сплетник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крикун, сплетник , блеянье (овец), бормотание, ворчание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bVakot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>блеянье, мычание (овцы, козы, теленка)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blekot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бормотание, лепет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>blekotf</ref> blegot м. р.</orth>
+      </form>
+      <sense>
+        <def>заика, мямля, болтун, тявканье , blekot м. р. растение Aethusa Cynapium из сем. зонтичных; отвар из этого растения , русей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 165; Dorosz. I, 549)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>блёкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Hyoscyamus niger L., белена черная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., смол., Добровольский 29; Филин 3, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блёкгт</ref>, род. пад. -коту, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение цикута, бешеница, Conium ma- culatum , блёкот м. р. растение Hyoscyamus niger, белена , ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>белъкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бол­ товня, лепет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>блёкот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>белена Hyoscya­ mus niger L. , раст. болиголов Гарэщи 21% Звукоподражание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 39)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Образовано с суфф.<m type="suffix">
+        <ref>-ofa</ref>
+      </m>&gt;, ср. 
+<ref type="etymon" target="blekota">*blekota</ref>, 
+<ref type="etymon" target="blekati">* blekati</ref> (см.). 
+•</gram>
+  </gramGrp>
+</Entry>

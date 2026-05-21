@@ -1,0 +1,33 @@
+<Entry xml:id="drtje">
+  <pb n="227" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьrtьje</orth>
+    <lemma>dьrtьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drtje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>разрывание, обдирание, терзание, мучение, колики</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дертьё</ref> ср. р., собир.</orth>
+      </form>
+      <sense>
+        <def>тонкие сосновые пластинки, употребляемые иногда вместо тесу для крыш мелких деревянных строений, напр. бань, погре­ бов; драницы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Опыт 46; Подвысоцкий 37; Филин 8, 26)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Расширение (ь/е: -ъ) основы<xr type="compare">см. <ref type="etymon" target="dbrtb">*dbrtb</ref>
+    </xr>....</note>
+</Entry>

@@ -1,0 +1,85 @@
+<Entry xml:id="cbrnota">
+  <pb n="154" end_page="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrnota</orth>
+    <lemma>cbrnota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чернота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чернота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Cfnota</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XIII в.; в лат. документе XI века: Cirnotta, RJA I, 847)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чернота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cernota</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чернота; темнота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciernotay</ref> cernota ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чърнота</ref>, чрънота</orth>
+      </form>
+      <sense>
+        <def>чернота, черный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский III, 1562)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чернота</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарната</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чернота</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="bt">*бьтъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Несмотря на поздний характер свидетельств о др.-инд. krsyata ж. р. 'чернота' и прочие сомнения (см. J. Wackernagel. Altindische Grammatik. Bd. II, 2. Die Nominalsuffixe, von A. Debrunner. Gottingen, 1954, 616; Mayriofer I, 264), параллелизм образования этих производных от эти­ мологически тождественных кг$$а- и *съгпъ с тождественными суффиксами и тождественным производным знач. всё-таки любо­ пытен.</note>
+</Entry>

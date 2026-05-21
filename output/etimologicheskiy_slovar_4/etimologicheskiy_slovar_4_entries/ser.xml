@@ -1,0 +1,177 @@
+<Entry xml:id="ser">
+  <pb n="56" end_page="57" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серъ</orth>
+    <lemma>серъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. , <ref>также</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чеп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деревянная затычка бочонка, остаток обрубленной ветки дерева, сук, мужской половой член , сук дерева , сук, деревянная затычка бочки или кадушки , затычка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Н. Ковачев. Севлиевско.—БД V, 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко.—БД V, 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. Плевенско. -—БД VI, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чеп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пробка, затычка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>сер</ref>, род. п. сера, м. p.</orth>
+      </form>
+      <sense>
+        <def>obturamentum, cardo masculus , также cap, род. п. сара м. p. obturamentum, затычка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJAI, 932)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(R JA I, 888)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>сер</ref>, род. п. сера, м. р.</orth>
+      </form>
+      <sense>
+        <def>затычка, втулка, обрезок вино­ градной лозы, рыба Aspro</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>сер</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>затычка, водоспуск рыбного пруда, втулка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>ёар</ref> м. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сер</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>железный конец люшни, воткнутый в ось , cap спуск пруда, цапфа, железная ось мельничного жернова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cap</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>деревянная затычка, втулка, цапфа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>сер</ref>(к)у</orth>
+      </form>
+      <sense>
+        <def>втулки, вальки, стержни, обрезки виноградной лозы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Zvolenska Zilina, см. Kalal 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чёп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чан , чоп м. р. виноградный сук, (курск.) гвоздь в бочке, затычка; кран, верток, спуск у бочки, чана, железный шип мельничного вала, (зап.) чан, (ряз.) бадья, цевка, кулак, зуб машинного колеса , чоп затычка в бочонке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 8 IV, 1357)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чт</ref>, род. п. чопа, м. р.</orth>
+      </form>
+      <sense>
+        <def>деревянная затычка у бочки, стержень, на котором что-либо ходит, качается или вращается, — является частью многих машин и снарядов, напр. винт, соединяющий половинки ножниц (Шух.), колышек в сновалке (Шух.), колы­ шек, зуб (железный) в бороне (Шух.), шип в столбе для связи с другим бревном (Уманск., Гайсинск. уу.), железный шип на мельничном валу (Черниг. у.), рыба Aspro ZingeP (Вх.) , чоп м. р. рыба Lucioperca volgensis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 465)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 470)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чеп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железная пластина, с одной стороны пробоем прикрепляемая к двери, а другою надеваемая на пробой для замыкания; запор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 697)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Отношения праслав. *серъ и нем. Zapfen 'затычка, пробка' (герм. *tappon~) можно понимать как элементарное родство экспрессивных по своей природе образований. О заимствовании слав, слова из нем. едва ли можно говорить ввиду общеслав. его распространения (см, Ф. Славски «Езиков. изследв. в чест на Младенов» 269), фонетич. особенностей (начальный согласный), кот. нельзя вывести из герм, форм, а такжэ более богатой и самобытной семантики слав, слова (ср. знач. 'сук' в болг. и русск. диалектах).</note>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="ser">*серъ</ref> в конечном счете связано с глагольным гнез­
+дом <ref type="etymon" target="capati-2">*capati</ref> 
+(см.), ср. и вокализм -а- ряда сербохорв., чеш. 
+и слвц. продолжений праслав. <ref type="etymon" target="ser">*серъ</ref> (см. выше), впрочем, вока­
+лизм 
+основы 
+<ref type="etymon" target="capati-3">*capati</ref> 
+отражает 
+регуляризацию в соответствии 
+с видом глагольного действия.</gram>
+  </gramGrp>
+  <note>Звукоподражание. См. Berneker I, 143, где едва ли верно разъединены, с одной стороны, сербохорв. сер, болг. чеп, словен. сер, чеш. сер 'затычка', польск. czop то же, объясняемые автором как займете, из нем. Zapfe(n) и ит. серро, а с другой стороны — слав, серъ в знач. 'сук, ветвь, лоза', сближаемое, далее, совершенно неубедительно с лексикой, рассматриваемой нами под *cepuriti, *cepyriti и т. п.; Фасмер IV, 372 (дает вполне правдоподобное объяснение обоих упомянутых случаев как единого этимологически слав, слова); ср. ещё Machek 2 97.</note>
+</Entry>

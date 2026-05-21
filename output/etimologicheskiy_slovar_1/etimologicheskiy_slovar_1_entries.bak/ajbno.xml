@@ -1,0 +1,25 @@
+<Entry xml:id="ajbno">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajbno</orth>
+    <lemma>ajbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>яйнб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пузырь, плена, сорочка, в коей иногда родятся младенцы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1569)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (адъективное по типу, см.<ref type="etymon" target="ajbtibjb">*ajbtibjb)</ref> 
+от 
+(см.).</gram>
+  </gramGrp>
+</Entry>

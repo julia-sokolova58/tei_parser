@@ -1,0 +1,25 @@
+<Entry xml:id="cersti">
+  <pb n="75" end_page="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cersti</orth>
+    <lemma>cersti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьгЦ</orth>
+    <lemma>сьгЦ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чърсти</ref>, чъртХ</orth>
+      </form>
+      <sense>
+        <def>чертить; проводить борозду, вспахивать (Сб. Троицк. XII в.), изобило­ вать^) (Гр. Наз. XI в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1568)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. kertii, kirsti 'рубить, ударять', лтш. certu, clrst то же (соотношение вокализма корня наст. вр. и инфинитива об­ ратно противоположно славянскому, где реконструируется *сьЩу *cersti), далее, родственно др.-инд. kdrtati 'режет, отрезает'. См. H. Pedersen KZ XXXIX, 1906, 377; A. Meillet MSL 14, 1907, 384; Berneker 1, 172; W. Porzezinski RS IV, 1911, 6; J. Otrqb- ski LP 8, 1960, 265; Fraenkel 1, 258; Pokorny I, 942 (относит сюда же хетт, kartai- 'отрезать'); Фасмер IV, 349.</note>
+</Entry>

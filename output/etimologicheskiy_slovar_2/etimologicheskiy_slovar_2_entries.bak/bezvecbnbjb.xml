@@ -1,0 +1,52 @@
+<Entry xml:id="bezvecbnbjb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvecbnbjb</orth>
+    <lemma>bezvecbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>безвЪчънъш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>увечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Судебн. 1497 г., Срезневский III, Доп. 9')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безвёчный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>увечный, калека, расслабленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвъчний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>вековечный, бесконечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 38)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы<ref type="etymon" target="bezvekb-2">*bezvekb</ref> (см. 
+<ref type="etymon" target="bezvefojby">*bezvefojb)y</ref> 
+или же префиксально-суффиксальное 
+образование 
+от <ref type="etymon" target="iyok-2">*иёкъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

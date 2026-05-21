@@ -1,0 +1,148 @@
+<Entry xml:id="bukovina">
+  <pb n="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bukovina</orth>
+    <lemma>bukovina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>буковина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буковый лес (Трън, Архив Болг. диал. словаря, София), буковина собир. бук (древесина, материал) (с. Долна Мелна, Трънско, дип. раб. Архив Софийск. ун-та), буковина ж. р. буковый прут, буковая древесина , буковина ж. р. кусок букового дерева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кънчев. Пирдоп. Б Д IV, 91)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буковина</ref> ж . р.</orth>
+      </form>
+      <sense>
+        <def>бук (древе­ сина)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>буковина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бук (древесина)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bukovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бук (древесина), местность, поросшая буком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bukovina</ref>, местн. название (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bukovina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bukovina</ref> ж . р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bukojna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес , bukowina (Zeman)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bukowina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковое дерево, буковая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>bukowina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 716)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>буковина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>многолетнее лекар­ ственное растение с пурпурно-малиновыми цветами (твер.), Betonica officinalis, буквица аптечная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>буковина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево бука</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Волохове на Кузьминомъ л'Ьсе поляковъ буковиною. . . поразили. —Тимченко I, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бу</ref>­ ковина ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковое дерево, буковый лес, страна: Буковина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 109)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> 
+от прилаг. <ref type="etymon" target="bukovb">*bukovb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

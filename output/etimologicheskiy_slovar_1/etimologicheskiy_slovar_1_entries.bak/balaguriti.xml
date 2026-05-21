@@ -1,0 +1,48 @@
+<Entry xml:id="balaguriti">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>balaguriti</orth>
+    <lemma>balaguriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>балагурить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить весело, забавно, пересыпая речь шутками, остротами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>балагуръщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>балагурить, вести пустую беседу . — Сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>балагур</ref> (редк.)</orth>
+      </form>
+      <sense>
+        <def>балагур , если это не русизм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. слови. I, 30)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Исключительно вост.-слав, и вместе с тем, видимо, старый праслав. лексический диалектизм: сложение ономатопеи bala- и основы gur-, с р . вокализм лтш. gaura 'болтовня', далее —<ref type="etymon" target="go-">*go-</ref>
+УОТЪ 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 40; Фасмер I, 112; Sadnik—Aitzetmul­ ler. V g l . W b . 2, 122; Shevelov. A prehistory of Slavic 272. Близко родственно<xr type="compare">см. <ref type="etymon" target="balagovati">*balagovati</ref>
+    </xr>.</note>
+</Entry>

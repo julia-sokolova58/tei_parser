@@ -1,0 +1,66 @@
+<Entry xml:id="galnj">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galьnъ(jь)</orth>
+    <lemma>galьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гален</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нежный, любострастный; баловень , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дю­ вернуа 340)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гален</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>избалованный, нежный , милый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гален</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>изнеженный, избалованный, ласковый, нежный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галъной</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смешной , галъ- ной, -ая, -бе смешной, забавный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Филин 6, 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суфф.-ь/гъ, соотносительное с гл.<ref type="etymon" target="galiti-3">*galiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

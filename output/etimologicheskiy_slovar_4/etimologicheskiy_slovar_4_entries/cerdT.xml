@@ -1,0 +1,61 @@
+<Entry xml:id="cerdT">
+  <pb n="64" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerdT</orth>
+    <lemma>cerdT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>cred</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>vices</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA I, 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Чередъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1485 г., Тупиков 479)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черёд</ref> и. р.</orth>
+      </form>
+      <sense>
+        <def>очередь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>черед</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очередь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарбдм</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>очередь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 343)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма м. р., соотносительная с<xr type="compare">см. <ref type="etymon" target="cerda">*cerda</ref>
+    </xr>, ж. р.</note>
+</Entry>

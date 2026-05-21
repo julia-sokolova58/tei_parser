@@ -1,0 +1,53 @@
+<Entry xml:id="cistivo">
+  <pb n="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistivo</orth>
+    <lemma>cistivo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>cistivo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>средство для чистки</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czysciwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>то, чем чистят . — Ср. и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 414)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cistivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>очищающий, напр. о лекарстве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 301, с пометой: slvc)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>cistiu</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>purgatorius</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA И, 45)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)vo от гл.<ref type="etymon" target="cistiti">*cistiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

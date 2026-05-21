@@ -1,0 +1,129 @@
+<Entry xml:id="becati">
+  <pb n="174" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>becati</orth>
+    <lemma>becati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать, кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 528)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>becati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блзять (об овцах); кричать, хныкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hlecec</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bjacas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мычать, блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>be</ref>- r.etl</orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>becat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плакать , becaf то же , becet мекать, блеять, мычать , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistr. 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>becit</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>becaV</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 278)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бе</ref>- иатъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(новг., Филин 2, 285)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бечати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять ; сюда же примыкает pvccK</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бячатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять (об овце)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 360)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражат. глагол, фонетический вариант<ref type="etymon" target="bekati">*bekati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

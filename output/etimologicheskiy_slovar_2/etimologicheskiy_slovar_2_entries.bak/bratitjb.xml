@@ -1,0 +1,48 @@
+<Entry xml:id="bratitjb">
+  <pb n="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratitjb</orth>
+    <lemma>bratitjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>братиН</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>fratris filius, сын брата, племянник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. также РСА II, 117, с вар. братиН)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>братичъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сын брата</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дух. Карп. XV в., Срезневский III. Доп. 25')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>братич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брат</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 3, 158)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-itjb</ref>
+      </m> (патронимическое) от <ref type="etymon" target="ga-2">*ЪгаЬъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

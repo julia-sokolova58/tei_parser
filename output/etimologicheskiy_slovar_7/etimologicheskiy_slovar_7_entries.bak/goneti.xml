@@ -1,0 +1,39 @@
+<Entry xml:id="goneti">
+  <pb n="21" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>goneti</orth>
+    <lemma>goneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гоы</ref>^ти dpxelv, sufficere</orth>
+      </form>
+      <sense>
+        <def>хватать, быть достаточным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гонЪти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть до­ статочным</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псалт. толк. Феодор. пс. GXXXIV. 23, толк., Срез­ невский I, 551; Сл. Иппол. об антихр. И , XII в.; Усп. сб. 318, XII—XIII вв., Сл. РЯ XI—XVII вв. 4, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Продолжает и.-е. гл. состояния на -ё-<ref type="etymon" target="g-hen-e-y">*g-hen-e-y</ref> 
+ср. прежде 
+всего лит. ganeti 
+'быть достаточным'.</gram>
+  </gramGrp>
+  <note>См. Fraenkel I, 132. Осталь­ ные сближения ограничиваются корнем, ср. лит. gana 'доста­ точно, довольно, хватит', греч. acpevos 'обильный запас', eu-OevVj?, др.-инд. ghana- 'плотный, вязкий', гот. ganah (если последнее не из ga-nah) 'довольно, хватит'. См. A. Bezzenberger, A. Fick ВВ VI, 1881, 237; A. Bezzenberger ВВ XII, 1887, 78; P. Horn KZ XXXII, 1893, 579; Berneker I, 327; J. Kurylowicz. Etudes indo-europeennes 6; A. J. Van Windekens LP 7, 1959, 49—50; Фасмер I, 437.</note>
+</Entry>

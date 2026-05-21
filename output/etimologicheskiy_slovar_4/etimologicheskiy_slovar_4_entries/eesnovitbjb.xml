@@ -1,0 +1,44 @@
+<Entry xml:id="eesnovitbjb">
+  <pb n="88" end_page="89" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>eesnovitbjb</orth>
+    <lemma>eesnovitbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>cesnovitt</ref> Шк м. р.</orth>
+      </form>
+      <sense>
+        <def>чеснок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., RJA I 947)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чесновитыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чесночный , сюда же производные cesHb/*cesno чесновитъкъ чеснок , чесно- витьць чеснок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Испов. \о вер., Срезневский ИТ, 1503)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ефр. Сир. XIV в. и др., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Числ. Xi. 5 по сн. XIV в., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -Иъ]ъ от<ref type="etymon" target="cesnovb-2">*cesnovb</ref> (см.), как <ref type="etymon" target="cesnouatbjb">*cesnouatbjb</ref> 
+(см.) — с суфф. -аЬъ]ъ\ впрочем, возможно образование прилага­
+тельного на ouitbjb 
+от <ref type="etymon" target="cesnb">*cesnb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

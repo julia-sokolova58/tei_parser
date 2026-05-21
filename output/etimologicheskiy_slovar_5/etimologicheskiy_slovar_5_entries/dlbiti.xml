@@ -1,0 +1,71 @@
+<Entry xml:id="dlbiti">
+  <pb n="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьlbiti</orth>
+    <lemma>dьlbiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длъб</ref>\к</orth>
+      </form>
+      <sense>
+        <def>долбить, выдалбливать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дубити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 771)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golbiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долбить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударять, стучать по чему-либо, пробивая отверстия, углубления</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даубщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долбить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу- Некраш. 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Шу</ref>
+      </m> соотносительный с <ref type="etymon" target="dblbti">*dblbti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

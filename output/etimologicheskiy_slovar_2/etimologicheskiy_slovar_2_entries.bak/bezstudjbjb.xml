@@ -1,0 +1,59 @@
+<Entry xml:id="bezstudjbjb">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezstudjb(jb)</orth>
+    <lemma>bezstudjb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бестХждъ</ref>, бестХжъ dvatSTJs, impudens</orth>
+      </form>
+      <sense>
+        <def>бесстыдный, дерзкий , бестужии (. . . не бестужъ лице м. Гр. Бог., XIV в., Карто­ тека СДР)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., Срезневский I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бесстужой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>усердный в работе, прилеж­ ный, бесстыдный, нахальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 6)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. без- <ref>стужий</ref>, бестужий</orth>
+      </form>
+      <sense>
+        <def>бесстыдный, нахальный . — Ср. сюда же сущ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(«Тайна тайных», XVI в., Хрэст. I, 276, 277, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёсстужъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стыд, срам, позор, бесчестье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль 3 I, 184)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -/- от древнего сложения<ref type="etymon" target="bezstudb">*bezstudb</ref> (ср. 
+след.).</gram>
+  </gramGrp>
+  <note>Способ суффиксации делает вероятной древность данного образования. Функция суффикса ( — адъективация) свидетель­ ствует о субстантивном характере непроизводной основы *bez- stufo к этому времени.</note>
+</Entry>

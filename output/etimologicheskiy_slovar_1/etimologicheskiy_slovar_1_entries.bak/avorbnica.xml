@@ -1,0 +1,58 @@
+<Entry xml:id="avorbnica">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>avorbnica</orth>
+    <lemma>avorbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>javornica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>явор, название растений Rubaghe, Laurus nob. L. , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Javor</ref>- nice ж. p., название деревни в округе Градец Кралове</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 604)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>явЬрнйце</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Johannisbeere, Ribes rubrum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратсь- кий. Знадоби 274)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ътса от *аиогъ I (см.) или соответственно— с Аса от<xr type="compare">см. <ref type="etymon" target="aiogp">*аиогъпъ</ref>
+    </xr>. Древность 
+проблематична. 
+''ауогыикъ: словен. juror nih' м. р. 'сорт imnoi радиои лозы' 
+(Ие1. I, 
+;&gt;61), чеш. javornl/X м. р. 'майский 
+ж у к ' , 'яворовый лес', также 
+название горы в Болеславском 
+округе и в Моравии, название 
+деревни (Ко(Л 
+I, 604).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ыикъ</ref>
+      </m> от <ref type="etymon" target="aiog-4">*аиогъ</ref> I (см.) или с суфф. -гкъ от 
+основы прилаг. <ref type="etymon" target="aiogi-">*аиогъи-</ref>.</gram>
+  </gramGrp>
+  <note>Может быть местным новообразованием.</note>
+</Entry>

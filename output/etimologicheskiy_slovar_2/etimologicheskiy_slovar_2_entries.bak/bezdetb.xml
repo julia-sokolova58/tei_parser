@@ -1,0 +1,35 @@
+<Entry xml:id="bezdetb">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdetb</orth>
+    <lemma>bezdetb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёздет</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бёзд</ref>]ет, -а, -о, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>без­ детный , сюда же Bezdet м. р., название горы в Сер­ бии, округ Кнежевац</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 400)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 267)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-12">*bez</ref> (см.) и 
+(см. <ref type="etymon" target="dety">*dety)</ref>, адъективного обра­
+зования архаического вида, относительно которых см. подробнее 
+на <ref type="etymon" target="bez-13">*bez</ref>.</gram>
+  </gramGrp>
+</Entry>

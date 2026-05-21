@@ -1,0 +1,91 @@
+<Entry xml:id="bijakb">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bijakb</orth>
+    <lemma>bijakb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бияк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>молотило (часть цепа, которой бьют по снопам) , возм., из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. К. Бунина. Словарь говора олыпанских болгар. — «Статьи и материалы по болгарской диалектологии СССР» 5, 1954, 11)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bijdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>било, подвижная часть цепа</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bijdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>било молотильного цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffа. Dlha Luka 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bijak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>драчун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bijdk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>забияка, било цепа, часть мельничного устройства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz, I, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бiякъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>более короткая часть цепа, било</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бияк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>било, короткая часть цепа, которою молотят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 59)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от основы гл. <ref type="etymon" target="biti">*biti</ref> (см.) или с -к-
+суффиксальным от расширенной основы <ref type="etymon" target="bijati">*bijati</ref> со знач. много­
+кратного действия.</gram>
+  </gramGrp>
+  <note>Древность проблематична.</note>
+</Entry>

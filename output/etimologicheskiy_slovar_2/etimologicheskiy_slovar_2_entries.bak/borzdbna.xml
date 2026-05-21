@@ -1,0 +1,111 @@
+<Entry xml:id="borzdbna">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borzdbna</orth>
+    <lemma>borzdbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бразна</ref>, брезна, бръзна ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бразна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда , бразнъ, междом. для понукания волов, чтобы шли по борозде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>бразна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>борозна</ref> ж. р., борознб ср. р.</orth>
+      </form>
+      <sense>
+        <def>продольное углубление, образующееся при отвале земли плугом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. К. Дмитриева. Из словаря брянских говоров. — «Брянские говоры». Л., 1968,198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>борозна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда на пашне ? канавка для воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кн. Гродск. Луцк. 1565 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кн. М^ск. Полт. 1719 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>борозна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>борозна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ряд скошенной травы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпатский диалектоло­ гический атлас, карта № 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баразна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>борозда</def>
+      </sense>
+    </item>
+  </etym>
+  <note>О распределении форм бразна (вост.) и бразда (зап.) в болг. говорах см. специально М. С Младенов БЕ 21, 1971, 220—224.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- от<ref type="etymon" target="borzda">*borzda</ref> (см.); субстантивированное 
+прилаг., ср. сербохорв. бразни, -а, -о, прилаг. 'связанный с бо­
+роздой' (РСА II, 100), также бражгьй, -а, -е (РСА II, 97), чеш. 
+brdzdni то же.</gram>
+  </gramGrp>
+</Entry>

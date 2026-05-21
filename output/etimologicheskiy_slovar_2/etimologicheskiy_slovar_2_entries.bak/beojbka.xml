@@ -1,0 +1,83 @@
+<Entry xml:id="beojbka">
+  <pb n="71" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>be!ojbka</orth>
+    <lemma>be!ojbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белбйка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мужская конопля Cannabis sativa (Геор­ гиев), белбйка конопля без семян</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 3Q)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>бело</ref>]ка ж. р.</orth>
+      </form>
+      <sense>
+        <def>белая пшеница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjelo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>jka ж. р. мужская конопля , бёлб]ка, б]ёлб]ка ж. р. белолицая и светловолосая жешцина, мужская конопля Cannabis sativa mas</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 384)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>белб</ref>]ка</orth>
+      </form>
+      <sense>
+        <def>стебель цвету­ щей конопли , бело]ка вид конопли , бел&gt;о]ка сорт скороспелой конопли . —Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RB 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(J§ 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белбйко</ref> — то же, что белеюшко</orth>
+      </form>
+      <sense>
+        <def>животное белой масти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 2, 220)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, достаточно старое субстантивное производное с редким формантом -о/- (дополнительно осложненное суффиксом<m type="suffix">
+        <ref>-ъка</ref>
+      </m>) от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref>.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="deuoja">*deuoja</ref>
+    </xr>, *devojbka (ниже).</note>
+</Entry>

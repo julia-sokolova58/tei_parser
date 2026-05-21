@@ -1,0 +1,47 @@
+<Entry xml:id="garisce">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garišče</orth>
+    <lemma>garišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гарйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место в лесу, выжженное по­ жаром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гарйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пожарище, пепелище, гарйште, гарйште ср. р. пожарище, кострище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гарище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пожарище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Фи­ лин 6, 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m>, соотносительное с <ref type="etymon" target="garb-2">*garb</ref>, <ref type="etymon" target="garati">*garati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

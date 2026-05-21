@@ -1,0 +1,179 @@
+<Entry xml:id="blizbjb">
+  <pb n="121" end_page="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blizb(jb)</orth>
+    <lemma>blizb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блйзо</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>близко , блйзу то же (Георгиев)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>блйзе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>близу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близко, почти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bliz</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>propin- quus, близкий , bliz, нареч. и предл. близко, близ , блйзу близко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с.XVII в., RJA I, 440)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XIII в., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bliz</ref>, blez, blizo, blizu, blizi, нареч. и предл.</orth>
+      </form>
+      <sense>
+        <def>близко, близ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>bldzb</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bliz</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>propin- quitas, близость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 66—67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. (стар.) <ref>blizy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>близкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>blizi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий, соседний, vicinus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1471 г. St. stpol. I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>blizo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SI. gw. p. I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>близ</ref>, предл.</orth>
+      </form>
+      <sense>
+        <def>неподалеку от кого-либо, чего-либо; возле, около</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>блйзый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 3, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>близ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>близость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в выражении: коло близу, до близу, Гринченко I, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Большинство форм сводится к праслав.<ref type="etymon" target="sh-2">*ЬШъ</ref>, выступающему 
+как сущ-ное (откуда наречно употребленный род. пад. <ref type="etymon" target="blizu">*blizu)</ref>
+или как прилаг. в полной и краткой форме.</gram>
+  </gramGrp>
+  <note>Форма древняя ввиду своего остаточного характера. Ср. более распространенное *ЬШъкъ (ниже). Этимологически тождественно<xr type="compare">см. <ref type="etymon" target="blizna">*blizna</ref>
+    </xr>, 
+хотя семантически эволюционировало, значительно удалившись 
+от своей первоосновы и.-е. *bhleig(h)-
+ 
+сбить'. См. Berneker I, 62 
+(с убедительными семант. параллелями: греч. аух
+1 сблиз' — ау^со 
+'сжимать, давить', франц. pres, ит. presso 'близ' — лат. pressus 
+'сжатый'). См. специально С. A. Mastrelli. La notion de 'proche' 
+dans les langues indo-europeennes. «Actes du X
+е Congres Interna­
+tional des linguistes». IV. Bucarest, 1970, 517. Ни на чем не осно­
+вано сближение 
+слав. 
+*ЪШъ с греч. тгеХад 'близко', TCXTJOIOS 
+(дор. TcXaitog) 'близкий' (Machek 35; ср. еще J. Otr^bski. Studja 
+indoeuropeistyczne 161).</note>
+</Entry>

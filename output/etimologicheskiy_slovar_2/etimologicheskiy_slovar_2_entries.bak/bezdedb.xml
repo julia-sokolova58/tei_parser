@@ -1,0 +1,43 @@
+<Entry xml:id="bezdedb">
+  <pb n="16" end_page="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdedb</orth>
+    <lemma>bezdedb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bezded</ref>, имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1224 г., Gebauer I 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>Biezdziad</ref>, имя собств.: Present(e). . . comite Johanne, filio Bezdzath, palatino Cuyauiensi. 1315 r. . . . Bezdzad de Vola. 1390 r. , ср., далее, Bezdieda</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«Stown. stpol. nazw osobowych» I, 2, 163)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XVI в., S. Rospond. Stownik nazwisk slaskich. Cz. L Wroclaw — Warszawa — Krakow, 1967, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>БездЪдъ</ref>, имя собств., муж. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 56)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Старое сложение<ref type="etymon" target="bez-11">*bez</ref> (см.) и 
+<ref type="etymon" target="v">*в</ref>,ёйъ (см.), представленное 
+только в зап.-слав, и вост.-слав., в старых текстах и, косвенно, 
+в ономастике (см. след.).</gram>
+  </gramGrp>
+  <note>См. Milewski. Indoeuropejskie imiona osobowe 119, 223, где также специально говорится о продуктив­ ности в лехитских языках сложений древнего типа с несклоняе­ мым первым компонентом, в данном случае — bez.</note>
+</Entry>

@@ -1,0 +1,36 @@
+<Entry xml:id="baxbtati">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baxbtati</orth>
+    <lemma>baxbtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bachtac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крякать (об утках); болтать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bachtas</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>хвастать, важничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 10)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Интенсивная форма глагола, суффиксальное производное на<m type="suffix">
+        <ref>-bt-ati</ref>
+      </m> 
+от основы гл. <ref type="etymon" target="baxati">*baxati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

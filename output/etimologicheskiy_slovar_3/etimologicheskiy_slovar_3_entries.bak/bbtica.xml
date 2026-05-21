@@ -1,0 +1,33 @@
+<Entry xml:id="bbtica">
+  <pb n="140" end_page="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbtica</orth>
+    <lemma>bbtica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>betica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дубина, колотушка, * утолщение на конце молотильного цепа, язык колокола, голова, головка , butica ж. p. то же , если эти формы не продолжают исходное<xr type="compare">см. <ref type="etymon" target="bat-">*bat-</ref>
+          </xr>, ср. batica ж. р. с теми же знач-ми</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 14)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-lea</ref>
+      </m> от <ref type="etymon" target="bbtb">*bbtb</ref> 
+II (см.).</gram>
+  </gramGrp>
+</Entry>

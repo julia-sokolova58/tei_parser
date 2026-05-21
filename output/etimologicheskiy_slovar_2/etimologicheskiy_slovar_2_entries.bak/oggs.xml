@@ -1,0 +1,30 @@
+<Entry xml:id="oggs">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьоггьсь</orth>
+    <lemma>Ьоггьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brazec</ref>, род. п. -zee м. р.</orth>
+      </form>
+      <sense>
+        <def>рама с сеткой для ловли зверей</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brozec</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 210: только в форме brozcem 'набекрень, набок, боком')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (ум.) с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="borg">*borgъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

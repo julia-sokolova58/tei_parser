@@ -1,0 +1,50 @@
+<entries>
+  <entry xml:id="budislavbudislava" xml:id="budislavbudislava">
+    <pb n="76" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*budislavъ/*budislava</orth>
+      <lemma>budislavb</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>budislava</orth>
+      <lemma>budislava</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Budislav</ref> м. р., личное имя собств. , Budislav м. р.</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(с X I I I в., R J A I, 711)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(с X I V в., там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>Budislav</ref>, сокращ. Buclav м. р . , личное имя собств. (Ge­ bauer I, И З ) , Budislava ж . р . , личное имя собств. , ст.-</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>Budzislaw</ref> , Budzistawa .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(1136 г. и позже, SJtown. st.-pol. nazw osobowych I, 2, 275)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(1362 г., там же)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Сложение основы гл. <ref type="etymon" target="buditi">*buditi</ref> 
+(см.) и имени <ref type="etymon" target="slava">*slava</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

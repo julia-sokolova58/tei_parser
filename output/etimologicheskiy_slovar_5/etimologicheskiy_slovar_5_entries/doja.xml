@@ -1,0 +1,42 @@
+<Entry xml:id="doja">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*doja</orth>
+    <lemma>doja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. до)<ref>а</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>кормилица, кормящая мать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dofa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>доение, дойка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>duje</ref> ж. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. I, 324)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="dojiti">*dojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

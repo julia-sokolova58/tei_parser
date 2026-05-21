@@ -1,0 +1,70 @@
+<Entry xml:id="duditi">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duditi</orth>
+    <lemma>duditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издавать звук, играть, дудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 3)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дудишь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пить (пек., твер.), выпивать много (урал.) , пить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., твер., калуж., урал., волог., костр., Филин 8, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дудити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на свирели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дудзщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>играть на дуде, с жадностью пить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="duda">*duda</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. ещё <ref type="etymon" target="dudati">*dudati</ref>
+    </xr>, , , , <xr type="compare">см. <ref type="etymon" target="dudeti">*dudeti</ref>
+    </xr>....</note>
+</Entry>

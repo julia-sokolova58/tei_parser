@@ -1,0 +1,45 @@
+<Entry xml:id="domazir">
+  <pb n="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domažirъ</orth>
+    <lemma>domažirъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Домажиръ</ref> , сюда же суф­ фиксальное производное Домажиръцъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Си Домажира къ нажир^ иже то при ветре . . . възьми жа . . . Гр. берест, (новг.) № 233, XII— XIII вв., Картотека СДР; см. еще Тупиков 187)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ипат. л., Гал.-Вол., ок. 1425 г., л. 266, там же; Срезневский I, 699: доможиръць 'домочадец', Хроногр. 1494 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>доможйр</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>домосед (сев.- двинск.), скопидом, скряга (перм.), запасливый, экономный че­ ловек, состоятельный хозяин (перм., сев.-двинск.) , сюда же доможйра ж. р. дом со всем хозяйством</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Domazyr</ref>, местн. н. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(бывш. Галиция, Russ. geogr. Namen- buch II, 645)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="doma-2">*doma</ref> (см.) и основы <ref type="etymon" target="ig-2">*Игъ</ref>, <ref type="etymon" target="ziti">*ziti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,66 @@
+<Entry xml:id="distb">
+  <pb n="122" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>distb</orth>
+    <lemma>distb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Sist</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>claretum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 300; Kott VII, 2, 1220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cysc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>очищение, чистилище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чисть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>росчисть, чищоба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Судн. сп. 1504 г., Срезневский III, 1534)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чисть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чистота, от­ сутствие пятен или темноты (новг.), чистое, открытое место, безлесная тундра (арх., новг.) , чисть ж. р. место, где лес вырублен, выкорчеван и сожжен под посев; пашня, рас­ чищенная из-под лесу; чистота, опрятность; чистое, открытое место , чисть открытое место (Кар­ тотека Печорского словаря), чисть ж. р. чистое место , чисть ж. р. вырубка в лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 258)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(сев., вост., Даль 3 IV, 1347)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русских старожильческих говоров средней части бассейна р. Оби 3, 232)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 598)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, производное от прилаг.<ref type="etymon" target="Sistb-2">*Sistb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

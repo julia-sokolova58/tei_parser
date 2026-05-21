@@ -1,0 +1,67 @@
+<Entry xml:id="bezxvostbjb">
+  <pb n="28" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezxvostbjb</orth>
+    <lemma>bezxvostbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezchvosty</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бесхвостый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezchvosty</ref>, прилаг., то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бесхво</ref>­ стый</orth>
+      </form>
+      <sense>
+        <def>не имеющий хвоста, о животном, куцый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безхвбстий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесхвостый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос словн. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяс</ref>- хвбсты</orth>
+      </form>
+      <sense>
+        <def>бесхвостый, куцый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-43">*bez</ref> (см.) и именной основы 
+<ref type="etymon" target="xvosfo">*xvosfo</ref> (см.).</gram>
+  </gramGrp>
+  <note>Принадлежит к типу архаич. прилаг-ных (подроб­ нее см. на *bez).</note>
+</Entry>

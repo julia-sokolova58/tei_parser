@@ -1,0 +1,48 @@
+<Entry xml:id="garavj">
+  <pb n="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garavъ(jь)</orth>
+    <lemma>garavъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гарав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>закопченный, перепачканный в саже, черномазый, темный , ga- rava ж. р. черная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA III, 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. поэт, <ref>hdravy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>жарко пылающий, жгучий, пылкий. — Ср. сюда же производ­ ное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гаравица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>изжога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> от гл. <ref type="etymon" target="garati">*garati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

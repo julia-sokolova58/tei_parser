@@ -1,0 +1,145 @@
+<Entry xml:id="cbrvivbjb">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrvivb(jb)</orth>
+    <lemma>cbrvivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>червив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црвлив</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cruiv</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA I, 855)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>црлйв</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Srviv</ref>, -iva, прилаг.</orth>
+      </form>
+      <sense>
+        <def>червивый, источенный, изъеденный червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cervivy</ref>, прилаг. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>eervivyj</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>eervivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>червивый, источенный червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Sefwiwy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>чьрвивыи</ref>, чрьвивыи, червивый</orth>
+      </form>
+      <sense>
+        <def>изъеденный червями , съедаемый червями (Сб. Волог. XV в. и др.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XXVII. 20 по сп. XIV в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>червивый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вчем завелись черви, что поедено ими</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>червйвий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>с червями, червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарвгвы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. - ш - от<ref type="etymon" target="yoyu">*ёъюъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

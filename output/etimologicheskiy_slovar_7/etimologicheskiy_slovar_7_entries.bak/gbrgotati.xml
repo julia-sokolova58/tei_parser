@@ -1,0 +1,108 @@
+<Entry xml:id="gbrgotati">
+  <pb n="207" end_page="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrgotati</orth>
+    <lemma>gbrgotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грготати</ref>, грготати</orth>
+      </form>
+      <sense>
+        <def>клокотать, бурлить, хрипеть, громыхать , гргутати ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 592—593)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 594)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grgotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клокотать, ворковать , gurgotdti ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hrgotat</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Но- tub hrgotd 'голубь воркует'.—Bartos. Slov. 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горготатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ржать (о лошадях) (олон., арх., новг.), **издавать •g-brma звуки (о птицах) (великолук., брян., новг.), смеяться (олон., новг., волог., смол.), громко говорить, болтать (смол., том.), браниться (смол.), шуметь, грохотать (амур.) , бормотать (о тете­ реве) (Картотека Новгородского ГПИ), гаргатать, гиргататъ говорить или петь неясно, неразборчиво, скрадывая звуки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 26; ср. еще Иркутский областной словарь I, 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Рас­ торгуев. Словарь народных говоров Зап. Брянщины 77)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горготати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громыхать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 350)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гергетацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать по-гусиному</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гергатаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гоготать , гергетацъ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Интенсивная форма на<m type="suffix">
+        <ref>-otati</ref>
+      </m>, 
+производная от гл. <ref type="etymon" target="gbrgati">*gbrgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

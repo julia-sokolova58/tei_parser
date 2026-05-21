@@ -1,0 +1,93 @@
+<Entry xml:id="gybeti">
+  <pb n="216" end_page="217" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gybeti</orth>
+    <lemma>gybeti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>gibjeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погибать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., RJA III, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гйбети</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно желать, стремиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hybeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погибать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 53; Kott I, 515)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гыб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ёти погибать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ил. Новг. поуч. 24, Срезневский HI, 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гибётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>усидчиво заниматься чем-либо, корпеть (твер., яросл., калу ж., моек., курск., сарат., тамб., донск., иркут.), губить себя? (моек., яросл., курск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гйбШи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хиреть, болеть, страдать от недостатка чего-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко Т, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>г1бёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прозябать, Гл. состояния на -ей, соотносительный с *gybngti /<xr type="compare">см. <ref type="etymon" target="gybati">*gybati</ref>
+          </xr>
+        </def>
+      </sense>
+    </item>
+  </etym>
+  <note>Ср. Г. Ульянов РФВ XXV, 1892, 42.</note>
+</Entry>

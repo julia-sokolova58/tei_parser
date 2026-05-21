@@ -1,0 +1,66 @@
+<entries>
+  <entry xml:id="brdidlo" xml:id="brdidlo">
+    <pb n="164" end_page="164" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrdidlo</orth>
+      <lemma>bbrdidlo</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бардйло</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>набилки, между которыми на­ ходится бердо в домашнем ткацком станке</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Стойчев Б Д II, 127; Геров: бръдйло)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брдила</ref> мн. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брдило</ref> ср. р. (чаще во мн.)</orth>
+        </form>
+        <sense>
+          <def>набилки ткацкого станка , также</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(PGA II, 136)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>брдило</ref> , брдило</orth>
+        </form>
+        <sense>
+          <def>часть ткацкого станка , bfdila мн. набилки, рама для берда</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ел. I)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Mic. 55)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(с XVI в., Вук, R J A I, 618)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное 
+с суфф. 
+-(i)dlo, 
+соотносительное 
+с гл. 
+(см.) и именем <ref type="etymon" target="bbrdo">*bbrdo</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

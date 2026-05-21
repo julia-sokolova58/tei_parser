@@ -1,0 +1,39 @@
+<Entry xml:id="ao1p1">
+  <pb n="46" end_page="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>аЬо1пь 1</orth>
+    <lemma>аЬо1пь 1</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jablan</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яблоня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>jaboln</ref> ж. р., наряду с jabton [см. выше, под *а.Ыопъ\ .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 519)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. обр. ю.-слав. форма (ср., впрочем, интересный н.-луж. пример, выше),<ref type="etymon" target="ao1p">*аЬо1пъ</ref>
+ с я б л о н я ' представляет собой древний дуб­
+лет к синонимичному и этимологически близко 
+родственному 
+<ref type="etymon" target="ayop-2">*аЫопъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Этимологически тождественные формы с отклоне­ ниями в значении см. под *abolm&gt;. *аЬо1пь 11: русск. диал. (арх.) ябулонъ ж. р. 'болонь в дереве' (Опыт 273)*. Сложение старого префикса недостаточно ясного по семан­ тике, но вполне достоверного формально « и.-е. *б- / *ё-), с основой праслав.<xr type="compare">см. <ref type="etymon" target="bolna">*bolna</ref>
+    </xr>. См. О. Н . Трубачёв. Сб. к 70-ле­
+тию В. И. Борковского 268.</note>
+</Entry>

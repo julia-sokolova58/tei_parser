@@ -1,0 +1,42 @@
+<Entry xml:id="dorgy-ve">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorgy/-ъve</orth>
+    <lemma>dorgy/-ъve</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>-bve</orth>
+    <lemma>-bve</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дорогъвъ</ref>, дороговь</orth>
+      </form>
+      <sense>
+        <def>дороговизна , возм., сюда же Дорогва, местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1170 г.; Никон, л. VIII т., 112, Срезневский I, 707)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тогда же Климъ оубьенъ бы с Хрьстиничь единъ Си всихъ его воинъ. его же крстъ и донынЬ стоить на Соухои Дорогви. Ипат. л. (Гал.-Вол.), ок. 1425, л. 249 об., Картотека СДР XI—XIV вв.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дороговь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Грот. Дополнения и заметки к «Толковому словарю» Даля 93; Филин 8, 132: ряз., твер., моек., пек., смол., влад.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя с вторичной основой на -й-, производное от прилаг.<ref type="etymon" target="dorg-2">*dorgъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

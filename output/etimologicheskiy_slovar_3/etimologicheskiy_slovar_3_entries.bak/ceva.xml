@@ -1,0 +1,119 @@
+<Entry xml:id="ceva">
+  <pb n="190" end_page="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceva</orth>
+    <lemma>ceva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цЪва</ref> ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>цава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цевка, шпулька для наматывания пряжи (с. Хърсово, Мелнишко, дип. раб,, Ар­ хив Софийск. ун-та), цёва ж. р. челнок швейной машины , цевка, шпулька для пряжи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сакъов Б Д III, 339)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>ceva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>жила, артерия, cieua plicnd трахея, cieva zaludkovd пи­ щевод, трубка, тростинка (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ceva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трубка, жила</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cieva</ref> ж . р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cywa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ткацкая шпулька, цевка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cewa</ref> ж. р., обычно cowa ж. р.</orth>
+      </form>
+      <sense>
+        <def>катушка, шпулька, цевка (у прялки), зубча­ тое колесо цепи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 127, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>cewa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль­ шая катушка, шпулька, мельничный жернов из двух кругов, соединенных вертикально расположенными перекладинами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 824)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чёва</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рукоять деревянной палки, которою кротят поймавшуюся на уду треску</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ц1ва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>цевка в шестерне, шиулька для наматывания ниток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко IV, 430)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="syoia-2">*сёиа</ref> 
+продолжает 
+<ref type="etymon" target="koiva">*koiva</ref> или <ref type="etymon" target="skoiva">*skoiva</ref>&gt; производное от 
+и.-е. <ref type="etymon" target="skei-">*skei-</ref> 'раскалывать', 'разделять', представленное в слав, про­
+изводных <ref type="etymon" target="cediti">*cediti</ref>&gt; <ref type="etymon" target="ceniti-3">*ceniti</ref> / <ref type="etymon" target="syogsh">*сёгШ</ref> (см.).</gram>
+  </gramGrp>
+  <note>См., вслед за Зубатым, Ber­ neker I, 128. Не совсем обычна связь праслав. *сёиа с лит. seiva, saiva 'цевка, шпулька' (и.-е. *č- или *sfc-)y которое, однако, имеет вид близкородственной формы. См. еще Miklosich 29; Berneker, там же; V. Machek «Slavia» XVI, 1939, 187; Фасмер IV, 294.</note>
+</Entry>

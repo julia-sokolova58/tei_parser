@@ -1,0 +1,55 @@
+<Entry xml:id="eggsp">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегг()сьпъ]ь</orth>
+    <lemma>Ьегг()сьпъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezrocen</ref>, -спа, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безрукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezrucny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безрукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bjez</ref>- гиспу то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich. Vgl. Gr. II, 404)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezr</ref>$czny</orth>
+      </form>
+      <sense>
+        <def>без­ рукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Можно считать производным с суфф. -ъп- от сложного прилаг.<ref type="etymon" target="bezrgkbjb">*bezrgkb(jb)</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ввиду тесного сосуществования в пределах отдельных слав, языков (ср. чеш. bezruky— bezrucny, польск. bez- r$ki-bezr$czny) это особенно наглядно. По причине упомянутой словообразовательной вторичности древность проблематична.</note>
+</Entry>

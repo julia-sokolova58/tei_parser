@@ -1,0 +1,65 @@
+<entries>
+  <entry xml:id="cedka" xml:id="cedka">
+    <pb n="176" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕdъka</orth>
+      <lemma>сёс!ъка</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>цёдка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>проволочная или жестяная цедилка, ситечко (для процеживания молока, чая и т. д.)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>цётка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>цедилка для молока, большая рыболовная сеть , цатка ж. р. цедилка , сербо­ хорв</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(М. Младенов. Говорът на Ново село, Видинско 294)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(И. Кънчев. Пирдопско. — Б Д IV 7, 149)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>цётка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>глиняный сосуд, cljetka ж. p. colum</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>( R J A I, 792)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>cdtka</ref> ^</orth>
+        </form>
+        <sense>
+          <def>сосуд для молока</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott. Dod. k Bart. 9)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ъка</ref>
+        </m> 
+от гл. <ref type="etymon" target="cediti">*cediti</ref> 
+(см.); ср. <ref type="etymon" target="sey">*сейъ</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

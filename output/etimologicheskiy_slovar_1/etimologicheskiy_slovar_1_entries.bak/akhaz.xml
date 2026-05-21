@@ -1,0 +1,52 @@
+<Entry xml:id="akhaz">
+  <pb n="133" end_page="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьаха*ъ(зь)</orth>
+    <lemma>Ьаха*ъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bdhat</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>superbus, гордый, надменный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA ] , 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bahat</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>хвастливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bachaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый, пузатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное от основы Ьах- (см.<ref type="etymon" target="baxati">*baxati</ref>, 
+<ref type="etymon" target="akhas">*Ьахась)</ref> 
+с помощью суфф. -at-.</gram>
+  </gramGrp>
+  <note>Не исключена, правда, возможность, что чеш. слово со своей специфической семантикой представляет собой экспрессивное производное от banaty 'пузатый' (<xr type="compare">см. <ref type="etymon" target="aga">*Ьа/г'а</ref>
+    </xr>) 
+или семантически сблизилось с последним.</note>
+</Entry>

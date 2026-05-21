@@ -1,0 +1,135 @@
+<Entry xml:id="blejati">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blejati</orth>
+    <lemma>blejati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blejati</orth>
+    <lemma>blejati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять (об овце, баране или ягненке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: блčж 'блеять')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять , сербо­ хорв. блё]ати balo, блеять, ротозейничать, болтать вздор, глазеть, бессмысленно таращиться , сюда же — с иной глагольной основой — блё]ити то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 640)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blejati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять (об овце), кричать, браниться, бормотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bleti</ref>, bleji</orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>блШти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, balare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сильв, и Ант. вопр. 67, Срезнев­ ский I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блеять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать, издавать звуки, свойствен­ ные овце, козе</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>блеять</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, болтать (Картотека Псковского областного словаря), плакать, кричать (о детях) (смол.), выбалтывать секрет; говорить лишнее (костр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блёяти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, баять, говорить, болтать , блгяти блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ати (об овцах) блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диалекта 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бляяць</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Древняя звукоподражательная основа, имеющая соответствия в других и.-е. языках, ср. лтш. bleju, blet 'блеять', ср.-в.-нем. blaejen то же. См. подробно Sadnik-Aitzetmuller. Vgl. Wb. 3, 187. Ономатопоэтическая природа этих образований не позволяет рассматривать отношения вокализма в плане регулярной апо­ фонии.</note>
+</Entry>

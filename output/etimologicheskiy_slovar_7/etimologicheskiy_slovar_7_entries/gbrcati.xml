@@ -1,0 +1,129 @@
+<Entry xml:id="gbrcati">
+  <pb n="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrcati</orth>
+    <lemma>gbrcati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>храпеть, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grcati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grcati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать, мурлыкать, ворковать, хрипеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, вор­ чать, журчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrcat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>журчать, хрюкать, квакать , hrcet кричать , hrcec* шуметь, греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 106)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Brnen. 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrcaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, шуметь, громыхать, журчать, быстро течь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ворчать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>высказывать неудовольствие , гурчатъ ворковать (орл.), ворчать, ры­ чать (о собаке) (пек., твер., смол.), урчать (в животе) (пек., твер.), журчать (пек., смол.) , горчёть галдеть , гарчётъ рычать (о со­ баке), ворчать, ругаться , гырчатъ о собаках: ворчать (пек.), издавать горловые звуки, наподобие икоты (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Филин 7, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русск. донск. говоров I, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, I, 96)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт 44; Филин 7, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гарчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворчать , рычать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 275)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(«Основа» 1862, травень, СПб., 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. звукоподражат. происхождения.<xr type="compare">Ср. <ref type="etymon" target="gbrkati">*gbrkati</ref>
+    </xr> 
+(см.).</note>
+</Entry>

@@ -1,0 +1,41 @@
+<Entry xml:id="gymeti">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gymeti</orth>
+    <lemma>gymeti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gymiti</orth>
+    <lemma>gymiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гимётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать , гймйтъ жужжать (олон.), шуметь, производить шум при движении, перемещении (псков.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 6, 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гЬмёць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жужжать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ластоусш 183)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание? Возраст и связи неясны.</note>
+</Entry>

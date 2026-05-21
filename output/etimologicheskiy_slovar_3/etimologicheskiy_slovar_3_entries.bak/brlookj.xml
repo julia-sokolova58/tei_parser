@@ -1,0 +1,70 @@
+<entries>
+  <entry xml:id="brlookj" xml:id="brlookj">
+    <pb n="170" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьrlookъjь</orth>
+      <lemma>Ьы1оокъ]ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brlookij</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>косоглазый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Nomenclator ]at.-boh., около 1400 г., Gebauer I, 105)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brlooky</ref>, прилаг. т о ж е</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>barlooki</ref> т о же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>( ц п т . по: Machek 1 43)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бер</ref>- лабки, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пучеглазым, с бельмом на глазу (Полесье)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel" type="dialect">блр. диал. <ref>берлавбт</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>в1рлавокГ</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Сцяшков1ч, Грод. 51)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Сложение основы <ref type="etymon" target="g1-">*Ьъг1-</ref> (см. <ref type="etymon" target="ggaiu">*ЬъгГаИу</ref>
+        <ref type="etymon" target="y1sh">*Ьы1Ш</ref> 
+и особенно при­
+лаг. <ref type="etymon" target="ggai-3">*ЬъгГаиъ)ъ</ref>, 
+сложения свидетельствует о безаффиксном, архаич. типе 
+прилаг-
+иого.</gram>
+    </gramGrp>
+    <note>
+      <xr type="compare">Ср. еще <ref type="etymon" target="og1ook">*оъг1оокъ]ъ</ref>
+      </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+  </entry>
+</entries>

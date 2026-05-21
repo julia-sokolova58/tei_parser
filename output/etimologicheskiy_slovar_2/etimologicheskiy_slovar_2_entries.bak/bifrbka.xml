@@ -1,0 +1,143 @@
+<Entry xml:id="bifrbka">
+  <pb n="101" end_page="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bifrbka</orth>
+    <lemma>bifrbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>битка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, сражение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>битка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва, pugna, драка, нерест (рыб)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>битва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стычка, бой, драка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>схватка двоих или нескольких человек, драка, битва крупных воинских сил, физическое наказание, трепка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка, бой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bitka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка, борьба, бой, схватка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 159; Dorosz. I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>битка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свинец, вытянутый в прут по калибру ружья (арх.), кличка собаки (перм.), берестяная конусообразная корзина для собирания грибов (пек., твер.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>битка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>битка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>игральная кость из ступни животного, разбитое яйцо (черк.), драка, битье (Гн., Вх. Лем.; Бердич. у.), удар в игре латка, шило, которое отыски­ вают друг у друга играющие в игру: шила бйти\ то же, что и терниця, но с более широкой щелью для мечика</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>битка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>небольшая твердая плитка, которой дети играют в «классы» , битка приспособление для обработки пряжи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Й. О. Дзендзел1вський. Словник специф1чно1 лексики Нижнього Подшстров'я. — «Леке, бюл.» VI (Кшв, 1958), 39)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. С. Ващенко. Словник полтавських говорьв. Хартв, 1960, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бгтка</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное (-t-ък-) от основы гл.<ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср., впрочем, J. Zubaty. Studie a clanky I, 1, 327, где чеш. bitka объясняется как ум. от bitva.</note>
+</Entry>

@@ -1,0 +1,148 @@
+<Entry xml:id="edinc">
+  <pb n="13" end_page="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edinьcь</orth>
+    <lemma>edinьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>единец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>единственный сын, единственный ребенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>едйнацу</ref> род. п. -нцау м. р.</orth>
+      </form>
+      <sense>
+        <def>един­ ственный сын, бобыль, одиночка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>edinec</ref>, род. п. -пса, м. р.</orth>
+      </form>
+      <sense>
+        <def>единственный сын, одиночка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedinec</ref>, род. п. -псе, м. р.</orth>
+      </form>
+      <sense>
+        <def>одиночка, одинокий человек, дикий кабан- одиночка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedinec</ref>, род. п. -пса, м. р.</orth>
+      </form>
+      <sense>
+        <def>одиночка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 642)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>одинъцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одинокий, бессемейный человек , серьга, вдеваемая в одно ухо , лучшая соболья шкурка, к ко­ торой нельзя приискать пары</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дог. гр. в. к. Вас. Дм. с Фед. Ольг. Ряз. 1402 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Прав. гр. 1541 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дела Крым. 1508 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский И, 619)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>единьць</ref>, \единьць</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Аще бо кто tfcpA- щеть черноризца, то возвращаетьсд, ли \единьцъ, ли свинью, то не поганьскы ли се есть? Пов. вр. л. под 1068 г., Срезневский I, 818)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>одинёц</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чему нет ровни, дру­ жки, пары, версты, единственный, бессемейный, одинокий, одиночка, бобыль, единственный сын или дочь у родителей во все время их брака (сиб.) , одинёц, м. р. относительно животных (домашних — об овцах): одиночка, один , одинёц м. р. единственный ре­ бенок, детеныш , одинцо один</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1675; Доп. к Опыту 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 172)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 310)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ончуков 601)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>одинёцъ</ref>, род. п. -нця, м. р.</orth>
+      </form>
+      <sense>
+        <def>единст­ венный сын, один человек, дикий кабан, волк, ходящий в одиночку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко III, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гдинёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>единственный сын</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Паламарчук. Вчорайш., Житом. — Леке. бюл. VI, 1958, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>адзтёц</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одинокий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсъ</ref>
+      </m> от <ref type="etymon" target="esip">*есИпъ</ref> (см.); субстантивация 
+этого последнего.</gram>
+  </gramGrp>
+</Entry>

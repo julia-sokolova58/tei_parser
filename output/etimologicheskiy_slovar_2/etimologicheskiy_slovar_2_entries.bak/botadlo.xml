@@ -1,0 +1,70 @@
+<Entry xml:id="botadlo">
+  <pb n="224" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>botadlo</orth>
+    <lemma>botadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бутало</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>поршень , сюда же производное буталка ж. р. узкий цилиндрический сосуд для сбивания масла</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бутало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>часть мутовки; прут, которым заго­ няют рыбу в сачок , буталка ж. р. пахталка (Твардица, СССР; Тарфа, Чаталдж.; Котел; Орханийско. Архив Болг. диал. словаря, Со­ фия), буталка ж. р. высокий деревянный сосуд для сбивания масла , буталка ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бериево, Севлиевско; Сев.-Зап. Болгария; Търновско; Хасковско. Архив Болг. диал. словаря, София; ср. Геров: бутало ср. р.=буталка*колотовка, пахтальная мутовка, болтушка')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Попгеоргиев БД I, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младе­ нов БД III, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бутало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ботало, шест, которым пу­ гают рыбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ботало</ref>, ботало ср. р.</orth>
+      </form>
+      <sense>
+        <def>длинная палка с конусообразным, пустым внутри наконечником, ударом которого по воде вспугивают рыбу и загоняют в сети, изготов­ ленный из медного или железного листа колокольчик, который надевается на шею коровам и лошадям, пасущимся без пастуха , ббталка рыболовный снаряд. . ., шест, которым пугают рыбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 129)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 5)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> (название орудия) от гл. <ref type="etymon" target="botati">*botati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

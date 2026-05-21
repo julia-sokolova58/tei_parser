@@ -1,0 +1,198 @@
+<Entry xml:id="gryzti">
+  <pb n="159" end_page="160" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gryzti</orth>
+    <lemma>gryzti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gryzati</orth>
+    <lemma>gryzati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^ысти, грызж Sdxvetv, eaiKetv, mordere, rodere</orth>
+      </form>
+      <sense>
+        <def>грызть, кусать, глодать , г^эмздти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гриза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грйза</ref> , гризъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младе- нов БД III, 53)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевен- с к о . — Б Д VI, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гризе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грйсти</ref>, грйзати</orth>
+      </form>
+      <sense>
+        <def>грызть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 627, 634—635)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gristi</ref>, grizem</orth>
+      </form>
+      <sense>
+        <def>грызть, есть, кусать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hryztl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть, глодать, hryzati</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hryzf</ref> то же , в.- луж. hryzac</orth>
+      </form>
+      <sense>
+        <def>грызть, глодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 534)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gryzas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть, глодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 338)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gryzd</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grdsc</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 297)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>грызши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть , грызати жалить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г.; Отрывк. XII в. — Лавр. 52, Срезнев­ ский I, 602)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пчел. И. публ. б. л. 109, Срезневский III, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сб. 1076 г., Срезневский I, 602)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грызть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раскусывать, раздроблять зубами что-либо твердое, креп­ кое; кусать, рвать зубами</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грызти</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамск, р-на Перм. обл. 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грйзти</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грызщ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грызть, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грызщ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыя- лектнага слоунша Гомельшчыны 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. grduzti, лтш. graiizt 'грызть' (точное соответ­ ствие которым имело бы форму праслав. *gruzti &lt;^*grouz-). Вместе с последними слав, слово представляет собой расширение и.-е. *g(h)reu- 'размельчать, тереть'. Старое сближение с экспрессив­ ным греч. рро^ш 'скрежетать, скрипеть зубами' (A. Fick ВВ VI, 1881, 213; Berneker I, 359; так же см. Фасмер I, 466; Stawski I, 364; против сближения с греч. словом см. уже А. Соболевский «Slavia» V, 1927, 443) должно быть оставлено. См. A. Meillet BSL 26, 1925, 213 (сохраняет сравнение с балт.; арм. кгсет и греч. Ррб^о) не имеют сюда отношения); Machek 2 186; Fraenkel I, 164.</note>
+</Entry>

@@ -1,0 +1,52 @@
+<Entry xml:id="blizozorkbjb">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blizozorkb(jb)</orth>
+    <lemma>blizozorkb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>близорукий</ref>, в особенности же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>близорбкий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близорукий , ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 29; также пек., яросл., Фи­ лин 3, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>близозракъ</ref> . — Ср. сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Каринский у Фасмера I, 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>близорбчный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из основы прилаг.<ref type="etymon" target="bliz--2">*bliz-</ref> (см. 
+<ref type="etymon" target="blizbjb">*blizbjb</ref>, <ref type="etymon" target="shk">*ЬШъкъ)</ref> и имени <ref type="etymon" target="zorkb">*zorkb</ref> (см.), как об этом, в частности, 
+свидетельствует цслав. форма (см. выше).</gram>
+  </gramGrp>
+  <note>В этом смысле следует внести корректуру в верную, в принципе, этимологию русск. слова как гаплологического упрощения и изменения по народной этимологии. Так, мы предлагаем, в связи со сказанным выше, производить русск. близорукий не из чисто адъективного сложе­ ния *близо-зоръкъ (как см. Фасмер, там же), а из описанного выше *blizo-zorkb, где второй компонент — имя, употребленное, в роли прилаг-ного. Названные особенности склоняют к тому, чтобы видеть здесь праслав. реликт.</note>
+</Entry>

@@ -1,0 +1,108 @@
+<Entry xml:id="boltisce">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boltisce</orth>
+    <lemma>boltisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блатище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>болотное место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; ср. И. А. Бо- горов, сп. «Книговище», кн. I, 1874 г.: ...блатища, обрастли съ водни и вонещь бурень, хранять само отровити буболечки, и ставать легло на мржсна гадь. — Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блатиште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>болотистая местность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blatiste</ref> ср. р., увелич. от blato , Blatiste ср. p., топоним , блатиште ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, где было озеро, блатиште ср. р. место, где прежде было озеро; болото, болоти­ стое место , также блатиште ср. р. увелич. от блато</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 425)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 633)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blatisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>часть хлева</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blatiste</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>blat4sko</ref>, увелич.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak Orav. 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blocisco</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>топь, грязь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болотйще</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место, где было болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Черк. у., Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> (собир.) от <ref type="etymon" target="bolto">*bolto</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

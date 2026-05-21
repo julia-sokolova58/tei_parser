@@ -1,0 +1,195 @@
+<Entry xml:id="gorbjb">
+  <pb n="53" end_page="54" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbjb</orth>
+    <lemma>gorbjb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gor'e</orth>
+    <lemma>gor'e</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorb§i</orth>
+    <lemma>gorb§i</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гории</ref>, -рлши, -р\е, прилаг. сравн. степ,</orth>
+      </form>
+      <sense>
+        <def>хуже, худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Супр., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гори</ref>, -ра, -ре, сравн. степ, прилаг.</orth>
+      </form>
+      <sense>
+        <def>хуже, худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 481)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>gorji</ref>, -а, -е, прилаг.</orth>
+      </form>
+      <sense>
+        <def>худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 725)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hofi</ref>, ж. p. horsi</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horsi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>худший</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horsi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horsi</ref>, horje</orth>
+      </form>
+      <sense>
+        <def>худший, хуже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gorsy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 301)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorzej</ref>, сравн. степ, нареч.</orth>
+      </form>
+      <sense>
+        <def>хуже, gorszy, -а, -е, сравн. степ, прилаг. худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gore</ref>, сравн. степ, нареч.</orth>
+      </form>
+      <sense>
+        <def>хуже , gu^rsi, сравн. степ, прилаг. худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 290)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гории</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>худший , горьшии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. V. 14. Остр, ев., Срезневский I, 554; Изб. 1073 г. 37, Срезневский III, 76')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 561)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горе</ref>, горёе</orth>
+      </form>
+      <sense>
+        <def>хуже, тяжелее</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., ряз., твер., яросл., Филин 7, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гърший</ref>,-а,-е, сравн. степ, прилаг.</orth>
+      </form>
+      <sense>
+        <def>худший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбршы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>худший , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай- коу—Некраш. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гбршый</ref> , нареч. гарэй</orth>
+      </form>
+      <sense>
+        <def>больше</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч, Магш. 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дьтялектнага слоушка Го- мелыпчыны 232)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. -ъ/ъ,<m type="suffix">
+        <ref>-je</ref>
+      </m>, <m type="suffix">
+        <ref>-bsi</ref>
+      </m> (компаратив) от основы 
+гл. <ref type="etymon" target="goreti">*goreti</ref> 
+(см.) или, вернее, от соотносительной именной основы 
+на -i-, <ref type="etymon" target="gori">*gori</ref>~, следы которой сохранились в <ref type="etymon" target="gor-5">*gor</ref>'e, <ref type="etymon" target="gorbkb-10">*gorbkb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Модель прилаг. сравнительной степени — старая, и.-е. с формантом -/05, но само слово — праслав. новообразование по аналогии кохмпа- ративов от прилаг. 'дурной, плохой' во многих языках, которые как правило супплетивны и инновационны ввиду своей экспрес­ сивности. См. Berneker I, 334 (с иным морфол. толкованием — из первонач. отглагольного прилаг.); Stawski I, 321; Rudnyckyj I, 6 3 1 - 6 3 2 . Прочие этимологии неубедительны, см. A. Meillet MSL 9, 1896, 150 (сближает ст.-слав. гории с арм. korncim 'погибать'); A. Vail- lant. Le vocalisme des comparatifs slaves.—RES IX, 1929, 6 (отождествляет с др.-инд. gdriyas, ср. степ, от guru- 'тяжелый'); Он же RES XI, 1931, 8; V. Machek LF 72, 1948, 74 (сближает с греч. х е'-? т 'худший'; против cim. Frisk И, 1084); Он же LP 5, gorbk-b(jb) 1955, 59; Machek 2 176—177; К. Forbes «Glotta» 34, 1958, 247, примеч. 8.</note>
+</Entry>

@@ -1,0 +1,76 @@
+<Entry xml:id="gorbcina">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbcina</orth>
+    <lemma>gorbcina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горчина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горчйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь, также грчйна ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 396: с XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorcina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 232)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horcina</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 462)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horcina</ref> ж. р. то же , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 506)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>горчина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стефанит, 21. XVIII в. ~ XV в., СлРЯ XI—XVII вв. 4, 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от прилаг. <ref type="etymon" target="gorbkb-7">*gorbkb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

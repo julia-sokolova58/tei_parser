@@ -1,0 +1,64 @@
+<Entry xml:id="dymati">
+  <pb n="202" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dymati</orth>
+    <lemma>dymati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дймати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело дышать, дуть, надувать (мехи)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарапиЬ, RJA II, 399, РСА IV, 312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dymati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 530)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>ddima</ref> 3 л. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>дует i</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Seh- nert 50, с реконструкцией праслав. *dymaje)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дймати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дуть мехом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 383)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>&gt; соотносительный с <ref type="etymon" target="dbmg">*dbmg</ref>, <ref type="etymon" target="dgti-2">*dgti</ref> (см.); продлённый 
+вокализм.</gram>
+  </gramGrp>
+  <note>См. Berneker I, 249—250.</note>
+</Entry>

@@ -1,0 +1,184 @@
+<Entry xml:id="yo1to">
+  <pb n="86" end_page="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ьто</orth>
+    <lemma>Ьё1ьто</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белмб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бельмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(цит. по Sadnik—Aitzetmuller. Vgl. Wb. 2, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>belmo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бельмо , сюда же, по всей вероятности, общеязыковое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cres; см. подробнее, с литер., И. П. Петлева «Этимология. 1967». [М., 1969], 174—175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бедна</ref>, биона ж. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо, glaucoma , сюда же, видимо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( &lt; *Ьё1ьпа &lt;С *Ьё1ьта, первонач. форма мн. ч. к *Ьё1ъто, ср. еще один пример такого рода ниже, в в.-луж. названии дерева; что касается отношения -п- : -т-, см. далее подробнее о суффиксе)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт белого винограда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 461)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belmo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо , сюда же belno то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belmo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>белок (глаза), бельмо, умопомрачение, белизна</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ЬеГто</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>ЬеГпо</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habov- stiak. Orav. 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>belmo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>белизна, белое пятно, обман , ср. сюда же belman м. р. белена Hyoscyamus, бельмо (на глазу) , а также bjelma ж. р. ива Salix саргеа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 15; автор указывает на чеш. происхождение слова, однако стоит отметить оригинальность в.-луж. значений)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jakubas 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jakubas 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>belman</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо на глазу, черная белена Hyoscya­ mus niger, бель, мязга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 29—30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bielmo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>бельмо, внутренняя часть зерна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 510—511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>бЪльмо</ref> albugo, Хе6ха)[ш</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Пат. Син. XI в., Срезневский I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бельмо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стойкое, неспособное к просветлению, помутнение роговой оболочки глаза; катаракт</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЫмо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо , билмо то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быъмб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бельмо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 67)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вондрак высказывает мнение, что балто-слав. -т- суффиксы не могут продолжать и.-е. -тп- (в именах на -теп- и в страд, прич-ях с тем же формантом). Но, с одной стороны, их функциональное тождество очевидно, а с другой стороны, налицо конкретные связи вроде слав, zima: греч. ^eip-cov. Как небезынтересные в этом плане (хотя и не имею­ щие прямых и.-е. прототипов) отметим отношения *Ьё1ъто : в.-луж., н.-луж. belman (см. выше), а также уже упоминавшиеся колебания п/т в суффиксальной части (сербохорв., словен., слвц.). О книжном происхождении словен. belmo из других слав, языков говорит ряд авторов (Berneker I, 55; Sadnik—Aitzetmul­ ler. Vgl. Wb. 2, 130; Bezlaj. Etim. slovar, рукоп.). О сербохорв. диал. (Црес) belmo 'бельмо' см. специально еще М. Tentor 1Ф V, 1925—1926, 203; сближение *Ьё1ъто и алб. mjelme 'лебедь'см. С. Poghirc LB VI, 1963, 98. блр. бялъмб ср. р. бельмо.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьто</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) (или от гл. <ref type="etymon" target="beliti">*beliti</ref>?) и ввиду редкости и давней непродуктивности суффикса бесспорно праслав. образование.</gram>
+  </gramGrp>
+  <note>См. Sadnik—Aitzetmuller. Vgl. Wb. 2, 131—132. Аналогично о редкости словообразовательной модели<xr type="compare">см. <ref type="etymon" target="yo1to">*Ьё1ъто</ref>
+    </xr> Machek 29, где содержится также сопоставле­ ние слав, слова с лтш. balums бледность; см. еще Трубачев у Фасмера I, 150. См. о суфф. -ыпо Vondrak. Vgl. slav. Gr. I, 429 .</note>
+</Entry>

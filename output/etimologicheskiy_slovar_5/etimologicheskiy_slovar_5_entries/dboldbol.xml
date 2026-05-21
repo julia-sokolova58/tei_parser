@@ -1,0 +1,28 @@
+<Entry xml:id="dboldbol">
+  <pb n="175" end_page="176" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъbolъ/*dъbolь</orth>
+    <lemma>dъbolъ/*dъbolь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dbbolb</orth>
+    <lemma>dbbolb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dbol</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>улей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 343: sic, Kollar)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ol- от основы<ref type="etymon" target="yy-">*йъй-</ref>, ср. <ref type="etymon" target="yg">*йъЬгь</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 243; Zubaty. Studie a clanky I, 1, 293; Г. А. Ильинский у Трубачева ВЯ 1957, № 6, 96; К. О. Фальк «Scando-Slavica» IV, 1958, 271.</note>
+</Entry>

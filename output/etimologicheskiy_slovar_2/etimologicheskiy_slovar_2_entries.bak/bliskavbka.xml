@@ -1,0 +1,69 @@
+<Entry xml:id="bliskavbka">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bliskavbka</orth>
+    <lemma>bliskavbka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blistavbka</orth>
+    <lemma>blistavbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блйставка</ref> ж. р. (поэт.)</orth>
+      </form>
+      <sense>
+        <def>звезда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 654)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blyskavka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>меч, порченый орех, порода рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блйскалка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молния</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доброволь­ ский 30)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блйскавка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>молния, рыба Abramis (Blicca) argyroleuca, а также вообще каждая рыба, выбрасывающаяся часто на поверхность воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от прилаг. <ref type="etymon" target="shkag">*ЬШкагъ</ref> I <ref type="etymon" target="blistavb">*blistavb</ref> (см.); 
+субстантивация 
+этого последнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="bliskavica">*bliskavica</ref>
+    </xr> I <xr type="compare">см. <ref type="etymon" target="blistavica">*blistavica</ref>
+    </xr>.</note>
+</Entry>

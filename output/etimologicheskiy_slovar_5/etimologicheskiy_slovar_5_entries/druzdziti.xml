@@ -1,0 +1,30 @@
+<Entry xml:id="druzdziti">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*druždžiti</orth>
+    <lemma>druždžiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>druz</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>fyc" растаптывать ногами , елвц. druzdif</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, соотносительный с <ref type="etymon" target="druzgati">*druzgati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

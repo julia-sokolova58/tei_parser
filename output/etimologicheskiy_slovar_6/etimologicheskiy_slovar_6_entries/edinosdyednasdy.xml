@@ -1,0 +1,115 @@
+<Entry xml:id="edinosdyednasdy">
+  <pb n="11" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edinošьdy/*edьnašьdy</orth>
+    <lemma>edinošьdy/*edьnašьdy</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edbna§bdy</orth>
+    <lemma>edbna§bdy</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>еднаж</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>однажды, один раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>еднаш</ref> , еднош, нареч.</orth>
+      </form>
+      <sense>
+        <def>однажды, один раз , еннбш, ъннбш , еднбшка, нареч. однажды, один раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Младенов. Бит и език на тракийските и малоазийските българи. Ч. II. София, 1936, 127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 107)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 324; Геров: еднб- жка)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еднаш</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>еднош</ref>, еднуш</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , книжн. <ref>jednust</ref>, jednusti, нареч.</orth>
+      </form>
+      <sense>
+        <def>однажды, один раз , также jednos</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 559)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 556)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>единожды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>в один раз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стеф. Новг. 1347 г., Срезневский I, 812)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>однажды</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>один раз; некогда, когда-то , также одиножды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1675)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>однйжди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>однажды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликов­ ский 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="edinb">*edinb</ref> I <ref type="etymon" target="edbnb-2">*edbnb</ref> (см.) и <ref type="etymon" target="sbd-">*sbd-</ref> по аналогии 
+<ref type="etymon" target="dwasbdy">*dwasbdy</ref>, 
+Hrisbdy (см.).</gram>
+  </gramGrp>
+</Entry>

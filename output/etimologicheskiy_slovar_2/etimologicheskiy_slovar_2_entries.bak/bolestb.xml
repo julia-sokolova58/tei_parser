@@ -1,0 +1,199 @@
+<Entry xml:id="bolestb">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'estb</orth>
+    <lemma>bol'estb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>болеет</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>более</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>болеет</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>болеет</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь, morbus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>черно</ref>- горек.) болщест, откуда ум. болёшца ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(PGA II, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bolest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(внутренняя) болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 43, со ссылкой на сербохорв. bolest] ср. St. Bunc JiS IX, 1963/64, 59 : из хорв.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bolest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 84; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bolest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>(физическая) боль, рана, скорбь, печаль, за­ бота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bolesf</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль, печаль, скорбь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bolosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bolosc</ref> сболь, скорбь</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bolesc</ref> ж. р., обычно только во мн. ч.</orth>
+      </form>
+      <sense>
+        <def>колики в животе, боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 605)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>болесть</ref>, bol</orth>
+      </form>
+      <sense>
+        <def>eti болЪстъ болезнь, morbus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1015 г., Срезневский I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болесть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезнь , бо­ лесть выражение удивления, недоброе пожелание, болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болесть</ref>, болЪстъ ж. р. -</orth>
+      </form>
+      <sense>
+        <def>болезнь, боль, страдание , также болость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 120, 122)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бблХсть</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь, боль, огорчение, печаль, скорбь , сюда же с йотовым расширением</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бблещ</ref> ж. р., чаще мн. ч. бблещ1</orth>
+      </form>
+      <sense>
+        <def>болезнь, скорбь, огорчение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> (отвлеченное обозначение качества 
+или состояния) от имени <ref type="etymon" target="og-3">*ЬоГъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Формы с долготой гласного в суфф. (ср. сербохорв. болеет,, болщест, др.-русск. болЪсть) обязаны вторичному влиянию<xr type="compare">см. <ref type="etymon" target="boVezm">*boVezm&gt;</ref>
+    </xr>, где -ё 
+из гла­
+гольной основы (<xr type="compare">см. <ref type="etymon" target="ogyoy">*ЬоГёй</ref>
+    </xr>) 
+и поэтому не учтены при праслав. 
+реконструкции. Ст.-укр. болость — ложное восстановление -о-
+из -i- (&lt;С~е- во вновь закрытом слоге).</note>
+</Entry>

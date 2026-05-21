@@ -1,0 +1,45 @@
+<Entry xml:id="besbnovati">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besbnovati</orth>
+    <lemma>besbnovati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>арх</ref>. беснувам</orth>
+      </form>
+      <sense>
+        <def>сходить с ума, впадать в бешен­ ство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бесновата</ref>, б]есновати то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА I, 496)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>besnovdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беситься, буйствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 22)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на<m type="suffix">
+        <ref>-ovati</ref>
+      </m> от прилаг. <ref type="etymon" target="yozp">*Ьёзъпъ</ref> (см.)</gram>
+  </gramGrp>
+</Entry>

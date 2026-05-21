@@ -1,0 +1,86 @@
+<Entry xml:id="blbstetisc">
+  <pb n="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blbsteti (sč)</orth>
+    <lemma>blbsteti (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блестя</ref>, блещя</orth>
+      </form>
+      <sense>
+        <def>блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блести</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blesteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blsteti</ref> se то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott 1,75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бльстЪти</ref> axtXffeiv, splendere, fulgere</orth>
+      </form>
+      <sense>
+        <def>блестеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>блестеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ярко сверкать, сиять, издавать блеск</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блистгти</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словник I, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, тождественный по корневому вокализму 
+<ref type="etymon" target="yysay">*Ыысай</ref> 
+(см.) и соотносительный с <ref type="etymon" target="bliskati">*bliskati</ref> I <ref type="etymon" target="blistati-3">*blistati</ref> 
+(см.; 
+там же этимология).</gram>
+  </gramGrp>
+</Entry>

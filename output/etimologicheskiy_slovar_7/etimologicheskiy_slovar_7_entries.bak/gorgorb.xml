@@ -1,0 +1,46 @@
+<Entry xml:id="gorgorb">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorgorb</orth>
+    <lemma>gorgorb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грагоръ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>галька</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грагор</ref> то же (Архив Болг. диал. словаря, София)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>грагор</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум, гул (голосов), болтовня .—Ср. сюда же производ­ ный гл. грагорити кудахтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 539)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Редупликация звукоподражат. основы<ref type="etymon" target="gor-gor-">*gor-gor-</ref>, 
+ср. 
+<ref type="etymon" target="golgoH">*golgoH</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. Георгиев БЕР-IV, 270.</note>
+</Entry>

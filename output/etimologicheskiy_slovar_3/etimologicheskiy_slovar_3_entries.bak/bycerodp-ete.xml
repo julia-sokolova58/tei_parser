@@ -1,0 +1,74 @@
+<entries>
+  <entry xml:id="bycerodp-ete" xml:id="bycerodp-ete">
+    <pb n="146" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*byčę, род. п. -ęte</orth>
+      <lemma>Ьус£</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>род. п. -§te</orth>
+      <lemma>род. п. -§te</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>биче</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>бычок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Бернштейн; Геров: бычя)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>биче</ref> ср. р., ум. от бик</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>Ысе</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>бы­ чок</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>Ъусе</ref>, род. п. -ete, ср. р.</orth>
+        </form>
+        <sense>
+          <def>бычок</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="old">ст.-укр. <ref>бича</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>теленок, бычок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Тимченко I, 94)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>бича</ref>, род. п. -атиу ср. р. .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Гринченко, Желеховский)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Ум. производное с суфф. 
+от <ref type="etymon" target="uk">*Ъукъ</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

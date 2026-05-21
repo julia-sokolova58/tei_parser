@@ -1,0 +1,35 @@
+<Entry xml:id="brbselb">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbselb</orth>
+    <lemma>brbselb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brbselbje</orth>
+    <lemma>brbselbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бръсель</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черепок, oaioocxov testa , скрижаль, тсХаč, tabula (Чуд. Псалт. пс</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Иов. II, 8 по сп. 1499 г.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>LXXVII. 5) (Miklosich L P 46; Срезневский I, 183).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-е1ъ</ref>
+      </m> j-elbje 
+от основы 
+гл. <ref type="etymon" target="brbsati">*brbsati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 95 (там же другие, менее вероятные этимологии); Sadnik — Aitzetmuller. Vgl. W b . 4, 222. Ст.-слав, веселию связы­ вает с ьръенкти 'radere, corrumpere' и Педерсен, предполагающий, однако, для обеих форм исходное и.-е. *bhreud-s-, откуда также лат. fraus, род. п. fraudis, далее —др.-исл. brjota 'ломать', англос. brysan то же (см. Н. Pedersen IF V, 1895, 38). Сравнение с глоссовым ср.-лат. brisilis • fragilis см. J. Loewenthal WuS X I , 1928, 63.</note>
+</Entry>

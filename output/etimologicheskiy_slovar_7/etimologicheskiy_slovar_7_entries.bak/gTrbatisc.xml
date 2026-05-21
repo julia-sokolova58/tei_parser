@@ -1,0 +1,34 @@
+<Entry xml:id="gTrbatisc">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gT»rbati (sč)</orth>
+    <lemma>gT»rbati (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грбати</ref> се</orth>
+      </form>
+      <sense>
+        <def>нагибаться, горбиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 586; RJA III, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gfbati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морщить, делать складки, сборки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -ati, производный от<xr type="compare">см. <ref type="etymon" target="cg6ga">*čъг6ъ/*#ъгЬа</ref>
+    </xr>.</note>
+</Entry>

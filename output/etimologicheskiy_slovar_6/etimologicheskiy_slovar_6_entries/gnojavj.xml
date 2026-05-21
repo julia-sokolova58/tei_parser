@@ -1,0 +1,64 @@
+<Entry xml:id="gnojavj">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnojavъ(jь)</orth>
+    <lemma>gnojavъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гношый</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гно</ref>]ав, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnojav</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>hnojavy</ref>, прилаг. то же . — Ср. сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492; Jungmann I, 705: s i c )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гноявка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнойный нарыв</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> от <ref type="etymon" target="gnojb">*gnojb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

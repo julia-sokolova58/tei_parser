@@ -1,0 +1,41 @@
+<Entry xml:id="astriti">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>astriti</orth>
+    <lemma>astriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jastfiti</ref>, jastfif, jastriti</orth>
+      </form>
+      <sense>
+        <def>зорко, пристально смотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jastriV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jastrzyc</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Едва ли прав Махек, считая эти зап.-слав, слова вторичными образованиями от усечения полных слвц. jastrdb, чеш. jestrdb ' я с т р е б ' и т . д. (см. Machek 171), хотя общие семантические ана­ логии такого рода и могут быть названы из глагольной лексики со знач. 'смотреть определенным образом', ср. еще<ref type="etymon" target="vdr">*вдръ</ref> — <ref type="etymon" target="sqpiti">*sqpiti</ref> se.</gram>
+  </gramGrp>
+  <note>Объективно исходное для чеш., слвц. и польск. слов *astriti может быть охарактеризовано как производное на -Ш от именной основы *astr- (<xr type="compare">см. <ref type="etymon" target="ascr">*asčr&amp;</ref>
+    </xr>), представленной также в суффиксальном 
+производном ^astr-еЪъ (см.). Образование, надо думать, состоя­
+лось еще до присоединения суфф. -еЪъ, что свидетельствовало бы 
+о значительном возрасте гл. *astriti.</note>
+</Entry>

@@ -1,0 +1,39 @@
+<Entry xml:id="estkaestk">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstъka/*ĕstъkъ</orth>
+    <lemma>ĕstъka/*ĕstъkъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>estbkb</orth>
+    <lemma>estbkb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jecna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>приманка для рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 743)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jestk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I 393)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(ъ)к- от основы<ref type="etymon" target="estu-">*estu-</ref> (см. <ref type="etymon" target="estvo">*estvo)</ref>.</gram>
+  </gramGrp>
+</Entry>

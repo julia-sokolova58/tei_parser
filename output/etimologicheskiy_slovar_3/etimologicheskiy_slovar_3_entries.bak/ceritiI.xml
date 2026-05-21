@@ -1,0 +1,69 @@
+<Entry xml:id="ceritiI">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceriti I</orth>
+    <lemma>ceriti I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>церя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лечить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>цёрим</ref> то же , цёрим се</orth>
+      </form>
+      <sense>
+        <def>лечиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов Б Д II, 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. стар, <ref>цери</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лечить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Миклошич связывал с *celili,<xr type="compare">см. <ref type="etymon" target="syo1-3">*сё1ъ</ref>
+    </xr> и видел здесь мену 
+Z &gt; r , 
+см. 
+Miklosich 
+28; 
+против 
+см. Р . 
+Брандт Р Ф В 
+XVIII, 
+1887, 22. Аналогично—как 
+варианты одного слова — рассматри­
+вал болг. церя I целЛ, цяр / цял Младенов ЕПР 678. Г. А. Ильин­
+ский (у Трубачева 
+ВЯ 
+1957, № 
+6, 94) выделяет праслав. *сё-
+гШ&lt;[и.-е. 
+*koi- 
+'быть крепким, здоровым', 
+связанное с 
+*сё-1ъ.</note>
+</Entry>

@@ -1,0 +1,98 @@
+<Entry xml:id="belovolsbjb">
+  <pb n="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belovolsb(jb)</orth>
+    <lemma>belovolsb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>беловлас</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беловолосый , сербо­ хорв. bjeldvlas, прилаг. беловолосый , беловлас, б]еловлас, -а, -о беловолосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Георгиев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 387)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belolas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>canos capillos habens , belolas прилаг. беловолосый, светловолосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich. Vgl. Gr. II, 396)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belovlasy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>беловолосый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bielovlasy</ref>, стар, belovlasy, прилаг.</orth>
+      </form>
+      <sense>
+        <def>седо­ волосый; светловолосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialowlosy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бело­ волосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>беловолосый</ref> (ковыль)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль I, 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быоволбсий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беловолосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 65)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="volsb">*volsb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Тип образования ср. с<xr type="compare">см. <ref type="etymon" target="belogo-3">*belogo^</ref>
+    </xr>.</note>
+</Entry>

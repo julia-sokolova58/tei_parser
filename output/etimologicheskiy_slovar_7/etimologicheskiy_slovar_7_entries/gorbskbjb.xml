@@ -1,0 +1,160 @@
+<Entry xml:id="gorbskbjb">
+  <pb n="57" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbskb(jb)</orth>
+    <lemma>gorbskb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>горьскъ</ref>, -ыи, прилаг. x&amp;v opewv, montium *гор- ный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>горски</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>лесной , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>горски</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов Б Д III, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горски</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>горски</ref>, -ка, -ко</orth>
+      </form>
+      <sense>
+        <def>горный, также лесной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 293)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorski</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horsky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горный , елвц. horsky, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 732; Kott I, 467)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horski</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorski</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>горъекыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к горам, горный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Исх. XIX. 20 по сп. XIV в., Срезневский I, 561)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горский</ref>, -ая, -ое: горский ветер</orth>
+      </form>
+      <sense>
+        <def>ветер с верховьев Дона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(донск., Филин 7, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>Горский</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1492 г., Словник ст.- укр. мови XIV—XV ст. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гipcькйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>горный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>горст</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горский</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-bskb</ref>
+      </m> от <ref type="etymon" target="gora">*gora</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

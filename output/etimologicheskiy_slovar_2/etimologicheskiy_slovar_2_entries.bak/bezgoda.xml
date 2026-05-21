@@ -1,0 +1,38 @@
+<Entry xml:id="bezgoda">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgoda</orth>
+    <lemma>bezgoda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. (<ref>вятск</ref>.) безгбда ж. р.</orth>
+      </form>
+      <sense>
+        <def>беда, несчастье, не- взгодье , неудача, несчастье, бесталанность в жизни , беда, несчастье; бедствие, невзгода . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вятск., тул., иркут., Филин 2, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>безъ</ref> года, безгода, безгоды, нареч., dcopt, intempestive</orth>
+      </form>
+      <sense>
+        <def>безвременно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. J. Zubaty. Studie a clanky I, 1, 237)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Типичный пример префиксального сложения, образованного на базе предложного словосочетания: *bez goda -&gt; *bezgoda. См. J. Zubaty, там же. См. далее *bez и *godb.</note>
+</Entry>

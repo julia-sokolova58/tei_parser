@@ -1,0 +1,22 @@
+<Entry xml:id="grudeti">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grudeti</orth>
+    <lemma>grudeti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грудётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>париться, томиться, киснуть , Глагол на -eti (глагол состояния), соотносительный с *gruditl ( С х М . )</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сло­ варь говоров Подмосковья 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возможно старое образование.</note>
+</Entry>

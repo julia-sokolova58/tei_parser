@@ -1,0 +1,91 @@
+<Entry xml:id="drezgati">
+  <pb n="114" end_page="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dręzgati</orth>
+    <lemma>dręzgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрёзгати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать, стучать, надрываться (в работе), тащиться, идти далеко без надобности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 682)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drezgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мять, стискивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>drzfzgad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломать, разбивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 574)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дрАз</ref>- гатъея</orth>
+      </form>
+      <sense>
+        <def>дергать, переступать ногами (о животном); брыкаться, лягаться , дрАзгатъся пачкаться, грязниться, дрызгаться . — Сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(урал., Филин 8, 228)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрё</ref>- згаву прилаг.</orth>
+      </form>
+      <sense>
+        <def>хриплый, осипший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрёзгоф</ref>, -ва то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрёзгав</ref>, -а&gt; -о</orth>
+      </form>
+      <sense>
+        <def>тинистый, заросший</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 682)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Соотносительно с<xr type="compare">см. <ref type="etymon" target="drzga">*dr$zga</ref>
+    </xr>....</note>
+</Entry>

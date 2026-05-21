@@ -1,0 +1,48 @@
+<Entry xml:id="etc">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ętьcь</orth>
+    <lemma>ętьcь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>jatec</ref>, род. п. -tee, м. р.</orth>
+      </form>
+      <sense>
+        <def>пленный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>хшьць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тот, кто приводит к суду</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. судн. гр. 1471 г., Срез­ невский III, 1674)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>ятец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кто берет, хватает кого- либо, для поставленья в суд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1585)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсь</ref>
+      </m> от прич. прош. страд. 
+от гл. 
+<ref type="etymon" target="fti">*fti</ref>% *]'ътд (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,91 @@
+<Entry xml:id="ganba">
+  <pb n="100" end_page="101" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ganьba</orth>
+    <lemma>ganьba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hanba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>позор, стыд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 403—404)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hanba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>хула, позор, срам , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 655; Kott I, 408—409)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hanba</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hanba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>хула, дурная слава, стыд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 457—458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ганьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>позор, срам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(южн., зап., Даль)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ганъбй</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>позор, бесчестие, стыд, поругание, порицание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ганьба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>поношение, бесчестье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 77)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Польск. hanba, с тем же знач., является фонетич. богемизмом, до XVI в. преобладало исконное ст.-польск. ganba. См. J. Siat- kowski IJSLP I/II, 1959, 154—155; M. Basaj, J. Siatkowski «Stu- dia z filologii polskiej i slowianskiej» 6, 1967, 14; M. Korytkowska. Kaszubskie formacje z sufiksem -ba. — Studia z filologii polskiej i stowianskiej 11, 102 (относит сюда же кашуб, ganba). Относительно вост.-слав, форм, напр. блр., высказывалось мнение о заимствова­ нии из польск., см. Пстарычная лексшалопя беларускай мовы. Рэд. А. Я. Баханькоу i др. (Мшск, 1970) 94.</note>
+  <gramGrp>
+    <gram>Производное (имя действия) с суфф.<m type="suffix">
+        <ref>-ьЪа</ref>
+      </m> от гл. <ref type="etymon" target="ganiti">*ganiti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Stawski I, 401—402. Невероятно допущение Пизани, возво­ дившего зап.-слав, слово к др.-в.-нем. honida 'стыд', с субститу­ цией форманта (V. Pisani «Paideia» XII, 1957, 55).</note>
+</Entry>

@@ -1,0 +1,81 @@
+<Entry xml:id="dojidlo">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojidlo</orth>
+    <lemma>dojidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>доило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>дойка, доение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров-Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>доило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>количество молока, надоенное за одну дойку , дуйлу ср. р. сырость, влага , дуйлу ср. р. надоенное за один раз молоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стой- чев БД II, 153)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 199)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. БД VI, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dojilo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кормление грудью, дойка, доение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dojidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>доилка . — Сюда же, возм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дбйло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>все количество молока, выдоенное за сутки из одной скотины; в дойле два или три удоя; дойлом зовут и негодное, дурное молоко</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, ИЗО)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дбйла</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вымя</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(i)dlo от гл.<ref type="etymon" target="dojiti-3">*dojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

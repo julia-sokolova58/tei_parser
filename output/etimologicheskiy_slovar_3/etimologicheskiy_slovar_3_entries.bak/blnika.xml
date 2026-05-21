@@ -1,0 +1,51 @@
+<entries>
+  <entry xml:id="blnika" xml:id="blnika">
+    <pb n="159" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьlnika</orth>
+      <lemma>bblnika</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">болг. диал. <ref>бунйка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>белена Hyoscyamus niger</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Геров, Георгиев)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бунта</ref> ж. р. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Вук; R J A I, 736; РСА И, 287)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>бунйка</ref> .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Ел. I)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное 
+с 
+суфф. 
+<m type="suffix">
+          <ref>-ika</ref>
+        </m> 
+от 
+(см.); 
+соотносительно 
+с <ref type="etymon" target="bblnica">*bblnica</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

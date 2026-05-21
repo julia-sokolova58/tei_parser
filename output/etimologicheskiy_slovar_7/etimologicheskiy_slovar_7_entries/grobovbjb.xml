@@ -1,0 +1,113 @@
+<Entry xml:id="grobovbjb">
+  <pb n="132" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobovb(jb)</orth>
+    <lemma>grobovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грббовый</ref>, прилаг. от гроб</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>гробов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>могильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 658; RJA III, 455: XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrobovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>могильный , елвц. поэт. hrobovy, прилаг. , но также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 496)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 528)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hroboui</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grobuovi</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гробовой</ref>, -ая, -бе, прилаг. к гроб,</orth>
+      </form>
+      <sense>
+        <def>связанный со смертью, могилой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гробовйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>могиль­ ный, гробовой . — Ср. сюда же, далее, произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гроббвен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>могильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гробо</ref>- вен, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грдббван</ref>, -вна, -вно .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 658)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-оиъ</ref>
+      </m> от <ref type="etymon" target="grobb">*grobb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

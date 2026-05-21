@@ -1,0 +1,243 @@
+<Entry xml:id="drozd">
+  <pb n="126" end_page="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drozdъ</orth>
+    <lemma>drozdъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрозд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица Turdus misicus, дрозд</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрбзан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд , дрбзен то же , сюда же производное дрбзговъц м. р. дрозд (с. Долна Мелна, Трънско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Бериево, Севлиевско, Архив Болг. диал. словаря, София; ср. Геров: дрбзденъ м. р. 'дрозд-рябинник Turdus viscivorus')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрозд</ref>(алгц) м. р а</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрозд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд &gt; также дрозда ж. р., дрбздак, род. п. дрбска, м. р. , дрог м. р. , дрдзг м. р. , дрдзаг, род. п. -зга9 м. р. , дрбзак, род. п. -зга, м. р. , дрозга ж. р. , сюда же произ­ водное дрдздовац, род. п. -овца, м. р. сдрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 730)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 730)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 730—731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drozd</ref>, drozg м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд Turdus , также drozeg, род. п. -zga, м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 177)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drozn</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>merula (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drozd</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд Turdus, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drozd</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ваг- tos. Slov. 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drozda</ref> , drozen, род. п. -zna, м. р. , drozan м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 313; Kubin, Cech. klad. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drozd</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drozn</ref>, drozen м. p., drozna ж. p.</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drozn</ref> м. p., drozna ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drozd</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дрозд Turdus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 382)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>drduzd</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Дроздъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XV в., Тупиков 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрозд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая лесная птица из отряда воробьиных</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрозда</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского района Пермской области 146)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрозд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица дрозд Turdus vulgaris , др1гду род. п. дрозда, м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 446)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вх. Пч. И, 15, Гринченко I, 445)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрозд</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрозд</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первонач., по-видимому,<ref type="etymon" target="trozd">*trozdъ</ref> 
+(ассимилированное 
+затем 
+в <ref type="etymon" target="drozdb">*drozdъ)</ref>, 
+ср. др.-прусск. treste, 
+лит. strdzdas, 
+лтш. strazds 
+(вост.-балт. формы, как видим, провели ассимиляцию 
+на свой 
+лад: strazdas&lt;^<ref type="etymon" target="trazdas">*trazdas)</ref>, 
+лат. turdus (<ref type="etymon" target="tfzdos">*tfzdos)</ref> 
+'дрозд', 
+далее, 
+сюда же производное нем.</gram>
+  </gramGrp>
+  <note>Drossel 'дрозд', англ. throstle, прагерм. *prost-la- (в связи с нем. ср. след.). Название звукоподражат. происхождения, ср. крик дрозда drrti. См. A. Walde KZ X X X I V , 1897, 516—517; Berneker I, 227— 228; R. Gauthiot BSL 16, 1910, CCCLXVI; D. Boranid. Onomato- pejske rijeci za zivotinje u slavenskim jezicima. «Rad» 178, 1909, 13; Otrqbski. Studia indoeuropeistyczne 167; Walde—Hofm. II, 718; Kluge 2 0 144; Л. А. Булаховский. Общеславянские названид птиц. —И АН ОЛЯ VII, 1948, 99, 109, 112; Fraenkel И, 920; J. Otre&gt;ki LP V, 1955, 29; V. Pisani «Paideia» XVI, 1961, 292; Фасмер I, 541; Откупщиков. Из истории и.-е. словообразо­ вания 147 (занимается чередованием согласных в конце слова, хотя разные исходы -d, -g, -п обязаны здесь не чередованию, а диссимиляциям в этом подверженном диссимиляции слове, см. выше). drozdblb: болг. диал. дрбздел* м. р. 'дрозд' (П. Китипов. Казан- лъпгко. — БД V, 114), сербохорв. дрдздИгь, род. п. дроздам^ м. р. 'дрозд', также дроздел м. р. (РСА IV, 731), дрдзел м. р. (там же), дрозгал, м. р. (там же), дрозгол м. р. (там же), словен. drozgela ж. р. 'птица Gracula rosea, Turdus roseus' (Plet. I, 177). Производное с суфф. ~ъ1ь от :[:drozdb (см.). Ср. аналогичное герм, prost-la- (нем. Drossel, англ. throstle), см. предыдущее.</note>
+</Entry>

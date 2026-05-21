@@ -1,0 +1,104 @@
+<Entry xml:id="grimati">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grimati</orth>
+    <lemma>grimati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>grimat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, грохотать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tentor. Lek- sicka slaganja 7 3 : Cres)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grimati</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 2 5 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hflmati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 5 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfimati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гре­ меть, грохотать, елвц. редк. hrimatf то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 5 2 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrimac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь (о громе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 2 1 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>grimas</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>греметь, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 3 2 4 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гримати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гре­ меть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. плк. Игор.; Гр. Наз. с толк. Ник. Ир. XIV в., Срез­ невский I, 5 9 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гримати</ref>, гргмати</orth>
+      </form>
+      <sense>
+        <def>греметь, кричать сер­ дито, ударять сильно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 3 2 7 )</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив-дуратив к гл.<ref type="etymon" target="grbmeti">*grbmeti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

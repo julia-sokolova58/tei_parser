@@ -1,0 +1,120 @@
+<Entry xml:id="divota">
+  <pb n="34" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divota</orth>
+    <lemma>divota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дивбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дивдта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дивная красота , сюда же дйвот, дйвот м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карацип, РСА IV, 283)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>divjota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикое место, глушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>divota</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чудо, диво , givota ж. р., только в сочетании rie ji- oota potym это неудивительно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 57)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>divota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дикость, nie divota неудивительно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>sav</ref>&amp;gta ж. p.</orth>
+      </form>
+      <sense>
+        <def>дикость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дивбта</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>удивление, удивительная вещь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 382—383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>d3ieoma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сенсация , d3ie6mu мн. странности, причуды. — Сюда же про­ изводное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 94)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дивотина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дичь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от <ref type="etymon" target="divb-3">*divb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,72 @@
+<Entry xml:id="draskati">
+  <pb n="102" end_page="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*draskati</orth>
+    <lemma>draskati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драекам</ref>, дращя, драща</orth>
+      </form>
+      <sense>
+        <def>царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>драекам</ref> то же ,</orth>
+      </form>
+      <sense>
+        <def>царапать, небрежно писать, строгать, удирать , броскам очищать коноплю ножом от костры , драшта царапать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 71; М. Младенов БД III, •drasta 60; Шапкарев — Близнев БД III, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 198)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. С Младенов. Указ. соч. 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евста- тиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>драска</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>царапать, черкать, марать (бумагу) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>draskat</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 256)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от старой основы глагольного интен­
+сива и.-е. <ref type="etymon" target="dra-sk-">*dra-sk-</ref> с 
+соответствующим суфф. 
+-sk-, 
+ср. греч. 
+dTCoSi&amp;pdaxco 'убегать, спасаться бегством'.</gram>
+  </gramGrp>
+  <note>См. объяснение греч. слова из и.-е. *йг-еэ2-: Chantraine. Dictionnaire etymologique da la langue grecque 1—2, 278—279 (без привлечения слав, слова). Слав, слово лучше сохраняет первонач. семантику. При сравнении слав. *dra$kati и лит/ draskyti 'драть, рвать' (см. Berneker I, 220) следует иметь в виду количественные различия корневого гласного. В свете изложенного толкование *draskati из *drap-skati (V. Machek. Slavische Verba mit suffixalem -sk-. — SR X, 1957, 71—72) не кажется необходимым; по-видимому, лучше разграничивать *drasati (cu.)&lt;^*drap-sati и *draskati с описанной выше историей.</note>
+</Entry>

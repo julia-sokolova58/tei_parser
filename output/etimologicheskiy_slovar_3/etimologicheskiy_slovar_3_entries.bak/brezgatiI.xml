@@ -1,0 +1,44 @@
+<Entry xml:id="brezgatiI">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezgati I</orth>
+    <lemma>brezgati I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>брЪзгати</ref>, брезгати, брЪзгаю</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И пьси бр%з- гаюгпъ тобою. Жит. Андр. Юр. VI, 30, Срезневский I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брезгать</ref>, -аю</orth>
+      </form>
+      <sense>
+        <def>испытывать отвращение, гадливость (обычно о пище и напитках)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брёзкати</ref>, брёзгати</orth>
+      </form>
+      <sense>
+        <def>мерзить, гну­ шаться; иметь отвращение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бшецький—Носенко 61)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+соотносительный с именем <ref type="etymon" target="brezgb-2">*brezgb</ref> 
+I (см.).</gram>
+  </gramGrp>
+</Entry>

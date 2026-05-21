@@ -1,0 +1,24 @@
+<Entry xml:id="berstikb">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstikb</orth>
+    <lemma>berstikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. редк. <ref>brestlk</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ulmarium, вязовая роща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Белла, Белостенен,, Стулли, см. RJA 1, 629; РСА II, 151)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. Акъ от названия дерева<xr type="compare">см. <ref type="etymon" target="bersto">*bersto</ref>
+    </xr>. 
+Не исключено иослепраславянское 
+образование.</note>
+</Entry>

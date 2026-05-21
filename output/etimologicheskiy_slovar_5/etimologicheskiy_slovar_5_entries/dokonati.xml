@@ -1,0 +1,121 @@
+<Entry xml:id="dokonati">
+  <pb n="58" end_page="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dokonati</orth>
+    <lemma>dokonati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>доконати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>закончить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>dokdnat</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РН; 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dokondti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>завершить, закончить , также dokonjdti , чещ. dokonati завершить, осуществить, окончить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dokonac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>окончить, скончаться, умереть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lam- precht. Slov. stfedoopav. 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>dokonatH</ref> sa</orth>
+      </form>
+      <sense>
+        <def>устать, утомиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dokonac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сделать, выполнить, осуществить, стар, закончить, скончаться, умереть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 214—215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>докопать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>довести кого- либо до крайности, до смерти; добить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>доконать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доделать до конца (новг., волог., твер., влад., калуж., перм.), убить (курск., каз.), довести до крайности (костр., влад.), догореть (новгор., пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доконати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>довести до послед­ ней крайности, доконать, доконати свого добиться, достигнуть какой-либо цели, доконати свбго слова сдержать свое слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 414)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даканаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доконать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-15">*do</ref> (см.) и <ref type="etymon" target="konati">*konati</ref> (см.); соотносительно с <ref type="etymon" target="doc">*doc</ref>$ti (см.).</gram>
+  </gramGrp>
+</Entry>

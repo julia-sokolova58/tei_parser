@@ -1,0 +1,41 @@
+<Entry xml:id="gybezb">
+  <pb n="216" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gybezb</orth>
+    <lemma>gybezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гиб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ёж м. р. гнутье (свердл.), изогнутая часть предмета (том.) , местн. название Гибеж . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(бывш. Старорусск. у. Новгор. губ., Russisches geographisches Namenbuch II, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gibezljlv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ловкий, изворотливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I 209)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-еъъ</ref>
+      </m> от гл. <ref type="etymon" target="gybiti">*gybiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

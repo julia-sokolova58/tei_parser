@@ -1,0 +1,137 @@
+<Entry xml:id="aop">
+  <pb n="110" end_page="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬопъ</orth>
+    <lemma>ЬаЬопъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬипъ</orth>
+    <lemma>ЬаЬипъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬопа</orth>
+    <lemma>ЬаЬопа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бабун</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, у кого морщи­ нистое лицо, богумил, член еретической секты в древней Бол­ гарии , ср. еще Геров—Панчев: бабун м. р. человек с мор­ щинистым лицом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бабуна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>женщина со злыми глазами , бабогьа м. р. мужчина, похожий на бабу, старик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 225)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>бабоуни</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>superstitio, суеверие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mikl.; ср. еще R J A 1,136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ЪаЪопёк</ref>, род. п. -пки м. р.</orth>
+      </form>
+      <sense>
+        <def>наваждение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>народн</ref>. baboria, bobona ж. р.</orth>
+      </form>
+      <sense>
+        <def>суеверие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бабХны</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>чары, кол­ довство, ворожба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 37; III, Доп., 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>баббны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>суеверие ; сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. Верхратський. Знадоби 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>babunstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>болтовня о чудесах и вера в них</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 130)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сюда примыкают укр. забоббни мн., блр. забаббны мн. ' с у е ­ верие' (откуда позже русск. забоббни, см. Фасмер II, 70; есть мнение, что вост.-слав, слова — из польск. zabobon м. р. то же, см. Bruckner 643). Эти приставочные формы как бы подтверждают мысль об отглагольности всех вообще соответствующих имен, высказанную еще Бернекером, который ссылался на сербохорв. стар, boboniti 'strepere, шуметь', сербохорв. bobonjati 'болтать' (см.</note>
+  <gramGrp>
+    <gram>Berneker I, 36—37, где, кроме укр. диал. бабонити, не назван ни один глагол из перечисленных у нас выше под<ref type="etymon" target="baboniti">*baboniti</ref> 
+/<ref type="etymon" target="a--2">*Ьа-</ref>
+buniti с их специфическими значениями). Н о польск., укр. и блр. 
+образования с приставкой za- стоят вообще особняком и явно усту­
+пают в древности ю.-слав., чеш., слвц., др.-русск. и укр. именным 
+формам, приведенным выше, которые, в свою очередь, обладают 
+более обширным ареалом, чем соответствующий глагол, видимо, 
+произведенный 
+от 
+именной 
+основы 
+<ref type="etymon" target="babon-">*babon-</ref> I <ref type="etymon" target="babun-">*babun-</ref>. 
+Такая 
+фонетическая черта как наличие -а- практически во всех сравни-
+ваемых 
+здесь формах позволяет взвесить возможность проис 
+хождения из частичной редупликации и.-е. <ref type="etymon" target="bhan">*bha(n)</ref>~ ' з в у к голоса, 
+речь, слово; заповедь, молитва
+5. Связь с <ref type="etymon" target="baba-4">*baba</ref> старуха могла 
+наметиться 
+по народн. 
+этимологии вторично у макед. 
+бабун 
+(см. выше). Оценку прочих объяснений и звукоподражательную 
+этимологию см. Berneker, там же.</gram>
+  </gramGrp>
+</Entry>

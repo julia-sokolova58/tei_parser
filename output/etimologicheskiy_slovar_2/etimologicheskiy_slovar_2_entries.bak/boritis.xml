@@ -1,0 +1,119 @@
+<Entry xml:id="boritis">
+  <pb n="203" end_page="204" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boriti (s§)</orth>
+    <lemma>boriti (s§)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беспокоить, тревожить , боря се бороться, сопротивляться, силиться , ср. словообра­ зовательное развитие той же глагольной темы в</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>борйчкам</ref> се</orth>
+      </form>
+      <sense>
+        <def>возиться, бороться в шутку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бори</ref> се</orth>
+      </form>
+      <sense>
+        <def>бороться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдрити</ref> се</orth>
+      </form>
+      <sense>
+        <def>бороться, certare, также бдрити</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>boriti</ref> se</orth>
+      </form>
+      <sense>
+        <def>бороться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bofiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разру­ шать, уничтожать (если не из *ob-oriti, ср. и слвц.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>borif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разрушать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 119)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>borif</ref> sa</orth>
+      </form>
+      <sense>
+        <def>бороться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>борити</ref>, борю</orth>
+      </form>
+      <sense>
+        <def>pugnare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Пайс, Срезневский I, 152)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="borti-6">*borti</ref> (см.) и представляющий 
+собой как бы тематизацию этого последнего, восходит, вполне 
+вероятно, к дослав, древности, ср. родственные и.-е. глаголы 
+с основой на 
+лат. ferid, ferire 'бить, рубить', др.-в.-нем.</gram>
+  </gramGrp>
+  <note>Ье- rjan 'бить, колотить, попирать' (об отличии вокализма в слав. см. на *borti). См. специально о слвц. borif sa, его связи с ю.-слав. формами на -Ш и родстве с лат. ferire — Machek 38. Обычно лат. ferire, др.-в.-нем. berjan (и близкие) соотносят прямо с гнез­ дом слав. *borti, не выделяя указанный выше морфол. момент (см. Walde—Hofm. I, 481—482; Berneker I, 76).</note>
+</Entry>

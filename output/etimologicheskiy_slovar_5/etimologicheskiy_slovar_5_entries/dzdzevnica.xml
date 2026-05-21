@@ -1,0 +1,75 @@
+<Entry xml:id="dzdzevnica">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždževьnica</orth>
+    <lemma>dъždževьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъждбвница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>даждёвница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода , дъждовници Triton vulgaris L., Triton cristatus Laur., Salamandra maculosa Laur</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Орханийско, СбНУ XXXVIII, 109, Архив Болг. диал. словаря)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Ковачев. Принос за изучване земноводните и влечугите в Бъл- гария. — СбНУ X X I , 1905, 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дождевница</ref>, дождовница ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода , словен, dezeunica ж. р. дождевая вода, дождевой червь Lumbricus terrestris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>desiovnice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дождевая вода, дождевой червь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>deseownica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевой червь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 112)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>польск. dzdzowriica ж. р. дождевой червь Lumbricus , dzdzewnica, zdzdzewnica ж. p. дождевой червь , Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="dbzdzevbnb">*dbzdzevbnb</ref> (см. под <ref type="etymon" target="dbzdzevb-2">*dbzdzevb)</ref>.</gram>
+  </gramGrp>
+</Entry>

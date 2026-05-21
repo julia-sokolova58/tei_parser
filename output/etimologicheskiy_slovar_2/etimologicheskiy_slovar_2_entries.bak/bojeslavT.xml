@@ -1,0 +1,21 @@
+<Entry xml:id="bojeslavT">
+  <pb n="166" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojeslavT</orth>
+    <lemma>bojeslavT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bojeslav</ref>, Bojslav м. р., личное собств. имя .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное сложение основ<ref type="etymon" target="bojb">*bojb</ref> (см.) и <ref type="etymon" target="slav-">*slav-</ref> (см. <ref type="etymon" target="slava">*slava</ref>, <ref type="etymon" target="sla-">*sla-</ref>
+viti).</gram>
+  </gramGrp>
+</Entry>

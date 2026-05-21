@@ -1,0 +1,57 @@
+<Entry xml:id="belbsko">
+  <pb n="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belbsko</orth>
+    <lemma>belbsko</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belbskb</orth>
+    <lemma>belbskb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Белско</ref> (врело), сюда же реХюхбс, на терри­ тории Греции</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Belsko</ref> ср. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Bielsko</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1401 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bilsko</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Bielsk</ref>, Bielsko (неоднократно в качестве названий городов с раннего времени)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>БЪлъскъ</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Мьсти- славъ же пребывъ мало днии в Берестьи и ixa до Каменца и до БЪлъска. Ипат. л. ок. 1425 г., л. 306. — Картотека СДР; остальные сведения почерпнуты из кн.: S. Rospond. Stowianskie nazwy miejscowe z sufiksem -bsk-. Wroclaw—Warszawa—Krakow, 1969, 76-77, 356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -bsk- (субстантивированное прилаг. в роли местн. н.) от сущ.<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) в функции урочищного названия 
+'сырая низина, болото, топкий луг', ср. польск. biel. Прямое 
+произведение от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) менее вероятно. См. Rospond. 
+Указ. соч. 77.</gram>
+  </gramGrp>
+</Entry>

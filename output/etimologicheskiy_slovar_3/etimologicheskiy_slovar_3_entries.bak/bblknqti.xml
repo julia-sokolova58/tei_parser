@@ -1,0 +1,34 @@
+<Entry xml:id="bblknqti">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bblknqti</orth>
+    <lemma>bblknqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>blknuti</ref> Ktoz ioczyJJ zhnyewu blkne nabratra wynen gejt aby potaz byl zawynu geho (Stitny. Barlaam a Josafat, Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>blknuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вспыхнуть, запылать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 105)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, 
+соотносительный с <ref type="etymon" target="bblkati">*bblkati</ref> 
+(см.)</gram>
+  </gramGrp>
+</Entry>

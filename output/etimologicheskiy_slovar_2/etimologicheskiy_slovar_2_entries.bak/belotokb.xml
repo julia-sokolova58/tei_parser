@@ -1,0 +1,66 @@
+<Entry xml:id="belotokb">
+  <pb n="75" end_page="76" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belotokb</orth>
+    <lemma>belotokb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref>]ёлоток м. р. (медиц.)</orth>
+      </form>
+      <sense>
+        <def>fluor albus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belotok</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бели</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blelotok</ref> м. р. (медиц.)</orth>
+      </form>
+      <sense>
+        <def>название женской болезни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сложение *Ьё1ъ (ш.) и<xr type="compare">см. <ref type="etymon" target="tokb">*tokb</ref>
+    </xr> 
+beloveza: слвц. диал. Biloveza 
+ж. р., название селения (Buffa. 
+Dlha Luka 133), польск. Bialowieza, 
+русск. Беловежа, 
+деревня 
+на реке Наревка, бывш. Гродн. губ. («Stownik Geograficzny» I, 
+196), укр. Бгловгж, деревня, бывш. Овручск. у. Волынск, губ. 
+(«Russisches geographisches Namenbuch» I, 324). 
+^ Сложение <xr type="compare">см. <ref type="etymon" target="yo1">*Ьё1ъ</ref>
+    </xr> и <xr type="compare">см. <ref type="etymon" target="veza">*veza</ref>
+    </xr>. 
+Belovold-b: др.-русск. БЪловолодъ (. . .и во тъ 
+годъ 
+приб
+гЬже Бе-
+ловолодъ Просовичь и повЪда Стославоу бывшее w Половц'Ьхъ. . • 
+Ип. л. ок. 1425 г., л. 225. —Картотека СДР).</note>
+  <gramGrp>
+    <gram>Сложение прилаг.<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и именной отглагольной основы 
+*-voldb (см. <ref type="etymon" target="voldeti">*voldeti)</ref>.</gram>
+  </gramGrp>
+  <note>Семантика этого, видимо, раннего антропо- нимического образования ясна недостаточно.</note>
+</Entry>

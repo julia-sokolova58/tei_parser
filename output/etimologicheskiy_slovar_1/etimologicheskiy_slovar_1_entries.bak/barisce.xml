@@ -1,0 +1,45 @@
+<Entry xml:id="barisce">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>barisce</orth>
+    <lemma>barisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>барииппе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>большая лужа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>барйште</ref> с р . ^ р .</orth>
+      </form>
+      <sense>
+        <def>болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. (<ref>мор</ref>.) bafisko ср. р.</orth>
+      </form>
+      <sense>
+        <def>болото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. isce (собир.) от<ref type="etymon" target="bara-2">*bara</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

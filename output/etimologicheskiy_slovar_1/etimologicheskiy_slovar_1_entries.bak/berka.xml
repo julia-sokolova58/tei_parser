@@ -1,0 +1,62 @@
+<Entry xml:id="berka">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berka</orth>
+    <lemma>berka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ьгёка</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растения Sorbus sp., Sorbus aria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, :54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. (диал. редк.) <ref>Ъгёка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боярышник кленолистньтй Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Sf. I, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>берёка</ref> ж. p .</orth>
+      </form>
+      <sense>
+        <def>Sorbus lorminalis, у к р . берёка ж. р. растение Pyrus torminalis . Это название разновидности рябины до сих нор не получило убедительной этимологии (перечень существующих объяснений см. ниже). Типологически наиболее вероятно было бы членить слово как *ber-k-a, образование с -к- суффиксальным, видимо, оформившееся, как и другие такие производные, у ж е в собственно слав, период. Возм., от основы *berq,<xr type="compare">см. <ref type="etymon" target="gai-2">*ЪъгаИ</ref>
+          </xr>, с р . эпитет наи­ более распространенной рябины обыкновенной — лат. (Sorbus) a u c u p a r i a , буквально  б е р у щ а я , л о в я щ а я птиц (птиц привлекают ее ягоды). Видеть в праслав. *ber-k- (производ­ ные от этой основы см. в след. статьях) продолжение и.-е. *bher- блестеть с -/с- расширением, т. е. некий аналог к названию бе­ резы, как это делают Садник и Айцетмюллер , затрудни­ тельно ввиду отсутствия подтверждений; реально можно назвать лишь некоторые далекие семантически расширения и.-е. *bher- с -к- палатальным . Справедливо сомне­ ваются в сближении Бернекером нашего слова с лит. brlnkti набухать . См. Фасмер I, 154—155, где также упомянуто другое спорное сравнение — с</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. Sadnik—Aitzet- rmiller. V g l . W b . 3, 149; Мошинский, на кот. они ссылаются, видит в праслав. *berka, *Ьегкъ вообще заимствование из герм. *Ьегкд 'береза', см. Moszynski. Pierwotny zasia,g 54—55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. Pokorny I, 141—142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Berneker I, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bresk</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терпкий в к у с</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Не поддается контролю «праевропейская» этимология Махека, сблизившего слав. *berk- и герм. *spero- 'Sorbus' (V. Ma­ chek L P II, 1950, 156; он же Jmena rostlin 115).</note>
+</Entry>

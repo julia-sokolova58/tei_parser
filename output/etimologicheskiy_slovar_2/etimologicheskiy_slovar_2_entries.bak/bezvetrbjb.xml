@@ -1,0 +1,25 @@
+<Entry xml:id="bezvetrbjb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvetrbjb</orth>
+    <lemma>bezvetrbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвьтрий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безветренный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-121">*bez</ref> (см.) и именной формы 
+<ref type="etymon" target="iyo">*иё</ref>№ъ (см.).</gram>
+  </gramGrp>
+</Entry>

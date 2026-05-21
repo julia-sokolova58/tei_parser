@@ -1,0 +1,166 @@
+<Entry xml:id="grozdbnb">
+  <pb n="141" end_page="142" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grozdbnb</orth>
+    <lemma>grozdbnb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grozdbno</orth>
+    <lemma>grozdbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>грозиъ</ref> м. р. (Збтрод, отасриХт), uva</orth>
+      </form>
+      <sense>
+        <def>ви­ ноградная гроздь , сербо­ хорв. грдздан, -зна, -зно обильный виноградом , также грдзан, -зна, -зно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mar. Supr., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 662)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grozden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вино­ градный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrozen</ref>, род. п. -znu&gt; м. р.</orth>
+      </form>
+      <sense>
+        <def>гроздь, кисть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>также</ref> hrozna ж. p., hrozno ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Siov. 108; Kott I, 499: hrozno ср. p., «na Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrozno</ref> cp. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 531)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грознь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>виноград</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. •grozbba VII. 16. Остр, ев.; Мин. Пут. XI в. 80; Иппол. Антихр. И , Срезневский I, 596)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грозно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>виноград, кисть (вино­ града) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грозно</ref> .— Ср., возм., сюда же преобразованные</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Чучка 315)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hruzla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ком земли, глыба , hruzl м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gruzla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глыба земли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruzel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ком, глыба, утолщение, нарост , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1334)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грузла</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Коли грузла моровая ростетъ возми листвие бобо­ вое jctoji4h положи на грузлу. Леч. кон. XVII в., Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грузло</ref>, грузно</orth>
+      </form>
+      <sense>
+        <def>грезно луку (Картотека Псковского областного словаря)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>грозны</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>корне­ плоды картофеля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шаталава 44)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -ъпъ\-ъпо от<ref type="etymon" target="grozdb">*grozdb</ref> j<ref type="etymon" target="grozdb">*grozdb</ref> 
+(см.), 
+ср. 
+<ref type="etymon" target="grezdbnb">*grezdbnb</ref> 
+I <ref type="etymon" target="grezdbno">*grezdbno</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ввиду чисто слав, словопроизводного характера этих образований их сближение, напр., с лтш. gr$zns 'петушиный гребень' (ср. Фасмер I, 460) делается проблематич­ ным.</note>
+</Entry>

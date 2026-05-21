@@ -1,0 +1,198 @@
+<Entry xml:id="dojnica">
+  <pb n="56" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьnica</orth>
+    <lemma>dojьnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дсиыицл</ref> ж. p. xpocpog, nutrix</orth>
+      </form>
+      <sense>
+        <def>кормилица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дойница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица , дойнйци ж. р. мн. дойные овцы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. до]<ref>ница</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, дойная овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дд</ref>]ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>кор­ милица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 466)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, дойная корова, подойник , также dojnica дойная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(V. Novak. Uber die Milchwirtschaft bei den Volkern Jugoslawiens 575)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>donice</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>макотра, (цветочный) гор­ шок, dojnice ж. р. дойная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dojnica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дойная корова, коза или овца</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSI I, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>donca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>корыто (для стирки, для скотины)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dojnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дойник, малый деревянный черпак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>donica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горшок, глубокая миска , dojnica ж. р. подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 249)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>dunica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глиняная миска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Szymczak Doman. I, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дойница</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кормилица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псалт. 1296 г. 165. пс. LXXVII. 71, Срезневский I, 691)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дойница</ref>, дой­ ница ж. р.</orth>
+      </form>
+      <sense>
+        <def>подойник, доильщица, дойная корова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(каз., Даль I, 1130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дшнйця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>doJHU</ref>^a ж. р.</orth>
+      </form>
+      <sense>
+        <def>деревянный подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специ­ фическая лексика Дрогичинского Полесья. «Лексика Полесья» 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дайнща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подойник</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> (субстантивация) от прилаг. <ref type="etymon" target="dojbnb">*dojbnb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

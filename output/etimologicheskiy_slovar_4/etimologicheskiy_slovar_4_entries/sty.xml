@@ -1,0 +1,65 @@
+<Entry xml:id="sty">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьтыъ</orth>
+    <lemma>сьтыъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьтугъ</orth>
+    <lemma>сьтугъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>стуг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое, козявка, куриная вошь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>emir</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жилки, волокна (в древесине, растении)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czmer</ref>, czmyr м. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, дрянь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 394)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чмирь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>короткая шерсть, остающаяся на пестах после валянья сукна, острый, противный запах , если последнее знач. не восходит к особой лексеме<xr type="compare">см. <ref type="etymon" target="seteg">*сетегъ</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 466)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически темный случай.</note>
+  <gramGrp>
+    <gram>Возм., производное с суфф. -ъг-j-yr- от основы<ref type="etymon" target="st--2">*сьт-</ref>, ср. <ref type="etymon" target="stap">*сътапъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Относительно укр. чмирь 'табачный сок в трубке' см. А. А. Потебня РФВ I, 1879, 264 (из нем. Schmiere 'мазь, коломазь'). См. еще Bruckner 80. Слож­ ную экспрессивную этимологию предлагает Махек, см. Machek 2 105—106 (s. v. cmirati).</note>
+</Entry>

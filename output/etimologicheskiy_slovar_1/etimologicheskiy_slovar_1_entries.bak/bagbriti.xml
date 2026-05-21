@@ -1,0 +1,74 @@
+<Entry xml:id="bagbriti">
+  <pb n="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bag(b)riti</orth>
+    <lemma>bag(b)riti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>багря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить, окрашивать, строить , красить (в красный цвет) ( Б Т Р )</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>багре</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. Б Д I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>багри</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить, окрашивать, багрянить, румянить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>багрити</ref>, багрити</orth>
+      </form>
+      <sense>
+        <def>красить в красный цвет; румянить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bagriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>красить в пурпурный цвет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 9)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отыменный гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от *&amp;а#(ъ)гъ I (см.) или же 
+соотносимый в ряде (ю.-слав.) языков с сущ. <ref type="etymon" target="bagra">*bagra</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

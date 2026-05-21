@@ -1,0 +1,24 @@
+<Entry xml:id="babrotb">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>babrotb</orth>
+    <lemma>babrotb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>babrot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>плеск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 25)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное образование недостаточно ясного возраста, стоящее в связи с группой экспрессивных, преимущественно глагольных образований, см. выше<ref type="etymon" target="babrati-3">*babrati</ref> и 
+близкие.</gram>
+  </gramGrp>
+</Entry>

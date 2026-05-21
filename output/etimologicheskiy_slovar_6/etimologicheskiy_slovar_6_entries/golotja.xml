@@ -1,0 +1,93 @@
+<Entry xml:id="golotja">
+  <pb n="214" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golotja</orth>
+    <lemma>golotja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голдНа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>обнаженность, нагота, бедность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 446, 447; RJA III, 255: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golola</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нагота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 229)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голёча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гололедица , галёча льдом облившаяся дорога , сюда же го- ляча ж. р. не покрытая снегом мерзлая земля, дорога; скользкое от гололедицы место , ср. сюда же голёчь ж. р. гололедица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 136; Филин 6, 292)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 118)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., Филин 6, 351)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Филин 6, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голёча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голь, бедняки , Голеча, местн. название, бывш. Ра- ховский у., Карпатск. Украина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Russisches geographisches Na- menbuch II, 399)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галёча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бедность, нищета, гололе­ дица, голытьба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэщи 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>галёча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бедняк, беднота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпяров1ч 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Расширение с помощью -/- основы<ref type="etymon" target="golota">*golota</ref> (см.) или произ­
+водное с инновационным суфф. -otja от прилаг. <ref type="etymon" target="golb-12">*golb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Вока­ лизм второго слога в вост.-слав. в таком случае вторичен как следствие ассимиляции по мягкости (более передней артикуля­ ции). Любопытна изоглоссная связь, как и в других случаях на -otja (сербохорв.-словен.-укр.-блр.-русск. диал. [южн.]).</note>
+</Entry>

@@ -1,0 +1,75 @@
+<Entry xml:id="gbrgula">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrgul'a</orth>
+    <lemma>gbrgul'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръгуля</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тыква, сюда же производное гръ- гулшый, прилаг. горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гргуле</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вид тыквы Cucurbita ovifera, кабачок , сюда же производное гргулав, прилаг. горбатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гргул</ref>&gt;а ж. р., гргу.ъица, гргу.ьица ж. р.</orth>
+      </form>
+      <sense>
+        <def>завиток, прядь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>grguVa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подкладка под волосы у женщин, вид жен­ ской народной прически</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гургуля</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шишка, нарост на теле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(кубан., Филин 7, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное образование.<xr type="compare">Ср. <ref type="etymon" target="gbrgati">*gbrgati</ref>
+    </xr> 
+и *gug(ъ)1а 
+(см.).</note>
+</Entry>

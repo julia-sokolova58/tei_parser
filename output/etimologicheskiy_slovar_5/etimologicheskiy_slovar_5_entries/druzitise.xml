@@ -1,0 +1,196 @@
+<Entry xml:id="druzitise">
+  <pb n="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družiti (sę)</orth>
+    <lemma>družiti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить, водить дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дружа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сопровождать, составить компанию</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пир- допско. — БД IV, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дружи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дружити</ref> се</orth>
+      </form>
+      <sense>
+        <def>присоединяться (Карацип), drdziti присоединять , дружити соединять, дружити се общаться, дружить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 816—817)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 756)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>соединять, druziti se общаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружески обращаться, дру­ жить, druziti se соединяться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druziV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>присоединять, dru- ziV sa присоединяться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>druzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>присоединять, составлять компанию</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>druzys</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть дружкой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 210—211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>drauzet</ref> / draizet</orth>
+      </form>
+      <sense>
+        <def>помогать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski-Sehnert 55, с реконструкцией *druziti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>druzyc</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>druzyc</ref> sie</orth>
+      </form>
+      <sense>
+        <def>дружить, завязывать дружбу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 567)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>дрХжити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть дружками на свадьбе (Георг. A M . XVI в.), радеть , дрХжи- тиш быть в дружбе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. судн. гр. 1471 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 731)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Дан. Зат., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дружить</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дружити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить, поступать по-дружески, женить или отдавать замуж</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дружыць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дружить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="a">*а</ref>^г^ъ 
+(см.).</gram>
+  </gramGrp>
+</Entry>

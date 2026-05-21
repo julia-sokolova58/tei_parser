@@ -1,0 +1,96 @@
+<Entry xml:id="cvikati">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cvikati</orth>
+    <lemma>cvikati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>цвйкам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брызгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров: цвйкамъ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuikati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пищать, визжать, чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>cuekati</ref> se</orth>
+      </form>
+      <sense>
+        <def>ссо­ риться , возм., сюда же clvkati причинять жгучую боль , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Valjavec LjZv. XIII, 1893, 504)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cauykovati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, буянить, скандалить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 218)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cuikaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чирикать, щебетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>цвйкатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о мелких птичках) чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(псков., тверск., Даль 3 IV, 1253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цвгкати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить резко в глаза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 424)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражат. образование. Прямому возведению к *kuikati / *kuicati (см.; так Berneker I, 656) препятствуют зап.-слав. формы на си- (см. выше чеш. cauykovati). Подробно о лексич. гнезде см. I. Popovic. Slave meridional c(v)ik-, c(u)ic-, etc. 'fermenter'.— RES XXXI, 1954, 101—103.</note>
+</Entry>

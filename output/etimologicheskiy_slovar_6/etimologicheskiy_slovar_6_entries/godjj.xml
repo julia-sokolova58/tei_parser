@@ -1,0 +1,93 @@
+<Entry xml:id="godjj">
+  <pb n="190" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*godjьjь</orth>
+    <lemma>godjьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>простор</ref>, гожий, -ая, -ее</orth>
+      </form>
+      <sense>
+        <def>годный, пригодный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гожий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хороший , годный, пригодный (курск., орл., тул., калуж., моек., брян., смол., твер., пек., тамб., сарат., самар., донск., новг., олон., арх., влад., яросл., костр., нижегор., каз., вят., оренб., свердл.), хороший (яросл., влад., ряз., моек., твер., пек., смол., орл., калуж., курск., ворон., тамб., симб.* самар., каз., горьк., волог., новг., олон., арх., вят., перм., оренб., курган., урал., тобол.), похожий на кого-либо , хороший, годный , годный, подходящий , сюда же субстантивное гожъ ж. р. что-либо хорошее, прекрасное; прелесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 131)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Говоры Прибалтики 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(яросл., Филин 6, 279)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гожий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>хороший, красивый; погожий, благоприятный, удобный, нужный, год­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">ст.-блр. <ref>гожый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>годный, пригодный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Хрэст. I, 464: Словарь)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбжы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>годный, пристойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бай- коу—Некраш. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гбжы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>годный, красивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Касьпя- ров1ч 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -/ъ от гл.<ref type="etymon" target="goditi-4">*goditi</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

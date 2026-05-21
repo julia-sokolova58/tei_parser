@@ -1,0 +1,53 @@
+<Entry xml:id="globyni">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glǫbyni</orth>
+    <lemma>glǫbyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длъбинь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. <ref>glubina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Hlubyne</ref>, местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Profous I, 571: как первонач. приводится, однако, форма Hlubina, 1419 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>глХбыни</ref> сглу- бина</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 232, Срезневский I, 521)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от основы <ref type="etymon" target="glgbofo">*glgb(ofo)</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

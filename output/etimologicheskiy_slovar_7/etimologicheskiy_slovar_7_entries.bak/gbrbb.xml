@@ -1,0 +1,275 @@
+<Entry xml:id="gbrbb">
+  <pb n="198" end_page="200" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrbb</orth>
+    <lemma>gbrbb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrba</orth>
+    <lemma>gbrba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>спина , гърба ж. р. горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров, Дювернуа: гръба)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гърп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>спина , гръп м. р. то же , гарп м. р. спина , сюда же производное гърбица ж. р. горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 54; П. И. Петков. Еленски реч­ ник.— БД VII, 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръ- стеник, Плевенско.—БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. К. Бу­ нина. Словарь говора О л ь ш а н с к и х болгар. — Статьи и материалы по болг. диалектологии СССР 5, 1954, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>спина , грба ж. р. горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>g</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>erb спина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Ra- dozda-Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грб</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>спина, горб, бугор , грба ж. р. горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 583—584)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grb</ref> м. p., gfba ж. р.</orth>
+      </form>
+      <sense>
+        <def>горб, спина, морщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>chrb</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>холм, бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrb</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горб, бугор</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>куча , hrb спина, бугор, косогор , hrb м. р. бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 485, с пометой: «па Slov.»)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 106)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Brnen. 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrb</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>горб, холм, бугор , hrba ж. p. куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 520)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horb</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gjarb</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>garb</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горб , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1040)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gurba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>складка, выпуклость, морщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gcorp</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Tomasz. fcop. 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гърбъ</ref>, гръбъ, горбъ</orth>
+      </form>
+      <sense>
+        <def>спина, хребет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прол. март. 20, Срезневский I, 613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>уродливая выпуклость на спине или на груди</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>холм (арх.), затылок, шея (пек., твер.) , горб спина, холм (Картотека Печорского словаря), горка, возвышенность (Картотека Новгородского ГПИ), горб кромка дерева, отпиленная от ствола вдоль (арх., Карто­ тека СТЭ)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 35; Филин 7, 20, с более част­ ными значениями)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>горбъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. вел. кн. лит. 1480 г. № 8, Карт. Словника ст.-укр. мови X I V — X V вв.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горб, бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>горб</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горка, холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ма- русенко. Названия рельефов Хмельницк. обл. 282)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>горб</ref>, род. п. гарба, м. р.</orth>
+      </form>
+      <sense>
+        <def>горб</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Не исключено экспрессивное происхождение слова (обозначение недуга, болезненного искривления) тем более, что сколько-нибудь надежных и.-е. соответствий нет. Обращает на себя внимание практическое отсутствие близких родственных соответствий в балт., поскольку единственное семантически близкое др.-прусск. garbis (засвидетельствовано в форме grabis) 'гора' скорее всего заим­ ствовано из польск. garb (ожидалась бы исконнородственная др.- прусск. форма *gurbis). Далее, сравнивают с ирл. gerbach 'мор­ щинистый', исл. когра 'морщина, складка', прочие сближения еще более проблематичны, т. к. требуют формальных допущений (в вокализхме, инфиксации) и далеки семантически (напр., 'горб' ~ 'локон, прядь волос', 'пышно расти'). Литература: A. Fick KZ XX, 1872, 367; A. Bezzenberger, A. Fick ВВ VI, 1881, 237; Е. Zupitza KZ X X X V I , 1900, 65; F. A. Wood IF XVIII, 1905/1906, 11; Berneker I, 368—369; L. Sutterlin IF XXV, 1909, 69; Эндзелин. Славяно-балт. этюды (Харьков, 1911) 19; К. Буга РФВ LXVII, 1912, 240; Bruckner 134; Otrqbski. Studia indoeuropeistyczne 82 (сближает с лат. gib ber 'горб', 'горбатый'); Van Windekens. Le pelasgique (Louvain, 1952) 106 и сл.; Фасмер I, 439; К. Janacek «Slavia» 22, 1953, 322 (сравнение с лит. карга 'горб' и лат. gibber); Slawski I, 256; Machek 2 183 (сближает с нем. Kropf 'зоб', Kriippel 'калека').</note>
+</Entry>

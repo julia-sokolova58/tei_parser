@@ -1,0 +1,55 @@
+<Entry xml:id="goldati">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*goldati</orth>
+    <lemma>goldati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>голодать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>алкать, чувствовать голод, хотеть есть; страдать от недостатка в пище, терпеть голод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 911)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голодати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 303)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>галадаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>голодать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, производный от <ref type="etymon" target="goldb-2">*goldb</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="goldeti">*goldeti</ref>
+    </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+</Entry>

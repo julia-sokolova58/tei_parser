@@ -1,0 +1,95 @@
+<Entry xml:id="bezgolsbjb">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgolsb(jb)</orth>
+    <lemma>bezgolsb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзглас</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>молчание, безмолвие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezklasy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безгласный, тихий, немой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezhlasy</ref>, прилаг ., то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezglosy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безглас­ ный, немой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безголосый</ref> с у кого вовсе нет голоса или голос слабый, невнятный; у кого нет певчего голоса</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>безголосый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>молчаливый или молча­ щий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(перм., Филин 2, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безголосий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий голоса, безголосый, безгласный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>безга</ref>- лбсы</orth>
+      </form>
+      <sense>
+        <def>безголосый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 121)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. древнего типа, образованное из<ref type="etymon" target="bez-37">*bez</ref> (см.; 
+там же о прилаг-ных данного вида) и именной основы <ref type="etymon" target="golsb">*golsb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сербохорв. пример цредставляет собой субстантивацию.</note>
+</Entry>

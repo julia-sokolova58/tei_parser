@@ -1,0 +1,81 @@
+<Entry xml:id="dudar">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dudarь</orth>
+    <lemma>dudarь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дудар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>волынщик , возм., сюда же (ср. и знач. русск. слова, ниже) дундар м. р. пыль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 2)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA V, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dudar</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>волынщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dudar</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>мастер-дудочник, волынщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 496; Kott I, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дударь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сор, мусор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дударь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мастер, делающий дудки, играющий на свирели, род хороводной игры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дудар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>играющий на «дуде», музыкант</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Не­ краш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. -(а)гь от гл.<ref type="etymon" target="dudati">*dudati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

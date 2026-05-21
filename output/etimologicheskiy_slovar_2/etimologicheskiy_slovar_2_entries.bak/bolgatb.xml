@@ -1,0 +1,40 @@
+<Entry xml:id="bolgatb">
+  <pb n="172" end_page="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolgatb</orth>
+    <lemma>bolgatb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>благат</ref> , ср. еще блага- теп , бла- гатый, прилаг.</orth>
+      </form>
+      <sense>
+        <def>счастливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нъ хора-та въ всичкы времена все гы блазнила мысъль че урядбы-т'Ь и закони-гЬ моглчть имъ уздрави благатъ и честитъ животъ. . . -— Й. Груев. Сам си помагай. Превод, 1880. Архив Болг. возрождения, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(. . . когото за доброто му сьрдце наричахлч Благатенъ. . . — П. Р. Славейков, 1868. Архив Болг. возрождения, София)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>благйт</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сладкий (Да си честит и благат\ — Дебърско; Бов., Софийско; Орханийско. Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -а%ъ от основы имени<ref type="etymon" target="bolgo">*bolgo</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Несмотря на ограниченное распространение, может быть старым образованием.</note>
+</Entry>

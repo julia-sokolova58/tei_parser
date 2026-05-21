@@ -1,0 +1,95 @@
+<Entry xml:id="gbrdoba">
+  <pb n="204" end_page="205" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrdoba</orth>
+    <lemma>gbrdoba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грддба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>безобразие, уродство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 698; RJA III, 403—404: с X V в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdoba</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrdoba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордость , елвц. стар, hrdoba ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 488)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 523)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrdoba</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гор- дость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hordoba</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гордость, тщеславие, упрямство .—Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>grdoby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безобразный, противный ; дальнейшими производными от той же основы, возможно, яв­ ляются</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 150)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гордыбака</ref> м. и ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордый человек, лю­ бящий похвастаться (влад., тамб., курск., костр., каз., тул.), человек, любящий кричать, спорить (курск., тамб., калуж., пек.) , гордобачитъ, гордыбачитъ вести себя за­ носчиво, зазнаваться, упрямиться, важничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 28, там же ряд других значений)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-oba</ref>
+      </m> от прилаг. <ref type="etymon" target="gbrdb-3">*gbrdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

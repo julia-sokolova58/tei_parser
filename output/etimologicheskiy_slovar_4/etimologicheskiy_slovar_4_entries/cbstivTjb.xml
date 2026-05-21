@@ -1,0 +1,94 @@
+<Entry xml:id="cbstivTjb">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbstivT&gt;jb</orth>
+    <lemma>cbstivT&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dastiv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>святой, почтенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 912)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>почтительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cesciwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благоговейный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cesdiwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достопочтен­ ный, достойный уважения, честный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 126)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чьстивыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благочестивый (Остр, ев.), ласковый (Жит. Андр. Юр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1570—1571)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>честйвый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благочестивый, набожный, богобоязненный; кроткий, смиренный .—Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1326)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>castwec</ref>, род. п. -иса, м. р.</orth>
+      </form>
+      <sense>
+        <def>почитатель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -(1)иъ от гл.<ref type="etymon" target="cbstiti">*cbstiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

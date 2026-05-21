@@ -1,0 +1,105 @@
+<entries>
+  <entry xml:id="brzati" xml:id="brzati">
+    <pb n="135" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъrzati</orth>
+      <lemma>ЬъггаМ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>БРЗАТИ</ref> cito currere</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Miklosich L P 45)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бързам</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>спешить, торопиться, быстро идти</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>брза</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>торо­ питься</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>брзати</ref> то же, также брзати се , bfzatl , бржати</orth>
+        </form>
+        <sense>
+          <def>спешить, торопиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(РСА 11, 156—157)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A I, 697)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PCA И, 154)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brzdtl</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>спешить . — Сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 6 8 )</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>бргати</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>спешить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(PCA II, 134)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>verb</pos>
+      <gram>Гл. на <m type="suffix">
+          <ref>-ati</ref>
+        </m>, 
+производный от прилаг. <ref type="etymon" target="bbrzb">*bbrzb</ref> 
+(см.). 
+bbrzdica: сербохорв. брздйца 
+ж. 
+р. 'стремнина, быстрый ток воды' 
+(PCA II, 157), brzdlca 
+ж. р. (с пометой «только у Вука», R J A I, 
+695). 
+"Производное с суфф. -ica от основы прилаг. <ref type="etymon" target="bbrzdb">*bbrzdb</ref> 
+(см.); суб­
+стантивация.</gram>
+    </gramGrp>
+    <note>Ценно ввиду отсутствия прямых 
+продолжений пра­
+слав. *bbrzdb 
+в сербохорв.</note>
+  </entry>
+</entries>

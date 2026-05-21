@@ -1,0 +1,191 @@
+<Entry xml:id="cistiti">
+  <pb n="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cistiti</orth>
+    <lemma>cistiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чиггити</ref> xa&amp;atpetv, purgare</orth>
+      </form>
+      <sense>
+        <def>чистить, очищать (Супр., Mik]., Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чистя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, истреблять, уничтожать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чисти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить; очищать; убирать (мусор)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чйстити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить; мести, подметать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бук; RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cistiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, очищать, прорежать (лес), оскоплять, кастрировать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cistiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, очищать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cistiV</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cisdic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, очищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cyscis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очищать, чистить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>caiste</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>(он) чистит J</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaaski — Sehnert 45, с реконструкцией *cisti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czyscic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, очищать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>clsclc</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>чйстити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очищать , восстановлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ирм. ок. 1250 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. гр. Дм. Ив. 1372 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский III, 1529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чистить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удалять грязь с кого-, чего-н., делать чистым кого-, что-н., очищать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чйстити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить, бить, колотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 464)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чысцщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чистить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="cistb-2">*cistb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

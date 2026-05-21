@@ -1,0 +1,311 @@
+<Entry xml:id="bidlo">
+  <pb n="94" end_page="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bidlo</orth>
+    <lemma>bidlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>било</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гребень горы, горный хребет, коцек крыши</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров также: 'маковица, маковка; овершье (о копне)')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>конек, верхняя продольная балка крыши (Търновско; с. Бабово, Русенско; Каменица, Кюстендилско. — Архив Болг. диал. словаря, София), вершина горы, холма, конек крыши, верхушка копны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гребень горы, конек крыши, балка, отделяющая жилую часть сельского дома от помещения для скота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>крыша, перекрытие , также в роли географи­ ческого термина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Ристовски. Зборови од Тиквешко. — MJ II, 1951, 117)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Кумановскиот говор 250)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>било</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горный хребет с отрогами, перекладина грабель, артерия, клепало</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>конек крыши , часть бороны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mic 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ы1о</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>артерия, механизм боя (часов)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bilo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть ткацкого станка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(L. Bezlaj-Krever. Slovenska tkalska terminologija. — JiS XIII, 1968, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bidlo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вешалка для одежды, vesti- bula, fulcra, sustentaculum, partica, lectrum, plectrum (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жердь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>жердь, насест, набилки, часть ткацкого станка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 92)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bidld</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>набилки , bilo , сюда же, видимо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bidmo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>(дверной) •bidlo косяк, снабилки (в ткацком станке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jakubas 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bidlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>бердо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>bidlo</ref> сбрус в бороне, уса­ женный гвоздями</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1470 г., St. stpol. I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bjidle</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>круглый брусок в санях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>било</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>доска, в которую били для созывания в церковь или в тра­ пезу (Пат. Сип. XI в.), ударяющее орудие, TrX^xxpov,, plectrum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 86—87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>било</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пест , облучок в санях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(влад., Наумов 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>было</ref> ср. р. , било</orth>
+      </form>
+      <sense>
+        <def>молоток, которым натягивают струны , доска для оглашения молитв и для прочих надобностей в монастырях</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Если треба що в кухни, то въ едно было бьютъ, если до пекарне, то въ иншое было бьютъ. — Тимченко I, 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бер. Леке. 210 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>било</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>доска, употребляемая вместо колокола в монастырях; то же, что кле­ пало, крылья или отводы в санях, предназначенные для того, чтобы сани не опрокидывались (Сумск. у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>было</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>верхняя перекладина в ткацком станке, в решет­ чатой спинке кровати, в воротах, продольное боковое бревно в дверях от сарая, скрепляющее другие части дверей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфическая лексика Дрогичинского По­ лесья. «Лексика Полесья». М., 1968, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бгла</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>било</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>бгла</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>в самодельной мялке трехгранная гладковыстро- ганная подвижная палка, при помощи которой мнут, треплют стебли пеньки, конопли . — Сюда же, с введением тематического -а-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка. Мсщсл. 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бияло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пест, которым толкут соль или перец (Ятрос, Визенско), биало ср. р. палка, которой обивают кукурузу (Орханийско) (Арх. Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bijdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>механизм боя (в ча­ сах), bijala мн. набилки в ткацком станке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>biwalo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>набилки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Fapke ZfS V, 1960, 520)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от основы гл. <ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Поскольку праслав. * bidlo, по всей вероятности, продолжает более древнюю форму (см. ниже), уместнее говорить о соотносительности * bidlo и *biti на слав, почве. Имя *bidlo было широко употреблено в слав, ткаческой терминологии, но это уже вторичный факт, о чем гово­ рят родственные связи праслав. * bidlo &lt; *bitlo с нидерл. beitel 'резец, долото, зубило', ср.-в.-нем. beitel 'клин', норв. диал. beitel 'долото, зубило', греч. (с иным плавным в суфф.) cptxpog 'ствол, пень, обрубок'. См. Трубачев. Ремесленная терминоло­ гия 26, 130—132; он же «Этимология» (М., 1963) 46; Machek 32 (с неоправданным разграничением знач. 'набилки' и прочих, неткаческих значений; Machek LP 7, 1959, 303; Ж. Ж. Варбот. Древнерусское именное словообразование. М., 1969, 87, 123 (обращается специальное внимание на присоединение суфф. -dlo к корню, а не к расширенной, тематической основе, как в ряде других случаев). См. еще Sadnik—Aitzetmuller. Vgl. Wb. 5, 314-315.</note>
+</Entry>

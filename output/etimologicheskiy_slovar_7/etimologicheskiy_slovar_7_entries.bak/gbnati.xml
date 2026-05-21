@@ -1,0 +1,322 @@
+<Entry xml:id="gbnati">
+  <pb n="195" end_page="196" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbnati</orth>
+    <lemma>gbnati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>zenq</orth>
+    <lemma>zenq</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гъылти</ref>, жбылч eXaoveiv, Sidixeiv, pellere, perse- qui</orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гоня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать &gt;</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: гбнж)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гъна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заставлять, принуждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж.—БД I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гнати</ref>, жёнём</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>ренем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 380; RJA III, 213—214)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gndti</ref>, zenem</orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>ndtb</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бодуэн де Куртенэ. Терские славяне север. Италии. г. Словар. материал. Архив АН СССР, ф. 102, on. 1, № И , л. 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hndti</ref>, zenu</orth>
+      </form>
+      <sense>
+        <def>гнать, приводить в движение, заставлять, принуждать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnaf</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 489)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hnac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gnas</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>zine</ref> 3 л. ед. ч. наст,</orth>
+      </form>
+      <sense>
+        <def>го­ нит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski — Sehnert 183, с реконструкцией *zene)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gnac</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(St. stpol. И, 434)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gnac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gnad</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Tomasz. top. 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gndc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. I, 281)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гънати</ref>, женН</orth>
+      </form>
+      <sense>
+        <def>гнать , преследовать, гнаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в.; Гр. Наз. XI в. 1; Феод. Студ. Ост. 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мр. I. 36. Остр, ев.; Р. Прав. — по Тр. сп.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 612—613)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гнать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заставлять двигаться в каком-либо направлении</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гнать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>портить , гнать гнаться за кем-либо, преследовать (орл., смол., самар., дон., астрах., терск., арх., олон., перм., вят.), при­ водить в движение (Лит. ССР)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шълкапрят деривъ гонит, листья съидаит. Словарь говоров Подмосковья 83)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гнати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать, погонять, гнать, прогонять, быстро бежать, ехать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гнаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Родственно др.-инд. hdnti 'бить, убивать', авест. jainti, греч. Gsivo) 'бить' *Gevi(o), лит. genu, ginti 'гнать, выгонять (скот)', ginu, ginti 'защищать, оборонять', лтш. dzlt, dzenu 'гнать, пре­ следовать, прогонять', др.-прусск. guntwei 'гнать', хетт, киеп-, кап- 'бить, убивать', лат. de-fendere 'защищать, оборонять', арм. gan-el 'бить палкой', др.-исл. gunnr 'битва, бой', тохар. А кипас 'спор, ссора, битва'. На основе этих свидетельств восстанавли­ вается праформа и.-е. *g^hen-j* ghun- (с лабиовелярным задненеб­ ным и с вокализацией лабиального элемента ц-^и). Важно отме­ тить, что в слав, сохранились обе эти ступени: и.-е. *g-hen-^&gt; *zenq (основа наст, вр.) и и.-е. *ghun- &gt; *gbnati (ср. с последним специально хетт, кип-, др.-прусск. guntwei, др.-исл. gunnr, тохар. А кипас). Считать вокализм * gbnati обычной редукционной сту­ пенью от *zenq, *g~hen- вряд ли правильно, в этом случае ожи­ далось бы *zbn-, ср. родственное *zeti,<xr type="compare">см. <ref type="etymon" target="2pd">*2ьпд</ref>
+    </xr>, где эта сту­
+пень реально засвидетельствована. Упомянутые и.-е. 
+соответствия 
+вокализму * gbnati 
+позволяют рассматривать его как и.-е. реликт. 
+Давно отмеченное расхождение между 
+краткостным 
+вокализмом 
+корня и продленным вокализмом гласного исхода основы 
+*gbnati 
+следует 
+объяснять 
+вторичностью 
+этого 
+последнего 
+(*gbn-a-ti). 
+Первоначальный вид слав, инфинитива *gun-tei 
+был, т. 
+о., близок 
+др.-прусск. (выше), но такое звукосочетание не могло сохраниться.
+gbpanb 
+См. H. Hubschmann 
+KZ XXIII, 
+1877, 24; A. Meillet MSL 14, 
+1907, 365; он же BSL 
+24, 
+1924, 
+145; Г. 
+Ильинский 
+«Jagic-
+Festschrift» 295—297 (членит *gb-na-ti, 
+относя к лит. gduti, 
+gd-
+unu 'получать, приобретать'); К. Ostir. Gbnati.— 
+AfslPh 
+XXXIV, 
+1912, 
+126—129 
+(критика 
+Ильинского 
+и попытка связать -ъ-
+в ^g^ati 
+с лабиовелярной артикуляцией и.-е. *g~hen-); Преобр. I, 
+130 (вслед за Вондраком 
+реконструирует 
+малореальную 
+форму 
+*gnnati); 
+L. A. Bulachovskij RES VIII, 1928, 77 (полагает, что 
+форма 
+*gwati 
+явилась 
+новой 
+(!) 
+заменой 
+соответствия 
+лит. 
+ginti, 
+лтш. dzlt); 
+Mikkola. 
+Urslavische 
+Grammatik 
+I, 
+100—101 
+(вокализм in, un в балт. и слав, считает редукционной ступенью); 
+Trautmann BSW 85; Е. 
+Н. Sturtevant «Language» 6, 1930, 222; 
+Vaillant. 
+Gramm. 
+сошрагёе 
+I, 
+(справедливо 
+видит в слав, 
+формах продолжение и.-е. чередования *ghwen-: *ghun-); Фасмер I, 
+419; Walde —Hofm. I, 332—333; Fraenkel I, 152—153; SJawski I, 
+299; В. Георгиев ВЯ 
+1958, № 6, 9; J. Safarewicz «Studia lin-
+guistica in honorem Th. Lehr-Splawinski» 134; Machek
+171 (счи­
+тает gbn- 
+ступенью редукции, допуская, что ъ — результат влия­
+ния первонач. лабиовелярного, <xr type="compare">ср. <ref type="etymon" target="zero">*zero</ref>
+    </xr>, 
+но 
+*gwdlo).</note>
+</Entry>

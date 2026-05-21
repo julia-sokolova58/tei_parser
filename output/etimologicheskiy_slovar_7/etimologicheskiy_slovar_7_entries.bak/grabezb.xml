@@ -1,0 +1,118 @@
+<Entry xml:id="grabezb">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grabezb</orth>
+    <lemma>grabezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грабёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грабеж, награбленное, добыча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грабеж</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грабеж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гра­ беж, ограбление, также то, чем грабят</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grabez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>алчный, жадный человек, грабитель, грабеж, ограбление, грабли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 242)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grabiez</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грабеж, ограбление, награбленное, добыча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 893; Dorosz. II, 1268)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грабежь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>отнятие силой чужой собственности , вид наказания (Р. Прав. — по Тр. сп.), пограбленное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под г.; Дог. гр. Дм. Ив. 1375 г.; Дог. гр. в. к. Мих. Ал. с Новг. 1375)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Никон, л. II. 355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 573— 5^4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грабёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насильственный захват чужого иму­ щества, чужих владений, (устар.) награбленное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грабёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сгребание (сена) , ср. еще грабежа ж. р. большая верша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Филин 7, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грабгж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грабеж, ограбление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 320)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ср., далее, Г. А. Ильинский.</note>
+  <gramGrp>
+    <gram>Суффикс oz/ez/ъг в славян­ ских языках. — ИОРЯС XVI, 1912, 15—16. блр. грабёж, м. р. грабеж, ограбление, ср. сюда же производное Грабяжбу, фам. , Имя действия, производное с суф.<m type="suffix">
+        <ref>-е1ъ</ref>
+      </m> от гл. на- iti <ref type="etymon" target="grabiti">*grabiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

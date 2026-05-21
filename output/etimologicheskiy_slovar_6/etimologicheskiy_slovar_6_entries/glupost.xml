@@ -1,0 +1,156 @@
+<Entry xml:id="glupost">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupostь</orth>
+    <lemma>glupostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>глоупость</ref> ж. p. stultitia</orth>
+      </form>
+      <sense>
+        <def>глупость, неразумность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глупость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глупост</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>glupost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость , глупост, глупост ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA III, 210)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA III, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glupost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость, глухота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hloupost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hluposV</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 485—486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hluposc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gluposc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глу­ пость, тупоумие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gtupos</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>d ж. р. глупость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 853)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свойство глу­ пого, глупый поступок, речь, дело</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 882)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глу</ref>­ пость ж. р.</orth>
+      </form>
+      <sense>
+        <def>незначительное, небольшое количество чего-либо; пустяк, безделица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Латв. ССР, Эст. ССР, Филин 6, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глупасъ</ref>: самая глупась</orth>
+      </form>
+      <sense>
+        <def>полночь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сержпутовский, Чу- дина 48)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="glupb-5">*glupb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

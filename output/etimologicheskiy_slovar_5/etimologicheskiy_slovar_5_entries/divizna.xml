@@ -1,0 +1,73 @@
+<Entry xml:id="divizna">
+  <pb n="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divizna</orth>
+    <lemma>divizna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>divizma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Verbascum thapsus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 421)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дивйзна</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дивйзма</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>полевая трава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Маринов. Думи и фрази из Западна България. СбНУ XII, 1895, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>divizna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>название растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>divizna</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 242)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. стар, <ref>divizna</ref> ж. p. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 270)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-izna</ref>
+      </m> от основы <ref type="etymon" target="divb-2">*divb</ref> (см.), ср. <ref type="etymon" target="divina">*divina</ref> 
+(особенно — сербохорв., 
+русск. и укр. соответствия в близких 
+знач-ях).</gram>
+  </gramGrp>
+  <note>Сближения с дакским названием того же растения Steaejxa Verbascum (Диоскурид), якобы из " *diues-eusmn 'жар неба', малонадежны. См. Георгиев БЕР V, 385; К." Moszynski JP XXXIII, 1953, 361—362; Machek 2 119: «Slovo malo jasne».</note>
+</Entry>

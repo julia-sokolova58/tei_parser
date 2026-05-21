@@ -1,0 +1,130 @@
+<Entry xml:id="gorblivijb">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorblivi»(jb)</orth>
+    <lemma>gorblivi»(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гурлйв</ref>, прилаг.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ангелина му позна пръстен, па го възвёди горе в сббата, па му свари гурлйво кавё...—гр. Ловеч, СбНУ XLIII, 542. Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>горливу</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>горючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдрл</ref>&gt;ив, -а, -о</orth>
+      </form>
+      <sense>
+        <def>горючий, горячий, пылкий, беззаветный, вспыльчивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 487; RJA III, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gorlfw</ref>, -iva, прилаг.</orth>
+      </form>
+      <sense>
+        <def>горю­ чий, ревностный, пылкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>horlivyy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>усердный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>horliuy</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 509)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horliwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горячий, усердный, страстный; ревнивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gorliwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>усердный, заботливый, ревностный , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gorliwy</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Н. Gornowicz. Dialekt malborski II, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gerldvi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ревностный; горячий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горлйвый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>искренний, усердный, пре­ данный, горячий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Быецький—Носенко 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ъИиъ</ref>
+      </m>&gt; соотносительное с гл. <ref type="etymon" target="go-">*go-</ref>
+reti 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,121 @@
+<Entry xml:id="grobisce">
+  <pb n="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grobisce</orth>
+    <lemma>grobisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^обифб ср. p. fxviqAelov, sepulcrum</orth>
+      </form>
+      <sense>
+        <def>кладбище, могила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., As., Вост., MikL, Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. (<ref>Дювернуа</ref>) гробиште ср. р.</orth>
+      </form>
+      <sense>
+        <def>могила, грббище ср. р. кладбище , грббища мн. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гробиште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И. К. Бунина. Словарь говора ольшанских болгар.—Статьи и материалы по болг. диалектологии СССР 5, 1954, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гро</ref>- бишта мн.</orth>
+      </form>
+      <sense>
+        <def>кладбище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гробиште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>клад­ бище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 656)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grobisce</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>hrobiste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>место погребения</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grobiszcze</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>могила, могильный холм</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 907)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>гробище</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>могила, место гробов, кладбище , могила; гробница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Прол. XIII в. 163; Никон. Панд. сл. 45; Жит. Петр. Гал. Мин. Чет. февр. 256, Срезневский 1, 593)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Патерик Син. 381, XI—XII вв., СлРЯ XI—XVII вв. 4, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гробище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кладбище; место погребенья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бшецький-Носенко. Словник укра- шсько1 мови 107)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное (название места) с суф. -isce от ^grc-Ъъ (см.).</note>
+</Entry>

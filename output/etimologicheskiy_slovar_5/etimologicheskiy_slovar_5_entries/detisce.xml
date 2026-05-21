@@ -1,0 +1,101 @@
+<Entry xml:id="detisce">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕtišče</orth>
+    <lemma>dĕtišče</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>детище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>большой и неприятный ребенок 7</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>детйшти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>человек, впадающий в детство (с. Кра- молин, Севлиевско, дин. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>де</ref>- тиште ср. р., увелич. от дете</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дётиште</ref>, dje- тиште ср. р., уничиж. от дете</orth>
+      </form>
+      <sense>
+        <def>ребенок , с пере­ водом в другую основу —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>detiste</ref>, род. п. -ete, ср. р.</orth>
+      </form>
+      <sense>
+        <def>дитя, ребенок, елвц. detiskd мн. ч. ср. р. скверные, непослуш­ ные дети</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дЪтище</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дитя , также производ­ ное дЪтищина дитя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Фил. — Переясл. л. 22, Срезневский I, 796)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Прол. XV в., Срезневский I, 796)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>детище</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>усыновленный ребенок, приемыш (моек., нижнедонск.), родной ребенок (арх., пек.) .—Ср, производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>detlscnica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>детский приют</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> от <ref type="etymon" target="detb">*detb</ref> (см. <ref type="etymon" target="dete">*dete)</ref>, <ref type="etymon" target="deti">*deti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

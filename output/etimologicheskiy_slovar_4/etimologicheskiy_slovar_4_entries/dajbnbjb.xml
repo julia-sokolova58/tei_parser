@@ -1,0 +1,38 @@
+<Entry xml:id="dajbnbjb">
+  <pb n="184" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dajbnbjb</orth>
+    <lemma>dajbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dafny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>щедрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dajn</ref>\ прилаг. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 18)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суфф.<m type="suffix">
+        <ref>-ъпъу</ref>
+      </m> 
+производное от основы инф. 
+<ref type="etymon" target="dajati">*dajati</ref> 
+(см.) или наст. вр. <ref type="etymon" target="dajg-2">*dajg</ref>.</gram>
+  </gramGrp>
+</Entry>

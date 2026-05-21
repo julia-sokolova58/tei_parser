@@ -1,0 +1,118 @@
+<Entry xml:id="gatjnik">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gatjьnikъ</orth>
+    <lemma>gatjьnikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гащник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ремешок или тесемка, стягивающая штаны , гачник м. р. то же , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гашник</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с. Иваняне, Софийско, дип. раб., Архив Со- фийск. ун-та; М. Младенов БД III, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гакник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пояс, шнурок у штанов, гашник м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гаНнйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>веревочка, тесемка, стягивающая штаны , также гатнмк м. р. (Вук Карапип), гактъйк м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 214)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gacnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тесемка у штанов , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hacnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пояс</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>gacnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>набедренный пояс</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1437 г., SL stpol. И, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гас</ref>- ник, гашник</orth>
+      </form>
+      <sense>
+        <def>втягиваемая в верхний край крестьянских портов тесьма или шнурок с завязываемыми спереди концами , агашник то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвы- соцкий 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 4)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гачник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>очкур, тесемка, стягивающая штаны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(угор., Гринченко 1,277)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. 4къ от прилаг.<ref type="etymon" target="gatjbnb">*gatjbnb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

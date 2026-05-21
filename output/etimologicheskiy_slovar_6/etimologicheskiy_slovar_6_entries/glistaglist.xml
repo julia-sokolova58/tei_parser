@@ -1,0 +1,219 @@
+<Entry xml:id="glistaglist">
+  <pb n="128" end_page="129" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glista/*glistъ</orth>
+    <lemma>glista/*glistъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>glistb</orth>
+    <lemma>glistb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глист</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>земляной, дождевой червь, глист</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глиста</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дождевой червь , глиста земляной червь , глйстъ ж. р. червь , глистой ж. р. дождевой червь, кишечная глиста , глисты ж. р. дождевой червь Lumbricus terrestris, глистйы ж. р. глист , глистййъ ж. р. дождевой червь, глиста , глис м. р. земляной червь , дождевой червь ( с Каспичан, Коларовградско. — Дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Го- ворът на Ново село, Видинско 217)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 76)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 296)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ко- вачев. Севлиевско. — БД V, 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Ка- занлъшко. — БД V, 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глиста</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глист, дождевой червь , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>glista/*glistъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>земляной червь , глиец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda-Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тиквешко, К. Пеев. За македонската диалектна лексика. — MJ X X I , 1970, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глиста</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глиста, дождевой червь, глист м. р. глиста , glista, gljista , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 350)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Term, rib. 95, 96)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gljista</ref> , глйстра ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Nk. 274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 351)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glista/*glistъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глиста, дождевой червь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 217; Slovar sloven, jezika I, 698)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>chlist</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>глиста</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 538)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlista</ref>, hlista ж. p., Mist, Mist</orth>
+      </form>
+      <sense>
+        <def>м. p. глиста, дождевой червь , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 690—691)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Mista ж. p. (Bartos. Slov. 96; Malina. Mistf. 31; Gregor. Slov. slavk.- bucov. 60), chlesta ж. p. (Bartos. Slov. 117: Zabfezsko), Mesta (Kott. Dod. k Bart. 28), Mista ж. p. (Sverak. Boskov. I l l ) , cMista (Hosek. Ceskomorav. I, 96), сюда же cMista ж. p. 'изжога' (Jung­ mann I, 803; Kott I, 528), слвц. Mista ж. p. 'глиста', 'дождевой червь' (SSJ I, 483), диал. hVista ж. p. 'дождевой червь' (Ma- tejcik. Vychodonovohrad. 212), в.-луж. hlista ж. p. 'глиста' (Pfuhl 206), н.-луж. glista, glistwa ж. p. 'глиста круглая Ascaris lumbri- coides L.' (Muka SI. I, 273), полаб. glaista (glaist?) ж. p. (м. p.) 'червь' (Polanski—Sehnert 64, с реконструкцией *glista, *glisfo?), польск. glista ж. p. 'глиста', 'дождевой червь' (Dorosz. II, 1142), диал. glizda, glizdra ж. p. то же (Warsz. I, 836; Maciejewski. Chetm.-dobrz. 59), gVizda ж. p. 'дождевой червь', 'глиста' (Olesch, S. Annaberg 60), glizda ж. p. 'глиста у человека' (Gor- nowicz. SJownik malborski II, 110), словин. glistva ж. p. 'глиста' (Lorentz Slovinz. Wb. I, 275; AJKIV, I, 25: glizda, glizd, glistwa, glistew 'дождевой червь'), русск. глиста ж. р., глист м. р. 'пара­ зитический червь, живущий в кишках и других внутренних орга­ нах животных и человека', диал. глисты мн. ч. 'дождевые или навозные черви' (терск., астрах., сарат., новг., волог., ленингр., влад.-костр., нижегор., олон., тамб., донск., Филин 6, 198— 199), глист м. р. 'глист, дождевой червь' (Деулинский сло­ варь 112), глист 'червяк (дождевой)' (Картотека Новгородского ГПИ), глиства ж. р., собир. 'черви для ужения рыбы' (моек., Филин 6, 198), глисть м. р. 'дождевой или навозный червяк (новг., Филин 6, 199), глизда ж. р. 'глиста' (енис, арх., олон., ленингр., Филин 6, 197), глизда ж. р. 'глиста' (арх., Филин 6, 223), глизд м. р. 'червь; глист' (новг., Филин 6, 197), укр. глиста ж. р. 'глист', 'дождевой червь Lumbricus terrestris' (Гринченко I, 289), глист м. р. 'глиста' (там же), блр. глгет м. р. 'глист'. Родственно *glёvъ,<xr type="compare">см. <ref type="etymon" target="glbjb">*glbjb</ref>
+    </xr>; подобно ; подобно ; подобно ; подобно <xr type="compare">см. <ref type="etymon" target="gletavb">*gletavb</ref>
+    </xr> *glista, 
+видимо, продолжает дослав, дентальное расширение этого корня, 
+но с другой ступенью корневого вокализма *glit-ta &lt; *glit- I 
+*gleit-, ср. греч. y / a x x o v 
+yXoiov (Гесихий), лат. glittus 
+'клейкий', 
+glis i glitis 'humus tenax', gluten, glus I glutis 'клей', лит. glitus 
+'скользкий'. См. Berneker I, 304; Фасмер I, 413; Slawski I, 284— 
+285; Младенов ЕПР 101; Георгиев ВЕР IV, 249. Природа суф­
+фиксального -tt- в греч. y X i r t o v , лат. glittus иногда объясняется 
+как экспрессивная геминация (см. Frisk I, 313), что наводит на 
+мысль о сходной природе также слав. *glista &lt; *glitta со слав, 
+результатом 
+-.9^- &lt; -tt-, 
+ср. аналогичное происхождение слав. 
+*gyzd-, 
+*gvazd-. 
+Сближение со ср,-в.-нем. klister 'клейкое вещество, растение* 
+(Berneker, там же) возможно лишь при условии изначальности 
+формы суфф. -st- в слав, слове. *glista, 
+видимо, продолжает дослав, дентальное расширение этого корня, 
+но с другой ступенью корневого вокализма *glit-ta &lt; *glit- I 
+*gleit-, ср. греч. y / a x x o v 
+yXoiov (Гесихий), лат. glittus 
+'клейкий', 
+glis i glitis 'humus tenax', gluten, glus I glutis 'клей', лит. glitus 
+'скользкий'. См. Berneker I, 304; Фасмер I, 413; Slawski I, 284— 
+285; Младенов ЕПР 101; Георгиев ВЕР IV, 249. Природа суф­
+фиксального -tt- в греч. y X i r t o v , лат. glittus иногда объясняется 
+как экспрессивная геминация (см. Frisk I, 313), что наводит на 
+мысль о сходной природе также слав. *glista &lt; *glitta со слав, 
+результатом 
+-.9^- &lt; -tt-, 
+ср. аналогичное происхождение слав. 
+*gyzd-, 
+*gvazd-. 
+Сближение со ср,-в.-нем. klister 'клейкое вещество, растение* 
+(Berneker, там же) возможно лишь при условии изначальности 
+формы суфф. -st- в слав, слове. *glista, 
+видимо, продолжает дослав, дентальное расширение этого корня, 
+но с другой ступенью корневого вокализма *glit-ta &lt; *glit- I 
+*gleit-, ср. греч. y / a x x o v 
+yXoiov (Гесихий), лат. glittus 
+'клейкий', 
+glis i glitis 'humus tenax', gluten, glus I glutis 'клей', лит. glitus 
+'скользкий'. См. Berneker I, 304; Фасмер I, 413; Slawski I, 284— 
+285; Младенов ЕПР 101; Георгиев ВЕР IV, 249. Природа суф­
+фиксального -tt- в греч. y X i r t o v , лат. glittus иногда объясняется 
+как экспрессивная геминация (см. Frisk I, 313), что наводит на 
+мысль о сходной природе также слав. *glista &lt; *glitta со слав, 
+результатом 
+-.9^- &lt; -tt-, 
+ср. аналогичное происхождение слав. 
+*gyzd-, 
+*gvazd-. 
+Сближение со ср,-в.-нем. klister 'клейкое вещество, растение* 
+(Berneker, там же) возможно лишь при условии изначальности 
+формы суфф. -st- в слав, слове. *glista, 
+видимо, продолжает дослав, дентальное расширение этого корня, 
+но с другой ступенью корневого вокализма *glit-ta &lt; *glit- I 
+*gleit-, ср. греч. y / a x x o v 
+yXoiov (Гесихий), лат. glittus 
+'клейкий', 
+glis i glitis 'humus tenax', gluten, glus I glutis 'клей', лит. glitus 
+'скользкий'. См. Berneker I, 304; Фасмер I, 413; Slawski I, 284— 
+285; Младенов ЕПР 101; Георгиев ВЕР IV, 249. Природа суф­
+фиксального -tt- в греч. y X i r t o v , лат. glittus иногда объясняется 
+как экспрессивная геминация (см. Frisk I, 313), что наводит на 
+мысль о сходной природе также слав. *glista &lt; *glitta со слав, 
+результатом 
+-.9^- &lt; -tt-, 
+ср. аналогичное происхождение слав. 
+*gyzd-, 
+*gvazd-. 
+Сближение со ср,-в.-нем. klister 'клейкое вещество, растение* 
+(Berneker, там же) возможно лишь при условии изначальности 
+формы суфф. -st- в слав, слове.</note>
+</Entry>

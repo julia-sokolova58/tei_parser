@@ -1,0 +1,99 @@
+<Entry xml:id="estejaestje">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕstĕja, *ĕstьje</orth>
+    <lemma>ĕstĕja, *ĕstьje</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>estbje</orth>
+    <lemma>estbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>vesteje</ref> мн. ж. р.</orth>
+      </form>
+      <sense>
+        <def>устье печи jistje ср. p. , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. II, 763)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>isteje</ref> мн. , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bezlaj. Etim. slovar. Poskusni zvezek. 15—16, там же и другие варианты)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>niesteje</ref> ж. p., nistej</orth>
+      </form>
+      <sense>
+        <def>открытый очаг, отверстие, устье печи, печь, горн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Starocesky slovnik 7, 931—932, с ри­ сунком реалии)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>nistej</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>очаг, устье печи, под печи</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>nistej</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>под доменной печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ II, 381)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>nest</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>очаг, печь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 418)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jesda</ref> мн. ср. р., также jescija мн. ср. р., редк. jesde ср. p., jestije ср. р.</orth>
+      </form>
+      <sense>
+        <def>устье, жерло печи, очаг, под</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 546)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-eja</ref>
+      </m>, <m type="suffix">
+        <ref>-bje</ref>
+      </m> от гл. <ref type="etymon" target="esti">*esti</ref> (см.) или, скорее, 
+соотносительное с последним, если возводить слав. <ref type="etymon" target="esteja">*ĕstĕja, *ĕstьje</ref>% 
+<ref type="etymon" target="estbje">*estbje</ref> 
+к и.-е. <ref type="etymon" target="ed-t-eiay">*ed-t-eiay</ref>
+      <ref type="etymon" target="ed-t-iom">*ed-t-iom</ref>.</gram>
+  </gramGrp>
+  <note>Возм., сюда же и нем. Esse 'горн, пла­ вильная печь', др.-в.-нем. essa, обычно объясняемое от и.-е. *as- 'жечь', ср. нем. Asche 'зола, пепел' (Kluge 2 0 175). Оформленный очаг, передняя часть, отверстие печи нередко обозначаются с по­ мощью н а з в а н и й рта, ч а с т и лица, ср. русск. устье, чело печи. Подробно см. Трубачев. Ремесленная терминология 317 и сл. Старое сближение с и.-е. *aidh-, греч. aiuco 'зажигать', др.- инд. edhas 'топливо, дрова', лат. aedes 'очаг' (F. Prusik KZ XXXIII, 1895, 159—160; А. Погодин РФВ XXXIII, 1895, 333—334; Ber­ neker I, 275—276; Bezlaj, там же, см. выше) представляется слишком умозрительным, как и сравнение с лит. iesme 'количе­ ство дров, необходимое для того, чтобы раз истопить печь', авест. aesma- 'топливо, дрова' (К. Буга РФВ LXVII, 1912, 238). Со­ мнительно и еще более старинное сближение (со времен Юнг- мана) с греч. eoxta 'очаг' (V. Machek LP 5, 1955, 59—61; Ма- v chek 2 399).</note>
+</Entry>

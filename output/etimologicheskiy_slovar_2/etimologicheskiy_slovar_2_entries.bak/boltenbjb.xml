@@ -1,0 +1,58 @@
+<Entry xml:id="boltenbjb">
+  <pb n="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boltenbjb</orth>
+    <lemma>boltenbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bldteny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бренный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(J. Pfibrama Knizky о zamiicenych velikych cierkve svate, 1490/1 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ыосапу</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотистый, илистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бо</ref>- лотяный, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Арх. ЮЗР I, X, 117 — 1596 г. и др., Тимченко I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болбтяний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>болотный, бо­ лотистый, грязный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ёп- от основы имени<ref type="etymon" target="bolto">*bolto</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

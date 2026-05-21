@@ -1,0 +1,131 @@
+<Entry xml:id="bodnqti">
+  <pb n="153" end_page="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bodnqti</orth>
+    <lemma>bodnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ббдна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть, боднуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бодне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>при­ шпорить (коня), поскакать (галопом), пуститься бежать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдднути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bodnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть, ударить острым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bzodnot</ref> то Же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bucov. 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bodniif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть, уколоть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bodnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уколоть, кольнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>buednoifc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, толкнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>боднуть</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>боднуты</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боднуть (рогами)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желеховский I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>баднуць</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, выражающий однократный способ действия; про­
+изводное от <ref type="etymon" target="bosti-13">*bosti</ref>, <ref type="etymon" target="bodg-7">*bodg</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

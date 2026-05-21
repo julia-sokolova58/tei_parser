@@ -1,0 +1,108 @@
+<Entry xml:id="grakb">
+  <pb n="101" end_page="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grakb</orth>
+    <lemma>grakb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>graka</orth>
+    <lemma>graka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>карканье, (птичий) крик , ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грака</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ворона</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>карканье, грай</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>карканье, крик , также грака ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 555)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; RJA III, 382: XVI в. и диал., Лика)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grdka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>какая-то птица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>grak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ворон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 898)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 321; Укр.-рос. словн. I, 358)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>грач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 82)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное производное от<ref type="etymon" target="grakati">*grakati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

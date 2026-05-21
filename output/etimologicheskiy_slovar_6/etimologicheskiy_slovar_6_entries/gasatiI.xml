@@ -1,0 +1,23 @@
+<Entry xml:id="gasatiI">
+  <pb n="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gasati I</orth>
+    <lemma>gasati I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гасати</ref>, гашЖ</orth>
+      </form>
+      <sense>
+        <def>exstingui, угасать, гаснуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 510)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив к<ref type="etymon" target="gasiti">*gasiti</ref>% <ref type="etymon" target="gasnqti">*gasnqti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

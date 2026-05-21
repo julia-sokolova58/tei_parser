@@ -1,0 +1,52 @@
+<Entry xml:id="gkou">
+  <pb n="128" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъгкоуъ]ь</orth>
+    <lemma>Ьъгкоуъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брков</ref>, -а, -о, прилаг. от брк</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА II, 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brkouy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>перьевой, сделанный из пера</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brkovy</ref>, прилаг.: brkove рего</orth>
+      </form>
+      <sense>
+        <def>маховое перо птицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>буркбви</ref>, -а, -э</orth>
+      </form>
+      <sense>
+        <def>курчавый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Из лексики полесского села Листвин. — «Лексика Полесья» 80)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. производное с суфф. -ои- от<ref type="etymon" target="gk-2">*Ьъгкъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

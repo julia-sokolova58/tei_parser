@@ -1,0 +1,32 @@
+<Entry xml:id="briscati">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>briscati</orth>
+    <lemma>briscati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brisceti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вытекать, брызгать, течь, бежать струй­ кой (z neho [с Христа] krev vsady bfisti. Postilla Jana Rokycany, XV в., Ст.-чеш., Прага), brisceti se порхать, взлетать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(brzisty- ezz [ie v horu jako vrabce. Kronika Trojanska, Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ей</ref>
+      </m>, производный от звукоподражат. 
+основы brisk- 
+(см. 
+<ref type="etymon" target="briskati">*briskati)</ref>.</gram>
+  </gramGrp>
+  <note>Ср. вар. со звонкой огласовкой<xr type="compare">см. <ref type="etymon" target="bryzdzati">*bryzdzati</ref>
+    </xr>.</note>
+</Entry>

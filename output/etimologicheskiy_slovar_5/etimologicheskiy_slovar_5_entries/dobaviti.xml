@@ -1,0 +1,101 @@
+<Entry xml:id="dobaviti">
+  <pb n="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobaviti</orth>
+    <lemma>dobaviti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добавя</ref>, добавям</orth>
+      </form>
+      <sense>
+        <def>добавлять, прибавлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Ге- ров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>добави</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достать, приобрести, поставлять, доставлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>добаЪ</ref>(м): волок го добаат сеното</orth>
+      </form>
+      <sense>
+        <def>вол достает сено</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Видоески. Поречкиот говор 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добавити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достать, добыть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>добавит</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobdoiti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 142, с пометой: «hs.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>добавить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прибавить не­ достающее, пополнить до какой-либо меры, предела или сверх чего- либо; дополнить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добавити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добавить, прибавить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 396)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>добавщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добавить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение приставки do- (см.<ref type="etymon" target="do-2">*do)</ref> и гл. <ref type="etymon" target="baviti">*baviti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

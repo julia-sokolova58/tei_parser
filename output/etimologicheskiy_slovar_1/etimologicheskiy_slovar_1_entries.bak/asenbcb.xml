@@ -1,0 +1,91 @@
+<Entry xml:id="asenbcb">
+  <pb n="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>asenbcb</orth>
+    <lemma>asenbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ясенец</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение Dictamnus Fraxinella</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jasenac</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>Dictamnus albus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I I в., R J A IV, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesenec</ref>, род. п. -пса м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Cytisus spinescens</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jesenec</ref>, род. п. -псе м. р.</orth>
+      </form>
+      <sense>
+        <def>название растения</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jasenc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ясеневый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I., 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ясенец</ref>, род. п. -нца, м. р.</orth>
+      </form>
+      <sense>
+        <def>многолетнее травянистое расте­ ние с перистыми листьями, как у ясеня</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ясенёцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Dictamnus fraxinella . Объединяемые заглав­ ным *asemcb формы могут быть в действительности разнородными по происхождению: с одной стороны, производное на -ъсъ от<xr type="compare">см. <ref type="etymon" target="a8ep">*а8епъ/ъ</ref>
+          </xr> с собирательным значениемясеневый лес (н.-луж.), с другой стороны — потенциальные терминологические кальки вроде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ясен-ец</ref>, ср. лат. jraxin-ella, букв,</orth>
+      </form>
+      <sense>
+        <def>маленький ясень</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Махек полагает, что чеш. jesenec 'растение Centaurea scabiosa' заимств. из польск. jasieniec, допуская одновременно происхож­ дение от прил. siny и контаминацию с jasny (см. Machek 176).</note>
+</Entry>

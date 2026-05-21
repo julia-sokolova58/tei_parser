@@ -1,0 +1,37 @@
+<Entry xml:id="bruzditi">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bruzditi</orth>
+    <lemma>bruzditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bruzdif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оговаривать, клеветать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бруздить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брюзжать, ворчать , бруздить врать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Д а л ь 3 I, 321; Филин 3, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>К предыдущему.</note>
+</Entry>

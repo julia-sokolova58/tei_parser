@@ -1,0 +1,54 @@
+<Entry xml:id="bukavica">
+  <pb n="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bukavica</orth>
+    <lemma>bukavica</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bukavbCb</orth>
+    <lemma>bukavbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>букавицаж</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>выпь-самка , букавац, букавац, род. п. -авца, м. р. выпь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 264)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>букавица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид лягушки Bombinator igneus, жерлянка огненная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тул., Филин 3, 262)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>букавща</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>оплеуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на -(a)v-ical-(a)v-bcb от гл.<ref type="etymon" target="bukati-7">*bukati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Об ономатопоэтической природе сербохорв. названия цтицы см. специально D. Borani6. Onomatopejske rijeui za zivotinje u slavenskim jezicima. — «Rad» 178, 1909, 12: nbukavac vifce «buh».. .»</note>
+</Entry>

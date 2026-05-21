@@ -1,0 +1,63 @@
+<Entry xml:id="bezkorenbnbjb">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezkorenbnbjb</orth>
+    <lemma>bezkorenbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёскорени</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>не имеющий корней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA I, 487)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezkofenny</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>не имеющий корней</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bezkorenny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>не имеющий корня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezkorzenny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>беско</ref>- ренъныи apptCoc, radicibus carens</orth>
+      </form>
+      <sense>
+        <def>не имеющий корней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Панд. Ант. XI в., Срезневский I, 73)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с помощью<ref type="etymon" target="bez-45">*bez</ref> (см.) и суффикса -ъп-
+от именной основы <ref type="etymon" target="koren-">*koren-</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

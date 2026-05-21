@@ -1,0 +1,34 @@
+<Entry xml:id="bavezb">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bavezb</orth>
+    <lemma>bavezb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бавёж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>промедление, задержка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бавеж</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное имя с суфф.<m type="suffix">
+        <ref>-ezb</ref>
+      </m> от гл. <ref type="etymon" target="baviti-2">*baviti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Не исклю­ чено позднее местное образование.</note>
+</Entry>

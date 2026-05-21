@@ -1,0 +1,50 @@
+<Entry xml:id="edsaeds">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕ(d)sa/*ĕ(d)sъ</orth>
+    <lemma>ĕ(d)sa/*ĕ(d)sъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>e(d)sb</orth>
+    <lemma>e(d)sb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>яса</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>перемена кушанья , яса перемена кушанья (калуж., Картотека Словаря рус­ ских народных говоров). — Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1582)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. редк. <ref>jes</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>яд, отрава, желчь , . Определенным подтверждением реальности существования заглавной формы *ё(d)sa может слу­ жить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 507—509)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 604: «Na dva mjesta u jednoga pisca cakavca XVI v., ali na obadva moze biti stamparska pogre§ka»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jesa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища , производ­ ное с суфф. -/- (*ё(d)s-j-a)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 628)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Может восходить к производному и.-е. *ed-s-a, ср. нем. Aas 'па­ даль' « ' п и щ а ' ) &lt;[ и.-е. *ed-so-m; близкое расширение ср. в лит. edesis 'корм'. См. R. Eckert ZfS XIX, 1974, 504; Kluge 2 0 1.</note>
+</Entry>

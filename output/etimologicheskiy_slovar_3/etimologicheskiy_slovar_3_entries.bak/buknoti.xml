@@ -1,0 +1,107 @@
+<entries>
+  <entry xml:id="buknoti" xml:id="buknoti">
+    <pb n="88" end_page="89" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*buknǫti</orth>
+      <lemma>buknqti</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>букна</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вспыхнуть</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Георгиев; Геров: букнть)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul" type="dialect">диал. <ref>букне</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>затопить, залить, вспыхнуть , букнъ быстро вырасти (о растении) , букна прогореть, разориться, обанкротиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(М. Младенов Б Д III, 43)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(С. Ковачев. Троян. Б Д IV, 192)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Стоиков. Банат. 145)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>букне</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пробиться, пойти в рост (о траве и т. п.), вспыхнуть, разразиться</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>букнути</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>про­ мычать, вспыхнуть, броситься, наброситься</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bukniti</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вспыхнуть, наброситься</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 70)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>букнуть</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>боцнуть, ударить</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(твер., Опыт 17)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bel">блр. <ref>букнуць</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>ударить лбом</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Носов. 38)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Гл. на -пд-tiy 
+соотносительный с 
+(см.), звукоподражат. 
+происхождения. Ср. также близкое <xr type="compare">см. <ref type="etymon" target="buxngti-2">*buxngti</ref>
+      </xr>.
+bukovb(jb).
+bukovb(jb).
+bukovb(jb).
+bukovb(jb)</note>
+  </entry>
+</entries>

@@ -1,0 +1,56 @@
+<Entry xml:id="galeb">
+  <pb n="91" end_page="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galębъ/ь</orth>
+    <lemma>galębъ/ь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>b</orth>
+    <lemma>b</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>галеб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>галеб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>водоплавающая птица, чайка Larus ridibundus L., галеб и ха¬ леб гоголь, белая чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ровинский 646)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>galeb</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чайка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 666)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>He вполне ясное этимологически, но, по-видимому, сткр. обра­ зование с суфф. -ф- (ср. апофонический вар. -ф- в ^galqbby см.) от к.<ref type="etymon" target="gal-y-2">*gal-y</ref> ср. <ref type="etymon" target="gafay">*gafay</ref>
+      <ref type="etymon" target="gotybb">*gotybb</ref> (см.). Ср. D. Borani6 «Rad» 178, 
+1909, 13 (считает звукоподражанием); Skok. Etim. rje6n. I, 546— 
+547 (омонимию с gal 'черный' считает случайной, обращает вни-
+<ref type="etymon" target="galica">* galica</ref> 
+мание на диал. варианты 
+с начальным к-; в целом происхожде­
+ние остается неясным).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,136 @@
+<Entry xml:id="dolbto">
+  <pb n="60" end_page="61" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dolbto</orth>
+    <lemma>dolbto</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>длатб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dlato</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>долото (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dldto</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dldto</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dluto</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dvoate</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>долото</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>плотничный инструмент для долбления (впрочем, русск. и др. вост.-слав, формы двусмыс­ ленны, поскольку могут восходить и к *delbto, см.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>долото</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 417)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дблата</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>долото . — Ср. сюда же преобразованные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некрага. 97)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ыбско ср. р. 'долото' (Pfuhl 27), н.-луж. blotko ср. р. 'долото, резец, зубило' (Muka St. I, 43). Форма с именным -о- вокализмом *dolbto представляется мор­ фологически более первоначальной, чем этимологически родствен­ ное<xr type="compare">см. <ref type="etymon" target="delbto">*delbto</ref>
+    </xr>, с инновационным вокализмом. О том же сви­
+детельствуют и 
+формы 
+других 
+языков: очевидно родственное 
+др.-прусск. dalptan 'пробой' и заимствованные из праслав. источ­
+ника фин. taltta, рум. dalta, алб. 
+dalte 
+'долото'., с инновационным вокализмом. О том же сви­
+детельствуют и 
+формы 
+других 
+языков: очевидно родственное 
+др.-прусск. dalptan 'пробой' и заимствованные из праслав. источ­
+ника фин. taltta, рум. dalta, алб. 
+dalte 
+'долото'., с инновационным вокализмом. О том же сви­
+детельствуют и 
+формы 
+других 
+языков: очевидно родственное 
+др.-прусск. dalptan 'пробой' и заимствованные из праслав. источ­
+ника фин. taltta, рум. dalta, алб. 
+dalte 
+'долото'., с инновационным вокализмом. О том же сви­
+детельствуют и 
+формы 
+других 
+языков: очевидно родственное 
+др.-прусск. dalptan 'пробой' и заимствованные из праслав. источ­
+ника фин. taltta, рум. dalta, алб. 
+dalte 
+'долото'.</note>
+  <gramGrp>
+    <gram>Производное с суфф. -to- от глаг. основы<ref type="etymon" target="dUb">*dUb</ref>~ (Мейе допускает существование 
+инф. <ref type="etymon" target="delbti-2">*delbti)</ref>.</gram>
+  </gramGrp>
+  <note>См. A. Meillet MSL 13, 1905, 241; он же MSL 14, 1907, 376; Berneker I, 208; Trautmann BSW 54; S. E. Mann «Language» 17, 1941, 17; P. Arumaa «Kratylos» III, 1958, 56 (о др.-прусск. dalptan &lt; *dolb-tlon); Stawski I, 148—149; Фасмер I, 526; В. И. Георгиев «Lingua viget. Comm?ntationes slavicae in hmo- rem V. Kiparsky» (Helsinki, 1965) 158.</note>
+</Entry>

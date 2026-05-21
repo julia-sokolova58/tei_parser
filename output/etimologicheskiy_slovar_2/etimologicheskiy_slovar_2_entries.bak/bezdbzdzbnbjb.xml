@@ -1,0 +1,57 @@
+<Entry xml:id="bezdbzdzbnbjb">
+  <pb n="24" end_page="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdbzdzbnb(jb)</orth>
+    <lemma>bezdbzdzbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бездъжден</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бездождный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: -дный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бёздаждан</ref>, -ж(д)на, -ж(д)но</orth>
+      </form>
+      <sense>
+        <def>недождливый, сухой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdezen</ref>, -znar прилаг.</orth>
+      </form>
+      <sense>
+        <def>недождливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezdestny</ref>
+        </orth>
+      </form>
+    </item>
+  </etym>
+  <note>прилаг. 'недождливый, засушливый', русск. бездождный 'не содержащий в себе, не приносящий дождя, лишенный дождей, сухой, о месте или поре' (Даль 3 I, 152), 'засушливый' (перм., Филин 2, 187). — Ср. еще русск. диал. бездбжжый, -ая, -ее 'бездождный' (перм., Филин 2, 188).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от сложения<ref type="etymon" target="bez-33">*bez</ref> (см.) и 
+<ref type="etymon" target="dbzdzb-2">*dbzdzb</ref> 
+(см.), или префиксально-суффиксальное образование с по­
+мощью <ref type="etymon" target="bez--2">*bez-</ref> и -ъп- от имени <ref type="etymon" target="dbzdzb-3">*dbzdzb</ref>.</gram>
+  </gramGrp>
+  <note>О цслав. Безд^жд^ы^ см. еще Meillet. Etudes II, 384.</note>
+</Entry>

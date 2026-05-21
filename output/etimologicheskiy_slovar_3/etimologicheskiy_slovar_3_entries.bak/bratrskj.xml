@@ -1,0 +1,68 @@
+<entries>
+  <entry xml:id="bratrskj" xml:id="bratrskj">
+    <pb n="7" end_page="8" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bratrьskъjъ</orth>
+      <lemma>bratrbskbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>brdtrski</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>братский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 52)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bratrsky</ref> прилаг.</orth>
+        </form>
+        <sense>
+          <def>братский</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>bratrski</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>братский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 45)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>braterski</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>братский</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Dorosz. I, 6 5 0 )</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. -bsk- от основы <ref type="etymon" target="bratn">*bratn</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>У к р . бра-
+тёрсъкий 
+то же (Гринченко I, 93), блр. братэрст, 
+очевидно, 
+заимств. из польск. <xr type="compare">Ср. <ref type="etymon" target="bratbskbjb">*bratbskbjb</ref>
+      </xr> 
+(см.). 
+(см.). 
+(см.). 
+(см.).</note>
+  </entry>
+</entries>

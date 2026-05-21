@@ -1,0 +1,29 @@
+<Entry xml:id="droxnoti">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drǫxnǫti</orth>
+    <lemma>drǫxnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>drpchnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть, увядать от старости (о цвете лица), drqchnqc дурнеть, приходить в упадок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 556)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ngti</ref>
+      </m>, производный от основы, представленной в 
+<ref type="etymon" target="drgxblb">*drgx(b)lb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

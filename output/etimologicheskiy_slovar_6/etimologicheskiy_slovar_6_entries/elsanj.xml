@@ -1,0 +1,48 @@
+<Entry xml:id="elsanj">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elьšanъ(jь)</orth>
+    <lemma>elьšanъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>олыианыи</ref>, прилаг. от ольха</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Лев. XXIII. 40 по сп. XIV в., Срезневский II, 664)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>олыианый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>цвета ольхи, желтобурый, особ, о птицах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 II, 1739)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>выъ</ref>- шаний</orth>
+      </form>
+      <sense>
+        <def>ольховый (Укр.-рос словн.). — Сюда же субстантивиро­ ванное производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. 1бшаница ж. р., <ref>местное</ref> название в Сербии.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ёпъ</ref>
+      </m> от <ref type="etymon" target="e1kha-2">*е1ьха</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

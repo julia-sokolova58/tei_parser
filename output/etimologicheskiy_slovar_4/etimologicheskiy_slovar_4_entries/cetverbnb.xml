@@ -1,0 +1,115 @@
+<Entry xml:id="cetverbnb">
+  <pb n="94" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetverbnb</orth>
+    <lemma>cetverbnb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetverbna</orth>
+    <lemma>cetverbna</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>четвбрен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>состоящий из че­ тырех частей, четырехкратный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 617)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>четвбрен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>тканый в четыре ниченки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 288)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>четворен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>четверной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cetveran</ref>, cet- verna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>четырехкратный , cetvornl, npniar. четверной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 10)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cetveren</ref>, -та, прилаг.</orth>
+      </form>
+      <sense>
+        <def>четырех­ кратный, четверной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctverny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>состоящий из четырех частей, четверной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 1223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четвер</ref>­ ной</orth>
+      </form>
+      <sense>
+        <def>вчетверэ больший , четверни ж. р. мн. ч. четверэньки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1331)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль IV, 1330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>четверня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>четверка , чётверень, род. п. -рня, м. р. одна часть распиленного начетверо древесного ствола</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 460)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сумск. у., Гринченко IV, 460)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Вторичное производное с суфф. -ьи- от<ref type="etymon" target="cetverb-2">*cetverb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,89 @@
+<Entry xml:id="curiti">
+  <pb n="133" end_page="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>curiti</orth>
+    <lemma>curiti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>curati</orth>
+    <lemma>curati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. обл. <ref>чуря</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, чадить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чурим</ref> коптить, дымить</orth>
+      </form>
+      <sense>
+        <def>(с. Церовица, Каменишко, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чури</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, дымиться, курить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чура</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Поречкиот г-р 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чурит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дымить, коптить , чурити то же , curiti коптить , ср. еще durati дуть, бредить .—Сюда же, с другой глагольной основой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Rs. 140)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA II, 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ч</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>урйё сохнуть, чахнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 303)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Связано чередованием первоначальных форм *keur&lt; *коиг- с<xr type="compare">см. <ref type="etymon" target="kuriti">*kuriti</ref>
+    </xr>. См. Младенов ЕПР 689; Л. В. Куркина «Этимоло­
+гия. 1971» (М., 1973) 59.</note>
+</Entry>

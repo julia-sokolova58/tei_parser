@@ -1,0 +1,139 @@
+<entries>
+  <entry xml:id="bcelnj" xml:id="bcelnj">
+    <pb n="107" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъčelьnъ(jь)</orth>
+      <lemma>Ьъсе1ьпъ(]ь)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>ъъчешлъ</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Miklosich L P 50; Восто- ков, 33)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>пчелен</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>пчелен</ref>, прилаг. то же</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>pcelan</ref>, pcelna, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчели­ ный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA IX, 728)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>cebelen</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 96)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. редк. <ref>vcelny</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный, елвц. vcelny, прилаг. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ V, 33)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>pszczelny</ref>, pszczolny</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">диал. <ref>pszczolny</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. V, 419)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. , <ref>бъчелъныи</ref>, бчелъныи, прилаг.</orth>
+        </form>
+        <sense>
+          <def>пчелиный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Пчел. И. публ. б., Срезневский III. Доп. 28 ;)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus">русск. <ref>пчельный</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>пчели­ ный . — Сюда же субстантивированное</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Даль 3 III, 1433)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>pszczelnia</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пчельник, пасека, растение Molucella</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. V, 419)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="dialect">чеш. диал. <ref>fcelna</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>пчельник, пасека (Sverak. Каг- lov. И З )</def>
+        </sense>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. <m type="suffix">
+          <ref>-ъпъ</ref>
+        </m> от <ref type="etymon" target="se1a">*Ьъсе1а</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

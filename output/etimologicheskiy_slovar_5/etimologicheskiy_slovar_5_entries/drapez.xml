@@ -1,0 +1,51 @@
+<Entry xml:id="drapez">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drapežь</orth>
+    <lemma>drapežь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drdpez</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>грабеж, разбой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott VI, 133: «в Силезии»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dfapiez</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>разбой, грабеж, хищный образ жизни , drapiez ж. р. грабеж, ограбление, награбленное . — Сюда же произ­ водный гл</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 551)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>драпежити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наказывать; грабить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Привил, влад. бояр, и мещ. смол. 1505 г., Срезневский I, 720)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя действия, производное с суфф.<m type="suffix">
+        <ref>-еЪъ</ref>
+      </m> от гл. <ref type="etymon" target="drapiti">*drapiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

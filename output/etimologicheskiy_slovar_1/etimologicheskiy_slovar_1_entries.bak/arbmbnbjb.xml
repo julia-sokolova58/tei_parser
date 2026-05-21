@@ -1,0 +1,47 @@
+<Entry xml:id="arbmbnbjb">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>arbmbnb(jb)</orth>
+    <lemma>arbmbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jarman</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>koji pripada j a r m u</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( с X I V — X V в.; Даничич: хлръмънъ, R J A IV, 472)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>хдръмънъш</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский III, 1665)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ярёмный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подъяремный, рабочий, впрягальный (скот, вол)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1576)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ьи- от<ref type="etymon" target="agt-2">*агътъ</ref> (см.) или <ref type="etymon" target="agypo">*агыпо</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

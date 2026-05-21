@@ -1,0 +1,133 @@
+<Entry xml:id="senpz">
+  <pb n="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬъсеНпъ(зь)</orth>
+    <lemma>ЬъсеНпъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>ъъчемнъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пчелиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 50; Восто- ков I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>пчелйн</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пчельник, пасека , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>пчелйн</ref> м. р. то же (с. Брусен, Тетевенско; Сев.-Зап. Бълга- рия; с. Радуил, Ихтиманско; Сев. България, Архив Болг. диал. словаря, София), ср. еще челйн</orth>
+      </form>
+      <sense>
+        <def>м. р. (Дава си Стойан, дава си Козите сас козарёте, челйно сас кошерёте. Заноге, Софийско, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>пчелйн</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>пчелиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>пчелйн</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вук, так же R J A I X , 729)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>veelin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пчельник, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>veelin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>деревянное строение для хранения ульев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ V, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>coliny</ref>, стар, pcoliny</orth>
+      </form>
+      <sense>
+        <def>пчелиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бъчелинъ</ref>, прилаг. от бъчела</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский I, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>пчелиный</ref>, прилаг. от пчела</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бджолйний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>пчелиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>пчальны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пчелиный, пчельный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 769)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-гпъ</ref>
+      </m> от 
+<ref type="etymon" target="se1a">*Ьъсе1а</ref> (см.); в болг., 
+чеш., слвц. — старая субстантивация.</gram>
+  </gramGrp>
+</Entry>

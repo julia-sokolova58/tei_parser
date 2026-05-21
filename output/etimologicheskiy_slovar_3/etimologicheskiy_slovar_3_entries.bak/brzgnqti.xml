@@ -1,0 +1,53 @@
+<Entry xml:id="brzgnqti">
+  <pb n="24" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br$zgnqti</orth>
+    <lemma>br$zgnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>брАзяНти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>издать бряцание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ефр. Сир. 1377 г., Срезневский I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бр</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>азпуты брякнуть, звякнуть, брякнуться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ф. Д. Климчук. Специфи­ ческая лексика Дрогичинского Полесья. — «Лексика Полесья» 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бразпуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хлопнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 36: брязнуць)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-npti</ref>
+      </m>, 
+производный от <ref type="etymon" target="brezgati-3">*brezgati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

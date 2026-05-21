@@ -1,0 +1,145 @@
+<entries>
+  <entry xml:id="bytnj" xml:id="bytnj">
+    <pb n="157" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bytьnъ(jь)</orth>
+      <lemma>bytbivb(jb)</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>битен</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>существенный, важный , сербск.-</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="chu">цслав. <ref>бытьнъ</ref>, прилаг. етгюбаюд нас^щьнъ, надьневьнъ, дьневьнъ</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Вук. ев. [нач. XIII в.] 72)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bitan</ref>, bitna, прилаг.</orth>
+        </form>
+        <sense>
+          <def>praesens, существующий, действительный, ad rei naturam рег- tinens, существенный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 337)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>biten</ref>, -tna, прилаг.</orth>
+        </form>
+        <sense>
+          <def>существенный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 28)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bytny</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>существен­ ный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(rkp. Krumlovsky, перв. четверть XV в., Gebauer I, 132)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bytny</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>существенный, жилищный, редк. bytni, прилаг. жизненный, насущный</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk">слвц. стар, <ref>bytne</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>денежная плата за дом</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Blanar. Hist, lexikol. 259)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. редк. <ref>bytny</ref>, bytni</orth>
+        </form>
+        <sense>
+          <def>настоящий, присутствующий, сущий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Warsz. I, 248)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ru-cu">русск.-цслав. <ref>бытьныи</ref>
+          </orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(ХлЪбъ нашь бытныи дажь намъ на ВСАКЪ ДНЬ. Е В . 1270 г., Срезневский I, 211)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>битной</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>жирный, здоровый, дебелый, плотный , битный прошедший, былой (арх.), бытно время время пришло, пора, битный, бытнбй толстый, здоровый</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(пек., Даль I, 364)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(пек., осташк., твер., Филин 3, 352)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., 
+производное 
+с суфф. <m type="suffix">
+          <ref>-ъпъ</ref>
+        </m> от гл. <ref type="etymon" target="byti-3">*byti</ref> (см.).</gram>
+    </gramGrp>
+    <note>Точно 
+соответствует 
+лит. bdtinas 
+'необходимый, 
+обязательный', прилаг-
+ному 
+долженствования 
+на -Unas. 
+О такой 
+же функции у слав, 
+слова 
+см. 
+Otr^bski. 
+Studia 
+indoeuropeistyczne 
+171. Ср. и знач. 
+русск. диал. словоупотребления (выше): бытно время 
+'пора'.</note>
+  </entry>
+</entries>

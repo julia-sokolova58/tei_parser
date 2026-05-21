@@ -1,0 +1,45 @@
+<entries>
+  <entry xml:id="brno" xml:id="brno">
+    <pb n="70" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brьno</orth>
+      <lemma>Ьгьпо</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>borno</ref> ср. р.</orth>
+        </form>
+        <sense>
+          <def>болото, топь</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jakubas 66)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">укр. диал. <ref>ббрло</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>болото , если последнее не из *6ьг/о</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Онышксвич. Словарь бойковского диалекта 89)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Этимологию 
+см. иод *Ьгъпь]е. 
+Отношения 
+родственных 
+форм 
+'речной ил', Plot. 
+1, 64) напоминают 
+отношения 
+форм 
+прилаг-
+ных всех трех родов.</note>
+  </entry>
+</entries>

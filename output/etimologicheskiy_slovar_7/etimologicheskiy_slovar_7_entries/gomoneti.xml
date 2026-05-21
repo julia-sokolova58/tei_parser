@@ -1,0 +1,156 @@
+<Entry xml:id="gomoneti">
+  <pb n="18" end_page="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomoneti</orth>
+    <lemma>gomoneti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomoniti</orth>
+    <lemma>gomoniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hamonif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>много говорить, hamonif se спорить , hamonit se ссориться, бра­ ниться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vydra. Hornoblan. 101)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. , редк. <ref>gomonic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, (об утках) крякать, gomonic sie ссориться, ругаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 871)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гомонить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко разговаривать, шуметь, кричать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гомонётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громко говорить, разговаривать (курск., ворон.,^ пек.), буянить (курск.), хохотать (курск.) , гомонить громко говорить, разговаривать (смол., курск., орл., брян., калуж., пек., пенз., твер., новг., вят., оренб.), буянить (пек., смол., калуж., ворон.), хохотать (пек., смол., калуж^, ворон.), плакать, кричать (калуж.) , гомонить успокаивать кого-либо (енис.), беспокоить (?) (волог.) , гаманйть (калуж.), гаманётъ (курск., ворон.) гомо- * g o m o n b 2D нить, говорить громко, шумно, кричать , гамбнитъ шелестеть (о листьях на деревьях) , гомониться советоваться, переговариваться , сюда же гомошйться суетиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 355)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 8 I, 845; Доброволь­ ский 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 6, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Филин 6, 355)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гомотти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, шуметь, кричать; произ­ водить глухой шум, поговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гамангетъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, разговаривать , гдмднёт изда­ вать звуки перед непогодой (о пчелах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лисенко. Словник д1алект- Hoi лексики середнього i схщного Пол1сся 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. В. Анохина, Н. В. Ни- кончук. Полесская терминология пчеловодства. — Лексика Полесья 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гаманщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу— Некраш. 77)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Обычно объясняют как отыменное производное от<ref type="etymon" target="gomonb">*gomonb</ref> 
+(см.), но ярко выраженная глагольная семантика и связь с эксп­
+рессивным к. <ref type="etymon" target="gom-jgam-">*gom-jgam-</ref> 
+(см.), с различными 
+расширениями (ср. 
+напр. <ref type="etymon" target="gomota">*gomota</ref> / <ref type="etymon" target="gomofo">*gomofo</ref>&gt; см. s. v., там же 
+русск. диал. гл. гомо-
+тйть 'шуметь'), дают право и в случае <ref type="etymon" target="gomoniti">*gomoniti</ref> 
+говорить о суф­
+фиксальном расширении 
+к. <ref type="etymon" target="gom-">*gom-</ref> (интенсивнее).</gram>
+  </gramGrp>
+  <note>Попытки особой этимологизации имени *gomonb маловероятны. *gomon ,b: ст.-чеш. homon м. р. 'конусообразная прическа у дам' (zavitf hlavy jeji bylo velikych fulfasu a homonu. V. Brandl. Glossarium 65. — Gebauer I, 457; Jungmann I, 722: приводит знач. 'ссора' с использованием той же самой цитаты; Kott I, 458: 'украшение, убор женской головы в форме конуса' — со ссылкой на V. Brandl. Glossarium illustrans bohemico-moravicae historiae fontes; далее — 'множество' •— со ссылкой на: Gtibor, и — 'ссора', со ссылкой на Юнгмана, см. выше), русск. гомон м. р. 'нестройный, неясный шум множества голосов, звуков; говор', укр. гбмш, род. п. -мону, м. р. 'говор, крик, шум' (Гринченко I, 307), блр. гбман м. р. 'шум, крик, говор' (Байкоу—Некраш. 82), гамбнка ж. р. 'разговор' (Байкоу—Некраш. 77; Мшска- маладзеч. III, 33). Отглаг. производное от<xr type="compare">см. <ref type="etymon" target="gomoniti">*gomoniti</ref>
+    </xr>, ср. особенно блр. га­
+мбнка, 
+выше. 
+Объяснение 
+заимствованием 
+из 
+др.-исл. 
+gaman 
+'радость, веселье' (С. С. Uhlenbeck 
+AfslPh XV, 486; Berneker I, 
+326—327, 
+с литер.; Фасмер 
+I, 
+436) 
+неудовлетворительно, 
+см. 
+A. Stender-Petersen. 
+Zur Etymologie des russ. гомон. — Melanges 
+de philologie 
+offerts 
+a Mikkola 
+277—283 (автор, правда, считает 
+*gomoniti 
+деноминативом от *gowon'&amp;).</note>
+</Entry>

@@ -1,0 +1,125 @@
+<Entry xml:id="bqba">
+  <pb n="229" end_page="230" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqba</orth>
+    <lemma>bqba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>червь в человеческом организме, мелкая букашка, воображаемое страшилище, которым пугают детей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>буба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кокон шелковичной гусеницы , блоха, букашка, воображаемое страши­ лище (у детей) , буба ж. р. шелковичный червь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 42)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев — Близнев БД III, 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков Банат. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>буба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>насекомое, рак (бо­ лезнь)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>буба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>насекомое, шелковичный червь, *глист</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ЪиЪа</ref> м. p.: Vyhlizi jako buba</orth>
+      </form>
+      <sense>
+        <def>выглядит глупо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 104)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>буба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>зерно гороху, бобов (размякшее), ягода, бублик, рана, нарыв, следы удара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>буба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болячка, нарыв , буба (в детской речи) больно, болит, больное место, ранка , вошь, муха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(А. А. Москаленко. Словник д1а- лектизаив украшських гов1рок Одесько!' область Одеса, 1958, 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кар­ патский диалектологический атлас 93)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>буба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зерно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носович. Сборник белорусских пословиц 206)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ономатопоэтич. образование, представляет собой очевидный вариант к основе<ref type="etymon" target="bob--4">*bob-</ref> (см. выше), что заставляет нас предполо­
+жить здесь носовой гласный.</gram>
+  </gramGrp>
+  <note>Ср. лит. bdmba спуп', лтш. bamba 'мяч, шар'. См. Berneker I, 79; И. Иоповип. О словенским коре- нима *bgb- и *рдр- и неким вьиховим дериватима. — JO XIX, 1951-1952, 162 — 163; Фасмер I, 225—226 (допускает также неназальную огласовку); Георгиев ВЕР II, 85 (также говорит об и.-е. *b(h)oub(h)-, без носового); Sadnik—Aitzetmuller. Vgl. Wb. 3, 162 и след.</note>
+</Entry>

@@ -1,0 +1,72 @@
+<Entry xml:id="bbrditisc">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrditi (sč)</orth>
+    <lemma>bbrditi (sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брдити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти в гору, взбираться, продевать нитки в бердо (при тканье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brd4e</ref> sa</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(aui neprsi afii since nesviet'i. Stanislav. Lipt. 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бёрдить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не надеяться на собственные силы; трусить, уступать , ср. брёндитъ то же, что бёрдить, отставать от дела, узнав его трудность , бёрдить терять смелость, присутствие духа , сюда же, возм., барандйтъ говорить пу­ стое , бёрдиться красоваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижег., пенз., симб., тамб., Опыт 9)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псковский обла­ стной словарь I, 171)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Кедров. Слова ладожские. — Ж С т . VIII, 1898, 400)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бэрдыцца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хорошо наладиться, удачно установиться — о ткущихся кроснах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Г. Владимирская. Полесская терминология ткачества. — «Лек­ сика Полесья», 194)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gk-2">*Ьъгк</ref>&gt; (см.).</gram>
+  </gramGrp>
+  <note>Семантич. и формаль­ ное развитие, напр., русск. форм носит экспрессивный характер, чем объясняются отклонения того и другого рода.</note>
+</Entry>

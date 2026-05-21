@@ -1,0 +1,31 @@
+<entries>
+  <entry xml:id="brebtati" xml:id="brebtati">
+    <pb n="11" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*brebъtati</orth>
+      <lemma>brebbtati</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brebtati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать (Ст.-чеш., Прага)</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brebtati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бормотать; болтать</def>
+        </sense>
+      </item>
+    </etym>
+    <note>Гл., производный с суфф. -ъ^аИ от звукоподражат. основы breb-, 
+представляющей собой, видимо, частичную редупликацию.</note>
+  </entry>
+</entries>

@@ -1,0 +1,88 @@
+<Entry xml:id="glusnj">
+  <pb n="154" end_page="155" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glušьnъ(jь)</orth>
+    <lemma>glušьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>glusan</ref>, -sua, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глухой , глушан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA III, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 373)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glusen</ref>, -sua, •gluzdb прилаг.: glusna nedelja=tiha n.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глуш</ref>- ный, -ая, -ое, глушной, -ая, -ое: глушное место</orth>
+      </form>
+      <sense>
+        <def>глухое место (волог.) глушная зима зима, в которую замерзает озеро (пек.) , глушный непроходимый, дикий, снаходящийся в глуши, захолустный , сюда же субстантивированное глушняж.]). закрытый фартуке нагруд­ ником</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 113)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Филин 6, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глушил</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>глушь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 292)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глушил</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(глухая) дорога . — Ср. сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыялектнага слоутка Гомелыпчыны 234)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>глушниче</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>одуванчик (Геров—</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Панчев).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="gluxb-9">*gluxb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Вторич­ ный характер производного говорит о возможном позднем обра­ зовании.</note>
+</Entry>

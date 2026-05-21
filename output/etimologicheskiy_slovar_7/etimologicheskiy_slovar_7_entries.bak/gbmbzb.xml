@@ -1,0 +1,152 @@
+<Entry xml:id="gbmbzb">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmbzb</orth>
+    <lemma>gbmbzb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гмеж</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>толпа, сборище</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Речник РОДД 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гмаз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пресмыкающееся , сюда же гмазд ж. р. в выражении много као гмазди несчетное количество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA III, 376)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 377)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gomaz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомые, черви, гады , также gomlz м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 230; Kastelec)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hmez</ref>, род. п. hemza, м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомые, пресмыкающиеся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 434)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hemez</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гомоз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>множество , сюда же нареч. гбмозом все вместе; разом, толпой , гамаз м. р. масса, множество , гамазом разом* , гамуз м. р. мякоть, мезга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 6, 354)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пенз., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 125)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(южн., Филин 6, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гамуз</ref> м.</orth>
+      </form>
+      <sense>
+        <def>мякоть, гамузом все вместе, сполна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гамуз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ботва (от капусты, свеклы) у</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лисенко. Словник д1ал. лексики середнього i схщного Пол1сся 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гамузам</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>чохом, разом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гамуз</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>шум , гамузам, нареч. разом, гуртом , гамузам то же , сюда же гамаслб ср. р. куча</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мшска-маладзеч. III, 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Матэ- рыялы для дыял. слоунша Гомелыпчыны 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(3 народнага слоушка 260)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(На­ родная лексша 239)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="gbmbzati-2">*gbmbzati</ref>, 
+<ref type="etymon" target="gbmbziti">*gbmbziti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. A. Vail- lant BSL 58, 1963, (о неясности направления деривации). Основа gbmbz- произведена с суф. -Ъ2- от корня, общего с *#ъгао- ta I<xr type="compare">см. <ref type="etymon" target="gbmbta">*gbmbta</ref>
+    </xr>, 
+а также *gomota, 
+*gomonb, 
+<xr type="compare">см. <ref type="etymon" target="gomoniti-2">*gomoniti</ref>
+    </xr>. 
+См. Фасмер I, 435.</note>
+</Entry>

@@ -1,0 +1,68 @@
+<Entry xml:id="baja">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baja</orth>
+    <lemma>baja</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bajb</orth>
+    <lemma>bajb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. 6dja ж. р.</orth>
+      </form>
+      <sense>
+        <def>чары, сглаз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА Г, 245)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колдовство, заклинание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdj</ref>, bdje ж. р.</orth>
+      </form>
+      <sense>
+        <def>миф, басня, фантазия</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>baja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 8; Gregor. Slov. slavk.-bucov. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бая</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>прозвище веселой говорливой женщины, рассказ­ чицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 2, 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. производное имя ж. р. от основы гл.<ref type="etymon" target="bajati-5">*bajati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

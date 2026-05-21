@@ -1,0 +1,93 @@
+<Entry xml:id="egk-2">
+  <pb n="193" end_page="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегкъ</orth>
+    <lemma>Ьегкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA II, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>вид рябины Sorbus torminalis, берека</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfek</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение Pirus torminalis</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bfak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лесное дерево Pirus , bfak м. p. вид рябины Sorbus lorminalis, берека</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(BartoS. Slov. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavkov.-bueov. 29)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Pirus torminalis, клен, явор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 39)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bfok</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боярыш­ ник кленолистный Sorbus torminalis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brz</ref>$k м. p.</orth>
+      </form>
+      <sense>
+        <def>вид рябины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 692)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Морфол. вариант (м. р.) к<xr type="compare">см. <ref type="etymon" target="berka">*berka</ref>
+    </xr>, ж. р. Иольск. форма 
+содержит вторичную назализацию; см. Bruckner 44.</note>
+</Entry>

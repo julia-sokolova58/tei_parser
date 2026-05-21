@@ -1,0 +1,49 @@
+<Entry xml:id="bezgqbbjb">
+  <pb n="27" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgqbbjb</orth>
+    <lemma>bezgqbbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezhuby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>безустый, безмолвный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jung- mann I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безгубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не имеющий губ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I,- 151)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безгубый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>не имеющий губ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 39)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., полученное путем сложения<ref type="etymon" target="bez-39">*bez</ref> (см.) и именной ос­
+новы <ref type="etymon" target="goba">*goba</ref> (см.).</gram>
+  </gramGrp>
+  <note>Принадлежит к древнему типу прилаг-ных (см. о них подробно *bez), хотя возраст отдельных образований может быть проблематичен.</note>
+</Entry>

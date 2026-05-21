@@ -1,0 +1,28 @@
+<Entry xml:id="bryzdziti">
+  <pb n="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bryzdziti</orth>
+    <lemma>bryzdziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. (<ref>Срем</ref>) брйждшпи</orth>
+      </form>
+      <sense>
+        <def>громко плакать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, РСА II, 169)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="bryzgati-7">*bryzgati</ref> 
+/ <ref type="etymon" target="bryzdzati">*bryzdzati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

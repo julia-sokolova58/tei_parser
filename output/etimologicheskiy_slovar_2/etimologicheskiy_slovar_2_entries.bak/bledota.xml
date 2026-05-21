@@ -1,0 +1,36 @@
+<Entry xml:id="bledota">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledota</orth>
+    <lemma>bledota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блгдбта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бледнота, бледность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="bledb-5">*bledb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

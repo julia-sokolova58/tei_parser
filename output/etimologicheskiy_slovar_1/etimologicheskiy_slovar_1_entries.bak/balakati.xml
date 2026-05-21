@@ -1,0 +1,122 @@
+<Entry xml:id="balakati">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>balakati</orth>
+    <lemma>balakati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>балакам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плескаться, играя, в воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, Георгиев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>balakati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать что у г о д н о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(редк., R J A I, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>baldchaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить небылицы, вносить смуту, смущать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>batakac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 90)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>балакать</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>балакать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, шутливо разговаривать , балякать разговаривать о том, о сем, без цели, без плана , у к р . балакати беседовать, болтать, калякать, разговаривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт словаря говоров Калининской области 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Васнецов 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>балакаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>калякать . — Сюда же, с иным расширением, первоначально той же основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>baldnat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать и</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Kott. D o d . k Bart. 2)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>баланить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(куйб., арх., Фи­ лин 2, 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Мы сближаем болг., р у с с к . , у к р . слова вслед за составителями болг. этимол. словаря (Георгиев Б Е Р I, 28), объясняя форму<ref type="etymon" target="balakati">*balakati</ref> как производное на -k-ati от звукоподражат. основы 
+<ref type="etymon" target="bala-">*bala-</ref>, родственной др.-инд. balbala-.</gram>
+  </gramGrp>
+  <note>Д о сих пор обычно данное слово толковалось и этимологизировалось как почти исключи­ тельно вост.-слав, образование, см. Berneker I, 40; Sadnik—Aitzet­ muller. V g l . W b . 2, 121 (где говорится о предположительном блр. происхождении польск. слова, а также о русск. происхождении сербохорв. примера, см. там же, 123). Однако наличие болг. и слвц. соответствий (знач. болг. слова 'плескаться' генетически близко знач. 'болтать вздор') все-таки позволяет рассматривать все эти, в том числе — вост.-слав, слова в плане более широких, общеслав. закономерностей. Поэтому мысль о том, что русск. балакать, у к р . балакати отражают слоговой плавный и сопо­ ставимы с болкнуть, польск. betkac (Шахматов ИОРЯС VII, 1902, 353, 375; Sadnik—Aitzetmuller, там же; Фасмер I, 112) выглядит сомнительно. Сближение балакать: лит. balazyti см. К. Буга Р Ф В L X X , 1913, 100.</note>
+</Entry>

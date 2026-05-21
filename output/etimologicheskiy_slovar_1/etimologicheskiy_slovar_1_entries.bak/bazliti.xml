@@ -1,0 +1,34 @@
+<Entry xml:id="bazliti">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bazliti</orth>
+    <lemma>bazliti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>базлйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>реветь, кричать , "врать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Доп. к Опыту 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 144)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> от <ref type="etymon" target="bazlo">*bazlo</ref> (см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="bazaniti">*bazaniti</ref>
+    </xr>, *baziti 
+(см. выше). В целом возраст этих экспрессивных образований 
+проблематичен.</note>
+</Entry>

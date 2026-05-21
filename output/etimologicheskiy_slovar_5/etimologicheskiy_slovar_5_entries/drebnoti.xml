@@ -1,0 +1,49 @@
+<Entry xml:id="drebnoti">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drębnǫti</orth>
+    <lemma>drębnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfebsti</ref>, dfebnouti</orth>
+      </form>
+      <sense>
+        <def>цепенеть, твердеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дрябнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться дряблым; вянуть, сморщиваться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дрябнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трупеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-пой</ref>
+      </m>, производный от основы <ref type="etymon" target="dr-2">*dr</ref>$b-, общей также для 
+<ref type="etymon" target="dr-3">*dr</ref>$biti и <ref type="etymon" target="dr-4">*dr</ref>$beti (см.).</gram>
+  </gramGrp>
+  <note>Далее, можно привлечь для сравнения лит. drebeti 'дрожать', на что, применительно к русск. диал. дребь (см. на *dr$biti s$), обратил внимание уже Микудкий (Изв. ОРЯС IV, 1855, 406), Знач-я 'дрожать' и 'быть дряблым, рыхлым' следует признать родственными между собой. Обычно русск. лексику (чеш. слово вообще пропущено как Бернекером, так и Ма¬ гхеком) сближают только с лит. drlbti, drimbu 'падать хлопьями, 'вянуть, опадать, дрябнуть' (см. Berneker I, 222; Фасмер I, 545), но лит. drebe'ti и drlbti, drimbu едва ли можно отрывать одно от другого.</note>
+</Entry>

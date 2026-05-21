@@ -1,0 +1,61 @@
+<Entry xml:id="glupiti">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupiti</orth>
+    <lemma>glupiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glupiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hloupiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оглуплять, делать глупым</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>glupic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обманывать, дурачить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дурить, шалить, ба­ ловать, делать пустое, глупое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 882)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="glupb-4">*glupb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

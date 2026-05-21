@@ -1,0 +1,81 @@
+<Entry xml:id="elsje">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*elьšьje</orth>
+    <lemma>elьšьje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdiuje</ref> ср. p. собир.</orth>
+      </form>
+      <sense>
+        <def>ольховый куст , ]елаш]е ср. р. собир. ольшаник, ольховый кустарник, Jalsje ср. р., местн. название в Хорватии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA VIII, 779)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelsje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ольшаник , также dlsje ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 821)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jelsi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ольшаник, обычно оШ ср. р</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>jelsie</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 649)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>olsze</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ольшаник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1498 г., Si. stpol. V, 571)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>олёшье</ref> ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>ольховый лес или дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Даль 3 II, 1736)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь]е (собир.) от<ref type="etymon" target="e1kha-4">*е1ъха</ref> (см.), наряду с вар. 
+от <ref type="etymon" target="o1kha">*о1ъха</ref> (см.) — <ref type="etymon" target="olbSbje">*olbSbje</ref>.</gram>
+  </gramGrp>
+</Entry>

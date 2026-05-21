@@ -1,0 +1,52 @@
+<Entry xml:id="Cbrvatbjb">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Cbrvatbjb</orth>
+    <lemma>Cbrvatbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>eervatuo</ref> drevo</orth>
+      </form>
+      <sense>
+        <def>дерево, изъеденное червями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cerwjaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>источенный червями, червивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черватый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>на червя похожий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1306)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-аЬъ</ref>
+      </m> от основы <ref type="etymon" target="bgi">*бъгиъ</ref>, 
+<ref type="etymon" target="yoyia">*ёыиа</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

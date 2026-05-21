@@ -1,0 +1,242 @@
+<Entry xml:id="esca">
+  <pb n="31" end_page="33" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ešča</orth>
+    <lemma>ešča</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Юфб</ref>, нареч. Su$ adhuc</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>още</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще , еще то же (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёште</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще , йдшти , йоштъ „ йбшт , йешшё, йешчё , ёшче , веще еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(габровск., С. Младенов. Бит и език на тракийските и малоазийските българи II (София, 1936), 127; БД II, 157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Елен- ски речник. — БД VII, 62)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 236)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 176)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски рез­ ник—БД V, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jemme</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще , joste еще , jost , joui</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 758)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 665—666)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с XIV в., RJA IV, 664—665)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>josce</ref>, нареч.=&amp;&gt;, see . также jos , esce</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 373)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 197)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeste</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>este</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 374)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hisde</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>hySci</ref>, hySder</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 476)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>fist</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>erne</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski-Sehnert 74)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jeszcze</ref>, стар, jeszcie</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jets</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. еще, \еще, <ref>ещо</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще , още</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мр. XIV. 63. Остр, ев.; Лук. XXIV. 6; Ио. X X . 1, Срезневский I, 837—838)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 145; Пат. Син. XI в. 48, Срезневский II, 852)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ещё</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>снова, опять, уже</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ощё</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дополни­ тельно, вдобавок к тому же, до сих пор, пока</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ще</ref>, ще, нареч.</orth>
+      </form>
+      <sense>
+        <def>еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко И, 200)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яшчэ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еще, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>шчы</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Народная лекЫка 134)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="e">*е</ref>§ёе может восходить к и.-е. <ref type="etymon" target="ets">*ets</ref>№e или 
+<ref type="etymon" target="edsk">*edsk</ref>
+ve, 
+где <ref type="etymon" target="ed">*ed</ref>—указ. 
+мест., <ref type="etymon" target="k">*к</ref>
+це— послелог 'и', а элемент -s- инфиги-
+рует первонач. сочетание <ref type="etymon" target="ed-2">*ed</ref> к
+це, 
+близкое к <ref type="etymon" target="ad">*ad</ref> к
+це (см. <ref type="etymon" target="a-2">*а</ref> се, 
+выше).</gram>
+  </gramGrp>
+  <note>Ср. др.-инд. ассШ (&lt;^*etske / *edske) ск, до'. Прочие сбли­ жения сомнительны. Наличие форм на (j)о- в ю.-слав. объясняют из первонач. *(j)a-. См. В. Rai6, V. J.(agic) AfslPh III, 1879, 720—721; A. Meillet MSL 9, 1896, 375; Berneker I, 454; Фасмер II, 30—31 (с доп.); Mayrhofer I, 22.</note>
+</Entry>

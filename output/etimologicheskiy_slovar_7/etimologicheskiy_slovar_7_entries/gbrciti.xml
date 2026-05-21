@@ -1,0 +1,91 @@
+<Entry xml:id="gbrciti">
+  <pb n="200" end_page="201" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrciti</orth>
+    <lemma>gbrciti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръч</ref>\&amp;</orth>
+      </form>
+      <sense>
+        <def>корчить, коверкать, гръчж са кор­ чусь (Дювернуа)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грча</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сузить, обузить (при шитье)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(СбНУ XIV, 194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грчи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>корчить; стягивать (судорогой), (диал.) мять, комкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gfciti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стягивать, сво­ дить судорогой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA III, 395, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gfciti</ref> se: breza se grci</orth>
+      </form>
+      <sense>
+        <def>береза шелушится</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>gfciti</ref> se</orth>
+      </form>
+      <sense>
+        <def>корчиться (от боли)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Saselj I, 255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrciV</ref> sa</orth>
+      </form>
+      <sense>
+        <def>собираться, сбегаться (кучей, гурьбой)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. на -iti, производный от<xr type="compare">см. <ref type="etymon" target="gs">*#ъгсь</ref>
+    </xr>.</note>
+</Entry>

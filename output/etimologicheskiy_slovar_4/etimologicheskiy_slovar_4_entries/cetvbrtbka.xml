@@ -1,0 +1,76 @@
+<Entry xml:id="cetvbrtbka">
+  <pb n="95" end_page="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetvbrtbka</orth>
+    <lemma>cetvbrtbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>четвртка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>отрезок, ломоть, чет­ верть (напр. хлеба)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctvrtka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>четверть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>sturtka</ref> ж. р., также stverka, stuirtka</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 695)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>четвьртъка</ref>, четвертка</orth>
+      </form>
+      <sense>
+        <def>мера сыпучих тел , денежная единица , личное имя собств. Четвертка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1476 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Перем. грам. Псков, и Новг. с Дерпт. еп. 1474 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский 111, 1509)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1495 г., Тупиков 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чвертка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>четвертая доля гарнца, составляющего ныне пятую долю ведра, четвертка пахотной земли, четвертая доля уволоки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 696)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от числ. <ref type="etymon" target="seig-2">*сеЬиъгЬъ</ref> (см.), субстанти­
+вация адъективной формы последнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="seigk">*сеЬиъгЬъкъ</ref>
+    </xr> (см.).</note>
+</Entry>

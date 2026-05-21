@@ -1,0 +1,101 @@
+<Entry xml:id="ecmenka">
+  <pb n="62" end_page="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьmenъka</orth>
+    <lemma>ęčьmenъka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ечмёнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт груш с небольшими желтыми плодами , ичимёнка ж. р. сорт летних желтых груш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село. Ви- динско 227)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jecmenka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт яблок и груш , ]ёчмёнка ж. p. , также jacmenka ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 507)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA VIII, 755)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jecmenka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорт груш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jecmenka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ячменная каша, сорт яблок, груш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>jecmenka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>весенняя, ранняя трава , jecmenka ж. р. полба Triticum spelta</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pintar I, 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Strekelj Lj. Zv. IX, 1889, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>jacmenky</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ячменная крупа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляш., BartoS. Slov. 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>jacmienka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт ранних груш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 627)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>укр. ячмгнка ж. р. ячменная солома, порода кар­ тофеля , Производное с суфф. -ъка от основы *$сътеп- (<xr type="compare">см. <ref type="etymon" target="stu-3">*$съту</ref>
+    </xr>).).).).</note>
+</Entry>

@@ -1,0 +1,96 @@
+<Entry xml:id="devcina">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvъčina</orth>
+    <lemma>dĕvъčina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дЪвчйпка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>devcina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dievcina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dziewczyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 593)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>sefclna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>девчина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка (олон., новг., пек., самар., смол.), рослая девушка (перм.), старая дева (яросл., перм.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дьвчйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девица, девушка, девочка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко 1, 388)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяучына</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>девушка, дева</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ina от<xr type="compare">см. <ref type="etymon" target="1yoika">*1ёиъка</ref>
+    </xr>....</note>
+</Entry>

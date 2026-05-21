@@ -1,0 +1,68 @@
+<Entry xml:id="bazT">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bazT</orth>
+    <lemma>bazT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>baz</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>бузина Sambucus nigra</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бас</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>бузина . — Ср. сюда же, судя по вокализму</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Филин 2, 127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>базнйк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сирень , базнйк м. р. собачья бузина Sambucus ebulus L . , сирень Syringa vulgaris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Г. Ф. Шило. Швденно-захщш говори У Р С Р на ш в ш ч вщ Д ш - стра. Льв1в, 1957, 240)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 20)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно принято считать, что слав, языки сохранили и.-е. огласовку *bhdug- (откуда праслав. *Ьшъ, *tuzina, см.) и *bhug- (откуда — широко распространенное праслав. *bъzъ, см.), тогда как об отражении в слав, главного варианта древнего и.-е. назва­ ния бука — *bhag или ничего не говорится или упоминается с сомнением. См. Berneker I, 111, s. v. Ьъгъ: «. . *bha(u)g- in: gr. &lt;рт]у6&lt;;, dor. cpayog 'Eiche'; lat. fagus 'Buche'; aisl. bok, ahd. buohha ' B u c h e ' ; got. boka 'Buchstabe' (bei Caesar: silva Bacenis); (schwerlich in klr. baznyk; slk. baza?)».</note>
+  <gramGrp>
+    <gram>Между тем если слвц. baza, действительно, скорее восходит к<ref type="etymon" target="bbza">*bbza</ref> 
+(см. Berneker. 
+там же, выше; ср. еще двусмысленные болг. диал. базак м. р. 
+'бузина Sambucus ebulus', см. Илчев Б Д I, 185; ср. далее болг. 
+диал. базанйк, базанбк, см. Стойчев Б Д II, 126; базбвина ж. р. 
+'Sambucus nigra', Илчев, там же), то производное укр. базнйк, 
+а также н.-луж. 
+baz и особенно — русск. диал. бас 
+'бузина' 
+(см. выше), не нашедшее пока доступа в этимол. словари, 
+про­
+должают праслав. 
+<ref type="etymon" target="az-2">*Ъazъ</ref>, кот. ценно для 
+нас 
+своим 
+прямым 
+соответствием вокализму и.-е. <ref type="etymon" target="bhagos">*bhagos</ref>, единственной достоверной 
+реконструкции и.-е. названия бука.</gram>
+  </gramGrp>
+  <note>См. Pokorny I, 107—108, кот. приводит греч., лат., галльск., герм, формы, точно ука­ зывающие на общее и.-е. *bhagos, а реконструкцию вариантов *bhaug-, *bhdug-, *bhag- называет «крайне невероятной». Оче­ видно, в отношении праслав. *baz-: *bbz-: *buz- отразились какие- то вторичные перестройки, однако это еще надлежащим образом не исследовано наукой. Из литер, см. Bruckner 22 (автор обра­ щает внимание на то, что польск. bez, диал. bezd, обозначает два совершенно разных кустарниковых растения — бузину и сирень, кот. объединяет такое свойство, как сильный запах, откуда мысль о происхождении от bzdziec и родственных); Machek (с полезным наблюдением о возможных табуистических мотивах изменчивости формы *Ъъzъ, *buz- и т. д., ср. суеверия, связанные с бузиной и чертом, у поляков), Moszynski. Pierwotny zasi^g 60; Фасмер I, (: бузина, там же указана предшествующая литер.).</note>
+</Entry>

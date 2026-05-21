@@ -1,0 +1,190 @@
+<Entry xml:id="brkati">
+  <pb n="22" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>br§kati</orth>
+    <lemma>br§kati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>б</ref> рынкам</orth>
+      </form>
+      <sense>
+        <def>жужжать, гудеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкаров—Близ- нев Б Д III, 204; Геров: брьнкам)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brekati</ref> se , брёката</orth>
+      </form>
+      <sense>
+        <def>кричать, поднимать к р и к , брёнкати звучать; позвякивать, бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 1,623)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( Р С А П , 145)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать , brenkati бренчать (на струнах), бряцать , brenkati размельчать, дробить (землю при вспашке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 55)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Valjavec Lj Zv. XIII, 1893, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfinkati</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(bfinka yazy- kem yako na medenicy. Gtibora Tovacovskeho z Cimburka Hadani Pravdy a Lzi о knezske zbozi, 1467 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfinkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звенеть, бряцать (об оружии, деньгах, струнах и т. и.), brnkati, брякать, звякать, бренчать, также brhkati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>brnkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дрожать , bfonkat зве­ неть, позвякивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 7)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brinkat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то же ,brnkat</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, \?&gt;\)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ, 1,133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>brunkac</ref> то же , и.-луж. bfaka§</orth>
+      </form>
+      <sense>
+        <def>бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buff a. DlhaLuka 136)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzqkac</ref>, brzfkac</orth>
+      </form>
+      <sense>
+        <def>бренчать, звенеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 687—688)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfqkac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>звенеть, бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. W b . I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бря</ref>­ кать</orth>
+      </form>
+      <sense>
+        <def>звякать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. стар, <ref>брякати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>стучать ; брйнькати бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пискунов 25)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брынкаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дребез­ жать, бренчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 133)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, 
+производный от междометного <ref type="etymon" target="gf-">*Ьгф-</ref>\ 
+исторически 
+тождествен прежде всего ю.-слав. 
+<ref type="etymon" target="br-7">*br</ref>$cati 
+(см.).</gram>
+  </gramGrp>
+  <note>Формы с -п- в корне (болг. брънкам, чеш. bfinkati и др. выше) — обновление правильных рефлексов первоначально носового гласного § под воздействием междометий в условиях экспрессивного употребле­ ния глагола.</note>
+</Entry>

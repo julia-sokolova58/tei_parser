@@ -1,0 +1,104 @@
+<Entry xml:id="drok">
+  <pb n="130" end_page="131" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drǫkъ</orth>
+    <lemma>drǫkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дрък</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>стебель кукурузы (с. Катунец, Ло- вешко, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>druk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>довольно толстый кол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 807)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drok</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>пест</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 176)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drouk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железный прут, стержень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druk</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кол, жердь , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>druk</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>друк</ref>, дручбк, род. п. -чка, м. р.</orth>
+      </form>
+      <sense>
+        <def>жердина, рычаг, слега , дрюк м. жердь, дубина, палка, дрюк, друк м. р. палка, жердь, кол, дубина (курск., орл., южн., тамб., Краснодар., донск., брян., смол., яросл., свердл., краснояр.), большого роста, нескладный, неуклюжий парень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ворон., тамб., Даль 3 I, 1236)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Филин 8, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>друк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дрюк, дрючок , дрюк м. р. толстая палка, дубина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 449)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>друк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дубина</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Вар. к<xr type="compare">см. <ref type="etymon" target="drggb">*drggb</ref>
+    </xr>....</note>
+</Entry>

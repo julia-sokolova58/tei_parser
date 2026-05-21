@@ -1,0 +1,54 @@
+<Entry xml:id="cepidlbno">
+  <pb n="185" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cepidlbno</orth>
+    <lemma>cepidlbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>цепйлъно</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>длинная часть цепа; палка, за которую держатся при молочении , долгая палка цепа , чапилънб ручка цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(кур., Опыт 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>( Д а л ь 3 IV, 1276)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 977)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>цтйлъно</ref>, цтивно ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 433)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цапыьна</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка цепа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 999)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъпо</ref>
+      </m> от <ref type="etymon" target="cepidlo">*cepidlo</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

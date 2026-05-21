@@ -1,0 +1,175 @@
+<Entry xml:id="edlo">
+  <pb n="41" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>edlo</orth>
+    <lemma>edlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Ало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища , также ело ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров— Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>голод, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>ело</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jelo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jidlo</ref> ср. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jedlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 643)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jillo</ref> ср. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gregor. Slowak. von Pilisszanto 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jedlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, корм, съестные припасы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jedlo</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>jedlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда, кушанье, пища, блюдо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 540—541)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jadlo</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jedlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, корм, съестные припасы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 122, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jaudle</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 389)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ёло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>еда . — Укр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев., вост., тамб., Даль 3 IV, 1518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ъдло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища, кушанье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(I. С. Колес­ ник. Матер1али до словника д1алектизм1в украшських говор1в Буковини 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>идло</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пища (XVII в., Картотека Тим­ ченко) заимств. из зап.-слав</def>
+      </sense>
+    </item>
+  </etym>
+  <note>См. еще L. Tesniere RES XIII, 1933, 61.</note>
+  <gramGrp>
+    <gram>Стар, производное с суфф.<m type="suffix">
+        <ref>-1о</ref>
+      </m> от к. <ref type="etymon" target="ed-">*ed-</ref> (см. <ref type="etymon" target="esti">*esti)</ref>; не исклю­
+чено происхождение еще из и.-е. <ref type="etymon" target="ed-lo-m">*ed-lo-m</ref>, ср. др.- лат. (глос-
+совое) ellum 'coclearium', т. е. 'ложка', кот. объясняют из edulum, 
+ср. лат. edulus 'comestor' (см. Walde—Hofm. I, 393).</gram>
+  </gramGrp>
+</Entry>

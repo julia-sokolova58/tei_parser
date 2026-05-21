@@ -1,0 +1,96 @@
+<Entry xml:id="dateh">
+  <pb n="193" end_page="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dateh»</orth>
+    <lemma>dateh»</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддтблл</ref> §6тт)&lt;;, dator</orth>
+      </form>
+      <sense>
+        <def>дающий, податель, пожертво- ватель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>ddte</ref>\ м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто даёт</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>datel</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 338)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дателъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто дает или дарит что-либо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль, без указ. места)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дателъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лицо, дающее заказ на выпол­ нение работы большого объема .— Сюда же, с видоизменением производящей глагольной основы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(влад., Филин 7, 278—279)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>даителъ</ref> 86т?]с, dator .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 87, Срезневский I, 635)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, формально представляющее собой производное с суфф.<m type="suffix">
+        <ref>-telb</ref>
+      </m> от гл. <ref type="etymon" target="dati">*dati</ref> (см.), хотя допустимо прямое возведе­
+ние к и.-е. <ref type="etymon" target="ddtel-">*ddtel-</ref>, ср. <ref type="etymon" target="ddter-">*ddter-</ref> и близкие формы в греч. 8&lt;5та)р,
+SoTifjp, лат. 
+dator 
+'тот, кто дает'. 
+Образование архаич. вида. 
+В классич. индоевропеистике обычно слав. <ref type="etymon" target="datel-">*datel-</ref> считалось вто­
+ричным преобразованием 
+древнего <ref type="etymon" target="doter-">*doter-</ref>; 
+Мейе говорит уже 
+о 
+древнем 
+параллелизме. 
+Говорить 
+о 
+«балто-слав.» 
+<ref type="etymon" target="dotel-">*dotel-</ref>
+(Траутман, Славский, ниже) нецелесообразно, поскольку балт. 
+языки не знают ничего подобного. 
+См. J. Schmidt KZ XXV, 1881, 27; Мейе. Общеслав. язык 281; 
+Trautmann BSW 58; F. Stawski «Z polskich studi6w 
+slawisty-
+cznych», 1963, 81.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,82 @@
+<Entry xml:id="dupiti">
+  <pb n="158" end_page="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dupiti</orth>
+    <lemma>dupiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. обл. <ref>дупя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сверлить, дырявить, шпорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дупе</ref> се</orth>
+      </form>
+      <sense>
+        <def>наклоняться , дупъ съ наклоняться, принимать неприличную позу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Колев БД III, 298)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дупи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сверлить, продырявливать; продалбли­ вать, бурить, колоть, прокалывать, колоть, покалывать (о боли)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дупити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить (Карацип), стар, dupiti дол­ бить , дупити ударить , портить, баловать . — Сюда же, по-видимому, прич. прога. страд</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XV в., RJA II, 892)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА V, 29)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХпленыи</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Церковь же исподи вся дуплена есть. И мощи святыхъ многыхъ ту лежать. Дан. иг., Срезнев­ ский I, 745)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Судя по знач-ям слов, здесь представлены, по-видимому, два различных образования: 1. гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="dupa">*dupa</ref> (см.); 
+2. звукоподражательный глагол, соотносительный с <ref type="etymon" target="dupati">* dupati</ref> (см.), 
+ср. лтш. dupeties 'глухо звучать, отдаваться', греч. бскжесо, ЗоотгеЬ 
+'трещать, издавать треск'.</gram>
+  </gramGrp>
+  <note>См. J. Endzelin. Baltica. — KZ XLIV, i59 *dup(b)io / *dup(b)ld 1911, 58 ( = J. Endzelms. Darbu izlase II. Riga, 1974, 391); К. Буга РФВ LXX, 1913, 105.</note>
+</Entry>

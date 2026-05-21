@@ -1,0 +1,68 @@
+<Entry xml:id="se1orek">
+  <pb n="47" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1орекъ</orth>
+    <lemma>се1орекъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1орокъ</orth>
+    <lemma>се1орокъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>celbpek</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>pars aprica collis aut montis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 929)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>челопек</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>место, где солнце греет целый день, припёк</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(FG 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чолопок</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вершина горы . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Марусенко. Названия рельефов Хмельницкой области 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Челопёчаяе</ref>, название села близ Со­ фии</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="old">стар. <ref>ЧелсопАчапе</ref>, XVI в. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>( Й. Займов. Заселване на българ- ските славяни на Балканския полуостров. София, 1967, 181)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Считать, что здесь в видоизмененной форме представлено древ­ нее *бъ1ръу *сь1ръкъ (так, напр., см. V, Machek LP 7, 1959, 304), едва ли вероятно.</note>
+  <gramGrp>
+    <gram>По-видимому, сложение<ref type="etymon" target="celo">* celo</ref> (см.) и ос­
+новы гл. <ref type="etymon" target="pekti">* pekti</ref> 
+(см.), в укр.—с вокализмом -о-, ср. <ref type="etymon" target="obpokaf">*obpokaf</ref>
+      <ref type="etymon" target="roy">* роЫъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

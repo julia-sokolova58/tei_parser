@@ -1,0 +1,54 @@
+<Entry xml:id="bobusa">
+  <pb n="147" end_page="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobusa</orth>
+    <lemma>bobusa</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobusbka</orth>
+    <lemma>bobusbka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobysbka</orth>
+    <lemma>bobysbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдбуша</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Vicia narbonensis , сюда же производное бобушка ж. р. зеленый сладкий перец, бобушка=бабушка , бдбушаЦу род. п. -шца, м. р. какое-то растение, в Далмации</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дубровник, РСА I, 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бобушка</ref>, боббшка ж. р.</orth>
+      </form>
+      <sense>
+        <def>комок непромешанной муки, который получается при замешива­ нии теста , бобышка ж. р. волдырь (Картотека Псковского областного словаря), бабышки то же, что баббшки, печеные хлебные катышки с маком и патокой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 59)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 11)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -usa/-usbka/-ysbka от полисемантической основы *6оЬ- (см.<ref type="etymon" target="boba">*boba</ref>, ЪоЪъ), соотносительное по своему 
+зна­
+чению, словообразованию и происхождению с <ref type="etymon" target="babusa">*babusa</ref>, <ref type="etymon" target="babushka">*babushka</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

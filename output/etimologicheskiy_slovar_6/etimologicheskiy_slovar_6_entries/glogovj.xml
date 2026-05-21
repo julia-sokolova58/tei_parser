@@ -1,0 +1,97 @@
+<Entry xml:id="glogovj">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glogovъ(jь)</orth>
+    <lemma>glogovъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глбгов</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боярышниковый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глогов</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глдгов</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>боярышни­ ковый, crataegi</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glogov</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 219)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hlohovy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боярышниковый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hlohovy</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>также</ref> hlohovy, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 484)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glogowy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>боярышниковый , др.-русск, глоговыи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 843)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(во шномъ сЬменИд терновомъ сварабовиновомъ глоговымъ. Назиратель [XVI в.]. Под ред. С. И. Коткова. М., 1973, 452 = л. 172 об.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глогбвий</ref>, глбдовий</orth>
+      </form>
+      <sense>
+        <def>боярышниковый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 290; Укр.-рос. словн. I, 335)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ovb</ref>
+      </m> от <ref type="etymon" target="glog">*glogъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,30 @@
+<Entry xml:id="1ps">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъ1пьсь</orth>
+    <lemma>Ьъ1пьсь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdnbCb</orth>
+    <lemma>bbdnbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bniec</ref>, род. п. Ыепса, м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Melandrium из сем. Caryophillaceae</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. Г, 580)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Неясное слово. Возм., родственно<xr type="compare">см. <ref type="etymon" target="bbdno">*bbdno</ref>
+    </xr>. 
+* b b d o b ? / * b b d o b ? : слвц. bdol 'улей' (Kalal 19). 
+Неясное слово. Возм., родственно *bbdla 
+(см.; там же подробно 
+об этимологии).</note>
+</Entry>

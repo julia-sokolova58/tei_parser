@@ -1,0 +1,62 @@
+<Entry xml:id="bbrzica">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbrzica</orth>
+    <lemma>bbrzica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръзйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скороспелка, скорая, проворная, поспешная, летунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бързйца</ref>, брзйца ж. р.</orth>
+      </form>
+      <sense>
+        <def>желоб для воды; желоб, по которому стекает вода на водяной мельнице (с. Махалата, Плевенско; Тетевен; Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брзйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>скороспелая кукуруза</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брзйца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>стремнина, место, где быстро течет вода в ручье, брзйца, брзйца ж. р. быстрая река, быстрый ток воды, стремнина, порог, водопад, название скороспелых злаков и овощей, дизентерия , также личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 158)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Брзйца (там же), также диал. брзйца 'овца, которая приносит сразу несколько ягнят' (Djor. 183), словен. brzica ж. р. 'стрем­ нина', 'быстрый поток' (Plet. I, 68), возм., сюда и ст.-чеш. brzice ж. р. 'мясистая передняя часть шеи у свиньи' (Ст.-чеш., Прага).</note>
+  <gramGrp>
+    <gram>Суффиксальное производное (субстантивация) на<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. 
+<ref type="etymon" target="bbrzb-3">*bbrzb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="bbrzdica">*bbrzdica</ref>
+    </xr> 
+(см.).</note>
+</Entry>

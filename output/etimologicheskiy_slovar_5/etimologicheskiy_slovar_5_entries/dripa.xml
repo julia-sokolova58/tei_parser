@@ -1,0 +1,108 @@
+<Entry xml:id="dripa">
+  <pb n="115" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dripa</orth>
+    <lemma>dripa</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрйпа</ref> ж. р., обычно мн.</orth>
+      </form>
+      <sense>
+        <def>лохмотья, рваная одежда, тряпка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрйпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>одежда вообще , дрйпъ ж. р. об­ рывок, кусок ткани , дрйпъ ж. р. одежда (с. Стърница, Смолянско, дип. раб., Архив Софийск. ун-та), дрйпи мн. одежда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ст. Кабаса- нов. Говорът на с. Момчиловци, Смолянско 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Ковачев. Севлиевско. — БД V, 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев БД II, 154; Т. Бояджиев. Гюмюрджинско. БД VI, 24; Т. Бояджиев. Дедеагачко. — БД V, 227; с. Мугла, Смолянско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрйпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тряпье; кустарник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрйпа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>неотесанный человек, пропащий человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 712)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dripa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>понос, расстройство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 172)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар. <ref>dfipa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>лоскут, тряпка, drip м. р. то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dripa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>трещина, щель, хилый, слабый человек , сюда же dripki мн. тряпки, лоскуты</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(JakubaS 95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Pfuhl 1065)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрйпи</ref> м. р. мн.</orth>
+      </form>
+      <sense>
+        <def>тряпье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 442—443)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>В общем уже Младенов объяснил правдоподобно как *dr-č- расширение корня *dr-/*der- 'драть, рвать' (см. еще *dbrati), + формант -р-. См. S. Mladenov. Die labiale Tenuis als wortbilden- des Element im Slavischen. — AfslPh X X X V I , 1916, 120.</note>
+  <gramGrp>
+    <gram>Однако точнее будет охарактеризовать<ref type="etymon" target="dripa">* dripa</ref> с его вокализмом как отглаг. 
+производное от <ref type="etymon" target="dripati">* dripati</ref> см.;.</gram>
+  </gramGrp>
+</Entry>

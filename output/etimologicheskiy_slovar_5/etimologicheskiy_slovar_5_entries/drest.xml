@@ -1,0 +1,195 @@
+<Entry xml:id="drest">
+  <pb n="110" end_page="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕstъ</orth>
+    <lemma>drĕstъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfist</ref> м. p.: kozi dfist</orth>
+      </form>
+      <sense>
+        <def>растение Anemona nemorosa</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(KQU VI, 146: силезск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. стар, <ref>rdest</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рдест Potamoge- ton</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ III, 705)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drest</ref>, drost м. p.</orth>
+      </form>
+      <sense>
+        <def>растение Bidens tripartita</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. <ref>Dresth</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Flohrkraut, Persicaria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Verz. nsorb. Krauternamen von A. Moller a. d. J. 1582. Schuster- Sewc, Sprachdenkm. 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drest</ref> м. p. срдест, жилига плавучая, водяная капуста Potamogeton natans L., Polygonum persicaria L.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drest</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение Nectris , drzest м. p. =drest, rdest</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. L, 555)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 571)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>drest</ref>, dresc м. p.</orth>
+      </form>
+      <sense>
+        <def>сорная трава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch. S. Annaberg 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>derdes</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>растение рдест , rdeis м. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ramult 24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(^orentz Slovinz: W b . II, 934)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>рдест</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>водяное расте­ ние с очень длинным стеблем и небольшими овальными или уз­ кими листками, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дёрес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение горец Poly­ gonum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 369)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дрост</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение горец узло­ ватый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Несмотря на многочисленные и довольно значительные преобра­ зования формы, вызвавшие к жизни разные, весьма расходящиеся между собой этимологии (см. ниже), наиболее правдоподобным следует считать объяснение из исходного<ref type="etymon" target="dresfo">*dresfo</ref>, именного произ­
+водного от гл. <ref type="etymon" target="dristati">*dristati</ref> (см.) на том основании, что растение рдест 
+(и близкие ему растения) использовалось как желудочное средство.</gram>
+  </gramGrp>
+  <note>См. Меркулова. Очерки по русской народной номенклатуре расте­ ний 41—42. Иначе — из первонач. *nersfo объясняет слово Махек, см. Machek. Jmena rostlin 86. Не более удачно сближение с *rbdeti,<xr type="compare">см. <ref type="etymon" target="rbdja">*rbdja</ref>
+    </xr>, см. Фасмер III, 452 (с литер.). 
+*drestbn
+rb: сербохорв. дресан м. р. 'растение Polygonum persicaria' 
+(РСА IV, 693), словен. rdesen, род. п. -sna, м. р. 'растение горец 
+Polygonum' (Plet. II, 412), redesen м. р. то же (Plet. II, 414), 
+rdresen (Plet. II, 412), redresen (Plet. II, 415), далее — rdeselj, 
+род. п. -slja, м. p. 'Polygonum' (Plet. II, 412), rdreselj (там же), 
+redeselj (Plet. II, 414), redreselj (Plet. II, 415), слвц. стар, rdesno 
+ср. p. 'растение Polygonum' (SSJ, 705), укр. диал. дрЛсен м. p. 
+'растение Polygonum hydropiper' (Bx. I, 12, Гринченко"!, 451),
+I l l 
+•drebet 
+блр. драсён м. р. 'растение горец Polygonum L.' (Байко^—Не-
+краш. 97). 
+Производное (первонач. адъективное) с суфф. -ъпъ от , см. Фасмер III, 452 (с литер.). 
+*drestbn
+rb: сербохорв. дресан м. р. 'растение Polygonum persicaria' 
+(РСА IV, 693), словен. rdesen, род. п. -sna, м. р. 'растение горец 
+Polygonum' (Plet. II, 412), redesen м. р. то же (Plet. II, 414), 
+rdresen (Plet. II, 412), redresen (Plet. II, 415), далее — rdeselj, 
+род. п. -slja, м. p. 'Polygonum' (Plet. II, 412), rdreselj (там же), 
+redeselj (Plet. II, 414), redreselj (Plet. II, 415), слвц. стар, rdesno 
+ср. p. 'растение Polygonum' (SSJ, 705), укр. диал. дрЛсен м. p. 
+'растение Polygonum hydropiper' (Bx. I, 12, Гринченко"!, 451),
+I l l 
+•drebet 
+блр. драсён м. р. 'растение горец Polygonum L.' (Байко^—Не-
+краш. 97). 
+Производное (первонач. адъективное) с суфф. -ъпъ от , см. Фасмер III, 452 (с литер.). 
+*drestbn
+rb: сербохорв. дресан м. р. 'растение Polygonum persicaria' 
+(РСА IV, 693), словен. rdesen, род. п. -sna, м. р. 'растение горец 
+Polygonum' (Plet. II, 412), redesen м. р. то же (Plet. II, 414), 
+rdresen (Plet. II, 412), redresen (Plet. II, 415), далее — rdeselj, 
+род. п. -slja, м. p. 'Polygonum' (Plet. II, 412), rdreselj (там же), 
+redeselj (Plet. II, 414), redreselj (Plet. II, 415), слвц. стар, rdesno 
+ср. p. 'растение Polygonum' (SSJ, 705), укр. диал. дрЛсен м. p. 
+'растение Polygonum hydropiper' (Bx. I, 12, Гринченко"!, 451),
+I l l 
+•drebet 
+блр. драсён м. р. 'растение горец Polygonum L.' (Байко^—Не-
+краш. 97). 
+Производное (первонач. адъективное) с суфф. -ъпъ от , см. Фасмер III, 452 (с литер.). 
+*drestbn
+rb: сербохорв. дресан м. р. 'растение Polygonum persicaria' 
+(РСА IV, 693), словен. rdesen, род. п. -sna, м. р. 'растение горец 
+Polygonum' (Plet. II, 412), redesen м. р. то же (Plet. II, 414), 
+rdresen (Plet. II, 412), redresen (Plet. II, 415), далее — rdeselj, 
+род. п. -slja, м. p. 'Polygonum' (Plet. II, 412), rdreselj (там же), 
+redeselj (Plet. II, 414), redreselj (Plet. II, 415), слвц. стар, rdesno 
+ср. p. 'растение Polygonum' (SSJ, 705), укр. диал. дрЛсен м. p. 
+'растение Polygonum hydropiper' (Bx. I, 12, Гринченко"!, 451),
+I l l 
+•drebet 
+блр. драсён м. р. 'растение горец Polygonum L.' (Байко^—Не-
+краш. 97). 
+Производное (первонач. адъективное) с суфф. -ъпъ от <xr type="compare">см. <ref type="etymon" target="drestb">*drestb</ref>
+    </xr>....</note>
+</Entry>

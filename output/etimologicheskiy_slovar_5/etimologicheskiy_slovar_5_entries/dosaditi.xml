@@ -1,0 +1,117 @@
+<Entry xml:id="dosaditi">
+  <pb n="80" end_page="81" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dosaditi</orth>
+    <lemma>dosaditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>догддити</ref> oppi</orth>
+      </form>
+      <sense>
+        <def>Ceiv, injuria, ignominia afficere досадить, оскорбить, опорочить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>досад</ref> А</orth>
+      </form>
+      <sense>
+        <def>причинить досаду, вызвать скуку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>досади</ref> ми са</orth>
+      </form>
+      <sense>
+        <def>я устал, утомился , сюда же несврш. досаждам наскучивать, надоедать (с. Паволче, Врачанско, дин. раб., Архив Софийск. ун-та)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД 1, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>досади</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>надоесть, наску­ чить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дос</ref>&amp;дити-</orth>
+      </form>
+      <sense>
+        <def>причинить вред, досадить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>досадитц</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>оскорбить, сделать неприят- ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XXII. 6. Остр, ев.; Нест. Бор. Гл. 2, Срезневский I, 708; Джемс 197: dosadit, to doe iniurie, причинить обиду)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>досадить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать неприятное, противное, неугодное; сердить, гневить, обижать, дразнить, докучать, (арх.) уязвить, поранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль I, 1182)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>досадить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ушибить , досадить ушибить, ударить, ранить (арх., олон., новг., калуж.), повредить, испортить хорошую вещь (арх.) , разбить (Бабаев, р-н, Картотека Словаря белозерских говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь. Крес- тецкий у. Новгородской губ. Труды МДК. — РФВ LXXI, 1914, 330; Куликовский 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 138)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>досадйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>досадить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 427)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-20">*do</ref> (см.) и гл. <ref type="etymon" target="saditi">*saditi</ref> (см.).</gram>
+  </gramGrp>
+  <note>Специализация .знач-я указывает на раннее образование. Ср. состав и знач. нем. (jemandem) zusetzen 'докучать, донимать, досаждать (кому-либо)': zu 'до' и setzen 'сажать'.</note>
+</Entry>

@@ -1,0 +1,162 @@
+<Entry xml:id="gojnj">
+  <pb n="197" end_page="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gojьnъ(jь)</orth>
+    <lemma>gojьnъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гбен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>толстый, откормленный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гоен</ref>, го]на</orth>
+      </form>
+      <sense>
+        <def>откормленный, упитанный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gojan</ref>, gojna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>спокойный, мирный (с X V в.), откормлен­ ный, упитанный (с XVIII в.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 243)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>частый, обильный, богатый, значительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>полезный, выгодный , hojny небреж­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 178)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. 115)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hojny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>обильный, многочисленный, богатый, частый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 499)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целебный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>gojny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>целебный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 866)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гоиныи</ref> abundans</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 541)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гбйный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>взрачный, величавый , гбйный, -ая, -ое чистый , гбйный видный, красивый, величавый (ряз.), приведенный golakb в порядок, убранный, благоустроенный (перм., ряз.), чистый (перм., урал., волог., сиб.), плодородный; тщательно обработан­ ный (о земле) (тюмен., курган.) , гбйной хоро­ ший, пригодный; плодородный, тщательно обработанный (о земле)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Опыт 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., Доп. к Опыту 34)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 291)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гбйний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>щедрый, роскош­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гбйна</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>старательно, хорошо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="gojb">*gojb</ref> (см.) или соотно­
+сительное с <ref type="etymon" target="gojiti-8">*gojiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,244 @@
+<Entry xml:id="alovbjb">
+  <pb n="66" end_page="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>alovbjb</orth>
+    <lemma>alovbjb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>alovaja</orth>
+    <lemma>alovaja</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jalovbjb</orth>
+    <lemma>jalovbjb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>jalovaja</orth>
+    <lemma>jalovaja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>длежд</ref> прилаг. атех- voooa; галежъ</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Ллов</ref> прил.</orth>
+      </form>
+      <sense>
+        <def>не родящий, бесплодный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaлoв</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jame</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесплодный (о земле, о скоте)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>jwae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdlov</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый, бесплодный; пустой, jalw то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>avow</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый, молодой (о скоте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ja</ref>­ lovy</orth>
+      </form>
+      <sense>
+        <def>бесплодный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jalovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>недойный (о скоте), постный, не­ сдобный (о тесте)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jalovy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесплодный, яловый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ 1, 630)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jalowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый (только о корове)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jalowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый, бесплодный (большей частью о коровах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>joliiva</ref> прил. ж. p. *jalo- vaja}</orth>
+      </form>
+      <sense>
+        <def>яловая, бесплодная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jalowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый, бесплодный; неурожайный; сухой, постный, несдобный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jaluovi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яловый, бесплодный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 380)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>галежми</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нестельный, неплодный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1656)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Лловый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(о скоте) бесплодный, не- оплодотворенный, порожний, пустой, неплодный , не подвергавшийся пахоте, заобложивший , Ллая прил. ж. р. молодая корова, петель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Добровольский 1019)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(томск., Опыт 273)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Лловий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесплодный (о скоте; о почве, растении)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 540)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Ллавая</ref> прил. ж. р.</orth>
+      </form>
+      <sense>
+        <def>яловая</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с основой<ref type="etymon" target="alov--4">*alov-</ref>, 
+как видим, распространено широко 
+в слав, языках и причем повсеместно — в исторически тождест­
+венной форме, восходящей к праслав. 
+<ref type="etymon" target="alovbjb">*alovbjb</ref>.</gram>
+  </gramGrp>
+  <note>Как спорадиче­ с к у ю нужно отметить д р у г у ю форму, представленную в словен. диал. jal и в русск. диал. Алая (см. выше). Сличение тех и др. форм позволяет выделить в *alovbjb суфф. -ov-. См. еще Miklosich. Vgl. Gramm. II, 230; Г. Ильинский J O V , 1925—1926, 5 6 - 5 7 (с ошибочной, впрочем, концепцией происхождения целой морфо­ логической категории). Реконструкцию праслав. формы (*а1оиъ]ъ или *jalovbjb) затрудняет недостаточная ясность внешнего этимологического родства слав. форм. Один вариант этимологи­ зации делает вероятной именно реконструкцию праслав. *alovbjb, ср. в качестве исконно родственных лтш. alava 'яловая корова, не дающая молока', см. Е. Fraenkel ZfslPh X I , 1934, 36—38. Следует, вслед за Френкелем, особо выделить то обстоятельство, что различие в начале лтш. и слав, слов (последние в течение всего исторического периода регулярно обнаруживают началь­ ную йотацию) исключает заимствование балт. форм из слав., русск., вопреки мнению ряда ученых (напр. Miklosich 99; Ber­ neker I, 444). Френкель (там же) относит сюда еще лит. диал. (жем.) olaus &lt;С *olavas ' х о л о с т о й ' , см. также Fraenkel I, 516. Другой вариант этимологизации ставит вопрос об исконности начального в слав, слове, которое при этом сравнивается, правда, с более отдаленными по значению словами: кимр. ial 'место в лесу, оголенное от деревьев, поле' (J. Pokorny ZfceltPh 21, 55 и след. - Цит. no:,RS X V , 1939, 156; Pokorny I, 5 0 4 - 5 0 5 ; см. еще Van Windekens. Etudes pelasgiques 100—102, где сюда же отнесены греч. (пелазг. ?) aXios стщетный, бесполезный', топонимы вроде 'AXtaapva и др.); лтш. / ё / s ' с ы р о й , незрелый', см. Trautmann B S W 107; Bruckner 198; Младенов 702—703; H o l u b — K o p e c n y 148; Фасмер IV, 555. Френкель (ZfslPh, там же) отвергает сбли­ жение с лтш. ]ёIs, хотя позднее он же как будто допускает родство и с лтш. jels и с лит. jelas 'несоленый, пресный, свежий', а также, вслед за Махеком (Machek «Slavia» 8, 209 и след.), — с лит. alus с п и в о ' , слав. о1ъ (см. Fraenkel I, 8—9, 193), что подводит к мысли о возможности компромиссного решения *eZ- / *iel- / *oZ-, *al- / *ial- II примирения реконструкций с йотацией и без нее. См. еще из литературы: Slawski I, 496—497; Е. Mosko PJ 1958, 461; он же JP X L I I I , 1963, 245; Machek 170 (знаменательно, что здесь Махек предпочитает говорить о неясности праслав. /Я/ОУЪ).</note>
+</Entry>

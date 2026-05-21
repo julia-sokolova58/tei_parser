@@ -1,0 +1,76 @@
+<Entry xml:id="bblkotb">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bblkotb</orth>
+    <lemma>bblkotb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>beikoi</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мямля, заика , blkot м. p. пламя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slov. stfedoopav. 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(острав., Kott VI, 1014)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blkot</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>огонь, пламя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>beikot</ref>, belgol м. p.</orth>
+      </form>
+      <sense>
+        <def>бормотанье; невнятный шум</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 113; Dorosz. I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>булъшт</ref>, род. п. -коту, м. р.</orth>
+      </form>
+      <sense>
+        <def>клокотание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>булъкот</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>источник , бёлъкот м. р. болтовня, лепет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(закарп., Т. А. Марусенко. Материалы к словарю украинских географических апеллятивов (названия рельефов). — «Полесье» 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 49)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-о1ъ</ref>
+      </m> от основы гл. <ref type="etymon" target="1kai">*Ьъ1каИ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

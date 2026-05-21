@@ -1,0 +1,70 @@
+<Entry xml:id="dvojan">
+  <pb n="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojanъ</orth>
+    <lemma>d(ъ)vojanъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>duojani</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близнецы, двойня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 175)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>двоян</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>большие сосновые брусья, отправля­ емые из Полесья водою, преимущественно в Пруссию</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>deojdn</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>период появления колосьев . — Сюда же суффиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Вы­ гонная. Полесская земледельческая терминология. — «Лексика По­ лесья» 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дво</ref>- )анка ж. р.</orth>
+      </form>
+      <sense>
+        <def>девочка-близнец, двойной плод (черешни и т. п.), двойная пастушья свирель, двуколка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>deojd</ref>- нац, род. п. -ща, м. р.</orth>
+      </form>
+      <sense>
+        <def>ткань-двунитка, близнец, один из двойни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 95)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-апъ</ref>
+      </m> от числ. <ref type="etymon" target="a-7">*а</ref>\ъ)ио]ъ (см.).</gram>
+  </gramGrp>
+</Entry>

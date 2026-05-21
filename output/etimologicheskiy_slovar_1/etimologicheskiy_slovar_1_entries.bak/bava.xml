@@ -1,0 +1,75 @@
+<Entry xml:id="bava">
+  <pb n="167" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bava</orth>
+    <lemma>bava</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>довольство , бава забава, игрушки; довольство, достаток, обилие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ряз., Доп. к Опыту 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>разговор, беседа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>бава</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долгая беседа , забава, потеха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькевгч. М а п л . 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав. диал.<ref type="etymon" target="bava">*bava</ref>, реконструируемое на основе этих вост.-
+слав. примеров, может быть весьма старым глагольным 
+именем, 
+. соотносимым с гл. <ref type="etymon" target="bauiti">*bauiti</ref> (см. подробно это последнее, там же 
+и о характере отношений <ref type="etymon" target="bava">*bava</ref>: <ref type="etymon" target="baviti">*baviti)</ref>.</gram>
+  </gramGrp>
+  <note>Обращает на себя вни­ мание известная архаичность и самостоятельность значений имени — 'довольство, достаток, обилие' и лишь отчасти — 'за­ бава, игрушки' и под., что замечательно, если учесть почти полное возобладание в русск. языке продолжений приставочного *za- baviti {se) (см.) с семантикой 'забавлять, развлекать' (семантика, близкая к знач. 'довольство', косвенно отражена также в при­ ставочных *dobaviti, *pribaviti). Знач. и форма *bava 'довольство, достаток' делают возможным объяснение этого глагольного имени как производного с удлинением гласного от основы наст, врем, несупплетивного гл. *bovg,<xr type="compare">ср. <ref type="etymon" target="trava">*trava</ref>
+    </xr> : *trovg, <xr type="compare">см. <ref type="etymon" target="truti">*truti</ref>
+    </xr>. He исключена, далее, возможность поисков и.-е. истоков 
+этих отношений, во всяком случае можно принять, что праслав. 
+диал. *Ьаиа продолжает 
+и.-е. *bhdua ж. 
+р., ср. др.-инд. bhavdh 
+м. р. 'становление, бытие', нем. Ваи 'строение', лат. favus м. р. 
+'(пчелиный) 
+сот с медом' &lt; *fovos &lt;С и.-е. 
+*bheuos (см. о 
+них 
+Walde—Hofm. I, 469; Mayrhofer II, 485; Pokorny I, 146 и след.). 
+Фасмер (I, 101) говорит о -бава только в составе сложного забава, 
+не 
+упоминая 
+наших 
+случаев 
+свободного употребления 
+бава.</note>
+</Entry>

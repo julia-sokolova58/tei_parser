@@ -1,0 +1,125 @@
+<Entry xml:id="dunoti">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dunǫti</orth>
+    <lemma>dunǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дуна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дунуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; двусмысленно ввиду возможного тождества с духна, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дуна</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дунути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дунуть, повеять</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, налететь (о порыве ветра) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>duniti</ref> (Strekelj. Slov. И), ст.-</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dunuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>flare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zalt. wit., см. Kott VI, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dundyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дунуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХнХти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дунуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ио. X X . 22. Остр, ев.; Ио. екз. Бог. 87, Срез­ невский I, 744)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дунуть</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дунути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дунуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 458)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дунуць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>рвануть, двинуть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-щИ</ref>
+      </m>, соотносительный с <ref type="etymon" target="duti-2">*duti</ref> 
+(см,).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,93 @@
+<Entry xml:id="drziti">
+  <pb n="232" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьržiti</orth>
+    <lemma>dьržiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. . <ref>dirzet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 52, с праслав. реконструкцией *dfziti)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dzierzyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>держать, вла­ деть . — О более широком первонач. распростра­ нении гл. на 4ti косвенно свидетельствуют производные именные формы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>drzic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>держатель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 493)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drziste</ref> ср.</orth>
+      </form>
+      <sense>
+        <def>держак, ручка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>држител</ref> м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 709)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>drzitel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>держатель, владелец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 349)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дёрживо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>иждивение, содержание</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 371)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (вторичный? Ср. природу z&lt;^zj 
+в <ref type="etymon" target="dbrzati-2">*dbrzati</ref>, см.), 
+соотносительный с <ref type="etymon" target="dbrzati-2">*dbrzati</ref>.</gram>
+  </gramGrp>
+</Entry>

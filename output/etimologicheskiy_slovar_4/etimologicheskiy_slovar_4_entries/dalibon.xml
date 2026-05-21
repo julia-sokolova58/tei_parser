@@ -1,0 +1,28 @@
+<Entry xml:id="dalibon">
+  <pb n="185" end_page="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dalibon</orth>
+    <lemma>dalibon</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dal'eborb</orth>
+    <lemma>dal'eborb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dalibor</ref>, Dalebor м. p., личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 204)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Двуосновное именное сложение, образованное от сравн. степени прилаг-ного<ref type="etymon" target="daVe-3">*daVe</ref> (см.; огласовка <ref type="etymon" target="dali-">*dali-</ref> вызвана аналогией вли­
+ятельной модели сложений с компаративом в первом компоненте?) 
+и именной основы *-Ьогъ, употребительной в сложных, антропо­
+нимах.</gram>
+  </gramGrp>
+  <note>Сближение Дечева слав. ВаИЬогъ с фрак. AaXVj-Tcopic, кот. якобы семантически равнозначно греч. Тт]Хб-{ла^од ^бьющийся из- далека' (см. об этом еще Popovid. Geschichte der serbokr. Spr. 72), сомнительно ввиду возможных иных связей фрак, имени.</note>
+</Entry>

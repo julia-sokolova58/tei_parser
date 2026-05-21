@@ -1,0 +1,93 @@
+<Entry xml:id="dervbce">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervbce</orth>
+    <lemma>dervbce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дрёвце</ref>, дрёвце, дрщёвце, дрщевце ср. р., ум. от древо, дрщево</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 680—681; RJA II, 779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drevce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>деревце, приспособление для лазания у птицело­ вов, мачта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drevce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>древко (копья)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 306)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drievce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>деревце</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>drzewce</ref> ср. р. то же , также стар, drzewco ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 405)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>деревце</ref> ср. р., ум. от дерево, сюда же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дервца</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колодка, на которой плетут лапти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(вят., Опыт 46; Даль 3 I, 1064)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>деревце</ref> ср. р., ум. от дерево,</orth>
+      </form>
+      <sense>
+        <def>часть плуга, свадебное деревцо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко 1, 369)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъсе</ref>
+      </m> от <ref type="etymon" target="deruo-2">*deruo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,276 @@
+<Entry xml:id="gostb">
+  <pb n="66" end_page="67" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gostb</orth>
+    <lemma>gostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ГОСТА</ref>, род. п. -и, м. p. čevog, cptXoc, hospes</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Супр., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гост</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гос</ref> м. р. то же , гос</orth>
+      </form>
+      <sense>
+        <def>м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 52; И. К. Бунина. Словарь говора О л ь ш а н ­ ских болгар. — Статьи и материалы по болг. диалектологии СССР 5. М., 1954, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гостии</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гост</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гост</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость, пришлый торговец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 517—518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gost</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чужеземец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ZkM. 282)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gost</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 237)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>host</ref>, род. п. -а, м. р.</orth>
+      </form>
+      <sense>
+        <def>гость, стар, host, род. п. -i, ж. р. гостья</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hosf</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>h6s6</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 216)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gosc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>d</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ust м. р. гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 59, с реконструкцией *gostb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gosc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1251—1252)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gos</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gugsc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 317)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гость , чужеземец , иноземный, приезжий купец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 92; Пов. вр. л. под 945 г.; Ио. екз. Бог. 320)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1150 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 907 г . — п о Радз. сп.; Дог. Иг. 945 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 569—570)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гость</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>человек, пришедший навестить кого-либо</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>г1сть</ref>, род. п. гостя, м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>госць</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гость</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Об употреблении в др.-русск. см. А. С. Львов. Лексика «По­ вести временных лет» (М., 1975) 254—255.</note>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="gostb">*gostb</ref> исконнородственно лат. hostis 
+'пришелец, чуже­
+земец', 'враг', пренест. fostis, 
+гот. gasts, 
+представляя собой вместе 
+с перечисленными основу на 
+которая, однако, 
+по всем веро­
+ятиям, продолжает более архаичную 
+основу 
+на 
+согласный 
+и.-е. 
+<ref type="etymon" target="ghost">*ghost(</ref> i)-s, 
+потому что только в этом случае можно объяснить 
+древнее сложение 
+<ref type="etymon" target="ghost-pot-">*ghost-pot-</ref> 
+в лат. hospes/pitis, 
+слав. 
+<ref type="etymon" target="gospodb-6">*gospodb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Мысль о заимствовании слав. *gostb из герм, не имеет под собой серьезных оснований, кроме формальной и семантич. бли­ зости слав, с герм, (а также с лат.), при полном отсутствии соот­ ветствий для *gostb (как, впрочем, и для *gospodb) в балт. Даль­ нейшая этимология и.-е. *ghost(i)s проблематична, высказывалось даже мнение, что «дальнейший анализ и.-е. *ghostis—-праздное занятие» (Walde — Hofm. I, 663), с чем, однако, можно не согла­ ситься. Производная, вторичная природа слова видна из его аре- ального характера (италийск., герм., слав.) и из формальных дан­ ных: так, допустимо предполагать здесь -t- суффиксальное произ­ водное *ghos-t- от и.-е. *ghos- 'поедать', ср. др.-инд. ghdsatL Эта в общем старая этимология скорее подкрепляется некоторыми до­ полнительными сравнениями в связи с наблюдениями над возник­ новением и эволюцией ритуалов гостеприимства и потчевания гостя при этом, ср. возможное отнесение сюда однокорневого (но без суф. -t-) лув. kasi- 'посещение' (Иванов, ниже), если послед­ нее— из *ghos(i)-. Греч. атт. čsvo&lt;;, коринф. I&amp;VFOQ, доставившее так много хлопот исследователям (Frisk I, 334: «Isoliert»), все-таки преждевременно отрывать от и.-е. *ghost(i)-, ср. хотя бы удиви­ тельное тождество значений 'чужеземец', 'гость', но стоит попы­ таться осмыслить его как особый архаизм формы и значения *ghs-eneu-, т. е. 'без (*епеи) пищи *ghs~y (конструкция с после­ логом)— о чужеземце, которому предоставляли только кров. Ар- хаич. образование с последующим переводом в греч. тематич. -о-основы. На его фоне италийск.-герм.-слав. новообразование *ghos-t( i )-s носит формально более регулярный характер и отра­ жает более поздний расцвет ритуала гостеприимства. Из литер. М. Bloomfield AJPh XVI, 1895, 422; A. Meillet MSL 9, 1896, 374; A. Ernout MSL 13, 1905, 336; M. Breal 15, 1908, 143—145 (сомневается в попытке связать лат. hostis с ghas- 'manger'); Berneker I, 337; Преобр. I, 152; Kiparsky. Die gemeinslav. Lehnworter aus dem Germ. 68; F. Mezger «Language» 24, 1948, 1 5 4 _ 1 5 5 ; фасмер I, 447—448; Sfawski I, 328; Младенов ЕПР 166 (содержащееся здесь, s. v. жесток, сближение с лат. hostis могло бы дать пищу для размышлений — совсем не в том направлении, которым руководствовался автор—о возможных следах и.-е. *ghos- 'поедать' в слав.<xr type="compare">см. <ref type="etymon" target="zestbkbzestokb">*zestbkb/*zestokb</ref>
+    </xr>; последнее слово употреб­
+ляется преимущественно, 
+когда речь идет о твердости/жесткости 
+(фиг.—жестокости) 
+плоти, мяса, тела, мышц, сердца, в отличие, 
+например, от Ниьгйъ 
+(см.). — о камне, костях, неживой 
+природе); 
+Vaillant. Gramm. comparee I, 35—36; Pokorny I, 453; Kluge
+2 0 234 
+(«Зап.-и.-е. *ghosti-s — это был чужеземец, которому предоставляли 
+кров и ложе для сна, но перед 
+запертой 
+дверью 
+своего 
+дома»); 
+Machek
+2 178; Вяч. Вс. Иванов «Этимология. 
+1971» 
+(М., 
+1973), 
+302—306; Benveniste. Le vocabulaire des institutions 
+indo-europe-
+ennes I, 92—96.</note>
+</Entry>

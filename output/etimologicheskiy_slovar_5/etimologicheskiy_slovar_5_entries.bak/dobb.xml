@@ -1,0 +1,55 @@
+<Entry xml:id="dobb">
+  <pb n="49" end_page="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dobb</orth>
+    <lemma>dobb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ддб</ref>, род. п. ддби, ж. р.</orth>
+      </form>
+      <sense>
+        <def>пора, время</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dob</ref>, род. п. dobl, ж. р.</orth>
+      </form>
+      <sense>
+        <def>время, вид, сорт, способ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>dob</ref>:tq dobiq</orth>
+      </form>
+      <sense>
+        <def>в это время, тогда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St, stpol. II, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>di6</ref>, род. п. добй, ж. р.</orth>
+      </form>
+      <sense>
+        <def>время, пора (Киевск. губ.), возраст, лета (Лебедин. у.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 386)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *doba,<xr type="compare">см. <ref type="etymon" target="dobo">*dobo</ref>
+    </xr>.</note>
+</Entry>

@@ -1,0 +1,35 @@
+<Entry xml:id="gbbtati">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gb(b)tati</orth>
+    <lemma>gb(b)tati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гътам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>опрокидывать, перевертывать , гътам се сваливаться больным, падать (Зап. Болгария, Архив Болг. диал. словаря, София)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Объясняют как древнее локальное образование (глагольный ин­ тенсив на<m type="suffix">
+        <ref>-t-аШ</ref>
+      </m>), 
+родственное 
+лтш. 
+gubstu, 
+gubt 
+'изгибаться, 
+гнуться' и слав. <ref type="etymon" target="gbbnQti">*gbbnQti</ref>, 
+<ref type="etymon" target="gubiti">*gubiti</ref> 
+(см. s. vv.).</gram>
+  </gramGrp>
+  <note>См. Георгиев БЕР IV, 305 (неточно: «лит.»).</note>
+</Entry>

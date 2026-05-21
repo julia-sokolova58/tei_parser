@@ -1,0 +1,170 @@
+<Entry xml:id="dostigatidostignoti">
+  <pb n="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dostig(a)ti, *dostignǫti</orth>
+    <lemma>dostig(a)ti, *dostignǫti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dostignqti</orth>
+    <lemma>dostignqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>достигал</ref>, достйгна</orth>
+      </form>
+      <sense>
+        <def>достигать, дохо­ дить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>достига</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достигать , достигне достичь, достигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>docmuhu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догнать, настигнуть, достичь, хватить, ддстизати то же (сврш.), достигнуты, сло­ вен. dostici, dostigniti достигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>dostihati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догонять, преследовать, dostihnouti догнать, наверстать, достигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 443—444)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dostihnuV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догнать, достигнуть, застигнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 310)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>doscignuu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>достиг­ нуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>doucigac</ref>, doecignqc</orth>
+      </form>
+      <sense>
+        <def>догонять, достигать, (стар.) созревать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>достищи</ref>, достиг^</orth>
+      </form>
+      <sense>
+        <def>достигнуть , достизати , достигнута, достигни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мин. 1096 г. окт. 57; Иолик. носл.; Псков. I л. под 1471 г., Срезневский I, 713)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>достигать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>добираться куда-либо, догонять, настигать, прости­ раться, доходить по своим размерам, весу до какого-либо уровня, предела, добиваться чего-либо, намеченного заранее, достиг­ нуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>достигать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догонять , достигни догнать , достигнуть то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Белоруссов. Местные слова Вологодской губ. — РФВ XVIII, 1887, 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ср.-урал., Филин 8, 148; Словарь говоров Соликамского района Пермской области 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь Краснояр­ ского края 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>достйгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>созреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 431)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>достигати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>созревать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Л. Т. Выгонная. Полесская земледель­ ческая терминология. — «Лексика Полесья» 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-26">*do</ref> (см.) и гл. <ref type="etymon" target="stigati">*stig(a)ti</ref>, 
+<ref type="etymon" target="stigngti">*stigngti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

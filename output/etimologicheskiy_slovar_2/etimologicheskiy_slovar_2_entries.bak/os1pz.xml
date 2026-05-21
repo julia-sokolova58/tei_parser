@@ -1,0 +1,41 @@
+<Entry xml:id="os1pz">
+  <pb n="157" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьос1ьпъ(зь)</orth>
+    <lemma>Ьос1ьпъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bodan</ref>, bddna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>pungens, колючий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в.; в словарях Белостенаца, Вольтиджи и Стулли, RJA II, 469)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bodny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>колющий, колотый, проколотый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bodny</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 111)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. производное с суфф. -ыг- от основы гл.<ref type="etymon" target="bostiy">*bostiy</ref>
+      <ref type="etymon" target="bodo-2">*bodo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

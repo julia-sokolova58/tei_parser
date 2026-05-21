@@ -1,0 +1,100 @@
+<Entry xml:id="edadlo">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdadlo</orth>
+    <lemma>ĕdadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ядало</ref> ср. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(у Герова — ж. р.!)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йадалу</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>лезвие, острие топора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. )<ref>адало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>съестное, пища, еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. книжн. <ref>jedala</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>жевательный аппарат (у животных)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Шулек, RJA IV, 512)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jeddlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>широкая часть ложки, jedala мн. das Essbesteck</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ядало</ref>, едало ср. р.</orth>
+      </form>
+      <sense>
+        <def>рот</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., орл., Даль 3 IV, 1562)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гдало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>желудок (шутл.), широкая часть ложки, та, которой набирается пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко И, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>гдало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>еда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(шепетов., Курило 71)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(a)dlo от гл.<ref type="etymon" target="edati">*edati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

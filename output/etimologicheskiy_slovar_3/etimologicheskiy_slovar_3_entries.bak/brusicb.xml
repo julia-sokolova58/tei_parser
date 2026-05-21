@@ -1,0 +1,29 @@
+<Entry xml:id="brusicb">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusicb</orth>
+    <lemma>brusicb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brusic</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>точильщик</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brusic</ref> м. р. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 136)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -(1)съ от гл.<ref type="etymon" target="brusiti">*brusiti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

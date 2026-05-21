@@ -1,0 +1,96 @@
+<Entry xml:id="drvar">
+  <pb n="140" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drъvarь</orth>
+    <lemma>drъvarь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дървар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, также Дювернуа, Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дървар</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>и. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско.— БД VI 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дрвар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек, торговец дровами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>drvdr</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек; тот, кто продаёт или носит дрова</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 817)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drvdrу</ref> род. п. -г/а, м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>drvaf</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек , ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 47)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>drevdr</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дровосек, торговец дровами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 327)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф.<m type="suffix">
+        <ref>-агь</ref>
+      </m> 
+от 
+<ref type="etymon" target="ygy">*йгы</ref>;о, 
+мн. 
+<ref type="etymon" target="drwa">*drwa</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

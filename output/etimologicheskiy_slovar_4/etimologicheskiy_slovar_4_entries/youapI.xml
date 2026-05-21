@@ -1,0 +1,62 @@
+<Entry xml:id="youapI">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ёьуапъ I</orth>
+    <lemma>ёьуапъ I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>cwany</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>хитрый, ловкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(мазовецк., варшавск., цит. по: Bruckner 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чванный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гордый, тще­ славный и малодушный; ломливый . — Отсюда производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 2 IV, 585)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чванъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чванность, более как понятие отвлеченное: гордость, тщеславие, спесь и жажда лести, похвалы , укр, чванъ ж. р. чванство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Канев. у., Грин­ ченко IV, 448)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чвань</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чванство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гарэцш 168)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Первонач. прич. страд, прош. от несохранившегося гл. *6watl 'разбухать, надуваться', родственного греч. xosa&gt; 'беременеть', др.-инд. Svayati 'делаться большим, сильным', ёйпа- 'надутый, разросшийся'. Эту этимологию, восходящую еще к Потебне (РФВ III, 1880, 169—171) и несправедливо впоследствии забытую (см.</note>
+  <gramGrp>
+    <gram>Berneker I, 175, где дается — на выбор—маловероятное сближение с *6uti (см.) или догадка о звукоподражат. происхож­ дении; Фасмер IV, 321: допускает звукоподражание), мы прини­ маем с оговоркой, что слав, форма продолжает велярный вариант и.-е.<ref type="etymon" target="kuueid">*kuueid</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,31 @@
+<Entry xml:id="dobromil">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobromilъ</orth>
+    <lemma>dobromilъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Dobromil</ref> м. p., личное имя собств. , сюда же Dobromila ж. р. . — Ср.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 272)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ум</ref>. Добро- милка ж. р. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Илчев. Речник на личните и фамилии имена у българите, 175)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dobrb-8">*dobrb</ref> (см.) и <ref type="etymon" target="ti">*тИъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

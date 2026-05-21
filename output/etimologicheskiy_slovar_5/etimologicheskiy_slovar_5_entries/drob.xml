@@ -1,0 +1,196 @@
+<Entry xml:id="drob">
+  <pb n="119" end_page="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drobъ</orth>
+    <lemma>drobъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дроб</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>внутренности, бял дроб легкое, черен дроб печень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дроп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кусочки хлеба, накрошен­ ные в молоко, суп, кашу и т. п. , дроп, прилаг. рваный, негодный , дроп, -ба, м. р. внутренности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 81)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дроб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>внутренности , се; бохорв. дроб, род. п. дрова, м. р. внутренности, мякоть (плода), оса ок, по онки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 723)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>дроп</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>виноградные выжимки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mic. 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drob</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>мелкие части, крошки, внутренности , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drob</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>крошка, мелочь , внутренности, [ragmen, farcimina (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>drob</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ливер (сердце, печень, легкое)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drob</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сенная труха вперемешку с семенами и мусором, внутренности, особенно свиные , droby ми. птичьи потроха, внутренности, ливер, печеночная колбаса , сю;.а же ум. dro- bek, род. п. -Ька, м. р. кусочек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 23—24)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos, Slov. 68)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>droby</ref>, drobky мн.</orth>
+      </form>
+      <sense>
+        <def>внутренности, потроха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 332, 333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>drob</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мелочь, труха, опилки, требуха, внутрен­ ности</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drob</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>дробь, потроха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дробь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мелкая частичка , картечь (XVII в.), квасная или пивная гуща, барда</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ВМЧ, Окт. 1—3, 192. XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кн. гасх. Бол;, м. 61, 1о89 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. РЯ XI—XVII вв., 4, 353)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дроб</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>выжимки виноградные (донск.), зато]) солода с мукою, оставшийся по сли­ тии с него сусла при варении пива или браги , сюда же ум. дровбк, род. п. -вка, м. р. кусок или ломтик, кроха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пенз., Опыт 50; Филин 8, 186)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(южн., зап., Даль 3 I, 1226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дрв</ref>, род. п. дрбву, м. р.</orth>
+      </form>
+      <sense>
+        <def>кусочек, крупинка, дробь ружейная, до­ машние птицы, недойные овцы , мелкие до­ машние животные , сюда же ум. дрЬббк, род. п. -вка, м. р. кусочек, крушптка (о соли, напр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 443)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. С. Колесник. МатерЛали до словника д]алек- тизм1в украшських говорЛв Буков и ни 43)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 444)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>блр. дроб м. р. дробь, сюда же ум. драббк м. р. частица, щепотка , дрббка ж; р. крошка, крупинка, маленький кусочек.</note>
+  <gramGrp>
+    <gram>Имя, соотносительное с гл.<ref type="etymon" target="drobiti">*drobiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

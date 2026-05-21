@@ -1,0 +1,121 @@
+<Entry xml:id="dogledati">
+  <pb n="50" end_page="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*doględati</orth>
+    <lemma>doględati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>доглёдам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>досмотреть, взрастить, вскормить, за­ метить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>догледа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заметить, увидеть; разгля­ деть, охватить взглядом, досмотреть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ддгле</ref>- @ащи</orth>
+      </form>
+      <sense>
+        <def>охватить взглядом, досмотреть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dogledqti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>охра- тить взглядом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dohledati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>присматривать, наблюдать (XV—XVI вв., Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dohledati</ref>, dohlidati</orth>
+      </form>
+      <sense>
+        <def>охватывать взглядом, присматривать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dogladac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заботиться, присматривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>догля</ref>­ дишь</orth>
+      </form>
+      <sense>
+        <def>присматривать, ухаживать за кем-, чем-либо, заботиться о ком-, чем-либо, доглядывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(сев.-двинск., новг., орл., курск., том., Филин 8, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>доглядаши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>присматривать, надзирать, стеречь, заботиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даглядаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>присмо­ треть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 87)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-7">*do</ref> (см.) и гл. <ref type="etymon" target="gl">*gl</ref>$dati, <ref type="etymon" target="gl-2">*gl</ref>$deti (см.).</gram>
+  </gramGrp>
+  <note>Заметна ран­ няя специализация знач-я.</note>
+</Entry>

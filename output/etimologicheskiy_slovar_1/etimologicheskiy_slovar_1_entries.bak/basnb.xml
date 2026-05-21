@@ -1,0 +1,201 @@
+<Entry xml:id="basnb">
+  <pb n="160" end_page="161" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>basnb</orth>
+    <lemma>basnb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>басня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, выдумка , басьнъ ж. р. басня; ложь, выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>басна</ref>, басма ж. р.</orth>
+      </form>
+      <sense>
+        <def>заговор, за­ клинание против болезни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД II1, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>басна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, заговор, заклинание ( И - С )</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>basan</ref>, род. п. basni, ж. p.</orth>
+      </form>
+      <sense>
+        <def>fabula , bdsna ж. р. то же , basma ж. р. заговор, заклинание (там. же)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V в., RJA I, 192)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с X V I I в., также 'выдумка' 'заговор', RJA 1, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. *<ref>bas</ref> rbkbjb basen, род. п. -snl, ж. p. "вымысел; басня</orth>
+      </form>
+      <sense>
+        <def>, bdsna ж. р. то же , стар, basem ж. p. Fabula , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 13)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kastelec: bai\em)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>basn</ref>, basn, basen ж. p.</orth>
+      </form>
+      <sense>
+        <def>вымысел, басня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdsen</ref>, род. п. -sne, ж. р.</orth>
+      </form>
+      <sense>
+        <def>стихотворение, поэма; басня</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>basna</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выдумка, вымысел</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bdsen</ref>, род. п. -sne, ж. р.</orth>
+      </form>
+      <sense>
+        <def>поэма, стихотворение, выдумка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>basen</ref>, род. и. -snje, ж. р.</orth>
+      </form>
+      <sense>
+        <def>рассказ, поэма, стихотворе­ ние , basnja то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>basn</ref>, basen ж. р.</orth>
+      </form>
+      <sense>
+        <def>сказка, поэма, стихотворение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>basn</ref> ж.р.</orth>
+      </form>
+      <sense>
+        <def>басня; выдумка, небылица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 371)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>баснь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сказка, [ловос; обаяние, incantatio</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, .45)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>басня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>небольшой нравоучительный рассказ, вы­ думка, вымысел</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>басня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сказка , ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>басня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>басня, выдумка, предание, рассказ</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тим­ ченко 1, 60)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Древнее слав, именное произведение с суфф.<m type="suffix">
+        <ref>-snb</ref>
+      </m> от основы 
+Ьа~ (см. <ref type="etymon" target="bajati-13">*bajati</ref> 
+'говорить' 
+и 
+родственные).</gram>
+  </gramGrp>
+  <note>См. Berneker I, 45; Фасмер I, 131; Sadnik—Aitzetmuller. V g l . W b . 2, 120, Вместе с тем сравнение с и.-е. соответствиями показывает инновационный характер слав, производного на -snb, т. к. другие и.-е. языки знают только более простые именные производные от *bha на -m-j-n- и на -s: лат. fama, арм. ban, лат. fas.</note>
+</Entry>

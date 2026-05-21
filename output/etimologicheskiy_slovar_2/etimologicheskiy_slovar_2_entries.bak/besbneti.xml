@@ -1,0 +1,82 @@
+<Entry xml:id="besbneti">
+  <pb n="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besbneti</orth>
+    <lemma>besbneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>беспёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неистовствовать, сходить с ума , ша­ лить, блажить, возиться, куролесить, проказничать, повесничать, беситься</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>б</ref>]ёшн&gt;ети, бёснети, бйснити</orth>
+      </form>
+      <sense>
+        <def>буйствовать, беситься, сходить с ума</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>беснет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сходить с ума, волноваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>besneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беситься, буйствовать, бушевать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 22)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>besnief</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>неистовствовать, besnief sa беситься (о собаках, кошках), неистовствовать, буйствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>besnief</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Stanislav. Lipt. 356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное на *<m type="suffix">
+        <ref>-eti</ref>
+      </m> от основы прилаг. <ref type="etymon" target="lemma">*Ь</ref>&amp;ътгъ (см.).</gram>
+  </gramGrp>
+  <note>Исклю­ чительно ю.-слав. (любопытно наличие в слвц.).</note>
+</Entry>

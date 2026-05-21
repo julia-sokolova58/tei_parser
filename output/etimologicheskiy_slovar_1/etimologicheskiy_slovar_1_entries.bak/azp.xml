@@ -1,0 +1,62 @@
+<Entry xml:id="azp">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>азьпъ]ь</orth>
+    <lemma>азьпъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jdjan</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 419; с X V в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdjen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>vajny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>овальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 757)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jajny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 125)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилагательное с суфф. -bnb(jb) от<ref type="etymon" target="aje">*aje</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

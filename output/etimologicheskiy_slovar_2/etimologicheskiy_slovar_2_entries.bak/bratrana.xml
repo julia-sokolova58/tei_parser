@@ -1,0 +1,29 @@
+<Entry xml:id="bratrana">
+  <pb n="237" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratrana</orth>
+    <lemma>bratrana</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bratrana</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двоюродная сестра, племянница , двоюродная сестра, дочь брата или сестры, племянница (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 96)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ana</ref>
+      </m> 
+от <ref type="etymon" target="bratn">*bratn</ref> 
+(см.), соотносительное 
+с <ref type="etymon" target="brdtranb">*brdtranb</ref> м. р. (см.).</gram>
+  </gramGrp>
+  <note>Ср. еще аналогичные *bratana — *bra- 1апъ (см.).</note>
+</Entry>

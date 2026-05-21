@@ -1,0 +1,36 @@
+<Entry xml:id="blqda">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blqda</orth>
+    <lemma>blqda</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>блъпди</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>нечистые прыщи (Воденско, Архив Болг. диал. словаря, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bloda</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>заблуждение, ошибка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 36)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Именное образование (<m type="suffix">
+        <ref>-0-вокализм</ref>
+      </m>), 
+соотносительное с гл. 
+<ref type="etymon" target="bl-2">*bl</ref>$d()y <ref type="etymon" target="blesti-4">*blesti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Близкую параллель этой слав, основе на -а ж. р. можно указать в лит. blanda 'болтушка из муки', 'сонли­ вость, помрачение, сумерки' (см. о последнем Fraenkel I, 47, без наших слав, примеров). Согласно Георгиеву БЕР I, 58, болг. слово заимств. из рум. blanda 'сыпь на теле'.</note>
+</Entry>

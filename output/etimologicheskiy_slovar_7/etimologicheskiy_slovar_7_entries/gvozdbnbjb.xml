@@ -1,0 +1,67 @@
+<Entry xml:id="gvozdbnbjb">
+  <pb n="185" end_page="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvozdbnb(jb)</orth>
+    <lemma>gvozdbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>gvozdan</ref>, gvozna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>железный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только в словаре Стулли, RJA III, 522)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gozden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>лесной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hvozdny</ref>, прилаг. от hvozd</orth>
+      </form>
+      <sense>
+        <def>большой, густой лес</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гвоздньш</ref>, прилаг. к гвоздь, гвоздь , сюда же Гвоздна, местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Поел. Льва, 14, XIV в., СлРЯ XI—XVII вв. 4, 14)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дух. грам. Иван. Калиты 1327—1328 гг., Картотека СДР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Гвоздка</ref>, река, бывш. Подольск, у. Моск- губ.; река в бывш. Псков, губ. , Гвоздно, местн. название в бывш. Гдовск. у.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Worterbuch der russichen Ge- rgT»bati wassernamen I, 427)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Петерб. губ.; Порхов. у. Псков, губ. (Russisches geographisches Namenbuch И, 330).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от <ref type="etymon" target="gvozdb">*gvozdb/</ref>
+      <ref type="etymon" target="gvozdb">*gvozdb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

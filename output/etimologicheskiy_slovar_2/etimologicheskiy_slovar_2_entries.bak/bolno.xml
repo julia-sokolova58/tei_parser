@@ -1,0 +1,38 @@
+<Entry xml:id="bolno">
+  <pb n="177" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolno</orth>
+    <lemma>bolno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bldno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>часть дерева под корой; сердцевина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>болоно</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>невоспалительные опухоли на теле , болоно опухоль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Герасимов. О говоре крестьян южной части Череповецкого уезда Новгородской губернии. — ЖСт. III, 1893, 376)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Форма ср. рода, во всем остальном, включая этимологию, тождественная<xr type="compare">см. <ref type="etymon" target="bolna">*bolna</ref>
+    </xr>.</note>
+</Entry>

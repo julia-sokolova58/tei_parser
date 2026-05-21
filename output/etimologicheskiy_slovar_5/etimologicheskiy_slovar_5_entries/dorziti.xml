@@ -1,0 +1,104 @@
+<Entry xml:id="dorziti">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*doržiti</orth>
+    <lemma>doržiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>draziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ублажать, говорить или делать приятное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA П, 763)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>draziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>повы­ шать цены, вызывать дороговизну</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>draziti</ref> то же , также</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>drazit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(HruSka. Slov. chod. 23)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>drozyS</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поднять цену</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 209)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дорожать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ценить дорого, высоко; скупиться, сберегать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дорожйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ценить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даражыць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>запрашивать высокую цену</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="dorgb-9">*dorgb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

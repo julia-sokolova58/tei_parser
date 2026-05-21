@@ -1,0 +1,124 @@
+<Entry xml:id="gbrbacb">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrbacb</orth>
+    <lemma>gbrbacb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grbac</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>der Hockerzahn, морщинистый чело­ век</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrbdc</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горбатый человек, горбун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrbdc</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hor</ref>- bac м. р.</orth>
+      </form>
+      <sense>
+        <def>горбун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>gjarbac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горбун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>горбач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>приисковый рабочий, обычно ссутулившийся от работы в наклонном положении (сиб.), человек с поклажей, котомкой на спине (сиб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>horbdc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>комар</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волын., Dejna. Tarnopolszczyzna 122)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гырбач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>горбун . — Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Мапл. 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gfbaca</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>спина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA 111, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grbaca</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>die Hockerraupe, морщинистая женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 246)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-асъ</ref>
+      </m> от <ref type="etymon" target="gbrbb">*gbrbb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

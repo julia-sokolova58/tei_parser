@@ -1,0 +1,41 @@
+<Entry xml:id="bolgati">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bolgati</orth>
+    <lemma>bolgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blahati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>благословлять, блаженствовать, находить удовольствие (в чем), нравиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>bid</ref>- hat 9</orth>
+      </form>
+      <sense>
+        <def>благословлять, bldhaf si наслаждаться, тешить себя на­ деждой (польск. blagac просить, умолять заимство­ вано из чеш.-слвц. источника)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 26)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m>, соотносительный с именем <ref type="etymon" target="bolgo">*bolgo</ref> (см.) Обращает 
+на себя внимание специальная близость глагольных образований 
+праслав. диал. <ref type="etymon" target="bolgati">*bolgati</ref> и авест. bdrdjaya- 'приветствовать'.</gram>
+  </gramGrp>
+  <note>См. Machek 33.</note>
+</Entry>

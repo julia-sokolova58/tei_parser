@@ -1,0 +1,84 @@
+<Entry xml:id="bruditi">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bruditi</orth>
+    <lemma>bruditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>braditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>загрязнять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>brugic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>загрязнять, пачкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa, Dlha Luka 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brudzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>марать, загрязнять; мутить (воду)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brudzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>марать, пачкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 672)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>brdgec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брудиши</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязнить, пачкать, загрязнять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 101)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="brudb">*brudb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

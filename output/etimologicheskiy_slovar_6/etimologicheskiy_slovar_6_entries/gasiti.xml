@@ -1,0 +1,225 @@
+<Entry xml:id="gasiti">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gasiti</orth>
+    <lemma>gasiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гася</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гасим</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить, тушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Ново село, Видинско 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гаси</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить, тушить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гасити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить, подавлять, сюда же производное gdsiv, прилаг. гаснущий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 110)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gasiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hasiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">стар. <ref>hasivo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>средство для гашения</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hasif</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 462—463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hasiV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить, бить, лупить , hasivo</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vycho- donovohrad. 204)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hasyd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gasye</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 244)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gose</ref> 3 л. ед. ч. наст. вр.</orth>
+      </form>
+      <sense>
+        <def>гасит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gasic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1056)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gasec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гасити</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Дуб. Сб. XVIв. 63, Срезневский I, 510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гасить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прекращать горение, ту­ шить горящее</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гасить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чадить , истреблять , истреблять (ряз.), пить до дна, осушать (арх.) , бранить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижнедонск., Филин 6, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ряз., Опыт 36; Диттель ЖСт VIII, 1898, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(перм., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гасити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тушить, гасить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 276)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гасщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гасить</def>
+      </sense>
+    </item>
+  </etym>
+  <note>В слав, обобщена продленная ступень корневого вокализма и.-е. *g*es-j *g"os- (см. также *gasngti), ср. прежде всего греч. (ион.) (хаха-)аршаа1 с близкими знач-ми. Балт. последовательно обнаружи­ вает нормальную ступень вокализма, с признаками носового ин­ фикса, о кот. см. на *gasngti (там же другие морфологически бо­ лее близкие соответствия). См. A. Meillet MSL 14, 1907, 338— 339 (вокализм -а- оправдан только в gasiti, сравнение с греч. ofiCoaai свидетельствует о древности долготы в этом корне); Вегпе- ker I, 295; Фасмер I, 396; Frisk II, 685.</note>
+</Entry>

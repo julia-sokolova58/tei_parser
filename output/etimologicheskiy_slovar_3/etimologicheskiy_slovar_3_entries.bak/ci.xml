@@ -1,0 +1,58 @@
+<Entry xml:id="ci">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ci</orth>
+    <lemma>ci</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ци</ref>, цы</orth>
+      </form>
+      <sense>
+        <def>разве , н е . . . ли , ли (Вопр. Кир.), или (Жит. Андр. Юр. и др.), если , да ци хоть бы, лишь бы (Жит. Сим. Ст. X I I I в.), ци бы чтобы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1097 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 1071 г. и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Дог. Ол. 911 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подорожн. 1464—1473 гг.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1439—1441; Miklo­ sich L P 1105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ци</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ли, или, разве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 428)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>цг</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ли</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 688: ци 'ли', 'или, либо', 'разве', 'если')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Этимологически тождественно<xr type="compare">см. <ref type="etymon" target="syo">*сё</ref>
+    </xr>. См. Фасмер IV, 301.</note>
+</Entry>

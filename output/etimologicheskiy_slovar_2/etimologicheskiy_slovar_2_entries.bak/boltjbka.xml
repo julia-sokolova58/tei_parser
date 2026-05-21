@@ -1,0 +1,141 @@
+<Entry xml:id="boltjbka">
+  <pb n="190" end_page="191" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'§tjbka</orth>
+    <lemma>bol'§tjbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бдлёшка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сочащаяся рана , болячка рана</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 130)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Джумая, см. Качановский. Сбор­ ник западноболгарских песен 563)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>болешка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>боль, болезнь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bolecka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>dulca (Klaret, Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>boVacka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болячка, рана, особенно на пальцах, от ушиба, укола, пореза , также bolicka</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 21)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>boVacka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>болячка, рана, язва; боль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bolqczka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>боль, страдание (стар.), болезнь, особенно дизентерия и лихорадка; гланды; болячка; туберкулез</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>болшка</ref> IXxoc, ulcus</orth>
+      </form>
+      <sense>
+        <def>веред, чирей , болАчъка язва, веред</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лев. XIII, 18, 19, Срезневский I, 151)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Соф. II л. под 1472 г., Срезневский III, Доп. 24 ;)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>болячка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гнойная рана на коже, нарыв</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болячка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>нарыв, чирей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Св, Пер. 61; Бер. Леке. 17 и мн. др., Тимченко I, 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болячка</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>бол</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очка боль, боль в груди, болячка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диалекта 88)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Несмотря на затруднительность формально-фонетического объяснения (-&lt;*- в вост.-слав., видимо, непосредственно из -tj-, а в ю.-слав. и зап.-слав. — результат более сложного развития, причем в зап.-слав., возм., — после вторичного смягчения -с-, полученного закономерно из -tj-; точность фиксации зап.-болг. диал. формы у Качановского вызывает сомнения), наиболее вероятна общая достаточно стар, праформа<ref type="etymon" target="boVetjbka">*boVetjbka</ref>, 
+произ­
+водное с суфф. -ъка (субстантивация) от основы прич. <ref type="etymon" target="boVetj-">*boVetj-</ref>
+(см. 
+далее 
+<ref type="etymon" target="boVeti-4">*boVeti)</ref>.</gram>
+  </gramGrp>
+</Entry>

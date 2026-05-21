@@ -1,0 +1,100 @@
+<Entry xml:id="bobotati">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobotati</orth>
+    <lemma>bobotati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>боббтж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, издавать гул</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>боббти</ref> 3 л. ед. ч.</orth>
+      </form>
+      <sense>
+        <def>трещит (об огне) , боббтим шуметь, бубнить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 203)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>боботати</ref> = цокотати ,</orth>
+      </form>
+      <sense>
+        <def>бубнить, говорить глухим голосом, стучать, постукивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(согласно RJA, с XVII в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 670)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bobotdti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глухо греметь, грохотать, шуметь, стучать, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bobotac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, греметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Zeman27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bobotae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гудеть, греметь, стучать, трястись, дрожать, трепетать, бол­ тать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>боботатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>невнятно говорить (напр. от холода) (сев.-двинск., перм.), о звуках, издаваемых зайцем (сев.-двинск., перм.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 3, 37)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Звукоподражательный гл., близкий к<ref type="etymon" target="babotati">*babotati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

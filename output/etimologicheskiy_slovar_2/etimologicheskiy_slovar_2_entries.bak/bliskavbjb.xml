@@ -1,0 +1,104 @@
+<Entry xml:id="bliskavbjb">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bliskavb(jb)</orth>
+    <lemma>bliskavb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blistavb</orth>
+    <lemma>blistavb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бл</ref>^скавый</orth>
+      </form>
+      <sense>
+        <def>блестящий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>блёскаф</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>голубой или серый (о глазах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Илчев БД I, 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блескав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>блестящий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blistav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>fulgens , блистав, блистав бле­ стящий, светлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(редко, RJA I, 440)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA I, 653—654)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bliskav</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сверкающий, сияющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blyskavy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бле­ стящий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>blyskavy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блискавий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бле­ стящий, сверкающий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 74)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное прилаг., производное с суфф. ~{a)v- от<ref type="etymon" target="bliskati">*bliskati</ref> I 
+<ref type="etymon" target="blistati-2">*blistati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

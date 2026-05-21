@@ -1,0 +1,142 @@
+<Entry xml:id="duzj">
+  <pb n="167" end_page="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dužьjь</orth>
+    <lemma>dužьjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>dull</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>крепкий, сильный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>duzi</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(ляш., Bartos. Slov. 73)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>duzi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>сильный, большой, достойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>duzy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большой, взрослый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 441—442)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>duzo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>много, стар, очень; совсем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 440)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дюжий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Прав, по сп. Обол., Срезневский I, 804)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дюжий</ref>, -ая, -ее</orth>
+      </form>
+      <sense>
+        <def>сильный, здоровенный, рослый, дюже очень, восьма, сильно, много</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дюжий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дородный, рослый , дужий, -ая, -ее сильный, крепкий , дюжий, дюжбй значительный по степени проявления, большой по размерам, величине, силе (тул., твер.-, костр., олон.), крепкий, прочный (перм., том., ленингр.), выносливый (Павлодар., свердл., иркут., том., кемер.), умелый, искусный, ловкий (новг.), хороший (новг.), крепкий, насыщенный, мало разбавленный (ленингр.), сочный, зрелый (моек.) , дужий сильный, крепкий, дюжий , дужы сильный, здоровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мельниченко 63)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 302)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., орл., тул., калуж., зап., южн., твер., смол., ленингр., брян., Филин 8, 251)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Расторгуев. Словарь народных говоров Зап. Брянщины 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дужий</ref>, -ал -е</orth>
+      </form>
+      <sense>
+        <def>сильный, мощный, здоровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дуже</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>много</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шепет1в., Курило 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дужа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очень</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ь/ь от<ref type="etymon" target="dugb">*dugb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. лит. daug 'много', нем. taugen 'годиться', Tugend 'добродетель', норв. диал. dyggr 'способный, достойный, надежный, пригодный'. Сюда же Мейе (ниже) относит др.-инд. dogdhi 'доить' (*dhaugh~). Совсем необязательно видеть в русск. дюжий ступень чередования с ду­ жий (так Фасмер), поскольку это неорганич. смягчение. См. J. Ваи- douin de Courtenay RS I, 1908, 111; Berneker I, 217—218 (говорит преимущественно о праформе *dygb); Н. Lindroth «Arkiv for nor- disk filologi XXIV, 338-339 (цит. no: RS II, 1909, 243); A. Meil- let MSL 17, 1911, 63; Фасмер I, 550, 560; Stawski I, 181 — 182.</note>
+</Entry>

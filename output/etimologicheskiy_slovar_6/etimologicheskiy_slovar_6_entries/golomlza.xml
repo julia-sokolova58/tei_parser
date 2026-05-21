@@ -1,0 +1,67 @@
+<Entry xml:id="golomlza">
+  <pb n="212" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golomьlza</orth>
+    <lemma>golomьlza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голомблза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прозвище пустомели , голомблза м. и ж. р. болтун, болтунья, пустомеля (новг.), нерасторопный, рассеян­ ный человек, разиня (зап., сев.-зап.) , голомовза болтающий вздор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Герасимов. Словарь уездного череповецкого говора 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 320)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Труды МДК. Кирилловский у. Новгород­ ской губ. — РФВ L X X I , 1914, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>галамбуза</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>никчемный человек , галамбузы, прилаг. безусый, безбородый . — Ср. сюда же производ­ ное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч, Грод. 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шаталава 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голомбвзик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лысый человек , далее — любопытное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">словен. диал. <ref>galomuza</ref> в кач-ве клички коровы .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Strekelj. Slov. 13; автор склонен толковать словен. слово как первонач. 'черная корова')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение прилаг.<ref type="etymon" target="goH-6">*goH</ref> 
+(см.) и основы гл. <ref type="etymon" target="melzti">*melzti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание фигуральность употребления (возм., ранняя?). См. Фасмер I, 430.</note>
+</Entry>

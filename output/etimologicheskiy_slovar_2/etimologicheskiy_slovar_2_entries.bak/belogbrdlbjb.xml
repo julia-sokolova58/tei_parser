@@ -1,0 +1,65 @@
+<Entry xml:id="belogbrdlbjb">
+  <pb n="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belogbrdlb(jb)</orth>
+    <lemma>belogbrdlb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>белогърли</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>с белым горлом (Кра- тово, Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bjelogrll</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белошеий , белдгрЛу б]елогрл, -а, -о белошеий, с белым горлом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 384)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА 1,449)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belohrdly</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>с белым горлом</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белогбрлый</ref> . — Сюда же производное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бело</ref>- грлест, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белогорлый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 397 и след.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="sh-2">*Шъ</ref> (см.) и основы имени 
+<ref type="etymon" target="gbrdlo">*gbrdlo</ref> (см.).</gram>
+  </gramGrp>
+  <note>О типе образования см. еще на *belo-golvb (выше).</note>
+</Entry>

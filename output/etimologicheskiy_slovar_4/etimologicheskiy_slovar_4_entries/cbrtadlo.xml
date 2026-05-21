@@ -1,0 +1,95 @@
+<Entry xml:id="cbrtadlo">
+  <pb n="161" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrtadlo</orth>
+    <lemma>cbrtadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чъртъло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сошник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Младенов. Към речника на Ново Село. — СбНУ XVIII, 1901, 506)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>цртало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сошник, лемех плуга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с XV в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>чртало</ref> ср. р. то же, также црца/ька</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(GP. 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cftalo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>certadlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>сошник, лемех, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>certadlo</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cartadlo</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Kalal 68)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cerstadto</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>сош­ ник у плуга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чертило</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ко- сульный или сошной отрез, нож, чересло</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(калуж., Даль 3 IV, 1323)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное (название орудия) с суфф. -(a)dlo от гл. *6brtati v ( с м-)'</note>
+</Entry>

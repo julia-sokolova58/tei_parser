@@ -1,0 +1,54 @@
+<Entry xml:id="blqdati">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blqdati</orth>
+    <lemma>blqdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>блъда</ref>, блъдая</orth>
+      </form>
+      <sense>
+        <def>скитаться, блуждать (Георгиев; Г еров: блр^дА шляться, скитаться, блудить, слоняться), блъдам бредить, говорить во сне , балдам медленно идти, пере­ двигаться (в грязи, снегу) , бладам бредить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блада</ref> бредить</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>бланда</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бродить, блуждать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ati</ref>
+      </m> с итеративно-длительным оттенком действия, соотно­
+сительный, с одной стороны, с гл. <ref type="etymon" target="bledg">*bledg</ref>, <ref type="etymon" target="blesti-5">*blesti</ref> (см.), а с другой 
+стороны — с именами <ref type="etymon" target="bl-3">*bl</ref>&lt;pda, <ref type="etymon" target="y-2">*Ы</ref>^ъ (см.).</gram>
+  </gramGrp>
+</Entry>

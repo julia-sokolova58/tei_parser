@@ -1,0 +1,129 @@
+<Entry xml:id="dzdziti">
+  <pb n="195" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъždžiti</orth>
+    <lemma>dъždžiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дъждити</ref> [Jps^eiv, pluere</orth>
+      </form>
+      <sense>
+        <def>идти (о дожде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъждй</ref>, безличн.</orth>
+      </form>
+      <sense>
+        <def>идет дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дожде</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Сакъов БД III, 322)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дожди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идет дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ddzdjeti</ref>, dazditi</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>deziti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>destiti</ref>, dstiti</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>destit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dazdiV</ref> , ddzdif</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ VI, 22)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дъждити</ref> , дъжгити</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Мф. V. 45. Остр, ев.; Гр. Наз. XI в. 53, Срезневский I, 754)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Апост. 1307 г. 173, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дождит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идет дождь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>безл</ref>., разг. дажджъщь</orth>
+      </form>
+      <sense>
+        <def>дождить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="dbzdzb">*dbzdzb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,112 @@
+<Entry xml:id="gacati">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gacati</orth>
+    <lemma>gacati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гацати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>идти в брод, также гацати</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>haedti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>тяжело идти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 262; Slovar sloven. jezika I, 779)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hacaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 156: детск.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гацать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>скакать, прыгать , бегать (курск.), прыгать, скакать (смол.) . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 124)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hacati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 644; Kott I, 401: о детях)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>haeat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сидеть (в детской речи) , hacaV то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartog. Slov. 87; Malina. Mistf. 29; Sverak. Boskov. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfe- doopav. 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>haiaf</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 449)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., экспрессивное образование, ср.<ref type="etymon" target="gasati">*gasati</ref> II (см.).</gram>
+  </gramGrp>
+  <note>Ср. также форму и знач.<xr type="compare">см. <ref type="etymon" target="gaziti">*gaziti</ref>
+    </xr>. 
+См. Machek
+2 154 («слово детской речи. . . без 
+этимологии»),. 
+См. Machek
+2 154 («слово детской речи. . . без 
+этимологии»),. 
+См. Machek
+2 154 («слово детской речи. . . без 
+этимологии»),. 
+См. Machek
+2 154 («слово детской речи. . . без 
+этимологии»),</note>
+</Entry>

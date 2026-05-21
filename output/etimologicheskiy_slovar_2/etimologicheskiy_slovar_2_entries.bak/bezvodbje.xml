@@ -1,0 +1,167 @@
+<Entry xml:id="bezvodbje">
+  <pb n="52" end_page="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvodbje</orth>
+    <lemma>bezvodbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>везьодиге</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>отсутствие воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безвбдие</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бя</ref>&amp;ъдие ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзво</ref>§е ср. р.</orth>
+      </form>
+      <sense>
+        <def>отсутствие воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezvddje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>нехватка воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezvodi</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>безводье</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezwodzie</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>отсутствие воды, за­ суха, безводное место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 137)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безводи</ref>\в dvooptot, aquae inopia</orth>
+      </form>
+      <sense>
+        <def>недостаток воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г.; Жит. Андр. Юр. 25, Срезневский I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безводье</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>недостаток вод; сушь, засуха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безвгддя</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>безводье, недостаток воды , безвбддя то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 41)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязвбддзе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>безводье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.- русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование от<ref type="etymon" target="voda-3">*voda</ref> (см.) или 
+производное с суфф. -ь]е от адъективного сложения <ref type="etymon" target="bezvod--2">*bezvod-</ref>
+(см. 
+<ref type="etymon" target="bezvod-2">*bezvod</ref>^b). 
+Предполагать кальку (напр. с греч.) в этом 
+случае с конкретным знач. (особенно ввиду распространения 
+в зап.-слав.) излишне. 
+<ref type="etymon" target="bezvodbivbjb">*bezvodbivb(jb)</ref>. ст.-слав. 
+Б 6 З Б О Д А Ы Ъ , -zin, прилаг. dvoBpo^, inaquosus, 
+sine aqua 'безводный' (Mar., Euch., SJS), болг. безводен, прилаг., 
+'безводный' (БТР; Геров: -ый), макед. безводен (И-С), сербохорв. 
+безводан, -дна, -дно 'безводный' (RJA I, 279; РСА I, 393), brezvo-
+•bezzqlrbfjb) 
+dan то же (с XVI в., RJA I, 638), словен. brezvoden, -dna, прилаг. 
+'безводный', 'засушливый' (Plet. I, 60), чеш. bezvodny, прилаг. 
+'безводный', слвц. bezvodny то же (SSJ I, 89), польск. bezwodny 
+'безводный' (Warsz. I, 137; Dorosz. I, 463), др.-русск., русск.-
+цслав. безводънъш dvuSpo?, aqua carens, siccus (XI в., Срезнев­
+ский I, 51—52), русск. безводный, -ая, -ое 'бедный водой, влагой; 
+лишенный воды' (Даль
+3 I, 147), укр. безвбднш, -я, -е 'безводный', 
+безвгдный, -а, -е то же (Гринченко I, 38), блр. бязвбдны то же 
+(Блр. -русск. 138).</gram>
+  </gramGrp>
+  <note>Префиксально-суффиксальное образование от имени<xr type="compare">см. <ref type="etymon" target="voda">*voda</ref>
+    </xr> или производное с суфф. -ъп- от прилаг. <xr type="compare">см. <ref type="etymon" target="bezvodb">*bezvod^b</ref>
+    </xr>. 
+Предполагать кальку с греч. dv-u8po&lt;; (так см. К. Schumann. 
+Die griech. Lehnbildungen und Lehnbedeutungen im Altbulgari-
+schen 25) нет достаточных оснований ввиду широты распростра­
+нения и конкретности значения слова. 
+*bezvolsi&gt;(jb). болг. безвлас, прилаг. 'безволосый' (БТР), чеш. bez-
+vlasy, прилаг. 'безволосый', слвц. bezvlasy, 
+прилаг. 'безволосый' 
+(SSJ I, 89), польск. bezwiosy то же (Warsz. I, 137; Dorosz. I, 463), 
+русск. безволосый 'лысый, плешивый, голый, гладкий' (Даль
+3.1, 
+148), укр. безволосый, -а, -е 'безволосый' (Гринченко I, 38), блр. 
+безвалбсы 'безволосый' (Блр.-русск. 121). 
+Сложное прилаг. древнего типа, образованное из *bez (см.; 
+там и об этом словообразовательном типе) и основы имени <xr type="compare">см. <ref type="etymon" target="volsb">*volsb</ref>
+    </xr>.</note>
+</Entry>

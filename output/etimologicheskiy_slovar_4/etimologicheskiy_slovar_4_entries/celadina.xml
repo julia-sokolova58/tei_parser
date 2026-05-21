@@ -1,0 +1,102 @@
+<Entry xml:id="celadina">
+  <pb n="39" end_page="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cel'adina</orth>
+    <lemma>cel'adina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ce</ref>[adina ж. р., уничиж., увеличит, от ce\ad</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA 1, 932)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>celedina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>род, семья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 164)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>челядйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>член семьи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добро­ вольский 980)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>челядйна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>женщина, замужняя жен­ щина, член семьи (женщина), член семьи, человек , чиладйна женщина .— Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Карпат­ ский диалектологический атлас 114)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Б. Ба- бинець. I OBipKa села Лавки Мукач1вського району, дип. роб- Ужгород, 1954, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>челядйнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гриб Marasmius caryophylleus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 608; Геров: *гриб Hypholoma fascicular, опёнок')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>челядйнка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид гриба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>celedinka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>домашняя работница, служанка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>celedinka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девушка- работница, служанка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 169)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ша</ref>
+      </m> от <ref type="etymon" target="segay">*сеГайъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

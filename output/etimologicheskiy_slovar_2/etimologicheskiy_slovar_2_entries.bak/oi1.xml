@@ -1,0 +1,126 @@
+<Entry xml:id="oi1">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬи1ь</orth>
+    <lemma>ЬоЬи1ь</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬиГа</orth>
+    <lemma>ЬоЬиГа</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоЬъГа</orth>
+    <lemma>ЬоЬъГа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бобблка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ягода (ПоповиЬ, см. ниже), бббули мн. кукуруза Й. Займов «Езиков. изеледв. в чест на Младенов»</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(София, 1957, 114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдбула</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода , бобул м. р., бабу л, м. р. маленький круглый ка­ мешек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 224, 671)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>babulj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>маленький камешек, ка­ кими мальчишки бросают друг в друга , babuj камень с ладонь, который можно бросить рукой , сюда же производное бобу лак, род. п. -лка, м. р. ягода , бобулак, род. п. -ака, м. р. камешек , бобулица ж. р. ум. от бобула</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 424)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ка. 387)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bobule</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ЬоЬиГа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ягода</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bobula</ref>, обычно bobule мн.</orth>
+      </form>
+      <sense>
+        <def>плоды, клубни картофеля, овечий, козий, заячий помет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>боблиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>рыба Rutilus rutilus L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дело о рыб. 4-6, 1804 г., Тимченко I, 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бобалъка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>клецка, род галушки , ЬоЬаГка, bobaika печеные, потом облитые кипятком, клецки с медом и ма­ ком, изготовленные к сочельнику</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Лем., Гринченко I, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(карп., см. Э. Балецкий «Stu- dia slavica» V, 1959, 185; автор приводит также вост.-слвц. ЬоЬаГку 'изделие из теста, приготавливаемое в сочельник; пе­ ченые, вареные шишки, посыпанные маком')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное от древнего экспрессивного звукокомплекса с редупликацией согласных элементов, предста­ вленного в<ref type="etymon" target="boba">*boba</ref>, <ref type="etymon" target="o-3">*ЬоЬъ</ref> (см. там подробнее).</gram>
+  </gramGrp>
+  <note>Более широкие экспрессивные связи см. Э. Балецкий, там же. Едва ли прав Попович, принимая здесь древнее смешение разных корней *bob- и *bul- (И. ПоповиЬ JO XIX, 1951-1952, 168).</note>
+</Entry>

@@ -1,0 +1,106 @@
+<Entry xml:id="bergovbjb">
+  <pb n="188" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bergovb(jb)</orth>
+    <lemma>bergovb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfehovy</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brehovy</ref> прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brjohowy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl. 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzegowy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 690)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bfeguev</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>береговой</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>относящийся к берегу</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>береговйй</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>береговой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>берагавы</ref> то же.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ои- от<ref type="etymon" target="bergb">*bergb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Характерно для зап.-слав, и вост.-слав, языков. Ср., впрочем, сербохорв. Брёгово ср. р . , название села на берегу р. Великий Тимок (РСА II, 141), болг. Брегово, местн. назв. близ Видина, первонач. прилаг., а также образования<xr type="compare">см. <ref type="etymon" target="bergovife">*bergovife</ref>
+    </xr>, характерные 
+гл. 
+обр. 
+для 
+ю.-слав. 
+языков, 
+кот. 
+косвенно свидетельствуют 
+об 
+общеслав. распространении адъективной формы на 
+-ov- от 
+*bergъ. 
+Сюда же 
+ср. греч. Веруоо|ЗсЧаог, местн. название, из 
+субстратного 
+слав. 
+*bergovica от *bergou-. Болг. бреговй 
+'береговой' заимство­
+вано из русск., Георгиев БЕР II, 84.</note>
+</Entry>

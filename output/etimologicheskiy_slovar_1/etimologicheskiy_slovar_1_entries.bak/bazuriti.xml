@@ -1,0 +1,22 @@
+<Entry xml:id="bazuriti">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bazuriti</orth>
+    <lemma>bazuriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>базуритъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жить обманом, плутовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., осташк., твер., Филин 2, 51)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Топоров (Сб. в честь С. Б. Берн- штейна 450 и сл.) гипотетически выделяет праслав. диал. *bazu- riti или, скорее, *obazuriti, заимств. из ир. *abi-zur-/*aba-zur-, ср. авест. zurah- 'несправедливость', 'обман'. Там же привлекается слав. *baduriti, о кот. иначе см. выше.</note>
+</Entry>

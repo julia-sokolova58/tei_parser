@@ -1,0 +1,61 @@
+<Entry xml:id="gadnoti">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gadnǫti</orth>
+    <lemma>gadnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ганути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>смекать, догадываться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 271: Угор.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>ганут</ref>*</orth>
+      </form>
+      <sense>
+        <def>додуматься, понять . — Ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Ив лексики полесского села Листвин. — «Лексика Полесья» 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>ganati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>proponere , производное —</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стулли — из глаголич. молитвенника; в словаре Парчича: 'говорить, разговаривать', RJА III, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>гдндыиге</ref> ср. р. 1гр6ЗХт|р.а ouviyjia, propositio, aenigma</orth>
+      </form>
+      <sense>
+        <def>гадание, загадка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS 391; Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-щи</ref>
+      </m>, производный от <ref type="etymon" target="gadati">*gadati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

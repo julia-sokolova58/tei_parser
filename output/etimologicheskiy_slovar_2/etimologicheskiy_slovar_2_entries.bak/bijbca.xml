@@ -1,0 +1,88 @@
+<Entry xml:id="bijbca">
+  <pb n="96" end_page="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bijbca</orth>
+    <lemma>bijbca</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ызьсь</orth>
+    <lemma>Ызьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бщац</ref>, род. п. бйща, м. р.</orth>
+      </form>
+      <sense>
+        <def>ни- maHrjnja, пога^ач</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bijec</ref>, род. пад.-уса, м. р.</orth>
+      </form>
+      <sense>
+        <def>драчун, буян</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bijee</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bijce</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>боец, борец; драчун, убийца ?</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>биица</ref> ITXTJXTTJC, rixator</orth>
+      </form>
+      <sense>
+        <def>драчун</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский 1, 86)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бййца</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>драчун, забияка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бшца</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто бьется</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(6в. Вил., Тимченко I, 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суфф. -ье- от гл.<ref type="etymon" target="biti">*biti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Выше преобладают формы с основой на -а.</note>
+</Entry>

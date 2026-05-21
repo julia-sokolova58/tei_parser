@@ -1,0 +1,55 @@
+<Entry xml:id="bezgluzdTjb">
+  <pb n="25" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezgluzdT&gt;jb</orth>
+    <lemma>bezgluzdT&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безглуздый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессмысленный, бестолковый; безмозглый , бранно — бестолковый, безмозглый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(юж., зап., Даль 3 I, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., орл., смол., южн., зап., Филин 2, 184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>безглуздый</ref>, -а, те сбестолковый, безмозглый, бессмысленный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бязглузды</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессмысленный; несуразный; глупый; бестолковый; нелепый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 138)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 403.</note>
+  <gramGrp>
+    <gram>Сложное прилаг. старого типа, образованное из<ref type="etymon" target="bez-34">*bez</ref> (см.; 
+там же подробности об этом типе прилагательных) и именной 
+основы <ref type="etymon" target="gluzdb">*gluzdb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Только вост.-слав., вернее—юго-зап. диалектизм вост.-слав, лексики (блр. и укр.; в русск. ограничено пограничными южн. и зап. диалектами). Та же территория рас­ пространения характерна и для самого имени<xr type="compare">см. <ref type="etymon" target="gluzdb">*gluzdb</ref>
+    </xr>. 
+Несмотря на указанную ограниченность ареала, можно считать 
+ранним образованием, как и исходное имя.</note>
+</Entry>

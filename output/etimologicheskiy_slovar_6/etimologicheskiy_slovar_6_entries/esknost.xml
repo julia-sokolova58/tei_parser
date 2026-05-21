@@ -1,0 +1,148 @@
+<Entry xml:id="esknost">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕsknostь</orth>
+    <lemma>ĕsknostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ясност</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacnocm</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>j</ref>&amp;sndst ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в слова­ рях Микали, Беллы, Вольтиджи, RJA IV, 482—483)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdsnost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jasnost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasnosf</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 635—636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jasnosd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>Jasnosd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность , jesnosc ж. p. поспешность, скорость, быстрота, самая пора</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 534)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 547)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jasnosd</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>блеск, свет, яркость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jdsnosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I. 383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ясность</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>качество ясного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1584)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>Лететь</ref>, род. п. -ности, ж. р.</orth>
+      </form>
+      <sense>
+        <def>светлость, блеск, сияние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 544)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яснасць</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ясность</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от <ref type="etymon" target="esknb-5">*esknb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

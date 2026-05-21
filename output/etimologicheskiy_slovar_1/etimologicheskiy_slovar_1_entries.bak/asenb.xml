@@ -1,0 +1,208 @@
+<Entry xml:id="asenb">
+  <pb n="78" end_page="79" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>asenb</orth>
+    <lemma>asenb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>asenb</orth>
+    <lemma>asenb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ясен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ясень Fraxinus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacen</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jacen</ref> й. р.</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">стар. <ref>jesen</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ка 393; R J A IV, 620)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jasen</ref>, jesen м. р.</orth>
+      </form>
+      <sense>
+        <def>ясень Fraxinus excelsior</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 36Q, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>dsen</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Бодуэн де Кур- тепэ. Резьяне. Словарный материал. Архив, ф. 102, on. 1, № 8, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jasan</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ясень, стар, jesen</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jasen</ref>, jasen</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., ляшск., Bartos Slov. 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jasen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ясень Fraxinus excelsior</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jeuen</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Liika 160)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jasen</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 231)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jasen</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>josin</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polaiiski—Sehnert 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>jasien</ref>, jasion, jesion</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jason</ref>, jasien, стар, jesieii</orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 139, 143, 171)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jasdun</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>ясень , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 384)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ысьнъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псков. I л. под 1471 г., Срезневский III, 1668)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ясень</ref> м. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ясень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ясень Fraxinus excel­ sior , а также ясен</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 543)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(«Укр.-рос. словн.» VI)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ясень</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ясень</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Географическое распределение — соответственно — форм *азепъ и *asenb лишено какой бы то ни было четкости, почему они и даются здесь совмещенно, в сравнительно-историческом же и типологическом отношении более первоначальной является форма *asenb (основа на -о-, см. также ниже). Праслав. *asenb/b ближе всего соответствует лат. ornus 'ясень' &lt; *osenos, причем оба слова объединяет не только и.-е. корень *os-, выступающий также в др. языках, но и общее расширение основы *еп-. Близ­ кая праформа *os-no- лежит также в основе кельт, названий дерева: др.-ирл. huinnius, кимр. оппеп, др.-корн, оппеп, брет. оиппепп. См. F. Solmsen K Z X X X I V , 1897, 32, примеч. 1; W a l d e 547; A . Meillet BSL 24, 1923, 41; E r n o u t - M e i l l e t 3 II, 831; О. Sze- merenyi «GIotta» 38, 1965, 229; Pokorny I, 782. Слав, форма продолжает и.-e. *dseno-, с долготой корневого гласного, отражая, видимо, вторичное удлинение и.-е. о. Эта последняя черта сбли­ жает праслав. *asenb/b с балт. названиями, которые тоже про должают *05-: лит. uosis, лтш. uosis, uoss, др.-прусск. woasis*ясень'. См. J. Zubaty ВВ X V I I I , 1892, 254; С. С. Uhlenbeck A f s l P h X V I , 1894, 373; Vondrak. V g l . slav. Gramm. I, 77; Miklosich 100; Ber­ neker I, 31; Trautmann B S W 203; Fraenkel II, 1167; Фасмер IV, 564; Bruckner 200; Slawski I, 564; Machek 171; Sadnik—Aitzet­ muller. V g l . W b . 1, 31; о более далеких расширениях и.-e. *os- с помощью -/с- в герм., алб. и арм. см. еще Kluge 1 5 179 (: Esche). В остальном балт. и слав, названия ясеня отличаются по струк­ туре, причем и то и другое самостоятельно восходит к древней основе на согласный (*ds-i-, *6s-en-o-). См. Machek, там же; Vail- lant. Gramm. comparee II, 1, 201. Начальный элемент / - в формах живых слав, языков объясняется как вторичная протеза, подобно начальному w- в др.-прусск. слове. См. Мейе. Общеслав. язык 69; Arumaa. Urslav. Gramm. I, 108. См. еще G. Bonfante «Studi baltici» 4, 1 9 3 4 - 1 9 3 5 , 127.</note>
+</Entry>

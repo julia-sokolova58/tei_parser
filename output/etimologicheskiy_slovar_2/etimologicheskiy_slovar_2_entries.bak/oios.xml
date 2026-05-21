@@ -1,0 +1,37 @@
+<Entry xml:id="oios">
+  <pb n="175" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоИось</orth>
+    <lemma>ЬоИось</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬоНосько</orth>
+    <lemma>ЬоНосько</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>болибч</ref>, болебч</orth>
+      </form>
+      <sense>
+        <def>бельмо, катаракта, растение ромашка (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bolioeko</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>название растения</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos Slov. 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Глагольно-именное сложение, образованное из императива от гл.<ref type="etymon" target="ogyoy">*ЬоГёй</ref> (см.) и производного от имени <ref type="etymon" target="oko-6">*око</ref> (см.).</gram>
+  </gramGrp>
+  <note>В этом последнем производном стоит отметить признаки наличия -i- основы (-объ/-оёъко), ср. лит. akls 'глаз'.</note>
+</Entry>

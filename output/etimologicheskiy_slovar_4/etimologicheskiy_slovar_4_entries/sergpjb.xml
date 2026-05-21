@@ -1,0 +1,133 @@
+<Entry xml:id="sergpjb">
+  <pb n="60" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серьгьпь jb</orth>
+    <lemma>серьгьпь jb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>серъгьпъ]ь</orth>
+    <lemma>серъгьпъ]ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ciperny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>подвижный, бойкий, живой, также cuprny , далее—диал. cupernej, cuprne) , сорту</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 200; Bartos. Slov. 52: dnes je venku cuprno. 'сегодня на улице свежо, холодно')</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. II, 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ciperny</ref>, прилаг. книжн. стар,</orth>
+      </form>
+      <sense>
+        <def>подвижный, живой, бойкий, смышленый , также ceprny , cuprny</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 71)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>caporny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к старью, хламу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чопорный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чрезмерно, неестественно строгий в поведении, обращении, крайне щепетильный в отношении приличий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чепурнбй</ref>, -ая, -бе</orth>
+      </form>
+      <sense>
+        <def>щеголевато одетый , чапурнбй опрятно, щеголевато одетый , чопор­ ный порядливый , чепорный нарядный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(орл., Опыт 256)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(орл., Даль 3 IV, 1286)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 133)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 213)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чепурнйй</ref>, -а, -ё</orth>
+      </form>
+      <sense>
+        <def>аккуратный, чистый, опрятный, красивый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чепурнйй</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чисто, чопорно одевающийся . — Не ясно, относится ли сюда, на правах субстантивированного прилага­ тельного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 697)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чепрна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плохая, негодная, старая глиняная посуда , также чпргьа ж. р. дрянь, мелочь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. II)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же; ср. выше знач. в.-луж. слова!)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от<ref type="etymon" target="serg">*серьгъ</ref> / <ref type="etymon" target="serg">*серъгъ</ref> 
+(см.; 
+там же — далее 
+об 
+этимологии).</gram>
+  </gramGrp>
+  <note>См. А. Соболевский РФВ LXXI, 1914, 447—448 (русск. чопорный, укр. чепурнйй — к чепуритъся и — уже менее удачно—к чепура 'цапля'); Machek 103 (дает праформы *се-ругьпъ, *се-ригъпъ, колеба­ ния гласных объясняет экспрессивностью слова; слвц. ciperny—• чехизм); Фасмер IV, 372—373 (особенно—дополнения).</note>
+</Entry>

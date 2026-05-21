@@ -1,0 +1,201 @@
+<Entry xml:id="giv">
+  <pb n="50" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгивъ</orth>
+    <lemma>Ьгивъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(точильный) камень, брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>точильный брусок, выдумка , брус м. р. точильный камень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев Б Д II, 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(с. Николово, Русенско, дип. раб. Архив Софийск. ун-та; М. Младенов. Б Д I I I , 42; Шапкарев- Близнев. Б Д I I I , 204; Ковачев. Троян. Б Д IV, 191)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брусок, точильный камень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брус</ref> м. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bru.su</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>точильный камень, брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 67; Бодуэн де Куртенэ. Резьяне. Словарный материал. Архив, ф. 102, on. 1, № 8, л. 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brus</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>cos, lapsidium, alia, limatura, lapides (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brus</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>точильный камень</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brus</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brus</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>точильный камень, брусок, закал (в хлебе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 53)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brus</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>точильный брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brus</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>то­ чильный камень, брусок, брус, обтесанное бревно , возм., сюда же (со смягчением г)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 676)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>brous</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голо­ ледица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>брХсъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обтесан­ ное бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I I I , Доп. 27')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чет вероугольное обтесанное бревно, оселок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>то­ чильный камень , н и ж н я я «липа» в окне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 11)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Крестецкий у. Новгородской губ. Труды М Д К . — Р Ф В L X X I , 1914, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>брусъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брус, четвероугольное бревно, точильный брусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кусок, отрезок в форме параллелепипеда, оселок, брусок, четырех­ угольное бревно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брус</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брус</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя, соотносительное с гл.<ref type="etymon" target="brusiti-5">*brusiti</ref> 
+(см.) и, 
+по-видимому, 
+отглагольное по своему образованию.</gram>
+  </gramGrp>
+  <note>Из литер, ср. еще А. И. Кор- нев «Вестник ЛГУ», 1970, №2 0 , История. Яз. Лит., вып. 4, 1 4 2 - 1 4 9 .</note>
+</Entry>

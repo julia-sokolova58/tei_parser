@@ -1,0 +1,92 @@
+<Entry xml:id="belorqkbjb">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belorqkb(jb)</orth>
+    <lemma>belorqkb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>белорук</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>белорук</ref>, б]влорук, -а, -о</orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belo</ref>- rok, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 19)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>beloruky</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bialoreki</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>белорукий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у кого белые руки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>быорукий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>белорукий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 67)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. еще Miklosich. Vgl. Gr. II, 398 и след.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., образованное из сложения<ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.) и <ref type="etymon" target="rgka">*rgka</ref> (см.).</gram>
+  </gramGrp>
+  <note>О типе см. на *belogolvb.</note>
+</Entry>

@@ -1,0 +1,60 @@
+<Entry xml:id="gletav">
+  <pb n="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glĕtavъ?</orth>
+    <lemma>glĕtavъ?</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глётав</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>клеклый (о хлебе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глётав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>клеклый, непропеченный, сплюснутый, нерабочий, ленивый (Трънско; Каменица, Кюстендилско; с. Станьовци, Брезнишко; Бобошево, Станкедимитровско; с. Радуил. — Архив Болг. диал. словаря, София), глётаф клеклый, плохо пропе­ ченный (о хлебе)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>глётав</ref>, прилаг. то же . — Ср.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 343, 393)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>глететьак</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>непропеченный хлеб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Б. Видоески. Куманов- скиот говор 252)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-аиъ</ref>
+      </m> от несохранившегося 
+праслав. 
+<ref type="etymon" target="glefo">*glefo</ref>.</gram>
+  </gramGrp>
+  <note>См. Георгиев БЕР IV, 248. Особо следует отметить на­ личие здесь расширения -t- (и.-е. *gloi-t-), общего с лат. gluten, род. п. -inis, 'клей' &lt; *gloit- (о лат. слове см. Walde-Hofm. I, 611—612, без упоминания слав, слова).</note>
+</Entry>

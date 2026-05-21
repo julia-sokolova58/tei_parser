@@ -1,0 +1,45 @@
+<Entry xml:id="badloviti">
+  <pb n="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ba(d)loviti</orth>
+    <lemma>ba(d)loviti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>halvit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить вздор, глупости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>balvit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бало</ref>­ вать</orth>
+      </form>
+      <sense>
+        <def>парить в печке</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Псковский областной словарь 1, 103)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Эта диал. лексика не получила отражения в слав, этимол. словарях. Предположительно сближаются нами с *ba(d)lovati (см.), что требует, разумеется, допущения перехода dl &gt; I, кот. мог в специальных условиях (в группах согласных вроде -lv- &lt; -dlv- в наших примерах или диалектно — на слвц. тер­ ритории) осуществляться и в зап.-слав, языках, Знач. 'говорить вздор' и 'парить в бане', при всей их разнородности, могут быть связаны друг с другом в рамках всей семантики *ba(d)lovati и близких форм.</note>
+</Entry>

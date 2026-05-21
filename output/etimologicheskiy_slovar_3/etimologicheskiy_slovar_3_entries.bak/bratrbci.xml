@@ -1,0 +1,36 @@
+<Entry xml:id="bratrbci">
+  <pb n="7" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bratrbci</orth>
+    <lemma>bratrbci</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bratrc</ref> м. р., ум.</orth>
+      </form>
+      <sense>
+        <def>братец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bratrec</ref>, род. п. -гее м. p. (bratranec?) .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dalimilova kronika, XIV в., K o t t I , 93)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ьсь</ref>
+      </m> от основы <ref type="etymon" target="bratrb">*bratrb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Может быть сопоставлено с аналогичными производными с и.-е. -к- суф­ фиксальным, ср. гот. broprahans dSeX'foi, умбр, fratreks, fratreca 'глава фратрии', др. -прусск. bratrlkai, см. Feist 107; Walde-Hofm. I, 542. Ср. также<xr type="compare">см. <ref type="etymon" target="gas">*ЬгаЬъсъ</ref>
+    </xr>.</note>
+</Entry>

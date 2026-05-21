@@ -1,0 +1,254 @@
+<Entry xml:id="greby">
+  <pb n="111" end_page="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>greby</orth>
+    <lemma>greby</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. *grebene</orth>
+    <lemma>род. п. *grebene</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гребен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, бердо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гребен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бердо домашнего ткацкого станка , гребен м. р. гребень, скребница, верхняя часть шеи вола , гребен* м. р. гребень, гребешок на го­ лове у петуха и др. птиц , грёбе ср. р. гребень, бердо ткацкого станка (с. Чука и Желе- гожйе, Костурско, Греция, дип. раб., Архив Софийск. ун-та), грйбен м. р. бердо, грива</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 147; Т. Бояджиев. Дедеагачко. — БД V, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 53; Д. Евстатиева. С. Тръстеник, Пле- венско. — БД VI, 165)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Шапкарев—Близнев БД III, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гребен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, чесалка (для шерсти и т. п.), гребень (горы), риф, подводная скала, гребень (петушиный)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>гребен</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хребет у скотины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(К. Пеев. За македонската дщалектна лексика. MJ XXI, 1970, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гребен</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чесалка (шерсти, льна), гребень (в различных знач-ях) , также гребено ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 601—602; RJA III, 407—408)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 604)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>greben</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чесалка (для шерсти и т. п.), гребень (в разных значениях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 248)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hfeben</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hfeben</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrebeh</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 524)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>greVen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>gribin</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, грива</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 68, с реконст­ рукцией *grebenb)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzebieii</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень (в разных зна­ чениях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1347)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gflebjen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень , др.-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гребънъ</ref>, гребень</orth>
+      </form>
+      <sense>
+        <def>орудие чесания , гребень плавники рыбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Влас. 7, Мин., Чет. февр. 118, Срезневский I, 586)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Джемс 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гребень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>роговая, костяная или иного материала пластинка с прорезанными зубьями для расчесывания волос или скрепления и украшения женской прически, продолговатый мясистый или кожистый нарост на голове у некоторых птиц, верхний край, кромка, вершина чего-либо, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гребень</ref> — в самых раз­ нообразных значениях</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 34; И. Солосин. Астрах, кр., Царевск. у. — РФВ LXIII, 1910, 129; Филин 7, 122; Опыт сло­ варя говоров Калининской обл., 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грёбЫь</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>прядиль­ ный гребень, гребенка, гребешок, доска с зубьями, составля­ ющая часть каблука, подобная гребню часть решетки, снаряда для собирания черники, гребень, верхняя грань вещи, стоячая полоса, напр. гребень на крыше, гребешок на голове птиц , гребено ср. р. гребенка для расчесывания овечьей шерсти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 323)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грабёнъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень , грэбень гребень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грэбень</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>приспособление для чесания льна .—Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мшска маладзеч. III, 37)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="old">стар. <ref>суффиксальное</ref> производное</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grzebyk</ref> м. p., ум.</orth>
+      </form>
+      <sense>
+        <def>гребешок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1348)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="grebyj">*grebyj</ref>
+      <ref type="etymon" target="grebene">*grebene</ref> 
+представляет собой производное от гл. 
+<ref type="etymon" target="grebti-7">*grebti</ref> 
+(см.), слав, новообразование без PI.-е. 
+соответствий.</gram>
+  </gramGrp>
+  <note>Вместе с тем здесь налицо основа на согласный *greben-, см. Berneker I, 347. Любопытно, что именно этой своей древней особенностью праслав. *greben- продолжает древнюю и.-е. традицию образования названий гребня (ткацкого гребня — берда или, скорее, вообще орудия для чесания) по консонантному типу основ, ср. лат. pecten то же, греч. хте:д (из *p1cten-s) 'гребень'.</note>
+</Entry>

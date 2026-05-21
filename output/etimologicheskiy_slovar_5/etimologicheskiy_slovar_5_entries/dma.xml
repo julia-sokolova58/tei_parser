@@ -1,0 +1,43 @@
+<Entry xml:id="dma">
+  <pb n="181" end_page="182" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dъma</orth>
+    <lemma>dъma</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ветер, дуновение ветра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 249, с пометой: Linde)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дуновение ветра, (диал.) dmy песчаные дюны на Балтике</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 465)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от основы наст. вр. гл.<ref type="etymon" target="dmc">*dъmc</ref>^, <ref type="etymon" target="dqti">*dqti</ref> (см.). 
+dbmiti: 
+русск. диал. демйть 'дуть' (калуж., Опыт 46; Филин 7, 
+349), дмитъ 'дуть, раздувать (огонь)' (смол., Филин 8, 71).</gram>
+  </gramGrp>
+  <note>Гл. на -Ш, производный от основы наст, времени *dbm&lt;p,<xr type="compare">см. <ref type="etymon" target="dgti-3">*dgti</ref>
+    </xr>.
+•сГыпьсь.
+•сГыпьсь.
+•сГыпьсь.
+•сГыпьсь</note>
+</Entry>

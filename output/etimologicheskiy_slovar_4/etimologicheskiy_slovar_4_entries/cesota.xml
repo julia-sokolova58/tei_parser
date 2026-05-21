@@ -1,0 +1,30 @@
+<Entry xml:id="cesota">
+  <pb n="90" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cesota</orth>
+    <lemma>cesota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чесота</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезнь чесотка , чесбта ж. р. чесотка , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь старожильческих говороз сред­ ней-части б. реки Оби. Доп. II, 266)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Древность обра­ зования неясна. русск. чесотка ж. р. зуд, позыв чесаться, инфекционная болезнь кожи, вызывающая сыпь в виде мелких пузырьков и сильный зуд.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от гл. <ref type="etymon" target="cesati">*cesati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

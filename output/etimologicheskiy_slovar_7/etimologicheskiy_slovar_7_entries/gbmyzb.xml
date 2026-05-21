@@ -1,0 +1,79 @@
+<Entry xml:id="gbmyzb">
+  <pb n="194" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmyzb</orth>
+    <lemma>gbmyzb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmyza</orth>
+    <lemma>gbmyza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гмйз</ref> м. р., собир.</orth>
+      </form>
+      <sense>
+        <def>пресмыкающиеся. вши , гмйза ж. р. бисер, мелкая дробь, ст.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 378)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hmyza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пресмыкающееся, гад (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hmyz</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>насекомые, гады , елвц. hmyz м. р. насекомые, гады, паразиты , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 698; Kott I, 439)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Г</ref> мыза, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1629 г., Тупиков 163)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гмйза</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>множество , гмйза ж. р. бранное слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(заурал., горьк., Филин 6, 233)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="gmyzati">*gъmyzati</ref> 
+(см.) 
+и, возм., произведено от 
+последнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. еще <ref type="etymon" target="gbmbzati">*gbmbzati</ref>
+    </xr>, 
+<xr type="compare">см. <ref type="etymon" target="gbmbzb">*gbmbzb</ref>
+    </xr>.</note>
+</Entry>

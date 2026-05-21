@@ -1,0 +1,107 @@
+<Entry xml:id="duxadlo">
+  <pb n="150" end_page="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*duxadlo</orth>
+    <lemma>duxadlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>духало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кузнечный мех, поддувало, трубка, через которую надувают волынку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дуало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>свиной пузырь , сюда же дувалё ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 61)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дувало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кузнечный мех, поддувало , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>дуало</ref> , сербо­ хорв. духало, дувало ср. р.</orth>
+      </form>
+      <sense>
+        <def>кузнечный мех, также духало, ду­ вало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(К. Пеев MJ XXI, 1970, 135)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 777—778)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>duhdlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>орган обоняния</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PJet. I, 183)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ddchadlo</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>мех; насос ,</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 341;: Kott VI, 169: duchadlo ср. p. 'кузнечный мех', с пометой «Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>духало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>кузнечный мех . — Ср. еще производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ленингр., Филин 8,. 277)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>духалка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>паяльник (у старинных ювелиров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД, V, 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Названия орудия, производное с суфф. -(a)dlo от гл.<ref type="etymon" target="duxatu">*duxatu</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

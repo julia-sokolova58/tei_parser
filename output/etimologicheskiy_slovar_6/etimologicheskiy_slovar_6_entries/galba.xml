@@ -1,0 +1,48 @@
+<Entry xml:id="galba">
+  <pb n="97" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*galьba</orth>
+    <lemma>galьba</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>галба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ласка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; Геров: 'баловство')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>галба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ласка, ба­ ловство, потворство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>галъба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>шутка, за­ бава (яросл.), насмешка, издевательство (якут.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 122)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (имя действия) с суфф.<m type="suffix">
+        <ref>-ъЬа</ref>
+      </m> от гл. <ref type="etymon" target="galiti-2">*galiti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Болг.-макед.-русск. изоглосса.</note>
+</Entry>

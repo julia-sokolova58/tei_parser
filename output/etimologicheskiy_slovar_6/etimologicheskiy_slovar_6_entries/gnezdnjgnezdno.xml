@@ -1,0 +1,76 @@
+<Entry xml:id="gnezdnjgnezdno">
+  <pb n="173" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnĕzdьnъ(jь), *gnĕzdьno</orth>
+    <lemma>gnĕzdьnъ(jь), *gnĕzdьno</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gnezdbno</orth>
+    <lemma>gnezdbno</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. ^<ref>lazno</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнездо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sus. 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnezdny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнездовой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 703: со ссылкой на Линде!)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. <ref>gniezny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гнездовой . Сюда же местн. название Gniezno &lt;[ *Gnezdbno</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 857)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(S. Urban- czyk «SJownik starozytnosci stowianski6h» 2,1964,114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гнЪздъныи</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А вы, бояре Двинете, не вступаитеся въ гн'Ьздные потки, ни въ м^ста. Грам. Ив. Дан. д. 1340 г., Срезневский I, 528)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гпезпо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>гнездо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(яросл., Филин 6, 239)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гнездно, Гнездна, местн. название, бывш. Гродн. губ. (Russi- sches geographisches Namenbuch II, 385), Гнездна, название реки, бывш. Жиздр. у. Калуж. губ. (Worterbuch der russischen Gewas- sernamen I, 453). — Ср. сюда же производное русск. диал. гнёз- ница ж. р. 'гнездо' (горьк., Филин 6, 239).</note>
+  <gramGrp>
+    <gram>Первонач. прилаг., производное с суфф.<m type="suffix">
+        <ref>-ъпъ</ref>
+      </m> от <ref type="etymon" target="gnezdo">*gnezdo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

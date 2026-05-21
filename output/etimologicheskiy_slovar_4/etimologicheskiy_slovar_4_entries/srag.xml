@@ -1,0 +1,45 @@
+<Entry xml:id="srag">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сьрагъ</orth>
+    <lemma>сьрагъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>чп</ref>&amp;р м. р.</orth>
+      </form>
+      <sense>
+        <def>колючка, обломленная ветка на дереве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. И)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>браг</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>коготь.—Ср. гл</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чпара</ref> (слух)</orth>
+      </form>
+      <sense>
+        <def>резать (слух)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Возм., здесь представлено сложение экспрессивной приставки съ-/се- и корня par-, связанного (через продление корневого вока­ лизма) с гл.<ref type="etymon" target="porti">*porti</ref> (см.); при этом допустимо предполагать посред­
+ство глагольного итератива—дуратива *(бъ)рагаИ, ср. и приведен­
+ный выше макед. гл.</gram>
+  </gramGrp>
+  <note>Отношение к сербск.-цслав. ЧАПЛ^ОГА 'КОГОТЬ' (см., напр., Berneker I, 169) неясно. Во всяком случае со­ мнительно производить чеш. браг из сложного *capo-parogb 'рого­ вой нарост на ноге, лапе', как это делает Махек, см. Machek 2 107. Не связано с очевидным локальным поздним германизмом польск. диал. Sparogi, dparogi 'украшение крыши, имевшее первоначально вид двух развернутых когтей или рогов', вопреки Мошинскому (К. Moszynski PJ 1954, 4).</note>
+</Entry>

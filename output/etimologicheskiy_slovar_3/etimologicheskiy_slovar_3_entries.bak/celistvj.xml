@@ -1,0 +1,40 @@
+<entries>
+  <entry xml:id="celistvj" xml:id="celistvj">
+    <pb n="178" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕlistvъjь?</orth>
+      <lemma>celistvbjb</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>celistvy</ref>, прилаг.</orth>
+        </form>
+        <sense>
+          <def>цельный, целостный, недели­ мый, елвц. celistvy, прилаг. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(SSJ 1, 157)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>cylistwy</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>целый, полный, крепкий, добротный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 68)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Суффиксальное производное от прилаг. <ref type="etymon" target="syo1-5">*сё1ъ</ref> (см.).</gram>
+    </gramGrp>
+    <note>См. Machek
+ 2 82. 
+- Древность неясна.</note>
+  </entry>
+</entries>

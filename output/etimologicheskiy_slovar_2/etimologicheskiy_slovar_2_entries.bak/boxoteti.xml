@@ -1,0 +1,45 @@
+<Entry xml:id="boxoteti">
+  <pb n="163" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boxoteti</orth>
+    <lemma>boxoteti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boxbteti</orth>
+    <lemma>boxbteti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bohoteti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буйно, пышно расти , bohoteti, bohteti быть пышным, изобиловать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar slovenskega knjiznega jezika I. Ljubljana, 1970, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бухтгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подходить, вздуваться (о перекисшем молоке) , вспыхивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мель- ничук «Дiaл. бюлетень» II, 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Безлай (Bezlaj. Etim. slovar, рукоп.) склонен связывать словен. слово (также в форме bohteti) с синонимичным словен. hobateti, что не кажется достаточно убедительным, ср. и вост.- слав. соответствие. Далее родственно<xr type="compare">см. <ref type="etymon" target="baxati">*baxati</ref>
+    </xr>.</note>
+</Entry>

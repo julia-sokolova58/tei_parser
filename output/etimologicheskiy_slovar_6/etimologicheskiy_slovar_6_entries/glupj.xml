@@ -1,0 +1,295 @@
+<Entry xml:id="glupj">
+  <pb n="151" end_page="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupъ(jь)</orth>
+    <lemma>glupъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>n</ref>\oynz stultus, fatuus</orth>
+      </form>
+      <sense>
+        <def>глупый, неразумный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. стар, <ref>глуп</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>глъф</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV, 196)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>глуп</ref>(ав), прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>glup</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda—Vevcani dialect of Macedonian 259)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. редк. (диал. в <ref>Лике</ref>) glup, glupa, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 210—211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>glup</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый, глухой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 220)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hloupy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Миру</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Миру</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>glupy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупый, тупой, безумный, дурацкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 266)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>glaipe</ref>, прилаг. м. p.</orth>
+      </form>
+      <sense>
+        <def>молодой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 63, с рекон­ струкцией *glup^b)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glupi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глупый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852; Dorosz. II, 1184)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>guupi</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Tomasz. t o p . 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glup</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>глупый</ref> , Глупой, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Переясл. л. под 1070 г., Срезневский I, 522)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тупиков 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупый</ref>, -ая,</orth>
+      </form>
+      <sense>
+        <def>-ое тупой, неумный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глупый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>грубый, резкий (смол.), не вполне созревший, недозрелый (о плодах) (арх. волог., перм.), неспособный к действию, слабый, бессильный (о руках, ногах и т. п.), плохой, примитивный (о предметах или условиях быта) (сиб.) , глупой молодой, недозрелый плод , глупой, -ая, -бе: глупая ночь темная, поздняя ночь , глупой гглу- пый, умственно неполноценный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. Белоруссов. Местные слова Вологодской губ. — РФВ XVIII, 1887, 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Краснодар., Филин 6, 212)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глупий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>глупый, глупа пгч, твтч глубокая ночь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>глупий</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>(про гриби) неправдивий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онишке- вич. Словник бойтвського Д1*алекту)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>глупы</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>глухой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Туров, Народнае слова 306)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Можно предполагать в слав. *glupb экспрессивное расширение с помощью лабиального элемента -р- усеченной формы от *gluxb (см.; там же подробнее дальнейшие этимол. связи), ср. и близость ряда знач-й обеих форм (выше). В указанном смысле можно гово­ рить и о родстве с<xr type="compare">см. <ref type="etymon" target="glum-2">*glumъ</ref>
+    </xr>. Возводить к и.-е. *ghleu- I *ghlou-
+с формантом -р- (см. так St. Mladenov. Die labiale Tenuis als 
+wortbildendes Element im Slavischen. — AfslPh X X X V I , 1916, 
+120—122) не позволяет характер связи с *gluxъ, а также наиболее 
+вероятная этимология этого последнего. Неприемлема 
+мысль 
+о заимствовании из герм. *gldpa-, 
+ср. др.-исл. glopr 'идиот' 
+(см. так Berneker 
+I, 309, с литер.) или о родстве с последним 
+(см. Фасмер I, 416). Еще более неудачны сближения с *glgbokb 
+(Е. Prokosch AJPh X X X I I , 1911, 432), с лит. klubas 'хромой' 
+(J. Otr^bski LP I, 1949, 131), или же с исл. klaufi 'бык', 'ува­
+лень, неуклюжий человек', 'дурак' (так см. Machek
+2 169).. Возводить к и.-е. *ghleu- I *ghlou-
+с формантом -р- (см. так St. Mladenov. Die labiale Tenuis als 
+wortbildendes Element im Slavischen. — AfslPh X X X V I , 1916, 
+120—122) не позволяет характер связи с *gluxъ, а также наиболее 
+вероятная этимология этого последнего. Неприемлема 
+мысль 
+о заимствовании из герм. *gldpa-, 
+ср. др.-исл. glopr 'идиот' 
+(см. так Berneker 
+I, 309, с литер.) или о родстве с последним 
+(см. Фасмер I, 416). Еще более неудачны сближения с *glgbokb 
+(Е. Prokosch AJPh X X X I I , 1911, 432), с лит. klubas 'хромой' 
+(J. Otr^bski LP I, 1949, 131), или же с исл. klaufi 'бык', 'ува­
+лень, неуклюжий человек', 'дурак' (так см. Machek
+2 169).. Возводить к и.-е. *ghleu- I *ghlou-
+с формантом -р- (см. так St. Mladenov. Die labiale Tenuis als 
+wortbildendes Element im Slavischen. — AfslPh X X X V I , 1916, 
+120—122) не позволяет характер связи с *gluxъ, а также наиболее 
+вероятная этимология этого последнего. Неприемлема 
+мысль 
+о заимствовании из герм. *gldpa-, 
+ср. др.-исл. glopr 'идиот' 
+(см. так Berneker 
+I, 309, с литер.) или о родстве с последним 
+(см. Фасмер I, 416). Еще более неудачны сближения с *glgbokb 
+(Е. Prokosch AJPh X X X I I , 1911, 432), с лит. klubas 'хромой' 
+(J. Otr^bski LP I, 1949, 131), или же с исл. klaufi 'бык', 'ува­
+лень, неуклюжий человек', 'дурак' (так см. Machek
+2 169).. Возводить к и.-е. *ghleu- I *ghlou-
+с формантом -р- (см. так St. Mladenov. Die labiale Tenuis als 
+wortbildendes Element im Slavischen. — AfslPh X X X V I , 1916, 
+120—122) не позволяет характер связи с *gluxъ, а также наиболее 
+вероятная этимология этого последнего. Неприемлема 
+мысль 
+о заимствовании из герм. *gldpa-, 
+ср. др.-исл. glopr 'идиот' 
+(см. так Berneker 
+I, 309, с литер.) или о родстве с последним 
+(см. Фасмер I, 416). Еще более неудачны сближения с *glgbokb 
+(Е. Prokosch AJPh X X X I I , 1911, 432), с лит. klubas 'хромой' 
+(J. Otr^bski LP I, 1949, 131), или же с исл. klaufi 'бык', 'ува­
+лень, неуклюжий человек', 'дурак' (так см. Machek
+2 169).</note>
+</Entry>

@@ -1,0 +1,118 @@
+<Entry xml:id="dunia">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dunia</orth>
+    <lemma>dunia</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>слово, мысль , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>дума</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>дума, мысль, слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тайная мысль, дума, речь, ум, разум, память</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА V, 19—20)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dama</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>размы­ шление, рассуждение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 342)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>duma</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гордость, чувство собственного достоинства, заносчивость, (стар.) мысль, размышление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 425—426)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дХма</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>совет, совещание , мысль, намерение , единомышленники , Дума, личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Лавр. л. под 1237 г., Смол. гр. п. 1230 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ип. л. под 1169 г.; Лавр. л. под 1284 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Никон, л. VIII. 162)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 742— 743)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV—XVI вв., Тупиков 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мысль</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>мысль, дума, эпи­ ческая песня, исполняемая под звуки кобзы или бандуры</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 455)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дума</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дума</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглаг. производное от<ref type="etymon" target="dumati">*dumati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

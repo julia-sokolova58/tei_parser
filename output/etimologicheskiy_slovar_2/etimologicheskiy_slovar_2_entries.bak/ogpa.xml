@@ -1,0 +1,50 @@
+<Entry xml:id="ogpa">
+  <pb n="209" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬогпьЬа</orth>
+    <lemma>ЬогпьЬа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bramba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>defensio, tutela (XVI—XVIII вв.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bramba</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защита, оборона, ЪгапЪа то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>ЬгбпЪа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>защита, оборона</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бороньба</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъЪа</ref>
+      </m> от гл. <ref type="etymon" target="borniti-7">*borniti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Orzechowska 161-162.</note>
+</Entry>

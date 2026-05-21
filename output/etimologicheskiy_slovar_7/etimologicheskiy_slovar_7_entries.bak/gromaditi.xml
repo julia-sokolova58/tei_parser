@@ -1,0 +1,191 @@
+<Entry xml:id="gromaditi">
+  <pb n="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gromaditi</orth>
+    <lemma>gromaditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>gromaditl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать (в кучу) , громадити се , сло­ вен. grmdditi собирать, нагромождать , также gro- mdditi</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в сло­ варе Стулли, RJA III, 459)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 671)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 253)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hromaditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hromazditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать, собирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hromdz</ref>- diti то же , стар, hromazditi , елвц. hroma- dif</orth>
+      </form>
+      <sense>
+        <def>собирать, копить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 497)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hromadzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>собирать, складывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gromazis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нагромождать, соби­ рать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 328)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gromadzic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать, собирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1306—1307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grema</ref>^ec</orth>
+      </form>
+      <sense>
+        <def>собирать, складывать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 304)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>громадить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать сено в кучу (ворон., курск., орл., донск., новоросс), ворошить сено, солому (Краснодар.), складывать сено в стог (курск., орл.), укладывать сено на высокий воз (рост.), грести веслами (донск.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 149)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>громадити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сгребать (о сене, скошенном хлебе, горящих угольях) .—Ср. сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 329)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>громоздить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>складывать, наваливать что-либо большой, нестройной кучей, грудой</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от <ref type="etymon" target="gromada">*gromada</ref> (см.).</gram>
+  </gramGrp>
+  <note>Любопытно отсутст­ вие такого производного от вар,<xr type="compare">см. <ref type="etymon" target="gramada">*gramada</ref>
+    </xr>. Сюда же, ви­
+димо, 
+преобразованное 
+польск. 
+gramolic 
+si$ 
+'карабкаться, взби­
+раться, 
+лезть вверх', 
+см. 
+F. 
+Stawski 
+SO 
+18, 1947, 381 и сл.; 
+Stawski 
+I, 
+338. 
+Формы 
+на 
+-zd-iti 
+отражают стадию экспрессив­
+ного удвоения 
+-dd- с последующей диссимиляцией -zd- (обратное 
+и едва ли убедительное 
+объяснение 
+см. Machek
+2 185). Реконст­
+рукция 
+для 
+этих 
+форм суф. -oz- (так 
+см. 
+Г. 
+А. 
+Ильинский 
+ИОРЯС XVI, кн. 4, 1911, 3—4) маловероятна.</note>
+</Entry>

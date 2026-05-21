@@ -1,0 +1,111 @@
+<Entry xml:id="gqstota">
+  <pb n="85" end_page="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqstota</orth>
+    <lemma>gqstota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гъстота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>густота</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 778; RJA III, 513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gos</ref>- tota ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 239)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hustota</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота, плотность</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hustota</ref> ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 543)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hustota</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>густота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>свойство, качество гу­ стого</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1014)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>густота</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота; частота; оби­ лие, сгущенность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 376)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>густата</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота.—Ср. сюда же йотовое расширение</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гусцёча</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>густота, гуща</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Матэрыялы для дыялектнага слоушка Го- мельшчыны 240)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от прилаг. <ref type="etymon" target="ggstb">*ggstb</ref> 
+(см.).
+•gqstyni</gram>
+  </gramGrp>
+</Entry>

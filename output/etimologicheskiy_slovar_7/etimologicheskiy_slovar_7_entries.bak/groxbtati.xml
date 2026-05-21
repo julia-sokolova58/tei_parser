@@ -1,0 +1,75 @@
+<Entry xml:id="groxbtati">
+  <pb n="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groxbtati</orth>
+    <lemma>groxbtati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грухтА</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать, также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грухт</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ъ , хмакед. гровта хрю­ кать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. П. Ковачев. Севлиевско. — БД V, 16)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грохтати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохотать, греметь, хрюкать , сюда же гроктати, гротати раздаваться, зву­ чать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 688)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 687; RJA III, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrochtati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>grochtaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хрюкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 152)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вар. к<xr type="compare">см. <ref type="etymon" target="groxotati">*groxotati</ref>
+    </xr>, ср. характерный суф. интенсива 
+-btati.</note>
+</Entry>

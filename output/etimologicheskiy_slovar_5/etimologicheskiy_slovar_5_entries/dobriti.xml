@@ -1,0 +1,103 @@
+<Entry xml:id="dobriti">
+  <pb n="41" end_page="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobriti</orth>
+    <lemma>dobriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дббрити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать добрым, добрити се делаться добрым</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 391)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dobriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быть приятным, быть по нраву</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задабривать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dobrit</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>добрити</ref>, добрю xaXXawu</orth>
+      </form>
+      <sense>
+        <def>Ceiv</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 287, Срезневский I, 674)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>доб</ref>­ рить</orth>
+      </form>
+      <sense>
+        <def>удобрять, утучнять, улучшать; одобрять, хорошо отзы­ ваться; задабривать, угождать, прислуживаться; нежить, холить, содержать в добре</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>добрить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нежить, хо­ лить, ласкать кого-либо (арх., новг.), хорошо кормить (животное) (волог.), удобрять, вносить удобрения в почву (перм., свердл., dobrodejb том.), бодрить, погонять (лошадь) (пенз.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 76)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>добрйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задабривать, хвалить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 398)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="s1og">*с1оЬгъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

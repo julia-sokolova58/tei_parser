@@ -1,0 +1,168 @@
+<Entry xml:id="avitisc">
+  <pb n="93" end_page="94" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>aviti(sč)</orth>
+    <lemma>aviti(sč)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>явя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>показать, открыть; сообщить, окликнуть , авя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров: ав\к)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>йава</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>показать (с. Желен,* Софийско; дип. раб. Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jaeu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сообщить,;передать; заявить, донести, jaeu се показаться, появиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jaeumu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>объявить, jaeumu овце свести за собой овец, jaeumu се заявить о себе, дать о себе знать, появиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jdviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заявить, jdvitl se явиться, дать о себе знать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 360—361)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jeoiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проявить, показать jeviti se появиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>javli</ref>(sa) то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ 1,637)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jawis</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уведомлять, объявлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SL I, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк. /<ref>аиле</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делать явным, проявлять, jdwic si$ являться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>iavic</ref> se</orth>
+      </form>
+      <sense>
+        <def>явиться, прибыть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Szymczak Doman. II, 343)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>javjic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>объявить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>шити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>показать; заявить, объявить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский III, 1634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>явить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обнаружить, показать, явиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>явйти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>явить, показать, предъявить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 535)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Можно думать, что основа гл.<ref type="etymon" target="aviti-2">*aviti</ref> произведена от и.-е. наре­
+чия, о кот. подробнее см. под <ref type="etymon" target="aiyo">*аиё</ref>.</gram>
+  </gramGrp>
+  <note>Обращает на себя внимание тот факт, что как раз в тех языках, в которых установлены на­ дежные родственные соответствия слав, слову, мы имеем дело в первую очередь с наречиями (др.-ипд, avib, avis, авест. avis) и с отнаречиыми образованиями (греч. ab-fr&lt;xvo[xai, лат. au-dio), глагола же с -i- основой *auei- мы там не находим, что может, в частности, свидетельствовать об относительно позднем (в и.-е. плане) возрасте этого глагола. Единственное удивительно близкое и морфологически полное соответствие праслав. *aviti находим в сопредельном балт.: лит. (стар., редк.) ovytis 'являться (в т. ч. во сне)', сюда же ст.-лит. ovyje 'наяву'. Н о это наводит на мысль о возможном контактном происхождении форм в одном из двух соседних языков. Балто-слав. отношения в этом пункте обычно толкуются как родственные, см. Fraenkel I, 519; Фасмер IV, 540 (приводимое у них также лтш. duities 'болтать чепуху, безобраз­ ничать' далеко от сравниваемых здесь слов семантически). Не слу­ чайно, однако, ряд авторов говорит о заимствовании из слав, в лит., см. Berneker I, 34; в последнее время см. Sadnik—Aitzet­ muller. V g l . W b . 1, 39. Вместе с тем положение значительно сложнее, вопрос окончательно не решен. Часть форм с этим кор­ нем, по-видимому, исконна в балт. и прежде всего — лит. ovaidas 'сорванец' (о нем подробнее см. выше, под *avida, *avidb), относи­ тельно кот. неточно высказываются Садник—Айцетмюллер (там же). О начале слав, слова и развитии протезы /- см. Е. Nie- minen «Scando-Slavica» II, 1956, 25—26. Отметим попутно, что алб. avis 'приближать', avitem 'прибли­ жаться', которое Фасмер объяснял как заимствование из цслав. ЛБИТИ СА, имеет совсем другую, алб. этимологию, см. подробно М. Camaj. Albanische Wortbildung (Wiesbaden, 1966) 72.</note>
+</Entry>

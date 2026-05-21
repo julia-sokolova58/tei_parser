@@ -1,0 +1,47 @@
+<Entry xml:id="dervotocb">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervotocb</orth>
+    <lemma>dervotocb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervotocina</orth>
+    <lemma>dervotocina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dfeuotoc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>teredo (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dfeuotoclna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>древесная труха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>drzewotocz</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жук-древоточец Anobium pertinax L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(около 1500 г., St. stpol. II, 209)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="deruo">*deruo</ref> (см.) и гл. <ref type="etymon" target="tociti-3">*tociti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,21 @@
+<Entry xml:id="diza">
+  <pb n="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*diža</orth>
+    <lemma>diža</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>diža</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>Acanthus mollis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно лит. dyge 'крыжовник', dygus 'колючий', diegti, лтш. diegt 'колоть'. См. Bezlaj. Etyma slovenica 167; Он же. Zajednicka problematika juznoslavenske leksike 14 (относит сюда же сербохорв. диал., юго-зап., zica 'Acanthus spinosissimus' *dbzica).</note>
+</Entry>

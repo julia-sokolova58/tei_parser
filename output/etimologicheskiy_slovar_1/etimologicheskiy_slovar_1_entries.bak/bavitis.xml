@@ -1,0 +1,229 @@
+<Entry xml:id="bavitis">
+  <pb n="167" end_page="168" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>baviti (s$)</orth>
+    <lemma>baviti (s$)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бавя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>медлить, задерживать, забавлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>баве</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мешать кому-нибудь, баве се задерживаться , бавъ задерживать кого-нибудь , бава се терять время, задерживаться , бавим съ Оставаться, задерживаться дольше на одном месте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Го- ров. Страндж. Б Д I, 65)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ко- лев Б Д , III, 294)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов Б Д III, 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Говорът на Н о в о село, Видинско 208)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бави</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>медлить; оттягивать, тянуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бавит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>опаздывать, задерживаться (Елез. I), бавити се задерживаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdviti</ref> se</orth>
+      </form>
+      <sense>
+        <def>заниматься, задерживаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 14)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>baviti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>развлекать, интересовать; отнимать время; baviti se коротать время, развлекаться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bavit</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мешать в ра­ боте, bavit se медлить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bavitf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>развлекать; интересовать, отнимать время, задерживать, bavif sa развле­ каться, забавляться, задерживаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 75)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>Ьа</ref>- wlc</orth>
+      </form>
+      <sense>
+        <def>забавлять, пребывать, bdwic si?</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. 1, 378—379)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bdrjic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>задерживать, занимать, забавлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бавитъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мешкать, делать что- нибудь не скоро , г о в о р и т ь , бавитъся мешкать, задерживаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(псковск., Д о п . к Опыту 4)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Псков­ ский областной словарь 1, 89; Филин 2, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бавитъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>медлить , с трудом обходиться, кое-как перебиваться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский сло­ варь 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бавити</ref>*оставаться</orth>
+      </form>
+      <sense>
+        <def>, медлить, проводить время, задерживать, заниматься чем-либо , бавитися задерживаться, оставаться, заниматься чем-либо, увлекаться, забавляться , у к р . бавити забавлять, развлекать, удерживать, задерживать , замедлять, задер­ живать, забавлять , развлекать, проводить время, тратить, пройти, миновать (Картотека Украинского академического словаря), задерживать, играть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Б1лецышй-Носенко. Словник укр. мови 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойковского диа­ лекта 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бавщъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>занимать, тешить, задерживать; мешкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 40)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Обычно соотносят с<xr type="compare">см. <ref type="etymon" target="byti-2">*byti</ref>
+    </xr> как его каузатив. См. Berneker I, 
+47; Machek 27 (толкует как старый фактитив-каузатив 
+к 
+byti, 
+выступающий в этой роли в слав, языках обычно только в сло­
+жениях с jbz-, 
+za-, 
+do-; простое baviti 'amuser' 
+автор склонен 
+расценивать 
+как 
+вторичное, депревербализованное); Георгиев 
+В Е Р I, 24; Stawski I, 28; Фасмер I, 101; Sadnik—Aitzetmuller. 
+Vgl. W b . 2, 101—103. В последнее время см. специально Z . Gotab. 
+The 
+Grammar 
+of Slavic Causatives 
+( = « A m e r i c a n contributions 
+to the Sixth 
+International congress of slavists». Prague, 
+1968. 
+Preprint) 9, кот. указывал, что каузатив baviti построен на пред­
+полагаемом презентном *bovq (к byti), соответствующем др.-инд. 
+bhdvati (ср. J. Kurytowicz BPTJ X V I , 101). Вокализм каузатива а 
+получен продлением: о &lt; о. Т. о., соотношение презентной и 
+каузатнвЕюй 
+основ 
+имеет 
+вид 
+на 
+и.-е. 
+уровне 
+как</note>
+</Entry>

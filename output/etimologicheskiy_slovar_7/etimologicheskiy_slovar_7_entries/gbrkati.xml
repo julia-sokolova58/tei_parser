@@ -1,0 +1,178 @@
+<Entry xml:id="gbrkati">
+  <pb n="208" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbrkati</orth>
+    <lemma>gbrkati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гръкамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворко­ вать, каркать , также grcati</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 442)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать, кричать пронзительно</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 253)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трещать, сюда же hrcati выпускать газы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 486)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrcat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кашлять, харкать , hrcat выпускать газы, ветры , gfcaf блевать , great то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 31)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 64)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 85)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrkatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>громыхать, тарахтеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 526)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>grcaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блевать , grcatH то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Slovenske Pravno v Turc. z., Kalal 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Matejcik. V^chodonovohrad. 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гърпати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Наум. II. 7 — Упыр.; Конст. Болг. поуч. XII в. 88, Срезневский I, 615)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гбркатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворковать (курск.), звать, кричать (волог.) , гаркать сильно кричать , гуркать вор­ ковать (олон., калу ж., орл., курск., новг.), говорить (новг., онеж., новоросс, олон.), кричать (новг., орл.), тихо греметь (об отдаленном громе) (олон.), рвать, блевать (олон.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Фи­ лин 7, 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(ворон., костр., ряз., Опыт 36; см. также подробно Филин 6. 141: гаркать)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гаркати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>картавить , гуркати стучать, грохотать, ворковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 274)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 341)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гыркаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буркать, ссориться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гаркаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кар­ тавить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Туров, Народнае слова 303)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание. См. Berneker I, 370.</note>
+</Entry>

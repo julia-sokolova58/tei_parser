@@ -1,0 +1,109 @@
+<Entry xml:id="golak">
+  <pb n="198" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golakъ</orth>
+    <lemma>golakъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>голак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голыш, бедняк, голый, неоперившийся птенец, улитка Limax agrestis , голый человек, бед­ няк, вид улитки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>голак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кожаная безрукавка , бед­ няк , гулок м. р. кожа­ ная безрукавка , голак м. р. голый ребенок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. — БД V, 164)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(И. Кънчев. Пирдопско. — БД IV, 95)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ст. Ковачев. Троянският говор. — БД IV, 197)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Из лексиката в Кю- стендилско. — БД VI, 140)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бедняк, голь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Golak</ref> м. р., местн. название</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA III, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>golak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голая скала</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 714)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Holdk</ref> м. р., фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holdk</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>гру­ бый человек, мужлан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голяк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый человек (влад.), изношенный вытертый овчинный тулуп или полушубок (перм.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 350, там же другие вторич­ ные знач-я)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-акъ</ref>
+      </m> от прилаг. <ref type="etymon" target="golb-2">*golb</ref> (см.), субстанти­
+вация последнего.</gram>
+  </gramGrp>
+</Entry>

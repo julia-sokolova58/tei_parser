@@ -1,0 +1,164 @@
+<Entry xml:id="druzgati">
+  <pb n="133" end_page="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*druzgati</orth>
+    <lemma>druzgati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>друзгати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>давить, мять, размельчать , сюда же друздати лить как из ведра (о дожде)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 757)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА IV, 757)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>druzgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздавливать, разминать что-либо мягкое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druzgati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дробить, размельчать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 315, с пометой: «па Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>druzgat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломать, лускать, грызть (орехи) , мельчить , druzgat ломать (хвою и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 23)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druzgat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ло­ мать (с треском), ломаться с хрустом, с треском</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>друзгацъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разбивать . — Сюда же ряд очевидно отглаг. форм:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>друзга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Myrio- phyllum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 757)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>druzga</ref> ж. р., обычно мн.</orth>
+      </form>
+      <sense>
+        <def>осколки, куски, обломки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 395)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>друскъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хворост, валежник, бурелом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Алф. 1 68 об., XVII в., Сл. РЯ XI—XVII вв. 4, 365)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>друзга</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вообще все рых­ лое и сухое; сор, сухой лист и прутья под ногами и пр. , друзг м. р. хворост, валеж­ ник, сушник, бурелом) , друз м. р. сор, мусор , друзги, род. п. -ов, мн. м. р. хмель, выжатый из пива , хмель, вываренный при изготовле­ нии пива</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Даль 3 I, 1236; Филин 8, 219—220)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(хакас, Филин 8, 219)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(сев.-зап., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Опыт 51)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Филин 8, 220)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Несомненны сильные внутрислав. экспрессивные ассоциации, с одной стороны, с<xr type="compare">см. <ref type="etymon" target="drozgati">*drozgati</ref>
+    </xr>, с другой — с гнездом Чгиък-
+(см.). Это следует иметь в виду при оценке внеслав. соответствий 
+или параллелей, с кот. данная слав, основа обычно соотносится 
+непосредственно. Ср. лит. druzgeti 'распадаться на мелкие части'. 
+См. К. Буга РФВ LXX, 1913, 105; Фасмер I, 543., с другой — с гнездом Чгиък-
+(см.). Это следует иметь в виду при оценке внеслав. соответствий 
+или параллелей, с кот. данная слав, основа обычно соотносится 
+непосредственно. Ср. лит. druzgeti 'распадаться на мелкие части'. 
+См. К. Буга РФВ LXX, 1913, 105; Фасмер I, 543., с другой — с гнездом Чгиък-
+(см.). Это следует иметь в виду при оценке внеслав. соответствий 
+или параллелей, с кот. данная слав, основа обычно соотносится 
+непосредственно. Ср. лит. druzgeti 'распадаться на мелкие части'. 
+См. К. Буга РФВ LXX, 1913, 105; Фасмер I, 543., с другой — с гнездом Чгиък-
+(см.). Это следует иметь в виду при оценке внеслав. соответствий 
+или параллелей, с кот. данная слав, основа обычно соотносится 
+непосредственно. Ср. лит. druzgeti 'распадаться на мелкие части'. 
+См. К. Буга РФВ LXX, 1913, 105; Фасмер I, 543.</note>
+</Entry>

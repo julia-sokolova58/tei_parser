@@ -1,0 +1,35 @@
+<Entry xml:id="badlymn">
+  <pb n="149" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ba(d)ly мн.</orth>
+    <lemma>ba(d)ly мн.</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>россказни, пустой, забавный разговор, шутки, веселье, остроты , балй болтовня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Е. Будде. К диалектологии великорусских наречий. Исследова­ ние особенностей рязанского говора. — Р Ф В X X V I I I , 1892, 50)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бали</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>разговоры, россказни</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 24)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Plurale tantum от незасвид. имени *ba(d)la ж. р., тождествен­ ного лат. fabula ж. р. 'речь, рассказ; басня' &lt; и.-е. *bha-dhl-d (см. о лат. слове W a l d e — Н о Г т . I, 437, без слав, слова). Ограни­ ченность распространения вост.-слав, языками сообщает некото­ рую проблематичность реконструкции, откуда — вариантность заглавной формы. См., напр., Sadnik—Aitzetmuller. V g l . W b . 2, 119, где русск. балы, укр. бали рассматриваются в духе тради­ ции как производные на -Z-.</note>
+</Entry>

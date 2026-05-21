@@ -1,0 +1,88 @@
+<Entry xml:id="cernovbjb">
+  <pb n="68" end_page="69" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cernovbjb</orth>
+    <lemma>cernovbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>trenovy</ref> (zub)</orth>
+      </form>
+      <sense>
+        <def>коренной (зуб)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crenovy</ref> (zib), прилаг.</orth>
+      </form>
+      <sense>
+        <def>коренной (зуб) , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>crenovi</ref>, сге- novi</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 54, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>trzonowy</ref> : zqb со</orth>
+      </form>
+      <sense>
+        <def>корен­ ной зуб</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. Ill, 152)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>trdunue</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Si, прилаг. коренной (зуб) , stfdunu$vi, прилаг. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz. Slovinz. Wb. II, 1239)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. IT, 1114)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черзнозой</ref>,</orth>
+      </form>
+      <sense>
+        <def>черенкозый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1312)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>черзнбвий</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>коренной (зуб) • с е г п ъ / *сегпо/ *сегпа/ *сегпь ; ср. еще суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ужг. р-н Закарп. обл., Чучка 345)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ч^ЫЭБАЫИИ М. р. мн. ч. 'коренные зубы' (Sad.).—Отсюда произведено субстантивированное в.-луж. cronowc м. р. 'коренной зуб' (Pfuhl 88).</note>
+  <gramGrp>
+    <gram>Пртаг., производное с суфф. -ov- от<ref type="etymon" target="segp">*сегпъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,59 @@
+<Entry xml:id="bezstudbivbjb">
+  <pb n="46" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezstudbivbjb</orth>
+    <lemma>bezstudbivbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ьеггоудАМЪ</ref>, -ъш, прилаг., dvai8ir]&lt;;, avata^uvTog, impudens</orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Supr., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezstoudny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бестбдъныи</ref> dvaiSiqc, dvoua^uvcog, impudens</orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г., Срезневский 1, 77—78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бесстудный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Доп. к Опыту 7)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сравнение пар *bezstudb—*bezstudjb и *bezstudъ—*bezstudъnъ позволяет рассматривать *bezstudb№ как суффиксальное произ­ водное (аналогично<xr type="compare">см. <ref type="etymon" target="bezstudjb">*bezstudjb</ref>
+    </xr>), в данном случае — с суфф. 
+-ъп-.</note>
+  <gramGrp>
+    <gram>Функция суффикса в<ref type="etymon" target="bezstudbnb">*bezstudbnb</ref>, как и в <ref type="etymon" target="bezstudjb">*bezstudjb</ref>, — воз­
+вратная адъективация, ср. признаки ранней субстантивности 
+<ref type="etymon" target="bezstud">*bezstudъ</ref> (см.; первонач. прилаг-ное).</gram>
+  </gramGrp>
+  <note>Различия между функцио­ нально близкими *bezstudjb и *bezstudbnb сводятся, видимо, к различной относительной хронологии, так как -ъп гораздо более продуктивный формант, но надо сказать, что примеры *bezstudb№ тоже должны быть признаны достаточно ранними (см. выше). Нет надобности предполагать кальку с греч. (так см. К. Schumann. Die griech. Lehnbildungen und Lehnbedeutungen im Altbulgarischen 23).</note>
+</Entry>

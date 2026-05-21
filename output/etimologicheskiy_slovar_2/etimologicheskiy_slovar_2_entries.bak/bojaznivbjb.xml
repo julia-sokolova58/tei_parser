@@ -1,0 +1,52 @@
+<Entry xml:id="bojaznivbjb">
+  <pb n="164" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bojaznivb(jb)</orth>
+    <lemma>bojaznivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bojazniv</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>timidus, боязливый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII, XVIII вв., RJA I, 515)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdznivy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bojazniwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>боязливый, робкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 38)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бошнивыи</ref> timidus, timens, cpo|3o6(xevo&lt;; .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Жит. Феод. Ст. 120, Срезневский I, 159)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ш- от<ref type="etymon" target="bojaznb">*bojaznb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

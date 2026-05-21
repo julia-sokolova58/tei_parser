@@ -1,0 +1,142 @@
+<Entry xml:id="druzstvo">
+  <pb n="137" end_page="138" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družьstvo</orth>
+    <lemma>družьstvo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружество</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>общество, компания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ, см. также Дювернуа)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>друштво</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>друштво</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>общество, также друст(в)о ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(КарациЬ; РСА IV, 759—760)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drustvo</ref> ср. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>druzstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>общество, компания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>druzstvo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>компания, команда (игроков, спортсменов), воин­ ское подразделение, отделение, дружина, друзья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>drastwo</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>подвиг (воинский), доблесть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(St. stpol. II, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дружество</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>взаимная привязанность двух или более людей, тесная связь их</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1235)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-bstuo</ref>
+      </m> от <ref type="etymon" target="drugb-7">*drugb</ref> (см.). 
+drbgati (s^): словен. dfgatl 
+'дрожать' (Plet. I, 172), чеш. диал. 
+drgat 'толкать, трясти' (вост.-мор., Bartos. Slov. 67), слвц. drgat<ref type="etymon" target="to">* 
+то</ref> же (SSJ I, 329), также диал. drgat' 
+(Zoch 74), польск. drgac 
+'дрожать', drygac 'дергаться, подпрыгивать' (Dorosz. II, 364—365, 
+401), др.-русск., русск.-цслав. дрыгатисы 'дрожать' (Иос. Флав. 
+В. Иуд. I. 33. 5 ? Срезневский I, 733), русск. дрыгать 'трясти, 
+подергивать отдельными членами туловища или всем туловищем', 
+диал. дрыгать 
+'лягать' (твер., волог., Даль
+3 I, 1236), дрбгать 
+трясти' (ворон., Филин 8, 195), дрбгать 
+громко топать ногами, 
+скакать (волог., там же), сюда же именные формы дрога м. и ж. р. 
+оеспокойный человек, 
+непоседа' 
+(ряз., 
+влад., Филин 
+8, 195), 
+дрогало ср. р. 'студень; желе в студне' (волог., там же), дрыгать 
+дрожать, трястись, качаться' (арх., петерб.), 'биться в судорогах'
+(волог.), 
+'прихрамывать' 
+(ворон., нижегор.), 'бояться, трусить' 
+(волог., арх.), (Филин 8, 221), сюда же именные дрыга ж. р. 
+'студень' 
+(ворон.), 
+'вялый, 
+расслабленный 
+человек' 
+(ворон.) 
+(Филин 8, 220), дрыгать 'качать (ребёнка)' (Картотека Новгород­
+ского ГПИ), укр. диал. дригати 
+'молоть' (Москаленко. Словник 
+д1алектизм1в 
+украшських 
+гов1рок ОдеськоУ област1 
+32), блр. 
+дрыгаць 
+'дергать, 
+подергивать 
+ногами' 
+(Байкоу-Некраш. 98).</gram>
+  </gramGrp>
+  <note>Гл. на -ati, производный от основы, родственной лит. drugys 'лихорадка', лтш. drudzis. См. Berneker I, 231; Otrqbski. Studia indoeuropeistyczne 147; Фасмер I, 540; Sfawski I, 175 (s. v. drzec); Fraenkel I, 105.</note>
+</Entry>

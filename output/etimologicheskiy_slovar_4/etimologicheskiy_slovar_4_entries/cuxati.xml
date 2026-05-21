@@ -1,0 +1,96 @@
+<Entry xml:id="cuxati">
+  <pb n="130" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cuxati</orth>
+    <lemma>cuxati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cuhati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуять, догадываться , cahati дуть , cohati то же , cehdti вонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 116)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 108)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cichati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чуять, нюхать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>cuchat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вонять, также искать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cuchat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нюхать, чуять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cuchac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>нюхать, чуять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чухатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чувствовать; распознавать вкусом, обонянием , чуять , чукатъ чуять (орл., Картотека Словаря русских народных говоров)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вас­ нецов 346)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 216)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Экспрессивное образование с помощью суффиксального расши­ рения<m type="suffix">
+        <ref>-xati</ref>
+      </m> от <ref type="etymon" target="cuti">*cuti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Фасмер IV, 389.</note>
+</Entry>

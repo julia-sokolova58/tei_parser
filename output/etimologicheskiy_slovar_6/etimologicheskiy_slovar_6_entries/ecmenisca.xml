@@ -1,0 +1,116 @@
+<Entry xml:id="ecmenisca">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьmenišča</orth>
+    <lemma>ęčьmenišča</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ичименйште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ячменное поле , ичименйште ср. р. поле из-под ячменя , ичумёниште ср. р. яч­ менное поле , ичумёниште ср. р. поле из-под ячменя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Мла­ денов БД III, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Китипов. Казанлъшко — БД V, 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско. — БД VI, 181)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — БД VII, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. ]<ref>ачмениште</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле под ячменем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jecmenlste</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле из-под яч­ меня, также в кач-ве местн. названия , также ]ёчмйште ср. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 507)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. ]<ref>ечмиш</ref>%е</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Vis. 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Jecmenisce</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле из-под ячменя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jecmeniste</ref>, jecme- nisko ср. р.</orth>
+      </form>
+      <sense>
+        <def>ячменное поле</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>jacmenisko</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>ячменное поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>jacmenisko</ref> , н.- луж. jacmenisco ср.</orth>
+      </form>
+      <sense>
+        <def>поле, засеянное ячменем</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 161)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 521)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>ячмётшча</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>поле, с кот. собрали ячмень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(На­ родная лексша 147)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -isce от основы *$сътеп- (<xr type="compare">см. <ref type="etymon" target="stu">*$съту</ref>
+    </xr>).).).).</note>
+</Entry>

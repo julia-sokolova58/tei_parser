@@ -1,0 +1,46 @@
+<Entry xml:id="edera">
+  <pb n="39" end_page="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕd(e)ra</orth>
+    <lemma>ĕd(e)ra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Ъдера</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>еда, пища</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Велели отпустить. . . в Шелохову Кабарду. . . купить на едеру, что не стало у них хлеба. Посольство Толочанова, 108. 1652 г. — СлРЯ XI—XVII вв., 5, 16)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>йдера</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кушанье, яства , особенно часто в форме остаточного словосочетания пйтер и йдеру литеру и идеру . — Сюда же, возм., произ­ водное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь русск. яз. II Отд. III, 144)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. подробно R. Eckert. Spuren des r-Stammes von der Wurzel 'essen' im Slavischen. — ZfS XIX, 1974, 491 и сл.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jddrna</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>отверстие, через которое свинья про­ совывает голову в кормушку, das Fre(51och</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 354)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Согласно Эккерту (выше; см. также Р. Эккерт «Slawische Wortstudien. Sammelband des mternationalen Symposiums zur etymologischen und historischen Erforschung des slawischen Wort- schatzes. Leipzig, 11.—13. 10. 1972», 55), здесь представлено -г- производное гетероклитич. типа, ср. сюда же греч. (гомер.) е!8ар, 'editi(se) род. п. -атос 'еда, корм', хетт, etri- (собственно edri-) 'кушанье, еда', лувийск. adri- 'еда', лит. edra 'корм', 'еда'.</note>
+</Entry>

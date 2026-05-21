@@ -1,0 +1,151 @@
+<Entry xml:id="grqbostb">
+  <pb n="143" end_page="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqbostb</orth>
+    <lemma>grqbostb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grubostb</orth>
+    <lemma>grubostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грубости</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>грубость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Георгиев БЕР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>грубости</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грубость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>grubost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грубость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XIII в. и в словарях Беллы, Стулли, Даничича, RJA III, 476)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grobost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>внушительность, величие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrubost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>грубость</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrubosf</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruhosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толщина , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 918)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>griiboec</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Szymczak. Doman. II, 276; Gornowicz. Dialekt malborski II, 1, 121)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грубость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>невежество , вред, ущерб, насилие, обида , враждебность, непослушание , нечистота, зловоние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Нест. Бор. Гл. 1, 48; Панд. Ант. XI в. 2; Дан. иг., Срезневский I, 598—599)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1480 г., Псков, лет. II, 59)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(1471 г., Новг. II лет. 279)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Назиратель 147, XVI в.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(СлРЯ XI—XVII вв. 4, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грубость</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грубость</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>тоска (арх.), досада, обида (арх.), , темные тучи на небе, облачность (Картотека Печорского областного словаря), сюда же pi. tant</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грубощ1</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грубости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 366)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>блр. грубасць ж. р. гру­ бость, плотность, толщина.</note>
+  <gramGrp>
+    <gram>Производное с суф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="gr-7">*gr</ref>}bъ l^<ref type="etymon" target="grub">*grubъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

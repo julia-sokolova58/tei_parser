@@ -1,0 +1,122 @@
+<Entry xml:id="druzdruza">
+  <pb n="135" end_page="136" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*družь, *druža</orth>
+    <lemma>družь, *druža</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>druza</orth>
+    <lemma>druza</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Druza</ref> м. р., личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XIV в., RJA II, 810)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>druza</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подруга, супруга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>druze</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подружка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomase ze Stitneho Reci nedelni a svatecnf, 1392 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>druzy</ref> druie ж. р.</orth>
+      </form>
+      <sense>
+        <def>подружка, дружина, группа</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>druz</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>общество, компания</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ-1, 336)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>druzy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>братский, дружеский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 397)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дружий</ref>, ~ъя. -ъь</orth>
+      </form>
+      <sense>
+        <def>принадлежащий другу, друзьям, состоящий из друзей, дружеский , дружищ род. п. -шг, м. р. дружка . ^ - Производное с суфф. -/- (притяжат.) от *drugb (см..). druzbba:</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Филин 8, 213)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(калуж., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>дроужАкд</ref> ж. p . cptXta, oovoSta, amicitia, societas</orth>
+      </form>
+      <sense>
+        <def>ДРУжба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Клоц., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дружба</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дружба (ЬТР), макед, дружба ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дружба</ref> ж. р.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>ДРужба, товарищество', 'спутники' (Карацип, РСА IV, 752), словен. druzba ж. р. 'общество, компания' (Plet. I, 180) чеш. druzba ж. р. 'дружба', druzba м. р. 'дружка, шафер жениха', диал. druzba м. p. то же (Malina. Mistf. 23; Lamprecht. Slovn. stfedoopav. 35), слвц. druzba м. p. 'дружка, шафер', druzba ж. p. 'дружба' (SSJ I, 336), в.-луж. druzba м. p. 'товарищ', 'свадеб­ ный дружка, сват' (Pfuhl 167), н.-луж. druzba м. р. 'сват', 'дружка' (Muka St. I, 210), польск. druzba м. p. 'дружка, ша­ фер жениха', стар. 'друг, товарищ, приятель', ж. р. 'дружба', 'друзья' (Dorosz. И, 396), др.-русск., русск.-цслав. дрХжъба (Панд. Анд. XI в. л. 122; Гр. Наз. XI в. 37), 'товарищество, общество' (Жит. Фед. Студ. 142) (Срезневский I, 731—732) русск. дружба ж. р. 'взаимная расположенность, привязанность людей друг к другу', укр. дружба ж. р. 'дружба 7, общ. 'один из супругов; замужняя женщина или женатый мужчина', 'товарищ жениха на свадьбе, приглашенный им из числа парней; шафер' (Гринченко I, 447—448), диал. дружба 'шафер жениха' (Ф. Рыбский. Свадеб­ ные обряды и песни в м. Макове Каменецкого у. Подольской губ. —ЖСт. V, 1895, 226), блр. дружба ж. р. 'дружба'.</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъЪа</ref>
+      </m> от гл. <ref type="etymon" target="druziti">*druziti</ref> (см.).</gram>
+  </gramGrp>
+  <note>Функция имени действия представлена в ст.-слав. и вост.-слав.; в прочих язы­ ках развились вторичные знач-я: 'товарищи, компания' (ю.-слав.), 'дружка, шафер на свадьбе' (зап.-слав.). См. Orzechowska 157— 158. Ср. параллельное образование в лит. draugybe 'дружба'. См. еще С. Микуцкий Изв. ОРЯС IV, 1855, 95—96.</note>
+</Entry>

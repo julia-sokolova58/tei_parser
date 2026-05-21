@@ -1,0 +1,82 @@
+<Entry xml:id="gribati">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gribati</orth>
+    <lemma>gribati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грибам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>зарывать, прикапывать (виноград) (Георгиев ВЕР), сюда же згрйбам собирать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Виниште, Ми- хайловградско. — Дип. раб. Софийск. ун-та, 1977 г.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гриба</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разгребать, раскапывать (виноградные кусты)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gribati</ref>, итерат.</orth>
+      </form>
+      <sense>
+        <def>рыть, грести, скрести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hribat</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Vsec^ko zelf nam zajici ohfibali. Zlinsk., Bartos. Slov. 107; если последнее не из *grebati&gt; см. *grebati / *grebati)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>грйбатъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>морщиться, хмуриться; дуться, сердиться (влад., яросл.), гримасничать, корчить рожи (влад.) .—Ср. сюда же производное имя орудия</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 140—141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>грибач</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кочерга</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 147)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив к<ref type="etymon" target="grebti-9">*grebti</ref> 
+(см.), развившийся на базе продления кор­
+невого вокализма в ступени редукции 
+<ref type="etymon" target="grbb-">*grbb-</ref>.</gram>
+  </gramGrp>
+</Entry>

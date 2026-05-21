@@ -1,0 +1,83 @@
+<Entry xml:id="esensi">
+  <pb n="29" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esenь si</orth>
+    <lemma>esenь si</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>есенёс</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>прошлой осенью, этой осенью , также есенёска</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ; Геров: есенёсъ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РБЕ, Геров — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>есенёска</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>осенью , исин4&gt;с то же , есенёска этой осенью , есенёска прошлой осенью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 78)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ко- лев БД III, 300)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 247)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jecenac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>этой осенью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(см. также RJA IV, 620; Д. ИгвьатовиЬ «Зборник за филологщу и лингвистику» IV—V, 1961—1962, 95— 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jesenes</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>этой осенью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 367)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бсенёсъ</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>осенью, в прошлую осень , осенёсъ, осенёся, нареч. прошлой осенью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., волог., перм., яросл., твер., тобол., Опыт 144; Куликовский 73; Подвы- соцкий 111)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского р-на Перм. обл. 400)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание<ref type="etymon" target="esenb">*esenb</ref> (см.) и формы ж. р. мест-я *$ь (см.).</gram>
+  </gramGrp>
+</Entry>

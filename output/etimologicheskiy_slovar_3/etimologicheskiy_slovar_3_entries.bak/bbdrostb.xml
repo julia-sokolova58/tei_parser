@@ -1,0 +1,35 @@
+<Entry xml:id="bbdrostb">
+  <pb n="111" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bbdrostb</orth>
+    <lemma>bbdrostb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бъдрость</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бодрость .—Прочие ю.-слав. формы заимствованы из</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Служ. Варл. XII в., Срезневский I, 196)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(болг. бодрость ж. р. (Геров), макед. бодрост ж. р. (Кон.), сербохорв. бддрбст ж. p. (PCA II, 17—18))</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>книжным</ref> путем.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от прилаг. <ref type="etymon" target="bbdrb">*bbdrb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

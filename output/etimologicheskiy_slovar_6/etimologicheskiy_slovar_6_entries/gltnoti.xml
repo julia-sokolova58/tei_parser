@@ -1,0 +1,148 @@
+<Entry xml:id="gltnoti">
+  <pb n="158" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtnǫti</orth>
+    <lemma>glъtnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глотка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотнуть , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гълтна</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голтне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотнуть, проглотить, поглотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гутнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотнуть, проглотить , также еунути, глйнути , глйтнути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 782)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 349)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 351)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goltniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотнуть, проглотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hltnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жадно напиться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>huknuc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проглотить (Bar­ tos. Slov. НО), возм., сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>g-olnonc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выпить, проглотить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tomasz. t o p . 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>глбнутъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глот­ нуть, проглотить , глонуть глотнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., арх., костр., твер., орл., курск., урал., перм., том., кемер., кустан., олон., смол., влад., Филин 6, 201)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глйнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотнуть, проглотить , также глйтнути . — Преобразованием *gHtn}ti является, в конечном счете, и имперфективированное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 289)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глынаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глотать, загла­ тывать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m>, производный от <ref type="etymon" target="gHtati-3">*gHtati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

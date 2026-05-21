@@ -1,0 +1,36 @@
+<Entry xml:id="grebeja">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grebeja</orth>
+    <lemma>grebeja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>гребея</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(. .. и гребеямъ и кучевоза* денегъ рубль 22 а лтына 2 денги. Кн. расх. Холмог. арх. дома № 16, л. 52, 1710 г., Картотека ДРС)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гребия</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кисть руки, пятерня , гребея ж. р. женщина, сгре­ бающая сено (арх., КАССР), кисть руки, пятерня (пек.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., Доп. к Опыту 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 123)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (имя деятеля) с суф. -ё)а от<ref type="etymon" target="grebti-3">*grebti</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

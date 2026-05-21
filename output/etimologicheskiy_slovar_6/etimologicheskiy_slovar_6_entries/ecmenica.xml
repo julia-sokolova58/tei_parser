@@ -1,0 +1,54 @@
+<Entry xml:id="ecmenica">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ęčьmenica</orth>
+    <lemma>ęčьmenica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>щчменица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ячменная солома , сербо­ хорв. ]ёчменица ж. р. ячменный хлеб, ячменная каша, (диал.) ячменная солома , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 755)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. )<ref>ечменица</ref> , jaemenica ж. р.</orth>
+      </form>
+      <sense>
+        <def>сорт яблок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ки. 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 392)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jecmenica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>ячменная солома, ячменная каша</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 362)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное с суфф. -ica от прилаг.<xr type="compare">см. <ref type="etymon" target="step">*$сътепъ</ref>
+    </xr>, субстанти­
+вация последнего., субстанти­
+вация последнего., субстанти­
+вация последнего., субстанти­
+вация последнего.</note>
+</Entry>

@@ -1,0 +1,44 @@
+<Entry xml:id="begtbjb">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>beg()tbjb</orth>
+    <lemma>beg()tbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>behuty</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>быстрый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sbor. hrab. Bavo- rovskeho, конец XIV в.—Ст.-чеш., Прага; Simek 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>be</ref>­ huty, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бегущий, подвижный, быстрый,</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bjehuti</ref>, прилаг., напр. о песке —</orth>
+      </form>
+      <sense>
+        <def>сыпучий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 10)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. на базе древнего нейотированного прич. на -qt-<ref type="etymon" target="beggt-">*beggt-</ref>
+от гл. <ref type="etymon" target="begt">*begt</ref>'i, <ref type="etymon" target="begati">*begati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,45 @@
+<Entry xml:id="astrbovb">
+  <pb n="82" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>astr§bovb</orth>
+    <lemma>astr§bovb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ястребов</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ястребиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>jacmpe6oe</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jastrebou</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ястребиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(R J А IV, 485—486)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ои- от<ref type="etymon" target="astr-2">*astr</ref>$bb (см.).</gram>
+  </gramGrp>
+</Entry>

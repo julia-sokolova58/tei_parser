@@ -1,0 +1,113 @@
+<Entry xml:id="gnat">
+  <pb n="164" end_page="165" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnatъ</orth>
+    <lemma>gnatъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гтъат</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голень, нога (вообще) , также gnat м. р. кость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 390; Вла,]инац II, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 220—221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnat</ref> ж. p., gnjdt ж. р.</orth>
+      </form>
+      <sense>
+        <def>окорок, ягодица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 221, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hndt</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>длинная кость конечности (обычно — голая, мертвая, без мяса)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>уничиж</ref>.</orth>
+      </form>
+      <sense>
+        <def>нога, ?рука (особ, сильная или костлявая)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hndt</ref> м. р., обычно hndty мн.</orth>
+      </form>
+      <sense>
+        <def>руки и ноги, конечности (обычно — ноги), длинные кости (обычно — ног)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 489)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hndt</ref> м.</orth>
+      </form>
+      <sense>
+        <def>икра (ноги)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodono- vohrad. 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gnat</ref> м. р. простореч.</orth>
+      </form>
+      <sense>
+        <def>кость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 856; Dorosz. II, 1194)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gnat</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>чурбан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(W. Herniczek- Morozowa. Terminologia polskiego pasterstwa gorskiego I, 67)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gnaut</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 282)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Трудное слово.</note>
+  <gramGrp>
+    <gram>He исключено родство с гл.<ref type="etymon" target="gneto">*gneto</ref>, <ref type="etymon" target="gnesti">*gnesti</ref> 
+(см.) (см. об этом вскользь уже Berneker I, 315), причем форма 
+<ref type="etymon" target="gnato">*gnatъ</ref> была бы продленной ступенью (о ^&gt; а) -о- вокализма про­
+изводного имени.</gram>
+  </gramGrp>
+  <note>Как продленность вокализма, так и в целом родство с *gnesti может объясняться экспрессивным характером наименования крупной кости (впрочем, не только кости, ср. ело- вен., выше) как жома, гнета, того, чем давят. Прочие этимологии крайне сомнительны, ср. сближение с нем. Knoten 'узел' (Ber­ neker, там же; Machek 2 171), с греч. yovu, yovaxog 'колено' (Skok. Etim. rjecn. I, 577—578), yvaftos 'челюсть' (SJawski I, 300).</note>
+</Entry>

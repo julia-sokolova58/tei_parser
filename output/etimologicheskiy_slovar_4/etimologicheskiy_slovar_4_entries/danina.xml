@@ -1,0 +1,75 @@
+<Entry xml:id="danina">
+  <pb n="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>danina</orth>
+    <lemma>danina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>данина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>подать, налог , слвц, danina ж. р. сдар, подарок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 52)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott V—VI, 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>da</ref>- nina ж. р.</orth>
+      </form>
+      <sense>
+        <def>дань, подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>данина</ref> сДар (?)</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Отнимаешь у нихъ сЬножатъ. .. данину отца нашого короля его милости. Суд. лист. Смол. нам. Юр. Гл. 1496 г., Срезневский I, 627)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. стар, <ref>данина</ref> ж. р. сдар, подарок, жалованное</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1030)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>данина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дань</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дангна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дань, подать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу-Некраш. 89)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. чпа (собир.?—Ср. семантику слова) от имени<ref type="etymon" target="danb">*danb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

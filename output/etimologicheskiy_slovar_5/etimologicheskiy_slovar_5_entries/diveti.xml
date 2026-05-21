@@ -1,0 +1,93 @@
+<Entry xml:id="diveti">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divĕti</orth>
+    <lemma>divĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дивёя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дивёем</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать, жить в одиночестве</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шанкарев — Близнев БД III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дивее</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>divĕti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>divieV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать, быть диким, безумствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. ^<ref>avjauc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дичать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 230)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>дивёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удивляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 48)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-ёН</ref>
+      </m>, производный от <ref type="etymon" target="divbjb">*divb(jb)</ref>, 
+<ref type="etymon" target="divo">*divo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

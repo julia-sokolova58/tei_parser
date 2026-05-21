@@ -1,0 +1,23 @@
+<Entry xml:id="bezmirb">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezmirb</orth>
+    <lemma>bezmirb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Bezmir</ref>, название деревни .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Profous I, 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Адъективное по своей природе производное с суфф. -/ъ и зна­ чением принадлежности от личного имени собственного<ref type="etymon" target="Bezmi">*Bezmi</ref>^.</gram>
+  </gramGrp>
+  <note>См. Profous. Там же. Реконструированное имя *Bezmirb — сло­ жение<xr type="compare">см. <ref type="etymon" target="bez">*bez</ref>
+    </xr> и <xr type="compare">см. <ref type="etymon" target="min">*min</ref>
+    </xr>.</note>
+</Entry>

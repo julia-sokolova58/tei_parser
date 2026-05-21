@@ -1,0 +1,22 @@
+<Entry xml:id="cetb">
+  <pb n="99" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetb</orth>
+    <lemma>cetb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cec</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>кисть (на сапогах, на одежде); гроздь, связка (напр., орехов)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 72)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Вариант основы<xr type="compare">см. <ref type="etymon" target="s6et-">*s6et-</ref>
+    </xr>.</note>
+</Entry>

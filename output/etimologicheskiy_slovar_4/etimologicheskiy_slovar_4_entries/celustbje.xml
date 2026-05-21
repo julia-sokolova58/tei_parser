@@ -1,0 +1,45 @@
+<Entry xml:id="celustbje">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cel'ustbje</orth>
+    <lemma>cel'ustbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eel</ref> just je ср. р.</orth>
+      </form>
+      <sense>
+        <def>пасть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 98)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>ce</ref>- Vustie ср. p.</orth>
+      </form>
+      <sense>
+        <def>отверстие печи, часть лица вокруг рта</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 198)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>celisco</ref> ср. р. чаще мн. ч. celisca,</orth>
+      </form>
+      <sense>
+        <def>нижняя челюсть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 118)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ь/е от<ref type="etymon" target="ceVustb-3">* ceVustb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

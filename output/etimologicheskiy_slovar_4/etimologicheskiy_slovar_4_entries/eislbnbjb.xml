@@ -1,0 +1,111 @@
+<Entry xml:id="eislbnbjb">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>eislbnb(jb)</orth>
+    <lemma>eislbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>W</ref> / \ A N Z , прилаг. numerorum</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Mikl. LP, Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>числен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>численный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 623)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>elselny</ref>, cislny, прилаг.</orth>
+      </form>
+      <sense>
+        <def>числовой, численный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cislny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>платежный, платный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>числённий</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>многочисленный ; сюда же субстантивиро­ ванное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>числено</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>три нитки, пуговицы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Материалы «Смоленского словаря» 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чйслта</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>три нитки, входящие в пасмо .—Ср. и суффиксаль­ ное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяшков1ч. Грод. 553)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>численка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>число, множество (тамб.), в основе: три нитки; десять численок составляют пасьму (тамб., тул.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Опыт 258; Даль 3 IV, 1346)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чысълтка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>численка, три нитки в основе; три тростинки в бёрде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 493)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ьи- от<ref type="etymon" target="eislo">*eislo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

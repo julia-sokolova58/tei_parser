@@ -1,0 +1,46 @@
+<Entry xml:id="dojidlca">
+  <pb n="53" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojidlьca</orth>
+    <lemma>dojidlьca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дойл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>а ж. р. женщина, кормящая ребенка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 59)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. до]<ref>йл</ref>&gt;а, dojujba ж. р.</orth>
+      </form>
+      <sense>
+        <def>кор­ милица, кормящая самка, нянька, сиделка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 465)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dojilja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кормилица, дойная корова, подойник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 149)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ)а от<ref type="etymon" target="dojidlo">*dojidlo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

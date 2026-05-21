@@ -1,0 +1,72 @@
+<Entry xml:id="govcdjbjb">
+  <pb n="73" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>govčdjb(jb)</orth>
+    <lemma>govčdjb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ГОЬАЖДА</ref>, прилаг. [Зоб;, bovis</orth>
+      </form>
+      <sense>
+        <def>бычий, воловий, говяжий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>говёжди</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>го­ вяжий, скотский</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гове</ref>%й, -а, -е то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА III, 406—407)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goueji</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бычий, говяжий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hovezi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>говяжий, елвц. hovadzi</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>прилаг. то же (SSJ I, 514), в.-луж. howjazy то же (Pfuhl 217), н.-луж. gowezy 'говяжий' (Muka St. I, 307), польск. диал. owi$zi 'бычий, воло­ вий* (Warsz. Ill, 918), др.-русск. говАжии, прилаг. 'бычачий' (Мин. 1097 г. л. 57, Срезневский III, 75'), русск. говяжий,<m type="suffix">
+        <ref>-ъя</ref>
+      </m>, 
+<m type="suffix">
+        <ref>-ъе</ref>
+      </m>, прилаг. 
+Притяжат. 
+прилаг., 
+производное 
+с суф. 
+-/ь от <ref type="etymon" target="gov-2">*gov</ref>$do (см.).</gram>
+  </gramGrp>
+</Entry>

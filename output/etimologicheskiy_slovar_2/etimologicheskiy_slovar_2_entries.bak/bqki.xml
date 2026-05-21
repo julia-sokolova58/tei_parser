@@ -1,0 +1,75 @@
+<Entry xml:id="bqki">
+  <pb n="235" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bqki»</orth>
+    <lemma>bqki»</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>buk</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>strepitus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 720)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bouk</ref>, buk м. р.</orth>
+      </form>
+      <sense>
+        <def>птица выпь, пеликан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>buk</ref> м, р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>buk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>песья муха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Chojn., Muka St. I, 93)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bqk</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>выпь Botaurus stel- laris, слепень, овод Tabanus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 386—387)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>Ьоцк</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>жук, овод, насекомое</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 59)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Отглагольное имя, производное от<ref type="etymon" target="bqkati">*bqkati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

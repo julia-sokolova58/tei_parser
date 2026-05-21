@@ -1,0 +1,117 @@
+<Entry xml:id="blekati">
+  <pb n="108" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blekati</orth>
+    <lemma>blekati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>блека</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>blekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>balare, блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 435: с XVII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>blaqdtd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>blekati, blebetati: qoj taq blaqd</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasej, Ramovs 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>blekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 72)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bliakaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блеять, мычать (о козе, овце, теленке) , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>блекати</ref> рХтдеао&amp;си, balare</orth>
+      </form>
+      <sense>
+        <def>блеять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вас. Вел. толк. Пс. XVI в., Срезневский I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>блекатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ругать непотребными словами, чернить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 29; смол., Филин 3, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блякати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, врать, сплетничать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 77)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Гл. со звукоподражательной основой, см. Berneker I, 59—60 (там же другие и.-е. параллели); Фасмер 1,173; Sadnik—Aitzetmiil- ler. Vgl. Wb. 3, 187-188.</note>
+</Entry>

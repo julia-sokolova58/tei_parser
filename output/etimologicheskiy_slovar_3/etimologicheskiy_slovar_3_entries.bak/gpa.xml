@@ -1,0 +1,91 @@
+<Entry xml:id="gpa">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьгъп'а</orth>
+    <lemma>Ьгъп'а</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ьръ</ref>\\\А вин. п. мн. ч. ж. р. гкораЕ, lorica</orth>
+      </form>
+      <sense>
+        <def>броня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS, Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бръня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>броня , сюда же брънка ж. р. металлический перстень, кольцо</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: брънка)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брънка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>петля (при плетении), перстень, кольцо , кольцо, кот. надевают на морду свиньи, чтобы она не рылась</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Б Д III, 42)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кольцо (вставляющееся в пятачок свиньи, губу живот­ ного)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бргьа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>коза с белым пятном на носу, бруьа ж. р. белое пятно на морде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 192)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ъгп, Ъгпё ж. р. 'броня, панцирь', елвц. Ъгоп ж. р. то же (SSJ I, 134; заимств. ?), др.-русск., русск.-цслав. брънхл, бронга 'латы, панцирь' (Изб. 1073 г. и др., Срезневский I, 183), русск. брбнЛ ж. р. 'защитная обшивка из стальных плит или листов военных судов, крепостных сооружений и т. п., металлическая защит­ ная одежда воина', ст.-укр. бронь, броня ж. р. 'вооружение' (Тимченко I, 143), бороня ж. р. то же (Тимченко I, 127), бъроня ж. р. то же (Тимченко I, 159), укр. броня ж. р. 'оружие, броня' (Гринченко I, 101). Праслав.<ref type="etymon" target="gp">*Ьгъп</ref>'а 
+заимств. из герм., ср. др.-в.-нем. 
+brunja, 
+гот. brunjo 'броня, панцирь, латы'. См. Miklosich 23; С. С. Uhlen-
+beck AfslPh 
+XV, 1893, 483; Berneker I, 90; A. Meillet RS II, 
+1909, 60; A. Sobolevskij AfslPh X X X I I I , 1912, 477; Преобр. I, 
+46; Kiparsky. Die gememslav. Lehnworter aus dem Germ. 230 — 
+231; Фасмер I, 217—218; Георгиев Б Е Р II, 83 (специально указы­
+вается на образование 
+болг. 
+брънка 
+'металлическое 
+кольцо', 
+сербохорв. бртъица 'кольцо в носу у животных' 
+от 
+<ref type="etymon" target="gp-2">*Ьгъп</ref>'а; 
+иначе см.</gram>
+  </gramGrp>
+  <note>Младенов Е П Р 46); Г. ШкриваниЬ H J V I I , 1955, 123 — 124; J. O t r e M u «Die Sprache» X I I , 1966, 56; Skok. Etim. rjecn. I, 215; Machek 2 67. Слав, форма отражает уже проведенное сокращение конеч­ ного гласного -о &gt; -а в герм, источнике (ср. гот. brunjo, но др.- в.-нем. brunja), иначе ожидался бы исход -у в слав, слове.</note>
+</Entry>

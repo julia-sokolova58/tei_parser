@@ -1,0 +1,77 @@
+<Entry xml:id="yo1s">
+  <pb n="85" end_page="86" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьё1ьсь</orth>
+    <lemma>Ьё1ьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>белец</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>водяная птица</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Р. Петковски. Некой карактеристични зборови од охридскиот говор.—MJ И, 1951, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бхиъац</ref>, род. пад. -л&gt;ца, м. р.</orth>
+      </form>
+      <sense>
+        <def>шерстяное одеяло, бёлац, бйлац, бщелац, род. над. -лца, м. р. белая лошадь, бе­ лок (в яйце), бёл&gt;ац, бщел&gt;щ м. р. белый человек, лошадь, жеребец белой масти, белый мрамор, шерстяное одеяло , бёлац белок (яичный) , blljac, род. пад. -Ijca длинное зимнее одеяло из толегой белой шерсти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 459)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Mas. 425)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>belec</ref>, род. пад. -lea, м. р.</orth>
+      </form>
+      <sense>
+        <def>белый (человек), альбинос, белобры­ сый, таракан-прусак, белый вол, белый конь, сорт яблок, бельмо, заболонь (в древесине), сопля, беленый холст, холст для просушки зерна, монета, отбельщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 17)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>belec</ref>, род. пад. -Ice, м. р.</orth>
+      </form>
+      <sense>
+        <def>белый (человек)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer 36)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>белец</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>трава</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Филин 2, 211)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от прилаг. <ref type="etymon" target="yo1">*Ьё1ъ</ref> (см.), с отчетливой 
+функцией субстантивации этого последнего.</gram>
+  </gramGrp>
+</Entry>

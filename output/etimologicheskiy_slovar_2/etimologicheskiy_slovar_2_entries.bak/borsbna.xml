@@ -1,0 +1,40 @@
+<Entry xml:id="borsbna">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borsbn'a</orth>
+    <lemma>borsbn'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>brasna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сумка , чет. brasna ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Smila Frasky pffslovi, 2-ая пол. XV в., Gebauer I, 95)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>диад</ref>, борошня</orth>
+      </form>
+      <sense>
+        <def>корзина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол. РФВ LXII, 211)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Р*5 сек. слово правильно соотнесено с чеш. Махеком (см. V. Ма- chek «Slavia» XXIII, 1954,65), но едва ли при этом необходимо отрицать связь с<xr type="compare">см. <ref type="etymon" target="ogyopo">*Ьогёъпо</ref>
+    </xr>, которую предположил Фасмер 
+(I, 197).</note>
+  <gramGrp>
+    <gram>Эта связь весьма вероятна в формальном отношении, причем<ref type="etymon" target="og-3">*Ьог</ref>$ъп'а следует понимать как йотовое производное 
+с функцией принадлежности от <ref type="etymon" target="og-3">*Ьог</ref>čъпо; вероятна упомянутая 
+связь и в семант. отношении, ср. знач-я продолжений <ref type="etymon" target="ogyopo">*Ьогёъпо</ref> 
+в слав, языках: 'пища', 'запас пищи на дорогу' и т. п.</gram>
+  </gramGrp>
+</Entry>

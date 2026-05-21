@@ -1,0 +1,88 @@
+<Entry xml:id="draka">
+  <pb n="216" end_page="217" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dьraka</orth>
+    <lemma>dьraka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>колючий кустарник, сварливый чело­ век , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>драка</ref> ж. р. (с. Въбел, Никополско, Плев. окр. Дип. раб., Архив Софийск. ун-та), дракъ ж. р. , драка ж. р.</orth>
+      </form>
+      <sense>
+        <def>акация , стар, драка колючий кустарник, тернов­ ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор. — БД IV, 198; В. Денчев. По- повско. — БД V, 248; Д. Евстатиева. С. Тръстеник, Плевенско — БД VI, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. С Младенов. Кюстен- дилско. — БД VI, 141)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. Р. Славейков. Езопови басни, 1852. — Архив Болг. возрождения, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>драка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>терн, терновник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>драка</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Paliurus aculeatus Lam. (Л). Групче. Народни имивьа на растешфта од Скопска Црна Гора. — МJ VIII, 2, 1957, 224)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драка</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 654, RJA И, 758)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка, потасовка название кустарника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>draka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>драка, потасовка (Warsz</def>
+      </sense>
+    </item>
+  </etym>
+  <note>I, 550), др.-русск. Драка, личное имя собств. (1456 г., Тупиков 189), русск. драка ж. р. 'потасовка, рукопашная схватка', диал. драка 'сенокосная полянка в лесу' (Ф. Покровский. О народных говорах северо-западной части Костромской губернии. — ЖСт. VII, 1897, 464), 'место из-под вырубленного леса', 'мелкий кустарник' (Мельниченко 61), 'выдирание, выдёргивание чего-либо', 'участок из-под леса, кустарника, расчищенный под пашню, луг, огород' (волог., яросл.), 'род гребня, употребляемого при обработке льна, конопли' (калин.), 'неровная поверхность земли, снега' (смол.) (Филин 8, 170—171).</note>
+  <gramGrp>
+    <gram>Производное с суфф. -(а)ка от гл.<ref type="etymon" target="dbrati-7">*dbrati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

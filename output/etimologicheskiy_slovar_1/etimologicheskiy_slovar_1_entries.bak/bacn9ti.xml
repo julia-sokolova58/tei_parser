@@ -1,0 +1,166 @@
+<Entry xml:id="bacn9ti">
+  <pb n="118" end_page="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bacn9ti</orth>
+    <lemma>bacn9ti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bocnoti</orth>
+    <lemma>bocnoti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бацна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поцеловать, чмокнуть, щелкнуть, ббцна кольнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, Георгиев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>боцне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>у к о л о т ь , коль­ нуть; приколоть, прикрепить , сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бакне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>поцеловать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bacnuti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кольнуть , бдцнути то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с X V I I в., R J A I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdcniti</ref>, becniti</orth>
+      </form>
+      <sense>
+        <def>толкнуть, пихнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 9, 15)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bdcnouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить; вы­ стрелить</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>bdcnut</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть с высоты , bdcnot ударить, выстрелить, упасть с грохотом , bucnut ударить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 8)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 17)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. D o d . k Bart. 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bacnuf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, швырнуть, упасть, свалиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 63)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bacnuc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить челом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бацнуть</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ббцнутъся</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удариться обо что-либо, упасть, ушибиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(псковск., тверск., Доп. к Опыту 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бацънути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, упасть с шумом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грипченко I, 34)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-щ-ti</ref>
+      </m> 
+от основы гл. <ref type="etymon" target="bacati-3">*bacati</ref> I <ref type="etymon" target="bocati-3">*bocati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Вторичность образования следует из противоречия между суф­ фиксацией, характерной для краткостного, моментального вида глагольного действия, и корневым вокализмом из другой гла­ гольной категории.</note>
+</Entry>

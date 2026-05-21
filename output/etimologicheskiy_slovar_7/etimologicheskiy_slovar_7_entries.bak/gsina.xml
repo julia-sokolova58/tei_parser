@@ -1,0 +1,110 @@
+<Entry xml:id="gsina">
+  <pb n="82" end_page="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>g()sina</orth>
+    <lemma>g()sina</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqsinb(jb)</orth>
+    <lemma>gqsinb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gusin</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гусиный , гусина ж. р. гусь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 506)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 770)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gosinji</ref>, прилаг. •gqslb</orth>
+      </form>
+      <sense>
+        <def>гусиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>husina</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>гусятина, мясо гуся*</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 511)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>husina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гусиное сало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Bartos. Slov. I l l )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gusyny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гусиный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. &gt;<ref>g</ref>$sina ж. p.</orth>
+      </form>
+      <sense>
+        <def>мясо гуся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 818)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гусиный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гусям свойственный, к ним относящийся</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1016)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гуейна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гусыня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(костр., арх., ряз., Филин 7, 243; Деулинский словарь 133)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное (или производные) с суф. -in- от основы на -i-<ref type="etymon" target="gosb">*gosb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

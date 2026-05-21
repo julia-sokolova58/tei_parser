@@ -1,0 +1,40 @@
+<Entry xml:id="bazina">
+  <pb n="172" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bazina</orth>
+    <lemma>bazina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bazina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>очень сырая местность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1490 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bazina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сырая, болотистая местность,</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bazyna</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Empetrum</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 384)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Если перечисленные чеш. и польск. слова не представляют собой результат нередкого в этих языках смешения исконного z и первоначального г, т. е. г палатализованного (см. в этом случае *barina, *bara, выше), то, очевидно, мы имеем дело с суффик­ сальным производным на -ina от основы *bag- (см. . *bagno, *bagnb, *bagy).</note>
+</Entry>

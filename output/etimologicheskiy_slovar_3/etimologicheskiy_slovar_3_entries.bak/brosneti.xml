@@ -1,0 +1,55 @@
+<Entry xml:id="brosneti">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brosneti</orth>
+    <lemma>brosneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>brouniec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плесневеть , broiniec краснеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 209)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. 1,210)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брбснёть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плеснеть, плес­ неветь, цвести гнилью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1,320)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брбснець</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плесневеть (о жидкостях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 35: бруснёць 'краснеть подобно"бруснике')</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-etl</ref>
+      </m>, производный от <ref type="etymon" target="brosnb">*brosnb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

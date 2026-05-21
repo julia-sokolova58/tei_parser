@@ -1,0 +1,74 @@
+<Entry xml:id="bledbneti">
+  <pb n="112" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bledbneti</orth>
+    <lemma>bledbneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бледнея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бледнее</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bledneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бледнеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blednied</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 548)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бледнеть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>спадать с краски, стано- виться бледным, терять живость, яркость цвета, выцветать, ли­ нять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 245)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния, производный с суфф.<m type="suffix">
+        <ref>-ей</ref>
+      </m> от прилаг. <ref type="etymon" target="yyp">*ЫЫъпъ</ref> 
+' (см.).</gram>
+  </gramGrp>
+  <note>Поскольку мы имеем в последнем инновацию (см. ниже), ' выделение производного *bledbneti как праслав. лексемы следует расценивать не более как гипотезу. Ср. и наличие равнозначного { / и, несомненно, более старого ( — построенного на базе непроиз- . водного прилаг. *ЬШъ)<xr type="compare">см. <ref type="etymon" target="blednoti">*blednoti</ref>
+    </xr>.</note>
+</Entry>

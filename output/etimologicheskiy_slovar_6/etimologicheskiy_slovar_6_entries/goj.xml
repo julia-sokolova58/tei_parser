@@ -1,0 +1,121 @@
+<Entry xml:id="goj">
+  <pb n="197" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gojь</orth>
+    <lemma>gojь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>goj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мир</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XII в., RJA III, 242; PGA III, 423—424: 'откармливание, прокорм')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>goj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>уход, выращивание, разведение , также goja ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 226)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hoj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>изобилие, избыток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hoj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>лекарство , изобилие, богатство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(стар., Adam Daniel z Veleslavina, ум. 1599)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott I, 452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. поэт, <ref>hoj</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>изоби­ лие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 498)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>goj</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>олух, болван</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJ. gw. p. II, 99)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гой</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>уход, присмотр , гби мн. раны</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(том., Филин 6, 280)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(рост., Филин 6, 279; Словарь русск. донских говоров I, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>гой</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>радость, забава (Онишкевич. Словник бойтвського д!алекту), сюда же производное прилаг. в выражении гойове листя ср. р. растение Plantago lanceolata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гой</ref> общ.</orth>
+      </form>
+      <sense>
+        <def>высокий, храбрец, герой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *gojiti (см.; там же дальнейшая этимология) и соотносительно с<xr type="compare">см. <ref type="etymon" target="ziti-2">*ziti</ref>
+    </xr>....</note>
+</Entry>

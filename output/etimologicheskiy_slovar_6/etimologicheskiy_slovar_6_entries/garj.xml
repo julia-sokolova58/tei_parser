@@ -1,0 +1,72 @@
+<Entry xml:id="garj">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garъ(jь)</orth>
+    <lemma>garъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гарый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>серый, zap, гари, прилаг. серый , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гар</ref> (Речник РОДД), гара коза ж. р.</orth>
+      </form>
+      <sense>
+        <def>черная коза с желтыми веками</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>гар</ref>, гара, гаро (полная форма г&amp;рй, -а, -о), прилаг.</orth>
+      </form>
+      <sense>
+        <def>черный . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гарест</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>вороной, черный (о лошади)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров — Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гарес</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>со светлой шерстью на животе и темной по всему телу (о козе) , гаруша ж. р. коза с черной спиной и белым животом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Горов. Страндж. БД I, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 50)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг. архаич. вида (без форманта), тождественное предше­ ствующему сущ-ному. Ср. Г. Ильинский JO V, 1925—1926, 54 (ошибочно полагает, что прилаг. #агъ в указанных знач-ях нельзя указать ни в одном слав, языке).</note>
+</Entry>

@@ -1,0 +1,53 @@
+<Entry xml:id="gbmotbnbjb">
+  <pb n="192" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gbmotbnbjb</orth>
+    <lemma>gbmotbnbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hmotny</ref>, стар, homotny, прилаг.</orth>
+      </form>
+      <sense>
+        <def>осязаемый, фи­ зический, телесный, материальный, плотный, грубый, неотесан­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 698)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hmotny</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гаматны</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плотный, массивный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>гаматны</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>круп­ ный, не по росту (о размере одежды, обуви)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сцяцко. Зэльв. 42)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суф. — ьпъ от<ref type="etymon" target="gbmota">*gbmota</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

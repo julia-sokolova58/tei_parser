@@ -1,0 +1,128 @@
+<Entry xml:id="borzditi">
+  <pb n="220" end_page="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borzditi</orth>
+    <lemma>borzditi</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>браздя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороздить, проводить борозды , диал- бразда се проводить борозды при вспашке , браздим проводить борозды на пашне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 243; Шапкарев—Близнев БД III, 204)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бразди</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороздит^ покрывать морщинами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>браздити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>проводить борозду, sulcare, пахать, ерыть канаву, ров для воды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brdzditi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороздить, пахать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brdzditi</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brdzdif</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brozdzie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороздить, вспахивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brozdzie</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бороздить, проводить (первые) борозды</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 81—82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bruz</ref>- dzic</orth>
+      </form>
+      <sense>
+        <def>проводить борозды, бороздить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 679)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бо</ref>­ роздить</orth>
+      </form>
+      <sense>
+        <def>проводить или чертить полоски</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 2)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, производный от имени <ref type="etymon" target="borzda">*borzda</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

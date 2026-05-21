@@ -1,0 +1,120 @@
+<Entry xml:id="devati">
+  <pb n="18" end_page="19" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dĕvati</orth>
+    <lemma>dĕvati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дявам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ставить, класть, девать, тратить, расходовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>девам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>совать, прятать , девам се шляться неизвестно где , девам ставить (что-нибудь куда-ни­ будь), делать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56; Шапкарев-Близнев БД III, 211)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 75)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кадё са дева цел ден? 'где пропадал весь день?'— С. Говедарци, Самоковско; Ботевградско. ИИБЕз IV, 301; СбНУ XLIV, 524. Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>duje</ref>- ваши, dujeedM</orth>
+      </form>
+      <sense>
+        <def>класть, девать, также дёватиу девам</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>de</ref>­ vati</orth>
+      </form>
+      <sense>
+        <def>класть, помещать, девать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dievatl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вставлять, совать, класть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 248; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">слвц. стар. <ref>dievaV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>класть, прятать, девать, dievaV sa деваться, пропа­ дать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>девать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>прятать, засовывать нечаянно. помещать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>dledmu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дзяваць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>девать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итеративный гл. на<m type="suffix">
+        <ref>-aii</ref>
+      </m> от основы гл. <ref type="etymon" target="deti">*deti</ref> (см. 
+<ref type="etymon" target="dejati">*de(ja)ti)</ref>, 
+расширенной с цомощью форманта -v~.</gram>
+  </gramGrp>
+  <note>Слав, новообразование в со­ ответствии с тенденцией имлерфэктивации слав, глагола. Лит. deveti 'носить (одежду)' представляет собой самостоятельное произ­ водное от аналогичного расширения. См. A. Bezzenberger, A. Fick ВВ VI, 1881, 238; Berneker I, 198; Фасмер I, 491.</note>
+</Entry>

@@ -1,0 +1,116 @@
+<Entry xml:id="glupeti">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glupĕti</orth>
+    <lemma>glupĕti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глупея</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глупети</ref>, глущети</orth>
+      </form>
+      <sense>
+        <def>глупеть , также glupfeti</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 370, 372)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA III, 211)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hloupeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 680)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>hlupieV</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Habovstiak. Orav. 185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hlupjec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупеть, сходить с ума</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>glupiec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупеть, терять рассудок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 852; Dorosz. II, 1185)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gldpjauc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глупеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. W b . I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глупеть</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глупгти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пялить глаза, глазеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, производный от прилаг. <ref type="etymon" target="glupb-3">*glupb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,68 @@
+<Entry xml:id="blizina">
+  <pb n="123" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blizina</orth>
+    <lemma>blizina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ближйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость . близйна то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 646)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 649—650)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>blizina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость , blizina ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 35)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blizina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бли­ зость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>ближйна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>близость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., Филин 3, 21)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от компаратива 
+<ref type="etymon" target="she">*ЪШе</ref> (см. далее 
+<ref type="etymon" target="blizbjb">*blizbjb</ref>, 
+<ref type="etymon" target="blizbkb">*blizbkb)</ref>.</gram>
+  </gramGrp>
+  <note>Форма сербохорв. близйна, словен. blizina, т. о., вторична. Ср. еще укр. близиня ж. р. 'близость' (Грин­ ченко I, 73).</note>
+</Entry>

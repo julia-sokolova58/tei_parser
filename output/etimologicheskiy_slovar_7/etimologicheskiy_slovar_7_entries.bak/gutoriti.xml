@@ -1,0 +1,150 @@
+<Entry xml:id="gutoriti">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gutoriti</orth>
+    <lemma>gutoriti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdtoriti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 513: «na Slov.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hutoriV</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беседовать, говорить , ср. сюда же простор. hutor м. p. беседа, разговор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 544)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. ) <ref>hantoric</ref> so</orth>
+      </form>
+      <sense>
+        <def>не­ довольно ворчать, препираться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 225)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гуторить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>говорить громко , гутаритъ говорить {Труды МДК. Тамб. губ. — Р Ф В LXVI, 1911, 214; Деулинский словарь 133), гуторить, гутаритъ дружески беседовать, разго- •guviti варивать между собой; говорить, рассказывать что-нибудь , гутрить говорить, разговаривать , сюда же гутор говор , гутбр разговор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 155)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., тул., калуж., смол., ворон., дон., сарат., ряз., влад., волог., яросл., перм., моек., пенз., симб., новг., иван., вят., оренб., урал., барнаул., арх., олон., курган., нижегор., казан., терск., Филин 7, 250)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 7, 250)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 44)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Миртов. Донской словарь 380; Деулинский словарь 134; Филин 7, 249)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>zymip</ref>, род. п. -mopi, ж. р.</orth>
+      </form>
+      <sense>
+        <def>разговор, беседа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 344)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гуторицъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>разговаривать , гута- рыць разговаривать, беседовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов, 126)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Байкоу — Некраш. 85)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Сложение двух основ, причем для первого компонента *gu- принимается родство с<xr type="compare">см. <ref type="etymon" target="govoriti">*govoriti</ref>
+    </xr>, тогда как *-toriti 
+(<xr type="compare">см. <ref type="etymon" target="tor-">*tor-</ref>
+    </xr>
+toriti) 
+родственно лит. tafti 
+'произнести, сказать'. См., вслед за 
+Ильинским, Преобр. I, 172; Е. Fraenkel 
+«Glotta» IV, 1913, 33; 
+С. D. Buck. Words of speaking and saying in the Indo-European 
+languages.—AJPh 
+XXXVI, 
+1915, 10; Фасмер I, 479. Впрочем, 
+не исключается и непосредственно звукоподражат., междометное 
+происхождение *gu-, см. так уже Преобр., там же; J. Otre,bski 
+LP I, 1949, 132—133. Ср. образование <xr type="compare">см. <ref type="etymon" target="batoriti">*batoriti</ref>
+    </xr>. Проблема­
+тично 
+толкование v Ондруша 
+из *ggtoriti, 
+якобы 
+родственного 
+<xr type="compare">см. <ref type="etymon" target="gwati">*gwati</ref>
+    </xr>, см. S. Ondrus. Vyznam a povod 
+slovies hutatf — 
+hutorif. — Slov. rec 35, 1970, 337 и сл. 
+*guviti 
+(se): сербохорв. 
+giiviti 
+'жадно копить, стяжать' (RJA III, 
+518), giiviti 
+se 'испытывать отвращение' (там же), гувити 
+'пожи­
+рать, лопать' (РСА III, 733), гувити 
+се 'испытывать тошноту, от­
+вращение' (там же).</note>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), соотносительный с несохранившимся гл. 
+<ref type="etymon" target="gyti">*gyti</ref>, 
+<ref type="etymon" target="gyvq">*gyvq</ref> (ср. производное от последнего прилаг. <ref type="etymon" target="gyvbrtb">*gyvbrtb</ref>, см.), 
+ср. "лит. gduti, 
+gdunu, 
+прош. gavau 
+'получать, принимать', лтш. 
+gaut, gut 'ловить, хватать, получать', далее — авест. gunaoiti 
+'до­
+ставлять, предоставлять', gaona- 
+'прибыль, выгода'.</gram>
+  </gramGrp>
+  <note>См. о послед­ них Fraenkel I, 141 (без слав, слова). Неверное отнесение к govno (праслав. *govbno, см.) см. Skok. Etim. rjecn. I, 597.</note>
+</Entry>

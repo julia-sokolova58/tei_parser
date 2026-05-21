@@ -1,0 +1,102 @@
+<Entry xml:id="dobiti">
+  <pb n="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbiti</orth>
+    <lemma>dǫbiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дъбя</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дубить (кожу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ; БТР: обл.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dubiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дубить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 495, с пометой: «slc. et Linde»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dubic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дубить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dpbic</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сдирать кору с дуба, дубить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дХбити</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 739)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дубить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обрабатывать кожи животных, вымачивая их в специальных химических растворах, а также в настое коры или древесины дуба, ивы, ели и некоторых других растений</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дубити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>драть, сдирать (о деньгах), вымачивать сукно в отваре ольховой коры; дубить, выделывать кожу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 451—452)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дубщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дубить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m>, производный от <ref type="etymon" target="dybb">*dybb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

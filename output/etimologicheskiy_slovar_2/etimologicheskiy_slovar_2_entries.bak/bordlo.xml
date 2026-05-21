@@ -1,0 +1,142 @@
+<Entry xml:id="bordlo">
+  <pb n="200" end_page="201" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordlo</orth>
+    <lemma>bordlo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брало</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>закол на воде</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бралу</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>глубокая канавка для воды (с. Гърмен, Благоевградско, дип. раб. Архив Софийск. ун-та), брало канава с проточной во­ дой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 132)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bradlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>утес, во мн. ч. — укрепления , ср. еще топонимы Bradlce ср. р., название крепости (Ст.-чеш., Прага), Bradlec м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 91—92)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bradlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>рукоятка палки, утес, сюда же производное bradli ср. р. перила</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 88)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bradlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>утес , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. (<ref>вост.-слвц</ref>.) bradlo</orth>
+      </form>
+      <sense>
+        <def>яма для картофеля , bralo ср. р. утес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 37)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>bradlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стог соломы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 135)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>brodlo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>стог сена</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1419 г., St. stpol. I, 161)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>brodlo</ref>, brodlo ср. р.</orth>
+      </form>
+      <sense>
+        <def>стог сена, соломы, копна хлеба, доски или жерди на балках над гумном</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 206; Dorosz. I, 660)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бороло</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>расселина в скале , бороло скала</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вх. Зн., см. Гринченко I, 88)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онышке- вич. Словарь бойковского диалекта 90)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Обычно объясняют как производное с суфф.<m type="suffix">
+        <ref>-dlo</ref>
+      </m> от основы
+гл. <ref type="etymon" target="borti-2">*borti</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. Miklosich 18 (s. v. bor-); Berneker I, 73; Фас­ мер II, 70 (s. v. заборбло); Machek 40. В отдельных случаях, однако, имела место вторичная омонимизация форм bradlo &lt;С &lt;^*bordlo и *bbradlo от<xr type="compare">см. <ref type="etymon" target="gai">*ЬъгаИ</ref>
+    </xr>, т. к. только к последнему может 
+восходить, напр., чеш. bradlo 'рукоятка'. Вместе с тем подавляю­
+щее большинство значений слов выше (отличающихся, кстати 
+сказать, заметным семант. разнообразием, ср. 'закол на воде', 
+'канавка','утес','стог', 'крыша над гумном','расселина в скале') 
+вполне отвечает производящей основе *borti и ее значениям (см.). 
+См. еще *zabordlo.</note>
+</Entry>

@@ -1,0 +1,26 @@
+<Entry xml:id="abredbje">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>abredbje</orth>
+    <lemma>abredbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>ыбрЪди</ref>\ъ собир.</orth>
+      </form>
+      <sense>
+        <def>саранча , абр$дше акриды, dxpiSec, locusta»e</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мстисл. ев. 1117 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ев. Акад. X I V в.; Срезнев­ ский, I, 3; III, 1633)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъ)е (и собир. значением) от<ref type="etymon" target="abredb-2">*abredb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

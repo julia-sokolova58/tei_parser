@@ -1,0 +1,49 @@
+<Entry xml:id="dojcerodp-ete">
+  <pb n="55" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dojьčę, род. п. -ęte</orth>
+    <lemma>dojьčę, род. п. -ęte</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -§te</orth>
+    <lemma>род. п. -§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>ddjue</ref>, до]че, род. п. -ета, ср. р.</orth>
+      </form>
+      <sense>
+        <def>грудной младенец, сосунок , сюда же До]чета м. р., личное имя собств</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 467)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dojee</ref>, род. п. -ete, ср. р.</orth>
+      </form>
+      <sense>
+        <def>молочный теленок (который еще сосет мать или отпаивается одним молоком)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dojca</ref>, род. п. -aVa, ср. р.</orth>
+      </form>
+      <sense>
+        <def>грудной младенец, сосунок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 287)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -et- от<ref type="etymon" target="dnjbcb">*dnjbcb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

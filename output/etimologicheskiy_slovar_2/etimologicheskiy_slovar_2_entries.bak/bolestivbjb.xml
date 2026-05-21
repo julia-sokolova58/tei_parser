@@ -1,0 +1,56 @@
+<Entry xml:id="bolestivbjb">
+  <pb n="186" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bol'estivb(jb)</orth>
+    <lemma>bol'estivb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>болестив</ref>, бдлестив, -а, -о</orth>
+      </form>
+      <sense>
+        <def>болезненный, нездоровый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bolestivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный, скорбный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bolestivy</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болезненный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 116)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>bolosciwy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болезненный, болевой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 39)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -iv- от<ref type="etymon" target="boVestb">*boVestb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Возможно параллельное позднее образование.</note>
+</Entry>

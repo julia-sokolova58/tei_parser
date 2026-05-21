@@ -1,0 +1,68 @@
+<Entry xml:id="edovatj">
+  <pb n="42" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ĕdovatъ(jь)</orth>
+    <lemma>ĕdovatъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedovat</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA IV, 559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jedouaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>ядовитый, ср. сюда же производное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>jeduvatina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>змеиный яд , елвц. jedouaty, прилаг. ядовитый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Hosek. Ceskomorav. II, 147)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 648)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jedowaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ядо­ витый, проклятый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 541)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>едоватый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бедовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 8, 322)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Прилаг., производное с суфф. -ovatb от<xr type="compare">см. <ref type="etymon" target="cy">*čйъ</ref>
+    </xr>....</note>
+</Entry>

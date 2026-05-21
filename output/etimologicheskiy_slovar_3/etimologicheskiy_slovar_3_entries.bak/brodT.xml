@@ -1,0 +1,234 @@
+<Entry xml:id="brodT">
+  <pb n="36" end_page="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brodT</orth>
+    <lemma>brodT</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu">цслав. <ref>Б</ref>^ОД* М. р. пооо±, vadum</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 4 5 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод (на реке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брот</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мелкое место, брод, переход через реку</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 2 4 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>брод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брод</ref>, род. п. брода, м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>черногорск</ref>.)</orth>
+      </form>
+      <sense>
+        <def>место в озере, где ловится рыба, корабль, судно</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>брод</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод, пристань, •brodbnica гавань, перевоз, паром (на реке)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>brod</ref> м. р .</orth>
+      </form>
+      <sense>
+        <def>мелкое место для перехода, брод (на реке), место, где купают или поят скот</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 134)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brod</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brod</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брод, мелкое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka Si. I, 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brod</ref>, род. п. brodu, м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 669)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>broud</ref> м. р. то же , др. -русск. бродъ Sidpacic, izopoQ, vadum</orth>
+      </form>
+      <sense>
+        <def>брод, путь, проход , сюда же Броды, местн. н</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Поуч. Влад. Мон., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>мелкое место реки, озера, пруда, через которое можно переходить или переезжать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>брод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшой невод, бредник , след на траве и хлебных посевах, граница между двумя участками поля — скошенная у з к а я полоса , переход по настилу через мокрое, топкое место (калуж.), пере­ кат, порог на реке (твер.), мелководная речка, ручеек, образую­ щийся из родников (ворон.), рыболовный снаряд —бредень (волог., арх., беломор., вят.) , след на траве или хлебных посевах (свердл.), протоптанная или прокошенная межа для раздела двух соседних участков покоса (пенз., ниже- гор., влад., яросл., калуж., твер., свердл.), тропа (пенз., иван., олон.) , брод м. собир. бродяги</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего У р а л а 56)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 184)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 3, 184)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(сиб., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бродъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 142—143)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брХд</ref>, род. п. броду, м. р.</orth>
+      </form>
+      <sense>
+        <def>брод, ручей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брод</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное от гл.<ref type="etymon" target="bresti">*bresti</ref>, 
+<ref type="etymon" target="bredq">*bredq</ref> 
+(см.), типичное 
+именное 
+образование с -о-вокализмом от глагольной основы с вокализ­
+мом -е-, см.</gram>
+  </gramGrp>
+  <note>Meillet. Etudes II, 216. Полное, вплоть до вокализма, соответствие слав. * Ь п ^ ъ представлено в лит. brddas 'брод', ср. также гидроним лит. Brad-es-a, приток реки Швентои. См. К. Буга Р Ф В L X V I I , 1912, 232; Berneker I, 87; Bruckner 40; Фасмер I, 216; Fraenkel I, 58. Ср., впрочем, еще иллир. Bradanus, на юге Италии, относимое сюда же, с иллир. а &lt; и . - е . о (Н. Krahe «Езиков. изследв. в чест Младенов» 470), что дает основание говорить об и.-е. истоках данного имени с -о- вокализмом. В дру­ гих и.-е. именных формах того же корня фигурирует ступень редукции, иначе говоря—разные рефлексы и.-е. *bhrdh-: греч. rcopft-jxocM. р. 'перевоз', фрак. Burd-apa, Burtudizos, Boopxo6-8ečov. См. Otr^bski. Studia indoeuropeistyczne 161; Detschew. Die thrak. Sprachreste 81; J. Puhvel «Language» 33, 1957, 442; В. И. Геор­ гиев.^ Исследования 119 J brodbnica: сербохорв. brodnica ж. p. 'nautea, вонючая вода в трюме корабля' (только в словаре Ямбрешича, R J A I, 670), словен. brodnica ж. р. 'птица, бродящая по воде' (Plet. I, 65), чеш. brod- шее ж. р. 'место брода' (Kott. I, 1 0 0 ) , словин. br fodnica ж. р. болото, топь, трясина' (Sychta I, 69), русск. брбдница ж. р жидкая, топкая грязь, слякоть, по которой идут в уброд' (Даль I, 316),— Семантически обособленно болг. броднйца ж. р. ЬгосЬшкъ 'колдунья' (Геров I, 71—72), диал. броднйца ж. р. 'русалка, ко­ торая бродит повсюду' (Божкова Б Д I, 243). Производное с суфф. -ica от прилаг.<xr type="compare">см. <ref type="etymon" target="gos1p">*Ьгос1ъпъ</ref>
+    </xr> или с суфф. 
+-ътса 
+от <xr type="compare">см. <ref type="etymon" target="gos1">*Ьгос1ъ</ref>
+    </xr>. <xr type="compare">Ср. <ref type="etymon" target="gos1tk">*Ьгос1ъткъ</ref>
+    </xr> (см.).</note>
+</Entry>

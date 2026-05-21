@@ -1,0 +1,115 @@
+<Entry xml:id="gronnI">
+  <pb n="137" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gronn&gt; I</orth>
+    <lemma>gronn&gt; I</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^омъ м. p. Ppovxr), tonitrus</orth>
+      </form>
+      <sense>
+        <def>гром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Euch., Supr., Вост., Mikl., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>гром</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гром , гром, грум м. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР; с. Богутево, Смолянско, дип. раб., Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД И, 147, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гром</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гром</ref>, гром м. р.</orth>
+      </form>
+      <sense>
+        <def>гром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 669—670)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrom</ref> м. р. то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hrom</ref> м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 529)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hrom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гром</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 221)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grom</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гром , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1304: книжн.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>grum</ref> м. p. (Gornowicz.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Dialekt malborski И, 1, 120), сло- вин. grdum м. р. 'гром' (Lorentz Slovinz. Wb. I, 302), др.-русск., русск.-цслав. громъ ppovxif), tonitru (Ио. XII. 29. Остр, ев.; Новг. I л. под 1117 г., Срезневский I, 597), 'гроза' (Сл. плк. Игор., Срезневский III, 80'), русск. гром м. р. 'оглушительный треск, грохот, гул, сопровождающий молнию', 'грохот', ум. громок, род. п. -мка, м. р. 'бубенчик, надеваемый на шею домашним животным' (волог., Филин 7, 151), укр. грХм, род. п. грому, м. р. 'гром' (Гринченко I, 327), блр. гром м. р. 'гром'.</note>
+  <gramGrp>
+    <gram>В конечном счете звукоподражание, возводимое к и.-е.<ref type="etymon" target="ghrom-">*ghrom-</ref>
+вместе с лит. grameti 
+'падать с грохотом', 
+греч.</gram>
+  </gramGrp>
+  <note>ХРФ* 0^ ХР^ а71 'скрежет', 'ржание', др.-в.-нем. gram 'злой'. См. Miklosich 77; F. A. Wood IF XXII, 1907, 163; A. Meillet MSL 14, 1907, 366 (сближает с греч. [Зрёрдо); Вегпвкег I, 354; Преобр. I, 160; М. Ко- ген ИОРЯС XXIII, 1918, 22—23; Фасмер I, 460; Fraenkel I, 163; Frisk И, 1116—1117; Kluge 2 0 267.</note>
+</Entry>

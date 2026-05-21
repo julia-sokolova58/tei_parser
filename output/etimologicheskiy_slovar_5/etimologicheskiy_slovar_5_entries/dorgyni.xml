@@ -1,0 +1,75 @@
+<Entry xml:id="dorgyni">
+  <pb n="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dorgyni</orth>
+    <lemma>dorgyni</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>чак</ref>.) dragina ж. р.</orth>
+      </form>
+      <sense>
+        <def>дороговизна, стоимость, ценность, любовь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 747)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>draglnja</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дороговизна , dragina то же , dragina</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Црес, Раб, Нови, Хрелин, Подвежица, Жумберак, см. Tentor. Leksicka slaganja 73)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Cres)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Skok)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. стар, <ref>draginja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>дороговизна</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kastelec; Plet. I, 166)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Дарагинъ</ref>, Дорогинь, местн. название . — Ср. производные</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(бывш. Смоленская губ., см. «Russisches geographisches Namenbucha II, 654)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>драгйнко</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>деверь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дювернуа, Геров)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Drahynici, местн. название (XIII—XIV вв., Gebauer I, 323).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-yni</ref>
+      </m> от прилаг. <ref type="etymon" target="dorgb-8">*dorgb</ref> (см.).</gram>
+  </gramGrp>
+  <note>Судя по соот­ ветствиям в зап.-слав. и вост.-слав. топонимии, слово было рас­ пространено гораздо шире, чем полагал Славский, видевший здесь лишь чакавско-словенскую изоглоссу. См. F. Stawski «Sprawozda- niazprac naukow^chwydziahi nauk spotecznych» V, 5(27), 1963, 50.</note>
+</Entry>

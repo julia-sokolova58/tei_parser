@@ -1,0 +1,149 @@
+<Entry xml:id="ekatiecati">
+  <pb n="69" end_page="70" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ękati/*ęcati</orth>
+    <lemma>ękati/*ęcati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>§cati</orth>
+    <lemma>§cati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>ёцам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>есть, раскачиваться, болтаться , ёцъж приставать с вопросами , йёцам заикаться (Трънско. — Архив Болг. диал. словаря, София), сер­ бохорв. jekati отдаваться, раздаваться , jenamu стонать , jenamu ругать, подгонять в работе* , ]ёцати рыдать, всхлипывать, заикаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. БД V, 169)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Н. П. Ковачев. Севлиевско. — БД V, 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 571)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 715)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 753; RJA IV, 504)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>ёкат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, сваливать (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>падать, ударяться с грохотом, шумом , jokati плакать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 364)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372—373)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>okati</ref> то же , jecati</orth>
+      </form>
+      <sense>
+        <def>заикаться, лепетать , jdcati стенать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бодуэн. Материалы I, 409)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 361)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 372)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jekati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пронзительно кричать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 617)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jekau</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>лепетать, говорить отрывисто, задыхаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 542)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jqkac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>заикаться , также jekac</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. И, 177)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>jikac</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jqkac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>вздыхать, стонать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 390)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Праслав.<ref type="etymon" target="ekati">*ekati</ref> (и его вар. <ref type="etymon" target="ecati">*ecati</ref> с прогрессивной палатализа­
+цией) продолжает звукоподражат. комплекс <ref type="etymon" target="eps-">*еп/с-</ref>, ср. алб. 
+ankoj 
+вздыхать, жаловаться', ср.-ниж.-нем., нем., нидерл. janken 'выть,
+скулить', лат. ипсаге 'реветь'.</gram>
+  </gramGrp>
+  <note>См. G. Meyer ВВ XIV, 1889, 52; С С Uhlenbeck AfslPh XV, 1893, 487 (с излишним допущением заим-ния из герм, в слав.); Berneker I, 267—268; Фасмер IV, 570—571.<xr type="compare">Ср. еще <ref type="etymon" target="egati">*egati</ref>
+    </xr> (см.). (см.). (см.). (см.).</note>
+</Entry>

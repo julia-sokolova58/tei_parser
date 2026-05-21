@@ -1,0 +1,147 @@
+<Entry xml:id="boltbnbjb">
+  <pb n="182" end_page="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>boltbnb(jb)</orth>
+    <lemma>boltbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блатен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Геров: блатный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>блатан</ref>, -тна, -тно</orth>
+      </form>
+      <sense>
+        <def>грязны^ топкий, болотистый, lu- tosus, блаттьй</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 634)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bl</ref>&amp;ten, -tna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>гряз­ ный, илистый , сюда же сущ. blatna ж. р. болотная почва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>blatny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грязный, стар, blatny рабочий по очистке улиц</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1580 г., Brand! 9)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>blotny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гряз­ ный, luteus</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>blotny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотистый (шпреевальд- ский)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka S?. I, 43)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>blotny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грязный, болотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 575)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>blugtrii</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>болотный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>относящийся к болоту</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>болотный</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный, болотистый, грязный, мутный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 120)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>болотный</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>болотный, болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>балбтны</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. сло­ варь 116)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от основы<ref type="etymon" target="bolto">*bolto</ref> (см.).</gram>
+  </gramGrp>
+  <note>О древ­ ности образования свидетельствует венг. Balaton, название озера, др.-венг. Balatin, заимствованное из слав, формы *ЬШъпъ, ср. выше ю.-слав. (и зап.-слав.) примеры.</note>
+</Entry>

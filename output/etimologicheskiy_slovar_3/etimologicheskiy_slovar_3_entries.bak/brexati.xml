@@ -1,0 +1,195 @@
+<Entry xml:id="brexati">
+  <pb n="13" end_page="14" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brexati</orth>
+    <lemma>brexati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербск.-цслав. <ref>вре</ref>^л^и latrare</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Miklosich L P 44)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брё</ref>- хам</orth>
+      </form>
+      <sense>
+        <def>стонать, сильно чихать (Георгиев)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брёам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно кашлять , кашлять , брёха *bresti приходить в голову</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова Б Д I, 243)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов Б Д III, 42; с. Раковица, Кулско, дип. раб. Архив Софийск. ун-та)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(безличн. гл., Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brehati</ref>, bresem</orth>
+      </form>
+      <sense>
+        <def>кашлять , брёхати сильно кашлять, тяжело и учащенно дышать , бре)ати пыхтеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(R JA I, 623: «хорв.»)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА И, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(PGA И, 144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brehati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сильно кашлять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>brahdtd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>натужно кашлять , brajatd тоже</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sasel, Ramovs 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Roz.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bresat</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>быстро говорить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап.-мор., Bartos Slov. 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>brechaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять (о собаке и лисице)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>brzechac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять; болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 689)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>брехати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять, latrare</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Андр. Юр. 150, Срезневский I, 178)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>брехать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять, лгать, болтать вздор, браниться</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>бре</ref>­ хать</orth>
+      </form>
+      <sense>
+        <def>л а я т ь , клеветать, лгать , брехать чихать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>брехати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять (о собаках, лисицах и т. п.), врать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>брехати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лгать, врать, лаять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брахаць</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>л а я т ь , лгать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 33: брехаць)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Бесспорно праслав. гл. звукоподражат. происхождения, осно­ ванный на междометии. Ср. Bruckner 39. Поэтому затруднительно словообразовательно-морфол. членение и поиски и.-е. родства, предпринятые рядом авторов. См. Berneker I, 83—84 (слав. x&lt;^ks\ сближается, далее, с лтш. brecu, brekt 'кричать', др.-в.- нем. praht, ср.-в.-нем. braht 'шум', англ. bark 'лаять'); А. И. Со­ болевский И О Р Я С X X V I I , 1924, 324 (-х- считает суффиксальным); Фасмер I, 213; Sadnik—Aitzetmuller. Vgl. W b . 3, 186.</note>
+</Entry>

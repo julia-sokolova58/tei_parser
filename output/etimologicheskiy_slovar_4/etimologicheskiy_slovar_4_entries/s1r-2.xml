@@ -1,0 +1,83 @@
+<Entry xml:id="s1r-2">
+  <pb n="144" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сь1ръ</orth>
+    <lemma>сь1ръ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>clup</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>холм, бугор</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>сир</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>(крупный) холм , сир м. р. холм, высота с плоской вершиной .—Сюда же суф­ фиксальные производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina. Mistf. 18)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>clupeky</ref> род. п. -ркиу м. р.</orth>
+      </form>
+      <sense>
+        <def>холм, высота, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>clupek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ямка под окном с посудой для сточной воды , clupek подъем, дорога в гору</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(зап.-мор., Bartos. Slov. 50)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>челпану</ref> чал- пан м. р.</orth>
+      </form>
+      <sense>
+        <def>горб, холм, могила, округлый курган, горка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., волог., перм., Даль 3 IV, 1302)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Неясное образование. Фасмер (IV, 329) толкует русск. слово (без привлечения чеш.) как -р- расширение основы, представлен­ ной в<xr type="compare">см. <ref type="etymon" target="celo">*celo</ref>
+    </xr>, 
+лит. 
+кёШ 
+'поднимать'. 
+Махек привлекает 
+для объяснения чеш. clup и русск. челпан также укр. щовб 'кру­
+тая верхушка горы, утёс', которые он объединяет под общей 
+реконструкцией праслав. <xr type="compare">ср <ref type="etymon" target="yos1ru">*ёсь1ръу</ref>
+    </xr>авнивая, далее, с герм, лек­
+сикой, в частности 
+с англ. 
+shelf 
+'отмель'. См. Machek
+2 105.</note>
+</Entry>

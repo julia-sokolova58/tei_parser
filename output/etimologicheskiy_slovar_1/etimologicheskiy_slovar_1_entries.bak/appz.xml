@@ -1,0 +1,30 @@
+<Entry xml:id="appz">
+  <pb n="152" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьапьпъ(зь)</orth>
+    <lemma>Ьапьпъ(зь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>банен</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>банный, купальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>BANANZ прилаг. ftaXavetou, Хоотроб, balnei 'банный' (Mikl.), др.-русск. банъныи, бальный 'банный, balnei' ( X I I — X I I I вв., Срезневский I, 40), русск. банный прилаг., ст.-укр. банный прилаг. ' с куполообразной крышей ( ? ) ' (Тимченко I, 55), укр. банний 'банный' (Укр.-рос. словн. I, 33).</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ьп- от<ref type="etymon" target="ap-2">*Ъап</ref>'а (см.).</gram>
+  </gramGrp>
+  <note>Ср. иное производное с той же функцией в<xr type="compare">см. <ref type="etymon" target="banbskbjb">*banbskbjb</ref>
+    </xr>. Форма др.-русск. 
+бальный вторична (диссимиляция) и не может непосредственно 
+сравниваться с лат. balneum, 
+balnei.</note>
+</Entry>

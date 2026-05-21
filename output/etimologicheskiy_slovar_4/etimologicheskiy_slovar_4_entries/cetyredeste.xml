@@ -1,0 +1,175 @@
+<Entry xml:id="cetyredeste">
+  <pb n="98" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetyre des§te</orth>
+    <lemma>cetyre des§te</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>чбты</ref>^и дегдти, числ.</orth>
+      </form>
+      <sense>
+        <def>сорок (Пс, Sad.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>четйридесет</ref>, числ.</orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РВЕ III, 618)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>четйрес</ref>(е) то же , читирййси , чётрйдесте</orth>
+      </form>
+      <sense>
+        <def>праздник 22 февраля</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.—БД VI, 239; Младенов БД III, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрд- жинско. — БД VI, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стой- чев БД II, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>четириесет</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок (И-G)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>четрдесёт</ref>, четрдёсёт</orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>четирйдес</ref>, четирйдест (черногорск.)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>stirideset</ref>, stlrideset</orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. II, 645)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>etyficet</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>styridsaf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ IV, 468)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>styrizasca</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. И, 560)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>citerdiegt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ро- lanski—Sehnert 46, с реконструкцией *cetyre desefo)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czterdzieeci</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1157)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>sterfiescd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок , рр.-русск</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo- rentz Slovinz. Wb. II, 1187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>четыреде</ref>- cAme, четыридесАпш</orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский III, 1513)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чотирдёсятъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сорок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 473)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сочетание числ.<ref type="etymon" target="cetyre">*cetyre</ref> 
+(см.) и им. п. мн. ч. от <ref type="etymon" target="desetb">*desetb</ref> (см.).</gram>
+  </gramGrp>
+  <note>И.-е. модель, ср. лит. keturias-desimt 'сорок'.</note>
+</Entry>

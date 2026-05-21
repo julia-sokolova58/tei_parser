@@ -1,0 +1,92 @@
+<Entry xml:id="bucina">
+  <pb n="75" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bucina</orth>
+    <lemma>bucina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бучина</ref> ж. р. увелич.</orth>
+      </form>
+      <sense>
+        <def>буковый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCА II, 330)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bucina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в кач-ве мести, па- звания, Gebauer I, 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bucina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес, дпал. bucina ж. р. (взрослый) буковый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Malina Mistf. 13)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bucina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес, буковые ветви с листьями; буковая древесина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 139)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>bucina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lo­ rentz Slovinz. Wb. 1, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бучина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буковое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бучина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буковый орех</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(бойк., Карпатский диалектологический атлас, карта № 45)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="ik">*Ьикъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

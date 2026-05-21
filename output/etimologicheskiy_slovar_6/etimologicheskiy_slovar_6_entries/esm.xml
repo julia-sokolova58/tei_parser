@@ -1,0 +1,106 @@
+<Entry xml:id="esm">
+  <pb n="31" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*esmь</orth>
+    <lemma>esmь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>съм</ref> то же (Дювернуа), также</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>сам</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Хр. П. Стоилов. Горно-Джумайски говор. — СбНУ X X , 1904, 18; М. Младенов БД III, 159)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>сум</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я есмь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. ]<ref>есам</ref>, сам</orth>
+      </form>
+      <sense>
+        <def>я есмь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>sem</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я есмь</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jsem</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>som</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 150, ё. v. byf)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>sym</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>я есмь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 701)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>som</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>jeem</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SI. stpol. Ill, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>есмь</ref>, есми sum, elju . 1 л. ед. ч. атематич. основы наст, времени и наиболее типич­ ный представитель всей соответствующей парадигмы: праслав. *esmb, *esi, *estb, *esmb, *este, *sgtb. Наряду с 3 л. ед. ч. *estb и 2 л. мн. ч. *este наиболее непосредственно продолжает и.-е. формы *esmi, *esti, *este (личные формы глаг. основы</orth>
+      </form>
+      <sense>
+        <def>быть)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезнев­ ский I, 833)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *esmi родственно лит. стар, esmi, др.-инд. dsmi, авест. ahmi, греч. elpi (лесб. i[Aju), лат. sum, тохар. A sem, В seym, хетт. esmi. См. Berneker I, 265—266; G. Bonfante «Word» 1, 1945, 138—139; G. S. Lane «Language» 30, 1954, ИЗ; Фас­ мер II, 28; Vaillant. Gramm. comparee III, 441, 451; Pokorny I, 340—341.</note>
+</Entry>

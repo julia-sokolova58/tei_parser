@@ -1,0 +1,135 @@
+<Entry xml:id="grqziti">
+  <pb n="149" end_page="150" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grqziti</orth>
+    <lemma>grqziti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грузити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>макать, погружать, окунать , также гружити</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 703)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>gruzlt</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Cres)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gro</ref>- ziti</orth>
+      </form>
+      <sense>
+        <def>нырять, окунать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hrouziti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погружать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hruzWsa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погружаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 533)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>hruzif</ref> sa то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Kalal 188)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>grqzyc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>погружать, окунать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grqzec</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 302)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>грХзити</ref>, гр^жН</orth>
+      </form>
+      <sense>
+        <def>погружать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 600)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грузить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>наполнять что-либо грузом, укр, грузити ис­ таптывать, месить ногами размягченную дождем землю</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 332—333)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грузщь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грузить</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m> (каузатив), связанный чередованивхМ гласных с <ref type="etymon" target="grez-">*grez-</ref>
+nqti (см.); впрочем, для отдельных случаев вероятна производность от 
+<ref type="etymon" target="grgzb">*grgzb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Сравнивают с лит. gramzdyti 'погружать' (оговорки •grqzb см. на *gr$znqti). См. Berneker I, 357; Ф. Славский «Езиковед- ски изследвания в чест. на акад. Ст. Младенов» 270; Z. Gofc\b. The grammar of Slavic caus. 10.</note>
+</Entry>

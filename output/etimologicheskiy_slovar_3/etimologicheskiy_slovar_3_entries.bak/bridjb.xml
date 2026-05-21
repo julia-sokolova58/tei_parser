@@ -1,0 +1,46 @@
+<Entry xml:id="bridjb">
+  <pb n="26" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridjb</orth>
+    <lemma>bridjb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bridja</orth>
+    <lemma>bridja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brlja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>горечь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 61)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брыж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>острый край чего, острый угол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Добровольский 41)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ср. выше<ref type="etymon" target="bred">*bred</ref>^/<ref type="etymon" target="brefo">*brefo</ref> 
+(приводимые под этим заглавным 
+словом 
+блр. формы близки по знач. блр. бриж, 
+русск. диал. 
+брыж, 
+названному выше).
+блр. бриж м. р. острый край чего-либо: бриж стола, острый угол, грань , Производное с суфф. -/- от основы <ref type="etymon" target="brid--3">*brid-</ref> (см. <ref type="etymon" target="g-3">*Ьг</ref>^ъ/съ).</gram>
+  </gramGrp>
+</Entry>

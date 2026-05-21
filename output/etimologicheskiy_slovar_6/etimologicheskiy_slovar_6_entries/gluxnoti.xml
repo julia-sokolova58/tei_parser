@@ -1,0 +1,122 @@
+<Entry xml:id="gluxnoti">
+  <pb n="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gluxnǫti</orth>
+    <lemma>gluxnǫti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>глухнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть, gluhnuti , глунути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVII в., RJA III, 208)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 370)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hluchnouti</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 695)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hluch</ref>- nuf</orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hluchnyc</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 205)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gluchnu</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>s глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 265)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gluchnqd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть, утихать, замолкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 851; Dorosz. II, 1181)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>glaynou</ref>^c</orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 269)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>глухнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глухнуцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>глохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 81)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m> с вторичным обобщением ступени 
+вокализма 
+<ref type="etymon" target="gluxb">*gluxb</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Более первонач. огласовка (ступень чередования) представлена в<xr type="compare">см. <ref type="etymon" target="glbxnoti">*glbxnoti</ref>
+    </xr>....</note>
+</Entry>

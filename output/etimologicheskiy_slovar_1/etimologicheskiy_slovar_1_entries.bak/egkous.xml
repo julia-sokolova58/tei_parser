@@ -1,0 +1,37 @@
+<Entry xml:id="egkous">
+  <pb n="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегкоуьсь</orth>
+    <lemma>Ьегкоуьсь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>Ьгёкоиес</ref>^уо^.. п. -vca, м. p.</orth>
+      </form>
+      <sense>
+        <def>берека Sorbus tor­ minalis; Sorbus aria</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. r"I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>brekowc</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>тутовое дерево</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 45)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное на<m type="suffix">
+        <ref>-ov-ъсъ</ref>
+      </m> от <ref type="etymon" target="berka">*berka</ref> или <ref type="etymon" target="egk-2">*Ъегкъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

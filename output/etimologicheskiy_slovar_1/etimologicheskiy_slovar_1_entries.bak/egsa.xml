@@ -1,0 +1,27 @@
+<Entry xml:id="egsa">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегьса</orth>
+    <lemma>Ьегьса</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ъегсе</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>тот, кто берет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с помощью суфф.<m type="suffix">
+        <ref>-ьса</ref>
+      </m> от презентной 
+основы ber- глагола <ref type="etymon" target="bbrati-2">*bbrati</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. еще след.</note>
+</Entry>

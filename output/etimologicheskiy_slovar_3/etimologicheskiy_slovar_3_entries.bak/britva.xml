@@ -1,0 +1,156 @@
+<Entry xml:id="britva">
+  <pb n="32" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>britva</orth>
+    <lemma>britva</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>бритва</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>карманный ножик (Георгиев), сербо­ хорв. бритва ж. р. карманный нож, culter plicatilis, бритва , бритва складной ножик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; РСА II, 1 7 7 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ел. 1)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brltua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва, складной нож , далее — brltev, род. п. -tve, ж. р. бритва, линька , brltvo ср. р. бри­ тва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 6 2 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bfitva</ref> ж. р. (Ст.-чеш., Прага)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bfitva</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>britva</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 1 3 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>britef</ref>, род. п. britvi, ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Buffa. Dlha Luka 1 3 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>britej</ref>, род. п. -twje, ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 4 7 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>britwa</ref>, britwej, род. п. -we, ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 7 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. <ref>britej</ref>, род. п. -we, ж. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Вольфенбюттельская псалт., Muka St. I, 7 8 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brzytwa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва , редк. brzytew то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 6 9 8 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 2 2 3 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бритва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>острый стальной инструмент для бритья, обычно в виде складного ножа, ст. -укр. бритва, брытва ж. р. бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко 1, 1 4 1 , 1 4 6 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бри</ref>­ тва ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 1 0 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>брытва</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бритва</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное архаич. типа с суфф.<m type="suffix">
+        <ref>-tua</ref>
+      </m> 
+от гл. 
+<ref type="etymon" target="briti-4">*briti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>См. Meillet. Etudes II, 3 0 5 ; С. Б. Бернштейн «Зборник за филоло­ ги jy и лингвистику» XII, 1 9 6 9 , 1 6 .</note>
+</Entry>

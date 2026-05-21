@@ -1,0 +1,26 @@
+<Entry xml:id="brestbje">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brestbje</orth>
+    <lemma>brestbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bristle</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>брод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 104)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Суффиксальное производное среднего рода от именной основы ж. р. на -i-, кот. дала также инф.<ref type="etymon" target="bresti">*bresti</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Можно отметить словообразовательно-этимол. параллелизм между слав. *brestbje и тохар. В preeciye 'тина, грязь'.</note>
+</Entry>

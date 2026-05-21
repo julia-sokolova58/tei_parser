@@ -1,0 +1,37 @@
+<Entry xml:id="aspa">
+  <pb n="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а]ьсьпа</orth>
+    <lemma>а]ьсьпа</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>яёшня</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>яичница</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>яёчня</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичница</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Первоначально адъективное производное с суфф.<m type="suffix">
+        <ref>-ъпа</ref>
+      </m> 
+ж. 
+р. 
+от <ref type="etymon" target="ajbce">*ajbce</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

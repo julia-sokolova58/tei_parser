@@ -1,0 +1,145 @@
+<Entry xml:id="cetvbrtbkb">
+  <pb n="96" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cetvbrtbkb</orth>
+    <lemma>cetvbrtbkb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>четБ</ref>^Атъкл М. p. irevxdg, i</orth>
+      </form>
+      <sense>
+        <def>eria quinta, dies jovis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cynp., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>четвъртък</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ III, 618)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>четвъртък</ref> м. р. то же , четврътак м. р. , четврток м. р.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюр- джинско. — БД VI, 103)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов. Ихти- манския говор. — БД III, 190)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Л. Гълъбов. Го­ вори на с. Доброславци, Софийско. — БД II, 111)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чет</ref>- врток м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>четвртак</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с Х111 в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>cetuartak</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Sus. 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cetftek</ref>, род. п. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>ctvrtek</ref>, род. п. -tki, м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>stwortk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. II, 559)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czwartek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Do­ rosz. I, 1173)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>четвъртъкъ</ref>, четврьтъкъ, четвертокъ</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и мн. др., Срезневский III, 1510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>четверток</ref>, род. п. -тка, м. р., устар.</orth>
+      </form>
+      <sense>
+        <def>четверг</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от <ref type="etymon" target="sein">*сеЬиъНъ</ref> (см.), субстантивация по­
+следнего.</gram>
+  </gramGrp>
+  <note>
+    <xr type="compare">Ср. <ref type="etymon" target="senka">*се№ъНъка</ref>
+    </xr> и <xr type="compare">см. <ref type="etymon" target="ceturg">*cetuьrgъ</ref>
+    </xr>.</note>
+</Entry>

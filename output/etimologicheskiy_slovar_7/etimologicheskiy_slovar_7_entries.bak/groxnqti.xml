@@ -1,0 +1,129 @@
+<Entry xml:id="groxnqti">
+  <pb n="134" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>groxnqti</orth>
+    <lemma>groxnqti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>грбхна</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>упасть, грохнуться, свалиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР; Ге- ров: грухнж 'хрюкнуть')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>грухнъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ударить, делать тяже­ лую работу , грунем ударить, свалиться , грухнам одряхлеть, состариться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. И. Петков. Еленски речник. — Б Д VII, 28)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Стойчев. Родопски речник. Б Д V, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>гровне</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохнуться, одряхлеть, ослабеть, сдать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>грохнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>одряхлеть, свалиться, грохнуться , также гронути</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 686)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 681)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hroch</ref>- ndti</orth>
+      </form>
+      <sense>
+        <def>упасть, свалиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Simek 52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruchnqc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохну­ ться, упасть с грохотом, раздаться, загреметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 919)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грбхнутъ</ref>(ся)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грохнуть</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>сказать что-либо необду­ манное, несуразное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., перм., том., Филин 7, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. редк. <ref>грохнути</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грохнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 365)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-nqti</ref>
+      </m> (инхоатив), соотносительный с <ref type="etymon" target="groxati">*groxati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Любо­ пытно значение 'одряхлеть, состариться', 'ослабеть, сдать' (болг., макед., сербохорв.), развившееся из 'ударить(ся), упасть, сва­ литься', см. выше. Ср. аналогичное<xr type="compare">см. <ref type="etymon" target="caknqti">*caknqti</ref>
+    </xr>, откуда русск. 
+чахнуть, 
+с развитием близкого знач.</note>
+</Entry>

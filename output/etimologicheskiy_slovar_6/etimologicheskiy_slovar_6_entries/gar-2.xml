@@ -1,0 +1,72 @@
+<Entry xml:id="gar-2">
+  <pb n="102" end_page="103" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garь</orth>
+    <lemma>garь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гар</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>сажа, пепел, окалина, сюда же местн. название Gari мн. ж. p. , др.-луж. gar (gar) выж­ женное место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 104)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Э. Эйхлер. К вопросу реконструкции др.-луж. словарного состава. — Исследования по серболуж. языкам. М., 1970, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>гарь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>место выжженное в лесу</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дух. Вл. Андр. 1410 г.; Прав. гр. Кирил. мон. ок. 1490 г., Срезневский I, 510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гарь</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>что-либо горелое, выгоревшее или выж­ женное место в лесу</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>гарь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>выжженное пожаром лесное пространство , пожар , лес­ ной пожар (твер., олон.), выжженное место в лесу, предназна­ ченное для посева, но еще не очищенное и не вспаханное (волог., пек., заурал., перм., енис, вост.-сиб.), лес на выгоревшем месте (арх., том., перм.), заболоченное место, поросшее небольшим ле­ сом (яросл.), место в лесу, расчищенное для сенокоса (пек., ср.-урал., перм.), выжженное, выгоревшее место в поле (южн.- сиб., иссык-кульск.), лес (петерб., сев.-двинск.), дальнее сено­ косное угодье (волог.), поле (перм.), сено с высоких мест, полей (перм.), туман от зноя, дым, стоящий в воздухе летом (костр., пек.) , сюда же гаря ж. р. выгорев­ шее место в лесу; гарь (пек.) , местн. название Гарь, Гари</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 148—149)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 150)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(неоднократно, см. Russisches geographisches Na- menbuch II, 323; Worterbuch der russischen Gewassernamen I, 423, 424)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>A.</note>
+  <gramGrp>
+    <gram>Meillet MSL 14, 1907, 380. блр. диал. глры ж. р. выгоревшее место на торфя­ ном болоте . gasidlo Имя с продленным корневым гласным, производное от гл.<ref type="etymon" target="go--2">*go-</ref> reti (см.) или соотносительное с итеративом <ref type="etymon" target="garati">*garati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См.</note>
+</Entry>

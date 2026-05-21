@@ -1,0 +1,37 @@
+<Entry xml:id="dumenj">
+  <pb n="151" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dumenъjь</orth>
+    <lemma>dumenъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>духмёный</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>душистый, пахучий, ароматный , духмяный, -ая, -ое то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(тул., Филин 8, 278)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., новг., смол., твер., тул., Эст. ССР, там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>духмяны</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>душистый, ароматный, благоуханный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-тепъ</ref>
+      </m> от <ref type="etymon" target="s-3">*с</ref>!ихъ (см.).</gram>
+  </gramGrp>
+</Entry>

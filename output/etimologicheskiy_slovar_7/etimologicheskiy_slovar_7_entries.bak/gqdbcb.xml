@@ -1,0 +1,108 @@
+<Entry xml:id="gqdbcb">
+  <pb n="80" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqdbcb</orth>
+    <lemma>gqdbcb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gqdbca</orth>
+    <lemma>gqdbca</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>Г</ref>^ДАЦА М. p. xt&amp;apwSog, citharoedus</orth>
+      </form>
+      <sense>
+        <def>игрок на струнном инструменте, гусляр</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Арос, SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gudac</ref>, род. п. guca, м. р.</orth>
+      </form>
+      <sense>
+        <def>музыкант, тот, кто гудит, играет</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA III, 493; РСА III, 737)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>godec</ref>, род. п. -dca, м. р.</orth>
+      </form>
+      <sense>
+        <def>музыкант, игрок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 224)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>hudec</ref>, род. п. -dca, м. р.</orth>
+      </form>
+      <sense>
+        <def>скрипач , елвц. hudec, род. п. -dca, м. р. музыкант</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 110)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 536)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>g</ref>$dziec, род. п. gfdzca, м. р.</orth>
+      </form>
+      <sense>
+        <def>музыкант, певец , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">стар. <ref>g</ref>?dca м. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 817)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>гХдъцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>музыкант</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в. 303; Поуч. Георг. Заруб.; Ип. л. под 1201 г., Срезневский I, 608; III, 81')</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гудёц</ref>, род. п. -дца, м. р.</orth>
+      </form>
+      <sense>
+        <def>порицатель</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Филин 7, 201)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля, производное с суф.<m type="suffix">
+        <ref>-ъсь</ref>
+      </m> от гл. <ref type="etymon" target="godeti-2">*godeti</ref> j <ref type="etymon" target="gqditi-2">*gqditi</ref> 
+(см.) или <ref type="etymon" target="gosti">*gosti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

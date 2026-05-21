@@ -1,0 +1,81 @@
+<Entry xml:id="gltk">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*glъtъkъ</orth>
+    <lemma>glъtъkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>глътбкъ</ref>, глътъкъ м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гълт</ref>^к м. р.</orth>
+      </form>
+      <sense>
+        <def>глотка , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>гълтбк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>глотка , г^тбк м. р. глотка , глтбк м. р. глоток</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД II, 74)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Врачанско, СбНУ XIV, 3, 193, Архив Болг. диал. словаря, София)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>глоток</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>глотательное движение; однократное действие глотательных мышц, количество жидкой пищи для питья, которое можно проглотить разом; незначительное количество пищи, питья</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>глоток</ref>, род. п. -тка, м. р.: глотком сглотитъ</orth>
+      </form>
+      <sense>
+        <def>проглотить сразу, целиком</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 203)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>глытбк</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>глоток</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Форма м. р., связанная, как и<ref type="etymon" target="glbtbka">*glbtbka</ref> 
+(см.), с гл. 
+<ref type="etymon" target="gHtati-4">*gHtati</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

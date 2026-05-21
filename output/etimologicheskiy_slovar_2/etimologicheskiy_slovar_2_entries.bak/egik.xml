@@ -1,0 +1,24 @@
+<Entry xml:id="egik">
+  <pb n="48" end_page="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегикъ</orth>
+    <lemma>Ьегикъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>безук</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>хороший плотник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Мате­ риалы «Смоленского словаря» 134; Филин 2, 201)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-112">*bez</ref> (см.) и основы ик- (см. <ref type="etymon" target="uciti">*uciti</ref> и родственные).</gram>
+  </gramGrp>
+  <note>Наличие в народных говорах, при отсутствии соответствия в литер, языке, далее — такие особенности как непродуктивность bezumbje именного варианта основы ик- и развитие оригинального значе­ ния (при обычной для сложений на *bez- семант. модели 'отри- цание+знач. именной основы') делают возможной предполо­ жительную праслав. реконструкцию.</note>
+</Entry>

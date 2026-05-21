@@ -1,0 +1,28 @@
+<entries>
+  <entry xml:id="bredII" xml:id="bredII">
+    <pb n="13" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bredъ II</orth>
+      <lemma>bredb II</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>брёд</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>лоза , бред ива</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Добровольский 40)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(В. Кузнецов. Сомринский говор. — ЖСт. V I I I , 1898, 236)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Этимологически тождественно *Ьгес1ъ I (см.), ср. еще 
+(см.; там же литер.).</note>
+  </entry>
+</entries>

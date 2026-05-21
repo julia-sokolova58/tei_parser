@@ -1,0 +1,145 @@
+<Entry xml:id="dalb">
+  <pb n="186" end_page="187" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dalb</orth>
+    <lemma>dalb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ддш</ref> ж. p. longinquitas</orth>
+      </form>
+      <sense>
+        <def>даль, расстояние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр,, Mikl.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дал</ref>» ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль, также м. p. , дала ж, р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА IV, 33)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ddlja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль, расстоя­ ние , delja ж. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 120)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 130)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dal</ref> ж. p. , dale ж. p.</orth>
+      </form>
+      <sense>
+        <def>даль, расстояние (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(cztyrzy tijycze a padejat kroku od prahy na dali polozene. Silvius Kronika, 1487, f. 68a. Ст.-чеш,, Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dal</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль, также dale ж. р</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dial</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль, расстояние</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dal</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>даль, отдаление</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 153)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dal</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль , сло­ вин. ddlau ж. р. даль, расстояние , др.-русск, даль отдаление: дали в отдалении от, в расстоянии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, И)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 170)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Пов. вр. л. под 988 г., Срезневский I, 626)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>даль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>пространство, видимое глазом на значительном расстоянии, отдален­ ное, далеко расположенное место</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>даль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дальняя сторона, отдаленное место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(оренб., новг., перм., Филин 7, 270)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>даль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Желех., Гринченко I, 357)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>даль</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>даль</def>
+      </sense>
+    </item>
+  </etym>
+  <note>М а п ъ к ъ Праслав. -z- основа без и.-е. соответствий, что само по себе, возм., оправдывает поиски особой, местоим., этимологии, в связи с предполагаемым составом лит. toll 'далеко', tolus 'далекий', to- lis 'даль'. См. подробнее *йа1екъ{]ъ). Ср. еще V. Pisani «Paideia» XVIII, 1963, 240 (где мена t/d объясняется диал. смешением).</note>
+</Entry>

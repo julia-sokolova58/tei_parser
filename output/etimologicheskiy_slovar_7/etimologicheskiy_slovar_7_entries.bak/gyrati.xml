@@ -1,0 +1,55 @@
+<Entry xml:id="gyrati">
+  <pb n="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gyrati</orth>
+    <lemma>gyrati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>hyrati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кутить, распутничать, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hejrat</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 28)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гирати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>терять, тратить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>zipkub</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бросать, пихать , гиряць толкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Расторгуев, Северск.-блр. 142)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Полевой, Новозыбк. 29)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно *gurati, *gvorb (см. s. vv.), в конечном счете — из и.-е. *geu-r- &lt;^ *geu- 'гнуть.'</note>
+</Entry>

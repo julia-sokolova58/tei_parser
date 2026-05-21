@@ -1,0 +1,115 @@
+<Entry xml:id="dostatk">
+  <pb n="84" end_page="85" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dostatъkъ</orth>
+    <lemma>dostatъkъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dostatak</ref>, род. п. -tka, м. р.</orth>
+      </form>
+      <sense>
+        <def>достаточное количество</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 682)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dostatek</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>достаточное количество, изобилие, множество (Ст.-чеш., Прага)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dosta</ref>­ tek, род. п. -tku, м. р.</orth>
+      </form>
+      <sense>
+        <def>достаточное количество, достаток, редк. dustatek, елвц. dostatok, род. п. -tku, м. р. достаточное количество, достаток, изобилие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 309)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dostatk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>полу­ чение, приобретение</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 145)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dostatk</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>достаточ­ ное количество, запас</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 192)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>достаток</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>богатство, зажиточность, мате­ риальные средства, имущество, доходы</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>достаток</ref>, род. п. -тка, м. р.</orth>
+      </form>
+      <sense>
+        <def>достоинство (костр.), достижение (костр.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин , 147)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>достаток</ref>, род. п. -тку, м. р.</orth>
+      </form>
+      <sense>
+        <def>достаток, довольство, изобилие, средства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 431)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дастатак</ref>, род. п. -тку, м. р.</orth>
+      </form>
+      <sense>
+        <def>достаток, благосостояние, довольство.—Сюда же производные вроде</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>достатъчен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>достаточный и под</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РБЕ)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Раннее производное с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m> от гл. <ref type="etymon" target="dostati">*dostati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

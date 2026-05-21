@@ -1,0 +1,60 @@
+<Entry xml:id="6ykhga">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>6ыхГа</orth>
+    <lemma>6ыхГа</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сых1ь</orth>
+    <lemma>сых1ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>Crhla</ref> ж. р., название села</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA I, 823)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>crchVa</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>древесный сук , также местн. н</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>CeryVa</ref>, Cer%Ve, Cr%Ua .—Сюда же производный гл.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(HabovStiak. Orav. 55)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>czerchlid</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>корчевать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с -Z- суффиксальным от гл.<ref type="etymon" target="bgkhai">*бъгхаИ</ref> (см.). или, точнее, 
+от его более ранней стадии <ref type="etymon" target="cbrsti">*cbrsti</ref>.</gram>
+  </gramGrp>
+  <note>Ср. вариантное<xr type="compare">см. <ref type="etymon" target="Cbrslb">*Cbrslb</ref>
+    </xr>. 
+Ввиду наличия сербохорв. топонима (см. выше) неточно утвержде­
+ние Безлая о том, что соответствия подкарпатскому Чершля, 
+Черхля 
+отсутствуют на ю. -слав, территории (F. Bezlaj J(D XXIII, 1958, 86).</note>
+</Entry>

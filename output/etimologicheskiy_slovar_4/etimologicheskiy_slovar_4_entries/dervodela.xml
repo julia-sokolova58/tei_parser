@@ -1,0 +1,48 @@
+<Entry xml:id="dervodela">
+  <pb n="213" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>dervodel'a</orth>
+    <lemma>dervodel'a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>д</ref>^ьод</orth>
+      </form>
+      <sense>
+        <def>Ьш м. p. xexxcov, faber, lignarius плот­ ник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>древодем</ref> м. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 680)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дрЪводЪлхл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плотник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ис. XL. 19 — Упыр.; Гр. Наз. XI в. 141—142 и др.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 735)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Имя деятеля — сложение основ<ref type="etymon" target="dervo">*dervo</ref> (см.) и йотового произ­
+водного от гл. <ref type="etymon" target="delati">*delati</ref> (см.).</gram>
+  </gramGrp>
+  <note>См. К. Mircev WdS XI, 1966, 234.</note>
+</Entry>

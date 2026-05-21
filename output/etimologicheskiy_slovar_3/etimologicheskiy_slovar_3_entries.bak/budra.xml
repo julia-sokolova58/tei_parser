@@ -1,0 +1,32 @@
+<Entry xml:id="budra">
+  <pb n="77" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>budra</orth>
+    <lemma>budra</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>будра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>плющевидное растение Nepeta glechoma, Glechoma hederacea</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 2 I, 136)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>будра</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Glechoma hederacea L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 106)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Г. А. Ильинский предложил для этого неясного слова абст­ рактную и.-е. этимологию — из *b(h)ud(h)- 'яадыматься', относя сюда же словен. budla сначинка, род печения', budldti 'начинять' (см. ИОРЯС X X I I I , 1921, 205). Фасмер (I, 230—231) признает слово темным, тогда как Махек (см. V. Machek «Slavia» 23, 1954, 65) обращает внимание на внешнюю близость к русск., укр. будра 'Glechoma' лтш. Udrene с тем же знач.</note>
+</Entry>

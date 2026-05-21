@@ -1,0 +1,95 @@
+<entries>
+  <entry xml:id="cepk" xml:id="cepk">
+    <pb n="187" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*cĕpъkъ</orth>
+      <lemma>сёръкъ</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>цепак</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>вид вспашки , ср. также прилаг. cfepak, -pka fissilis</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(на цепак, Тг. 6)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 812)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>cepek</ref>, род. п. -pka, м. p.</orth>
+        </form>
+        <sense>
+          <def>черенок (при прививке дерева)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 79)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>cepek</ref>, род. п. -рки, м. р.</orth>
+        </form>
+        <sense>
+          <def>маленький цеп, цепок</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott V— VI, 1121)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slk" type="dialect">слвц. диал. <ref>cjepok</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>планочка, пропущенная сквозь нити основы , и.-луж. серк палка у невода, cepki мн. бердо на ткацком станке [у автора ошибочно: челноке. — О. Т.]</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Zoch 74)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Muka St. I, 119)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="rus" type="dialect">русск. диал. <ref>цапок</ref>, цепок, род. п. -пка, м. р.</orth>
+        </form>
+        <sense>
+          <def>палка, посох, кий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(калуж., зап., Д а л ь 3 IV, 1248)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>цтбк</ref>, род. п. -пка, м. р.</orth>
+        </form>
+        <sense>
+          <def>палка, трость, посох; хворостина, прут и т. д</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Ум. производное с суфф. <m type="suffix">
+          <ref>-ъкъ</ref>
+        </m> 
+от <ref type="etymon" target="syor-2">*сёръ</ref> (см.) и л и — шире — 
+от основы гл. <ref type="etymon" target="cepati">*cepati</ref> 
+(см.), ср. конкретные знач-я, оправдываю­
+щие как 
+О Д Е Ю , так и другое толкование.</gram>
+    </gramGrp>
+  </entry>
+</entries>

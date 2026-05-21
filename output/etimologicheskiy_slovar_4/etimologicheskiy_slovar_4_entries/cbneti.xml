@@ -1,0 +1,37 @@
+<Entry xml:id="cbneti">
+  <pb n="146" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbneti</orth>
+    <lemma>cbneti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cneti</ref>, cniti</orth>
+      </form>
+      <sense>
+        <def>торчать, возвышаться, высовываться,</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>cnietf</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 219)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, образованный от той же 
+обновы <ref type="etymon" target="sep-">*сеп-/</ref>
+      <ref type="etymon" target="sp-">*съп-</ref>, 
+что и соотносительный с ним инхоативный 
+гл. <ref type="etymon" target="ceti">*ceti</ref>, <ref type="etymon" target="spd-2">*съпд</ref> (см.), ср. и семантику <ref type="etymon" target="kops">*копъсъ</ref> (см.).</gram>
+  </gramGrp>
+  <note>Менее веро­ ятно мнение Махека, возводившего чеш. cneti через tfmeti 'тор­ чать' к<xr type="compare">см. <ref type="etymon" target="strbmeti">*strbmeti</ref>
+    </xr>, см. Machek
+2 106.</note>
+</Entry>

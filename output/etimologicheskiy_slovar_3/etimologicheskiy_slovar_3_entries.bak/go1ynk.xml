@@ -1,0 +1,105 @@
+<Entry xml:id="go1ynk">
+  <pb n="38" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьго&lt;1ынкъ</orth>
+    <lemma>Ьго&lt;1ынкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>броднйк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>колдун, чародей, волшебник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ге­ ров I, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>брбник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>небольшая группа ряженых, ко­ торая ходит и пугает по ночам</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов Б Т Р : «вместо броднйк»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>brodnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>portitor, перевозчик, паромщик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 670)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brodnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>перевозчик, паромщик; кора­ бельщик, матрос</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 65)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бродъници</ref> мн.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(вар. бронъници. Быша же с татары бронницы. Никон, л. под 1225 г., Срезневский I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>броднйк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>небольшой неводок, кото­ рый люди, идучи бродом, тянут за собою на клячах, на двух шес­ тах стойком, бродяга из ссыльных, варнак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 316)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бродникъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бредень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Оп. им. Дан. Апост. 103, Тимченко I, 142)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>быраднгк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бредень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бяльке- в1ч. М а п л . 98)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от прилаг. <ref type="etymon" target="goa">*Ъгоа</ref>\пъ 
+(см.) или с суфф. 
+-ъткъ 
+— о т <ref type="etymon" target="brod">*brodъ</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Ср. выше *brodbnica ж. р.</note>
+</Entry>

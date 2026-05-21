@@ -1,0 +1,145 @@
+<Entry xml:id="domatjj">
+  <pb n="68" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domatjь(jь)</orth>
+    <lemma>domatjь(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>домДфА</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>домашний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS: «occurrit in Venc.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ддиаШ</ref>, -d, -ё</orth>
+      </form>
+      <sense>
+        <def>домашний</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>domac</ref>, -аса, прилаг.</orth>
+      </form>
+      <sense>
+        <def>домашний, родной</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 154-155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>domdci</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>домашний, привычный, родной</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>domajsi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домаш­ ний , или пос­ ледняя форма должна объясняться вторичным образованием от местных продолжений<xr type="compare">см. <ref type="etymon" target="domatjbnb">*domatjbnb</ref>
+          </xr>????</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(валашек., Bartos. Slov. 61; Sverak. Karlov. 112)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>domdci</ref>, -а, -е, при­ лаг.</orth>
+      </form>
+      <sense>
+        <def>домашний, свой, привычный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 294)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>domjacy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домашний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. (<ref>Якубица</ref>) domjacy</orth>
+      </form>
+      <sense>
+        <def>домаш­ ний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">ст.-польск. <ref>domacy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домашний</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1471 г., St. stpol. II, 129)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>domaczy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>домашний, свой, при­ вычный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>domacy</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. стар, <ref>domdci</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>домашний, свой, родной , domdci</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 229)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ramutt 27)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="domat-">*domat-</ref>&lt;^ абл. ед. ч. и.-е. <ref type="etymon" target="domot">*domot</ref> (см. <ref type="etymon" target="doma-2">*doma)</ref> и местоим. 
+*/ь (см.), т. е. <ref type="etymon" target="domatjb">*domatjb</ref> значило '(из) дома который'.</gram>
+  </gramGrp>
+  <note>Интересно древним сохранением конечного -t отложительного пад. Ср. при­ меры деривации от косв. пп. с помощью местоим. -jo-: лит. тйяц- jis&lt; род. мн. musy -f- W слав. паёъ, vasb&lt;i род. мн. nasb, uasb-{- jb. Менее вероятным кажется распространенное объяснение от пра- слав. *doma с помощью суфф. -tjo-, ср. др.-инд. amdtya- 'домоча­ дец', кот., кстати сказать, предпочтительнее членить как amdt-ya- (см. под *doma), что подтверждало бы этимологию *domat-jb, выше. См. Miklosich 48; Berneker I, 210; J. Zubaty AfslPh XIV, 1892, 152; Мейе. Общеслав. язык 287; Vaillant. Gramm. comparee I, 100; M. Dqlobko RES VI, 1926, 34; R. Gusmani. U suffisso -tjo- di aggettivi 'locali', ecc. -AlON, sez. ling III, 1961, 44.</note>
+</Entry>

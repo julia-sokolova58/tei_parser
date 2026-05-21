@@ -1,0 +1,168 @@
+<Entry xml:id="bordatbjb">
+  <pb n="198" end_page="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bordatb(jb)</orth>
+    <lemma>bordatb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брадат</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брадат</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>бородатый, barbatus</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bradat</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 48)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bradaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 91; Simek 30; Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bradaty</ref> то же</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bradaty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бородатый, длиннобородый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 124)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>Ъго</ref>- daty</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Zeman 32)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>brodaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 79)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>brodaty</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 659)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>breddt</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>i прилаг. бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 71)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>борода</ref>­ тый, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>обросший бородою</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бородатый</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 125)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бородатый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>бородатый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>барадаты</ref> . — Сюда же, в конечном счете</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. словарь 118)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bradast</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>заросший бородой, бородатый , брадаст, -а, -о бородатый , по сути — даль­ нейшее развитие формы брадат (см. выше)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(только у Белостенаца и Стулли, RJA I, 578)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА II, 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -at- от основы<ref type="etymon" target="borda-2">*borda</ref> (см.), точнее, здесь 
+есть основания говорить о продолжении древней, дослав, формы, 
+как о том свидетельствуют полные словообразовательно-лексич. 
+соответствия в разных и.-е. языках: лат. barbatus, лит. barzdotas 
+с тем же знач.</gram>
+  </gramGrp>
+  <note>См. Мейе. Общеслав. язык 215, 284; Trautmann BSW 27; Walde—Hofm. I, 96; Фасмер I, 196. G. Jucquois «Die Sprache» XI, 1966, 131.</note>
+</Entry>

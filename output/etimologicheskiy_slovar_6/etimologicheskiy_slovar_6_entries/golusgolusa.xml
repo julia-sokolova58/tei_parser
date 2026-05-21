@@ -1,0 +1,90 @@
+<Entry xml:id="golusgolusa">
+  <pb n="220" end_page="221" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golušь/*goluša</orth>
+    <lemma>golušь/*goluša</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>golu§a</orth>
+    <lemma>golu§a</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>гблуш</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>рыба Cottus gobio , гблуша ж. р. беднячка, бедная женщина или девушка , гблушж беднячка, нищенка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. К. Гъбюв. Материал за българския речник. От с. Конопчие (Чирпанско). — СбНУ IX, 1893, 228)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>голушка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>косточка (плода)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С; Ц. Мартиновски. Зборови од Жупа. — MJ IV, 1953, 190)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>golus</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>голый человек, также Golus м. р., местн. название</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 263)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>holusa</ref>, род. п. -aVa, ср. р.</orth>
+      </form>
+      <sense>
+        <def>неопе­ рившийся птенец . — Ср. сюда же производные</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 502)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>голушав</ref>, -а, -о</orth>
+      </form>
+      <sense>
+        <def>неоперившийся, голый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 454)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Holusice</ref>, местн. название .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Profous I, 595)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суффиксом<m type="suffix">
+        <ref>-ийъ</ref>
+      </m> от 
+прилагательного 
+<ref type="etymon" target="golb-13">*golb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

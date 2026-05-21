@@ -1,0 +1,44 @@
+<Entry xml:id="ccdbskTjb">
+  <pb n="104" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cčdbskT&gt;jb</orth>
+    <lemma>cčdbskT&gt;jb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>cadsky</ref>, catsky, саску, прилаг.</orth>
+      </form>
+      <sense>
+        <def>чистый, бравый^ удалой, благородный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Siтек 33)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. книжн. <ref>саску</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>крепкий, твердый, богатырский</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>чадъекыи</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>людской, обычный для людей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Жит. Сим. Урод. 61, Срезневский III, 1470)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -bsk- от<ref type="etymon" target="c-7">*c</ref>$do, <ref type="etymon" target="c-8">*c</ref>$db (см.).</gram>
+  </gramGrp>
+</Entry>

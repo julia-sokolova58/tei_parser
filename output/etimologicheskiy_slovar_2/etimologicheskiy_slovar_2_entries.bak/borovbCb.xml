@@ -1,0 +1,64 @@
+<Entry xml:id="borovbCb">
+  <pb n="211" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>borovbCb</orth>
+    <lemma>borovbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Ббровец</ref>, местн. название (Георгиев)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бдровац</ref>, род. п. -овца, м. р.</orth>
+      </form>
+      <sense>
+        <def>можжевельник Juniperus communis</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 70)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>borovec</ref>, род. п. -vce, м. р.</orth>
+      </form>
+      <sense>
+        <def>лесной житель, жук, живущий на сосне</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>borovec</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>мож­ жевельник</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Kalal 35)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>borowiec</ref>, род. п. -wca, м. р.</orth>
+      </form>
+      <sense>
+        <def>житель лесов, дикарь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 191)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ьсъ</ref>
+      </m> от прилаг. <ref type="etymon" target="borovb-4">*borovb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

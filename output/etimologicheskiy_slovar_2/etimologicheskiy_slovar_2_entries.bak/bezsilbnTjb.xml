@@ -1,0 +1,108 @@
+<Entry xml:id="bezsilbnTjb">
+  <pb n="44" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezsilbnT&gt;(jb)</orth>
+    <lemma>bezsilbnT&gt;(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безсйлен</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бессильный, слабый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР, Геров: -лный)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бессилен</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бесйлан</ref>; -лна, -лно</orth>
+      </form>
+      <sense>
+        <def>бессильный, слабый , bresilan то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 484)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 626)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezsilny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бессильный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezsilny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 133)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бессильный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>не мо­ гущий одолеть кого или что; слабый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. без- <ref>сильный</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бессильный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 51)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бяссыъны</ref> то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Блр.-русск. 140)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Возможно сравнительно позднее образование параллельно в отдельных слав, языках, причем не исключено литературное происхождение и вторичное распространение в некоторых язы­ ках, хотя прямых указаний на кальку нет.</note>
+  <gramGrp>
+    <gram>Префиксально-суф­ фиксальное образование с помощью<ref type="etymon" target="bez-91">*bez</ref> (см.) и суфф. -ыг- от 
+основы имени <ref type="etymon" target="sila">*sila</ref> (см.) или с суфф. -ыг- от более древнего <ref type="etymon" target="bez--7">*bez-</ref>
+siHjb, 
+ср. укр. безсылый то же? Принимая во внимание обычную 
+для сложения с bez- словообразовательную прозрачность, а также 
+вероятное древнее наличие генитивного словосочетания 
+<ref type="etymon" target="bez-92">*bez</ref> 
+sily, можно, пожалуй, с равным правом признать, что возможны 
+как ранние образования типа <ref type="etymon" target="bezsilb">*bezsilb</ref>№, 
+так и случаи ^независи­
+мого позднего воспроизводства буквально той же модели.</gram>
+  </gramGrp>
+</Entry>

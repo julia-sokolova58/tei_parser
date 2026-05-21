@@ -1,0 +1,148 @@
+<Entry xml:id="gvizdati">
+  <pb n="182" end_page="183" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvizdati</orth>
+    <lemma>gvizdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>эвизди</ref> перен.</orth>
+      </form>
+      <sense>
+        <def>томиться в ожидании</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>звйждати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>zuizdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть, ши­ петь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 948)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>huimzdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>vizdat</ref> то же , елвц. hvizdaV то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Hruska. Slov. chod. 105)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 545)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hwizdac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 227)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="dialect">диал. <ref>gwizdac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gwizdac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 1390)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gujizdac</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 321)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>звиздати</ref> oopi&amp;iv, sibilare</orth>
+      </form>
+      <sense>
+        <def>свистать . — Ср. сюда же, с другой гласной основой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 963)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hvizdeti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свистеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 514)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. звукоподражат. происхождения, ср.<ref type="etymon" target="svistati">*svistati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Точное генетич. родство искать при этом едва ли целесообразно, ср. близ­ кие лат. fistula 'дудка, трубка', др.-англ. hwistlian 'свистеть'. Реконструкция праслав. *gvizdati ввиду этого также представляется скорее приблизительной, ср. мнение о диссимилятивном появле­ нии начального g(h) в зап.-слав. (Machek 2 192), почему безого­ ворочно одинаковая интерпретация начального gu- в *gvizdati и ; напр., в<xr type="compare">см. <ref type="etymon" target="gvezda">*gvezda</ref>
+    </xr> (М. Jurkowski. 
+Losy prastowianskich grup 
+*kv, 
+*gv, 
+*xv- — «Z 
+polskich 
+studiow 
+slawistycznych». 
+Seria 2, 
+1963, 56) может встретить возражения, равно как и реконструк­
+ции и.-е. *ghuizd(h)- 
+(Вальде, ниже). 
+См. V. J. Petr ВВ XXI, 1896, 214; A. Walde IF XIX, 1906, 
+105—106; Berneker I, 365; Stawski I, 385—386.</note>
+</Entry>

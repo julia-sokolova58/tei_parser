@@ -1,0 +1,96 @@
+<Entry xml:id="s1shk">
+  <pb n="141" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сь1шкъ</orth>
+    <lemma>сь1шкъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>colmik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>маленький челн, лодка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>cotnik</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>челнок, лодка, ткацкий челнок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 131)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">польск. диал. <ref>counik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>маленький чёлн</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сё</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ытК м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чбвник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>челнок, лодочка, ткацкий челнок, растение Sagit- taria sagittaefolia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 468)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чбутк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>ткацкий челнок, челнок, лодочка . —Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Янкоусш II, 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>eolnicek</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>couniedk</ref> .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(L. Bezlaj — Krevel. Slovenska tkalska terminologija. — JiS XIII, 1968, 88)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ikb</ref>
+      </m> от <ref type="etymon" target="s1p-2">*сь1пъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

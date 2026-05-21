@@ -1,0 +1,108 @@
+<Entry xml:id="bujavbjb">
+  <pb n="83" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bujavb(jb)</orth>
+    <lemma>bujavb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. в <ref>о</ref> у т ъ</orth>
+      </form>
+      <sense>
+        <def>безумный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буяв</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бе­ зумный, буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. <ref>бу</ref>]ав, -а, -о</orth>
+      </form>
+      <sense>
+        <def>буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 257)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>bujauy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>буйный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Tract. XV stol., Kott I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>бХм</ref>\выи р-соро^</orth>
+      </form>
+      <sense>
+        <def>глупый (Георг. Ам.), (Премоудрость боуьшаго неиспытпа словеса соуть. Феод.), furiosus (Жит. Андр. Юр. LIX)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 195)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>буяв</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>хорош, жив, весел , буявый, -ая, -ое сырой, сочный , буйный, склон­ ный к буйству, буянству , сырой, влажный, мок­ рый, сочный , сырой, влажный, сочный , сильный, буйный, озорной (о человеке), высокий, большой (о растениях) , буявой бойкий, откры­ тый ветру</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 7)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Доп. к Опыту 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 338)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвы- соцкий 12)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 38)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Богораз 27)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>буявий</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>буйно себя проявляющий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 159)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -аи- от<ref type="etymon" target="i-2">*Ьи]ъ</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

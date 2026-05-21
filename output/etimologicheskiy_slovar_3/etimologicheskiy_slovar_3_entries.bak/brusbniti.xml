@@ -1,0 +1,26 @@
+<Entry xml:id="brusbniti">
+  <pb n="52" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brusbniti</orth>
+    <lemma>brusbniti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бруснйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обирать рукой ягоды с ветки, семена различных растений, зерна с колоса, выбивать семя из снопов конопли с помощью небольших деревянных граблей — бруснелки, прокладывать в брусничнике полосы для .того, чтобы лучше видеть ягоды при сборе их</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Сл. Среднего Урала I, 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на - Ш , производный от прилаг.<ref type="etymon" target="brusbnb-3">*brusbnb</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

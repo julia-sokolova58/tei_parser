@@ -1,0 +1,54 @@
+<Entry xml:id="dokuka">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dokuka</orth>
+    <lemma>dokuka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Докука</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(XVI в., Тупиков 186)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>докука</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>потребность , неприят­ ность (сев .-двинск.), людская помощь (новосиб.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Куликовский 19)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 8, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>докука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>досада, хлопоты, надоедливость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Черк. у., Гринченко I, 415)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дакука</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>забота, печаль, горе, досада, докука</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Соотносительно с гл.<ref type="etymon" target="dckucati">*dckucati</ref> / <ref type="etymon" target="dokuciti">*dokuciti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

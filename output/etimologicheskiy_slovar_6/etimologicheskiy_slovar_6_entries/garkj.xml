@@ -1,0 +1,26 @@
+<Entry xml:id="garkj">
+  <pb n="102" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*garъkъjь</orth>
+    <lemma>garъkъjь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гаркий</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>хорошо, ярко горящий (о дровах, свечах)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(пек., смол., Филин 6, 142; К. А. Иерополь- ский. Говор деревни Савкино Пушкинского района Псковского округа. — Изв. по русск. яз. и словесности III, 1930, 594; Карто­ тека Псковского областного словаря)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. с суфф.<m type="suffix">
+        <ref>-ъкъ</ref>
+      </m>, соотносительное с гл. <ref type="etymon" target="garati">*garati</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

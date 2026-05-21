@@ -1,0 +1,182 @@
+<Entry xml:id="dobina">
+  <pb n="91" end_page="92" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dǫbina</orth>
+    <lemma>dǫbina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дъбйпа</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>молодой дубок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(софийск., см. Илчев. Речник на личните и фамилии имена у българите 189, там же Дъбйна ж. р., личное имя собств.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>дубина</ref> ж. р., увеличит, от дуб</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА IV, 770)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>dubina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовый лес , Dubina, название леса, горы (Ст.-чеш., Прага)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dubina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовый лес</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dubina</ref>, собир. сдубы, дубняк</orth>
+      </form>
+      <sense>
+        <def>, dubina чернильный орешек , елвц. dubina ж. p. дубовая роща, гора, дерево дуба, дубовые ветви</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 69)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 339)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>dubina</ref> ж. р. дубовый лес, дубняк</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Pfuhl 168)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>dubina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовое дерево, дубовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>dfbina</ref> ж. p. сдубрава</orth>
+      </form>
+      <sense>
+        <def>, дубняк, свежие дубовые ветки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 116— 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>damb</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ina ж. р. дубовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 34)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dqbjina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 170)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>дубина</ref> , также личное имя собств. Дубина</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(А досггБху, и дубинъ и ослоповъ стряп- чимъ и поручникомъ у себя не держати. Судебн. 1497 г., Срез­ невский I, 739)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(XV в., Ту­ пиков 193)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дубина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>толстая палка, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>дубинка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>камыш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 123)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дубина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубовое дерево, дубовый лес, дубовая палка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 451)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>дубина</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гора, покрытая лесом только на вершине, холм в лесу, покрытый деревьями</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Т. А. Мару- сенко. Названия рельефов в говорах Хмельницкой обл. УССР. «Карпатская диалектология и ономастика» 283)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дубгна</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дубина</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. 4па от<ref type="etymon" target="dgbb-2">*dgbb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

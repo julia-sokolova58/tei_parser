@@ -1,0 +1,288 @@
+<Entry xml:id="grcbbjb">
+  <pb n="144" end_page="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grc|bb(jb)</orth>
+    <lemma>grc|bb(jb)</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>grubb(jb)</orth>
+    <lemma>grubb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>г</ref>^ЛчБЪ, -ми, прилаг. crassus, asper</orth>
+      </form>
+      <sense>
+        <def>грубый, шероховатый, owueipos, dcypoixog, imperitus несведущий, необразованный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Вост., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. груб, прилаг.</orth>
+      </form>
+      <sense>
+        <def>грубый (в разн. знач-ях)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. груб</orth>
+      </form>
+      <sense>
+        <def>грубый, (диал.) некрасивый, безобразный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. груб</orth>
+      </form>
+      <sense>
+        <def>гру­ бый, безобразный</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>grabi</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>огромный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cres)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>grob</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>крупный, видный, красивый, крепкий, грубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 254)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hruby</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>крупный, грубый, шерохо­ ватый, грубый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hruby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большой, толстый , hruby большой , hruby большой, тол­ стый, сильный , hruby сильный, толстый , hrubej большой и сильный , елвц. hruby, прилаг. толс­ тый, грубый, большой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 109)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Belie. Dolsk. 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kellner. Vychodolas. II, 174)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lamprecht. Slovn. stfedoopav. 46)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kubin. Cech. klad. 180)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 532—533; Kalal 187)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hrubd</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беременная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Banska Bystrica, Turcianska zupa, там же; Buffa. Dlha Liika 156)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>hruby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gruby</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый, грубый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1324)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gr</ref>$by</orth>
+      </form>
+      <sense>
+        <def>сморщенный, терпкий, жесткий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 907)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>grabi</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>толстый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 299)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>грубый</ref>, гржбыи</orth>
+      </form>
+      <sense>
+        <def>невежественный , грубый, злой , худой, дурной (Гр. Наз. XI в.) , грубый непристойный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г.; Панд. Ант. XI в. л. 104; Гр. Наз. XI в. 335)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Новг. I л. под 1228 г.)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срез­ невский I, 599)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Ил. Новг. поуч. 26, Срезневский III, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>грубый</ref>, -ая, -ое</orth>
+      </form>
+      <sense>
+        <def>недостаточно или плохо отделанный, обработанный, жесткий, негладкий, шерохо­ ватый</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>грубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грубый, жесткий (о воде), низкий (о голосе) , грубый, грубой бурливый, сильный (о ручье) (печор.), глубокий (арх.), грубый берег крутой, обрывистый высокий берег , грубый скучный, надутый (о человеке) , грубый налитой, упругий (о вымени) , грубый крепкий, твердый, необработанный, толстый (Картотека Псковского областного словаря), грубой глубокий (Картотека Печорского словаря)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Деулинский словарь 128)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., беломор., север., Фи­ лин 7, 158)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь русск. старожильческих говоров средней части басе. р. Оби. Доп. I, 105)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>грубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>грубый (?), большой (?)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(. . . якая смерть грубая, тяжкая. Деже Л. Мате- риалы к словарю закарпатской литературы XVI—XVII вв. Бу­ дапешт, 1965: Словарь Няговской Постиллы XVI в. 67 [микроф.])</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>грубый</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>толстый, грубый, грубый плохой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 331)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>грубый</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>толстый , груба беременная , грубый большой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(П. С. Лисенко. Словник специф1чно] лексики правобережно! Черкащини. — Леке. бюл. VI, 1958, 11; I. С Колесник. Матер1али до словника д1алектиз- м1в укр. говор1в Буковини 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Онишкевич. Словник бойшвського д1алекту)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. П. Довбак. Словотв]р 1менних частин мови в гов!рщ с. Королево Виногра- д!вського р-ну. Дип. роб. Ужгород, 1957, 85)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>грубы</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гру­ бый, толстый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 83)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>грубая</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>беремен­ ная</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новогруд., 3 народнага слоунша 57)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>На слав, почве прежде всего связано чередованием гласных с<xr type="compare">см. <ref type="etymon" target="greba">*greba</ref>
+    </xr>, что свидетельствует о древности носовой огласовки. 
+Вместе с тем отношение 
+вариантов</note>
+</Entry>

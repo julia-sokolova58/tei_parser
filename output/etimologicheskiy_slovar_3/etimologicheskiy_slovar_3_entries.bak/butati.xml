@@ -1,0 +1,72 @@
+<entries>
+  <entry xml:id="butati" xml:id="butati">
+    <pb n="102" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*butati</orth>
+      <lemma>b u t a t i</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>бутам</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>толкать, щупать, трогать, сбивать (масло)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>бута</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>толкать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(И-С; Кон.)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="old">сербохорв. стар, <ref>butati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>percutere, concutere , бутати толкать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 748)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(PCA II, 315)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>butati</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>бить(ся), толкать</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Slovar sloven, jezika I, 229)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <note>Родственно *buta, 
+(см.), ср. так уже Младенов 
+Е П Р 
+50; Георгиев Б Е Р II, 92. Против см. F. Sfawski RS XVI, 1948, 
+86, кот., вслед за авторами Загребского словаря (RJA I, 748) 
+и Бернекером (Berneker I, 104), считает эти слова заимств. из 
+ит. buttare 
+'толкать, бить', что ввиду разветвленности лексиче­
+ского семейства с корнем * but-/* but-s-/* bu-o-t- в славянском мало­
+вероятно.</note>
+  </entry>
+</entries>

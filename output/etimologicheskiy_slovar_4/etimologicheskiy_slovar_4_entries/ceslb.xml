@@ -1,0 +1,112 @@
+<Entry xml:id="ceslb">
+  <pb n="87" end_page="88" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceslb</orth>
+    <lemma>ceslb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чёшъл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>м. р. гребень (с. Долна Милна, Трънско, дип. раб., Архив Софийск. ун-та), чёшел 1 ж. p. (sic!) то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с. Иваняне, Софийско, дип. раб., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чешел</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, гребешок, расческа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чёшал</ref>&gt;, род. п. чешл&gt;а, чешл&gt;а, м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень , чёшл&gt;а ж. р. растение ворсянка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук, RJA: с XVI в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ceselj</ref>, род. п. -slja, м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень, скребница, чесалка (для волокна) , также ceselj, род. п. -slja, м. p. , cehelj, род. п. -hlja, м. р. скребница , также cohlja ж. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 99)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Slovar sloven, jezika I, 284)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>cesle</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>палка в огороде у спуска пруда, у мельничного спуска</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>cesel</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>гребень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>ciesla</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чесалка (для волокна, пряжи) . — Сюда же суффиксальное производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slo­ vinz. Wb. I, 141)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ceslina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чешуя</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka S\. I, 126)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Название орудия, производное с суфф.<m type="suffix">
+        <ref>-1ъ</ref>
+      </m>, соотносительное с гл. 
+<ref type="etymon" target="cesati">*cesati</ref> (см.), точнее — с его праформой <ref type="etymon" target="cesti-2">*cesti</ref>.</gram>
+  </gramGrp>
+  <note>Дервнее образова­ ние, продолжающее дослав, модель. Ср. лтш. kaslis 'скребница, щетка'. См. О. Н. Трубачев. «Славянское языкознание. V Меж­ дународный съезд славистов. Доклады советской делегации» (M., 1963), 189; Трубачев. Ремесленная терминология 80. Полезно, далее, обратить внимание на возможное родство с лат. corulus 'орешник', галльск. coslo-, др.-ирл. coll, др.-исл. hasl, нем. Hasel 'орешник' &lt; и.-е. *koslo-s, см. J. Loewehthal WuS X, 1927, 157 (автор, правда, сближает только с гл. словен. cesljdti). Наше слово сравнивали также с ирл. cir 'гребень' &lt; *kesrd (J. Stra- chan BB XX, 1894, 38), но последнему более точно соответ­ ствует основа слав.<xr type="compare">см. <ref type="etymon" target="cesrati">*cesrati</ref>
+    </xr>.</note>
+</Entry>

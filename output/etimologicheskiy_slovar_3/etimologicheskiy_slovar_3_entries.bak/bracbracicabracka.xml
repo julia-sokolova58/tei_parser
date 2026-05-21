@@ -1,0 +1,140 @@
+<entries>
+  <entry xml:id="bracbracicabracka" xml:id="bracbracicabracka">
+    <pb n="159" end_page="160" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bьračь/*bьračica/*bьračьka</orth>
+      <lemma>Ьыась</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>bbracica</orth>
+      <lemma>bbracica</lemma>
+    </form>
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>Ьыаська</orth>
+      <lemma>Ьыаська</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="bul">болг. <ref>берач</ref> м. р., берачка ж. р.</orth>
+        </form>
+        <sense>
+          <def>сбор­ щик, сборщица (урожая)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(БТР)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="mac">макед. <ref>берач</ref> м. р. * сборщик уро­ жая</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(И-С)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>берач</ref> м. р.</orth>
+        </form>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. <ref>брач</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>сборщик урожая , брачица, брачаца, бера- чица ж. р. сборщица урожая , beracica ж. р. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(PGA II, 125; R J A I, 234, 574)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(там же)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(RJA I, 234)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>berdc</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>сборщик (винограда), нищий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 20)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>brdc</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сборщик винограда , brdc м. р. похититель, вор, municeps (Ст.-чеш., Прага)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Brandl 10)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>brdc</ref> м. р.</orth>
+        </form>
+        <sense>
+          <def>тот, кто берет, берущий</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Kott I, 87)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol">польск. <ref>braczka</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>сборщица льна</def>
+        </sense>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr">укр. <ref>брачка</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>ухват</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Гринченко I, 95)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ukr" type="dialect">диал. <ref>брачка</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>рогач, ухват</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(П. С. Лисенко. Словник д1алектн01 лексики се- реднього i схцщого Пол1сся 19)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Имя деятеля, производное с суфф. <m type="suffix">
+          <ref>-асъ</ref>
+        </m> j <m type="suffix">
+          <ref>-ac-ica</ref>
+        </m>, <m type="suffix">
+          <ref>-ас-ъка</ref>
+        </m> от основы 
+инф. <ref type="etymon" target="gan">*ЬъгаН</ref> 
+(см.).</gram>
+    </gramGrp>
+    <note>Формы с вокализмом типа сербохорв. 
+берач 
+отражают влияние личных форм наст. вр. *berg и т. п.</note>
+  </entry>
+</entries>

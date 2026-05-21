@@ -1,0 +1,51 @@
+<Entry xml:id="a1ouk">
+  <pb n="68" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а1оуъкъ</orth>
+    <lemma>а1оуъкъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>а1оуакъ</orth>
+    <lemma>а1оуакъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>яловак</ref>, ялъвак м. р.</orth>
+      </form>
+      <sense>
+        <def>кладеный баран- вожак</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. )<ref>аловак</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>кастрированное животное (бык, конь и т. п . )</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. )<ref>аловак</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесплодный петух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( Ш 35)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Образование, недостаточно ясное по своей древности и суффик­ сальному оформлению: часть примеров указывает как будто на суфф. -акъ, отдельные примеры двусмысленны (-акъ^-ъкъ!). Общеслав. перспектива, а именно — наличие довольно распро­ страненной формы ж. р. с суфф. -ък(а) (<xr type="compare">см. <ref type="etymon" target="a1oika">*а1оиъка</ref>
+    </xr>) —позволяет 
+допустить и здесь оформление 
+*а1оиъкъ.</note>
+</Entry>

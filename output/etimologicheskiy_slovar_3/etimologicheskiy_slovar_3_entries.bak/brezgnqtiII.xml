@@ -1,0 +1,35 @@
+<Entry xml:id="brezgnqtiII">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>brezgnqti II</orth>
+    <lemma>brezgnqti II</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bregniti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светить, просвечивать , ср</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(solnce bregne skozi oblake; Plet. I, 54)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">чеш. стар, <ref>bresknouti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>светать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. иа-пд-ti, соотносительный с<ref type="etymon" target="brezgati">*brezgati</ref> 
+II (см.) и<ref type="etymon" target="brezgb-4">* brezgb</ref> II (см.).</gram>
+  </gramGrp>
+</Entry>

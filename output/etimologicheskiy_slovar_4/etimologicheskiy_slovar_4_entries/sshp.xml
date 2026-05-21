@@ -1,0 +1,55 @@
+<Entry xml:id="sshp">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сшпъ</orth>
+    <lemma>сшпъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cum</ref>, pop. п. сита, м. р.</orth>
+      </form>
+      <sense>
+        <def>куст</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 117)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>сит</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>верхушка, вершина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kalal 914; также Kott V—VI, 1231: «слвц.»)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>сит</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>желоб .—Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Sychta I, 179)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>сита</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>узел на верхнем конце палки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 153)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Слово, практически не получившее этимологии, если не счи­ тать предположения о родстве словен. сит с сита 'pestilentia' (F. Kurelac «Rad» XII, 1870, 56). Остается пока ограничиться констатацией весьма вероятного родства словен. и слвц. слов ('куст'—'верхушка') и гипотетического родства словен. и слвц. слов со словин. (см. выше).</note>
+</Entry>

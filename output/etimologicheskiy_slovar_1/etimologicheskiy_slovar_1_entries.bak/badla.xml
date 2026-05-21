@@ -1,0 +1,27 @@
+<Entry xml:id="badla">
+  <pb n="143" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ba(d)la</orth>
+    <lemma>ba(d)la</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>бала</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ворожбит</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Онышкевич. Словарь бойков- ского диалекта 66)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Имя деятеля *ba(d)la, возм., представляет собой результат перехода nomen actionis &gt; nomen agentis. Подробно об этимо­ логии<xr type="compare">см. <ref type="etymon" target="ba">*ba</ref>
+    </xr>(d)lovati, 
+*ba(d)lbji, 
+ниже. Переход в другой тип 
+именных основ — *ba(d)lo j &gt; *ba(d)la — мог также быть вызван 
+вторичным выравниванием по именам деятеля м. р. на -а.</note>
+</Entry>

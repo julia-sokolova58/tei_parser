@@ -1,0 +1,80 @@
+<Entry xml:id="cucelo">
+  <pb n="127" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cucelo</orth>
+    <lemma>cucelo</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cucela</orth>
+    <lemma>cucela</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>чучело</ref> ср. p., чучула ж. р.</orth>
+      </form>
+      <sense>
+        <def>чучело, (огород­ ное) пугало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чучулу</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чучело, пугало</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(С. Ко­ вачев. Троянският говор. — БД IV, 233)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>чучело</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>на­ битая чем-нибудь шкура, кожа животного, служащая его внеш­ ним подобием, подобие человека, кукла, пугало для птиц на посевах, сюда же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>чучалки</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чучела</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Иваницкий. Соль- вычегодский крестьянин, его обстановка, жизнь и деятельность. — ЖСт. VIII, 1898, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чучала</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>чучело.—Неясно от­ ношение</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Cuculo</ref> ср. р., топоним в Сербии , ср. выше</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA II, 84)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>примеры</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -Z- от гл.<ref type="etymon" target="ducati">*ducati</ref> (см.); ср. уже Р.</gram>
+  </gramGrp>
+  <note>Смаль- Стоцький «Slavia» 5, 1926, 27. В таком случае более точной была бы реконструкция праслав. *cucalo / *cucala. Фасмер (IV, 389) до­ пускает родство с лит. kaukas 'домовой', др.-прусск. cawx 'черт', слав, кика, что в общем правильно, хотя здесь нет непосред­ ственной связи ввиду наличия у слав. *сибе1о праформы *келк~. Любопытная болг.-вост.-слав. изоглосса, одновременно документи­ рующая более широкое древнее распространение производящего гл. *cucati.</note>
+</Entry>

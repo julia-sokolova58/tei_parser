@@ -1,0 +1,99 @@
+<Entry xml:id="gosti">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gosti</orth>
+    <lemma>gosti</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gostbja</orth>
+    <lemma>gostbja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдшНа</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостья, также гбшКа ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 5 3 0 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gostja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостья, жилица , также gostija ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 2 3 8 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>hosti</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 4 7 4 ; §imek 5 1 ; Kott I, 4 7 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>goscia</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 8 8 3 ; Dorosz. II, 1 2 4 9 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гостья</ref> ж. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гостя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>гостья , также обл. ггстя, род. п. гость, ж. р</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 3 5 6 )</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 3 3 1 )</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гбсця</ref> ж. р.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>Основа на -i (V) ж. р., соотносительная с<xr type="compare">см. <ref type="etymon" target="gostb">*gostb</ref>
+    </xr>. См. 
+М. 
+Vasmer ZfslPh 
+X, 
+1 9 3 3 , 9 7 ; Фасмер 
+I, 4 4 8 . Расширением 
+той же и.-е. основы ж. р. 
+на -I является 
+лат. hostia 
+'жертва, 
+жертвенное 
+животное'. 
+Архаич. 
+словообразовательное отношение</note>
+</Entry>

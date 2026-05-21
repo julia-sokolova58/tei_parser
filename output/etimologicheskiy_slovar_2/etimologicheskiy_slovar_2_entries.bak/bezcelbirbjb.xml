@@ -1,0 +1,26 @@
+<Entry xml:id="bezcelbirbjb">
+  <pb n="15" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezcelbirbjb</orth>
+    <lemma>bezcelbirbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>be7xzelny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бесстыжий, наглый, безлобый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 75; Warsz. I, 120)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-7">*bez</ref> и <ref type="etymon" target="ceZo">*ceZo</ref> (см.) с добав­
+лением суфф. -ъп-.</gram>
+  </gramGrp>
+  <note>Относительно распространенной семант. модели 'отрицание + название глаза, зрения, лица' -&gt;'бес­ стыжий, наглый, дерзкий' см. на *bez.</note>
+</Entry>

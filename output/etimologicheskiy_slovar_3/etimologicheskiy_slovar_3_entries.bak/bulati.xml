@@ -1,0 +1,54 @@
+<Entry xml:id="bulati">
+  <pb n="93" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bul'ati</orth>
+    <lemma>bul'ati</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bulati</orth>
+    <lemma>bulati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bulati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>жарить (кукурузу)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>( R J A I, 729)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>buVatf</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ломать , bulat валить деревья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(ляшск., Bartos Slov. 30)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 7)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bulae</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>шуметь, катить . * Гл., производный от<xr type="compare">см. <ref type="etymon" target="bula">*bula</ref>
+          </xr>
+        </def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SJ. I, 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+</Entry>

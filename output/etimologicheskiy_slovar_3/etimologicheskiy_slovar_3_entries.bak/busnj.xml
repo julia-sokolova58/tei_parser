@@ -1,0 +1,41 @@
+<entries>
+  <entry xml:id="busnj" xml:id="busnj">
+    <pb n="101" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bušьnъjь</orth>
+      <lemma>Ьи§ьпъ]ь</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>busan</ref>, busna, прилаг.</orth>
+        </form>
+        <sense>
+          <def>дырявый, продыряв­ ленный</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(RJA I, 746; РСА II, 335)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="svc">словин. <ref>busny</ref>
+          </orth>
+        </form>
+        <sense>
+          <def>чванливый, гордый , busni, прилаг. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ramutt 15)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(Lorentz Slovinz. W b . I, 89)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <pos>adjective</pos>
+      <gram>Прилаг., производное с суфф. -ъп- от основы <ref type="etymon" target="ikh-">*Ъих-</ref> (см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

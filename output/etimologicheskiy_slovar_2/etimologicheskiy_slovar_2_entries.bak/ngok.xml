@@ -1,0 +1,76 @@
+<Entry xml:id="ngok">
+  <pb n="120" end_page="121" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬНгокъ</orth>
+    <lemma>ЬНгокъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>blizoka</orth>
+    <lemma>blizoka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="pox">полаб. <ref>blaizek</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>близкий , blaizuce мн. ч. м. р. друзья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Polanski—Sehnert 38, там же реконструкция *ЪШокъ)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, с реконструкцией *blizoce или *blizoci)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>близокъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>свойственник, agnatus, cognatus , близока свойственница, agnata, cognata</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Остром, ев., Срезневский I, 115)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Кир. Тур., там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>близок</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>родственник, свойствен­ ник . — Сюда же примыкает производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 238)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>близоч</ref> (близоц)</orth>
+      </form>
+      <sense>
+        <def>родственник, свойственник, сват, женина родня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(новг., твер., Даль 3 I, 238)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Производное от основы *bliz- (<xr type="compare">см. <ref type="etymon" target="sh-2">*ЬШъ]ь</ref>
+    </xr>, *ЬШъкъ, 
+ниже) 
+с суфф. -ок-, кот. восходит к полнозначному имени <xr type="compare">см. <ref type="etymon" target="oko-2">*око</ref>
+    </xr> 
+или другому его древнему варианту.</note>
+  <gramGrp>
+    <gram>Первоначальное прилаг., ср.<ref type="etymon" target="ygok">*ыгокъ</ref>, 
+<ref type="etymon" target="iuvok">*иувокъ</ref>, с тем же вторым компонентом.</gram>
+  </gramGrp>
+  <note>Из литературы см. F. Lorentz ZfslPh I, 1925, 58 (для полаб. bleisitze I blaizuce реконструирует праслав. *blizici, что едва ли верно); Т. Lehr-Sptawinski SO 8, 1928, 222—223 (реконструирует для полаб. blaiziice праслав. *blizoci, *blizokb, связывая с ним упомянутую цслав. форму в Остром, ев., см. выше); Lehr-Spta- winski, Polariski. Slownik etymologiczny jqzyka Drzewian po- tabskich 1, 34—35.</note>
+</Entry>

@@ -1,0 +1,24 @@
+<Entry xml:id="agyg">
+  <pb n="159" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьагыгь</orth>
+    <lemma>Ьагыгь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>баран</ref> прилаг.</orth>
+      </form>
+      <sense>
+        <def>болотный, болотистый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PCA I, 300)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг. производное с суфф. -ъп- от<ref type="etymon" target="bara-4">*bara</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

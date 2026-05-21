@@ -1,0 +1,48 @@
+<Entry xml:id="civikati">
+  <pb n="125" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>civikati</orth>
+    <lemma>civikati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ciukati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пищать, щебетать, чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>civikat</ref>\ civkaf</orth>
+      </form>
+      <sense>
+        <def>пищать, чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чвыкать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>плохо, невнятно говорить , цювйкать чирикать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Проект Архангельского областного словаря 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание; см. Фасмер IV, 358. О хронологии образова­ ния судить затруднительно.</note>
+</Entry>

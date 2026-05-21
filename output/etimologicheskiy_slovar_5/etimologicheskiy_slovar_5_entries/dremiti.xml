@@ -1,0 +1,62 @@
+<Entry xml:id="dremiti">
+  <pb n="109" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drĕmiti</orth>
+    <lemma>drĕmiti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>dremli</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дремать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(P. Hendriks. The Radozda- Vevcani dialect of Macedonian 256)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>драмити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>успо­ каивать, унимать (напр. боль), утешать, ныть, болеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 658)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drdmitl</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>будить, прогонять сон, дремоту, взбад­ ривать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet Л , 167)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-iti</ref>
+      </m> (каузатив), соотносительный с <ref type="etymon" target="dremati">*dremati</ref> 
+(см.).</gram>
+  </gramGrp>
+  <note>Раз­ витие гё^&gt;га представляет собол местную фонетич. особенность, ср. сербохорв. огак&lt;^<xr type="compare">см. <ref type="etymon" target="ogyokh">*огёхъ</ref>
+    </xr>. См. Skok. Ebim. rjecn. I, 435. 
+В таком случае словен. пример заимств. из сербохорв.? Обращает 
+на себя внимание несколько необычное развитие знач-я в словен.. См. Skok. Ebim. rjecn. I, 435. 
+В таком случае словен. пример заимств. из сербохорв.? Обращает 
+на себя внимание несколько необычное развитие знач-я в словен.. См. Skok. Ebim. rjecn. I, 435. 
+В таком случае словен. пример заимств. из сербохорв.? Обращает 
+на себя внимание несколько необычное развитие знач-я в словен.. См. Skok. Ebim. rjecn. I, 435. 
+В таком случае словен. пример заимств. из сербохорв.? Обращает 
+на себя внимание несколько необычное развитие знач-я в словен.</note>
+</Entry>

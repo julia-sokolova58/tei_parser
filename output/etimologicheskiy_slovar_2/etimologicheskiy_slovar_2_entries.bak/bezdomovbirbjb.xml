@@ -1,0 +1,57 @@
+<Entry xml:id="bezdomovbirbjb">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdomovbirb(jb)</orth>
+    <lemma>bezdomovbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>безддмдвнй</ref>, -а, -б</orth>
+      </form>
+      <sense>
+        <def>бездомный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezdomouen</ref>, -vna, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>безродный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 57)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bezdomovny</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(«Slovnik spisovniho jazyka ceskeho» I, 108)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бездомовный</ref>, -ая, -oe</orth>
+      </form>
+      <sense>
+        <def>бесхозяйственный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., перм., Филин 2, 189)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -ъп- от адъективной основы<ref type="etymon" target="bezdomov-">*bezdomov-</ref>
+(см. <ref type="etymon" target="bezdomov">*bezdomov</ref>^b) или префиксально-суффиксальное производное 
+с помощью bez- и -ъп- от основы косвенных п. п. domov- (см. 
+<ref type="etymon" target="y07">*Й07</ref>?ГЬ).</gram>
+  </gramGrp>
+</Entry>

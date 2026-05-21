@@ -1,0 +1,26 @@
+<Entry xml:id="ednorogj">
+  <pb n="17" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnorogъ(jь)</orth>
+    <lemma>edьnorogъ(jь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>еднорог</ref>, прилаг. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jednorog</ref>, прилаг.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>I 'однорогий' (RJA IV, 553: «Moze biti rijec praslavenska...»), словен. enorog, прилаг. 'однорогий'(РЫ. I, 196), чеш. jedno- rohy, прилаг. 'однорогий', русск. однорогий (Даль И, 1681), блр. аднарбгг 'однорогий'.</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="edbnb-5">*edbnb</ref> (см.) и <ref type="etymon" target="go">*го</ref>#ъ (см.)</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,70 @@
+<Entry xml:id="drebnj">
+  <pb n="106" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drebьnъ(jъ)</orth>
+    <lemma>drebьnъ(jъ)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дрёбен</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>мелкий, маленький</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>дрёбен</ref>, -бна</orth>
+      </form>
+      <sense>
+        <def>мелкий , дрёмен то же , также субстантивированное дрёбно ср. р. внутренности зарезанной мелкой скотины, требуха, что-либо разбитое, раздробленное на мелкие кусочки</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов. БД III, 60; Д. Евста­ тиева. С. Тръстеник, Плевенско. — БД VI, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 154)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стойчев. Родопски речник. — БД V, 167)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дребен</ref>=дробен</orth>
+      </form>
+      <sense>
+        <def>мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dremni</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>маленький, мелкий</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 156, с примеч.: «Наличие сомнительно, в лучшем случае неточная диал. форма»)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф.<m type="suffix">
+        <ref>-ьпъ</ref>
+      </m> от основы, представленной 
+в <ref type="etymon" target="drebiti">*drebiti</ref>, 
+<ref type="etymon" target="drebb">*drebb</ref>, 
+<ref type="etymon" target="drebezgb">*drebezgb</ref>, 
+<ref type="etymon" target="dreba">*dreba</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср., с вариантом огласовки корня, *йго&amp;ь?г&amp; (см. ниже). См. Георгиев БЕР VI, 422 — 423.</note>
+</Entry>

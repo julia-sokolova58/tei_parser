@@ -1,0 +1,20 @@
+<Entry xml:id="belosbrstbjb">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>belosbrstbjb</orth>
+    <lemma>belosbrstbjb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>belosrsty</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>белошерстный</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="yo1">*Ъё1ъ</ref> (см.) и <ref type="etymon" target="sbrstb">*sbrstb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

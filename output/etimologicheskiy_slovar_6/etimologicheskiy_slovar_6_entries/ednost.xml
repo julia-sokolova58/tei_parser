@@ -1,0 +1,85 @@
+<Entry xml:id="ednost">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*edьnostь</orth>
+    <lemma>edьnostь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>jednost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVIII в., RJA IV, 555)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jednost</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. редк. <ref>jednosV</ref> ж. р. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 647)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>jenosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 235)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>jadnosd</ref> ж.</orth>
+      </form>
+      <sense>
+        <def>единодушие, согласие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 523)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>jednoM</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>единство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. II, 162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>jdnosc</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>согласие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 387)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ostb</ref>
+      </m> от <ref type="etymon" target="e">*е</ref>&amp;ьпъ (см.)</gram>
+  </gramGrp>
+</Entry>

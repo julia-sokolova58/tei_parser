@@ -1,0 +1,49 @@
+<Entry xml:id="cevbkati">
+  <pb n="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cev(b)kati</orth>
+    <lemma>cev(b)kati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>cevkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять, тявкать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(в словарях Белостенца, Ямбрешича и Стулли, см. RJA II, 18)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cevkati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>лаять, тявкать, болтать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 102)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чёвкать</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>чиликать , чб(ё)вкать чиликать, как воробей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(волог., Опыт 255)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(волог., Даль 3 IV, 1356)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Звукоподражание. Сербохорв.-словен.-русск. изоглосса указы­ вает на его возм. древний характер.</note>
+</Entry>

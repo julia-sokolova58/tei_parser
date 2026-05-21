@@ -1,0 +1,101 @@
+<Entry xml:id="budbnbjb">
+  <pb n="77" end_page="78" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>budbnb(jb)</orth>
+    <lemma>budbnb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>буден</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодрствующий, бессонный, смышленый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>буден</ref> .;</orth>
+      </form>
+      <sense>
+        <def>бодрствующий, бдительный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>будан</ref>, -дна, -дню</orth>
+      </form>
+      <sense>
+        <def>бодрствующий, vigil</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>buden</ref>, -dna, прилаг.</orth>
+      </form>
+      <sense>
+        <def>бодрствующий, бдительный, жи­ вой, веселый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>budny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>будничный из</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>будний</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>будничный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тим­ ченко I, 148)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>будний</ref>, -а, -е</orth>
+      </form>
+      <sense>
+        <def>будничный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 106)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>будны</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>будни</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>будничный, непраздничный, также в роли антропонима —</def>
+      </sense>
+    </item>
+  </etym>
+  <note>Будны, блр. Будны (Б1рыла. Беларуская антрапашм1я 2. Мшск, 1969, 64). — Сюда же суб­ стантивированное русск. будни pi. tant. 'не праздничный, рабочий день', ст.-укр. буденъ м. р. то же (Тимченко I, 147), объясняемые обычно как свертывание первоначального слово­ сочетания *будънъ дънъ.</note>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ыг- от основы bud- (см.<ref type="etymon" target="buditi">*buditi)</ref>.</gram>
+  </gramGrp>
+</Entry>

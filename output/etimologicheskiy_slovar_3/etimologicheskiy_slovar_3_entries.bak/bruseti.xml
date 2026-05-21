@@ -1,0 +1,29 @@
+<Entry xml:id="bruseti">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bruseti</orth>
+    <lemma>bruseti</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>брусётъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>твердеть, терпнуть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск. Даль 3 I, 323; Филин 3, 205)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл., производный с суфф.<m type="suffix">
+        <ref>-ей</ref>
+      </m> 
+от основы bras- (см. 
+<ref type="etymon" target="brusb">*brusb)</ref>.</gram>
+  </gramGrp>
+</Entry>

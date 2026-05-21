@@ -1,0 +1,34 @@
+<Entry xml:id="egtsgp">
+  <pb n="48" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬегЦгьпъ(]'ь)</orth>
+    <lemma>ЬегЦгьпъ(]'ь)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёстужан</ref>, -жна, -жно</orth>
+      </form>
+      <sense>
+        <def>беззаботный, беспечный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 253; РСА I, 518)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>beztouzny</ref>, прилаг.</orth>
+      </form>
+      <sense>
+        <def>не испытывающий тоски, стремления</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Префиксально-суффиксальное образование с помощью<ref type="etymon" target="bez-107">*bez</ref> 
+(см.) и суфф. -ъп- от основы имени <ref type="etymon" target="tgga">*tgga</ref> (см.), вероятно, на базе 
+словосочетания <ref type="etymon" target="bez-108">*bez</ref> togy.</gram>
+  </gramGrp>
+  <note>Возраст неясен.</note>
+</Entry>

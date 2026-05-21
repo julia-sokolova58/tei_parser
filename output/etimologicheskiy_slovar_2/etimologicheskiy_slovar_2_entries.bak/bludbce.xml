@@ -1,0 +1,73 @@
+<Entry xml:id="bludbce">
+  <pb n="135" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'udbce</orth>
+    <lemma>bl'udbce</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bl'udbCb</orth>
+    <lemma>bl'udbCb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>блюдце</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>блюдечко, блюдце</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>утце ср. р., блюдце, блуце ср. р. блюдо, широкая пло­ ская глиняная миска (Архив Болг. диал. словаря, София), блюдец м. р. блюдо, поминальная кутья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров—Панчев)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>бл</ref>&gt;уце ср. р., ум. от бл&gt;удо , блуце</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(РСА I, 665)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(вост. Сер­ бия, И. Поповип «Наш je3HK» II, 1951, 206)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ЬШсо</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>столик, скамья , русск, блюдце ср. р. не­ большая тарелочка с плоскими или приподнятыми краями, на ко­ торую ставится чайная чашка или. стакан</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka SI. I, 51—52)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>блюдце</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>блюдце</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр.-рос. словн. I, 75)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф. -ъсе/-ъсь от<ref type="etymon" target="bVudo-4">*bVudo</ref> /<ref type="etymon" target="y-3">*Ы</ref>'и6ъ (см. выше).</gram>
+  </gramGrp>
+</Entry>

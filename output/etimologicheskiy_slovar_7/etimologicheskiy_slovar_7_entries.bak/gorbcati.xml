@@ -1,0 +1,71 @@
+<Entry xml:id="gorbcati">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gorbcati</orth>
+    <lemma>gorbcati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гдрчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться горьким, горчить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 500; RJA III, 278: с XVI по XVIII в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gefcauc</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гор­ чить, делаться горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 290)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горчить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>становиться горьким, горкнуть</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ггрчати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>делаться более горьким</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 286)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гарчэцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горкнуть</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. состояния на<m type="suffix">
+        <ref>-eti</ref>
+      </m>, 
+производный от прилаг. <ref type="etymon" target="gorbkb-5">*gorbkb</ref> 
+(см).</gram>
+  </gramGrp>
+</Entry>

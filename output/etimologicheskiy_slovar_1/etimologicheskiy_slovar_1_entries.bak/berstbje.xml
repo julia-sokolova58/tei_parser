@@ -1,0 +1,50 @@
+<Entry xml:id="berstbje">
+  <pb n="199" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>berstbje</orth>
+    <lemma>berstbje</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>брёстъе</ref> ср. р. собир.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>брёшИе</ref> ср. р. собир. , брщешКе ср. р. собир.</orth>
+      </form>
+      <sense>
+        <def>вязы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА II, 154)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brestje</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>вязовый лес , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>Берестие</ref>, Берестъе, город на Волыни .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 70)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Собир. производное с суфф. -ъ)е от<ref type="etymon" target="bersfo-2">*bersfo</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

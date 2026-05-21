@@ -1,0 +1,27 @@
+<Entry xml:id="cerdja">
+  <pb n="63" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cerdja</orth>
+    <lemma>cerdja</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>ceja</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>чистка , ceja ж. p. чистота, опрятность</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Erjavec LMS 1879, 135)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. от<ref type="etymon" target="cerda">*cerda</ref> (см.), соотносительное с гл. 
+на -Ш <ref type="etymon" target="cerditi">*cerditi</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

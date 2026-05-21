@@ -1,0 +1,263 @@
+<Entry xml:id="besb">
+  <pb n="88" end_page="91" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>besb</orth>
+    <lemma>besb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>ъксъ</ref> м. p. 8ocip.6viov, Satpov, daemonium, daemon,</orth>
+      </form>
+      <sense>
+        <def>бес, злой дух, демон</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бяс</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>дикая ярость; злоба; смер­ тельное заболевание животных, обыкновенно — собак; злой дух, бес , бес м. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров; БТР; Георгиев)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Младенов БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бешенство (у животных), ярость, злоба</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Шапка- рев—Близнев БД III, 202)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бешенство, ярость, злоба, бешенство (болезнь), бес, черт</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бщес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бешенство, rabies, буйный нрав, шалость, юный возраст, бес, бис то же</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бщест</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>буйство, insolentia</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>бес</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>демон, нечистый, дьявол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bes</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>злой дух</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 21)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>besM</ref>. р.</orth>
+      </form>
+      <sense>
+        <def>злой дух, черт, бес, о буйстве стихий, о душевном исступлении</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>bes</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>злой дух, бес , бешенство, ярость</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. стар, <ref>bes</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бес, де­ мон, дьявол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 31)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>hies</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>злой дух; дьявол, бес, черт</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 514)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>бЪсъ</ref> daemon, diabolus, Ъаишч</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Остр. ев. и др., Срезневский I, 222)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бес</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>в христиан­ ских религиозных представлениях — дух тьмы, мрака, соблаз­ няющий человека или причиняющий ему зло</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>бЪсъ</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>черт, дьявол, злой дух , бесъ то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Тимченко I, 173)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Тим­ ченко I, 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. 6ic м. р.</orth>
+      </form>
+      <sense>
+        <def>бес, дьявол</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 69)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Праслав. *6&amp;ъ родственно лит. baisus 'страшный, ужасный', а поскольку -s- после явно дифтонгического по происхождению -ё- (&lt;^oi) здесь сохранилось, не перейдя в х, логично объяснять *besb и baisus из *boid-s-, родственного лат. foedus 'гадкий, отвра­ тительный, отталкивающий'. См. Н. Pedersen. Das indogermani- sche s im Slawischen. — IF V, 1895, 41; Berneker I, 56; Преобра­ женский I, 60; Walde-Hofm. I, 522; П. К. Булат JO IV, 1924, 104—105; Fraenkel I, 29; Фасмер I, 160; Sadnik—Aitzetmuller. Vgl. Wb. 4, 298.</note>
+  <gramGrp>
+    <gram>Признаваемое большинством авторов (в более или менее четко выраженной форме) дальнейшее родство<ref type="etymon" target="t-2">*Ьт</ref>&gt; с лит. 
+baidyti 
+'пугать' и далее — с праслав. <ref type="etymon" target="bojati">*bojati</ref> se означает совершенно 
+закономерно, что *&amp;m&gt; &lt; <ref type="etymon" target="bed-s-">*bed-s-</ref> родственно также праслав. 
+<ref type="etymon" target="beda">*beda</ref> (см.), с которым его объединяет общая исходная глагол ьно-
+именная основа и.-е. <ref type="etymon" target="bheidh-">*bheidh-</ref> : <ref type="etymon" target="bhoidh-">*bhoidh-</ref>.</gram>
+  </gramGrp>
+  <note>Единство праязыковой основы *bheidh- 'принуждать' позволяет отождествить этимоло­ гически обычно разграничиваемые лат. имя foedus ср. р. 'союз, договор' и прилаг. foedus, -а, -ига 'гадкий, отвратительный' (см. Walde—Hofm. s. vv.), поскольку с признанием общности празна- чения 'принуждение, страх, пугать' снимается главное семант. препятствие. Дополнительную семант. аргументацию см. на *beda (выше). Есть мнение, что форма польск. bies заим. из вост.-слав. См. Bruckner, 26; Slawski I, 33. Точнее будет сказать, что польск. bies испытало влияние из указ. источника, так как ожидалось бы исконнопольск. *bias, ср. местн. н. Biasowice. Впрочем, здесь могло сказаться и обыкновенное выравнивание форм внутри языка, ср. bies: biesic siq. См. Н. Utaszyn MPKJ V, 1912, 297 и след.; Berneker, там же. Полаб. boze 'злой' заим. из нем. и сюда не относится, вопреки Бернекеру (см. Berneker, там же, где дано bas 'Zorn'). См. Lehr- Sptawinski, Polanski. Stownik etymologiczny j^zyka Drzewian potabskich 1, 48. Ряд ученых по различным мотивам не принимают этимологию *6&amp;ъ &lt;^ *boid-s-. Напр., Махек полагал, что в таком случае мы имели бы ds &gt; ts &gt; с (см. V. Machek «Slavia» 23,1954, 65). Однако упрощение ds &gt; s слишком хорошо прослеживается в слав, исто­ рической фонетике древней поры, чтобы пытаться его опроверг­ нуть,<xr type="compare">ср. <ref type="etymon" target="ga">*га$ъ</ref>
+    </xr>, русск. русый &lt;С *roud-s- и др. Собственная ори­
+гинальная этимология Махека — *Ьт&gt; к др.-инд. pisaca- 'демон' 
+(Machek 30) невероятна. 
+Довольно стойко, видимо, держится наряду с этим мысль 
+о недифтонгическом происхождении этого е, которая послужила 
+основой для нескольких весьма различных этимологии слова 
+*besb. Г. А. Ильинский (РФВ LXV, 1911, 212 и след.; см. еще 
+О. Н. Трубачев. Этимологический словарь славянских языков 
+Г. А. Ильинского. — ВЯ 1957, № 6, 93—94), опираясь на знач. 
+'гнев, ярость' (ср. сербохорв., выше), а также на русск.-цслав. 
+босъ 'бес', реконструирует здесь корень *bes-l*bos- 'быстро дви­
+гаться', родственный нем. bisen 'бегать (о скотине, преследуемой 
+оводами)'. Однако при этом остается вообще без объяснения дол­
+гота гласного в *Ь&amp;ъ. Что касается особой формы босъ, тожде­
+ственной бЪсъ по значению (сюда же словен. диал. bos
+ сбес', см. 
+Bezlaj. Eseji о sloven, jez. 138; Bezlaj. Etim. slovar, рукоп.), то 
+она скорее всего перестроена из бЪсъ по мотивам табу, как это 
+имеет место, напр., в понятийно близком франц. diantre &lt;С diable 
+(в кач-ве ругательства). Укр. босорка 'колдунья', чеш. диал. 
+bosorovaV 'чародействовать', привлекаемые Ильинским, вообще 
+сюда не относится и заим. из венг. boszorkdny 'колдунья, ведьма', 
+тур. происхождения (см. J. Polivka RES II, 1922, 264—265; 
+J. Reychman JP XXXI, 1951, 208). M. Будимир (JO VI, 1926¬ 
+1927, 166—169) сближает *besb с др.-инд. bhas- 'дышать, дуть', 
+объясняя слав. знач. 'violentia, 
+rabies, 
+insolentia, 
+superbia' 
+аналогией лат. spiritus 'дух; дыхание', нем. Geist 'дух' — при 
+англ. aghast 'злой, возбужденный'. Более тесную связь Будимир 
+устанавливает между слав. *besb (*bes-), лат. feralia 'праздник 
+поминовения мертвых' « 
+*bhes-ali-, 
+но см. Walde—Hofm. I, 
+480) и греч. фо^т) 'дуновение, дыхание, душа' (*bhs-). Попытка 
+Будимира установить слав.-лат.-греч. изоглоссу любопытна, но 
+едва ли убедительна. Мошинский сближает слав. *6&amp;ъ с др.-инд. 
+bhasd- 'свет, блеск', предполагая, что и слав, слово имело перво-
+нач. знач. 'свет, блеск', ср. польск. диал. swiatlo 'страшный ноч­
+ной призрак', греч. 
+cpaviaajjia 'видение, 
+привидение', 'дух' — 
+cpatvco 'светить' (см. К. Moszynski JP XXXIII, 1953, 366; против — 
+см. F. Slawski JP XXXIII, 1953, 399; см. еще Moszynski. Pier-
+wotny zasi^g 191). Но в семантическом отношении, как, впрочем, 
+и в формально-фонетическом, 
+следует, 
+по-видимому, 
+отдать 
+предпочтение сближению праслав. *besb с лит. baisus и лат. foedus 
+(см. выше). 
+Прочая литер, о слав. *Ь&amp;ъ: Miklosich 12 (уже содержит сбли­
+жение с лит. baisus, baisa); Е. W. Fay AJPh XXVI, 1905, 399 
+(оригинальное сравнение *Ь&amp;ъ с др.-инд. bhisriaj-, bhisdj- 'исце-
+лять', в кот. автор выделяет корень bhis-, относя последнее к др.-
+инд. bhdyate, bhisdyate
+ 
+сбоится, страшится', тогда как aj- он осмы­
+сливает как djati 'гонит', откуда этимол. значение bhis-dj- 'изго­
+нять бесов': ст.-слав, ъксъ; см. о bhisdj- еще Mayrhofer II, 502— 
+503, без упоминания данной этимологии); Meillet. Etudes II, 234 
+(относит ст.-слав. ь
+г1съ к числу изолированных имен с основой 
+на -о-); Vondrak. Vgl. slav. Gramm. I, 352, 473 (наряду с лат. foe-
+dus и лит. baisus приводит в числе возможных соответствий также 
+лат. bestia 'зверь, животное', но эти сравнения взаимно исключают 
+друг друга, поскольку bestia &lt;С <xr type="compare">ср. <ref type="etymon" target="dhues-">*dhues-</ref>
+    </xr> слав, *duxъ, 
+*dusa, 
+см. Walde—Hofm. I, 102; см. также специально критику назван­
+ного сближения слав, и лат. слов у Преображенского: М. О. Ко-
+ген ИОРЯС XVII, 1912, 401).</note>
+</Entry>

@@ -1,0 +1,128 @@
+<Entry xml:id="gomolbka">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomolbka</orth>
+    <lemma>gomolbka</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gomolbka</orth>
+    <lemma>gomolbka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>homolka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>небольшой сыр кониче­ ской формы, что-либо конусообразное</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>homoVka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>кусок сыра</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJI, 503)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>homlka</ref>, homulka, homjalka, ho- mjolka ж. p.</orth>
+      </form>
+      <sense>
+        <def>кочка, комок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 212)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>gomolka</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>кусок, ком шарообразной или овальной формы, деревенский сыр округлой формы, стеклянный шарик</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1226)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>g</ref>&amp;gmoulka ж. р.</orth>
+      </form>
+      <sense>
+        <def>творог</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 314)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. диал, <ref>гомблъка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>соска для младенца , гомулъка, гомылька ж. р. большой платок, пода­ ренный невесте женихом в день свадьбы</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Фи­ лин 6, 354)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(арх., Филин 6, 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>гомглка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>голень</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 307)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>homiuka</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кость голени , также гомйлка ж. р. лодыжка у ноги , далее — гомйлка межа в виде кучи камней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dejna. Tarnopolszczyzna 123)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бьчецький-Носенко 102)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. I. Феденець. Особливост1 пшрки села Малий Раковець 1ршавського округу. Дип. роб. Ужгород, 1952, 82)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>гамёлка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>краюха, кусок</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Дастау гам&gt;6лку сыру и зйёу. Сцяшков1ч, Грод. 110; Народнае слова 197)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> 
+(<m type="suffix">
+        <ref>-ъка</ref>
+      </m>) от <ref type="etymon" target="gomola">*gomola</ref> 
+(см.).</gram>
+  </gramGrp>
+</Entry>

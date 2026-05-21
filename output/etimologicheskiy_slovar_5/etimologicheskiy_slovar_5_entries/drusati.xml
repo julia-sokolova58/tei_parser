@@ -1,0 +1,67 @@
+<Entry xml:id="drusati">
+  <pb n="133" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*drusati</orth>
+    <lemma>drusati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>друсамь</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трясти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>друсам</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>падать с раз­ маху, бить, ударять , друсам подкиды­ вать, подбрасывать, дросам грясти (напр. ветки, чтобы сбить плод) , друсам съ падать, сильно ударив­ шись, бить, ударять, качать, раскачивать , друсъм качать, трясти</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 77)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Стоиков. Банат. 72)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Д. Евстатиева. С. Тръстеник, Плевенско.— БД VI, 168)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Т. Бояджиев. Гюмюрджинско. — БД VI, 24)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>друса</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>трясти, качать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>drusati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бежать рысью</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVII в., RJA II, 809)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Экспрессивное образование. См. Berneker I, 231 («Dunkel»); Георгиев ВЕР VI, 434 (о звукоподражательности и дальнейшей связи с треса 'трясти'); Skok. Etim. rjecn. I, 447 (экспрессивное, основанное на trusati&lt;^*trgs-). Праслав. древность скорее пробле­ матична. Махек, однако, считает возможным говорить об особом праслав. *drusati 'разбивать'= греч. frpaoco (*thrauso), см. Ma­ chek 2 130.</note>
+</Entry>

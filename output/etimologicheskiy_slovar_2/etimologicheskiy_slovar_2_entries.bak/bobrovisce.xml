@@ -1,0 +1,46 @@
+<Entry xml:id="bobrovisce">
+  <pb n="144" end_page="145" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bobrovisce</orth>
+    <lemma>bobrovisce</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">чеш. диал. <ref>bobrovisko</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болотистое место</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott Dod. k Bart. 5)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bobrowisko</ref> ср. p.</orth>
+      </form>
+      <sense>
+        <def>болотистый лес</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 583)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-isce</ref>
+      </m> (собир.) от прилаг. <ref type="etymon" target="bobrovb-2">*bobrovb</ref> (см.). 
+^bobrovb(jb): болг. бобров, прилаг. 'бобровый' (БТР), сербохорв. 
+bobrov, прилаг. 'fibrinus, бобровый' (только в словаре Стулли, 
+RJA I, 466), словен. bobrov, прилаг. 'бобровый' (Plet. I, 37), ст.-
+чеш. bobrovy, прилаг. 'бобровый' (Gebauer I, 73; Ст.-чеш., Прага),
+чеш. bobrovy то же, сюда же из ономастики — слвц. диал.</gram>
+  </gramGrp>
+  <note>Buobrou (Habovstiak Orav. 70), Buobrovo (там же, 232), далее — ст.-слвц. Bobrovd (Poet. Kn., Blanar. Hist, lexikol. 167); польск. bobrowy 'бобровый' (Dorosz. I, 583—584), сюда же Bobrowo, озеро в басе Вислы («Hydronimia Wisly» I, 270), др.-русск., русск.-цслав. бобровый castoris (Феод. Печ. Отв. Из. 216), castoreus, castorinus (Ип. л. под 1241 г.); Аперевозъи р'Ьки бобровые а то по давнои пошлине (Жал. гр. Сп. Яр. мон. до 1345 г.), бобровое 'обязанность ловить бобров, venatio castorum' (Жал. гр. Тверск. кн. 1437 — 1461 г.) (Срезневский I, 124—125), русск. бобровый, -ая, -ое 'полученный от бобра; сделанный из меха бобра', ст.-укр. боб­ ровый 'бобровый' (ЮРГр. № 84— 1451 г. и др., Тимченко I, 108), укр. бобровый, -а, -е 'бобровый' (Гринченко I, 78), блр. бабрбвы 'бобровый'. Прилаг., производное от<xr type="compare">см. <ref type="etymon" target="og-3">*ЬоЬгъ</ref>
+    </xr>; суффиксальный исход 
+-ov- представляет собой, по всей видимости, развитие конечного 
+гласного основы на -ы- упомянутого имени.</note>
+</Entry>

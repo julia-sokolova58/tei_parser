@@ -1,0 +1,92 @@
+<Entry xml:id="bezocbirbjb">
+  <pb n="35" end_page="36" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezocbirb(jb)</orth>
+    <lemma>bezocbirb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>безбчный</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бесстыдный, бессовестный, наглый, нахальный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezocan</ref>, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>teme- rarius, arrogans, impudens , brezocan oculis carens, impudens</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., Микаля, Белла, Белостенац, Вольтиджи, Стулли, RJA I, 272)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA I, 636)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. (<ref>дубровн</ref>.) безбчан, -чна, -чно * безобразный</orth>
+      </form>
+      <sense>
+        <def>, (кос.-мет.) бездчан сдерзкий, наглый, бесстыдный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Ел. I)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>brezocen</ref>, -спа, прилаг.,</orth>
+      </form>
+      <sense>
+        <def>бесстыдный, распущенный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 58)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezoczny</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>безглазый, слепой, незрячий , русск-цслав. безочъныи атахтод</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 127)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гр. Наз. XI в., Срезневский I, 62)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>безбчный</ref> сбезокий, слепой, незрячий, темный</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль I, 170)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>adjective</pos>
+    <gram>Прилаг., производное с суфф. -ъп- от сложной адъективной ос­ новы<ref type="etymon" target="bezofo-2">*bezofo</ref> (см.).</gram>
+  </gramGrp>
+  <note>Не исключен, впрочем, и префиксально-суф­ фиксальный способ словообразования — с помощью<xr type="compare">см. <ref type="etymon" target="bez-">*bez-</ref>
+    </xr> 
+и -ъп- от основы <xr type="compare">см. <ref type="etymon" target="oko">*око</ref>
+    </xr>. Обращает на себя внимание разнообра­
+зие значений, сводимых к одному исходному:
+ сбезглазый, слепой', 
+'безобразный',
+ 
+сдерзкий, наглый, бесстыдный'.</note>
+</Entry>

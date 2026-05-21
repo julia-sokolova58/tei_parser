@@ -1,0 +1,42 @@
+<Entry xml:id="1kug">
+  <pb n="119" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьъ1кугь</orth>
+    <lemma>Ьъ1кугь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>балакиръ</ref> (А у . . . князь Ивана . . . дети: . . . Иванъ Балакиръ... XVI в., Картотека ДРС)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>балакиръ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>кувшин, кринка, горлан, горшок для молока , балакиръ м. р. глиняный муравленый горшок с узким горлом для молока (оренб., симб., каз., самар.), бадейка (астрах.), чугун (костр.) , балакер посуда для молока , балакиръ м. р. шутник, веселый рассказчик (калуж.), прозвище низкорослого человека, коротышки (вят.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(нижегор., каз., оренб., Д а л ь I, 104; Сл. II Отд. I, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(тамб., там же)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 70)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-угъ</ref>
+      </m> от основы гл. <ref type="etymon" target="1kai-2">*Ьъ1каИ</ref> (см.), ср. близ­
+кое <ref type="etymon" target="1kag">*Ьъ1кагъ</ref> (см.), с вариантным суфф. Ошибочно — Фасмер (I, 112), 
+предполагающий вост. происхождение.</gram>
+  </gramGrp>
+</Entry>

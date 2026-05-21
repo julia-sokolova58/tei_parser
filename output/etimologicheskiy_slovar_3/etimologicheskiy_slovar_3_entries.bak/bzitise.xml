@@ -1,0 +1,89 @@
+<entries>
+  <entry xml:id="bzitise" xml:id="bzitise">
+    <pb n="143" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъziti sę</orth>
+      <lemma>bbzovina</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="srp">сербохорв. <ref>bzovina</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>lignum sambuceum, древесина бузины , bazovina ж. р. то же , бдзовина ж. р. бузина Sambucus nigra , сюда же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(с XVI в., R J A I, 751)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(рукоп. XV в.: baxouina, R J A I, 214)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(РСА II, 27)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="srp" type="dialect">диал. (<ref>черног</ref>.) базговина</orth>
+        </form>
+        <sense>
+          <def>бузина Sambucus nigra , бдзговина ж. р. то же</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Ровинский 641)</bibl>
+        </cit>
+        <cit type="bibl">
+          <bibl>(хорв., РСА II, 26)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="slv">словен. <ref>bezgovina</ref> ж. р.</orth>
+        </form>
+        <sense>
+          <def>куст бузины, древесина бузины</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Plet. I, 24)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="ces">чеш. <ref>bezovina</ref>, bzovina ж. р.</orth>
+        </form>
+        <sense>
+          <def>что-либо из бузины</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Jungmann I, 111)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="hsb">в.-луж. <ref>bozowina</ref> ж. р .</orth>
+        </form>
+        <sense>
+          <def>бузина</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Pfuhl 43)</bibl>
+        </cit>
+      </item>
+      <item>
+        <form>
+          <orth xml:lang="pol" type="dialect">польск. диал. <ref>bzowina</ref> то же .</orth>
+        </form>
+        <cit type="bibl">
+          <bibl>(Warsz.)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-ina</ref>
+        </m> от прилаг. <ref type="etymon" target="bbzovb">*bbzovb</ref> 
+(см.).</gram>
+    </gramGrp>
+  </entry>
+</entries>

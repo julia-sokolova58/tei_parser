@@ -1,0 +1,94 @@
+<Entry xml:id="bylica">
+  <pb n="148" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bylica</orth>
+    <lemma>bylica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bllca</ref> ж. p. ум.</orth>
+      </form>
+      <sense>
+        <def>стебелек, травинка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>bylica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>артемизия, чернобыльник Artemisia vulga­ ris L</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 100)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bylica</ref> ж. p. то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 763)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>buVica</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>сорняк, бурьян , сло­ вин. bdleca ж. p . полынь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Olesch, S. Annaberg 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. I, 31, с реконструк­ цией праформы *bylica)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>былица</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>растение Leucant- hemum vulgare (Картотека ДРС)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>былица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>волшебница, колдунья</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(олон., Филин 3, 345)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="old">ст.-укр. <ref>билиця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>растение Artemisia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Укр. Госп. Пор. и др., Тим­ ченко I, 89)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>билиця</ref>.</orth>
+      </form>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="u1-2">*Ьу1ъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

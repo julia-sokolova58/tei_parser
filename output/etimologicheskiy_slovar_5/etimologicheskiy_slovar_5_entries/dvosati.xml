@@ -1,0 +1,55 @@
+<Entry xml:id="dvosati">
+  <pb n="171" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dvošati</orth>
+    <lemma>dvošati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>двошатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дышать сильно, скоро, как бы запы­ хавшись, частить дыша , двошатъ, двошёть тяжело, учащенно дышать , два- шётъ тяжело дышать (чаще о животных) , гвашатъ тяжело дышать , жадно пить воду во время внутреннего простудного жара . — Сюда же, с другой глаг. темой</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(твер., тамб., курск., Даль 3 I, 1019; Опыт 45)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(твер., курск., тамб., Краснодар., рост., ворон., пек., Филин 7, 303)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Материалы «Смолен­ ского словаря» 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(пек., Даль 3 I, 852)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>двошйтъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>пахнуть, вонять (особ, о тухлом) (ряз.), дышать болезненно или с уста­ лости (тамб.) , дурно пахнуть, вонять</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1050; Филин 7, 303; Деулинский сло­ варь 138)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмос­ ковья 104)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-Ш</ref>
+      </m>, соотносительный с <ref type="etymon" target="dvoxati">*dvoxati</ref> (см.), ср. особенно глаг-
+ную тему родственного лит. dveseti 'дышать'.</gram>
+  </gramGrp>
+</Entry>

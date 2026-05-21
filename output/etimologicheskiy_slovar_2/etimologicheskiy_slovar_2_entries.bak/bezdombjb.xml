@@ -1,0 +1,53 @@
+<Entry xml:id="bezdombjb">
+  <pb n="18" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezdomb(jb)</orth>
+    <lemma>bezdomb(jb)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>бёзддм</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>несчастный, злополучный дом; дом без главы семейства</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 401)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. редк. <ref>bezdomy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездомный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 60)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>bezdomy</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бездомный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Linde I, 96)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>См. ещё Miklosich. Vgl. Gr. II, 404.</note>
+  <gramGrp>
+    <gram>Сложное прилаг., образованное из<ref type="etymon" target="bez-20">*bez</ref> (см.; там же об архаич­
+ности типа подобных образований) и основы <ref type="etymon" target="domb">*domb</ref> (см. <ref type="etymon" target="domb-2">*domb)</ref>; 
+в отличие от <ref type="etymon" target="bezdomovbjb">*bezdomovbjb</ref> 
+(см.), здесь представлена, видимо, 
+основа им. п.</gram>
+  </gramGrp>
+  <note>В сербохорв. примере наблюдаем субстантивацию.</note>
+</Entry>

@@ -1,0 +1,46 @@
+<Entry xml:id="cislbnica">
+  <pb n="118" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cislbnica</orth>
+    <lemma>cislbnica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чйсаоница</ref>, чйсбница ж. р.</orth>
+      </form>
+      <sense>
+        <def>три нити вместе (при сновании), численка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>elsanica</ref> ж. р. то же , чесаница</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Срем, Лика, RJA II, 40)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Jar. 49)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чйсниця</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>три нитки или 1/10 пасма</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 464)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от прилаг. <ref type="etymon" target="ttg">*т/ьтгъ</ref> (см.), субстанти­
+вация последнего; впрочем, возможно образование от *6islo (см.) 
+со сложным суфф. -ътса.</gram>
+  </gramGrp>
+</Entry>

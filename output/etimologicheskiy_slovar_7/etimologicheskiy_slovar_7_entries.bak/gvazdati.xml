@@ -1,0 +1,86 @@
+<Entry xml:id="gvazdati">
+  <pb n="180" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gvazdati</orth>
+    <lemma>gvazdati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>гваждати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать, донимать болтовней</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА III, 217)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gvazdati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>болтать глупости</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 261)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. редк.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="dialect">диал. <ref>gwazdad</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>малевать, писать каракули, делать плохо, кое-как</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 948; Dorosz. II, 1383)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>гваздатъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>марать, пачкать , гваздатъ, гвбздатъ марать, безобразить, портить , гваздатъ пачкать, ма­ рать (курск., орл., тул., калуж., сарат., пенз., пек., олон., во­ лог., перм.), плохо выполнять какую-либо работу (орл., курск., калуж., пек.) , гвбздатъ пачкать, марать (олон., волог.), плохо выполнять какую-либо работу .—Ср. сюда же елвц. huazdif рубить, шинковать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(курск., Опыт 36)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 15)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 6, 156—157)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(олон., Фи­ лин 6, 159)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 194)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Родственно<xr type="compare">см. <ref type="etymon" target="gadb">*gadb</ref>
+    </xr> и <xr type="compare">см. <ref type="etymon" target="gyd">*gydъ</ref>
+    </xr>, причвхМ форма 
+*gvazdati 
+в условиях экспрессивного употребления сохранила и выделила 
+древнюю лабиальность начального задненебного, обычно утрачи­
+ваемую, и развила 
+геминацию -d-^&gt;-dd- 
+с последующей дисси­
+миляцией -zd-. См. А. А. Потебня РФВ III, 1880, 162; Преобр. I, 
+121; Фасмер I, 398; Stawski I, 383—384; Bezlaj I, 188; J. Mihal 
+«Slov. rec» 29, 1964, 22.</note>
+</Entry>

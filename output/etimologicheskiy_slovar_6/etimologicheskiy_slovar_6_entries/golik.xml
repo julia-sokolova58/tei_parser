@@ -1,0 +1,89 @@
+<Entry xml:id="golik">
+  <pb n="206" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*golikъ</orth>
+    <lemma>golikъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Golik</ref> м. р., местн. название , Голик, фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA III, 254)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 435)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>Holik</ref> м. р., фам.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Gebauer I, 453)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>holik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>голый, лысый человек , др.-</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 718)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>Голикъ</ref>, личное имя собств.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(1696 г., Тупиков 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>голик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>веник (волог., арх., новг., моек., пенз., тул.. симб., перм., новосиб., вят., пек., смол., костр.), неимущий че­ ловек, бедняк, оборванец (самар., твер.) , голик истрепанная метла , голик м. р. стриженая овечья шкура</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 6, 293)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Подвысоцкий 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Подмосковья 87)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>голик</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бедняк, голыш</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 300)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>Гбл1к</ref>, личное имя собств. .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Б1рыла 113)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-1къ</ref>
+      </m> от прилаг. <ref type="etymon" target="goH-2">*goH</ref> (см.).</gram>
+  </gramGrp>
+  <note>Ср. * golica (см.).</note>
+</Entry>

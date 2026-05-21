@@ -1,0 +1,50 @@
+<Entry xml:id="sek1">
+  <pb n="37" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>сек1ъ</orth>
+    <lemma>сек1ъ</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ь</orth>
+    <lemma>ь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cekelj</ref>, род. п. -klja, м. р.</orth>
+      </form>
+      <sense>
+        <def>К Л Ы К</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">укр. диал. <ref>чокал</ref> вэлйки</orth>
+      </form>
+      <sense>
+        <def>дубонос Coccothrausles coccothraustes L. .—Ср. производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В. Никончук. Полесские названия птиц. — «Лексика По­ лесья» 467)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>чеклуха</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>обрубок бревна, насаженный на рукоять; употребляется в качестве молота (курск., Картотека Словаря русских народных говоров)</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, производное с суфф. -Z- от основы гл.<ref type="etymon" target="cekati-3">*cekati</ref> II 
+(см.), точнее —до его -а-тематизации (подробности см. под 
+<ref type="etymon" target="cekatil">*cekatil</ref>, 
+^ Hakati I, II).</gram>
+  </gramGrp>
+</Entry>

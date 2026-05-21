@@ -1,0 +1,29 @@
+<Entry xml:id="ajina">
+  <pb n="61" end_page="62" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ajina</orth>
+    <lemma>ajina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>jajina</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>яичная скорлупа , также в топонимии</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Mas. 434)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA IV, 422)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ina</ref>
+      </m> от <ref type="etymon" target="aje">*aje</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

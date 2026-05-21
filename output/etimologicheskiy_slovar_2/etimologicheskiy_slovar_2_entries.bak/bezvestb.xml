@@ -1,0 +1,25 @@
+<Entry xml:id="bezvestb">
+  <pb n="51" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bezvestb</orth>
+    <lemma>bezvestb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">сербохорв. диал. <ref>безе</ref>]ест, -а, -о</orth>
+      </form>
+      <sense>
+        <def>безумный, помешан­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА I, 392)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложное прилаг. архаич. типа, образованное из<ref type="etymon" target="bez-118">*bez</ref> (см.; 
+там же и относительно этого словообразовательного типа) и 
+именной основы <ref type="etymon" target="vestb">*vestb</ref> (см. <ref type="etymon" target="vestb-2">*vestb)</ref>.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,80 @@
+<Entry xml:id="ys">
+  <pb n="94" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ысь</orth>
+    <lemma>Ысь</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бич, кожаная плеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>бич</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>коса (из женских волос) , сбич, плеть</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 242; Гълъбов БД II, 70)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 40)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>бич</ref> м. р. сбич, кнут*</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>Ыс</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бич , произвольная мера длины, словен Ыс м. р. сбич</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 281)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(в народной .песне, Вла^инац, II, 158)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 25)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>Ыс</ref> м. р.</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>Ыс</ref> м. р. сбич, ременная или веревочная плеть, которой погоняют скотину</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 91)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Ыс м. р. 'колотушка, било цепа' (Pfuhl 17), н.-луж. Ыс (редк., Muka), польск. bicz м. р. 'бич, плеть' (Dorosz. I, 486), словин. bjic м. р. 'било молотильного цепа' (Lorentz Slovinz. \УЬ.Л, 39), др.-русск., русск.-цслав. бичъ flagellum, [xdoxiS (Срезневский I, 90), русск. бич м. р. 'длинная плеть из мелко свитых ремней или веревок; кнут', ст.-укр. бичъ м. р. 'кнут' (Тимченко I, 94), укр. бич м. р. 'палка', 'било, короткая часть цепа, которою молотят', 'часть сукновального песта, при помощи которой он поднимается' (Гринченко I, 59; Картотека Украинского академи­ ческого словаря), 'било у цепа' (Л. Т. Выгонная. Полесская земле­ дельческая терминология. — «Лексика Полесья». М., 1968, 93), блр. 61ч м. р. 'било цепа'.</note>
+  <gramGrp>
+    <gram>Название орудия, производное с суфф.<m type="suffix">
+        <ref>-съ</ref>
+      </m> от основы гл. <ref type="etymon" target="biti">*biti</ref> 
+(см.), См.</gram>
+  </gramGrp>
+  <note>Meillet. Etudes II, 352; Berneker I, 56; Vondrak. Vgl. slav. Gramm. I, 457; Мейе. Общеслав. язык 292; Ж. Ж. Варбот. Древнерусское именное словообразование. М., 1969, 78, 123; Sadnik—Aitzetmuller. Vgl. Wb. 5, 315.</note>
+</Entry>

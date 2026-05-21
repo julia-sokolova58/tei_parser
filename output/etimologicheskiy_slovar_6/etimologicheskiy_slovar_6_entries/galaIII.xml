@@ -1,0 +1,57 @@
+<Entry xml:id="galaIII">
+  <pb n="95" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gal’a III</orth>
+    <lemma>gal’a III</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gaja</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>черная овца , гйл&gt;а, г&amp;ъа ж. и м. р. животное черной масти (овца, свинья, вол, собака), темноволосая, смуглая женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 180)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>гйла</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>черная овца (Елез. I)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>валя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кн. Енохова 77. XV в. ~ XIII в., СлРЯ XI—XVII вв. 4, 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>галя</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>галка Corvus monedula</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 840; Филин 6, 124)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф. -/- от прилаг.<ref type="etymon" target="gaH-2">*gaH</ref> II (см.).</gram>
+  </gramGrp>
+</Entry>

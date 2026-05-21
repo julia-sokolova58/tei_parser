@@ -1,0 +1,165 @@
+<Entry xml:id="gore">
+  <pb n="39" end_page="40" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>gor'e</orth>
+    <lemma>gor'e</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>горю</ref>, го^е, междом. и сущ. ср. р. оба:, т] оШ, vae, heu</orth>
+      </form>
+      <sense>
+        <def>горе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Супр., Mikl., Sad., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. поэт, <ref>hofe</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>пе­ чаль, скорбь, также</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>hor</ref> м. и ж. p.</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Bartos. Slov. 101)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="hsb">в.-луж. <ref>horjo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>печаль, тревога</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Pfuhl 214—215)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>gore</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горе, печаль, грусть, досада, гнев , сюда же got м. р. досада, гнев</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 298)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 296)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар. <ref>gorze</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>несчастье, горе</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 879; St. stpol. II, 462— 463)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gof</ref> м. р. то же , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. W b . I, 287)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>горе</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>горе, скорбь (Церк. Уст. Влад. по Син. сп.; Сл. Дан. Зат.), горе, междом</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мф. XXIII. 29. Остр, ев.; Пат. Син. XI в. 267)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 554)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>горе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>печаль, скорбь, беда, несчастье, ср</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>горъ</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>горечь (Карто­ тека Печорского областного словаря), горъ ж. р. выжженное по­ жаром лесное пространство</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 7, 80)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>горе</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горе, печаль, горесть, горе, несчастье</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 311)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>гора</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>горе</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Расширение основы на -i-<ref type="etymon" target="gorb">*gorb</ref>, 
+слабо засвидетельствованной 
+самостоятельно 
+(см. выше 
+формы русск. 
+диал. 
+горъ 
+и 
+т. 
+п., 
+ср. также производное *#огьА;ъ, см.); тип расширения 
+аналогичен 
+праслав. <ref type="etymon" target="tog">*тог</ref>'
+&gt;е 
+(см.) —и.-е. <ref type="etymon" target="mari">*mari</ref> 
+и, по-видимому, является от­
+носительно ранним, хотя соответствий <ref type="etymon" target="gor">*gor</ref>'e за пределами праслав. 
+мы не знаем. Родственно и соотносительно <ref type="etymon" target="goreti">*goreti</ref> 
+(см.). Родство 
+значений 
+'горе, 
+печаль' 
+и 
+'жечь, гореть, 
+печь' 
+элементарно. 
+См. Berneker I, 333; Фасмер I, 440; Stawski I, 322. Этимол. связь
+<ref type="etymon" target="gor-2">*gor</ref>'e и <ref type="etymon" target="zalb">*zalb</ref> 
+(см.) (см.</gram>
+  </gramGrp>
+  <note>S. Ondrus «Studia Slavica» VII, 1961, 191—192; Machek 2 177) невероятна.</note>
+</Entry>

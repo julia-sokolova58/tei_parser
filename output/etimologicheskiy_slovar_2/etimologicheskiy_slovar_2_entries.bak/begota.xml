@@ -1,0 +1,22 @@
+<Entry xml:id="begota">
+  <pb n="59" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>begota</orth>
+    <lemma>begota</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар, <ref>bjegota</ref> м. р., мужское личное собств.</orth>
+      </form>
+    </item>
+  </etym>
+  <note>имя (XIII в., только у Даничича, RJA I, 377), н.-луж. begota ж. р. 'понос' (Muka St. I, 25), укр. бггота ж. р. 'название кошки в сказке' (Гринченко I, 60).</note>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ota</ref>
+      </m> от глагольной основы <ref type="etymon" target="beg-">*beg-</ref> (см. 
+<ref type="etymon" target="begfi-2">*begfi</ref>, <ref type="etymon" target="begati">*begati)</ref>.</gram>
+  </gramGrp>
+  <note>В принципе от *begota могут считаться производ­ ными русск. беготня ж. р. 'частое и суетливое беганье взад й вперед; суета, суматоха; толкотня' (Даль 3 I, 371), возм., перво­ начальное прилаг. *begotbna ж. р., с суфф. -ъп-, ср. формально сюда же словен. begoten, -tna, прилаг. 'бегучий, стремительный' (Plet. I, 16), если последнее — не калька нем. fliichtig.</note>
+</Entry>

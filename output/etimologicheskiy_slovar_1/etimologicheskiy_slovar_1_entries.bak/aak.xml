@@ -1,0 +1,69 @@
+<Entry xml:id="aak">
+  <pb n="107" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ЬаЬакъ</orth>
+    <lemma>ЬаЬакъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>бибяк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>птица цапля Ardea cinerea, растение Verbascum thapsus, медвежье у х о</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров, Младенов — БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bdbjak</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>бабник, дикий шалфей Salvia silvestris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PJet. Г, 8)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>babdk</ref> м. р. (вульг.)</orth>
+      </form>
+      <sense>
+        <def>вошь, муж повитухи, страшилище, пожирающее детей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 195; в собств. именах с X I V в.; см. J. Soukup. Pffspevky a vyklady ke slovniku ceskemu. «Prograni rakovnicke realky» 1914, 16. Ст.-чеш. Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>babiak</ref> то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Kalal 10)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>бабьяп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>женатый раздевуля , бабъяк м. р. застенчивый женатый человек, люби­ тель ухаживать за женщинами</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Даль* I, 86)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Филин 2, 31)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Допустимость реконструкции праслав. формы *ЪаЪакъ (в том числе для случаев со смягчением fo' или bj, которое снимается при этом как вторичное) еще не дает полной уверенности в древ­ ности данного производного с суфф. -акъ от<xr type="compare">см. <ref type="etymon" target="baba-2">*baba</ref>
+    </xr>. Для ха­
+рактеристики значений этого производного в общем подходит то, 
+что сказано 
+относительно *baba.</note>
+</Entry>

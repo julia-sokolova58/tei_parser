@@ -1,0 +1,135 @@
+<Entry xml:id="domyslitise">
+  <pb n="74" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*domysliti (sę)</orth>
+    <lemma>domysliti (sę)</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="chu" type="old">ст.-слав. <ref>домъ1Глити</ref> (СА) xaxaXa^paveiv, credere</orth>
+      </form>
+      <sense>
+        <def>пред­ ставить себе, подумать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Зогр., Map., Ассем., SJS)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>домысла</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>раздумать, переменить мысль</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>домисли</ref> се</orth>
+      </form>
+      <sense>
+        <def>до­ думаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>domisliti</ref> (se)</orth>
+      </form>
+      <sense>
+        <def>додуматься, догадаться, сообразить</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA И, 624—625)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>domisliti</ref> (se) то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>domysliti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>додумать, продумать, domysliti se додуматься</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>domyslec</ref> si$ то же , др.-</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Dorosz. И, 247)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>домыслити</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>представить себе , вздумать, придумать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Изб. 1073 г. 229; Ио. екз. Бог. 32)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Георг. Ам. 112)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Срезневский I, 703)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>домыслить</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>придумать, выдумать, изобрести</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1162)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>домйслитися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>догадаться . — Сюда же производное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 419)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>домиииСар</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сообразительный человек</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гълъбов БД И, 76)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="s">*с</ref>?о (см.) и гл. <ref type="etymon" target="mysliti">*mysliti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

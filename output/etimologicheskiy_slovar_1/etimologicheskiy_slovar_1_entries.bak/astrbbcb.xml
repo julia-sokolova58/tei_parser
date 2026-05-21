@@ -1,0 +1,42 @@
+<Entry xml:id="astrbbcb">
+  <pb n="84" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>astr§bbcb</orth>
+    <lemma>astr§bbcb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>ястребец</ref> ум. от ястреб</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jastre</ref>- bac, род. -pea м. р., ум. от jastreb</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(RJA IV, 485)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>jestfdbec</ref>, род. н. -bee, м. р.</orth>
+      </form>
+      <sense>
+        <def>ястребок, ум. от jestrdb</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 624)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Ум. производное с суфф.<m type="suffix">
+        <ref>-ъсъ</ref>
+      </m> от <ref type="etymon" target="a8">*а8</ref>&amp;еЬъ/ъ 
+(см.).</gram>
+  </gramGrp>
+</Entry>

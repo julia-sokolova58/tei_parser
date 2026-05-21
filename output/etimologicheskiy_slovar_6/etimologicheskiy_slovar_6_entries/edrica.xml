@@ -1,0 +1,69 @@
+<Entry xml:id="edrica">
+  <pb n="65" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*ędrica</orth>
+    <lemma>ędrica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>jedpuua</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>болезнь кожи лица , ]ёзгрица ж. р. ядро, сердцевина , ]езгарица ж. р. ядро, сердцевина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 68о)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА VIII, 695—696)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>jedrica</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>долька ядра ореха, ядро миндального ореха</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 363)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>ядрица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>круп­ ная, из нераздробленных зерен крупа, преимущественно гречневая</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>ядрица</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>просушенный овес и одернутый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Васнецов 356)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ядрицы</ref> мн.</orth>
+      </form>
+      <sense>
+        <def>ядрышки конопляных семян, нарочито очищаемых для постного пирожного</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Носов. 726)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> от <ref type="etymon" target="edro-3">*edro</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

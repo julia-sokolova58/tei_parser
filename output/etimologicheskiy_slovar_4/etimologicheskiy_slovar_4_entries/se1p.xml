@@ -1,0 +1,164 @@
+<Entry xml:id="se1p">
+  <pb n="44" end_page="45" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>се1пъ</orth>
+    <lemma>се1пъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>член</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член , члан, члян м. р. сук</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>чл</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>ан м. р. древесный сук (Серско, Архив Волг. диал. сло­ варя, София)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>член</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член (часть тела и т. п.)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>члан</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>часть виноградника</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Вук; RJA: с ХШ в.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="dialect">диал. <ref>cjen</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>род</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Cres)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>clen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>сустав; член (тела); лодыжка, степень родства , возм., новое литер, слово</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. 1, 106)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(см. об этом J. Rotar JiS IV, 1958/1959)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="old">ст.-чеш. <ref>clen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(1497 г., Ст.-чеш., Прага)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>clen</ref>, род. п. -и, м. р.</orth>
+      </form>
+      <sense>
+        <def>член (тела и т. п.), clen, род. п. -а, м. р. *член (семьи, общества и т. п.)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>clen</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>член (общества), часть, сустав, член , также clan</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kalal 78)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb" type="old">стар. <ref>cton</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>член</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. 1, 128)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>czton</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>часть, сустав, член , сюда же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. I, 1144)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>челенб</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>три ряда нижних бревен сруба, звено бревен в плоту , целено плот (волж., Картотека Словаря русских народных говоров), чёлень из­ вестное количество паев в поле</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Словарь говоров Соликамского р-на Пермской обл. 675)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Мельниченко 213)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-пъ</ref>
+      </m> от древней глагольной основы и.-е. 
+<ref type="etymon" target="kel-">* kel-</ref> 
+с синкретическим 
+празначением 
+'колоть, бить; 
+подни-
+celo 
+мать(ся), возвышаться; расти', засвидетельствованной в слав, только 
+в именных производных (см. еще <ref type="etymon" target="seo-2">* се/о</ref>, <ref type="etymon" target="sy">* сьЫъ</ref>, <ref type="etymon" target="koleno">* koleno)</ref>.</gram>
+  </gramGrp>
+  <note>Род­ ственно греч. xcoXov 'член', xXcov 'побег, росток', xoXcovos 'холм', лит. kdlnas 'гора', кёШ 'поднимать'. Литература: A. Meillet MSL 12, 1901, 29 (о вариантах clan, clen в исторических слав, языках как результате диспалатализа- ции е^&gt;о перед I еще в праслав.) ; Он же MSL 13, 1905, 241; Он же MSL 14, 1907, 375; Meillet. Etudes IT, 454 (на основании производных ст.-слав. члЪгдкъ и ч/vtNOKANZ предполагает здесь -и- основу); Berneker I, 139; W. Osten-Sacken IF XXIV, 1909, 245 (сближает с лтш. ЦеЫа '(куриная) нога'); W. J. Doroszewski PF 15, 1931, 425—426 « и . - е . *kel-no-s 'что-либо выступающее'); Stawski I, 123; Фасмер IV, 369—370. Особняком стоит малоубе­ дительное сближение слав. * се1пъ с нем. Ge-lenk 'сустав', англ. link 'член'&lt;[герм. * hlenk-&lt;^ и.-е. *kleng-, с допущением мета­ тезы (Otr^bski. Studia indoeuropeistyczne 178; Machek 2 105).</note>
+</Entry>

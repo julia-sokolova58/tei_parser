@@ -1,0 +1,121 @@
+<Entry xml:id="doznati">
+  <pb n="89" end_page="90" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*doznati</orth>
+    <lemma>doznati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>дознаж</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>узнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Геров)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>дознав</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>узнать, до­ знаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>ддзнати</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>узнать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dozndti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>уз­ нать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 165)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>doznati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>признать, испытать</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>doz</ref>- naf</orth>
+      </form>
+      <sense>
+        <def>признать(ся), узнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 318—319)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">диал. <ref>doznatH</ref> sa</orth>
+      </form>
+      <sense>
+        <def>узнать, дознаться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 174)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. до­ <ref>знаться</ref>)</orth>
+      </form>
+      <sense>
+        <def>допытываться, узнавать, разузнавать, разведывать, до­ ведываться, разыскивать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1127)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>д1знати</ref>, дознати узнать, разузнать</orth>
+      </form>
+      <sense>
+        <def>, узнать, испытать, изведать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 390, 411)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>дазнацца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дознаться, узнать, разузнать</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="do-38">*do</ref> (см.) и <ref type="etymon" target="znati">*znati</ref> (см.).
+<ref type="etymon" target="dozorb">*dozorb</ref> 
+9&lt;)</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,49 @@
+<Entry xml:id="ceslikb">
+  <pb n="87" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceslikb</orth>
+    <lemma>ceslikb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>ceslika</orth>
+    <lemma>ceslika</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>чешлика</ref> ж. p.</orth>
+      </form>
+      <sense>
+        <def>растение Dipsacus silvestris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>чеииьгш</ref>, род. п. чеииъйка, м. р.</orth>
+      </form>
+      <sense>
+        <def>сорго, чёш- лика ж. р. растение ворсянка</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>cesljiga</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид чер­ тополоха , cesljika ж. р. растение Scandix pecten Veneris</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 100)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же, с пометой: «из сербохорв.»)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суф. -гкъ\-гка от<ref type="etymon" target="ceslb">*ceslb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

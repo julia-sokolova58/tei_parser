@@ -1,0 +1,125 @@
+<Entry xml:id="celesbnikb">
+  <pb n="38" end_page="39" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>celesbnikb</orth>
+    <lemma>celesbnikb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>celesnik</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>железная подставка для лучины на деревянной станине , также celesnik м. p. , celesnjak м. р. угловой столб печной ограды, подставка для лучины</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Plet. I, 97)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(там же)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv" type="dialect">диал. <ref>celesnik</ref>, calisnek то же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(R. Lozar. LJudska kurjava in razvetljava. — «Etnolog» XVII, 1944, 109)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="dialect">слвц. диал. <ref>celesnik</ref> м. p.</orth>
+      </form>
+      <sense>
+        <def>отверстие, через которое хлеб сажают в печь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Matejcik. Vychodonovohrad. 155)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">русск. диал. <ref>челеснйп</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>отверстие у печи, чело , челёсник, челйстник чело печки , чалёсник дугообразный раздел, отделяющий печь от загнета 9</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(смол., Опыт 255; Даль 3 IV, 1299)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Куликовский 132)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(П. А. Рас­ торгуев. Словарь народных говоров западной Брянщины 282)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чёлестник</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>устье кухонной печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 450)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>целёшник</ref>, чалёсник</orth>
+      </form>
+      <sense>
+        <def>устье печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. Д. Корень, М. С. Шушкевич. Полесская строительная терминология.— «Лексика Полесья» 158)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">блр. диал. <ref>чалёстк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>угол у печки, где ставится ухват , чалёсътк м. р. чело печи, устье печи, место в углу у печи, где стоят ухват, ко­ черга, сковородник.—Ср. еще</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Юрчанка. Мсщсл. 218)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Бялькев]'ч. Магш. 488)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>celi</ref>- stnik м. р.</orth>
+      </form>
+      <sense>
+        <def>отверстие, устье печи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Jungmann I, 272)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>По-видимому, ранняя контаминация первонач. производного с суфф,<m type="suffix">
+        <ref>-ъп4къ</ref>
+      </m> 
+от <ref type="etymon" target="ceVustb">*ceVustb</ref> (см.) с псевдоосновой на -es- *6eles
+(см. 
+<ref type="etymon" target="celo">*celo)</ref>.</gram>
+  </gramGrp>
+  <note>Может также рассматриваться как суффиксальная субстантивация нервонач. прилагательного<xr type="compare">см. <ref type="etymon" target="seshp">*сеШъпъ</ref>
+    </xr>. Ср. 
+Machek
+2 96—97 (с неприемлемыми для нас сложными этимоло­
+гическими ассоциациями); Bezlaj. Etim. slovar. Poskusni zvezek 
+12; Фасмер IV, 32b (прямолинейно возводит к -es- основе, не счи­
+таясь со связью с *cel
+7ustb).</note>
+</Entry>

@@ -1,0 +1,68 @@
+<Entry xml:id="cbrvojedb">
+  <pb n="170" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrvojedb</orth>
+    <lemma>cbrvojedb</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrvojedina</orth>
+    <lemma>cbrvojedina</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>чрвойадина</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>дерево, источенное червями (с. Попица, Врачанско, дип. раб., Архив Софийск. ун-та)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>црво</ref>]</orth>
+      </form>
+      <sense>
+        <def>адина ж. р. червоточина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Кон.; И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">диал. <ref>чарво</ref>]адина</orth>
+      </form>
+      <sense>
+        <def>червоточина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Петрушевски. Неколку црти на говорот од Жировница. — MJ И, 3—4, 1951, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>crudjedina</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>червоточина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA I, 855)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>drvojed</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>червоточина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 115)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="bgi-2">*бъгиъ</ref> (см.) и гл. <ref type="etymon" target="esti">*esti</ref>, <ref type="etymon" target="edmb">*edmb</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

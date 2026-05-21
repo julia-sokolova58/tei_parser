@@ -1,0 +1,51 @@
+<Entry xml:id="bykovica">
+  <pb n="147" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>bykovica</orth>
+    <lemma>bykovica</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="mac" type="dialect">макед. диал. <ref>биквйца</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>очень толстая женщина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бл. Рис- тоски. Зборови од Тиквешко.— MJ III, 1952, 46)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>bikovica</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бич из воловьей, бычьей кожи</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 26)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>bykooice</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>бычья кожа</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ica</ref>
+      </m> 
+(субстантивация) 
+от 
+прилаг. 
+<ref type="etymon" target="u-">*Ьу-</ref>
+коиъ (см.).</gram>
+  </gramGrp>
+</Entry>

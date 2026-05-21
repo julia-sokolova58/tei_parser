@@ -1,0 +1,69 @@
+<Entry xml:id="cbrnogolvb">
+  <pb n="154" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>cbrnogolvb</orth>
+    <lemma>cbrnogolvb</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>crnoglav</ref>, -gldua, прилаг.</orth>
+      </form>
+      <sense>
+        <def>черноголовый</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dernohlav</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>растение Seseli hippomarathrum</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>черно</ref>­ головый</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Даль 3 IV, 1318)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>чорноголбвий</ref>, -а, -е, прилаг., также название птицы Sylvia atricapilla</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Гринченко IV, 471)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>чарнагалбу</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel" type="dialect">диал. <ref>чырныгалоу</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>первая весенняя трава в болоте</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Бялькев1ч. Магш. 493)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение основ<ref type="etymon" target="sgp">*сьгпъ</ref> (см.) и <ref type="etymon" target="golua">*golua</ref> (см.); восходит к слово­
+сочетанию <ref type="etymon" target="sypaa">*сыпа(]а)</ref> golua, как и <ref type="etymon" target="yogpou1">*ёьгпоЬу1ъ</ref>—к 
+<ref type="etymon" target="cbrnaja">*cbrna(ja)</ref> 
+Ъу1ь, 
+<ref type="etymon" target="Cbrnoje">*Cbrno(je)</ref> bylbje.</gram>
+  </gramGrp>
+  <note>Универбация проведена не только словообразо­ вательно, но и семантически, поэтому образование может считаться старым.</note>
+</Entry>

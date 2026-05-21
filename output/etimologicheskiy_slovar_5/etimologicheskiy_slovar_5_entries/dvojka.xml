@@ -1,0 +1,166 @@
+<Entry xml:id="dvojka">
+  <pb n="192" end_page="193" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*d(ъ)vojьka</orth>
+    <lemma>d(ъ)vojьka</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>двойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двойняшка, пара (Дювернуа)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>двойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вид пряжи из скрученных трех нитей</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(М. Младенов БД III, 56)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>deoJKa</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двойка, пара (супружеская)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>dvojke</ref> ж. р. мн.</orth>
+      </form>
+      <sense>
+        <def>девочки-близ­ нецы , deojka ж. р. двухведерный бочонок, мера объема</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA II, 934)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Вла]инац И, 254—255)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>dvojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>два, двойка, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 189)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dvojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>число два, двойка, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott 1, 335)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces" type="dialect">диал. <ref>dvojka</ref> ж. p. ,</orth>
+      </form>
+      <sense>
+        <def>название золотой монеты , dvojky мн. близнецы, двойня</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Gregor. Slov. slavk.-bucov. 48)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Kott. Dod. k Bart. 20)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Sverak. Karlov. ИЗ)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dvojka</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>число два, пара, двойка</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SS J 1, 352)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>двойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>чета, пара</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 I, 1032)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="dialect">диал. <ref>двойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>вторичная вспышка (симб., твер., курск., тул., ку- бан.), лодка с бортами из двух досок (арх., КАССР)</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Филин 7, 291)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>детка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двойка в картах</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 362)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr" type="dialect">диал. <ref>dedjKU</ref>, нареч.</orth>
+      </form>
+      <sense>
+        <def>дважды , двуйка плот из двух секций</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Н. В, Никончук. Из лексики по- лесского села Листвин. «Лексика Полесья» 82)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(I. В. Саба дога. Лексика л1сосплава украшських го- вор1в району Карпат. «Мовознавство» 1974, № 3, 69)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>двойка</ref> ж. р.</orth>
+      </form>
+      <sense>
+        <def>двойка, двое</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-ъка</ref>
+      </m> от <ref type="etymon" target="dbvojb">*d(b)vojb</ref>, 
+<ref type="etymon" target="dbvoja">*d(b)voja</ref> 
+(см.); суб­
+стантивация.</gram>
+  </gramGrp>
+</Entry>

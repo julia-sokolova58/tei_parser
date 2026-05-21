@@ -1,0 +1,101 @@
+<Entry xml:id="dobytcerodp-ete">
+  <pb n="48" end_page="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobytъčę, род. п. -ęte</orth>
+    <lemma>dobytъčę, род. п. -ęte</lemma>
+  </form>
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>род. п. -gte</orth>
+    <lemma>род. п. -gte</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>добйче</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>скотина, домашнее жи­ вотное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(БТР)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">диал. <ref>добйче</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>животное , дубйчи ср. р. домашнее животное</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Божкова БД I, 246)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(С. Ковачев. Троянският говор.— БД IV, 199)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="mac">макед. <ref>добйче</ref> ср. р. тоже</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(И-С)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>добйче</ref>, род. п. -ета, ср. р.</orth>
+      </form>
+      <sense>
+        <def>новорожденный, домашнее животное, скотина</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(PGA IV, 386)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>dobytce</ref>, род. п. -te, ср. р.</orth>
+      </form>
+      <sense>
+        <def>голова домашнего скота</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>dobytca</ref>, род. п. -аč</orth>
+      </form>
+      <sense>
+        <def>а, ср. р. то же</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(SSJ I, 280)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol" type="old">польск. стар, <ref>dobytcz</ref>?, род. п. -$cia, ср. р.</orth>
+      </form>
+      <sense>
+        <def>домашнее живот­ ное, скотина , также</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Warsz. I, 478)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>dob</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>itcq, род. п. dobitcdca, ср. p</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz, Pomor. Wb. I, 143; см. специально W, Sqdzik. Staropolskie dobytczej. JP LVI, 1976, 47 и сл.)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>МоЬь диал. дубйчЧта 'скотина, домашний скот' (Г. Ф. Шило. Швденно- захщш говори УРСР на гившч в'щ Дшстра 244). Ум. производное (сингулятив) с суфф. от<xr type="compare">см. <ref type="etymon" target="1ou1k">*1оЬу1ъкъ</ref>
+    </xr>....</note>
+</Entry>

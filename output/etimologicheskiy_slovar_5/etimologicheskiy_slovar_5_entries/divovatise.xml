@@ -1,0 +1,85 @@
+<Entry xml:id="divovatise">
+  <pb n="34" end_page="35" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*divovati sę</orth>
+    <lemma>divovati sę</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul" type="dialect">болг. диал. <ref>дивбвам</ref> ^дичиться, стесняться</orth>
+      </form>
+      <sense>
+        <def>, шалить (о детях) , дивувъм буйствовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Стойчев БД II, 152)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(В. Кюв- лиева и К. Димчев. Речник на хасковския градски говор. — БД V, 66)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk" type="old">ст.-слвц. <ref>divovati</ref> se</orth>
+      </form>
+      <sense>
+        <def>удивляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Vazny. Stfedovek. list. 12)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>дивоватиш</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удивляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Мин. Пут. XI в. 130; Поуч. Влад. Мон., Срезневский I, 663)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>дивоваться</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дивиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Даль 3 1, 1080)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>дивувйтися</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>удивляться Гринченко I, 383)</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>d3ieaeduua</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дивиться, удивляться, изум­ ляться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Байкоу—Некраш. 94)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>verb</pos>
+    <gram>Гл. на<m type="suffix">
+        <ref>-ovati</ref>
+      </m>, производный от <ref type="etymon" target="schi">*сЧиъ</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

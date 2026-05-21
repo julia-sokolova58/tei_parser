@@ -1,0 +1,64 @@
+<Entry xml:id="egshp">
+  <pb n="49" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>Ьегшпъ</orth>
+    <lemma>Ьегшпъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>bezum</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>безумие , brezum м. р. то же , бёзум, -а, -о, прилаг. безум­ ный</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVI в., RJA I, 277)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(RJA)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА I, 423)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ru-cu">русск.-цслав. <ref>безбмъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>dementia</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XII в., Срезневский I, 64)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бёзум</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>беспокойный, шаловливый ребенок; непоседа</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(арх., Филин 2, 201)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бёзум</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>безумие</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 47)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="bez-113">*bez</ref> (см.) и <ref type="etymon" target="it">*итъ</ref> (см.), первоначально, возможно, 
+прилаг., ср. положение в сербохорв.</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,54 @@
+<Entry xml:id="gnojivo">
+  <pb n="178" end_page="179" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gnojivo</orth>
+    <lemma>gnojivo</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gnojwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>удобрение , гнЬ]- йво</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(RJA III, 216)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(РСА III, 385)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gnojwo</ref> ср. р.</orth>
+      </form>
+      <sense>
+        <def>удобрение, навоз</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Plet. I, 223)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hnojivo</ref>
+        </orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slk">слвц. <ref>hnojivo</ref> ср. p. то же .</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(SSJ I, 492)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Производное с суфф.<m type="suffix">
+        <ref>-iро</ref>
+      </m> 
+от гл. <ref type="etymon" target="gnojiti">*gnojiti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

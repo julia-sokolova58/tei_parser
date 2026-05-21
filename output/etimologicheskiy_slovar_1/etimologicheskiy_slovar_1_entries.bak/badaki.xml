@@ -1,0 +1,74 @@
+<Entry xml:id="badaki">
+  <pb n="119" end_page="120" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>badaki</orth>
+    <lemma>badaki</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>badak</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>большой чертополох Lappa maior</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 8; ср. еще Badak 'tribulus, Grope Distel',-1650 г., Schu- ster-Sewc, Sprachdenkm. 337)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>бо</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>дяп Cirsium</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>бо</ref>- дак</orth>
+      </form>
+      <sense>
+        <def>Cirsium palustre , бодяк чертополох</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 80)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(Гринченко I, 81)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>будяк</ref> м. р.</orth>
+      </form>
+      <sense>
+        <def>чертополох, волчец</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 106—107)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>бадзяк</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>Cirsium</def>
+      </sense>
+    </item>
+  </etym>
+  <gramGrp>
+    <pos>noun</pos>
+    <gram>Сущ., производное с суфф. -{а)къ от основы гл.<ref type="etymon" target="badati">*badati</ref> (см.). 
+Укр. форма будяк обнаруживает вторичное изменение корневого
+Ш 
+badati(se) 
+вокализма 
+и экспрессивное, неорганическое смягчение соглас­
+ного.</gram>
+  </gramGrp>
+</Entry>

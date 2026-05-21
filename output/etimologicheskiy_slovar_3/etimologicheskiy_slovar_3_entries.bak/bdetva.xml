@@ -1,0 +1,28 @@
+<entries>
+  <entry xml:id="bdetva" xml:id="bdetva">
+    <pb n="109" />
+    <form type="reconstructed" xml:lang="ocs">
+      <orth>*bъdĕtva?</orth>
+      <lemma>bbdetva</lemma>
+    </form>
+    <etym type="cognates">
+      <item>
+        <form>
+          <orth xml:lang="ces" type="old">ст.-чеш. <ref>bdetba</ref> ж. p.</orth>
+        </form>
+        <sense>
+          <def>excubia , bditvy мн. ч. ж. p. vigilie (Klaret а jeho druzina, Ст.-чеш., Прага)</def>
+        </sense>
+        <cit type="bibl">
+          <bibl>(Slovnfk Klementinsky, 1456 г., Ст.-чеш., Прага)</bibl>
+        </cit>
+      </item>
+    </etym>
+    <gramGrp>
+      <gram>Производное с суфф. <m type="suffix">
+          <ref>-tva</ref>
+        </m> от гл. <ref type="etymon" target="bbdeti">*bbdeti</ref> (см.).</gram>
+    </gramGrp>
+    <note>НО</note>
+  </entry>
+</entries>

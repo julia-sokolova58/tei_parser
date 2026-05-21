@@ -1,0 +1,130 @@
+<Entry xml:id="ganati-2">
+  <pb n="100" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*gan'ati</orth>
+    <lemma>gan'ati</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="srp">сербохорв. <ref>gdnati</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гонять, преследовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(с XVIII в., RJA III, 103)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="slv">словен. <ref>gdnjati</ref> = goniti</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Plet. I, 207)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ces">чеш. <ref>hdneti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, носиться туда-сюда , елвц. gdnaf sa с тру­ дом идти, тащиться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Kott I, 410)</bibl>
+      </cit>
+      <cit type="bibl">
+        <bibl>(SSJ I, 427)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="dsb">н.-луж. <ref>ganau</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, (диал.) шуметь</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Muka St. I, 240)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="pol">польск. <ref>ganiac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, гоняться, гнаться, преследовать, гнать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Dorosz. II, 1037—1038)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="svc">словин. <ref>gqnac</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>бегать, гоняться</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Lorentz Slovinz. Wb. I, 264)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus" type="old">др.-русск. <ref>ганхшисхй</ref>
+        </orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Тогда же ганяшася оканьнии безбожници отъ Торжку Серег4рьскымь путемь. Новг. I л. под 1238 г., Срезневский I, 509—510)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="rus">русск. <ref>гонять</ref> (с перестройкой вокализма)</orth>
+      </form>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="ukr">укр. <ref>ганяти</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гонять, понуждать к ходу, гонять, преследовать, травить, много бегать в хлопотах, суетиться, гоняться, добиваться, искать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(Грин­ ченко I, 271)</bibl>
+      </cit>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="bel">блр. <ref>ганяцъ</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гонять. — Ср. сюда же гл. на -Ш</def>
+      </sense>
+    </item>
+    <item>
+      <form>
+        <orth xml:lang="srp" type="old">сербохорв. стар. , редк. <ref>ganiti</ref>
+        </orth>
+      </form>
+      <sense>
+        <def>гнать; преследовать</def>
+      </sense>
+      <cit type="bibl">
+        <bibl>(XVI в., один раз, RJA III, 99: «возм., вследствие опечатки»; но ср. производ­ ное имя ganite] м. p. conaj koji gane\ там же)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <gramGrp>
+    <gram>Итератив от<ref type="etymon" target="goniti">*goniti</ref> (см.).</gram>
+  </gramGrp>
+</Entry>

@@ -1,0 +1,21 @@
+<Entry xml:id="dobromir">
+  <pb n="43" />
+  <form type="reconstructed" xml:lang="ocs">
+    <orth>*dobromirъ</orth>
+    <lemma>dobromirъ</lemma>
+  </form>
+  <etym type="cognates">
+    <item>
+      <form>
+        <orth xml:lang="bul">болг. <ref>Добромйр</ref> м. р., личное имя собств. , сюда же</orth>
+      </form>
+      <cit type="bibl">
+        <bibl>(Ётрополски манастир, 1648 г., Ст. Илчев. Речник на личните и фамилии имена у българите, 175)</bibl>
+      </cit>
+    </item>
+  </etym>
+  <note>Добромйрка, назва­ ние села (Н. П. Ковачев. Местните названия от Севлиевско. София, 1961, 175), сербохорв. стар. Dbbromlr м. р. (с XI в., RJA И, 526), ст.-польск. Dobromir м. р., личное имя собств. (XI в., «SJtownik starozytnosci stowianskich» I, 2, 352).</note>
+  <gramGrp>
+    <gram>Сложение<ref type="etymon" target="dobrb-9">*dobrb</ref> (см.) и */шгъ (см.).</gram>
+  </gramGrp>
+</Entry>
