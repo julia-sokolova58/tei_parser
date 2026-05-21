@@ -14,7 +14,7 @@
 python extract_text_gui.py
 ```
 
-### 2. Парсинг в XML
+### 2. Парсинг в TEI Lex-0
 
 ```
 python main.py
